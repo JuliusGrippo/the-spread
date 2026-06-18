@@ -1,0 +1,39 @@
+name: Daily 9:30 AM System Rebuild
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Wakes up automatically at 12:00 UTC (8:00 AM EST)
+  workflow_dispatch: # Allows us to manually trigger the AI rebuild with a button
+
+permissions:
+  contents: write # Gives the robot permission to save the new data to your repository
+
+jobs:
+  rebuild_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+
+      - name: Spin up Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Engine Dependencies
+        run: pip install requests google-generativeai
+
+      - name: Run Gemini 2M Token Pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          # This command will trigger the Python brain we are going to write next
+          python scripts/fetcher.py 
+
+      - name: Save & Deploy New Data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "The Spread AI Engine"
+          git add .
+          git commit -m "Daily 9:30 AM System Rebuild [skip ci]" || echo "No new cases to report"
+          git push
