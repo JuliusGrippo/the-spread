@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Spread | Live Intelligence Terminal</title>
 
+<!-- Stable Core Frameworks -->
 <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone@7.23.6/babel.min.js"></script>
 <script src="https://cdn.tailwindcss.com"></script>
-<script src="https://unpkg.com/lucide@latest"></script>
 
 <style>
   :root {
@@ -126,6 +126,28 @@
 <script type="text/babel">
   const { useState, useEffect, useMemo } = React;
 
+  // Stable Core Icons built as native inline react components
+  const DashboardIcon = () => (
+    <svg className="inline mr-2" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="7" height="9" x="3" y="3" rx="1"/><rect width="7" height="5" x="14" y="3" rx="1"/><rect width="7" height="9" x="14" y="11" rx="1"/><rect width="7" height="5" x="3" y="16" rx="1"/></svg>
+  );
+  const CommitIcon = () => (
+    <svg className="inline mr-1" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="3"/><line x1="3" x1="9" y1="12" y2="12"/><line x1="15" x1="21" y1="12" y2="12"/></svg>
+  );
+  const SearchIcon = () => (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+  );
+  const ModeIcon = ({ theme }) => (
+    theme === 'dark' ? 
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg> :
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+  );
+  const LoadingIcon = () => (
+    <svg className="loader-spinner" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12a9 9 0 1 1-6.219-8.56"/></svg>
+  );
+  const CrashIcon = () => (
+    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M14.5 2Values"/><rect width="20" height="14" x="2" y="3" rx="2"/><path d="M12 17v4"/><path d="M8 21h8"/></svg>
+  );
+
   const StoryCard = ({ story }) => {
     const [hovered, setHovered] = useState(null);
     return (
@@ -139,7 +161,7 @@
           <p className="snippet">{story.summary}</p>
           
           <div className="kg-anchor-box">
-            <div className="kg-anchor-title"><i data-lucide="git-commit" style={{width:12, height:12}}></i> Extracted Anchors</div>
+            <div className="kg-anchor-title"><CommitIcon /> Extracted Anchors</div>
             <div className="tags">
               {(story.graph || []).map(t => <span key={t} className="tagpill">{t}</span>)}
             </div>
@@ -174,9 +196,7 @@
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => { document.documentElement.setAttribute('data-theme', theme); }, [theme]);
-    useEffect(() => { lucide.createIcons(); });
 
-    // The Brain Connection: Fetching the live Gemini output from GitHub servers
     useEffect(() => {
       const fetchLiveIntelligence = async () => {
         try {
@@ -185,5 +205,106 @@
           const liveData = await res.json();
           setDataStore(liveData);
         } catch (err) {
-          console.error(err);
-        } finally
+          console.error("Database connection failure:", err);
+        } finally {
+          setIsLoading(false);
+        }
+      };
+      fetchLiveIntelligence();
+    }, []);
+
+    const storiesToShow = useMemo(() => {
+      if (!dataStore) return [];
+      if (activeView === 'briefing') {
+        return [
+          ...(dataStore.federalism?.[0] ? [dataStore.federalism[0]] : []),
+          ...(dataStore.charter?.[0] ? [dataStore.charter[0]] : []),
+          ...(dataStore.indigenous?.[0] ? [dataStore.indigenous[0]] : []),
+          ...(dataStore.criminal?.[0] ? [dataStore.criminal[0]] : []),
+          ...(dataStore.immigration?.[0] ? [dataStore.immigration[0]] : [])
+        ];
+      }
+      return dataStore[activeView] || [];
+    }, [activeView, dataStore]);
+
+    const getCount = (cat) => dataStore?.[cat]?.length || 0;
+
+    return (
+      <div className="desktop-layout">
+        <nav className="sidebar">
+          <div className="wordmark"><span className="tick"></span>The Spread</div>
+          <div className="nav-group">
+            <div className="nav-label">Live Feeds</div>
+            <button className={`nav-item ${activeView === 'briefing' ? 'active' : ''}`} onClick={() => setActiveView('briefing')}>
+              <span><DashboardIcon />Daily Briefing</span>
+            </button>
+            <button className={`nav-item ${activeView === 'federalism' ? 'active' : ''}`} onClick={() => setActiveView('federalism')}>
+              <span>Federalism</span>{dataStore && <span className="nav-count">{getCount('federalism')}</span>}
+            </button>
+            <button className={`nav-item ${activeView === 'charter' ? 'active' : ''}`} onClick={() => setActiveView('charter')}>
+              <span>Charter</span>{dataStore && <span className="nav-count">{getCount('charter')}</span>}
+            </button>
+            <button className={`nav-item ${activeView === 'indigenous' ? 'active' : ''}`} onClick={() => setActiveView('indigenous')}>
+              <span>Indigenous-State</span>{dataStore && <span className="nav-count">{getCount('indigenous')}</span>}
+            </button>
+            <button className={`nav-item ${activeView === 'criminal' ? 'active' : ''}`} onClick={() => setActiveView('criminal')}>
+              <span>Criminal Law</span>{dataStore && <span className="nav-count">{getCount('criminal')}</span>}
+            </button>
+            <button className={`nav-item ${activeView === 'immigration' ? 'active' : ''}`} onClick={() => setActiveView('immigration')}>
+              <span>Immigration</span>{dataStore && <span className="nav-count">{getCount('immigration')}</span>}
+            </button>
+          </div>
+        </nav>
+
+        <div className="main-stage">
+          <header className="topbar">
+            <div className="search-bar">
+              <SearchIcon />
+              <input type="text" placeholder="Global search disabled during triage..." disabled />
+            </div>
+            <div className="topbar-actions">
+              <button className="btn-icon" onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}>
+                <ModeIcon theme={theme} />
+              </button>
+            </div>
+          </header>
+
+          <div className="scroll-area">
+            {isLoading ? (
+              <div className="loader-container">
+                <LoadingIcon />
+                <p>Establishing secure connection to live intelligence database...</p>
+              </div>
+            ) : !dataStore ? (
+              <div className="loader-container">
+                <CrashIcon />
+                <p>Waiting for the 8:00 AM Gemini build to finish generating database.json...</p>
+              </div>
+            ) : (
+              <div>
+                {activeView === 'briefing' && (
+                  <div className="mb-8 full-width-hero">
+                    <h1 className="text-3xl font-extrabold tracking-tight mb-1">The Daily Briefing</h1>
+                    <p className="text-xs font-mono opacity-50 uppercase tracking-wider">Apex dossiers synthesized directly by Gemini 2.5 Flash</p>
+                  </div>
+                )}
+                <div className="grid-terminal">
+                  {storiesToShow.length > 0 ? storiesToShow.map(story => (
+                    <StoryCard key={story.id || Math.random()} story={story} />
+                  )) : (
+                    <div className="col-span-full text-center opacity-50 mt-10 font-mono text-sm">No critical structural updates detected in this domain over the last 24 hours.</div>
+                  )}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  const root = ReactDOM.createRoot(document.getElementById('root'));
+  root.render(<App />);
+</script>
+</body>
+</html>
