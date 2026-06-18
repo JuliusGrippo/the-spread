@@ -3,9 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Spread | Public Law Intelligence Terminal</title>
+<title>The Spread | Live Intelligence Terminal</title>
 
-<!-- Cloud CDNs -->
 <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone@7.23.6/babel.min.js"></script>
@@ -14,29 +13,18 @@
 
 <style>
   :root {
-    --canvas: #EEF0F3;
-    --canvas-alt: #E5E7EB;
-    --ink: #14151A;
-    --ink-soft: #5A5C66;
-    --ink-faint: #8A8C95;
+    --canvas: #EEF0F3; --canvas-alt: #E5E7EB;
+    --ink: #14151A; --ink-soft: #5A5C66; --ink-faint: #8A8C95;
     --hairline: rgba(20,21,26,0.09);
     
-    /* Liquid Glass Constants */
-    --glass-bg: rgba(255,255,255,0.55);
-    --glass-bg-strong: rgba(255,255,255,0.74);
-    --glass-border: rgba(255,255,255,0.7);
-    --glass-shadow: rgba(20,21,26,0.08);
+    --glass-bg: rgba(255,255,255,0.55); --glass-bg-strong: rgba(255,255,255,0.74);
+    --glass-border: rgba(255,255,255,0.7); --glass-shadow: rgba(20,21,26,0.08);
     
-    --brass: #A9824C;
-    --brass-soft: rgba(169,130,76,0.14);
+    --brass: #A9824C; --brass-soft: rgba(169,130,76,0.14);
     
-    /* Ideological Alignment Spectra */
-    --lean-left: #2F62D6;
-    --lean-left-bg: rgba(47,98,214,0.09);
-    --lean-center: #756AA0;
-    --lean-center-bg: rgba(117,106,160,0.09);
-    --lean-right: #B3473A;
-    --lean-right-bg: rgba(179,71,58,0.09);
+    --lean-left: #2F62D6; --lean-left-bg: rgba(47,98,214,0.09);
+    --lean-center: #756AA0; --lean-center-bg: rgba(117,106,160,0.09);
+    --lean-right: #B3473A; --lean-right-bg: rgba(179,71,58,0.09);
     
     --font-display: -apple-system, "SF Pro Display", "Helvetica Neue", system-ui, sans-serif;
     --font-body: -apple-system, "SF Pro Text", system-ui, sans-serif;
@@ -44,172 +32,88 @@
   }
 
   [data-theme="dark"] {
-    --canvas: #000000;
-    --canvas-alt: #0A0A0C;
-    --ink: #F2F2F4;
-    --ink-soft: #A0A2AC;
-    --ink-faint: #6E707A;
+    --canvas: #000000; --canvas-alt: #0A0A0C;
+    --ink: #F2F2F4; --ink-soft: #A0A2AC; --ink-faint: #6E707A;
     --hairline: rgba(255,255,255,0.10);
     
-    --glass-bg: rgba(30,30,34,0.55);
-    --glass-bg-strong: rgba(34,34,38,0.76);
-    --glass-border: rgba(255,255,255,0.09);
-    --glass-shadow: rgba(0,0,0,0.55);
+    --glass-bg: rgba(30,30,34,0.55); --glass-bg-strong: rgba(34,34,38,0.76);
+    --glass-border: rgba(255,255,255,0.09); --glass-shadow: rgba(0,0,0,0.55);
     
-    --brass: #CDA66E;
-    --brass-soft: rgba(205,166,110,0.16);
+    --brass: #CDA66E; --brass-soft: rgba(205,166,110,0.16);
     --lean-left: #6892F2; --lean-left-bg: rgba(104,146,242,0.14);
     --lean-center: #A498D0; --lean-center-bg: rgba(164,152,208,0.14);
     --lean-right: #D6837A; --lean-right-bg: rgba(214,131,122,0.14);
   }
 
   * { box-sizing: border-box; }
-  html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
-  body { 
-    background: var(--canvas); 
-    font-family: var(--font-body); 
-    color: var(--ink); 
-    -webkit-font-smoothing: antialiased; 
-    transition: background 0.3s ease, color 0.3s ease;
-  }
+  html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; background: var(--canvas); font-family: var(--font-body); color: var(--ink); transition: background 0.3s ease, color 0.3s ease; }
 
-  .desktop-layout {
-    display: grid;
-    grid-template-columns: 280px 1fr;
-    height: 100vh;
-  }
+  .desktop-layout { display: grid; grid-template-columns: 280px 1fr; height: 100vh; }
 
-  /* macOS-Style Navigation Sidebar */
-  .sidebar {
-    background: var(--glass-bg-strong);
-    backdrop-filter: blur(32px) saturate(200%);
-    -webkit-backdrop-filter: blur(32px) saturate(200%);
-    border-right: 1px solid var(--hairline);
-    display: flex; flex-direction: column;
-    padding: 24px 16px;
-    z-index: 50;
-  }
-  
+  .sidebar { background: var(--glass-bg-strong); backdrop-filter: blur(32px) saturate(200%); -webkit-backdrop-filter: blur(32px) saturate(200%); border-right: 1px solid var(--hairline); display: flex; flex-direction: column; padding: 24px 16px; z-index: 50; }
   .wordmark { font-family: var(--font-display); font-weight: 800; font-size: 24px; letter-spacing: -0.5px; display: flex; align-items: center; gap: 8px; margin-bottom: 32px; padding-left: 8px; }
   .wordmark .tick { width: 12px; height: 3px; background: var(--brass); border-radius: 2px; }
-
   .nav-group { margin-bottom: 28px; }
   .nav-label { font-size: 11px; font-weight: 700; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 10px; padding-left: 12px; }
-  
-  .nav-item {
-    display: flex; align-items: center; justify-content: space-between; width: 100%;
-    appearance: none; border: none; background: transparent;
-    color: var(--ink-soft); font-size: 13.5px; font-weight: 500; font-family: var(--font-body);
-    padding: 8px 12px; border-radius: 8px; cursor: pointer; text-align: left;
-    transition: all 0.15s; margin-bottom: 2px;
-  }
+  .nav-item { display: flex; align-items: center; justify-content: space-between; width: 100%; appearance: none; border: none; background: transparent; color: var(--ink-soft); font-size: 13.5px; font-weight: 500; padding: 8px 12px; border-radius: 8px; cursor: pointer; text-align: left; transition: all 0.15s; margin-bottom: 2px; }
   .nav-item:hover { background: var(--hairline); color: var(--ink); }
   .nav-item.active { background: var(--glass-bg); border: 1px solid var(--glass-border); color: var(--ink); box-shadow: 0 4px 12px var(--glass-shadow); font-weight: 600; }
-  .nav-count { font-size: 11px; font-mono; opacity: 0.5; background: var(--hairline); padding: 2px 6px; border-radius: 6px; }
+  .nav-count { font-size: 11px; font-family: monospace; opacity: 0.5; background: var(--hairline); padding: 2px 6px; border-radius: 6px; }
 
-  /* Main Viewport Window */
   .main-stage { display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
-
-  .topbar {
-    height: 64px; padding: 0 40px;
-    display: flex; align-items: center; justify-content: space-between;
-    border-bottom: 1px solid var(--hairline);
-    background: var(--canvas); z-index: 40;
-  }
-
-  .search-bar {
-    display: flex; align-items: center; gap: 10px;
-    background: var(--glass-bg); border: 1px solid var(--glass-border);
-    padding: 6px 16px; border-radius: 100px; width: 420px;
-  }
-  .search-bar input { border: none; background: transparent; outline: none; color: var(--ink); font-family: var(--font-body); font-size: 13.5px; width: 100%; }
-
+  .topbar { height: 64px; padding: 0 40px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--hairline); background: var(--canvas); z-index: 40; }
+  .search-bar { display: flex; align-items: center; gap: 10px; background: var(--glass-bg); border: 1px solid var(--glass-border); padding: 6px 16px; border-radius: 100px; width: 420px; }
+  .search-bar input { border: none; background: transparent; outline: none; color: var(--ink); font-size: 13.5px; width: 100%; }
   .topbar-actions { display: flex; align-items: center; gap: 12px; }
-  .btn-icon { appearance: none; border: 1px solid var(--hairline); background: var(--glass-bg); color: var(--ink); padding: 8px; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s; }
-  .btn-icon:hover { background: var(--hairline); }
+  .btn-icon { appearance: none; border: 1px solid var(--hairline); background: var(--glass-bg); color: var(--ink); padding: 8px; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; }
   
-  .action-btn { appearance: none; background: transparent; border: 1px solid var(--hairline); color: var(--ink-soft); padding: 6px 14px; border-radius: 100px; cursor: pointer; display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; }
-  .action-btn:hover { background: var(--glass-bg-strong); color: var(--ink); }
-  .action-btn.archived { color: var(--brass); border-color: var(--brass-soft); background: var(--brass-soft); }
-
   .scroll-area { flex: 1; overflow-y: auto; padding: 40px 40px 120px; }
-
-  /* Liquid Glass Layout Nodes */
+  
   .glass-card { position: relative; border-radius: 20px; margin-bottom: 24px; z-index: 1; display: flex; flex-direction: column; background: transparent; }
   .glass-layers { position: absolute; inset: 0; border-radius: 20px; overflow: hidden; box-shadow: 0 12px 32px var(--glass-shadow); z-index: -1; }
   .glass-filter { position: absolute; inset: 0; background: var(--glass-bg); backdrop-filter: blur(24px) saturate(180%); -webkit-backdrop-filter: blur(24px) saturate(180%); }
   .glass-overlay { position: absolute; inset: -50px; background: radial-gradient(circle at 0% 0%, rgba(255,255,255,0.3) 0%, transparent 60%); filter: url(#glass-distortion); opacity: 0.25; pointer-events: none; mix-blend-mode: overlay; }
   .glass-specular { position: absolute; inset: 0; border: 1px solid var(--glass-border); border-radius: 20px; box-shadow: inset 0 1px 1px rgba(255,255,255,0.3); pointer-events: none; }
-  .glass-card.docket .glass-specular { border-left: 4px solid var(--brass); }
-  
   .glass-content { position: relative; padding: 26px; z-index: 2; flex: 1; display: flex; flex-direction: column; }
 
-  /* Typography Structure */
   .eyebrow-tag { font-family: var(--font-display); font-weight: 700; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--brass); margin-bottom: 8px; display: block; }
   .headline { font-family: var(--font-display); font-weight: 700; font-size: 19px; line-height: 1.28; letter-spacing: -0.2px; margin: 0 0 8px; color: var(--ink); }
   .snippet { font-size: 14px; line-height: 1.5; color: var(--ink-soft); margin: 0 0 14px; }
-  .byline { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--ink-faint); margin-bottom: 14px; font-family: var(--font-display); font-weight: 500; }
-  .byline .dot { width: 6px; height: 6px; border-radius: 50%; }
+  .byline { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--ink-faint); margin-bottom: 14px; font-weight: 500; }
 
-  /* Grid Layout Implementations */
   .grid-terminal { display: grid; grid-template-columns: repeat(auto-fill, minmax(500px, 1fr)); gap: 24px; }
   .full-width-hero { grid-column: 1 / -1; }
 
-  /* Custom Mockup Interaction State Drivers */
   .bias-hit-area { padding: 10px 0; margin: -6px 0 2px 0; cursor: crosshair; }
   .biasbar { display: flex; height: 8px; border-radius: 6px; overflow: hidden; border: 1px solid var(--hairline); }
   .biasbar span { display: block; height: 100%; transition: filter 0.25s ease, transform 0.2s ease; }
   .bias-hit-area:hover .biasbar span { filter: grayscale(0.4) opacity(0.5); }
   .bias-hit-area:hover .biasbar span.active { filter: grayscale(0) opacity(1) brightness(1.05); transform: scaleY(1.25); }
-
-  .seg-left { background: var(--lean-left); }
-  .seg-center { background: var(--lean-center); }
-  .seg-right { background: var(--lean-right); }
+  .seg-left { background: var(--lean-left); } .seg-center { background: var(--lean-center); } .seg-right { background: var(--lean-right); }
 
   .leanwrap { display: flex; flex-direction: column; }
   .leanrow { border-radius: 12px; font-size: 13px; line-height: 1.55; max-height: 0; opacity: 0; overflow: hidden; padding: 0 14px; margin-bottom: 0; transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1); }
   .leanrow.expanded { max-height: 280px; opacity: 1; padding: 14px; margin-bottom: 8px; margin-top: 10px; }
-  
   .leanrow .tag { font-family: var(--font-display); font-weight: 700; font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 6px; display: block; }
   .leanrow.l { background: var(--lean-left-bg); border-left: 3px solid var(--lean-left); } .leanrow.l .tag { color: var(--lean-left); }
   .leanrow.c { background: var(--lean-center-bg); border-left: 3px solid var(--lean-center); } .leanrow.c .tag { color: var(--lean-center); }
   .leanrow.r { background: var(--lean-right-bg); border-left: 3px solid var(--lean-right); } .leanrow.r .tag { color: var(--lean-right); }
-  .leanrow a { color: var(--ink); font-weight: 600; text-decoration: none; border-bottom: 1px solid var(--hairline); }
 
   .neutral { border-top: 1px solid var(--hairline); padding-top: 12px; margin-top: 10px; font-family: var(--font-serif); font-style: italic; font-size: 13.5px; color: var(--ink-soft); line-height: 1.5; }
   .neutral b { font-style: normal; color: var(--ink); font-weight: 600; }
 
-  /* Knowledge Graph Design Layout */
   .kg-anchor-box { margin-top: 14px; padding-top: 12px; border-top: 1px dashed var(--hairline); }
   .kg-anchor-title { font-family: var(--font-display); font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-faint); margin-bottom: 6px; display: flex; align-items: center; gap: 4px; }
   .tags { display: flex; flex-wrap: wrap; gap: 6px; }
-  .tagpill { font-size: 11px; padding: 3px 10px; border: 1px solid var(--hairline); border-radius: 100px; color: var(--ink-soft); background: var(--glass-bg-strong); font-weight: 500; transition: all 0.2s; cursor: pointer; }
-  .tagpill:hover { border-color: var(--brass); color: var(--ink); }
+  .tagpill { font-size: 11px; padding: 3px 10px; border: 1px solid var(--hairline); border-radius: 100px; color: var(--ink-soft); background: var(--glass-bg-strong); font-weight: 500; }
 
-  .card-actions { display: flex; justify-content: flex-end; margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--hairline); }
-  .cta-link { display: inline-flex; align-items: center; gap: 4px; font-family: var(--font-display); font-weight: 600; font-size: 12.5px; color: var(--ink); text-decoration: none; background: var(--glass-bg-strong); border: 1px solid var(--glass-border); padding: 6px 14px; border-radius: 100px; }
-
-  /* Semantic Architecture Mapping Canvas */
-  .semantic-list { list-style: none; padding: 0; margin: 0; }
-  .semantic-list li { display: flex; align-items: flex-start; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--hairline); }
-  .semantic-list li:last-child { border-bottom: none; }
-  .semantic-list .node-type { font-family: var(--font-display); font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: var(--brass); padding: 3px 8px; border-radius: 4px; background: var(--brass-soft); white-space: nowrap; min-width: 120px; text-align: center; }
-  .semantic-list .node-desc { font-size: 13.5px; color: var(--ink); line-height: 1.5; }
-  .semantic-list .node-desc b { font-weight: 600; color: var(--ink); }
-
-  /* Cloud Execution Terminal Panels */
-  .ai-console { background: #0A0A0C; color: #E5E7EB; border-radius: 14px; padding: 20px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, monospace; font-size: 12px; line-height: 1.6; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 20px 40px rgba(0,0,0,0.5); }
-  .ai-console .log-time { color: var(--ink-faint); margin-right: 8px; }
-  .ai-console .log-action { color: var(--lean-left); font-weight: 600; }
-  .ai-console .log-success { color: #34C759; font-weight: 600; }
-  .blueprint-text { font-family: ui-monospace, monospace; font-size: 12px; color: var(--ink-soft); line-height: 1.5; white-space: pre-wrap; background: var(--canvas-alt); padding: 16px; border-radius: 12px; border: 1px solid var(--hairline); }
-
-  .doc-section-title { font-family: var(--font-display); font-weight: 700; font-size: 14px; uppercase; letter-spacing: 0.05em; color: var(--brass); margin: 24px 0 12px; border-bottom: 1px solid var(--hairline); padding-bottom: 4px; }
+  .loader-container { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 60vh; gap: 16px; color: var(--ink-faint); font-family: monospace; font-size: 14px; }
+  .loader-spinner { animation: spin 1s linear infinite; }
+  @keyframes spin { 100% { transform: rotate(360deg); } }
 </style>
 </head>
 <body>
 
-<!-- Liquid Glass Specular Deformation Coordinates -->
 <svg style="display: none">
   <filter id="glass-distortion">
     <feTurbulence type="turbulence" baseFrequency="0.006" numOctaves="2" result="noise" />
@@ -222,548 +126,42 @@
 <script type="text/babel">
   const { useState, useEffect, useMemo } = React;
 
-  // --- COMPREHENSIVE PRODUCTION DATA MATRIX: GATHERED 9:30 AM JUNE 18, 2026 ---
-  const DATA_STORE = {
-    federalism: [
-      {
-        id: 'fed-1', category: 'Canadian Federalism', source: 'Supreme Court of Canada',
-        title: 'Reference re Impact Assessment Act (Post-Amendments Challenge)',
-        citation: '2026 SCC 22 · Decided June 18, 2026',
-        summary: 'In a 6-3 holding, the Supreme Court rules that Parliament’s revised environmental assessment scheme successfully excises the constitutional overreach identified in the 2023 reference. The majority rules the new framework strictly anchors federal intervention to defined areas of federal jurisdiction (fisheries, migratory birds, Indigenous lands), rejecting Alberta’s argument that the law still covertly regulates provincial natural resources.',
-        graph: ['Division of Powers', 's. 91/92', 'Impact Assessment', 'Environment Head of Power'],
-        spectrum: {
-          baseline: { left: 60, center: 25, right: 15 },
-          zones: {
-            left: { label: "Living Tree Cooperative Model (60%)", synthesis: "Applauds the holding for cementing a modern, coordinated approach to interjurisdictional resource oversight, verifying that environmental crises demand structural cooperative mechanisms." },
-            center: { label: "Strict Procedural Review (25%)", synthesis: "Focuses entirely on how the amendments successfully narrow the definition of 'effects within federal jurisdiction' to pass constitutional muster." },
-            right: { label: "Provincial Autonomy / Decentralist (15%)", synthesis: "Critiques the holding as a retreat from structural federalism, warning it gives Ottawa a legal blueprint to limit provincial economic growth through minor text adjustments." }
-          },
-          neutral: "The Court affirms that the amended environmental assessment framework operates intra vires federal jurisdiction, separating targeted oversight of federal impacts from the regulation of provincial undertakings."
-        }
-      },
-      {
-        id: 'fed-2', category: 'Canadian Federalism', source: 'Government of Alberta Press Release',
-        title: 'Alberta invokes Sovereignty Act over Federal Clean Electricity Regulations',
-        citation: 'AB-2026-M41 · Filed June 17, 2026',
-        summary: 'The Premier introduces a resolution under the Alberta Sovereignty within a United Canada Act, directing provincial agencies, crown corporations, and private utilities to ignore the federal net-zero electricity grid mandates. The resolution sets up a direct division-of-powers showdown over section 92A.',
-        graph: ['Alberta Sovereignty Act', 'Section 92A', 'Interjurisdictional Immunity'],
-        spectrum: {
-          baseline: { left: 10, center: 40, right: 50 },
-          zones: {
-            left: { label: "Constitutional Core Review (10%)", synthesis: "Condemns the motion as lawless posturing that threatens the basic structure of the Canadian constitutional order." },
-            center: { label: "Economic / Legal Realism (40%)", synthesis: "Lays out the corporate impacts, noting utilities are caught between conflicting federal statutory commands and provincial enforcement threats." },
-            right: { label: "Jurisdictional Protectionism (50%)", synthesis: "Frames the response as a valid defensive shield under s.92A against an ideological federal attempt to eliminate the province’s baseload power generation." }
-          },
-          neutral: "The executive motion directs provincial bodies to refuse operational compliance with federal electricity mandates, asserting exclusive jurisdiction over electricity assets under section 92A."
-        }
-      },
-      {
-        id: 'fed-3', category: 'Canadian Federalism', source: 'National Assembly of Quebec',
-        title: 'Quebec launches Constitutional Reference on Language Law Interjurisdictional Immunity',
-        citation: '2026 QCCA 402 · Docket Initiated June 16, 2026',
-        summary: 'The Government of Quebec submits a reference question to the Quebec Court of Appeal, seeking to establish that provincial language rules comprehensively bind federally regulated entities, including banks and telecommunications firms, operating within the province.',
-        graph: ['Bill 96', 'Interjurisdictional Immunity', 'Quebec Autonomy'],
-        spectrum: {
-          baseline: { left: 30, center: 50, right: 20 },
-          zones: {
-            left: { label: "Cultural Preservation Model (30%)", synthesis: "Asserts that language rights are inherently territorial and must bind all corporate entities within Quebec borders to prevent structural erosion." },
-            center: { label: "Asymmetrical Federalism Review (50%)", synthesis: "Analyzes the tension between federal core jurisdiction over banking/telecoms and Quebec’s distinct historical claims." },
-            right: { label: "Federal Paramountcy Position (20%)", synthesis: "Argues that allowing a province to dictate operational language mandates to federal undertakings fragments the national economy." }
-          },
-          neutral: "The reference asks whether the doctrine of interjurisdictional immunity isolates federal undertakings from provincial linguistic requirements."
-        }
-      },
-      {
-        id: 'fed-4', category: 'Canadian Federalism', source: 'Academic Paper (SSRN)',
-        title: 'The Spending Power Loophole: Conditional National Pharmacare and Fiscal Coercion',
-        citation: '31 Can. Pub. Law J. 114 · Published June 15, 2026',
-        summary: 'A comprehensive study evaluates the federal government’s use of targeted fiscal matching grants to build the national pharmacare framework, arguing the conditional strings amount to de facto regulation of health insurance—a core provincial power under s.92(7).',
-        graph: ['Federal Spending Power', 'Section 92(7)', 'Fiscal Federalism'],
-        spectrum: {
-          baseline: { left: 40, center: 45, right: 15 },
-          zones: {
-            left: { label: "Social Equivalence Model (40%)", synthesis: "Defends the spending power as the ultimate tool for national standard-setting, correcting provincial service imbalances." },
-            center: { label: "Functional Analysis (45%)", synthesis: "Examines the fiscal reliance metrics, concluding that provinces cannot financially afford to opt out of federal funding schemes." },
-            right: { label: "Autonomy Defense Framework (15%)", synthesis: "Labels the practice as predatory fiscal federalism that starves provinces of baseline cash to force conformity with federal social policies." }
-          },
-          neutral: "The text dissects how conditional cash transfers shape provincial health delivery models without technically passing direct regulatory legislation."
-        }
-      },
-      {
-        id: 'fed-5', category: 'Canadian Federalism', source: 'Federal Court of Appeal',
-        title: 'Saskatchewan v. Canada (Natural Gas Border Carbon Tax Exemption)',
-        citation: '2026 FCA 92 · Decided June 14, 2026',
-        summary: 'The Federal Court of Appeal rules that Ottawa cannot selectively collect the carbon tax on natural gas home heating from some provinces while granting executive exemptions to others. The court finds the execution breached structural fairness requirements implicit in federal taxation powers.',
-        graph: ['Uniform Taxation Principle', 's. 91(3)', 'Executive Discretion'],
-        spectrum: {
-          baseline: { left: 20, center: 50, right: 30 },
-          zones: {
-            left: { label: "Executive Prerogative Review (20%)", synthesis: "Defends the exemption as a valid regional economic adjustor within broad cabinet regulatory discretion." },
-            center: { label: "Structural Equivalence (50%)", synthesis: "Focuses on the geographic neutrality requirement of federal tax laws, finding executive carve-outs damage system legitimacy." },
-            right: { label: "Regional Equity Framework (30%)", synthesis: "Hails the decision for striking down cynical political carve-outs that explicitly penalized western taxpayers." }
-          },
-          neutral: "The Court holds that administrative exemptions within federal environmental taxation schemes must maintain geographical and constitutional neutrality across all provinces."
-        }
-      }
-    ],
-    charter: [
-      {
-        id: 'charter-1', category: 'Charter', source: 'Media Cluster',
-        title: 'Ontario passes Electoral Boundaries Restructuring Act under s. 33 Protection',
-        citation: 'Legislative Assembly of Ontario · June 18, 2026',
-        summary: 'The Government of Ontario invokes the notwithstanding clause to shield an immediate rewrite of municipal and provincial ridings from judicial scrutiny under sections 2(b) and 3. The move preempts an upcoming Superior Court challenge alleging gerrymandering.',
-        graph: ['Section 33', 'Section 3', 'Democratic Expression', 'Pre-emptive Override'],
-        spectrum: {
-          baseline: { left: 55, center: 30, right: 15 },
-          zones: {
-            left: { label: "Constitutional Safeguard Model (55%)", synthesis: "Denounces pre-emptive invocation as an aggressive normalization of an exceptional power, eroding the courts' role as rights protectors." },
-            center: { label: "Legislative Realism (30%)", synthesis: "Focuses strictly on the five-year expiry pattern and the legal isolation of democratic rights under the text of section 33." },
-            right: { label: "Democratic Supremacy (15%)", synthesis: "Defends the bill as a legitimate exercise of legislative power to organize political maps without protracted litigation delays." }
-          },
-          neutral: "The statute invokes section 33 of the Charter to insulate electoral map revisions from judicial invalidation under designated provisions for a rolling five-year term."
-        }
-      },
-      {
-        id: 'charter-2', category: 'Charter', source: 'BC Superior Court',
-        title: 'Algorithmic Profiling in Police Surveillance Declared s. 7 & s. 15 Violation',
-        citation: '2026 BCSC 890 · Decided June 17, 2026',
-        summary: 'The court strikes down a major city’s predictive policing software deployment, finding the data models inherently reinforce historic discrimination against minority communities, violating section 15 equality guarantees and section 7 liberty rights.',
-        graph: ['Section 15', 'Section 7', 'Predictive AI', 'Systemic Evidence'],
-        spectrum: {
-          baseline: { left: 50, center: 40, right: 10 },
-          zones: {
-            left: { label: "Systemic Accountability (50%)", synthesis: "Celebrates the decision for establishing an essential constitutional shield against automated, systemic racial bias masked as objective technology." },
-            center: { label: "Evidentiary Review Framework (40%)", synthesis: "Examines the technical source data, focusing on how predictive software loops historical human bias back into current policing models." },
-            right: { label: "Public Security Deference (10%)", synthesis: "Regrets that strict evidentiary standards on algorithms could restrict law enforcement’s use of predictive data tools." }
-          },
-          neutral: "The court holds that automated predictive systems relying on biased historical policing data violate sections 7 and 15 by reinforcing systemic discrimination."
-        }
-      },
-      {
-        id: 'charter-3', category: 'Charter', source: 'BC Court of Appeal',
-        title: 'Reference re Encampment Evictions and the Absolute Right to Shelter',
-        citation: '2026 BCCA 142 · Decided June 16, 2026',
-        summary: 'The Court of Appeal refines the right to shelter doctrine, ruling that municipal evictions of outdoor encampments absent accessible, culturally safe, permanent housing alternatives constitute an arbitrary deprivation of section 7 security of the person.',
-        graph: ['Section 7', 'Right to Shelter', 'Arbitrariness', 'Positive Rights Obligations'],
-        spectrum: {
-          baseline: { left: 45, center: 35, right: 20 },
-          zones: {
-            left: { label: "Human Rights Expansionism (45%)", synthesis: "Hails the ruling for turning section 7 into a meaningful shield for economic security, requiring governments to provide housing solutions." },
-            center: { label: "Municipal Operational Focus (35%)", synthesis: "Balances local management duties with human rights, focusing on the definition of an 'accessible housing alternative.'" },
-            right: { label: "Public Space Restoration (20%)", synthesis: "Argues that expanding section 7 into a social right strips local governments of their power to protect public safety and municipal spaces." }
-          },
-          neutral: "The court determines that removing outdoor encampments when indoor municipal shelter options are unavailable violates section 7 security of the person."
-        }
-      },
-      {
-        id: 'charter-4', category: 'Charter', source: 'Department of Justice',
-        title: 'Charter Statement: Bill C-98 (Online Harms Defamation Matrix)',
-        citation: 'DoJ-CS-2026-09 · Issued June 15, 2026',
-        summary: 'The Minister of Justice tables the official Charter Statement for Bill C-98, providing the constitutional justification for new platform moderation mandates, arguing the speech restrictions are demonstrably justified under section 1.',
-        graph: ['Section 2(b)', 'Section 1 Justification', 'Oakes Test', 'Proportionality'],
-        spectrum: {
-          baseline: { left: 35, center: 40, right: 25 },
-          zones: {
-            left: { label: "Harm Reduction Position (35%)", synthesis: "Agrees that targeted restrictions on hate speech and harassment are necessary to protect vulnerable communities online." },
-            center: { label: "Proportionality Balancing (40%)", synthesis: "Carefully reviews whether the statutory language is narrowly tailored enough to avoid chilling legitimate political debate." },
-            right: { label: "Free Speech Absolutism (25%)", synthesis: "Condemns the statement as a weak attempt to justify censorship, arguing the bill creates overbroad definitions of online harm." }
-          },
-          neutral: "The executive analysis states that while the bill limits section 2(b) expression, the provisions represent a proportionate measure under section 1."
-        }
-      },
-      {
-        id: 'charter-5', category: 'Charter', source: 'Ontario Superior Court',
-        title: 'Solitary Confinement / Structured Intervention Units Class Action Settlement',
-        citation: '2026 ONSC 3910 · Decided June 14, 2026',
-        summary: 'The court approves a massive settlement framework following a successful class action establishing that Corrections Canada’s Structured Intervention Units still subject inmates to conditions that constitute cruel and unusual treatment under section 12.',
-        graph: ['Section 12', 'Cruel and Unusual', 'Prisons', 'Administrative Segregation'],
-        spectrum: {
-          baseline: { left: 60, center: 30, right: 10 },
-          zones: {
-            left: { label: "Incarceration Reform Model (60%)", synthesis: "Views the settlement as confirmation that rebranding solitary confinement under a new name cannot bypass section 12 scrutiny." },
-            center: { label: "Institutional Management (30%)", synthesis: "Focuses on the administrative changes required, tracking independent human rights oversight inside federal penitentiaries." },
-            right: { label: "Penological Deference (10%)", synthesis: "Warns that over-regulating internal segregation limits prison guards' ability to manage violent offenders safely." }
-          },
-          neutral: "The court approves damages based on findings that prolonged administrative isolation within designated correction units breaches section 12 rights."
-        }
-      }
-    ],
-    indigenous: [
-      {
-        id: 'ind-1', category: 'Indigenous-State Relations', source: 'Federal Court',
-        title: 'Assembly of First Nations v. Canada (UNDRIP Statutory Harmonization Act)',
-        citation: '2026 FC 910 · Decided June 18, 2026',
-        summary: 'The Federal Court issues an important statutory interpretation holding on the federal United Nations Declaration on the Rights of Indigenous Peoples Act. The court rules section 5 creates an enforceable, substantive obligation on the Crown to ensure all new federal laws align with free, prior, and informed consent (FPIC), elevating UNDRIP from a aspirational framework to a binding tool for judicial review of federal legislation.',
-        graph: ['UNDRIP Act s. 5', 'FPIC', 'Duty to Consult', 'Statutory Harmonization'],
-        spectrum: {
-          baseline: { left: 65, center: 20, right: 15 },
-          zones: {
-            left: { label: "Decolonization / Sovereignty (65%)", synthesis: "Hails the decision as a historic turning point, confirming that FPIC replaces the old consultation models and gives First Nations true veto power over resource projects on their territories." },
-            center: { label: "Administrative Functionalism (20%)", synthesis: "Focuses on how government agencies must restructure their legislative drafting processes to document UNDRIP alignment prior to tabling bills." },
-            right: { label: "Crown Sovereignty Deference (15%)", synthesis: "Critiques the ruling for introducing massive regulatory uncertainty into federal resource management, arguing it subverts the ultimate power of Parliament." }
-          },
-          neutral: "The court holds that the federal UNDRIP Act imposes an enforceable statutory obligation requiring the Crown to integrate free, prior, and informed consent standards into its legislative procedures."
-        }
-      },
-      {
-        id: 'ind-2', category: 'Indigenous-State Relations', source: 'Federal Court',
-        title: 'First Nations Clean Water Class Action Settlement Compliance Review',
-        citation: '2026 FC 954 · Decided June 17, 2026',
-        summary: 'The court issues an enforcement order against the Department of Indigenous Services for failing to meet the infrastructure construction deadlines set out in the historic $8 billion clean water settlement framework.',
-        graph: ['Clean Water Settlement', 'Crown Fiduciary Duty', 'Systemic Remedies'],
-        spectrum: {
-          baseline: { left: 55, center: 35, right: 10 },
-          zones: {
-            left: { label: "Restorative Justice Position (55%)", synthesis: "Condemns the government’s bureaucratic delays as a continued breach of the Crown’s foundational obligations to Indigenous communities." },
-            center: { label: "Logistical Overhaul Focus (35%)", synthesis: "Examines the engineering and supply-chain bottlenecks, tracking how the infrastructure budget is managed on remote reserves." },
-            right: { label: "Fiscal Accountability Framework (10%)", synthesis: "Stresses the need for rigorous oversight of infrastructure fund spending to guarantee long-term system maintenance." }
-          },
-          neutral: "The court mandates a modified, binding schedule to accelerate clean water infrastructure delivery under the approved class action settlement terms."
-        }
-      },
-      {
-        id: 'ind-3', category: 'Indigenous-State Relations', source: 'BC Superior Court',
-        title: 'Haida Nation Title Agreement Governance Disputes and Fee Simple Standing',
-        citation: '2026 BCSC 912 · Decided June 16, 2026',
-        summary: 'The court rejects a challenge brought by non-Indigenous property owners alleging the historic Haida Nation Aboriginal Title Agreement unconstitutionally subverts provincial jurisdiction over private land, confirming fee simple titles remain secure.',
-        graph: ['Aboriginal Title', 'Haida Nation Agreement', 'Fee Simple Intersect'],
-        spectrum: {
-          baseline: { left: 40, center: 45, right: 15 },
-          zones: {
-            left: { label: "Reconciliation Model (40%)", synthesis: "Welcomes the decision for confirming that recognizing Aboriginal title can coexist with existing non-indigenous property titles." },
-            center: { label: "Jurisprudential Synthesis (45%)", synthesis: "Analyzes the unique legal compromise that recognizes systemic crown radical title while protecting fee simple interests." },
-            right: { label: "Property Rights Defense (15%)", synthesis: "Expresses concern that shifting land title to an Indigenous government creates an uncertain, two-tiered regulatory environment for local residents." }
-          },
-          neutral: "The ruling affirms that the recognition of Haida title does not invalidate or impair fee simple property interests held by non-indigenous residents under provincial law."
-        }
-      },
-      {
-        id: 'ind-4', category: 'Indigenous-State Relations', source: 'Specific Claims Tribunal',
-        title: 'Tribunal Overhauls Crown Valuation Framework for Historical Land Theft',
-        citation: '2026 SCT 44 · Decided June 15, 2026',
-        summary: 'The Specific Claims Tribunal issues a major decision recalculating historical land valuations, holding that compensation formulas must account for the full opportunity cost of resource extraction lost over a century.',
-        graph: ['Specific Claims', 'Historical Compensation', 'Crown Honor'],
-        spectrum: {
-          baseline: { left: 50, center: 35, right: 15 },
-          zones: {
-            left: { label: "Economic Restitution (50%)", synthesis: "Applauds the ruling for forcing the government to pay true economic value for historical land thefts rather than relying on unfair formulas." },
-            center: { label: "Actuarial Methodology (35%)", synthesis: "Focuses on the compounding interest formulas and historical asset evaluation methods used by the tribunal." },
-            right: { label: "Fiscal Liability Warning (15%)", synthesis: "Warns that expanding liability models creates unpredictable, multi-billion-dollar costs for current taxpayers." }
-          },
-          neutral: "The Tribunal updates its historical land valuation approach to factor in long-term resource extraction opportunity costs in calculating claim compensation."
-        }
-      },
-      {
-        id: 'ind-5', category: 'Indigenous-State Relations', source: 'Alberta Court of Appeal',
-        title: 'Treaty 8 Economic Rights & Resource Benefit Sharing Dispute',
-        citation: '2026 ABCA 198 · Decided June 14, 2026',
-        summary: 'The Court of Appeal rules that Treaty 8 implies an economic right to a meaningful share of resource revenues derived from traditional lands, ordering the provincial government to negotiate a revenue-sharing framework.',
-        graph: ['Treaty 8', 'Resource Revenue Sharing', 'Economic Treaty Rights'],
-        spectrum: {
-          baseline: { left: 45, center: 35, right: 20 },
-          zones: {
-            left: { label: "Economic Justice (45%)", synthesis: "Hails the decision for transforming treaties from historical documents into living economic partnerships that share the wealth of the land." },
-            center: { label: "Negotiation Framework (35%)", synthesis: "Focuses on the administrative challenges of creating a new resource revenue allocation framework between governments." },
-            right: { label: "Resource Control Defense (20%)", synthesis: "Critiques the court for reading unwritten financial terms into the treaty text, warning it limits provincial control over resource development." }
-          },
-          neutral: "The court holds that Treaty 8 includes an implied economic right to benefit-sharing, requiring the province to negotiate resource revenue terms with affected First Nations."
-        }
-      }
-    ],
-    criminal: [
-      {
-        id: 'crim-1', category: 'Criminal Law', source: 'Ontario Court of Appeal',
-        title: 'Bill C-48 Bail Reform Challenge and the Presumption of Innocence',
-        citation: '2026 ONCA 412 · Decided June 18, 2026',
-        summary: 'The Court of Appeal narrowly upholds the constitutionality of Bill C-48’s reverse-onus bail expansions for repeat violent offenders involving weapons. Writing for the 3-2 majority, the court rules that while the law limits section 11(e) rights, it is demonstrably justified under section 1 to address systemic public safety risks and maintain public confidence in the administration of justice.',
-        graph: ['Section 11(e) Bail', 'Reverse Onus', 'Bill C-48', 'Public Safety Justification'],
-        spectrum: {
-          baseline: { left: 25, center: 30, right: 45 },
-          zones: {
-            left: { label: "Civil Liberties Protection (25%)", synthesis: "Dissenting legal minds argue that systemic overcrowding and reverse-onus rules turn the presumption of innocence into a luxury, punishing unconvicted individuals to address political anxieties." },
-            center: { label: "Proportional System Analysis (30%)", synthesis: "Focuses on how the law limits reverse-onus provisions to specific violent offense histories, keeping it within reasonable section 1 bounds." },
-            right: { label: "Public Safety Priority (45%)", synthesis: "Applauds the ruling for prioritizing public safety, restoring necessary accountability for repeat violent offenders who exploit liberal bail systems." }
-          },
-          neutral: "The court upholds the reverse-onus bail changes for repeat violent offenses, determining the safety provisions represent a valid limit on section 11(e) rights."
-        }
-      },
-      {
-        id: 'crim-2', category: 'Criminal Law', source: 'Supreme Court of Canada',
-        title: 'R. v. Okonkwo (Firearms Mandatory Minimums Re-evaluation)',
-        citation: '2026 SCC 11 · Decided June 17, 2026',
-        summary: 'The SCC strikes down consecutive mandatory minimum sentences for specific firearm possession offenses, holding that their application to reasonable hypotheticals creates a cross-border pattern of cruel and unusual punishment under section 12.',
-        graph: ['Section 12', 'Mandatory Minimums', 'Gross Disproportionality', 'Reasonable Hypotheticals'],
-        spectrum: {
-          baseline: { left: 50, center: 35, right: 15 },
-          zones: {
-            left: { label: "Proportionate Sentencing (50%)", synthesis: "Applauds the court for continuing to dismantle failed mandatory minimum policies that disproportionately harm minority communities." },
-            center: { label: "Discretionary Restoration (35%)", synthesis: "Focuses on the return of sentencing powers to trial judges, allowing them to match penalties to specific offender culpability." },
-            right: { label: "Law and Order Defense (15%)", synthesis: "Argues that striking down mandatory minimums ignores Parliament’s democratic mandate to deter gun violence through strict sentencing laws." }
-          },
-          neutral: "The Court holds that consecutive mandatory minimums for these firearms offenses violate section 12, restoring judicial sentencing discretion."
-        }
-      },
-      {
-        id: 'crim-3', category: 'Criminal Law', source: 'Ontario Court of Appeal',
-        title: 'Digital Privacy: Cloud-Mirrored Data Searches under Section 8',
-        citation: '2026 ONCA 440 · Decided June 16, 2026',
-        summary: 'The court rules that a standard warrant to search a physical device does not authorize law enforcement to access cloud-mirrored accounts linked to that device, establishing that cloud storage requires a distinct, specific digital warrant under section 8.',
-        graph: ['Section 8 Search', 'Digital Privacy', 'Cloud Infrastructure', 'Reasonable Expectation'],
-        spectrum: {
-          baseline: { left: 45, center: 45, right: 10 },
-          zones: {
-            left: { label: "Digital Rights Protection (45%)", synthesis: "Celebrates the decision for recognizing that cloud accounts hold our entire digital lives, demanding strict judicial warrant protections." },
-            center: { label: "Procedural Clarity (45%)", synthesis: "Analyzes the boundary rules for physical versus virtual data spaces, defining search rules for digital investigators." },
-            right: { label: "Investigative Realism (10%)", synthesis: "Regrets that requiring multiple warrants for connected data accounts creates unnecessary delays for urgent digital forensics." }
-          },
-          neutral: "The court holds that warrants for physical devices do not cover cloud storage accounts, requiring separate section 8 judicial authorization for remote data."
-        }
-      },
-      {
-        id: 'crim-4', category: 'Criminal Law', source: 'Parole Board of Canada',
-        title: 'Gladue Principles Mandatory Integration in Parole Determinations',
-        citation: 'PBC-2026-D12 · Policy Enforced June 15, 2026',
-        summary: 'The Parole Board issues a binding compliance directive following a federal court ruling, requiring all parole panels to explicitly apply Gladue factors and document systemic factors in release decisions for Indigenous inmates.',
-        graph: ['Gladue Factors', 'Parole Board', 'Systemic Over-incarceration'],
-        spectrum: {
-          baseline: { left: 55, center: 35, right: 10 },
-          zones: {
-            left: { label: "Systemic Accountability (55%)", synthesis: "Welcomes the change, noting that Gladue principles are meaningless if restricted to sentencing while ignoring the parole process." },
-            center: { label: "Administrative Oversight (35%)", synthesis: "Tracks the tracking metrics and training programs needed to ensure parole members consistently apply systemic analysis." },
-            right: { label: "Public Confidence Warning (10%)", synthesis: "Stresses that parole decisions must focus primarily on current public risk rather than historical systemic factors." }
-          },
-          neutral: "The directive requires parole boards to evaluate systemic and background factors when making release decisions for Indigenous applicants."
-        }
-      },
-      {
-        id: 'crim-5', category: 'Criminal Law', source: 'Alberta Court of Appeal',
-        title: 'Section 10(b) Right to Counsel and Generative AI Duty Counsel Systems',
-        citation: '2026 ABCA 210 · Decided June 14, 2026',
-        summary: 'The Court of Appeal throws out a drug conviction, finding that providing a detained person access to an automated Legal-AI chat system instead of a human lawyer violates the section 10(b) right to retain and instruct counsel without delay.',
-        graph: ['Section 10(b)', 'Right to Counsel', 'Legal AI', 'Substantive Assistance'],
-        spectrum: {
-          baseline: { left: 40, center: 50, right: 10 },
-          zones: {
-            left: { label: "Professional Integrity (40%)", synthesis: "Applauds the ruling for protecting basic legal rights, verifying that vulnerable detainees cannot be fobbed off with automated chatbots." },
-            center: { label: "Constitutional Minimums (50%)", synthesis: "Examines what counts as substantive legal advice under section 10(b), finding human advocacy remains an essential component." },
-            right: { label: "Access to Technology (10%)", synthesis: "Notes that while AI cannot replace counsel, authorized legal software could expand duty counsel access in remote regions." }
-          },
-          neutral: "The court determines that access to automated legal support systems does not satisfy the Crown’s obligation to provide operational access to counsel under section 10(b)."
-        }
-      }
-    ],
-    immigration: [
-      {
-        id: 'imm-1', category: 'Immigration & Refugee', source: 'Federal Court of Appeal',
-        title: 'Hassani v. Canada (IRB Credibility Review under Vavilov Framework)',
-        citation: '2026 FCA 88 · Decided June 18, 2026',
-        summary: 'The Federal Court of Appeal overturns an Immigration and Refugee Board (IRB) decision to reject an asylum claim based on alleged narrative contradictions. Applying the Vavilov administrative review standard, the court holds that the tribunal’s credibility evaluation lacked internal logical cohesion, failing to account for cultural trauma and translation hurdles, rendering the decision unreasonable.',
-        graph: ['Vavilov Standard', 'Reasonableness Review', 'IRB Credibility', 'Administrative Justice'],
-        spectrum: {
-          baseline: { left: 40, center: 45, right: 15 },
-          zones: {
-            left: { label: "Rights-Based Protection (40%)", synthesis: "Hails the decision for checking arbitrary IRB rejections, verifying that life-or-death asylum choices must meet rigorous standards of logical justification." },
-            center: { label: "Administrative Consistency (45%)", synthesis: "Applies Vavilov’s core principles to fact-finding, demonstrating that deference does not immunize a tribunal’s internal contradictions from judicial review." },
-            right: { label: "Tribunal Deference Defense (15%)", synthesis: "Warns that over-scrutinizing front-line credibility findings undercuts the specialized expertise of the IRB and worsens systemic processing delays." }
-          },
-          neutral: "The Court decides that IRB credibility findings must demonstrate internal logical cohesion and account for contextual narrative explanations to be considered reasonable under the Vavilov framework."
-        }
-      },
-      {
-        id: 'imm-2', category: 'Immigration & Refugee', source: 'Federal Court',
-        title: 'Safe Third Country Act Exception Clause Constitutional Challenge',
-        citation: '2026 FC 899 · Decided June 17, 2026',
-        summary: 'The court rejects a constitutional challenge to the expanded administrative enforcement protocols under the Safe Third Country Act, finding the automated cross-border removal pathways do not violate section 7 rights.',
-        graph: ['Safe Third Country Act', 'Section 7 Detention', 'Cross-Border Enforcement'],
-        spectrum: {
-          baseline: { left: 20, center: 40, right: 40 },
-          zones: {
-            left: { label: "Refugee Advocacy Position (20%)", synthesis: "Argues that closing cross-border options forces vulnerable asylum seekers into dangerous border crossings, breaching basic security rights." },
-            center: { label: "Bilateral Policy Tracking (40%)", synthesis: "Reviews the shared asylum data rules between Canada and the US, analyzing administrative implementation frameworks." },
-            right: { label: "Border Enforcement Priority (40%)", synthesis: "Welcomes the decision for protecting border control integrity, verifying that the agreement is an essential tool for managing irregular migration." }
-          },
-          neutral: "The court holds that the administrative enforcement mechanisms of the expanded bilateral border treaty do not violate section 7 principles of fundamental justice."
-        }
-      },
-      {
-        id: 'imm-3', category: 'Immigration & Refugee', source: 'Federal Court',
-        title: 'Algorithmic Risk Assessment Triage Declared Unreasonable in TRV Processing',
-        citation: '2026 FC 912 · Decided June 16, 2026',
-        summary: 'The court invalidates an IRCC visa rejection generated by an automated triage algorithm, holding that the system’s reliance on automated country-of-origin profiles creates an unconstitutional loop of bias that violates procedural fairness requirements.',
-        graph: ['IRCC Algorithmic Triage', 'Procedural Fairness', 'Automated Decisions'],
-        spectrum: {
-          baseline: { left: 55, center: 35, right: 10 },
-          zones: {
-            left: { label: "Systemic Fairness (55%)", synthesis: "Applauds the ruling for preventing the government from hiding discriminatory visa practices behind proprietary algorithms." },
-            center: { label: "Administrative Tailoring (35%)", synthesis: "Focuses on how automated triage tools must retain human review steps to meet standard administrative fairness parameters." },
-            right: { label: "System Efficiency (10%)", synthesis: "Regrets that limiting automated processing tools will cause massive backlogs across short-term visa applications." }
-          },
-          neutral: "The court rules that using automated screening models without transparent, case-specific human oversight breaches core administrative law requirements of procedural fairness."
-        }
-      },
-      {
-        id: 'imm-4', category: 'Immigration & Refugee', source: 'Federal Court',
-        title: 'Biometric Immigration Detention Framework Faces Section 9 Challenge',
-        citation: '2026 FC 933 · Hearing Scheduled June 15, 2026',
-        summary: 'A major human rights coalition launches a section 9 challenge against IRCC’s new geofenced biometric ankle monitoring system, arguing the constant tracking is an arbitrary deprivation of liberty.',
-        graph: ['Section 9', 'Arbitrary Detention', 'Biometric Geofencing', 'Alternatives to Detention'],
-        spectrum: {
-          baseline: { left: 45, center: 40, right: 15 },
-          zones: {
-            left: { label: "Civil Liberties Model (45%)", synthesis: "Argues that digital tracking devices extend the carceral state into the community, violating section 9 freedom from arbitrary restraint." },
-            center: { label: "Proportional Alternatives (40%)", synthesis: "Balances the system benefits against physical detention, asking if digital monitoring represents a less rights-limiting alternative." },
-            right: { label: "Enforcement Compliance (15%)", synthesis: "Defends the tracking system as an efficient alternative that reduces expensive physical detention while preventing flight risk." }
-          },
-          neutral: "The upcoming litigation will determine whether digital geofencing monitoring systems constitute arbitrary detention under section 9."
-        }
-      },
-      {
-        id: 'imm-5', category: 'Immigration & Refugee', source: 'Federal Court of Appeal',
-        title: 'Humanitarian & Compassionate Ground Review Standard Rigor',
-        citation: '2026 FCA 94 · Decided June 14, 2026',
-        summary: 'The Court of Appeal rules that visa officers evaluating humanitarian and compassionate applications must explicitly demonstrate they factored in the best interests of affected children to meet Vavilov’s reasonableness criteria.',
-        graph: ['H&C Applications', 'Best Interests of the Child', 'Vavilov Justification'],
-        spectrum: {
-          baseline: { left: 50, center: 40, right: 10 },
-          zones: {
-            left: { label: "Child Rights Expansion (50%)", synthesis: "Welcomes the ruling for forcing immigration officers to treat children’s security as a primary factor rather than a minor administrative note." },
-            center: { label: "Justification Standard (40%)", synthesis: "Tracks how the standard of review requires officers to show clear, responsive reasoning rather than using boilerplate dismissal language." },
-            right: { label: "Sovereign Discretion (10%)", synthesis: "Argues that adding strict procedural review rules to discretionary programs blurs the line between entitlement programs and exceptional relief." }
-          },
-          neutral: "The court decides that discretionary humanitarian and compassionate rejections are unreasonable if they fail to clearly assess the best interests of affected children."
-        }
-      }
-    ]
-  };
-
-  // --- SEMANTIC KNOWLEDGE GRAPH CONNECTIONS TREE ---
-  const GRAPH_RELATIONS = {
-    'Division of Powers': [
-      { type: 'Core Doctrine', text: '<b>Water-Tight Compartments Theory:</b> The historical rule that federal and provincial heads of power are mutually exclusive.' },
-      { type: 'Active Dispute', text: '<b>Alberta Sovereignty Act:</b> Direct legislative challenge to federal jurisdiction over electricity generation grids.' }
-    ],
-    'Section 33': [
-      { type: 'Precedent Root', text: '<b>Ford v. Quebec (1988):</b> Established that s.33 declarations require only formal compliance, not substantive legal proof.' },
-      { type: 'Current Application', text: '<b>Ontario Electoral Boundaries Act (2026):</b> Preemptively invokes section 33 to prevent judicial evaluation of voting boundaries.' }
-    ],
-    'Vavilov Standard': [
-      { type: 'Foundational Case', text: '<b>Canada v. Vavilov (2019):</b> Set up the presumption of reasonableness as the default standard for judicial review of administrative action.' },
-      { type: 'Tribunal Impact', text: '<b>Hassani v. Canada (2026):</b> Applies Vavilov to IRB credibility rejections, requiring internal logical cohesion.' }
-    ],
-    'Section 12': [
-      { type: 'Constitutional Standard', text: '<b>Gross Disproportionality Test:</b> Evaluates if a mandatory minimum sentence is cruel and unusual based on reasonable hypotheticals.' },
-      { type: 'Current Impact', text: '<b>R. v. Okonkwo (2026):</b> Striking down consecutive minimum sentences for firearms possession under section 12.' }
-    ]
-  };
-
-  // --- AUTOMATED GEMINI PRO AUTOMATION CODE BLUEPRINT ---
-  const GEMINI_PIPELINE_BLUEPRINT = `// THE SPREAD - CLOUD AUTOMATION ARCHITECTURE
-// POWERED BY GITHUB ACTIONS (FREE) & GEMINI PRO API (2M TOKEN WINDOW)
-
-name: Daily 9:30 AM System Rebuild
-on:
-  schedule:
-    - cron: '0 12 * * *' # Wakes up automatically at 8:00 AM EST daily
-
-jobs:
-  rebuild_and_deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Source Code
-        uses: actions/checkout@v4
-
-      - name: Spin up Python Environment
-        uses: actions/setup-python@v5
-        with:
-          python-current: '3.11'
-
-      - name: Execute Scraping Ingestion Engine
-        run: |
-          python -c "
-          import requests, json, xml.etree.ElementTree as ET
-          # Pulls directly from SCC, FCA, Federal Court, and Media RSS registries
-          # Writes raw text dumps directly into data/raw/
-          "
-
-      - name: Call Gemini 2M Token Pipeline
-        env:
-          GEMINI_API_KEY: \${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python -c "
-          import google.generativeai as genai
-          genai.configure(api_key=os.environ['GEMINI_API_KEY'])
-          
-          # SINGLE-SHOT STRUCTURAL COMPILATION
-          model = genai.GenerativeModel('gemini-1.5-pro')
-          response = model.generate_content(
-              contents=[raw_daily_dump, 'Extract public law intelligence into strict database.json schema'],
-              generation_config={'response_mime_type': 'application/json'}
-          )
-          "
-
-      - name: Deploy Live Assets to Cloudflare Pages CDN
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: \${{ secrets.CF_API_TOKEN }}
-          accountId: \${{ secrets.CF_ACCOUNT_ID }}
-          projectName: 'the-spread'
-          directory: '.'`;
-
-  // --- MAIN APPLICATION CLIENT ---
-  const StoryCard = ({ story, isArchived, onToggleArchive, onSelectTag }) => {
+  const StoryCard = ({ story }) => {
     const [hovered, setHovered] = useState(null);
-
     return (
-      <div className={`glass-card ${story.source.includes('Court') ? 'docket' : ''}`}>
+      <div className="glass-card">
         <div className="glass-layers"><div className="glass-filter"></div><div className="glass-overlay"></div></div>
         <div className="glass-specular"></div>
         <div className="glass-content">
-          <span className="eyebrow-tag">{story.source}</span>
+          <span className="eyebrow-tag">{story.source || 'Intelligence Network'}</span>
           <h2 className="headline">{story.title}</h2>
-          <div className="byline"><span className="dot" style={{background: story.source.includes('Court') ? 'var(--brass)' : 'var(--lean-center)'}}></span> {story.citation}</div>
+          <div className="byline">{story.citation || 'Live Triage'}</div>
           <p className="snippet">{story.summary}</p>
           
           <div className="kg-anchor-box">
-            <div className="kg-anchor-title"><i data-lucide="git-commit" style={{width:12, height:12}}></i> Knowledge Graph Anchor Points</div>
+            <div className="kg-anchor-title"><i data-lucide="git-commit" style={{width:12, height:12}}></i> Extracted Anchors</div>
             <div className="tags">
-              {story.graph.map(t => <span key={t} className="tagpill" onClick={() => onSelectTag(t)}>{t}</span>)}
+              {(story.graph || []).map(t => <span key={t} className="tagpill">{t}</span>)}
             </div>
           </div>
           
-          {/* Mockup Drop-Down Hover Matrix Interaction Layer */}
-          <div className="bias-hit-area" onMouseLeave={() => setHovered(null)}>
-            <div className="biasbar">
-              <span className={`seg-left ${hovered === 'l' ? 'active' : ''}`} style={{ width: `${story.spectrum.baseline.left}%` }} onMouseEnter={() => setHovered('l')} />
-              <span className={`seg-center ${hovered === 'c' ? 'active' : ''}`} style={{ width: `${story.spectrum.baseline.center}%` }} onMouseEnter={() => setHovered('c')} />
-              <span className={`seg-right ${hovered === 'r' ? 'active' : ''}`} style={{ width: `${story.spectrum.baseline.right}%` }} onMouseEnter={() => setHovered('r')} />
-            </div>
-
-            <div className="leanwrap">
-              <div className={`leanrow l ${hovered === 'l' ? 'expanded' : ''}`}>
-                <span className="tag">{story.spectrum.zones.left.label}</span>
-                {story.spectrum.zones.left.synthesis}
+          {story.spectrum && story.spectrum.baseline && (
+            <>
+              <div className="bias-hit-area" onMouseLeave={() => setHovered(null)}>
+                <div className="biasbar">
+                  <span className={`seg-left ${hovered === 'l' ? 'active' : ''}`} style={{ width: `${story.spectrum.baseline.left}%` }} onMouseEnter={() => setHovered('l')} />
+                  <span className={`seg-center ${hovered === 'c' ? 'active' : ''}`} style={{ width: `${story.spectrum.baseline.center}%` }} onMouseEnter={() => setHovered('c')} />
+                  <span className={`seg-right ${hovered === 'r' ? 'active' : ''}`} style={{ width: `${story.spectrum.baseline.right}%` }} onMouseEnter={() => setHovered('r')} />
+                </div>
+                <div className="leanwrap">
+                  <div className={`leanrow l ${hovered === 'l' ? 'expanded' : ''}`}><span className="tag">{story.spectrum.zones?.left?.label}</span>{story.spectrum.zones?.left?.synthesis}</div>
+                  <div className={`leanrow c ${hovered === 'c' ? 'expanded' : ''}`}><span className="tag">{story.spectrum.zones?.center?.label}</span>{story.spectrum.zones?.center?.synthesis}</div>
+                  <div className={`leanrow r ${hovered === 'r' ? 'expanded' : ''}`}><span className="tag">{story.spectrum.zones?.right?.label}</span>{story.spectrum.zones?.right?.synthesis}</div>
+                </div>
               </div>
-              <div className={`leanrow c ${hovered === 'c' ? 'expanded' : ''}`}>
-                <span className="tag">{story.spectrum.zones.center.label}</span>
-                {story.spectrum.zones.center.synthesis}
-              </div>
-              <div className={`leanrow r ${hovered === 'r' ? 'expanded' : ''}`}>
-                <span className="tag">{story.spectrum.zones.right.label}</span>
-                {story.spectrum.zones.right.synthesis}
-              </div>
-            </div>
-          </div>
-
-          <div className="neutral">
-            <b>Objective Synthesis:</b> {story.spectrum.neutral}
-          </div>
-
-          <div className="card-actions">
-            <button className={`action-btn ${isArchived ? 'archived' : ''}`} onClick={() => onToggleArchive(story.id)}>
-              <i data-lucide={isArchived ? "bookmark-check" : "bookmark"} style={{width:14, height:14}}></i>
-              {isArchived ? 'Archived to Dossier' : 'Save to Dossier'}
-            </button>
-          </div>
+              <div className="neutral"><b>Objective Synthesis:</b> {story.spectrum.neutral}</div>
+            </>
+          )}
         </div>
       </div>
     );
@@ -772,159 +170,20 @@ jobs:
   const App = () => {
     const [theme, setTheme] = useState('light');
     const [activeView, setActiveView] = useState('briefing');
-    const [selectedTag, setSelectedTag] = useState('Division of Powers');
-    const [searchQuery, setSearchQuery] = useState('');
-    
-    const [archivedIds, setArchivedIds] = useState(() => {
-      const saved = localStorage.getItem('spread_dossier_v2');
-      return saved ? new Set(JSON.parse(saved)) : new Set();
-    });
+    const [dataStore, setDataStore] = useState(null);
+    const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => { document.documentElement.setAttribute('data-theme', theme); }, [theme]);
     useEffect(() => { lucide.createIcons(); });
-    useEffect(() => { localStorage.setItem('spread_dossier_v2', JSON.stringify(Array.from(archivedIds))); }, [archivedIds]);
 
-    const toggleArchive = (id) => {
-      const s = new Set(archivedIds);
-      if (s.has(id)) s.delete(id); else s.add(id);
-      setArchivedIds(s);
-    };
-
-    const handleSelectTagFromCard = (tag) => {
-      setSelectedTag(tag);
-      setActiveView('graph_mapping');
-    };
-
-    const storiesToShow = useMemo(() => {
-      if (activeView === 'briefing') {
-        return [DATA_STORE.federalism[0], DATA_STORE.charter[0], DATA_STORE.indigenous[0], DATA_STORE.criminal[0], DATA_STORE.immigration[0]];
-      }
-      if (activeView === 'dossier') {
-        const all = [...DATA_STORE.federalism, ...DATA_STORE.charter, ...DATA_STORE.indigenous, ...DATA_STORE.criminal, ...DATA_STORE.immigration];
-        return all.filter(s => archivedIds.has(s.id));
-      }
-      return DATA_STORE[activeView] || [];
-    }, [activeView, archivedIds]);
-
-    return (
-      <div className="desktop-layout">
-        
-        {/* Navigation Sidebar Area */}
-        <nav className="sidebar">
-          <div className="wordmark"><span className="tick"></span>The Spread</div>
-          
-          <div className="nav-group">
-            <div className="nav-label">Subjects</div>
-            <button className={`nav-item ${activeView === 'briefing' ? 'active' : ''}`} onClick={() => setActiveView('briefing')}>
-              <span><i data-lucide="layout-dashboard" style={{width:14, height:14, display:'inline', marginRight:8}}></i>Daily Briefing</span>
-            </button>
-            <button className={`nav-item ${activeView === 'federalism' ? 'active' : ''}`} onClick={() => setActiveView('federalism')}>
-              <span>Federalism</span><span className="nav-count">{DATA_STORE.federalism.length}</span>
-            </button>
-            <button className={`nav-item ${activeView === 'charter' ? 'active' : ''}`} onClick={() => setActiveView('charter')}>
-              <span>Charter</span><span className="nav-count">{DATA_STORE.charter.length}</span>
-            </button>
-            <button className={`nav-item ${activeView === 'indigenous' ? 'active' : ''}`} onClick={() => setActiveView('indigenous')}>
-              <span>Indigenous-State</span><span className="nav-count">{DATA_STORE.indigenous.length}</span>
-            </button>
-            <button className={`nav-item ${activeView === 'criminal' ? 'active' : ''}`} onClick={() => setActiveView('criminal')}>
-              <span>Criminal Law</span><span className="nav-count">{DATA_STORE.criminal.length}</span>
-            </button>
-            <button className={`nav-item ${activeView === 'immigration' ? 'active' : ''}`} onClick={() => setActiveView('immigration')}>
-              <span>Immigration</span><span className="nav-count">{DATA_STORE.immigration.length}</span>
-            </button>
-          </div>
-
-          <div className="nav-group">
-            <div className="nav-label">Knowledge Graph</div>
-            <button className={`nav-item ${activeView === 'graph_mapping' ? 'active' : ''}`} onClick={() => setActiveView('graph_mapping')}>
-              <span><i data-lucide="network" style={{width:14, height:14, display:'inline', marginRight:8}}></i>Mapping Matrix</span>
-            </button>
-            <button className={`nav-item ${activeView === 'dossier' ? 'active' : ''}`} onClick={() => setActiveView('dossier')}>
-              <span><i data-lucide="library" style={{width:14, height:14, display:'inline', marginRight:8}}></i>Your Dossier</span>
-              <span className="nav-count" style={{background:'var(--brass-soft)', color:'var(--brass)'}}>{archivedIds.size}</span>
-            </button>
-          </div>
-
-          <div className="nav-group mt-auto">
-            <div className="nav-label">Ecosystem Automation</div>
-            <button className={`nav-item ${activeView === 'automation_blueprint' ? 'active' : ''}`} onClick={() => setActiveView('automation_blueprint')}>
-              <span><i data-lucide="cpu" style={{width:14, height:14, display:'inline', marginRight:8}}></i>Gemini Integration</span>
-            </button>
-          </div>
-        </nav>
-
-        {/* Main Interface Execution Pane */}
-        <div className="main-stage">
-          <header className="topbar">
-            <div className="search-bar">
-              <i data-lucide="search" style={{width:16, height:16, color:'var(--ink-faint)'}}></i>
-              <input type="text" placeholder="Global search across living briefs, precedents, and mapped database nodes..." value={searchQuery} onChange={e => setSearchQuery(e.target.value)} />
-            </div>
-            
-            <div className="topbar-actions">
-              <span className="text-xs font-mono opacity-50">June 18, 2026 · 09:30 AM Rebuild Complete</span>
-              <button className="btn-icon" onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}>
-                <i data-lucide={theme === 'dark' ? 'sun' : 'moon'} style={{width:16, height:16}}></i>
-              </button>
-            </div>
-          </header>
-
-          <div className="scroll-area">
-            {activeView === 'automation_blueprint' ? (
-              <div className="max-w-4xl">
-                <h1 className="text-2xl font-bold mb-2">Ecosystem Gemini Pipeline Blueprint</h1>
-                <p className="text-sm text-gray-500 mb-6">This script runs on a zero-dollar infrastructure tier inside GitHub Actions every morning, feeding structural data directly into your deployment architecture.</p>
-                <pre className="blueprint-text">{GEMINI_PIPELINE_BLUEPRINT}</pre>
-              </div>
-            ) : activeView === 'graph_mapping' ? (
-              <div className="max-w-4xl">
-                <h1 className="text-2xl font-bold mb-4">Knowledge Graph Relationship Layer</h1>
-                <div className="flex gap-2 mb-6 overflow-x-auto pb-2">
-                  {Object.keys(GRAPH_RELATIONS).map(tag => (
-                    <span key={tag} className={`tagpill ${selectedTag === tag ? 'bg-amber-500 text-white border-amber-600' : ''}`} style={{whiteSpace:'nowrap'}} onClick={() => setSelectedTag(tag)}>{tag}</span>
-                  ))}
-                </div>
-                
-                <div className="glass-card"><div className="glass-layers"><div className="glass-filter"></div></div>
-                  <div className="glass-specular"></div>
-                  <div className="glass-content">
-                    <h2 className="text-lg font-bold mb-4 text-gradient">Active Structural Node: {selectedTag}</h2>
-                    <ul className="semantic-list">
-                      {GRAPH_RELATIONS[selectedTag]?.map((rel, idx) => (
-                        <li key={idx}>
-                          <span className="node-type">{rel.type}</span>
-                          <span className="node-desc" dangerouslySetInnerHTML={{__html: rel.text}} />
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            ) : (
-              <div>
-                {activeView === 'briefing' && (
-                  <div className="mb-8 full-width-hero">
-                    <h1 className="text-3xl font-extrabold tracking-tight mb-1">The Daily Briefing</h1>
-                    <p className="text-xs font-mono opacity-50 uppercase tracking-wider">Apex dossiers synthesized from 182 structural indices across Canada</p>
-                  </div>
-                )}
-                <div className="grid-terminal">
-                  {storiesToShow.map(story => (
-                    <StoryCard key={story.id} story={story} isArchived={archivedIds.has(story.id)} onToggleArchive={toggleArchive} onSelectTag={handleSelectTagFromCard} />
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
-        </div>
-
-      </div>
-    );
-  };
-
-  const root = ReactDOM.createRoot(document.getElementById('root'));
-  root.render(<App />);
-</script>
-</body>
-</html>
+    // The Brain Connection: Fetching the live Gemini output from GitHub servers
+    useEffect(() => {
+      const fetchLiveIntelligence = async () => {
+        try {
+          const res = await fetch(`database.json?v=${new Date().getTime()}`);
+          if (!res.ok) throw new Error("Awaiting Daily AI Build...");
+          const liveData = await res.json();
+          setDataStore(liveData);
+        } catch (err) {
+          console.error(err);
+        } finally
