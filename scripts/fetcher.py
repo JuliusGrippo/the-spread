@@ -86,7 +86,7 @@ def synthesize_with_gemini(raw_data):
     }
     """
     
-    model = genai.GenerativeModel('gemini-1.5-pro-latest')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     response = model.generate_content(
         f"{system_prompt}\n\nRAW DATA BATCH:\n{raw_data}",
         generation_config={"response_mime_type": "application/json"}
