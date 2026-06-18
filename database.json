@@ -1,0 +1,462 @@
+{
+  "federalism": [
+    {
+      "id": "FED-CBC-20260618-01",
+      "category": "Federalism",
+      "source": "CBC Politics",
+      "title": "Carney announces $200M for new school and health-care centre in Tumbler Ridge",
+      "citation": "Thu, 18 Jun 2026",
+      "summary": "Prime Minister Carney announced a joint federal-provincial investment of $200 million for a new school and health-care centre in Tumbler Ridge, B.C., with $100 million coming from the federal government and $100 million from the province. This demonstrates ongoing intergovernmental cooperation in funding essential social infrastructure, highlighting the shared responsibility and fiscal arrangements between Ottawa and the provinces for public services.",
+      "graph": ["Federal Funding", "Provincial Funding", "Social Infrastructure", "Intergovernmental Relations", "British Columbia"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 30, "right": 10 },
+        "zones": {
+          "left": { "label": "Collaborative Progress", "synthesis": "This joint investment showcases effective federal-provincial collaboration to address critical social infrastructure needs, emphasizing the role of government in equitable regional development and supporting local communities through shared resources." },
+          "center": { "label": "Cooperative Administration", "synthesis": "The funding announcement represents a standard model of federal-provincial cost-sharing for public services, ensuring necessary infrastructure development through established intergovernmental mechanisms without significant policy shifts." },
+          "right": { "label": "Fiscal Responsibility Call", "synthesis": "While positive, this initiative highlights persistent reliance on federal transfers. Provinces should be empowered with greater fiscal autonomy to manage their own infrastructure priorities, minimizing federal conditional spending and bureaucratic layers." }
+        },
+        "neutral": "The federal government, in partnership with the Province of British Columbia, has committed $200 million towards a new school and health-care centre in Tumbler Ridge, reflecting a common approach to financing large-scale public infrastructure projects."
+      }
+    },
+    {
+      "id": "FED-SCC-2026SCC22-01",
+      "category": "Federalism",
+      "source": "Slaw (Supreme One-Liners)",
+      "title": "SCC rules New Brunswick Lieutenant Governor must be bilingual",
+      "citation": "2026 SCC 22, Société de l’Acadie du Nouveau-Brunswick v. Canada (Prime Minister)",
+      "summary": "The Supreme Court of Canada, in *Société de l’Acadie du Nouveau-Brunswick v. Canada (Prime Minister)*, affirmed that Section 16(2) of the Charter of Rights and Freedoms requires the Lieutenant Governor of New Brunswick to be bilingual. This landmark decision clarifies the constitutional requirements for federal appointments to provincial offices, emphasizing the importance of language rights in the operation of provincial governance and the role of the Crown's representative. It reinforces the principle that federal actors exercising power within provincial structures must adhere to constitutional language protections, impacting federal appointment processes and provincial language policies across Canada.",
+      "graph": ["Language Rights", "Lieutenant Governor", "Federal Appointments", "Constitutional Law", "New Brunswick", "Bilingualism", "Charter s. 16(2)"],
+      "spectrum": {
+        "baseline": { "left": 55, "center": 30, "right": 15 },
+        "zones": {
+          "left": { "label": "Advancing Linguistic Equality", "synthesis": "This ruling is a vital step towards upholding and strengthening official language equality within provincial institutions, ensuring that the highest office in the province is accessible and representative of both linguistic communities, fostering inclusive governance." },
+          "center": { "label": "Clarifying Constitutional Mandate", "synthesis": "The Supreme Court's decision provides essential clarity on the application of language rights to federal appointments within provincial structures, reinforcing the constitutional framework for official bilingualism as interpreted by the courts." },
+          "right": { "label": "Judicial Overreach Concerns", "synthesis": "While recognizing language rights, concerns may arise regarding judicial intervention into federal appointment prerogatives and the potential for imposing specific qualifications beyond those explicitly stated, impacting the flexibility of federal appointments." }
+        },
+        "neutral": "The Supreme Court of Canada has ruled that the Lieutenant Governor of New Brunswick must be bilingual, interpreting Section 16(2) of the Charter to impose this requirement on federal appointments to provincial vice-regal offices."
+      }
+    },
+    {
+      "id": "FED-Slaw-20260605-01",
+      "category": "Federalism",
+      "source": "Slaw (Legal Blog)",
+      "title": "BC Supreme Court upholds provincial overhaul of legal regulation, strengthening legislative control",
+      "citation": "Fri, 05 Jun 2026, BC Supreme Court Decision",
+      "summary": "The British Columbia Supreme Court upheld the provincial government's legislative overhaul of legal regulation, allowing for a significant restructuring of how the legal profession is governed in the province. This ruling reaffirms the provincial legislature's constitutional authority over the regulation of professions within its jurisdiction, despite challenges regarding the independence of the legal profession. The decision highlights the balance between professional self-governance and the provincial government's power to legislate in the public interest, potentially setting a precedent for other provinces considering similar reforms.",
+      "graph": ["Provincial Jurisdiction", "Professional Regulation", "Law Society Governance", "Legislative Authority", "Judicial Review", "British Columbia"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 40, "right": 20 },
+        "zones": {
+          "left": { "label": "Enhancing Public Accountability", "synthesis": "This decision empowers the provincial government to modernize professional regulation, prioritizing public protection and access to justice over entrenched self-governance models, aligning the legal profession with broader public interest objectives." },
+          "center": { "label": "Affirming Legislative Supremacy", "synthesis": "The court's decision correctly affirms the constitutional prerogative of provincial legislatures to regulate professions, ensuring that reforms aimed at improving governance and public oversight proceed within established legal frameworks." },
+          "right": { "label": "Threat to Professional Independence", "synthesis": "While acknowledging legislative authority, this reform risks undermining the essential independence of the legal profession from political interference, potentially impacting solicitor-client privilege and the fair administration of justice." }
+        },
+        "neutral": "The British Columbia Supreme Court has affirmed the provincial government's constitutional right to reform the regulation of the legal profession, confirming legislative authority over professional bodies despite concerns about independence."
+      }
+    },
+    {
+      "id": "FED-EXT-2026Q3-01",
+      "category": "Federalism",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Alberta launches new constitutional challenge against federal carbon pricing program",
+      "citation": "Hypothetical Legal Challenge, Fall 2026",
+      "summary": "The Government of Alberta has initiated a new constitutional challenge against the federal government's updated carbon pricing regime, arguing that the program oversteps federal jurisdiction and infringes on provincial resource management powers under Section 92A of the Constitution Act, 1867. This legal action follows a series of previous challenges and reflects ongoing tensions between provincial autonomy over natural resources and federal efforts to address climate change, testing the limits of the 'national concern' doctrine established in prior Supreme Court rulings on carbon pricing. The challenge could significantly impact the future of Canada's climate policy framework.",
+      "graph": ["Carbon Tax", "Climate Policy", "Provincial Autonomy", "Federal Jurisdiction", "Constitutional Challenge", "Resource Management", "Alberta"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Delaying Climate Action", "synthesis": "This challenge represents a regressive attempt to undermine essential national climate policy, prioritizing provincial fossil fuel interests over the urgent need for a cohesive, federally-led strategy to combat climate change and meet international commitments." },
+          "center": { "label": "Navigating Jurisdictional Complexities", "synthesis": "The new challenge reflects the inherent complexities of Canadian federalism in environmental governance. It presents an opportunity for the courts to further refine the balance between federal environmental powers and provincial resource jurisdiction, seeking a stable constitutional framework." },
+          "right": { "label": "Defending Provincial Sovereignty", "synthesis": "Alberta's challenge is a crucial defense of provincial sovereignty against federal overreach. It aims to protect the province's constitutional right to manage its natural resources and develop its economy without undue federal interference, ensuring prosperity." }
+        },
+        "neutral": "Alberta has launched a new constitutional challenge against the federal carbon pricing framework, arguing it infringes on provincial jurisdiction over natural resources, setting the stage for renewed legal debate on intergovernmental powers in climate policy."
+      }
+    },
+    {
+      "id": "FED-EXT-2026Q3-02",
+      "category": "Federalism",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Federal government intervenes in Quebec-Ontario interprovincial trade dispute over agricultural standards",
+      "citation": "Hypothetical Federal Intervention, Late 2026",
+      "summary": "The federal government has announced its intention to intervene in an escalating interprovincial trade dispute between Quebec and Ontario concerning differing agricultural product standards and import restrictions. Citing the need to uphold the principles of economic union and free movement of goods across Canada, Ottawa's intervention seeks to mediate a resolution and potentially assert its jurisdiction over trade and commerce to prevent the proliferation of internal trade barriers. This development underscores the perennial challenges of interprovincial protectionism and the federal government's role in harmonizing economic activity within the federation.",
+      "graph": ["Interprovincial Trade", "Internal Trade Barriers", "Federal Intervention", "Economic Union", "Agriculture Standards", "Quebec", "Ontario"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 50, "right": 10 },
+        "zones": {
+          "left": { "label": "Promoting National Economic Unity", "synthesis": "Federal intervention is essential to dismantle protectionist provincial policies that stifle economic growth and disadvantage consumers. A strong federal hand is necessary to foster a truly national common market and ensure equitable opportunities across Canada." },
+          "center": { "label": "Facilitating Harmonized Commerce", "synthesis": "The federal government's role in addressing interprovincial trade disputes is crucial for maintaining a coherent national economy. Mediation and, if necessary, legislative action are appropriate to harmonize standards and remove barriers, benefiting all Canadians." },
+          "right": { "label": "Provincial Economic Autonomy", "synthesis": "While internal trade is important, provinces should retain the primary authority to set standards and manage their internal markets. Federal overreach can stifle regional distinctiveness and hinder provinces' ability to protect their local industries and consumer preferences." }
+        },
+        "neutral": "The federal government has indicated its intent to intervene in an interprovincial trade dispute between Quebec and Ontario regarding agricultural standards, highlighting the ongoing challenge of internal trade barriers and the federal role in economic harmonization."
+      }
+    }
+  ],
+  "charter": [
+    {
+      "id": "CHR-CBC-20260618-01",
+      "category": "Charter",
+      "source": "CBC Politics",
+      "title": "New law to strip Canada's military of power to handle sexual assault cases",
+      "citation": "Bill C-11, Thu, 18 Jun 2026",
+      "summary": "The federal government has introduced Bill C-11, legislation designed to remove the Canadian Armed Forces' jurisdiction over the investigation and prosecution of military sexual assault cases, transferring these responsibilities to the civilian justice system. This legislative change, inspired by recommendations from Governor General Louise Arbour, aims to address systemic issues of sexual misconduct within the military and improve outcomes for victims. It raises significant Charter questions regarding the fair trial rights of accused military members (Section 11(d)), the right to security of the person for victims (Section 7), and potential equality rights implications (Section 15) concerning access to justice and institutional biases within the military justice system.",
+      "graph": ["Military Justice", "Sexual Assault", "Bill C-11", "Access to Justice", "Fair Trial Rights", "Equality Rights", "Charter s. 7", "Charter s. 11(d)", "Charter s. 15"],
+      "spectrum": {
+        "baseline": { "left": 65, "center": 25, "right": 10 },
+        "zones": {
+          "left": { "label": "Victim-Centred Reform", "synthesis": "This legislation is a long-overdue, essential reform to protect victims and ensure justice in sexual assault cases, challenging the military's insular culture and affirming the civilian justice system's capacity to handle these serious offenses, upholding Charter values." },
+          "center": { "label": "Balancing System Integrity", "synthesis": "The bill seeks to balance the unique requirements of military discipline with the imperative of addressing sexual misconduct effectively. It's a pragmatic step to rebuild trust while navigating potential impacts on military justice and command authority." },
+          "right": { "label": "Undermining Military Autonomy", "synthesis": "Stripping the military of this core function could undermine its disciplinary authority and operational effectiveness. While victim support is crucial, a robust military justice system is necessary for command, and this transfer may lead to unintended consequences for military readiness and morale." }
+        },
+        "neutral": "The federal government's Bill C-11 proposes to transfer jurisdiction for military sexual assault cases from the Canadian Armed Forces to the civilian justice system, a move prompted by calls for reform and raising Charter implications for both victims and accused."
+      }
+    },
+    {
+      "id": "CHR-CBC-20260617-01",
+      "category": "Charter",
+      "source": "CBC Politics",
+      "title": "Canadian government should 'indefinitely exclude' people with mental illness from MAID, committee recommends",
+      "citation": "Wed, 17 Jun 2026, Parliamentary Committee Report",
+      "summary": "A special parliamentary committee has recommended that the federal government indefinitely postpone the expansion of Medical Assistance in Dying (MAID) to individuals whose sole underlying condition is a mental illness. This recommendation, following extensive consultations, reflects ongoing societal and medical debates about the complexities of assessing voluntariness, irremediability, and the capacity for consent in cases of severe mental illness. The committee's stance directly engages Charter Sections 7 (right to life, liberty, and security of the person) and 15 (equality rights), as arguments have been made that excluding individuals with mental illness constitutes discrimination, while others contend that the inherent vulnerabilities require exceptional caution to protect the right to life.",
+      "graph": ["MAID", "Mental Health", "Equality Rights", "Right to Life", "Parliamentary Review", "Medical Ethics", "Charter s. 7", "Charter s. 15"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "zones": {
+          "left": { "label": "Upholding Autonomy and Equality", "synthesis": "The recommendation to exclude those with mental illness from MAID is discriminatory, denying equal access to end-of-life options for a vulnerable group. True autonomy requires respecting an individual's informed choice, regardless of their condition, under Charter equality principles." },
+          "center": { "label": "Prioritizing Prudence and Safeguards", "synthesis": "The committee's cautious recommendation reflects the profound ethical and practical complexities of MAID for mental illness. It prioritizes the need for robust safeguards and further study to ensure MAID is applied justly and humanely, without compromising the right to life." },
+          "right": { "label": "Protecting Vulnerable Lives", "synthesis": "This exclusion is a necessary step to protect vulnerable individuals who may not be able to provide truly free and informed consent, particularly given the potential for recovery or management of mental illness. Expanding MAID to this group risks devaluing life." }
+        },
+        "neutral": "A parliamentary committee has recommended the indefinite exclusion of individuals whose sole condition is mental illness from eligibility for Medical Assistance in Dying, prompting continued debate on Charter rights related to autonomy, equality, and the protection of vulnerable persons."
+      }
+    },
+    {
+      "id": "CHR-SCC-2026SCC16-01",
+      "category": "Charter",
+      "source": "Slaw (CanLII What's Hot)",
+      "title": "Supreme Court clarifies legal recognition of intimate partner violence and coercive control",
+      "citation": "2026 SCC 16, Ahluwalia v. Ahluwalia",
+      "summary": "In *Ahluwalia v. Ahluwalia*, the Supreme Court of Canada provided crucial clarification on the legal understanding and treatment of intimate partner violence (IPV) and coercive control within the Canadian legal system. While details of the specific holding are broad (related to IPV as 'more than the sum of its parts'), the decision is expected to influence how courts assess harm, establish causation, and apply remedies in cases involving patterns of abuse, both in criminal and family law contexts. This ruling implicitly engages Section 7 of the Charter (right to security of the person) and Section 15 (equality rights), by seeking to ensure that legal frameworks adequately recognize and respond to the systemic nature and gendered dimensions of IPV, thus improving access to justice and protection for victims.",
+      "graph": ["Intimate Partner Violence", "Coercive Control", "Systemic Discrimination", "Access to Justice", "Family Law", "Criminal Law", "Charter s. 7", "Charter s. 15"],
+      "spectrum": {
+        "baseline": { "left": 65, "center": 25, "right": 10 },
+        "zones": {
+          "left": { "label": "Holistic Justice for Survivors", "synthesis": "This decision represents a progressive leap towards a more just and responsive legal system for survivors of IPV, acknowledging the complex, cumulative harm of coercive control and paving the way for more effective legal interventions and protections based on Charter equality principles." },
+          "center": { "label": "Evolving Legal Standards", "synthesis": "The ruling provides necessary guidance to courts on consistently applying legal principles to IPV cases, reflecting an evolving understanding of abuse patterns. It aims to standardize judicial approaches within existing legal frameworks." },
+          "right": { "label": "Balancing Due Process", "synthesis": "While addressing IPV is crucial, expanding definitions of coercive control must be balanced with robust due process protections for the accused. Overly broad interpretations risk blurring traditional evidentiary standards and impacting judicial neutrality." }
+        },
+        "neutral": "The Supreme Court of Canada's decision in *Ahluwalia v. Ahluwalia* offers significant clarification on the legal recognition of intimate partner violence and coercive control, with implications for how systemic abuse is addressed in both family and criminal law."
+      }
+    },
+    {
+      "id": "CHR-EXT-2026Q3-01",
+      "category": "Charter",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Digital rights advocates launch Charter challenge against government's expanded online surveillance powers",
+      "citation": "Hypothetical Legal Challenge, Summer 2026",
+      "summary": "A coalition of digital rights organizations and privacy advocates has initiated a Charter challenge against recently enacted federal legislation that grants new and expanded online surveillance powers to law enforcement agencies. The challenge argues that provisions allowing for warrantless access to certain metadata and real-time monitoring of online activities infringe upon Canadians' Section 8 Charter right against unreasonable search and seizure and Section 7 rights to liberty and security of the person. The case is expected to test the balance between state security interests and individual privacy rights in the digital age, with significant implications for internet freedom and data protection in Canada.",
+      "graph": ["Digital Rights", "Privacy", "Surveillance Law", "Online Freedom", "Charter s. 7", "Charter s. 8", "Metadata", "Law Enforcement"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 30, "right": 10 },
+        "zones": {
+          "left": { "label": "Protecting Fundamental Freedoms", "synthesis": "This Charter challenge is vital for safeguarding privacy and democratic freedoms against state overreach in the digital realm. Unchecked surveillance erodes trust and chills expression, necessitating robust judicial review to uphold constitutional rights in the internet era." },
+          "center": { "label": "Balancing Security and Privacy", "synthesis": "The challenge highlights the ongoing tension between national security imperatives and individual privacy. The courts will be tasked with drawing a proportionate line, ensuring law enforcement has necessary tools while protecting citizens' rights with reasonable safeguards." },
+          "right": { "label": "Ensuring Public Safety", "synthesis": "Effective online surveillance is a critical tool for law enforcement to combat serious crime and national security threats. This challenge risks impeding essential security operations, potentially endangering the public by restricting necessary investigative capabilities." }
+        },
+        "neutral": "Digital rights groups have launched a Charter challenge against new federal legislation, arguing that expanded online surveillance powers infringe on Section 8 and 7 Charter rights, initiating a legal test of privacy rights versus state security in the digital age."
+      }
+    },
+    {
+      "id": "CHR-EXT-2026Q3-02",
+      "category": "Charter",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Electoral reform advocacy group challenges federal election spending limits under freedom of expression",
+      "citation": "Hypothetical Legal Challenge, Fall 2026",
+      "summary": "An independent electoral reform advocacy group has filed a Charter challenge against the federal government's existing election spending limits, arguing that they unconstitutionally restrict freedom of expression and political participation under Section 2(b) of the Charter of Rights and Freedoms. The group contends that the current caps disproportionately limit the ability of non-partisan organizations and smaller political entities to engage in public debate during election periods, thereby hindering informed public discourse. This challenge re-opens a long-standing debate about the balance between preventing undue influence in elections and protecting fundamental democratic freedoms.",
+      "graph": ["Electoral Law", "Freedom of Expression", "Campaign Finance", "Political Participation", "Charter s. 2(b)", "Democratic Rights"],
+      "spectrum": {
+        "baseline": { "left": 50, "center": 30, "right": 20 },
+        "zones": {
+          "left": { "label": "Empowering Grassroots Engagement", "synthesis": "Relaxing spending limits is crucial for fostering a more robust and inclusive democratic discourse, ensuring that diverse voices, not just well-funded political parties, can effectively inform and persuade the public, strengthening freedom of expression." },
+          "center": { "label": "Refining Democratic Balance", "synthesis": "This challenge necessitates a careful judicial review of how spending limits impact democratic fairness. The goal is to fine-tune the balance between preventing corruption or undue influence and allowing for broad public participation and expression in elections." },
+          "right": { "label": "Curbing External Influence", "synthesis": "Strict spending limits are vital to prevent special interests from dominating election campaigns and ensure a level playing field. Loosening these regulations risks allowing large donors and wealthy organizations to disproportionately influence democratic outcomes." }
+        },
+        "neutral": "An advocacy group has launched a Charter challenge against federal election spending limits, alleging they violate Section 2(b) freedom of expression by restricting political discourse, prompting a review of the balance between campaign finance regulation and democratic rights."
+      }
+    }
+  ],
+  "indigenous": [
+    {
+      "id": "IND-CBC-20260617-01",
+      "category": "Indigenous",
+      "source": "CBC Politics",
+      "title": "Clean water bill shows 'troubling shift' from recognizing First Nations rights, says national chief",
+      "citation": "Wed, 17 Jun 2026, Federal Clean Water Bill",
+      "summary": "The Assembly of First Nations (AFN) National Chief Cindy Woodhouse Nepinak has criticized the federal government's newly tabled clean drinking water legislation, asserting it represents a 'troubling shift' by removing key protections present in previous proposed legislation. The criticism suggests the bill may dilute federal commitments to First Nations' inherent rights to self-determination and self-government, particularly regarding jurisdiction over water on reserves. This development reignites concerns about the federal government's approach to fulfilling its constitutional obligations under Section 35 of the Constitution Act, 1982, and the implementation of UNDRIP principles, potentially impacting reconciliation efforts and access to essential services for Indigenous communities.",
+      "graph": ["Clean Water", "First Nations Rights", "Self-Determination", "UNDRIP", "Federal Legislation", "Indigenous Sovereignty", "Section 35"],
+      "spectrum": {
+        "baseline": { "left": 70, "center": 20, "right": 10 },
+        "zones": {
+          "left": { "label": "Undermining Indigenous Autonomy", "synthesis": "The federal government's removal of key protections in the clean water bill is a regressive step that undermines First Nations' inherent rights and self-governance over essential resources. It demonstrates a failure to genuinely advance reconciliation and implement UNDRIP." },
+          "center": { "label": "Navigating Complex Jurisdictions", "synthesis": "Crafting clean water legislation that respects diverse First Nations contexts is complex. The changes, while criticized, may represent an attempt to find practical, implementable solutions within existing jurisdictional frameworks, requiring further dialogue." },
+          "right": { "label": "Ensuring Fiscal Responsibility", "synthesis": "While clean water is paramount, legislative changes may aim to ensure fiscal accountability and effective program delivery, avoiding overly broad language that could create unforeseen financial or administrative burdens on all levels of government." }
+        },
+        "neutral": "The AFN National Chief has criticized the federal government's new clean water bill, stating it removes key protections for First Nations rights, raising concerns about federal commitments to self-determination and Section 35 constitutional obligations."
+      }
+    },
+    {
+      "id": "IND-EXT-2026Q3-01",
+      "category": "Indigenous",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Historic land claim settlement reached between Federal Government and Pacific Coast First Nation",
+      "citation": "Hypothetical Settlement Agreement, Summer 2026",
+      "summary": "A groundbreaking agreement has been reached between the federal government and the Coastal Winds First Nation in British Columbia, resolving a multi-generational comprehensive land claim encompassing vast traditional territories and significant resource rights. The settlement, which includes financial compensation, land transfers, and provisions for co-management of natural resources, marks a pivotal moment for reconciliation and the practical implementation of Section 35 Aboriginal and treaty rights. This development is expected to have far-reaching implications for future land claim negotiations across Canada, potentially accelerating similar processes and setting new benchmarks for Indigenous economic and self-governance frameworks.",
+      "graph": ["Land Claims", "Treaty Rights", "Section 35", "Self-Government", "Co-Management", "Reconciliation", "British Columbia"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 30, "right": 10 },
+        "zones": {
+          "left": { "label": "Advancing True Reconciliation", "synthesis": "This historic settlement is a testament to the perseverance of Indigenous peoples and a critical step towards genuine reconciliation, rectifying historical injustices and affirming inherent rights to land and self-determination, benefiting all Canadians." },
+          "center": { "label": "Pragmatic Dispute Resolution", "synthesis": "The settlement demonstrates a functional approach to resolving complex land claims through negotiation, providing clarity and stability for both Indigenous communities and surrounding regions while upholding constitutional obligations." },
+          "right": { "label": "Fiscal Implications & Certainty", "synthesis": "While acknowledging historical grievances, the long-term fiscal implications of such large-scale settlements warrant careful scrutiny. Future agreements must balance redress with economic sustainability and regulatory certainty for resource development." }
+        },
+        "neutral": "A historic comprehensive land claim settlement has been reached between the federal government and the Coastal Winds First Nation, involving land, financial compensation, and resource co-management, signaling a significant advance in reconciliation and Section 35 implementation."
+      }
+    },
+    {
+      "id": "IND-EXT-2026Q4-02",
+      "category": "Indigenous",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Indigenous-led renewable energy project faces provincial permit delays, sparking jurisdictional debate",
+      "citation": "Hypothetical Project Delay, Fall 2026",
+      "summary": "An Indigenous-led major renewable energy project in Northern Ontario is facing significant delays due to protracted provincial environmental permitting processes, leading to accusations of systemic barriers and a challenge to provincial jurisdiction. The First Nation developing the project argues that its inherent right to self-government and economic development, protected under Section 35 of the Constitution, should prioritize its own regulatory processes, especially where the project is situated on traditional territory and supported by an impact benefits agreement. This situation has escalated into a federal-provincial jurisdictional debate, with the federal government considering intervention to support Indigenous economic sovereignty and its climate objectives.",
+      "graph": ["Indigenous Economic Development", "Renewable Energy", "Provincial Permits", "Section 35", "Self-Government", "Jurisdictional Dispute", "Environmental Assessment"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 30, "right": 10 },
+        "zones": {
+          "left": { "label": "Empowering Indigenous-led Development", "synthesis": "Delays to Indigenous-led projects are unacceptable and undermine self-determination and economic reconciliation. Federal intervention is critical to ensure provincial processes don't create discriminatory barriers, allowing Indigenous communities to drive sustainable development." },
+          "center": { "label": "Streamlining Regulatory Frameworks", "synthesis": "This case highlights the need for better intergovernmental coordination and streamlined regulatory frameworks for Indigenous-led projects. Both federal and provincial governments must clarify roles to support economic development while upholding environmental standards." },
+          "right": { "label": "Maintaining Regulatory Integrity", "synthesis": "Provincial permitting processes are in place to ensure environmental due diligence and public safety. Bypassing these for specific projects, even Indigenous-led, sets a concerning precedent and could compromise established regulatory oversight." }
+        },
+        "neutral": "An Indigenous-led renewable energy project in Ontario is experiencing delays due to provincial permitting, initiating a debate over provincial jurisdiction versus inherent Indigenous rights under Section 35 and potentially prompting federal intervention."
+      }
+    },
+    {
+      "id": "IND-EXT-2026Q4-03",
+      "category": "Indigenous",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Federal government releases updated action plan on UNDRIP implementation, faces mixed reviews",
+      "citation": "Hypothetical Policy Release, Late 2026",
+      "summary": "The federal government has unveiled an updated national action plan for the implementation of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), outlining new legislative and policy initiatives aimed at aligning Canadian laws with the Declaration. The plan has received mixed reviews, with some Indigenous leaders praising specific commitments, while others express concern over the pace of change, the lack of immediate legislative impacts, and the continued reliance on a 'recognition and implementation' framework rather than full adoption of Indigenous sovereignty. This ongoing process highlights the complexities of integrating international Indigenous rights standards into domestic law and policy, impacting Section 35 interpretation and reconciliation efforts.",
+      "graph": ["UNDRIP Implementation", "Reconciliation", "Indigenous Rights", "Federal Policy", "Self-Determination", "Section 35"],
+      "spectrum": {
+        "baseline": { "left": 50, "center": 30, "right": 20 },
+        "zones": {
+          "left": { "label": "Foundational for True Reconciliation", "synthesis": "The updated UNDRIP action plan is a crucial, though still incomplete, step towards true reconciliation, recognizing and upholding the inherent rights of Indigenous peoples. It requires bolder, swifter legislative action to dismantle colonial structures and empower self-determination." },
+          "center": { "label": "Progressive Policy Evolution", "synthesis": "The action plan demonstrates the government's ongoing commitment to UNDRIP implementation through an incremental, adaptive approach. It signals progress while acknowledging the long-term, complex nature of legislative and policy reforms needed for reconciliation." },
+          "right": { "label": "Balancing Rights and Governance", "synthesis": "Implementing UNDRIP requires careful consideration of its impact on existing legal and governance structures. The government's plan must balance Indigenous rights with the rights of all Canadians and ensure clarity in property and regulatory frameworks." }
+        },
+        "neutral": "The federal government has released an updated action plan for UNDRIP implementation, proposing new initiatives but receiving mixed reactions regarding the depth and pace of aligning Canadian law with Indigenous rights and self-determination."
+      }
+    },
+    {
+      "id": "IND-EXT-2026Q4-04",
+      "category": "Indigenous",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "New report highlights continued challenges in First Nations child welfare, calls for urgent provincial action",
+      "citation": "Hypothetical Policy Report, Late 2026",
+      "summary": "A comprehensive new report has exposed continued systemic challenges and inequities in First Nations child welfare systems across several provinces, despite the enactment of federal legislation (Bill C-92) affirming Indigenous jurisdiction. The report calls for urgent and coordinated provincial action to transfer jurisdiction, adequately fund Indigenous-led services, and dismantle discriminatory practices that contribute to the overrepresentation of Indigenous children in care. This situation underscores the implementation gap between federal policy and provincial execution, and the ongoing need to realize Section 35 Aboriginal rights in the context of child and family services, particularly given the 'best interests of the child' principle and the legacy of residential schools.",
+      "graph": ["Indigenous Child Welfare", "Bill C-92", "Provincial Funding", "Systemic Discrimination", "Overrepresentation", "Section 35", "Self-Determination"],
+      "spectrum": {
+        "baseline": { "left": 75, "center": 15, "right": 10 },
+        "zones": {
+          "left": { "label": "Upholding Children's Rights", "synthesis": "The report's findings demand immediate and robust provincial action to support Indigenous-led child welfare, ending discriminatory practices and fully transferring jurisdiction to ensure Indigenous children are raised in their communities, upholding their rights and cultural heritage." },
+          "center": { "label": "Collaborative Implementation Efforts", "synthesis": "The report highlights the complex, multi-jurisdictional nature of child welfare reform. Continued collaboration between federal, provincial, and Indigenous governments is necessary to overcome implementation barriers and ensure effective, culturally appropriate services." },
+          "right": { "label": "Fiscal Sustainability and Oversight", "synthesis": "While reform is necessary, the report's recommendations must be carefully assessed for fiscal sustainability and effective oversight. Ensuring accountability for transferred funds and maintaining safety standards are paramount in any jurisdictional shift." }
+        },
+        "neutral": "A new report identifies persistent challenges in First Nations child welfare, urging provinces to accelerate jurisdiction transfer and funding for Indigenous-led services, highlighting implementation gaps in federal legislation (Bill C-92) and Section 35 rights."
+      }
+    }
+  ],
+  "criminal": [
+    {
+      "id": "CRM-CBC-20260618-01",
+      "category": "Criminal",
+      "source": "CBC Politics",
+      "title": "New law to strip Canada's military of power to handle sexual assault cases",
+      "citation": "Bill C-11, Thu, 18 Jun 2026",
+      "summary": "The federal government has introduced Bill C-11, which will transfer jurisdiction for military sexual assault cases from the Canadian Armed Forces to the civilian justice system. This legislative reform, stemming from Governor General Louise Arbour's recommendations, aims to enhance justice for victims and address criticisms regarding the military's handling of such sensitive cases. The move signifies a major overhaul of a specific component of the Canadian criminal justice system, reflecting a societal shift towards greater accountability and specialized legal processes for sexual offenses, potentially improving victim trust and conviction rates.",
+      "graph": ["Military Justice", "Sexual Assault", "Bill C-11", "Criminal Code", "Victim Rights", "Justice Reform", "Accountability"],
+      "spectrum": {
+        "baseline": { "left": 65, "center": 25, "right": 10 },
+        "zones": {
+          "left": { "label": "Essential Victim Protection", "synthesis": "This legislation is a critical step towards ensuring justice for sexual assault survivors within the military, removing cases from an insular system that historically failed victims and placing them under the rigorous, independent civilian courts." },
+          "center": { "label": "Modernizing Justice Processes", "synthesis": "The transfer of jurisdiction is a measured response to evolving societal expectations for sexual assault cases, aiming to standardize justice processes across Canada while adapting to the unique contexts of military service." },
+          "right": { "label": "Undermining Military Discipline", "synthesis": "While addressing sexual assault is vital, removing these cases from the military justice system risks undermining command authority and the unique disciplinary needs of the armed forces, potentially impacting operational effectiveness and unit cohesion." }
+        },
+        "neutral": "The federal government's Bill C-11 proposes to shift the investigation and prosecution of military sexual assault cases to the civilian justice system, a significant reform intended to address systemic issues and improve justice outcomes."
+      }
+    },
+    {
+      "id": "CRM-CBC-20260617-02",
+      "category": "Criminal",
+      "source": "CBC Politics",
+      "title": "Quebec-based RCMP officer charged with uttering threats online toward Donald Trump",
+      "citation": "Wed, 17 Jun 2026",
+      "summary": "A Quebec-based RCMP officer has been arrested and charged with uttering threats online directed at former U.S. President Donald Trump. This incident highlights the application of criminal law, specifically Section 264.1 of the Criminal Code (uttering threats), to online conduct, particularly when involving public figures or international targets. It underscores the challenges law enforcement faces in monitoring and prosecuting online threats, the implications for public servants' conduct, and the complexities of cross-border implications in an increasingly digital world. The case will likely examine the threshold for a 'threat' in an online context and the standard of conduct expected of police officers.",
+      "graph": ["Uttering Threats", "Online Threats", "RCMP", "Criminal Code", "Public Servant Conduct", "International Relations", "Freedom of Expression"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 50, "right": 10 },
+        "zones": {
+          "left": { "label": "Accountability for Online Misconduct", "synthesis": "This charge demonstrates that online threats, especially from public officials, will be met with serious legal consequences, reinforcing the need for accountability in digital spaces and condemning any form of political intimidation." },
+          "center": { "label": "Upholding Rule of Law", "synthesis": "The arrest and charges reflect the impartial application of the Criminal Code to all individuals, including law enforcement, ensuring that online threats are investigated and prosecuted through due process, regardless of the target's political status." },
+          "right": { "label": "Contextualizing Online Speech", "synthesis": "While threats are serious, the context of online communication can be complex. Investigations must carefully distinguish between genuine threats and potentially hyperbole or political commentary, ensuring freedom of expression is not unduly stifled." }
+        },
+        "neutral": "A Quebec-based RCMP officer has been charged with uttering threats online against Donald Trump, bringing attention to the criminalization of online threats and the conduct expectations for public service members."
+      }
+    },
+    {
+      "id": "CRM-SCC-2026SCC21-01",
+      "category": "Criminal",
+      "source": "Slaw (Supreme One-Liners)",
+      "title": "Supreme Court clarifies approach to conflicting evidence in sexual assault cases",
+      "citation": "2026 SCC 21, R. v. Berg",
+      "summary": "The Supreme Court of Canada, in *R. v. Berg*, delivered a judgment clarifying the principles and procedures for judges when assessing conflicting evidence in sexual assault cases. This decision aims to provide further guidance to trial courts on how to properly evaluate credibility, account for the unique dynamics of sexual assault disclosures, and avoid relying on discredited myths and stereotypes. It underscores the importance of a nuanced and robust analytical framework in these sensitive cases, impacting judicial training, appellate review, and potentially leading to more consistent and just outcomes for both complainants and accused within the criminal justice system.",
+      "graph": ["Sexual Assault", "Conflicting Evidence", "Credibility Assessment", "Judicial Reasoning", "Criminal Procedure", "Victim Rights", "Fair Trial"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 30, "right": 10 },
+        "zones": {
+          "left": { "label": "Enhanced Justice for Survivors", "synthesis": "This ruling strengthens the judicial approach to sexual assault cases, ensuring that complex evidence is assessed fairly and sensitively, moving beyond outdated stereotypes and affirming the lived realities of survivors, improving access to justice." },
+          "center": { "label": "Refining Evidentiary Standards", "synthesis": "The decision offers necessary clarification for judges on navigating conflicting evidence, promoting consistency and rigor in legal reasoning, and ensuring fair process while acknowledging the unique challenges of sexual assault litigation." },
+          "right": { "label": "Maintaining Due Process Protections", "synthesis": "While aiming for fairness, judicial clarifications must be carefully balanced to ensure they do not inadvertently create a lower burden of proof for the prosecution or compromise the presumption of innocence for the accused in such serious matters." }
+        },
+        "neutral": "The Supreme Court of Canada's decision in *R. v. Berg* clarifies the framework for judges to assess conflicting evidence in sexual assault cases, aiming to enhance the fairness and consistency of judicial outcomes."
+      }
+    },
+    {
+      "id": "CRM-SCC-2026SCC16-02",
+      "category": "Criminal",
+      "source": "Slaw (CanLII What's Hot)",
+      "title": "Supreme Court elevates understanding of coercive control in criminal contexts",
+      "citation": "2026 SCC 16, Ahluwalia v. Ahluwalia",
+      "summary": "In *Ahluwalia v. Ahluwalia*, the Supreme Court of Canada's detailed consideration of intimate partner violence (IPV) and coercive control has significant ramifications for criminal law. By emphasizing that IPV is 'more than the sum of its parts' and recognizing the cumulative impact of various forms of abuse, the decision encourages courts to take a more holistic view when assessing criminal responsibility, sentencing, and potentially the development of new offenses or interpretations of existing ones (e.g., criminal harassment, assault). This judgment will influence police investigations, prosecutorial strategies, and judicial reasoning in cases involving domestic violence, aiming to better reflect the lived experience of victims and hold perpetrators accountable for patterns of control, aligning with broader criminal justice reforms.",
+      "graph": ["Intimate Partner Violence", "Coercive Control", "Criminal Law", "Sentencing", "Police Investigations", "Prosecutorial Strategy", "Accountability"],
+      "spectrum": {
+        "baseline": { "left": 65, "center": 25, "right": 10 },
+        "zones": {
+          "left": { "label": "Strengthening Anti-Violence Frameworks", "synthesis": "This ruling is a powerful recognition of the insidious nature of coercive control, empowering the criminal justice system to address patterns of abuse more effectively, thereby enhancing victim safety and perpetrator accountability." },
+          "center": { "label": "Evolving Legal Application", "synthesis": "The decision provides necessary interpretative guidance for applying criminal law to complex cases of intimate partner violence, promoting a more consistent and informed approach within the existing legal framework." },
+          "right": { "label": "Maintaining Evidentiary Precision", "synthesis": "While addressing domestic violence is crucial, expanding criminal law interpretations to encompass 'coercive control' as a pattern must be done carefully to ensure evidentiary precision and avoid overly broad applications that could undermine due process." }
+        },
+        "neutral": "The Supreme Court of Canada's decision in *Ahluwalia v. Ahluwalia* provides significant guidance on understanding and addressing coercive control within criminal law, encouraging a holistic assessment of intimate partner violence in the justice system."
+      }
+    },
+    {
+      "id": "CRM-EXT-2026Q3-01",
+      "category": "Criminal",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Federal government proposes new legislation to combat organized crime and gun violence",
+      "citation": "Hypothetical Bill Introduction, Summer 2026",
+      "summary": "The federal government has unveiled new legislative proposals aimed at strengthening measures to combat organized crime and reduce gun violence across Canada. The proposed bill includes provisions for enhanced police powers to intercept communications, new mandatory minimum sentences for specific firearms offenses linked to organized crime, and increased funding for community-based crime prevention programs. This move is a response to rising concerns over public safety and escalating criminal activity, sparking debate over the balance between effective law enforcement tools, Charter rights (particularly Sections 8 and 11), and the efficacy of punitive versus preventative approaches to crime.",
+      "graph": ["Organized Crime", "Gun Violence", "Police Powers", "Mandatory Minimums", "Crime Prevention", "Criminal Code Amendments", "Charter s. 8", "Charter s. 11"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 30, "right": 40 },
+        "zones": {
+          "left": { "label": "Prioritizing Root Causes and Rights", "synthesis": "True crime reduction demands addressing social determinants and investing in community-led prevention, not expanding police powers or punitive measures that disproportionately impact marginalized groups and risk Charter violations." },
+          "center": { "label": "Balanced Public Safety Strategy", "synthesis": "The proposed legislation seeks a pragmatic balance, combining enhanced enforcement tools with community prevention. It's a comprehensive approach to address public safety concerns, subject to necessary Charter scrutiny." },
+          "right": { "label": "Strengthening Law and Order", "synthesis": "These measures are essential to restore public safety by giving law enforcement the necessary tools and sending a clear message to organized criminals. Stronger penalties and surveillance are critical to deter and disrupt serious crime effectively." }
+        },
+        "neutral": "The federal government has introduced new legislation aimed at combating organized crime and gun violence through enhanced police powers, new sentencing guidelines, and crime prevention funding, sparking debate on public safety and Charter implications."
+      }
+    }
+  ],
+  "immigration": [
+    {
+      "id": "IMM-CBC-20260617-01",
+      "category": "Immigration",
+      "source": "CBC Politics",
+      "title": "Canada's population drops in first quarter of 2026",
+      "citation": "Wed, 17 Jun 2026, Statistics Canada",
+      "summary": "Statistics Canada reported a decrease of approximately 55,000 people in Canada's population during the first quarter of 2026, bringing the total to 41,417,056 as of April 1. This marks a notable shift from previous periods of sustained growth, which have largely been driven by immigration. The unexpected decline will likely prompt discussions within the federal government about the effectiveness of current immigration policies, their impact on economic growth and labour markets, and the potential need for strategic adjustments to immigration targets or programs to counteract demographic shifts and maintain Canada's long-term population goals.",
+      "graph": ["Population Decline", "Demographic Trends", "Immigration Policy", "Economic Growth", "Labour Market", "Statistics Canada"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 50, "right": 20 },
+        "zones": {
+          "left": { "label": "Rethinking Sustainable Growth", "synthesis": "The population drop provides an opportunity to reassess growth strategies, focusing on sustainable immigration levels and better integration to support existing communities, rather than solely prioritizing numbers at the expense of social infrastructure." },
+          "center": { "label": "Policy Adjustment Imperative", "synthesis": "The demographic data necessitates a careful review of current immigration policies to ensure they align with economic needs and long-term population targets, potentially requiring calibrated adjustments to programs and intake levels." },
+          "right": { "label": "Focusing on Domestic Growth", "synthesis": "This dip signals an over-reliance on immigration for population growth. Policies should prioritize supporting domestic birth rates and retaining skilled workers already in Canada, while ensuring immigration aligns with economic capacity and social cohesion." }
+        },
+        "neutral": "Canada's population saw a decline of 55,000 in Q1 2026, according to Statistics Canada, prompting a potential review of current immigration strategies in response to demographic trends and their economic implications."
+      }
+    },
+    {
+      "id": "IMM-EXT-2026Q3-01",
+      "category": "Immigration",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Federal government announces emergency review of immigration levels plan amid population decline concerns",
+      "citation": "Hypothetical Policy Announcement, Summer 2026",
+      "summary": "In response to the recent unexpected population decline, the federal government has initiated an emergency review of its multi-year immigration levels plan. The Minister of Immigration, Refugees and Citizenship stated that the review will assess current targets, program streams, and regional distribution strategies to ensure immigration continues to meet Canada's economic and demographic needs. This immediate action signals a potential pivot in federal immigration policy, possibly leading to adjustments in intake numbers, a greater focus on economic class immigrants, or new incentives for retention, directly impacting future immigration flows and the Canadian labour market.",
+      "graph": ["Immigration Levels Plan", "Population Policy", "Economic Immigration", "Labour Shortages", "Federal Review", "Demographic Change"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 50, "right": 20 },
+        "zones": {
+          "left": { "label": "Holistic Integration Strategy", "synthesis": "The review must move beyond raw numbers, prioritizing robust settlement services and ethical recruitment to ensure immigrants are well-integrated, contributing sustainably to Canada's social fabric and regional economies, not just filling short-term gaps." },
+          "center": { "label": "Adaptive Policy Response", "synthesis": "An emergency review is a prudent and necessary step to ensure Canada's immigration system remains agile and responsive to evolving demographic and economic realities, maintaining a data-driven approach to national planning." },
+          "right": { "label": "Controlling Growth for Stability", "synthesis": "This review must lead to a more conservative and controlled immigration strategy, ensuring that infrastructure and social services can adequately support new arrivals without overburdening existing Canadian communities or compromising quality of life." }
+        },
+        "neutral": "The federal government has launched an emergency review of its immigration levels plan following recent population declines, indicating a potential adjustment to future immigration targets and program strategies to address demographic and economic needs."
+      }
+    },
+    {
+      "id": "IMM-EXT-2026Q3-02",
+      "category": "Immigration",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Advocacy groups launch Charter challenge against 'Safe Third Country Agreement' detention practices",
+      "citation": "Hypothetical Legal Challenge, Fall 2026",
+      "summary": "A coalition of refugee and human rights advocacy groups has initiated a new Charter challenge against the application of the 'Safe Third Country Agreement' (STCA) and its impact on asylum seekers, specifically targeting practices leading to prolonged detention and refoulement risks. The challenge argues that aspects of the STCA, particularly concerning individuals arriving at unofficial border crossings, violate Section 7 (right to life, liberty, and security of the person) and Section 15 (equality rights) of the Charter by denying adequate access to the asylum process and exposing vulnerable individuals to unsafe conditions. This legal action seeks to revisit the constitutionality of key elements of Canada's refugee policy and its international agreements.",
+      "graph": ["Safe Third Country Agreement", "Refugee Rights", "Asylum Seekers", "Immigration Detention", "Charter s. 7", "Charter s. 15", "Human Rights", "Border Policy"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 30, "right": 10 },
+        "zones": {
+          "left": { "label": "Upholding Human Dignity", "synthesis": "The STCA is fundamentally unjust and violates Canada's international and Charter obligations. This challenge is critical to ensuring all asylum seekers are treated with dignity, receive due process, and are not returned to unsafe conditions." },
+          "center": { "label": "Clarifying Legal Boundaries", "synthesis": "This challenge provides a necessary judicial forum to clarify the constitutional boundaries of the STCA and immigration detention policies, ensuring they adhere to Charter principles while maintaining orderly border management." },
+          "right": { "label": "Securing Border Integrity", "synthesis": "While humanitarian concerns are valid, the STCA is a vital tool for managing irregular migration and upholding the integrity of Canada's borders. Weakening it risks encouraging unsafe crossings and undermining the established immigration system." }
+        },
+        "neutral": "Advocacy groups have launched a Charter challenge against the 'Safe Third Country Agreement' and associated detention practices, arguing violations of Section 7 and 15 rights for asylum seekers and seeking a review of Canada's refugee policies."
+      }
+    },
+    {
+      "id": "IMM-EXT-2026Q4-03",
+      "category": "Immigration",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Federal government implements new regulations for international student program to address exploitation concerns",
+      "citation": "Hypothetical Regulatory Change, Late 2026",
+      "summary": "The federal government has introduced a new set of stringent regulations for its international student program, aimed at curbing exploitation, ensuring student welfare, and addressing concerns about program integrity. The changes include increased financial requirements for study permits, stricter criteria for designated learning institutions, and new rules limiting off-campus work hours to encourage academic focus. These reforms follow widespread reports of vulnerable students facing precarious employment and housing shortages, highlighting a federal effort to balance economic benefits from international education with the protection of students' rights and the quality of the immigration system. It could impact the flow of students and the financial viability of some institutions.",
+      "graph": ["International Students", "Regulatory Reform", "Exploitation", "Student Welfare", "Immigration Policy", "Designated Learning Institutions", "Labour Market"],
+      "spectrum": {
+        "baseline": { "left": 55, "center": 35, "right": 10 },
+        "zones": {
+          "left": { "label": "Protecting Vulnerable Students", "synthesis": "These regulations are crucial for safeguarding international students from exploitation and ensuring their well-being. They reflect a progressive shift towards prioritizing human rights and ethical recruitment over purely economic gains in education." },
+          "center": { "label": "Strengthening Program Integrity", "synthesis": "The new regulations are a necessary adjustment to enhance the integrity and sustainability of the international student program, ensuring it serves both Canada's interests and provides genuine opportunities for students, preventing misuse." },
+          "right": { "label": "Economic Impact & Competitiveness", "synthesis": "While addressing concerns, these stringent regulations risk deterring legitimate international students and negatively impacting the economic contributions of the education sector. A more balanced approach to attract top talent is needed." }
+        },
+        "neutral": "The federal government has implemented new regulations for the international student program, increasing financial requirements and strengthening institutional oversight, in an effort to address student exploitation and program integrity concerns."
+      }
+    },
+    {
+      "id": "IMM-EXT-2026Q4-04",
+      "category": "Immigration",
+      "source": "The Spread Analysis (Extrapolated)",
+      "title": "Provinces call for greater autonomy in selecting economic immigrants through Provincial Nominee Programs",
+      "citation": "Hypothetical Provincial Lobby, Late 2026",
+      "summary": "A coalition of provincial governments has intensified lobbying efforts, requesting greater autonomy and a larger share of overall immigration targets for their Provincial Nominee Programs (PNPs). Citing specific labour market needs and regional economic development strategies, provinces argue that their tailored selection processes are more effective in addressing local shortages and integrating newcomers successfully. This push reflects ongoing federal-provincial dynamics in immigration policy, where provinces seek more control over who settles within their borders, potentially leading to a renegotiation of federal-provincial immigration agreements and a significant restructuring of Canada's multi-tiered immigration system.",
+      "graph": ["Provincial Nominee Programs", "Economic Immigration", "Federal-Provincial Relations", "Labour Market Needs", "Regional Development", "Immigration Autonomy"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 50, "right": 20 },
+        "zones": {
+          "left": { "label": "Empowering Regional Integration", "synthesis": "Granting provinces greater PNP autonomy fosters better regional integration and addresses local needs more effectively, promoting diverse settlement patterns and supporting smaller communities across Canada." },
+          "center": { "label": "Optimizing Federal-Provincial Collaboration", "synthesis": "This call for greater provincial control highlights the need for continued refinement of federal-provincial immigration agreements, seeking an optimal balance that respects both national objectives and regional priorities through collaboration." },
+          "right": { "label": "Maintaining National Cohesion", "synthesis": "While provincial input is valuable, overall immigration targets and standards must remain under federal control to ensure national cohesion, consistent policy, and prevent a fragmented system that could undermine Canada's unified approach to immigration." }
+        },
+        "neutral": "Provincial governments are advocating for greater autonomy and a larger allocation of economic immigrants through their Provincial Nominee Programs, emphasizing specific labour market needs and regional development goals, potentially leading to shifts in federal-provincial immigration agreements."
+      }
+    }
+  ]
+}
