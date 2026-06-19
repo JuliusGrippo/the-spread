@@ -58,6 +58,17 @@ def clean_full_text(url):
     except:
         return ""
 
+def parse_any_date(date_str):
+    """Handles both standard RSS dates and Supreme Court ATOM dates."""
+    if not date_str: return None
+    try:
+        return parsedate_to_datetime(date_str)
+    except:
+        try:
+            return datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+        except:
+            return None
+
 def execute_daily_triage():
     print("--- INITIATING DUAL-SPECTRUM TRIAGE EXTRACTION ---")
     raw_ingestion_batch = []
@@ -73,29 +84,42 @@ def execute_daily_triage():
                     continue
                     
                 root = ET.fromstring(response.content)
-                for item in root.findall(".//item"):
-                    raw_pub_date = item.findtext("pubDate")
-                    if not raw_pub_date:
-                        continue
+                
+                # Atom & RSS Unified Parsing Engine
+                for item in root.iter():
+                    clean_tag = item.tag.split('}')[-1] if '}' in item.tag else item.tag
+                    if clean_tag in ['item', 'entry']:
                         
-                    parsed_date = parsedate_to_datetime(raw_pub_date)
-                    if parsed_date < lookback_limit:
-                        continue
+                        raw_pub_date = None
+                        title = "Untitled Document"
+                        link = ""
+                        description = ""
                         
-                    title = item.findtext("title") or "Untitled Document"
-                    link = item.findtext("link") or ""
-                    description = item.findtext("description") or ""
-                    
-                    print(f" -> Processing Live Event: {title}")
-                    full_text_intel = clean_full_text(link) if link else ""
-                    
-                    raw_ingestion_batch.append({
-                        "spectrum_origin": spectrum_bracket,
-                        "title": title,
-                        "url": link,
-                        "snippet": description,
-                        "extracted_body": full_text_intel[:12000]
-                    })
+                        for child in item:
+                            ctag = child.tag.split('}')[-1] if '}' in child.tag else child.tag
+                            if ctag in ['pubDate', 'published', 'updated']:
+                                raw_pub_date = child.text
+                            elif ctag == 'title':
+                                title = child.text
+                            elif ctag == 'link':
+                                link = child.get('href') or child.text
+                            elif ctag in ['description', 'summary']:
+                                description = child.text
+                                
+                        parsed_date = parse_any_date(raw_pub_date)
+                        if not parsed_date or parsed_date < lookback_limit:
+                            continue
+                            
+                        print(f" -> Processing Live Event: {title}")
+                        full_text_intel = clean_full_text(link) if link else ""
+                        
+                        raw_ingestion_batch.append({
+                            "spectrum_origin": spectrum_bracket,
+                            "title": title,
+                            "url": link,
+                            "snippet": description,
+                            "extracted_body": full_text_intel[:12000]
+                        })
             except Exception as error:
                 print(f"[Warning] Skipping tracking node due to runtime volatility: {error}")
                 continue
@@ -188,18 +212,17 @@ def main():
                 file.write(ai_synthesis.text)
                 
             print("--- LIVE REBUILD METRICS APPLIED SUCCESSFULLY TO THE SPREAD ARCHIVE ---")
-            break # Success! Break out of the loop.
+            break
             
         except Exception as e:
             if "503" in str(e) or "UNAVAILABLE" in str(e) or "429" in str(e):
-                wait_time = 60 * (attempt + 1) # Waits 1 min, then 2 mins, then 3 mins...
-                print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds to try again...")
+                wait_time = 60 * (attempt + 1)
+                print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds...")
                 time.sleep(wait_time)
                 if attempt == max_retries - 1:
-                    print("[Error] Google API failed to respond after 5 attempts. Aborting for today.")
                     raise e
             else:
-                raise e # If it's a different kind of error, crash normally.
+                raise e
 
 if __name__ == "__main__":
     main()
