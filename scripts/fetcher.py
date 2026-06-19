@@ -172,8 +172,8 @@ def main():
     }}
     """
 
-    # Retry Failsafe Loop
-    max_retries = 3
+    # Exponential Backoff Retry Failsafe
+    max_retries = 5
     for attempt in range(max_retries):
         try:
             ai_synthesis = client.models.generate_content(
@@ -191,11 +191,12 @@ def main():
             break # Success! Break out of the loop.
             
         except Exception as e:
-            if "503" in str(e) or "UNAVAILABLE" in str(e):
-                print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting 30 seconds to try again...")
-                time.sleep(30)
+            if "503" in str(e) or "UNAVAILABLE" in str(e) or "429" in str(e):
+                wait_time = 60 * (attempt + 1) # Waits 1 min, then 2 mins, then 3 mins...
+                print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds to try again...")
+                time.sleep(wait_time)
                 if attempt == max_retries - 1:
-                    print("[Error] Google API failed to respond after 3 attempts. Aborting for today.")
+                    print("[Error] Google API failed to respond after 5 attempts. Aborting for today.")
                     raise e
             else:
                 raise e # If it's a different kind of error, crash normally.
