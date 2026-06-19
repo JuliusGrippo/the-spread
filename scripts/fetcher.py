@@ -111,10 +111,29 @@ def main():
 
     print(f"--- FEED TRIAGE COMPLETE: {len(payload)} RECENT ENTRIES SENT TO GEMINI ---")
     
-    system_instruction = """
+    # Check if today is Friday to trigger SCC Protocol
+    is_friday = datetime.now(timezone.utc).weekday() == 4
+    
+    scc_protocol = ""
+    if is_friday:
+        scc_protocol = """
+    *** SPECIAL FRIDAY PROTOCOL INITIATED ***
+    Today is Friday. The Supreme Court of Canada releases decisions today.
+    For ANY Supreme Court of Canada (SCC) decisions you find in the data, you MUST alter your analysis to match this specialized format:
+    - 'summary': You must extract and summarize the lower court decisions (Trial & Court of Appeal) leading up to the SCC ruling.
+    - 'zones.left.label': "Majority Reasons"
+    - 'zones.left.synthesis': Detail the SCC Majority's reasoning and the judge split (e.g., 5-4, 7-2).
+    - 'zones.center.label': "Concurring Reasons"
+    - 'zones.center.synthesis': Detail any concurring opinions. If none, detail the broader policy implications.
+    - 'zones.right.label': "Dissenting Reasons"
+    - 'zones.right.synthesis': Detail the dissenting judges' reasons.
+    - 'neutral': "Precedent Impact: [Confirming / Creating / Setting Aside] - [Brief explanation of how the common law or constitutional doctrine shifts]"
+    """
+
+    system_instruction = f"""
     You are the algorithmic core of 'The Spread' Intelligence Terminal. 
     Analyze the provided collection of raw Canadian news and judicial outputs from the last 24 hours.
-    
+    {scc_protocol}
     Your operational rules:
     1. Filter the events and compile entries for these specific domains: federalism, charter, indigenous, criminal, immigration.
     2. Aim for up to 8 entries per category if data allows.
@@ -123,48 +142,11 @@ def main():
     5. Always preserve the exact item URL in the 'url' field.
     
     Output format: You must return a single, clean JSON object matching this schema without markdown formatting blocks.
-    {
+    {{
       "federalism": [
-        {
+        {{
           "id": "unique-hash",
           "category": "Federalism",
           "source": "Outlet Name",
           "title": "Clear Technical Summary Headline",
-          "citation": "June 2026 Tracking Window",
-          "url": "The exact source URL provided",
-          "summary": "Deep contextual distillation of the legal or policy maneuver.",
-          "graph": ["Tag1", "Tag2"],
-          "spectrum": {
-            "baseline": { "left": 33, "center": 34, "right": 33 },
-            "zones": {
-              "left": { "label": "Progressive Context", "synthesis": "Analysis from left/social viewpoints." },
-              "center": { "label": "Procedural Context", "synthesis": "Analysis from neutral/judicial viewpoints." },
-              "right": { "label": "Conservative Context", "synthesis": "Analysis from decentralist/market viewpoints." }
-            },
-            "neutral": "Unified objective summary statement."
-          }
-        }
-      ],
-      "charter": [],
-      "indigenous": [],
-      "criminal": [],
-      "immigration": []
-    }
-    """
-
-    # NEW v2 SDK Generation Syntax
-    ai_synthesis = client.models.generate_content(
-        model='gemini-2.5-flash',
-        contents=f"{system_instruction}\n\nDATA INPUT BATCH:\n{json.dumps(payload)}",
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-        )
-    )
-    
-    with open("database.json", "w", encoding="utf-8") as file:
-        file.write(ai_synthesis.text)
-        
-    print("--- LIVE REBUILD METRICS APPLIED SUCCESSFULLY TO THE SPREAD ARCHIVE ---")
-
-if __name__ == "__main__":
-    main()
+          "citation": "June 2026
