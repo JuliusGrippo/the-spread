@@ -191,4 +191,133 @@ def execute_daily_triage():
                     continue 
                     
                 # Standard Media RSS Triage Loop
-                response = requests.get(target_url, headers
+                response = requests.get(target_url, headers=chrome_headers, timeout=12)
+                if response.status_code != 200: continue
+                root = ET.fromstring(response.content)
+                
+                for item in root.iter():
+                    clean_tag = item.tag.split('}')[-1].lower() if '}' in item.tag else item.tag.lower()
+                    if clean_tag in ['item', 'entry']:
+                        raw_pub_date, title, link, description = None, "Untitled Document", "", ""
+                        for child in item:
+                            ctag = child.tag.split('}')[-1].lower() if '}' in child.tag else child.tag.lower()
+                            if ctag in ['pubdate', 'published', 'updated', 'date']: raw_pub_date = child.text
+                            elif ctag == 'title': title = child.text
+                            elif ctag == 'link': link = child.get('href') if child.get('href') else child.text
+                            elif ctag in ['description', 'summary']: description = child.text
+                                
+                        parsed_date = parse_any_date(raw_pub_date)
+                        if not parsed_date or parsed_date < lookback_limit: continue
+                            
+                        print(f" -> Processing Live Event: {title}")
+                        
+                        # Dynamic Mask Check guarantees Jina is bypassed for all Federal Court feeds
+                        is_court_link = bool(link and any(d in link.lower() for d in ['scc-csc.ca', 'fca-caf.gc.ca', 'fct-cf.gc.ca', 'canlii.org']))
+                        full_text_intel = clean_full_text(link, is_court=is_court_link) if link else ""
+                        
+                        raw_ingestion_batch.append({
+                            "spectrum_origin": spectrum_bracket,
+                            "title": title, "url": link, "snippet": description,
+                            "extracted_body": full_text_intel[:7000] 
+                        })
+            except Exception as error:
+                print(f"[Warning] Skipping tracking node due to volatility: {error}")
+                continue
+                
+    return raw_ingestion_batch
+
+def main():
+    payload = execute_daily_triage()
+    if not payload:
+        print("Zero matching telemetry units discovered in the past 24 hours.")
+        with open("database.json", "w", encoding="utf-8") as f:
+            f.write(json.dumps({"federalism":[], "charter":[], "indigenous":[], "criminal":[], "immigration":[]}))
+        return
+
+    print(f"--- FEED TRIAGE COMPLETE: {len(payload)} RECENT ENTRIES SENT TO GEMINI ---")
+    
+    is_friday = datetime.now(timezone.utc).weekday() == 4
+    scc_protocol = ""
+    if is_friday:
+        scc_protocol = """
+    *** SPECIAL FRIDAY PROTOCOL INITIATED ***
+    Today is Friday. The Supreme Court of Canada releases decisions today.
+    CRITICAL INSTRUCTION: You must ONLY apply this format to the entry whose 'spectrum_origin' explicitly equals "Supreme Court of Canada". Do NOT apply this format to standard news articles or Slaw commentary pieces.
+    
+    For verified SCC judgments ONLY:
+    - 'source': MUST explicitly be "Supreme Court of Canada"
+    - 'summary': Extract and summarize the lower court history (Trial & Court of Appeal) leading up to this SCC ruling.
+    - 'zones.left.label': "Majority Reasons"
+    - 'zones.left.synthesis': Detail the SCC Majority's reasoning and the judge split (e.g., 5-4, 7-2).
+    - 'zones.center.label': "Concurring Reasons"
+    - 'zones.center.synthesis': Detail any concurring opinions. If none, detail the broader policy implications.
+    - 'zones.right.label': "Dissenting Reasons"
+    - 'zones.right.synthesis': Detail the dissenting judges' reasons.
+    - 'neutral': "Precedent Impact: [Confirming / Creating / Setting Aside] - [Brief explanation of how the common law shifts]"
+    """
+
+    system_instruction = f"""
+    You are the algorithmic core of 'The Spread' Intelligence Terminal. 
+    Analyze the provided collection of raw Canadian news and judicial outputs from the last 24 hours.
+    {scc_protocol}
+    Your operational rules:
+    1. Filter the events and compile entries for these specific domains: federalism, charter, indigenous, criminal, immigration.
+    2. Aim for up to 8 entries per category if data allows.
+    3. ABSOLUTE GROUNDING: If a category contains zero real developments from the provided dataset, you MUST return an empty array [] for that key. Real news only.
+    4. For every entry, generate a complete architectural analysis including a multi-angle spectrum map (left, center, right), an objective summary, and metadata.
+    5. Always preserve the exact item URL in the 'url' field.
+    
+    Output format: You must return a single, clean JSON object matching this schema without markdown formatting blocks.
+    {{
+      "federalism": [
+        {{
+          "id": "unique-hash",
+          "category": "Federalism",
+          "source": "Outlet Name",
+          "title": "Clear Technical Summary Headline",
+          "citation": "June 2026 Tracking Window",
+          "url": "The exact source URL provided",
+          "summary": "Deep contextual distillation of the legal or policy maneuver.",
+          "graph": ["Tag1", "Tag2"],
+          "spectrum": {{
+            "baseline": {{ "left": 33, "center": 34, "right": 33 }},
+            "zones": {{
+              "left": {{ "label": "Progressive Context", "synthesis": "Analysis from left/social viewpoints." }},
+              "center": {{ "label": "Procedural Context", "synthesis": "Analysis from neutral/judicial viewpoints." }},
+              "right": {{ "label": "Conservative Context", "synthesis": "Analysis from decentralist/market viewpoints." }}
+            }},
+            "neutral": "Unified objective summary statement."
+          }}
+        }}
+      ],
+      "charter": [],
+      "indigenous": [],
+      "criminal": [],
+      "immigration": []
+    }}
+    """
+
+    max_retries = 5
+    for attempt in range(max_retries):
+        try:
+            ai_synthesis = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=f"{system_instruction}\n\nDATA INPUT BATCH:\n{json.dumps(payload)}",
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                )
+            )
+            with open("database.json", "w", encoding="utf-8") as file:
+                file.write(ai_synthesis.text)
+            print("--- LIVE REBUILD METRICS APPLIED SUCCESSFULLY TO THE SPREAD ARCHIVE ---")
+            break
+        except Exception as e:
+            wait_time = 45 * (attempt + 1)
+            print(f"[Warning] Network transaction glitch or disconnect detected ({e}). Initiating structural recovery block (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds...")
+            time.sleep(wait_time)
+            if attempt == max_retries - 1:
+                print("[Fatal Error] Terminal could not establish a stable pipeline window with the generation clusters.")
+                raise e
+
+if __name__ == "__main__":
+    main()
