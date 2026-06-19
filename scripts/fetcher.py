@@ -51,7 +51,7 @@ FEEDS = {
 }
 
 def clean_full_text(url, is_court=False):
-    """Dynamically forks the extraction process. Jina for Paywalls, Pure HTML for Courts."""
+    """Dynamically forks the extraction process. Jina for Paywalls, Pure HTML with Cleaner for Courts."""
     if is_court:
         # Court databases block Jina. We extract the raw HTML directly using a Chrome mask.
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
@@ -59,6 +59,9 @@ def clean_full_text(url, is_court=False):
             res = requests.get(url, headers=headers, timeout=15)
             if res.status_code == 200:
                 soup = BeautifulSoup(res.text, 'html.parser')
+                # Payload Diet: Strip hidden JS/CSS from court HTML to save massive token weight
+                for script_or_style in soup(["script", "style"]):
+                    script_or_style.decompose()
                 return soup.get_text(separator=' ', strip=True)
             return ""
         except:
@@ -133,7 +136,7 @@ def execute_daily_triage():
                                     "title": f"Latest SCC Judgment ({current_year})",
                                     "url": scc_direct_url,
                                     "snippet": "Captured via Level 1 direct directory link.",
-                                    "extracted_body": scc_text[:7000]
+                                    "extracted_body": scc_text[:5000] # Trimmed for Payload Diet
                                 })
                                 scc_found = True
                                 continue
@@ -155,7 +158,7 @@ def execute_daily_triage():
                                         "title": f"SCC Judgment: {latest_citation}",
                                         "url": canlii_url,
                                         "snippet": "Captured via Level 2 CanLII mapping.",
-                                        "extracted_body": scc_text[:7000]
+                                        "extracted_body": scc_text[:5000] # Trimmed for Payload Diet
                                     })
                                     scc_found = True
                                     continue
@@ -183,7 +186,7 @@ def execute_daily_triage():
                                     "title": f"Supreme Court Judgment: {current_year} SCC {attempt_num}",
                                     "url": canlii_url,
                                     "snippet": "Captured via Level 3 Predictive Matrix.",
-                                    "extracted_body": scc_text[:7000]
+                                    "extracted_body": scc_text[:5000] # Trimmed for Payload Diet
                                 })
                                 scc_found = True
                                 break 
@@ -218,7 +221,7 @@ def execute_daily_triage():
                         raw_ingestion_batch.append({
                             "spectrum_origin": spectrum_bracket,
                             "title": title, "url": link, "snippet": description,
-                            "extracted_body": full_text_intel[:7000] 
+                            "extracted_body": full_text_intel[:5000] # Payload Diet: 5000 chars instead of 12000
                         })
             except Exception as error:
                 print(f"[Warning] Skipping tracking node due to volatility: {error}")
@@ -260,9 +263,10 @@ def main():
     You are the algorithmic core of 'The Spread' Intelligence Terminal. 
     Analyze the provided collection of raw Canadian news and judicial outputs from the last 24 hours.
     {scc_protocol}
+    
     Your operational rules:
-    1. Filter the events and compile entries for these specific domains: federalism, charter, indigenous, criminal, immigration.
-    2. Aim for up to 8 entries per category if data allows.
+    1. CRITICAL DISTRIBUTION PROTOCOL: Do NOT dump all stories into the 'federalism' category out of laziness. You must critically evaluate the dataset and distribute the stories EVENLY to their most appropriate domains: federalism, charter, indigenous, criminal, immigration. Discard irrelevant noise.
+    2. Aim for up to 8 entries per category if data allows. Ensure all relevant categories receive coverage.
     3. ABSOLUTE GROUNDING: If a category contains zero real developments from the provided dataset, you MUST return an empty array [] for that key. Real news only.
     4. For every entry, generate a complete architectural analysis including a multi-angle spectrum map (left, center, right), an objective summary, and metadata.
     5. Always preserve the exact item URL in the 'url' field.
@@ -312,7 +316,8 @@ def main():
             print("--- LIVE REBUILD METRICS APPLIED SUCCESSFULLY TO THE SPREAD ARCHIVE ---")
             break
         except Exception as e:
-            wait_time = 45 * (attempt + 1)
+            # The Ultimate Catch-All Failsafe for ANY network disconnect, drop, or protocol error
+            wait_time = 30
             print(f"[Warning] Network transaction glitch or disconnect detected ({e}). Initiating structural recovery block (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds...")
             time.sleep(wait_time)
             if attempt == max_retries - 1:
