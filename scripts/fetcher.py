@@ -4,13 +4,15 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
-# Secure API Initializer
+# Secure API Initializer using the NEW v2 Client
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("[Fatal Error] GEMINI_API_KEY is completely missing from GitHub Secrets.")
-genai.configure(api_key=GEMINI_API_KEY)
+
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 # 21 Elite Telemetry Nodes (Left, Center, Right, and Courts/Commentary)
 FEEDS = {
@@ -71,7 +73,6 @@ def execute_daily_triage():
                     
                 root = ET.fromstring(response.content)
                 for item in root.findall(".//item"):
-                    # Standardized date-parsing structure via RFC 822 compliance
                     raw_pub_date = item.findtext("pubDate")
                     if not raw_pub_date:
                         continue
@@ -151,10 +152,13 @@ def main():
     }
     """
 
-    model = genai.GenerativeModel('gemini-2.5-flash')
-    ai_synthesis = model.generate_content(
-        f"{system_instruction}\n\nDATA INPUT BATCH:\n{json.dumps(payload)}",
-        generation_config={"response_mime_type": "application/json"}
+    # NEW v2 SDK Generation Syntax
+    ai_synthesis = client.models.generate_content(
+        model='gemini-2.5-flash',
+        contents=f"{system_instruction}\n\nDATA INPUT BATCH:\n{json.dumps(payload)}",
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json",
+        )
     )
     
     with open("database.json", "w", encoding="utf-8") as file:
