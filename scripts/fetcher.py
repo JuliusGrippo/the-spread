@@ -59,13 +59,19 @@ def clean_full_text(url):
         return ""
 
 def parse_any_date(date_str):
-    """Handles both standard RSS dates and Supreme Court ATOM dates."""
+    """Handles standard RSS dates, ATOM formats, and naive Government timestamps."""
     if not date_str: return None
     try:
-        return parsedate_to_datetime(date_str)
+        dt = parsedate_to_datetime(date_str)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
     except:
         try:
-            return datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+            dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
         except:
             return None
 
@@ -74,6 +80,7 @@ def execute_daily_triage():
     raw_ingestion_batch = []
     headers = {"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"}
     lookback_limit = datetime.now(timezone.utc) - timedelta(days=1)
+    is_friday = datetime.now(timezone.utc).weekday() == 4
     
     for spectrum_bracket, endpoints in FEEDS.items():
         for target_url in endpoints:
@@ -84,10 +91,12 @@ def execute_daily_triage():
                     continue
                     
                 root = ET.fromstring(response.content)
+                is_scc = "scc-csc" in target_url
+                item_count = 0
                 
-                # Atom & RSS Unified Parsing Engine
+                # Upgraded Unified Parsing Engine
                 for item in root.iter():
-                    clean_tag = item.tag.split('}')[-1] if '}' in item.tag else item.tag
+                    clean_tag = item.tag.split('}')[-1].lower() if '}' in item.tag else item.tag.lower()
                     if clean_tag in ['item', 'entry']:
                         
                         raw_pub_date = None
@@ -96,20 +105,29 @@ def execute_daily_triage():
                         description = ""
                         
                         for child in item:
-                            ctag = child.tag.split('}')[-1] if '}' in child.tag else child.tag
-                            if ctag in ['pubDate', 'published', 'updated']:
+                            ctag = child.tag.split('}')[-1].lower() if '}' in child.tag else child.tag.lower()
+                            # Hunts for Lexum's weird <dc:date> tags as well as standard ones
+                            if ctag in ['pubdate', 'published', 'updated', 'date']:
                                 raw_pub_date = child.text
                             elif ctag == 'title':
                                 title = child.text
                             elif ctag == 'link':
-                                link = child.get('href') or child.text
+                                link = child.get('href') if child.get('href') else child.text
                             elif ctag in ['description', 'summary']:
                                 description = child.text
                                 
                         parsed_date = parse_any_date(raw_pub_date)
-                        if not parsed_date or parsed_date < lookback_limit:
-                            continue
-                            
+                        
+                        # Strict 24h limit, EXCEPT for the SCC Friday Force-Grab
+                        is_recent = parsed_date and parsed_date >= lookback_limit
+                        
+                        if not is_recent:
+                            if is_friday and is_scc and item_count < 3:
+                                print(f" [!] SCC Friday Override: Forcing capture of Lexum judgment.")
+                            else:
+                                continue
+                                
+                        item_count += 1
                         print(f" -> Processing Live Event: {title}")
                         full_text_intel = clean_full_text(link) if link else ""
                         
@@ -145,6 +163,7 @@ def main():
     *** SPECIAL FRIDAY PROTOCOL INITIATED ***
     Today is Friday. The Supreme Court of Canada releases decisions today.
     For ANY Supreme Court of Canada (SCC) decisions you find in the data, you MUST alter your analysis to match this specialized format:
+    - 'source': MUST explicitly be "Supreme Court of Canada"
     - 'summary': You must extract and summarize the lower court decisions (Trial & Court of Appeal) leading up to the SCC ruling.
     - 'zones.left.label': "Majority Reasons"
     - 'zones.left.synthesis': Detail the SCC Majority's reasoning and the judge split (e.g., 5-4, 7-2).
@@ -217,9 +236,10 @@ def main():
         except Exception as e:
             if "503" in str(e) or "UNAVAILABLE" in str(e) or "429" in str(e):
                 wait_time = 60 * (attempt + 1)
-                print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds...")
+                print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds to try again...")
                 time.sleep(wait_time)
                 if attempt == max_retries - 1:
+                    print("[Error] Google API failed to respond after 5 attempts. Aborting for today.")
                     raise e
             else:
                 raise e
