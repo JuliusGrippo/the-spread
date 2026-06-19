@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from bs4 import BeautifulSoup
 from google import genai
 from google.genai import types
 
@@ -15,7 +16,7 @@ if not GEMINI_API_KEY:
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
-# 21 Elite Telemetry Nodes
+# 21 Elite Telemetry Nodes (SCC updated to direct HTML navigation page)
 FEEDS = {
     "Left": [
         "https://www.thestar.com/feed/politics/",
@@ -39,7 +40,7 @@ FEEDS = {
         "https://www.westernstandard.news/search/?f=rss&t=article&l=15&c=news"
     ],
     "Legal & Courts": [
-        "https://decisions.scc-csc.ca/scc-csc/scc-csc/en/rss/index.do",
+        "https://decisions.scc-csc.ca/scc-csc/scc-csc/en/nav_date.do", # HTML Directory Front Door
         "https://decisions.fca-caf.gc.ca/fca-caf/fca-caf/en/rss/index.do",
         "https://decisions.fct-cf.gc.ca/fc-cf/fc-cf/en/rss/index.do",
         "https://www.slaw.ca/feed/",
@@ -59,18 +60,15 @@ def clean_full_text(url):
         return ""
 
 def parse_any_date(date_str):
-    """Handles standard RSS dates, ATOM formats, and naive Government timestamps."""
     if not date_str: return None
     try:
         dt = parsedate_to_datetime(date_str)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
+        if dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
         return dt
     except:
         try:
             dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=timezone.utc)
+            if dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
             return dt
         except:
             return None
@@ -80,66 +78,69 @@ def execute_daily_triage():
     raw_ingestion_batch = []
     headers = {"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"}
     lookback_limit = datetime.now(timezone.utc) - timedelta(days=1)
-    is_friday = datetime.now(timezone.utc).weekday() == 4
     
     for spectrum_bracket, endpoints in FEEDS.items():
         for target_url in endpoints:
             try:
                 print(f"Polling Registry: {target_url}")
-                response = requests.get(target_url, headers=headers, timeout=12)
-                if response.status_code != 200:
-                    continue
-                    
-                root = ET.fromstring(response.content)
-                is_scc = "scc-csc" in target_url
-                item_count = 0
                 
-                # Upgraded Unified Parsing Engine
-                for item in root.iter():
-                    clean_tag = item.tag.split('}')[-1].lower() if '}' in item.tag else item.tag.lower()
-                    if clean_tag in ['item', 'entry']:
-                        
-                        raw_pub_date = None
-                        title = "Untitled Document"
-                        link = ""
-                        description = ""
-                        
-                        for child in item:
-                            ctag = child.tag.split('}')[-1].lower() if '}' in child.tag else child.tag.lower()
-                            # Hunts for Lexum's weird <dc:date> tags as well as standard ones
-                            if ctag in ['pubdate', 'published', 'updated', 'date']:
-                                raw_pub_date = child.text
-                            elif ctag == 'title':
-                                title = child.text
-                            elif ctag == 'link':
-                                link = child.get('href') if child.get('href') else child.text
-                            elif ctag in ['description', 'summary']:
-                                description = child.text
-                                
-                        parsed_date = parse_any_date(raw_pub_date)
-                        
-                        # Strict 24h limit, EXCEPT for the SCC Friday Force-Grab
-                        is_recent = parsed_date and parsed_date >= lookback_limit
-                        
-                        if not is_recent:
-                            if is_friday and is_scc and item_count < 3:
-                                print(f" [!] SCC Friday Override: Forcing capture of Lexum judgment.")
-                            else:
-                                continue
-                                
-                        item_count += 1
-                        print(f" -> Processing Live Event: {title}")
-                        full_text_intel = clean_full_text(link) if link else ""
-                        
+                # SPECIAL OVERRIDE: Scraping the SCC HTML Front-Door Directly
+                if "nav_date.do" in target_url:
+                    response = requests.get(target_url, headers=headers, timeout=12)
+                    if response.status_code != 200: continue
+                    soup = BeautifulSoup(response.text, 'html.parser')
+                    
+                    found_links = []
+                    for a in soup.find_all('a', href=True):
+                        href = a['href']
+                        if "/item/" in href and href not in [l[1] for l in found_links]:
+                            if href.startswith('/'):
+                                href = "https://decisions.scc-csc.ca" + href
+                            title_text = a.get_text(strip=True)
+                            if title_text and len(title_text) > 8:
+                                found_links.append((title_text, href))
+                    
+                    # Force grab the top 2 latest judgments completely bypassing RSS lag
+                    for title, link in found_links[:2]:
+                        print(f" -> [HTML Override] Forcing Extraction of Judgment: {title}")
+                        full_text_intel = clean_full_text(link)
                         raw_ingestion_batch.append({
                             "spectrum_origin": spectrum_bracket,
                             "title": title,
                             "url": link,
-                            "snippet": description,
+                            "snippet": "Direct database directory injection.",
+                            "extracted_body": full_text_intel[:12000]
+                        })
+                    continue
+
+                # Standard RSS/Atom Stream Engine
+                response = requests.get(target_url, headers=headers, timeout=12)
+                if response.status_code != 200: continue
+                root = ET.fromstring(response.content)
+                
+                for item in root.iter():
+                    clean_tag = item.tag.split('}')[-1].lower() if '}' in item.tag else item.tag.lower()
+                    if clean_tag in ['item', 'entry']:
+                        raw_pub_date, title, link, description = None, "Untitled Document", "", ""
+                        for child in item:
+                            ctag = child.tag.split('}')[-1].lower() if '}' in child.tag else child.tag.lower()
+                            if ctag in ['pubdate', 'published', 'updated', 'date']: raw_pub_date = child.text
+                            elif ctag == 'title': title = child.text
+                            elif ctag == 'link': link = child.get('href') if child.get('href') else child.text
+                            elif ctag in ['description', 'summary']: description = child.text
+                                
+                        parsed_date = parse_any_date(raw_pub_date)
+                        if not parsed_date or parsed_date < lookback_limit: continue
+                            
+                        print(f" -> Processing Live Event: {title}")
+                        full_text_intel = clean_full_text(link) if link else ""
+                        raw_ingestion_batch.append({
+                            "spectrum_origin": spectrum_bracket,
+                            "title": title, "url": link, "snippet": description,
                             "extracted_body": full_text_intel[:12000]
                         })
             except Exception as error:
-                print(f"[Warning] Skipping tracking node due to runtime volatility: {error}")
+                print(f"[Warning] Skipping tracking node due to volatility: {error}")
                 continue
                 
     return raw_ingestion_batch
@@ -154,9 +155,8 @@ def main():
 
     print(f"--- FEED TRIAGE COMPLETE: {len(payload)} RECENT ENTRIES SENT TO GEMINI ---")
     
-    # Check if today is Friday to trigger SCC Protocol
+    # Trigger specialized SCC analytical layout rules
     is_friday = datetime.now(timezone.utc).weekday() == 4
-    
     scc_protocol = ""
     if is_friday:
         scc_protocol = """
@@ -215,7 +215,6 @@ def main():
     }}
     """
 
-    # Exponential Backoff Retry Failsafe
     max_retries = 5
     for attempt in range(max_retries):
         try:
@@ -226,21 +225,16 @@ def main():
                     response_mime_type="application/json",
                 )
             )
-            
             with open("database.json", "w", encoding="utf-8") as file:
                 file.write(ai_synthesis.text)
-                
             print("--- LIVE REBUILD METRICS APPLIED SUCCESSFULLY TO THE SPREAD ARCHIVE ---")
             break
-            
         except Exception as e:
             if "503" in str(e) or "UNAVAILABLE" in str(e) or "429" in str(e):
                 wait_time = 60 * (attempt + 1)
                 print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting {wait_time} seconds to try again...")
                 time.sleep(wait_time)
-                if attempt == max_retries - 1:
-                    print("[Error] Google API failed to respond after 5 attempts. Aborting for today.")
-                    raise e
+                if attempt == max_retries - 1: raise e
             else:
                 raise e
 
