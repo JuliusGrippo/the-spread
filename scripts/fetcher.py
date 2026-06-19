@@ -3,9 +3,9 @@ import json
 import requests
 import xml.etree.ElementTree as ET
 import time
+import re
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from bs4 import BeautifulSoup
 from google import genai
 from google.genai import types
 
@@ -49,10 +49,17 @@ FEEDS = {
     ]
 }
 
-def clean_full_text(url):
-    """Pings the Jina extraction layer using a verified signature to unwrap paywalls."""
+def clean_full_text(url, is_court=False):
+    """Pings the Jina extraction layer. Dynamically swaps headers to bypass either Cloudflare or Paywalls."""
     jina_endpoint = f"https://r.jina.ai/{url}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+    
+    if is_court:
+        # Government databases (Cloudflare) block bots. We must use a standard Chrome browser signature.
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+    else:
+        # Commercial news (Globe and Mail, The Star) have paywalls but let Googlebot read them for SEO.
+        headers = {"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"}
+        
     try:
         res = requests.get(jina_endpoint, headers=headers, timeout=15)
         return res.text if res.status_code == 200 else ""
@@ -77,11 +84,9 @@ def execute_daily_triage():
     print("--- INITIATING DUAL-SPECTRUM TRIAGE EXTRACTION ---")
     raw_ingestion_batch = []
     
-    # Clean Desktop Chrome User Agent to glide right past Cloudflare challenges
     chrome_headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5"
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
     }
     lookback_limit = datetime.now(timezone.utc) - timedelta(days=1)
     is_friday = datetime.now(timezone.utc).weekday() == 4
@@ -91,39 +96,87 @@ def execute_daily_triage():
             try:
                 print(f"Polling Registry: {target_url}")
                 
-                # Direct Scraper Override for the Supreme Court Front-Door Directory
+                # TRIPLE-LAYER SCC FALLBACK PROTOCOL
                 if "nav_date.do" in target_url:
-                    response = requests.get(target_url, headers=chrome_headers, timeout=12)
-                    print(f" -> [Telemetry] Directory Status: {response.status_code} | Size: {len(response.text)} characters")
+                    if not is_friday:
+                        continue 
+                        
+                    print(" -> [SCC Friday] Activating Triple-Layer Failsafe Protocol...")
+                    scc_found = False
+                    current_year = datetime.now(timezone.utc).year
                     
-                    if response.status_code != 200: continue
-                    soup = BeautifulSoup(response.text, 'html.parser')
+                    print(" -> [Level 1] Penetrating SCC Directory via Jina API...")
+                    dir_markdown = clean_full_text(target_url, is_court=True)
                     
-                    found_links = []
-                    for a in soup.find_all('a', href=True):
-                        href = a['href']
-                        if "/item/" in href and href not in [l[1] for l in found_links]:
-                            if href.startswith('/'):
-                                href = "https://decisions.scc-csc.ca" + href
-                            title_text = a.get_text(strip=True)
-                            if title_text and len(title_text) > 8:
-                                found_links.append((title_text, href))
+                    if dir_markdown and len(dir_markdown) > 500:
+                        # LEVEL 1: Direct Link Extraction
+                        link_match = re.search(r'(?:https://decisions\.scc-csc\.ca)?(/scc-csc/scc-csc/en/item/\d+/index\.do)', dir_markdown)
+                        if link_match:
+                            scc_direct_url = "https://decisions.scc-csc.ca" + link_match.group(1)
+                            print(f" -> [Level 1] Extracted direct judgment link: {scc_direct_url}")
+                            scc_text = clean_full_text(scc_direct_url, is_court=True)
+                            
+                            if scc_text and len(scc_text) > 3000:
+                                raw_ingestion_batch.append({
+                                    "spectrum_origin": "Supreme Court of Canada",
+                                    "title": f"Latest SCC Judgment ({current_year})",
+                                    "url": scc_direct_url,
+                                    "snippet": "Captured via Level 1 direct directory link.",
+                                    "extracted_body": scc_text[:12000]
+                                })
+                                scc_found = True
+                                continue
+                                
+                        # LEVEL 2: CanLII Citation Extraction
+                        if not scc_found:
+                            print(" -> [Level 1 Failed] Activating Level 2 (CanLII Citation Extraction)...")
+                            citations = re.findall(rf'({current_year}\s+SCC\s+\d+)', dir_markdown, re.IGNORECASE)
+                            if citations:
+                                latest_citation = citations[0].upper()
+                                print(f" -> [Level 2] Found exact citation on directory: {latest_citation}")
+                                parts = latest_citation.split()
+                                canlii_url = f"https://www.canlii.org/en/ca/scc/doc/{parts[0]}/{parts[0]}scc{parts[2]}/{parts[0]}scc{parts[2]}.html".lower()
+                                
+                                scc_text = clean_full_text(canlii_url, is_court=True)
+                                if scc_text and len(scc_text) > 3000:
+                                    raw_ingestion_batch.append({
+                                        "spectrum_origin": "Supreme Court of Canada",
+                                        "title": f"SCC Judgment: {latest_citation}",
+                                        "url": canlii_url,
+                                        "snippet": "Captured via Level 2 CanLII mapping.",
+                                        "extracted_body": scc_text[:12000]
+                                    })
+                                    scc_found = True
+                                    continue
+                                    
+                    # LEVEL 3: Predictive Math Fallback
+                    if not scc_found:
+                        print(" -> [Level 2 Failed/Locked] Activating Level 3 Predictive Citation Engine...")
+                        baseline_date = datetime(2026, 6, 19, tzinfo=timezone.utc).date()
+                        today = datetime.now(timezone.utc).date()
+                        delta_weeks = (today - baseline_date).days // 7
+                        predicted_num = 23 + delta_weeks
+                        
+                        for attempt_num in [predicted_num, predicted_num - 1, predicted_num - 2]:
+                            if attempt_num < 1: continue
+                            canlii_url = f"https://www.canlii.org/en/ca/scc/doc/{current_year}/{current_year}scc{attempt_num}/{current_year}scc{attempt_num}.html".lower()
+                            print(f" -> Probing predicted URL: {canlii_url}")
+                            
+                            scc_text = clean_full_text(canlii_url, is_court=True)
+                            if scc_text and len(scc_text) > 3000 and "404" not in scc_text and "not found" not in scc_text.lower():
+                                print(f" -> [Success] Predicted capture established for {current_year} SCC {attempt_num}")
+                                raw_ingestion_batch.append({
+                                    "spectrum_origin": "Supreme Court of Canada",
+                                    "title": f"Supreme Court Judgment: {current_year} SCC {attempt_num}",
+                                    "url": canlii_url,
+                                    "snippet": "Captured via Level 3 Predictive Matrix.",
+                                    "extracted_body": scc_text[:12000]
+                                })
+                                scc_found = True
+                                break 
+                                
+                    continue 
                     
-                    print(f" -> [Telemetry] Discovered {len(found_links)} viable link paths inside directory elements.")
-                    
-                    # Target top items directly
-                    for title, link in found_links[:3]:
-                        print(f" -> [Direct HTML Hijack] Pulling Text Schema: {title}")
-                        full_text_intel = clean_full_text(link)
-                        raw_ingestion_batch.append({
-                            "spectrum_origin": "Supreme Court of Canada",
-                            "title": title,
-                            "url": link,
-                            "snippet": "Direct database directory injection.",
-                            "extracted_body": full_text_intel[:12000]
-                        })
-                    continue
-
                 # Standard Media RSS Triage Loop
                 response = requests.get(target_url, headers=chrome_headers, timeout=12)
                 if response.status_code != 200: continue
@@ -144,7 +197,11 @@ def execute_daily_triage():
                         if not parsed_date or parsed_date < lookback_limit: continue
                             
                         print(f" -> Processing Live Event: {title}")
-                        full_text_intel = clean_full_text(link) if link else ""
+                        
+                        # Dynamic Mask Check
+                        is_court_link = bool(link and any(d in link.lower() for d in ['scc-csc.ca', 'fca-caf.gc.ca', 'fct-cf.gc.ca', 'canlii.org']))
+                        full_text_intel = clean_full_text(link, is_court=is_court_link) if link else ""
+                        
                         raw_ingestion_batch.append({
                             "spectrum_origin": spectrum_bracket,
                             "title": title, "url": link, "snippet": description,
@@ -172,18 +229,18 @@ def main():
         scc_protocol = """
     *** SPECIAL FRIDAY PROTOCOL INITIATED ***
     Today is Friday. The Supreme Court of Canada releases decisions today.
-    CRITICAL CONSTRAINT: You must ONLY apply this formatting protocol if the entry has a 'spectrum_origin' explicitly set to "Supreme Court of Canada". Do NOT apply this format to standard news articles or commentary blogs (like Slaw) that are simply writing about a court case.
+    CRITICAL INSTRUCTION: You must ONLY apply this format to the entry whose 'spectrum_origin' explicitly equals "Supreme Court of Canada". Do NOT apply this format to standard news articles or Slaw commentary pieces.
     
-    For verified court judgments:
+    For verified SCC judgments ONLY:
     - 'source': MUST explicitly be "Supreme Court of Canada"
-    - 'summary': You must extract and summarize the lower court decisions (Trial & Court of Appeal) leading up to the SCC ruling.
+    - 'summary': Extract and summarize the lower court history (Trial & Court of Appeal) leading up to this SCC ruling.
     - 'zones.left.label': "Majority Reasons"
     - 'zones.left.synthesis': Detail the SCC Majority's reasoning and the judge split (e.g., 5-4, 7-2).
     - 'zones.center.label': "Concurring Reasons"
     - 'zones.center.synthesis': Detail any concurring opinions. If none, detail the broader policy implications.
     - 'zones.right.label': "Dissenting Reasons"
     - 'zones.right.synthesis': Detail the dissenting judges' reasons.
-    - 'neutral': "Precedent Impact: [Confirming / Creating / Setting Aside] - [Brief explanation of how the common law or constitutional doctrine shifts]"
+    - 'neutral': "Precedent Impact: [Confirming / Creating / Setting Aside] - [Brief explanation of how the common law shifts]"
     """
 
     system_instruction = f"""
@@ -193,7 +250,7 @@ def main():
     Your operational rules:
     1. Filter the events and compile entries for these specific domains: federalism, charter, indigenous, criminal, immigration.
     2. Aim for up to 8 entries per category if data allows.
-    3. ABSOLUTE GROUNDING: If a category contains zero real developments from the provided dataset, you MUST return an empty array [] for that key. Do not extrapolate, simulate, or invent historical analogies. Real news only.
+    3. ABSOLUTE GROUNDING: If a category contains zero real developments from the provided dataset, you MUST return an empty array [] for that key. Real news only.
     4. For every entry, generate a complete architectural analysis including a multi-angle spectrum map (left, center, right), an objective summary, and metadata.
     5. Always preserve the exact item URL in the 'url' field.
     
