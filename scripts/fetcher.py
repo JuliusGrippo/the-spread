@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import xml.etree.ElementTree as ET
+import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from google import genai
@@ -14,7 +15,7 @@ if not GEMINI_API_KEY:
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
-# 21 Elite Telemetry Nodes (Left, Center, Right, and Courts/Commentary)
+# 21 Elite Telemetry Nodes
 FEEDS = {
     "Left": [
         "https://www.thestar.com/feed/politics/",
@@ -79,7 +80,7 @@ def execute_daily_triage():
                         
                     parsed_date = parsedate_to_datetime(raw_pub_date)
                     if parsed_date < lookback_limit:
-                        continue # Enforces the strict 24-hour cutoff horizon
+                        continue
                         
                     title = item.findtext("title") or "Untitled Document"
                     link = item.findtext("link") or ""
@@ -93,7 +94,7 @@ def execute_daily_triage():
                         "title": title,
                         "url": link,
                         "snippet": description,
-                        "extracted_body": full_text_intel[:12000] # Safe ceiling for token payload density
+                        "extracted_body": full_text_intel[:12000]
                     })
             except Exception as error:
                 print(f"[Warning] Skipping tracking node due to runtime volatility: {error}")
@@ -171,19 +172,33 @@ def main():
     }}
     """
 
-    # NEW v2 SDK Generation Syntax
-    ai_synthesis = client.models.generate_content(
-        model='gemini-2.5-flash',
-        contents=f"{system_instruction}\n\nDATA INPUT BATCH:\n{json.dumps(payload)}",
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-        )
-    )
-    
-    with open("database.json", "w", encoding="utf-8") as file:
-        file.write(ai_synthesis.text)
-        
-    print("--- LIVE REBUILD METRICS APPLIED SUCCESSFULLY TO THE SPREAD ARCHIVE ---")
+    # Retry Failsafe Loop
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            ai_synthesis = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=f"{system_instruction}\n\nDATA INPUT BATCH:\n{json.dumps(payload)}",
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                )
+            )
+            
+            with open("database.json", "w", encoding="utf-8") as file:
+                file.write(ai_synthesis.text)
+                
+            print("--- LIVE REBUILD METRICS APPLIED SUCCESSFULLY TO THE SPREAD ARCHIVE ---")
+            break # Success! Break out of the loop.
+            
+        except Exception as e:
+            if "503" in str(e) or "UNAVAILABLE" in str(e):
+                print(f"[Warning] Google API overloaded (Attempt {attempt+1}/{max_retries}). Waiting 30 seconds to try again...")
+                time.sleep(30)
+                if attempt == max_retries - 1:
+                    print("[Error] Google API failed to respond after 3 attempts. Aborting for today.")
+                    raise e
+            else:
+                raise e # If it's a different kind of error, crash normally.
 
 if __name__ == "__main__":
     main()
