@@ -1,334 +1,410 @@
 {
   "federalism": [
     {
-      "id": "e1f1a5b8c9d0e1f2a3b4c5d6e7f8a9b0",
+      "id": "b96a9e10a2f74c7d81e0f36551b8c2d3",
       "category": "Federalism",
       "source": "The Narwhal",
-      "title": "Ontario Uses Minister’s Zoning Order for Muskoka Resort, Bypassing Local Rules",
+      "title": "Ontario Uses Minister's Zoning Order to Override Local Planning for Muskoka Resort",
       "citation": "June 2026 Tracking Window",
       "url": "https://thenarwhal.ca/mzo-lake-muskoka/?utm_source=rss",
-      "summary": "The Ontario government has issued a Minister’s Zoning Order (MZO) for a large resort complex on Lake Muskoka, allowing a developer to bypass local municipal planning regulations. Critics raise concerns about environmental impact, the lack of public consultation, and potential conflict of interest as the MZO was a condition of the land purchase from the province. This marks the first MZO in the Muskoka area and highlights the provincial government's increased use of these orders to fast-track development, often overriding local autonomy.",
-      "graph": ["Provincial Powers", "Municipal Autonomy", "Environmental Protection", "Land Use Planning"],
+      "summary": "The Ontario government issued a Minister's Zoning Order (MZO) for a large resort development on Lake Muskoka, allowing it to bypass local municipal planning regulations. Critics raise concerns about environmental impact, lack of public consultation, and potential conflict of interest, as the MZO was a condition of the land purchase from the province. This marks the first MZO in the Muskoka area and highlights the province's increased use of these powerful tools.",
+      "graph": ["Provincial Powers", "Municipal Autonomy", "MZO", "Land Use Planning", "Environmental Impact"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques MZO use as undermining environmental protection, local democracy, and public consultation, prioritizing developer interests over community and ecological well-being. Highlights potential for conflict of interest when the province acts as both land seller and regulator." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal mechanism of the MZO as a provincial tool under the Planning Act, noting its ability to bypass standard municipal planning and appeal processes. Focuses on the procedural implications of its increased deployment and the scope of provincial authority." },
-          "right": { "label": "Conservative Context", "synthesis": "Potentially supports the MZO as a mechanism to streamline development and reduce bureaucratic hurdles, promoting economic growth and investment. May view local planning rules as obstacles to efficient land use and job creation." }
+          "left": { "label": "Progressive Context", "synthesis": "Critics from environmental and community groups condemn the MZO as an undemocratic tool that prioritizes developer interests over environmental protection and local self-governance. Concerns are raised about the lack of public consultation and potential harm to the lake ecosystem, aligning with progressive calls for stronger environmental regulations and local participatory planning." },
+          "center": { "label": "Procedural Context", "synthesis": "The use of MZOs allows the provincial Housing Minister to unilaterally decide land use, bypassing standard municipal planning and public consultation processes under the Planning Act. An audit by the Auditor General of Ontario found a 17-fold increase in MZO usage by the current government, often lacking detailed risk information and municipal engagement, raising questions about procedural fairness and transparency in provincial governance." },
+          "right": { "label": "Conservative Context", "synthesis": "While not explicitly stated as conservative in the article, the MZO mechanism can be viewed from a 'right-leaning' perspective as a provincial tool to expedite economic development and streamline regulatory processes, removing perceived bureaucratic obstacles to investment and job creation. The direct provincial intervention might be seen as an exercise of legitimate provincial authority to achieve broader economic objectives." }
         },
-        "neutral": "The Ontario government's use of a Minister's Zoning Order for a Muskoka resort project bypasses local planning regulations, drawing criticism over environmental, democratic, and conflict-of-interest concerns."
+        "neutral": "The Ontario government's use of a Minister's Zoning Order for a major resort project in Muskoka sparks debate over provincial versus local planning authority and public engagement in land development decisions."
       }
     },
     {
-      "id": "f2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7",
+      "id": "c7a8b9d0e1f2a3b4c5d6e7f8a9b0c1d2",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Federal and B.C. Governments Announce $200-Million for Tumbler Ridge School and Health Centre",
+      "title": "Federal and B.C. Governments Announce $200 Million for Tumbler Ridge School and Health Centre",
       "citation": "June 2026 Tracking Window",
       "url": "https://www.theglobeandmail.com/politics/article-ottawa-bc-will-commit-200-million-for-new-tumbler-ridge-school-and/",
-      "summary": "The federal government and the province of British Columbia have jointly committed $200 million for the construction of a new school and health centre in Tumbler Ridge. This funding announcement is part of broader infrastructure and housing plans, signaling continued inter-governmental cooperation on social infrastructure projects.",
-      "graph": ["Federal-Provincial Funding", "Infrastructure Development", "Public Services", "Regional Development"],
+      "summary": "The federal government, in partnership with British Columbia, has committed $200 million for the construction of a new school and health centre in Tumbler Ridge. This joint funding initiative aims to improve local infrastructure and services, reflecting intergovernmental cooperation on community development projects.",
+      "graph": ["Intergovernmental Funding", "Infrastructure Development", "Federal-Provincial Cooperation", "British Columbia", "Community Services"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views joint funding as a positive step towards enhancing social infrastructure and ensuring equitable access to education and healthcare in rural communities, aligning with principles of collective well-being and government investment in public goods." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the collaborative framework of federal-provincial funding agreements for public infrastructure. Focuses on the administrative process, fiscal allocations, and the practical implementation of shared governance in delivering essential services." },
-          "right": { "label": "Conservative Context", "synthesis": "May view the funding critically if it implies increased government spending or potential federal overreach into provincial jurisdiction, but could support it if framed as fiscally responsible investment that benefits local economies and addresses community needs." }
+          "left": { "label": "Progressive Context", "synthesis": "This federal-provincial collaboration on social infrastructure aligns with progressive values emphasizing shared responsibility for public services and equitable access to education and healthcare, particularly in remote communities. It demonstrates a commitment to collective well-being and investment in social capital." },
+          "center": { "label": "Procedural Context", "synthesis": "The announcement signifies a standard example of fiscal federalism, where federal funds are allocated to support provincial responsibilities, often through bilateral agreements. Such partnerships are typical mechanisms for addressing regional needs while maintaining the constitutional division of powers." },
+          "right": { "label": "Conservative Context", "synthesis": "While direct federal funding can be viewed critically by some conservatives as federal overreach into provincial jurisdiction, this specific project represents a joint investment in local infrastructure. From a fiscal conservative perspective, the focus would be on the efficiency and accountability of the spending, and whether the project addresses core community needs without undue bureaucratic overhead." }
         },
-        "neutral": "Ottawa and British Columbia are co-funding a $200-million project for a new school and health centre in Tumbler Ridge, exemplifying inter-governmental collaboration on key public services."
+        "neutral": "A joint federal and B.C. government investment of $200 million for a new school and health centre in Tumbler Ridge exemplifies intergovernmental collaboration on social infrastructure."
       }
     },
     {
-      "id": "c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f4",
-      "category": "Federalism",
-      "source": "Globalnews.ca",
-      "title": "Montreal Business Leaders Support Bid for Federal Defence, Security and Resilience Bank",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11911558/business-leaders-support-montreal-defence-bank/",
-      "summary": "Montreal's business community is actively supporting the city's bid to host the proposed federal Defence, Security and Resilience Bank, pushing to convert a downtown project to accommodate the institution. This initiative highlights inter-provincial competition for federal economic projects and strategic investments.",
-      "graph": ["Economic Development", "Federal Investment", "Regional Competition", "Defence Sector"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the potential for job creation and local economic stimulus through federal investment in strategic sectors, while also potentially scrutinizing the nature of a 'defence bank' for its broader societal implications." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the process of urban development and regional competition for federal institutions. Examines the strategic planning, lobbying efforts, and economic arguments used by cities to attract such significant projects." },
-          "right": { "label": "Conservative Context", "synthesis": "Applauds local business initiative and competition, viewing the defence bank as a mechanism for economic growth and national security. Emphasizes the importance of private sector involvement and regional self-advocacy in securing federal projects." }
-        },
-        "neutral": "Montreal's business community is lobbying for the city to host the new federal Defence, Security and Resilience Bank, highlighting regional economic competition for national projects."
-      }
-    },
-    {
-      "id": "d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0",
+      "id": "e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Canadians Face Significant Government Debt Interest Payments, Fraser Institute Study Finds",
+      "title": "Opinion: Supreme Court Chief Justice Wagner's Critique of Criticism Challenges Separation of Powers",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/canadians-spending-government-debt-interest",
-      "summary": "A study by the Fraser Institute indicates that Canadians will pay up to $3,348 this year to service interest on federal and provincial government debt. The report highlights deficit spending and growing government debt as a continuing trend, with Newfoundlanders and Manitobans bearing the highest per-person costs, and Albertans the lowest.",
-      "graph": ["Government Debt", "Fiscal Policy", "Public Finance", "Provincial Disparity"],
+      "url": "https://nationalpost.com/opinion/john-robson-the-supreme-hubris-of-richard-wagner",
+      "summary": "An opinion piece criticizes Supreme Court Chief Justice Richard Wagner for suggesting that 'rhetorical attacks' on the justice system weaken it. The author argues that Wagner's stance exhibits judicial hubris and underscores a growing judicial conceit that stifles legitimate criticism, calling on Parliament to reassert its constitutional duty to check judicial power.",
+      "graph": ["Judicial Independence", "Separation of Powers", "Parliamentary Oversight", "Rule of Law", "Judicial Criticism"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May acknowledge the burden of debt interest but emphasize the necessity of government spending on social programs and infrastructure during economic downturns, arguing for progressive taxation to fund these rather than austerity measures." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the mechanics of government borrowing and debt servicing, focusing on the financial implications of deficit spending across federal and provincial levels. Presents the data neutrally regarding inter-provincial disparities in per-capita costs." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes high government spending and growing public debt, viewing it as a burden on taxpayers and a sign of fiscal irresponsibility. Advocates for reduced government expenditures, balanced budgets, and lower taxes to alleviate this burden." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might emphasize the importance of public trust in institutions, but also the right to open criticism of public officials, including judges, as vital for a healthy democracy and accountability. Concerns might be raised if judicial criticism is seen as targeting specific groups or undermining human rights jurisprudence." },
+          "center": { "label": "Procedural Context", "synthesis": "The commentary highlights the delicate balance between judicial independence (necessary for impartial decision-making) and public accountability. It implicitly refers to the constitutional framework of separation of powers, where the judiciary, executive, and legislature have distinct roles, and robust public discourse is essential for maintaining democratic checks and balances." },
+          "right": { "label": "Conservative Context", "synthesis": "The article's conservative slant (as per its origin) champions parliamentary sovereignty and asserts the right to scrutinize judicial decisions. It views Chief Justice Wagner's comments as an overreach of judicial authority and a sign of 'hubris,' advocating for a stronger legislative role in checking the power of the courts, consistent with a preference for elected accountability over unelected judicial power." }
         },
-        "neutral": "A Fraser Institute study reveals Canadians will pay hundreds to thousands of dollars this year in interest on federal and provincial debt, underscoring ongoing concerns about deficit spending."
+        "neutral": "An opinion column debates the limits of public criticism against the judiciary, particularly the Supreme Court, and its implications for the separation of powers within Canada's federal constitutional structure."
       }
     },
     {
-      "id": "e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4",
+      "id": "f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Commentary on Federal Expense Disclosures and Fiscal Accountability",
+      "source": "National Post",
+      "title": "Opinion: Alberta Chiefs' Treason Allegation Against Premier Damages Their Own Cause and Federal-Provincial Dialogue",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/19/your-tax-dollars-at-work-9/",
-      "summary": "A commentary piece scrutinizes recent federal expense disclosures, highlighting specific government expenditures such as travel and catered lunches. The column aims to provide transparency on how taxpayer money is spent within the executive branch, framing it as a matter of fiscal accountability.",
-      "graph": ["Government Spending", "Fiscal Accountability", "Transparency", "Public Funds"],
+      "url": "https://nationalpost.com/opinion/rob-breakenridge-alberta-chiefs-want-the-premier-probed-for-treason-they-just-killed-their-own-cause",
+      "summary": "An opinion piece critiques the decision by Alberta First Nations chiefs to call for a treason investigation into Premier Danielle Smith over her stance on provincial autonomy. The author argues that this extreme accusation undermines the legitimacy of their concerns and hinders constructive dialogue on provincial-Indigenous and federal-provincial relations, despite valid criticisms about the Premier's approach to consultation duties.",
+      "graph": ["Provincial Autonomy", "Indigenous Relations", "Treason Allegation", "Intergovernmental Conflict", "Consultation Duty"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports scrutiny of government spending to ensure funds are allocated efficiently and ethically towards public services, while also acknowledging the necessity of certain expenditures for effective governance. Focuses on value for public money." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the processes of financial oversight and public disclosure within government. Highlights the mechanisms for transparency and accountability of public officials' expenses." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for stringent oversight of government spending, advocating for reduced expenditures and greater fiscal prudence. Views detailed expense reports as crucial for holding government accountable to taxpayers and preventing wasteful spending." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would likely highlight the underlying grievances of Indigenous communities regarding provincial policies and consultation processes. While the 'treason' accusation might be seen as extreme, the left perspective would focus on the need for meaningful reconciliation and respect for Indigenous rights and self-determination within the federal framework, holding governments accountable for their treaty and consultation obligations." },
+          "center": { "label": "Procedural Context", "synthesis": "The article addresses the procedural breakdown in intergovernmental relations between the province and First Nations. It underscores the importance of measured and fact-based engagement in political disputes, suggesting that hyperbolic accusations detract from legitimate legal and policy arguments surrounding provincial jurisdiction and the constitutional duty to consult Indigenous peoples." },
+          "right": { "label": "Conservative Context", "synthesis": "Coming from a right-leaning source, this article criticizes the chiefs' 'treason' allegation as disproportionate and counterproductive, potentially discrediting their cause. It aligns with a preference for pragmatic governance and a strong defense of provincial jurisdiction against what might be perceived as overreaching or unfounded attacks, while acknowledging the province's constitutional duties towards Indigenous groups." }
         },
-        "neutral": "Analysis of federal expense disclosures raises questions about fiscal accountability, detailing government spending on travel and other items."
+        "neutral": "An op-ed assesses the political fallout from Alberta First Nations chiefs' call for a treason investigation against Premier Danielle Smith, examining the implications for intergovernmental and Indigenous relations within Canada."
       }
     },
     {
-      "id": "f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c1",
+      "id": "a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4e5",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Debate on Canada’s LNG Sector Business Case and Economic Strategy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/19/canadian-oil-and-gas-analyst-shatters-columnists-claims-canadas-lng-sector-doesnt-have-a-business-case/",
-      "summary": "An energy analyst refutes claims that Canada's Liquefied Natural Gas (LNG) sector lacks a viable business case. This discussion contributes to the ongoing debate about Canada's energy policy, economic development strategies, and the role of natural resources in the national economy, often touching on federal-provincial coordination.",
-      "graph": ["Energy Policy", "Natural Resources", "Economic Development", "Federal-Provincial Relations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for a transition away from fossil fuels, questioning the long-term viability and environmental impact of expanding the LNG sector. Could emphasize investment in renewable energy and green technologies." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic data and market conditions surrounding the LNG sector, evaluating the business case from a neutral, analytical perspective. Focuses on factual arguments regarding supply, demand, and infrastructure development." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the development and expansion of Canada's LNG sector as a driver of economic growth, job creation, and national prosperity. Emphasizes responsible resource development and energy security." }
-        },
-        "neutral": "An energy analyst is challenging assertions regarding the economic viability of Canada's LNG sector, contributing to the national debate on energy policy and economic strategy."
-      }
-    },
-    {
-      "id": "0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Analysis Suggests Worsening Economic Situation in Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/19/canadas-bad-economic-situation-is-getting-much-worse/",
-      "summary": "Commentary on Canada's economic outlook indicates a worsening situation, with detailed analysis of inflation and other economic indicators. This contributes to the broader discourse on federal economic policy, its effectiveness, and its impact on Canadian households and businesses.",
-      "graph": ["Economic Policy", "Inflation", "National Economy", "Fiscal Health"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May call for targeted government intervention and social support programs to mitigate the impact of a worsening economy on vulnerable populations, while advocating for policies that promote equitable growth." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides an objective assessment of current economic trends and projections, focusing on data points like inflation rates and GDP growth. Analyzes the effectiveness of existing monetary and fiscal policies." },
-          "right": { "label": "Conservative Context", "synthesis": "Attributes the worsening economic situation to excessive government spending, high taxes, and regulatory burdens. Advocates for fiscal restraint, tax cuts, and deregulation to stimulate private sector growth and improve economic health." }
-        },
-        "neutral": "New analysis suggests Canada's economic situation is deteriorating, fueling discussion about the effectiveness of current federal policies, particularly concerning inflation."
-      }
-    },
-    {
-      "id": "6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Alberta Unity Questioned Amidst Calls for Independence",
+      "title": "Analysis: Alberta Independence Fails to Unify Province Amidst Left-Leaning Demographics",
       "citation": "June 2026 Tracking Window",
       "url": "https://thehub.ca/2026/06/18/independence-wont-unite-alberta-as-much-as-40-percent-of-the-province-leans-left/",
-      "summary": "Commentary suggests that calls for Alberta's independence would not lead to provincial unity, citing that a significant portion (up to 40%) of the province leans politically left. This piece examines the internal political divisions within Alberta and their implications for federal-provincial relations and the broader national unity discourse.",
-      "graph": ["Provincial Autonomy", "National Unity", "Regional Politics", "Federal-Provincial Relations"],
+      "summary": "An analysis suggests that a push for Alberta independence would not unify the province, citing that up to 40% of its population leans left. This indicates significant internal ideological divisions within Alberta, challenging the premise that greater provincial autonomy or separation would garner broad consensus.",
+      "graph": ["Provincial Politics", "Separatism", "Regionalism", "Political Demographics", "Alberta Autonomy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights internal diversity within Alberta, countering separatist narratives by emphasizing varied political viewpoints and the potential for a more inclusive, less confrontational approach to federal relations." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes provincial political demographics and their impact on regional identity and relations with the federal government. Discusses the complexities of achieving broad consensus on issues of provincial autonomy." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques the premise of provincial independence as a unifying force, suggesting that internal ideological divisions within Alberta complicate such movements. Advocates for pragmatic solutions within the existing federal framework or different approaches to assert provincial interests." }
+          "left": { "label": "Progressive Context", "synthesis": "A progressive perspective would likely view any separatist movement as divisive and potentially harmful to national unity and shared social programs. It would emphasize the importance of federal cooperation and inclusive governance over provincial fragmentation, recognizing the diverse political views within Alberta." },
+          "center": { "label": "Procedural Context", "synthesis": "The analysis focuses on political demographics and the practical challenges of achieving consensus for a major constitutional shift like independence. It highlights the internal political complexities within a province and the need for broad public support for such significant changes, rather than merely reflecting a dominant political narrative." },
+          "right": { "label": "Conservative Context", "synthesis": "Coming from a right-leaning source, this article critiques the efficacy of an independence movement by pointing to internal divisions, even among those who might desire greater provincial autonomy. It suggests that a more nuanced approach, perhaps focusing on strengthening Alberta's position within the federation rather than outright separation, might be more politically viable, aligning with a pragmatic conservative view of power and governance." }
         },
-        "neutral": "An analysis argues that calls for Alberta's independence would fail to unite the province due to significant internal political divisions, impacting federal-provincial discourse."
+        "neutral": "An article analyzes the political feasibility of Alberta independence, concluding that significant internal ideological divisions within the province would likely prevent broad unity on such a move."
       }
     }
   ],
   "charter": [
     {
-      "id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "id": "b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0",
       "category": "Charter",
       "source": "The Globe and Mail",
-      "title": "Public Safety Minister Amends Lawful Access Bill Following Privacy Criticisms",
+      "title": "Public Safety Minister Modifies Lawful Access Bill Following Privacy Concerns",
       "citation": "June 2026 Tracking Window",
       "url": "https://www.theglobeandmail.com/politics/article-public-safety-minister-lawful-access-bill-encryption/",
-      "summary": "The Public Safety Minister has introduced changes to the controversial lawful access bill (Bill C-22) in response to significant criticism from technology companies, businesses, and civil liberties groups. The initial legislation raised concerns about compromising digital privacy and the extent of government surveillance capabilities.",
-      "graph": ["Privacy Rights", "Government Surveillance", "Digital Rights", "Bill C-22"],
+      "summary": "The Public Safety Minister has announced changes to the proposed lawful access bill (Bill C-22) in response to significant criticism from tech companies, businesses, and civil liberties groups over privacy concerns. The original legislation aimed to enhance state surveillance capabilities, prompting debates about balancing national security with individual Charter rights, particularly Section 8.",
+      "graph": ["Privacy Rights", "Bill C-22", "Lawful Access", "Digital Surveillance", "Civil Liberties", "Section 8 Charter"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Applauds amendments as a partial victory for privacy and civil liberties advocates, but stresses the ongoing need for robust protections against state surveillance and algorithmic bias in new technologies. Advocates for stronger digital rights frameworks." },
-          "center": { "label": "Procedural Context", "synthesis": "Details the legislative process of bill amendment in response to stakeholder feedback. Focuses on the balance between public safety objectives and the protection of individual privacy in the digital age, as legislated by Parliament." },
-          "right": { "label": "Conservative Context", "synthesis": "May criticize the amendments if they are perceived to weaken law enforcement's ability to combat crime or maintain national security. Could also raise concerns about government overreach into private sector operations if demands on tech companies are too burdensome." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive groups and civil liberties advocates have vocally opposed the bill, citing severe threats to privacy and digital freedoms, arguing that expansive surveillance powers disproportionately affect marginalized communities and could lead to abuses. They demand stronger safeguards for Charter rights and robust oversight to protect individual liberties." },
+          "center": { "label": "Procedural Context", "synthesis": "The government's decision to amend the bill reflects a response to public and stakeholder feedback within the legislative process, aiming to refine the balance between public safety objectives and privacy protections. It underscores the challenges of legislating in complex technological areas and the ongoing need for parliamentary deliberation to address concerns about legal scope and implementation." },
+          "right": { "label": "Conservative Context", "synthesis": "While some conservatives might support stronger law enforcement tools for national security, others may also express concerns about government overreach and the protection of individual privacy, aligning with principles of limited government intervention. The modifications could be seen as a necessary adjustment to ensure the bill is proportionate and respects fundamental freedoms without entirely sacrificing security imperatives." }
         },
-        "neutral": "The Public Safety Minister has modified the lawful access bill (Bill C-22) in response to privacy concerns from industry and civil liberties advocates, aiming to balance security and digital rights."
+        "neutral": "Amendments to the lawful access bill aim to reconcile law enforcement's need for surveillance tools with public and industry demands for privacy protection, impacting Charter-protected digital rights."
       }
     },
     {
-      "id": "p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2",
+      "id": "f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6",
       "category": "Charter",
       "source": "Globalnews.ca",
-      "title": "Liberals Dismiss Privacy Concerns as Lawful Access Bill C-22 Advances",
+      "title": "Lawful Access Bill Passes, Liberals Dismiss Privacy Fears as 'Tinfoil Hat' Concerns",
       "citation": "June 2026 Tracking Window",
       "url": "https://globalnews.ca/news/11911957/lawful-access-bill-passes-privacy-liberals-tinfoil-hat/",
-      "summary": "Despite significant privacy concerns raised by opposition parties and civil liberties groups, the Liberal government dismissed these as 'tinfoil hat' fears and fast-tracked the lawful access bill (Bill C-22) through the House of Commons. This move highlights ongoing tensions between national security objectives and individual digital privacy rights.",
-      "graph": ["Privacy Rights", "Government Surveillance", "Legislative Process", "Civil Liberties"],
+      "summary": "Despite significant privacy concerns raised by opposition parties and civil liberties groups, the Liberal government pushed through the lawful access bill (Bill C-22), with government members reportedly dismissing fears as 'tinfoil hat' anxieties. The bill grants expanded surveillance powers to law enforcement, impacting Section 8 Charter rights related to privacy.",
+      "graph": ["Privacy Rights", "Bill C-22", "Lawful Access", "Government Oversight", "Civil Liberties", "Section 8 Charter"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the dismissal of privacy concerns as undermining democratic debate and fundamental rights. Argues that fast-tracking such legislation without adequate scrutiny erodes civil liberties and facilitates potential state overreach." },
-          "center": { "label": "Procedural Context", "synthesis": "Describes the parliamentary procedures used to expedite the bill's passage, noting the government's use of its majority to limit debate. Highlights the legislative tension between efficiency and thorough consideration of rights-based issues." },
-          "right": { "label": "Conservative Context", "synthesis": "May support the bill's intent for national security purposes, but could criticize the government's dismissive tone and the use of procedural tactics to limit debate, arguing it stifles legitimate opposition and public concern over privacy." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive and civil liberties advocates decry the passage of the bill, arguing that the government's dismissal of privacy concerns is alarming and undermines fundamental rights. They view the legislation as a dangerous expansion of state power that erodes democratic protections and could lead to disproportionate surveillance, particularly impacting vulnerable groups." },
+          "center": { "label": "Procedural Context", "synthesis": "The passage of the bill, reportedly with curtailed debate, highlights the dynamics of parliamentary procedure and the challenges of achieving consensus on contentious legislation. The government's justification centers on national security and law enforcement efficacy, while opposition emphasizes the need for thorough legislative scrutiny to safeguard constitutional principles." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives might have conflicting views: some support strong state powers for security, while others criticize government overreach and advocate for greater individual freedoms against state intrusion. The dismissal of privacy fears as 'tinfoil hat' could be viewed as dismissive of legitimate concerns about government accountability and transparency." }
         },
-        "neutral": "The Liberal government fast-tracked the lawful access bill (Bill C-22) despite privacy concerns from opposition, dismissing criticisms as exaggerated."
+        "neutral": "The federal government passed the lawful access bill, attracting criticism from opposition and privacy advocates who argue insufficient attention was paid to Charter Section 8 privacy concerns during legislative debate."
       }
     },
     {
-      "id": "f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8",
+      "id": "c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f3",
       "category": "Charter",
-      "source": "National Post",
-      "title": "Commentary on Judicial Criticism and Supreme Court's Authority",
+      "source": "Globalnews.ca",
+      "title": "House of Commons Passes Justice Bills Before Summer Break, Including Hate Crime & Deepfake Legislation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/john-robson-the-supreme-hubris-of-richard-wagner",
-      "summary": "An opinion piece criticizes Supreme Court Chief Justice Richard Wagner for his warnings against public criticism of judges, labeling it 'supreme hubris.' The author argues that such a stance exposes a growing conceit within the judiciary and calls for Parliament to reassert its constitutional duty to check judicial power, touching on the balance of powers and the role of judicial review.",
-      "graph": ["Judicial Independence", "Separation of Powers", "Judicial Review", "Freedom of Expression"],
+      "url": "https://globalnews.ca/news/11911892/house-of-commons-summer-break-2026/",
+      "summary": "Before adjourning for the summer, the House of Commons passed a series of justice bills, notably reforms to bail, new hate crime offences, and legislation criminalizing AI-generated sexual deepfakes. These bills address significant public safety and social justice issues, some of which also raise potential questions under the Canadian Charter of Rights and Freedoms.",
+      "graph": ["Justice Reform", "Hate Crime", "AI Deepfakes", "Bail Reform", "Freedom of Expression", "Section 2 Charter", "Section 7 Charter"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports public accountability for all branches of government, including the judiciary, and may view the Chief Justice's comments as an attempt to stifle legitimate criticism. Emphasizes transparency and public discourse in a democratic society." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the constitutional conventions regarding judicial independence and the roles of the legislative and judicial branches. Discusses the mechanisms and limits of public criticism of judicial decisions and the judiciary's institutional protection." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for parliamentary supremacy and criticizes judicial activism or perceived overreach. Views attempts by the judiciary to deter criticism as an affront to democratic principles and the balance of powers, emphasizing the need for legislative checks on judicial authority." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives generally support robust hate crime legislation and protections against digital harms like deepfakes, seeing them as essential for social equity and safety. Bail reform is also often viewed from a lens of addressing systemic biases and ensuring fair treatment, aligning with calls for a more rehabilitative and less punitive justice system, while still balancing public safety." },
+          "center": { "label": "Procedural Context", "synthesis": "The passage of these bills reflects the government's legislative agenda and the parliamentary process, aiming to modernize criminal law and respond to emerging societal challenges. The focus is on the legislative mechanisms to enact these changes and their integration into the existing legal framework, with consideration for potential Charter challenges that may arise from their interpretation and application." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints often prioritize public safety and law and order, which would align with strengthening hate crime provisions and criminalizing deepfakes. However, some aspects of bail reform might be scrutinized for their impact on public security, while legislative changes could also be analyzed for potential impacts on individual freedoms, particularly free speech, under the Charter." }
         },
-        "neutral": "A commentary critiques Supreme Court Chief Justice Richard Wagner's stance against judicial criticism, arguing it reflects judicial overreach and necessitates parliamentary oversight."
+        "neutral": "Parliament passed key justice bills on bail reform, hate crimes, and AI deepfakes before its summer recess, signifying legislative action on complex issues with potential Charter implications."
+      }
+    },
+    {
+      "id": "d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5",
+      "category": "Charter",
+      "source": "The Globe and Mail",
+      "title": "MPs Advance Key Justice Bills to Senate Before Summer Adjournment",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-mps-to-break-for-summer-after-passing-motion-to-advance-several-bills/",
+      "summary": "The House of Commons concluded its spring session by passing motions to advance several pieces of legislation, including significant justice bills pertaining to bail reform, new hate crime definitions, and the criminalization of AI-generated sexual deepfakes. These legislative actions address contemporary legal challenges and public concerns, while also setting the stage for future legal interpretation and potential Charter challenges in the Senate.",
+      "graph": ["Criminal Law Reform", "Hate Speech", "Digital Crime", "Bail Laws", "Legislative Process", "Charter Rights"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives generally support measures against hate crimes and deepfakes as critical steps towards protecting vulnerable populations and ensuring online safety. Bail reform, from this perspective, should aim to address systemic inequities and over-incarceration while maintaining public safety, advocating for a holistic approach to justice that prioritizes rehabilitation and social well-being." },
+          "center": { "label": "Procedural Context", "synthesis": "The article highlights the conclusion of a legislative session marked by the expedited passage of several bills. From a procedural standpoint, this demonstrates the government's efforts to move its agenda forward, with the Senate now slated to undertake further review, potentially raising constitutional questions and the need for careful legal scrutiny of the new provisions against Charter precedents." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely support strict measures against hate crimes and harmful deepfakes, emphasizing law and order. However, discussions around bail reform often involve concerns about public safety versus individual liberty, with a focus on ensuring justice system effectiveness. Scrutiny would also be applied to ensure new laws do not infringe on legitimate expressions of speech or other Charter-protected freedoms." }
+        },
+        "neutral": "The House of Commons has advanced significant justice bills, including reforms for bail, hate crimes, and deepfakes, to the Senate for review prior to the summer adjournment."
+      }
+    },
+    {
+      "id": "a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1",
+      "category": "Charter",
+      "source": "Supreme Court of Canada",
+      "title": "Ahluwalia v. Ahluwalia: SCC Establishes New Tort for Intimate Partner Violence and Addresses Access to Justice for Self-Represented Litigants",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/06/19/issues-of-self-representation-in-a-landmark-decision-reflecting-on-ahluwalia-v-ahluwalia/",
+      "summary": "The Supreme Court of Canada's decision in _Ahluwalia v. Ahluwalia_ established a new common law tort of 'family violence' to provide civil redress for victims of intimate partner violence and coercive control. This landmark ruling follows the journey of the plaintiff, Kuldeep Ahluwalia, who represented herself at the Ontario Superior Court of Justice to claim damages for abuse. Her initial self-representation contrasted sharply with the extensive legal teams involved at the Ontario Court of Appeal and the Supreme Court, highlighting systemic challenges self-represented litigants face in accessing justice, particularly in cases involving complex claims of family violence.",
+      "graph": ["Intimate Partner Violence", "Access to Justice", "Self-Represented Litigants", "Family Law", "Tort Law", "Section 7 Charter", "Judicial Role"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Majority Reasons", "synthesis": "The SCC majority established a new common law tort of 'family violence' to provide civil redress for victims of intimate partner violence and coercive control. This reasoning emphasizes a recognition of the systemic nature of such abuse and the need for effective legal remedies, consolidating previously disparate claims into a single tort. This aligns with a broader commitment to advancing social justice and protecting vulnerable individuals, ensuring the common law evolves to meet contemporary societal needs. The decision implicitly reinforces the state's role in addressing violence and enabling access to justice." },
+          "center": { "label": "Concurring Reasons", "synthesis": "Justice Karakatsanis's concurring opinion specifically addressed the access to justice concerns for self-represented litigants (SRLs) in family law cases involving intimate partner violence. She argued for the necessity of a single, 'one-stop shopping' tort for intimate partner violence to reduce complexity and improve litigation efficiency, acknowledging the limited legal resources available to many victims. Her reasoning highlights a practical, systemic approach to making the law more accessible and responsive to the realities faced by vulnerable litigants." },
+          "right": { "label": "Dissenting Reasons", "synthesis": "Justice Rowe expressed significant concern about the trial judge's proactive role in interpreting and engaging with the self-represented litigant's claims, suggesting it constituted 'judicial legislation' and an inappropriate departure from the adversarial process. This perspective emphasizes a stricter adherence to traditional judicial roles, cautioning against judicial activism and advocating for Parliament to define new causes of action, thereby maintaining the institutional separation of powers." }
+        },
+        "neutral": "Precedent Impact: Creating - The Supreme Court of Canada created a new common law tort of 'family violence' to provide civil redress for systemic intimate partner violence, simplifying legal avenues for victims, especially self-represented litigants, and affirming the judiciary's role in evolving the common law to enhance access to justice."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "v9w0x1y2z3a4b5c6d7e8f9a0b1c2d3e4",
+      "id": "e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7",
       "category": "Indigenous",
-      "source": "National Post",
-      "title": "Alberta Chiefs' Treason Allegations Against Premier Smith Criticized as Counterproductive",
+      "source": "The Narwhal",
+      "title": "Muskoka Resort MZO Issued Without Evidence of Indigenous Community Consultation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/rob-breakenridge-alberta-chiefs-want-the-premier-probed-for-treason-they-just-killed-their-own-cause",
-      "summary": "An opinion piece argues that Alberta treaty chiefs' demand for a treason investigation into Premier Danielle Smith has undermined their own cause. The article critiques the extreme nature of the accusation, stating there is no evidence of treason, and suggests that such claims detract from legitimate criticisms regarding the Premier's handling of First Nations issues and constitutional duties to consult.",
-      "graph": ["Indigenous Rights", "Federal-Provincial Relations", "Consultation Duty", "Political Rhetoric"],
+      "url": "https://thenarwhal.ca/mzo-lake-muskoka/?utm_source=rss",
+      "summary": "A proposed resort development on Lake Muskoka, facilitated by an Ontario Minister's Zoning Order (MZO), has drawn criticism for potentially proceeding without adequate engagement with affected Indigenous communities. An audit highlighted that half of MZOs reviewed showed no evidence of ministry engagement with Indigenous groups prior to issuance, raising concerns about adherence to consultation duties.",
+      "graph": ["Indigenous Consultation", "Minister's Zoning Order", "Environmental Protection", "Land Use Planning", "Aboriginal Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While recognizing the severity of Indigenous grievances against provincial governments, it may critique the tactical effectiveness of extreme accusations, advocating for constructive engagement and legal avenues to advance Indigenous rights and reconciliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and political implications of such serious allegations, distinguishing between legitimate constitutional disputes and politically charged rhetoric. Focuses on the proper channels for addressing concerns related to constitutional duties and Indigenous consultation." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the accusation as baseless and counterproductive, framing it as an attempt to politically delegitimize the provincial government. Emphasizes the need for fact-based discourse and adherence to legal definitions of serious offenses like treason." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive and Indigenous advocacy groups would strongly condemn the lack of consultation, viewing it as a violation of inherent Indigenous rights and the Crown's duty to consult and accommodate. This approach underscores systemic failures in respecting Indigenous sovereignty and environmental stewardship, calling for greater inclusion and power-sharing in land development decisions." },
+          "center": { "label": "Procedural Context", "synthesis": "The article points to a procedural deficiency in the MZO process, specifically the absence of evidence for Indigenous engagement. This highlights a gap in government accountability and adherence to established legal principles regarding the duty to consult. The legal implication is a potential challenge to the validity of the MZO if proper consultation processes were indeed omitted." },
+          "right": { "label": "Conservative Context", "synthesis": "While some conservatives prioritize economic development, a legal-conservative stance would emphasize the importance of upholding the rule of law, which includes the Crown's duty to consult Indigenous peoples on decisions affecting their rights. Failure to do so could lead to legal and financial risks for projects, even if the MZO is intended to fast-track development." }
         },
-        "neutral": "Alberta treaty chiefs' call for a treason probe against Premier Danielle Smith is criticized as an unproven and counterproductive escalation in federal-provincial and Indigenous relations."
+        "neutral": "The issuance of a Minister's Zoning Order for a Muskoka resort raises concerns about the absence of documented Indigenous community consultation, a potential breach of the Crown's duty."
+      }
+    },
+    {
+      "id": "f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3",
+      "category": "Indigenous",
+      "source": "National Post",
+      "title": "Opinion: Alberta Chiefs' Treason Allegation Against Premier Undermines Indigenous Cause",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/rob-breakenridge-alberta-chiefs-want-the-premier-probed-for-treason-they-just-killed-their-own-cause",
+      "summary": "An opinion piece argues that Alberta First Nations chiefs damaged their cause by accusing Premier Danielle Smith of treason over her provincial autonomy stance. While acknowledging legitimate criticisms regarding the Premier's approach to the constitutional duty to consult, the author contends that such an extreme accusation detracts from substantive Indigenous advocacy and productive dialogue with the provincial government.",
+      "graph": ["Indigenous Rights", "Provincial Autonomy", "Constitutional Duty to Consult", "Political Rhetoric", "Treaty Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely contextualize the chiefs' strong rhetoric within a history of unaddressed grievances and systemic injustice faced by Indigenous peoples. While the 'treason' label may be contentious, the underlying demand for respect for treaty rights and the duty to consult is paramount, and the left would focus on the need for genuine reconciliation and recognition of Indigenous self-determination." },
+          "center": { "label": "Procedural Context", "synthesis": "The article critically examines the nature of political discourse and advocacy tactics. From a procedural standpoint, the 'treason' accusation is analyzed as a highly inflammatory and legally unfounded claim that risks undermining the credibility of the chiefs' broader arguments, potentially shifting focus away from legitimate policy and constitutional issues related to Indigenous consultation and land rights." },
+          "right": { "label": "Conservative Context", "synthesis": "The conservative perspective, particularly from this source, strongly criticizes the treason accusation as an extreme and damaging tactic that serves to delegitimize the chiefs' position and obstruct constructive engagement. It emphasizes upholding the integrity of political debate and focusing on practical solutions within existing constitutional frameworks, while still recognizing the province's legal obligations to consult Indigenous communities." }
+        },
+        "neutral": "An op-ed critiques Alberta First Nations chiefs' accusation of treason against Premier Danielle Smith, arguing it harms their advocacy for Indigenous rights and consultation, despite valid underlying concerns."
       }
     }
   ],
   "criminal": [
     {
-      "id": "w5x6y7z8a9b0c1d2e3f4a5b6c7d8e9f0",
+      "id": "g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9",
       "category": "Criminal",
-      "source": "Globalnews.ca",
-      "title": "House of Commons Passes Key Justice Bills Before Summer Break",
+      "source": "The Globe and Mail",
+      "title": "Public Safety Minister Amends Lawful Access Bill to Address Criticism",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11911892/house-of-commons-summer-break-2026/",
-      "summary": "Before recessing for the summer, the House of Commons passed several significant justice bills. These include reforms to Canada's bail system, the creation of new hate crime offences, and legislation to criminalize the distribution of AI-generated sexual deepfakes. These legislative actions aim to update criminal law in response to evolving societal challenges.",
-      "graph": ["Criminal Law Reform", "Bail Reform", "Hate Crimes", "AI Deepfakes"],
+      "url": "https://www.theglobeandmail.com/politics/article-public-safety-minister-lawful-access-bill-encryption/",
+      "summary": "The Public Safety Minister has introduced amendments to the controversial lawful access bill (Bill C-22), which seeks to grant new surveillance powers to law enforcement. These changes come after widespread criticism from various groups, including tech companies and civil liberties advocates, highlighting the ongoing tension between enhancing police investigatory capabilities and protecting individual privacy.",
+      "graph": ["Lawful Access", "Police Powers", "Digital Forensics", "Surveillance Legislation", "Privacy Concerns"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Applauds measures to address hate crimes and AI-generated deepfakes as essential for protecting vulnerable groups and updating law for the digital age. May scrutinize bail reforms to ensure they don't disproportionately impact marginalized communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legislative process and the government's efforts to pass key justice reforms before the break. Highlights the parliamentary debate and the amendments made to ensure legal effectiveness and societal protection." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports measures to enhance public safety and criminalize harmful digital content. May have advocated for tougher bail reforms and express concerns about the speed of legislative passage if it bypasses adequate scrutiny." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices typically prioritize civil liberties and privacy, viewing expanded police surveillance powers with skepticism. They advocate for stringent oversight and judicial authorization to prevent potential overreach and abuse, emphasizing that technological advancements should not erode fundamental rights without robust safeguards." },
+          "center": { "label": "Procedural Context", "synthesis": "The government's amendments reflect a legislative process attempting to balance competing interests: public safety, law enforcement effectiveness, and Charter rights. The focus is on finding a workable framework that allows authorities to investigate crimes in the digital age while mitigating concerns raised by various stakeholders regarding the scope and implementation of these new powers." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints often lean towards empowering law enforcement with necessary tools to combat crime and ensure public safety. While acknowledging privacy concerns, the emphasis is placed on the state's ability to maintain order and security, suggesting that these measures are essential for effective criminal investigations in a technologically evolving landscape." }
         },
-        "neutral": "The House of Commons passed significant justice bills, including bail reform, new hate crime offences, and deepfake criminalization, before its summer recess."
+        "neutral": "Amendments to the lawful access bill aim to reconcile law enforcement's need for surveillance tools with public and industry demands for privacy protection, impacting criminal investigatory powers."
       }
     },
     {
-      "id": "k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6",
+      "id": "x1y2z3a4b5c6d7e8f9a0b1c2d3e4f5g6",
+      "category": "Criminal",
+      "source": "Globalnews.ca",
+      "title": "House of Commons Passes Justice Bills on Bail, Hate Crimes, and AI Deepfakes Ahead of Summer Recess",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11911892/house-of-commons-summer-break-2026/",
+      "summary": "The House of Commons approved several significant justice bills before its summer break, including legislation to reform bail provisions, create new hate crime offences, and criminalize AI-generated sexual deepfakes. These legislative initiatives represent a concerted effort to update Canadian criminal law in response to contemporary social challenges and technological advancements.",
+      "graph": ["Criminal Code Amendments", "Bail Reform", "Hate Crime Legislation", "Digital Crime", "Sexual Deepfakes"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive groups generally support measures against hate crimes and deepfakes as essential for protecting marginalized communities and combating online harms. Bail reform, from this perspective, should aim to address systemic inequities and ensure that pre-trial detention is not disproportionately applied, promoting a more equitable and rehabilitative justice system." },
+          "center": { "label": "Procedural Context", "synthesis": "The passage of these bills signifies the culmination of parliamentary debate and legislative action on complex criminal justice issues. The focus is on the legislative process of updating Canadian law, ensuring that new provisions are clearly defined and can be effectively implemented by the courts and law enforcement, while anticipating potential judicial review." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints typically prioritize public safety and law and order. Stronger provisions against hate crimes and new digital offenses like deepfakes align with this stance. Bail reform proposals are often evaluated through the lens of ensuring public security and preventing recidivism, with a focus on accountability and deterrence." }
+        },
+        "neutral": "Parliament has passed key criminal justice reforms, including new hate crime provisions and deepfake criminalization, and bail amendments, to modernize Canadian criminal law."
+      }
+    },
+    {
+      "id": "h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2",
+      "category": "Criminal",
+      "source": "The Globe and Mail",
+      "title": "MPs Advance Key Justice Bills to Senate Before Summer Adjournment",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-mps-to-break-for-summer-after-passing-motion-to-advance-several-bills/",
+      "summary": "Before the summer break, Members of Parliament passed motions to advance several critical justice bills, including those addressing bail reform, the establishment of new hate crime offences, and the criminalization of AI-generated sexual deepfakes. These bills represent significant changes to the Criminal Code and are now slated for consideration in the Senate.",
+      "graph": ["Criminal Law", "Parliamentary Procedure", "Bail Reform", "Hate Offences", "AI Crime", "Legislative Action"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices advocate for justice reforms that protect vulnerable groups from hate-motivated violence and digital exploitation (deepfakes). Bail reform efforts are generally supported if they address systemic injustices and promote fairer treatment within the pre-trial system, while ensuring public safety through nuanced approaches." },
+          "center": { "label": "Procedural Context", "synthesis": "The advancement of these bills reflects the parliamentary process in enacting significant legal changes. The focus is on the legislative journey of these complex pieces of criminal law, moving from the House of Commons to the Senate for further review, where their legal consistency and constitutionality will be further scrutinized before becoming law." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives typically endorse strong criminal laws to deter crime and protect society, aligning with the creation of new hate crime offenses and deepfake criminalization. While supporting effective justice, any bail reforms would be closely evaluated to ensure they do not compromise public safety or the integrity of the judicial process, prioritizing accountability for offenders." }
+        },
+        "neutral": "The House of Commons has advanced significant justice bills, including reforms for bail, hate crimes, and deepfakes, to the Senate for review prior to the summer adjournment."
+      }
+    },
+    {
+      "id": "d0e1f2g3h4i5j6k7l8m9n0o1p2q3r4s5",
+      "category": "Criminal",
+      "source": "Globalnews.ca",
+      "title": "Lawful Access Bill Passed Despite 'Tinfoil Hat' Privacy Concerns by Liberals",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11911957/lawful-access-bill-passes-privacy-liberals-tinfoil-hat/",
+      "summary": "The lawful access bill, which aims to provide law enforcement with expanded powers to access digital data, has passed through the House of Commons. The Liberal government dismissed concerns about privacy, which were vocally raised by opposition parties and privacy advocates, as 'tinfoil hat' fears, signaling a prioritization of investigative capabilities over digital civil liberties.",
+      "graph": ["Law Enforcement Powers", "Digital Privacy", "Criminal Investigations", "Bill C-22", "Data Access"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critics argue that the bill's passage without adequately addressing privacy concerns represents a setback for civil liberties. They emphasize that such legislation can enable disproportionate surveillance, potentially targeting marginalized communities, and call for robust legal and technological safeguards to protect personal data from state intrusion." },
+          "center": { "label": "Procedural Context", "synthesis": "The article highlights the conclusion of legislative debate and the executive's role in advancing its agenda. From a procedural perspective, the passing of the bill establishes new legal powers for criminal investigations, raising questions about judicial oversight mechanisms and the practical implementation of these new tools in compliance with existing legal precedents and privacy frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "Some conservative views might support expanded law enforcement powers for national security and crime prevention, seeing it as necessary for public safety. However, other conservative voices may also express caution regarding government intrusion into private lives and data, advocating for a balance that respects individual freedoms while ensuring effective crime-fighting capabilities." }
+        },
+        "neutral": "The lawful access bill passed in the House of Commons, expanding police digital investigatory powers, amidst Liberal government dismissal of privacy concerns from critics."
+      }
+    },
+    {
+      "id": "e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9",
       "category": "Criminal",
       "source": "National Post",
       "title": "Billionaire Frank Stronach Found Guilty of Sexual and Indecent Assault",
       "citation": "June 2026 Tracking Window",
       "url": "https://nationalpost.com/news/canada/frank-stronach-sex-assault-verdict-toronto",
-      "summary": "Frank Stronach, the 93-year-old auto parts billionaire, has been found guilty of one count of sexual assault and one count of indecent assault. The charges relate to historical claims made by two women regarding incidents at a Toronto nightclub he owned in the 1980s. Sentencing is scheduled for September 17.",
-      "graph": ["Sexual Assault", "Criminal Justice", "Historical Allegations", "High-Profile Case"],
+      "summary": "Frank Stronach, the 93-year-old auto parts billionaire, has been found guilty of one count of sexual assault and one count of indecent assault involving two women. The verdict concludes a high-profile trial that initially involved 12 charges from seven complainants, later reduced to five charges involving three women.",
+      "graph": ["Sexual Assault", "Indecent Assault", "Criminal Conviction", "High-Profile Case", "Justice System"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views the conviction as a step towards accountability for perpetrators of sexual violence, particularly in cases involving powerful individuals and historical allegations. Emphasizes the importance of supporting victims and reforming systems that previously enabled such abuses." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial process, including the evidence presented, the judge's ruling, and the upcoming sentencing. Highlights the legal standards applied in sexual assault cases, especially those involving historical complaints." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the justice system's role in upholding the law and ensuring accountability for criminal acts. May emphasize due process and the importance of evidence in prosecuting historical allegations." }
+          "left": { "label": "Progressive Context", "synthesis": "This conviction is seen by progressive advocates as a crucial step towards accountability for powerful individuals accused of sexual violence, highlighting the importance of believing survivors and addressing historical abuses. It reinforces the need for systemic change to protect vulnerable individuals and dismantle power structures that enable such conduct." },
+          "center": { "label": "Procedural Context", "synthesis": "The verdict demonstrates the judicial process at work in a complex criminal trial involving multiple historical allegations. It underscores the court's role in evaluating evidence and testimony to determine guilt beyond a reasonable doubt, providing a legal resolution to serious criminal allegations and upholding the rule of law." },
+          "right": { "label": "Conservative Context", "synthesis": "From a law-and-order conservative perspective, this conviction affirms the principle that no individual is above the law, regardless of their wealth or status. It underscores the importance of a robust criminal justice system that holds offenders accountable for their actions, contributing to public safety and maintaining societal norms against violent crime." }
         },
-        "neutral": "Auto parts billionaire Frank Stronach was found guilty of one count of sexual assault and one count of indecent assault based on historical claims."
+        "neutral": "Billionaire Frank Stronach has been convicted of sexual assault and indecent assault, concluding a high-profile criminal trial involving historical allegations."
       }
     },
     {
-      "id": "m7n8o9p0q1r2s3t4u5v6w7x8y9z0a1b2",
+      "id": "u0v1w2x3y4z5a6b7c8d9e0f1g2h3i4j5",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Teacher Accused of Sex with Students Blackmailed Over OnlyFans Page",
+      "title": "Billionaire Frank Stronach Convicted of Indecent and Sexual Assault, Sentencing Set for September 17",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/teacher-accused-of-sex-with-six-students-blackmailed-over-onlyfans-page",
-      "summary": "A teacher accused of sexual misconduct with six students was reportedly blackmailed over her OnlyFans page. Authorities discovered the OnlyFans and Snapchat accounts after executing a dozen warrants as part of their investigation into the sex with students allegations, adding a layer of complexity to the criminal case.",
-      "graph": ["Sexual Misconduct", "Blackmail", "Digital Evidence", "Criminal Investigation"],
+      "url": "https://torontosun.com/news/crime/frank-stronach-found-guilty-of-indecent-assault-and-sexual-assault",
+      "summary": "Frank Stronach, the founder of Magna International, has been found guilty of indecent assault and sexual assault following a trial. His sentencing is scheduled for September 17, 2026, marking a significant legal outcome in a case involving historical allegations against a prominent figure.",
+      "graph": ["Sexual Offences", "Assault Conviction", "Sentencing", "Criminal Justice", "High-Profile Case"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the exploitation of students and the misuse of power by an educator. While condemning blackmail, emphasizes the primary harm of sexual misconduct against minors and calls for greater protections for students and accountability for teachers." },
-          "center": { "label": "Procedural Context", "synthesis": "Details the criminal investigation process, including the execution of warrants and the discovery of digital evidence. Analyzes the intersection of sexual misconduct, blackmail, and online content in a complex legal case." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the severity of the alleged sexual crimes against students and the breach of trust by an educator. May also highlight the dangers and moral implications of online platforms like OnlyFans and the role of blackmail in criminal activity." }
+          "left": { "label": "Progressive Context", "synthesis": "This conviction is viewed as a victory for justice and a step forward in holding powerful individuals accountable for sexual misconduct. It reinforces the importance of legal avenues for survivors of sexual violence and highlights the ongoing need to challenge societal power imbalances that can enable such abuses. It also signals progress in recognizing and addressing historical harms." },
+          "center": { "label": "Procedural Context", "synthesis": "The legal process, culminating in a guilty verdict and scheduled sentencing, demonstrates the functionality of the criminal justice system in prosecuting serious offenses. The case underscores the principle of equality before the law and the judiciary's role in delivering impartial judgments based on evidence presented in court." },
+          "right": { "label": "Conservative Context", "synthesis": "From a 'law and order' perspective, the conviction affirms the legal system's capacity to deliver justice for victims of serious crimes. It emphasizes accountability for criminal actions, regardless of an individual's public standing, upholding the integrity of the justice system and reinforcing the community's expectations for adherence to criminal statutes." }
         },
-        "neutral": "A teacher accused of sexual misconduct with six students was also reportedly blackmailed over an OnlyFans page discovered during the investigation."
+        "neutral": "Prominent businessman Frank Stronach has been found guilty of indecent and sexual assault, with sentencing scheduled, highlighting the justice system's process in high-profile criminal cases."
       }
     },
     {
-      "id": "ahluwalia-scc-2026",
+      "id": "k6l7m8n9o0p1q2r3s4t5u6v7w8x9y0z1",
       "category": "Criminal",
-      "source": "Slaw",
-      "title": "SCC Establishes Tort of Intimate Partner Violence in Ahluwalia v. Ahluwalia",
-      "citation": "Ahluwalia v. Ahluwalia, 2026 SCC 41061",
-      "url": "https://www.scc-csc.ca/judgments-jugements/cb/2026/41061/",
-      "summary": "This landmark Supreme Court of Canada decision established a new tort of intimate partner violence. The case originated from a family law dispute where Ms. Kuldeep Ahluwalia, initially self-represented, sought damages for abuse and coercive control by her former spouse. The Ontario Superior Court of Justice (Justice Mandhane) recognized a novel tort of family violence, taking efforts to understand the self-represented litigant's claims within a broader social context. The Ontario Court of Appeal upheld this recognition. The Supreme Court's ruling, which received significant discussion, addresses a pervasive social problem and aims to provide redress for victims.",
-      "graph": ["Intimate Partner Violence", "Family Law", "Tort Law", "Access to Justice", "Self-Represented Litigants"],
+      "source": "Toronto Sun",
+      "title": "Teacher Accused of Sexual Misconduct Blackmailed Over OnlyFans Account",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/world/teacher-accused-of-sex-with-six-students-blackmailed-over-onlyfans-page",
+      "summary": "A teacher accused of sexual misconduct with six students was reportedly blackmailed over her OnlyFans page. Authorities discovered the OnlyFans and Snapchat accounts while executing warrants related to the accusations, adding a layer of digital criminality to the existing charges of sexual offenses.",
+      "graph": ["Sexual Misconduct", "Blackmail", "Online Content", "Teacher Conduct", "Digital Crime", "Law Enforcement Investigation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Majority Reasons", "synthesis": "The SCC Majority, in a decision largely seen as a relief by many, established the tort of intimate partner violence. This ruling significantly expands the common law to offer a dedicated civil remedy for victims, acknowledging the complex dynamics of domestic abuse and coercive control. It marks a judicial commitment to evolving legal frameworks to address pressing social issues, particularly the harms faced by vulnerable individuals in family relationships. The decision confirms that such violence is a legally actionable wrong, moving beyond disparate torts. (Judge split not specified in source material, but implied strong majority).", "judge_split": "Not specified in input, but implied strong majority." },
-          "center": { "label": "Concurring Reasons", "synthesis": "Justice Karakatsanis, in her concurring opinion, specifically linked the ideas of self-representation in family law, access to justice, and the need for simplified legal frameworks. She advocated for a 'one-stop shopping' approach for the tort of intimate partner violence, arguing that a single, clear tort is crucial for improving litigation efficiency and making legal recourse accessible to self-represented litigants who often have limited resources. This perspective emphasizes the practical realities faced by vulnerable parties and the importance of law reform to promote genuine access to justice." },
-          "right": { "label": "Dissenting Reasons", "synthesis": "Justice Rowe expressed significant concern regarding the trial judge's proactive role in developing a novel tort for a self-represented litigant. He suggested that such actions amounted to the judge 'entering into the arena,' effectively engaging in judicial legislation that undermines the adversarial process and the traditional role of an impartial adjudicator. His dissent implies a preference for a more conservative approach to common law development, emphasizing strict procedural adherence and concerns about maintaining judicial neutrality." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would focus on the severe power imbalance inherent in sexual misconduct by a teacher, emphasizing the vulnerability of students. While blackmail is a crime, the primary concern remains the exploitation of minors, and the article raises questions about institutional accountability and child protection in the digital age." },
+          "center": { "label": "Procedural Context", "synthesis": "The case illustrates the complexities of criminal investigations involving digital evidence and online platforms. It highlights how law enforcement navigates privacy boundaries (e.g., OnlyFans accounts) during warrant execution to gather evidence for multiple criminal allegations, balancing investigative needs with legal standards for search and seizure." },
+          "right": { "label": "Conservative Context", "synthesis": "From a conservative perspective, the focus would be on the gravity of the sexual misconduct charges against a teacher, emphasizing the breach of trust and the protection of children. The blackmail aspect, while criminal, would be secondary to the primary offenses, reinforcing calls for strict adherence to ethical standards for educators and robust penalties for child exploitation." }
         },
-        "neutral": "Precedent Impact: Creating - The Supreme Court of Canada has established a new tort of intimate partner violence, significantly expanding civil remedies available to victims and shifting how courts address abuse within family relationships, while also prompting discussion on judicial roles and access to justice for self-represented litigants."
+        "neutral": "A teacher accused of sexual misconduct with students was allegedly blackmailed over her OnlyFans account, revealing complex criminal elements involving digital platforms in the investigation."
+      }
+    },
+    {
+      "id": "a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1",
+      "category": "Criminal",
+      "source": "Supreme Court of Canada",
+      "title": "Ahluwalia v. Ahluwalia: SCC Establishes New Tort for Intimate Partner Violence and Addresses Access to Justice for Self-Represented Litigants",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/06/19/issues-of-self-representation-in-a-landmark-decision-reflecting-on-ahluwalia-v-ahluwalia/",
+      "summary": "The Supreme Court of Canada's decision in _Ahluwalia v. Ahluwalia_ established a new common law tort of 'family violence' to provide civil redress for victims of intimate partner violence and coercive control. This landmark ruling follows the journey of the plaintiff, Kuldeep Ahluwalia, who represented herself at the Ontario Superior Court of Justice to claim damages for abuse. Her initial self-representation contrasted sharply with the extensive legal teams involved at the Ontario Court of Appeal and the Supreme Court, highlighting systemic challenges self-represented litigants face in accessing justice, particularly in cases involving complex claims of family violence.",
+      "graph": ["Intimate Partner Violence", "Access to Justice", "Self-Represented Litigants", "Family Law", "Tort Law", "Section 7 Charter", "Judicial Role"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Majority Reasons", "synthesis": "The SCC majority established a new common law tort of 'family violence' to provide civil redress for victims of intimate partner violence and coercive control. This reasoning emphasizes a recognition of the systemic nature of such abuse and the need for effective legal remedies, consolidating previously disparate claims into a single tort. This aligns with a broader commitment to advancing social justice and protecting vulnerable individuals, ensuring the common law evolves to meet contemporary societal needs. The decision implicitly reinforces the state's role in addressing violence and enabling access to justice." },
+          "center": { "label": "Concurring Reasons", "synthesis": "Justice Karakatsanis's concurring opinion specifically addressed the access to justice concerns for self-represented litigants (SRLs) in family law cases involving intimate partner violence. She argued for the necessity of a single, 'one-stop shopping' tort for intimate partner violence to reduce complexity and improve litigation efficiency, acknowledging the limited legal resources available to many victims. Her reasoning highlights a practical, systemic approach to making the law more accessible and responsive to the realities faced by vulnerable litigants." },
+          "right": { "label": "Dissenting Reasons", "synthesis": "Justice Rowe expressed significant concern about the trial judge's proactive role in interpreting and engaging with the self-represented litigant's claims, suggesting it constituted 'judicial legislation' and an inappropriate departure from the adversarial process. This perspective emphasizes a stricter adherence to traditional judicial roles, cautioning against judicial activism and advocating for Parliament to define new causes of action, thereby maintaining the institutional separation of powers." }
+        },
+        "neutral": "Precedent Impact: Creating - The Supreme Court of Canada created a new common law tort of 'family violence' to provide civil redress for systemic intimate partner violence, simplifying legal avenues for victims, especially self-represented litigants, and affirming the judiciary's role in evolving the common law to enhance access to justice."
       }
     }
   ],
   "immigration": [
     {
-      "id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "id": "a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7",
       "category": "Immigration",
       "source": "National Post",
-      "title": "Canada Maintains High Immigration Rates Despite Population Shrinkage",
+      "title": "Analysis: Canada's Immigration Rates Remain High Despite Recent Population Shrink",
       "citation": "June 2026 Tracking Window",
       "url": "https://nationalpost.com/opinion/immigration-rates-still-at-generational-highs-even-if-population-shrinking",
-      "summary": "Despite a recent, unprecedented three-quarter shrinkage in Canada's overall population, permanent immigration rates remain at generational highs. The article notes that permanent immigration in 2026 is projected to be among the highest in over a century, while also highlighting the substantial number of asylum-seekers (500,000). This indicates a complex demographic picture influenced by both long-term immigration targets and temporary migration adjustments.",
-      "graph": ["Immigration Policy", "Population Growth", "Asylum Seekers", "Demographic Trends"],
+      "summary": "An analysis indicates that Canada's permanent immigration rates in 2026 are projected to be among the highest in over a century, even as the overall population has shown a slight decrease for three consecutive quarters. This demographic shift is attributed primarily to the federal government's efforts to curb temporary migration, while permanent resident intake remains robust, with asylum-seekers reaching 500,000.",
+      "graph": ["Immigration Policy", "Population Growth", "Temporary Residents", "Permanent Residents", "Asylum Seekers", "Demographics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust immigration as a driver of economic growth and cultural diversity, while also calling for adequate resources and support for new immigrants and asylum seekers to ensure successful integration and uphold humanitarian values." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents a factual analysis of immigration statistics and their impact on demographic shifts. Focuses on the policy mechanisms for managing permanent residency and addressing the influx of temporary residents and asylum claims, evaluating their stated objectives and outcomes." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over high immigration levels and the financial/social strain posed by a large number of asylum seekers, particularly if population growth is also shrinking due to other factors. Advocates for more controlled immigration, focusing on economic needs and national capacity." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely emphasize the humanitarian aspect of immigration, advocating for robust support for asylum seekers and welcoming permanent residents to foster diversity and fill labor market gaps. Concerns might be raised about the impact of 'reining in' temporary migration on vulnerable workers and the need for comprehensive integration policies." },
+          "center": { "label": "Procedural Context", "synthesis": "The article presents a statistical analysis of immigration trends, focusing on the factual impact of government policies on population dynamics. It highlights the distinction between temporary and permanent migration streams and the administrative decisions affecting each, setting the context for policy evaluation based on demographic and economic data." },
+          "right": { "label": "Conservative Context", "synthesis": "From a conservative perspective, the focus might be on the sustainability and economic impact of high immigration levels, particularly the numbers of asylum seekers. The 'reining in' of temporary migration could be seen as a necessary step to manage population growth and ensure immigration policies align with national economic and social absorption capacities, prioritizing controlled and economically beneficial immigration." }
         },
-        "neutral": "Canada's permanent immigration rates remain historically high in 2026, even as the overall population has shrunk for three consecutive quarters, influenced by a significant number of asylum-seekers."
+        "neutral": "Despite a recent overall population contraction, Canada maintains historically high permanent immigration rates in 2026, driven by sustained permanent resident intake amidst efforts to reduce temporary migration."
       }
     }
   ]
