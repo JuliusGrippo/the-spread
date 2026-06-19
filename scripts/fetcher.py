@@ -16,7 +16,7 @@ if not GEMINI_API_KEY:
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
-# 21 Elite Telemetry Nodes (SCC updated to direct HTML navigation page)
+# 21 Elite Telemetry Nodes
 FEEDS = {
     "Left": [
         "https://www.thestar.com/feed/politics/",
@@ -40,7 +40,7 @@ FEEDS = {
         "https://www.westernstandard.news/search/?f=rss&t=article&l=15&c=news"
     ],
     "Legal & Courts": [
-        "https://decisions.scc-csc.ca/scc-csc/scc-csc/en/nav_date.do", # HTML Directory Front Door
+        "https://decisions.scc-csc.ca/scc-csc/scc-csc/en/nav_date.do",
         "https://decisions.fca-caf.gc.ca/fca-caf/fca-caf/en/rss/index.do",
         "https://decisions.fct-cf.gc.ca/fc-cf/fc-cf/en/rss/index.do",
         "https://www.slaw.ca/feed/",
@@ -50,9 +50,9 @@ FEEDS = {
 }
 
 def clean_full_text(url):
-    """Pings the Jina extraction layer using a verified Googlebot signature to unwrap paywalls."""
+    """Pings the Jina extraction layer using a verified signature to unwrap paywalls."""
     jina_endpoint = f"https://r.jina.ai/{url}"
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
     try:
         res = requests.get(jina_endpoint, headers=headers, timeout=15)
         return res.text if res.status_code == 200 else ""
@@ -76,17 +76,26 @@ def parse_any_date(date_str):
 def execute_daily_triage():
     print("--- INITIATING DUAL-SPECTRUM TRIAGE EXTRACTION ---")
     raw_ingestion_batch = []
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"}
+    
+    # Clean Desktop Chrome User Agent to glide right past Cloudflare challenges
+    chrome_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5"
+    }
     lookback_limit = datetime.now(timezone.utc) - timedelta(days=1)
+    is_friday = datetime.now(timezone.utc).weekday() == 4
     
     for spectrum_bracket, endpoints in FEEDS.items():
         for target_url in endpoints:
             try:
                 print(f"Polling Registry: {target_url}")
                 
-                # SPECIAL OVERRIDE: Scraping the SCC HTML Front-Door Directly
+                # Direct Scraper Override for the Supreme Court Front-Door Directory
                 if "nav_date.do" in target_url:
-                    response = requests.get(target_url, headers=headers, timeout=12)
+                    response = requests.get(target_url, headers=chrome_headers, timeout=12)
+                    print(f" -> [Telemetry] Directory Status: {response.status_code} | Size: {len(response.text)} characters")
+                    
                     if response.status_code != 200: continue
                     soup = BeautifulSoup(response.text, 'html.parser')
                     
@@ -100,12 +109,14 @@ def execute_daily_triage():
                             if title_text and len(title_text) > 8:
                                 found_links.append((title_text, href))
                     
-                    # Force grab the top 2 latest judgments completely bypassing RSS lag
-                    for title, link in found_links[:2]:
-                        print(f" -> [HTML Override] Forcing Extraction of Judgment: {title}")
+                    print(f" -> [Telemetry] Discovered {len(found_links)} viable link paths inside directory elements.")
+                    
+                    # Target top items directly
+                    for title, link in found_links[:3]:
+                        print(f" -> [Direct HTML Hijack] Pulling Text Schema: {title}")
                         full_text_intel = clean_full_text(link)
                         raw_ingestion_batch.append({
-                            "spectrum_origin": spectrum_bracket,
+                            "spectrum_origin": "Supreme Court of Canada",
                             "title": title,
                             "url": link,
                             "snippet": "Direct database directory injection.",
@@ -113,8 +124,8 @@ def execute_daily_triage():
                         })
                     continue
 
-                # Standard RSS/Atom Stream Engine
-                response = requests.get(target_url, headers=headers, timeout=12)
+                # Standard Media RSS Triage Loop
+                response = requests.get(target_url, headers=chrome_headers, timeout=12)
                 if response.status_code != 200: continue
                 root = ET.fromstring(response.content)
                 
@@ -155,14 +166,15 @@ def main():
 
     print(f"--- FEED TRIAGE COMPLETE: {len(payload)} RECENT ENTRIES SENT TO GEMINI ---")
     
-    # Trigger specialized SCC analytical layout rules
     is_friday = datetime.now(timezone.utc).weekday() == 4
     scc_protocol = ""
     if is_friday:
         scc_protocol = """
     *** SPECIAL FRIDAY PROTOCOL INITIATED ***
     Today is Friday. The Supreme Court of Canada releases decisions today.
-    For ANY Supreme Court of Canada (SCC) decisions you find in the data, you MUST alter your analysis to match this specialized format:
+    CRITICAL CONSTRAINT: You must ONLY apply this formatting protocol if the entry has a 'spectrum_origin' explicitly set to "Supreme Court of Canada". Do NOT apply this format to standard news articles or commentary blogs (like Slaw) that are simply writing about a court case.
+    
+    For verified court judgments:
     - 'source': MUST explicitly be "Supreme Court of Canada"
     - 'summary': You must extract and summarize the lower court decisions (Trial & Court of Appeal) leading up to the SCC ruling.
     - 'zones.left.label': "Majority Reasons"
