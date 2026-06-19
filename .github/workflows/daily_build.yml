@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install Engine Dependencies
-        run: pip install requests google-genai
+        run: pip install requests google-genai beautifulsoup4
       - name: Run Gemini 2M Token Pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
