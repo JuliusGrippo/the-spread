@@ -1,314 +1,334 @@
 {
   "federalism": [
     {
-      "id": "federalism-1",
+      "id": "7649d214a1e9c20188048259f9338f0d046c8672",
       "category": "Federalism",
       "source": "rabble.ca",
-      "title": "NDP Caucus Influences Federal Policy on Surveillance Pricing and Food Security",
+      "title": "Alberta Advances Two-Tier Healthcare System Amid Federal Funding Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/politics/canadian-politics/ndp-caucus-is-tiny-but-the-party-has-influenced-some-government-policies/",
-      "summary": "Despite a small caucus, the federal NDP, led by Avi Lewis, has influenced the Mark Carney Liberal government on \"surveillance pricing\" and a new food security strategy. The Liberals introduced Bill C-36, the Protecting Privacy and Consumer Data Act, which addresses \"algorithmic pricing\" (though not a full ban like Manitoba's NDP government) and also launched a National Food Security Strategy that echoes some NDP calls for public sector involvement.",
-      "graph": ["Federal Policy", "Legislative Influence", "Consumer Protection", "Food Security"],
+      "url": "https://rabble.ca/politics/canadian-politics/albert-pushes-ahead-with-two-tier-healthcare/",
+      "summary": "Alberta's UCP government is proceeding with a plan allowing doctors to bill patients directly for certain surgeries, a move critics argue constitutes two-tier healthcare and may violate the Canada Health Act. This policy aims to reduce surgical wait times and attract physicians but faces opposition due to potential federal funding penalties and concerns about equitable access.",
+      "graph": ["Healthcare Policy", "Provincial Autonomy", "Federal-Provincial Relations", "Canada Health Act", "Privatization"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 30, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the NDP's success in pushing progressive policies despite limited parliamentary power, showcasing how advocacy can shape government agendas on consumer privacy and public sector role in food security." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the dynamics of parliamentary influence and legislative incrementalism, where government adopts elements of opposition proposals, albeit with a slower, more cautious approach." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques government intervention in the market, particularly regarding \"surveillance pricing\" (as per Ontario Premier Doug Ford's stance) and increased public sector involvement in food security, emphasizing free market principles." }
+          "left": { "label": "Progressive Context", "synthesis": "The policy represents a dangerous step towards Americanizing public healthcare, creating unequal access where wealth dictates care. It undermines the universality principles of the Canada Health Act and could reduce public system capacity." },
+          "center": { "label": "Procedural Context", "synthesis": "The initiative introduces a dual public/private billing model for specific surgeries. The primary legal question revolves around its compliance with federal health legislation and the implications for federal transfer payments. Monitoring and potential adjustments are cited by the province." },
+          "right": { "label": "Conservative Context", "synthesis": "This move is framed as necessary to improve access, expand care options, and attract/retain physicians by offering greater flexibility, driven by 'business principles'. It aims to alleviate pressures on the public system by diversifying service delivery." }
         },
-        "neutral": "The federal government has incorporated elements of NDP proposals into its legislative and strategic agenda, notably regarding digital privacy and food security, demonstrating inter-party policy influence."
+        "neutral": "Alberta is implementing a policy allowing private billing for certain surgeries, sparking a debate on healthcare system structure, federal health law compliance, and equitable access across the country."
       }
     },
     {
-      "id": "federalism-2",
+      "id": "e445037a34691459a933f389364b4c653ff9d54e",
       "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "Ontario Utilizes First MZO in Lake Muskoka, Bypassing Local Planning for Resort Development",
+      "source": "rabble.ca",
+      "title": "Alberta's 'Dani Dollars' Energy Rebate Under Fire for Insufficiency",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/mzo-lake-muskoka/?utm_source=rss",
-      "summary": "The Ontario government used its first Minister's Zoning Order (MZO) in Lake Muskoka to facilitate a large resort development by Cliff Bay Muskoka Corp., overriding local municipal planning rules. The MZO was a condition of the land purchase from the province, raising concerns about conflict of interest, environmental impact (especially \"water villas\" over Crown lake-bed), and the erosion of local democratic oversight.",
-      "graph": ["Provincial Governance", "Land Use Planning", "Environmental Protection", "Local Autonomy"],
+      "url": "https://rabble.ca/politics/canadian-politics/3-4-million-albertans-will-qualify-for-100-dani-dollars-energy-rebate/",
+      "summary": "The Alberta government announced a one-time $100 energy rebate for 3.4 million Albertans, intended to provide relief from high energy costs. This 'Dani Dollars' initiative has been widely criticized as insufficient and a 'lame stunt' given the current economic pressures faced by residents.",
+      "graph": ["Provincial Policy", "Economic Relief", "Consumer Spending", "Fiscal Management", "Public Opinion"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 45, "center": 30, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the MZO as a tool that undermines environmental protection and local democracy, prioritizing corporate development over ecological and community interests. Highlights concerns about corporate influence and government transparency." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the procedural aspects of MZOs and the balance between provincial development goals and local planning authority. Notes the legal expert's conflict of interest concern as a procedural irregularity." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports provincial government's ability to streamline development and promote economic growth through mechanisms like MZOs, potentially viewing local planning as an impediment to progress." }
+          "left": { "label": "Progressive Context", "synthesis": "The $100 rebate is a meager, patronizing gesture that fails to address the deep-seated affordability crisis. It's an ineffective political stunt that offers negligible real relief to families struggling with rising costs." },
+          "center": { "label": "Procedural Context", "synthesis": "The Alberta government's one-time energy rebate program, covering 3.4 million eligible residents, aims to provide direct financial support. The program's design and impact on household budgets and the provincial fiscal balance are subject to ongoing evaluation." },
+          "right": { "label": "Conservative Context", "synthesis": "The rebate is a direct and immediate measure to return high oil revenues to Albertans, providing them the freedom to spend the money as they deem fit for their families' needs. It aligns with principles of fiscal responsibility by linking relief to energy revenues." }
         },
-        "neutral": "The Province of Ontario has invoked a Minister's Zoning Order for a Lake Muskoka resort, circumventing local planning regulations and sparking debate over environmental impact, local autonomy, and transparency in government land deals."
+        "neutral": "Alberta introduced a $100 energy rebate for eligible residents, a measure designed to offset rising costs, which has drawn criticism for its perceived inadequacy."
       }
     },
     {
-      "id": "federalism-3",
+      "id": "8340d860161491b2413a362f8319a9e38d72608c",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Government Passes Bill C-30, Authorizing Cabinet to Override Health Canada on Pesticide Use",
+      "source": "rabble.ca",
+      "title": "Taxpayer Complaints Surge at CRA Amid Staffing Cuts, Unions Warn",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/bill-c-30-changes-pesticide-use-pest-control-products-act-9.7240832?cmp=rss",
-      "summary": "Bill C-30, passed by the Mark Carney government, significantly alters Canada's Pest Control Products Act, granting cabinet the power to authorize pesticide use, including those deemed unsafe by Health Canada. This authority can be exercised for reasons of economic or national food security for up to six years, prompting strong criticism from environmental and health organizations, as well as scientists, who argue it undermines scientific oversight.",
-      "graph": ["Federal Legislation", "Regulatory Authority", "Environmental Policy", "Public Health", "Food Security"],
+      "url": "https://rabble.ca/labour/three-year-high-of-tax-service-complaints-is-no-surprise-to-workers/",
+      "summary": "The Taxpayer's Ombudsperson reported a three-year high in complaints against the Canada Revenue Agency (CRA) for the 2025-2026 fiscal year, primarily concerning call centre service and processing delays. Unions representing CRA employees attribute these issues to significant staffing cuts in previous years, leading to increased workload, stress, and loss of expertise.",
+      "graph": ["Public Service", "Federal Agency", "Taxation", "Service Delivery", "Labour Relations", "Government Efficiency"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the bill as an erosion of environmental and public health protections, arguing that political and economic interests are overriding scientific expertise and safety standards. Raises concerns about corporate lobbying." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the shift in regulatory power from a scientific agency (Health Canada) to the political executive, examining the implications for checks and balances and the role of expert advice in policy-making." },
-          "right": { "label": "Conservative Context", "synthesis": "Might support the government's flexibility to prioritize economic and food security interests, arguing that such measures are necessary for agricultural productivity and competitive markets, even if it means streamlining regulatory processes." }
+          "left": { "label": "Progressive Context", "synthesis": "The surge in complaints directly results from chronic underinvestment and staffing cuts in the public service, demonstrating how austerity measures degrade essential public services and harm citizens, especially the most vulnerable. Increased staffing and improved training are critical." },
+          "center": { "label": "Procedural Context", "synthesis": "The Taxpayer's Ombudsperson's report highlights systemic service deficiencies within the CRA. While some recent improvements in tax season service are noted, an ongoing examination into complex T1 adjustment processing times is warranted to address underlying operational issues." },
+          "right": { "label": "Conservative Context", "synthesis": "While service issues are concerning, the focus should be on efficient resource allocation and leveraging technology to improve services, not merely increasing staff numbers. The government should explore innovative approaches to enhance reliability and user-friendliness without necessarily expanding the public sector footprint." }
         },
-        "neutral": "New federal legislation (Bill C-30) empowers the cabinet to approve pesticide use, even against Health Canada's safety assessments, citing economic or food security, leading to significant debate over the balance between political discretion and scientific regulation."
+        "neutral": "Complaints against the Canada Revenue Agency have reached a three-year peak, with unions citing past staffing reductions as the primary cause for declining service quality, particularly in call centres and processing times."
       }
     },
     {
-      "id": "federalism-4",
+      "id": "184000302b557c3d790d0b04c8fb22069b183654",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada Imposes Temporary Global Tariff on Canned Vegetables to Support Domestic Producers",
+      "source": "cbc.ca",
+      "title": "Carney Government Faces Legal Challenge Over Climate Agenda Rollbacks",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-imposes-tariffs-canned-vegetables-9.7242029?cmp=rss",
-      "summary": "Canada has implemented a 10% provisional tariff on canned vegetable imports from most countries, effective immediately for up to 200 days, excluding the U.S., Mexico, Israel, Chile, and developing nations due to existing trade agreements. The measure aims to address challenges faced by domestic producers while the Canadian International Trade Tribunal conducts an inquiry into potential harm from increased imports, with consideration for food affordability and security.",
-      "graph": ["Trade Policy", "Economic Protectionism", "Domestic Industry Support", "International Relations"],
+      "url": "https://www.cbc.ca/news/politics/climate-accountability-legal-challenge-carney-analysis-9.7242378?cmp=rss",
+      "summary": "A legal challenge has been filed in Federal Court by environmental groups and youth activists against the Carney government, alleging that its climate agenda rollbacks put it in violation of the Net-Zero Emissions Accountability Act. The lawsuit raises questions about governmental commitment to climate targets and the long-term impact of policy decisions.",
+      "graph": ["Climate Policy", "Environmental Law", "Government Accountability", "Youth Activism", "Federal Court", "Net-Zero"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Could view the tariff as a necessary measure to protect Canadian jobs and agricultural producers from unfair foreign competition, aligning with protectionist or nationalistic economic policies, but might also raise concerns about consumer prices." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the interim nature of the tariff as a safeguard measure within international trade rules, pending a formal inquiry, balancing domestic industry support with international trade obligations and consumer impact." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally skeptical of tariffs as market distortions, potentially seeing them as anti-competitive, but might support the measure if it aligns with a \"Canada First\" or national economic interest narrative, aiming to strengthen domestic industries." }
+          "left": { "label": "Progressive Context", "synthesis": "The lawsuit underscores a critical failure of the Carney government to uphold its own climate commitments, prioritizing short-term political gains over the existential threat of climate change and the rights of future generations. It's a necessary step to force accountability." },
+          "center": { "label": "Procedural Context", "synthesis": "The legal challenge will test the enforceability of the Net-Zero Emissions Accountability Act and the extent to which government policy shifts can be challenged in court. It focuses on whether current actions align with legislated climate targets." },
+          "right": { "label": "Conservative Context", "synthesis": "While climate action is important, the government must balance environmental goals with economic realities. Excessive legal challenges can stifle economic development and impose rigid policies, hindering the flexibility needed for effective governance." }
         },
-        "neutral": "Canada has imposed a provisional 10% tariff on certain imported canned vegetables to support its domestic industry, while an inquiry assesses the impact of imports on local processors and food affordability."
+        "neutral": "The federal government is facing a Federal Court challenge from environmental groups and youth over allegations that its current climate policies are inconsistent with the Net-Zero Emissions Accountability Act."
       }
     },
     {
-      "id": "federalism-5",
+      "id": "893c834a78ce6c8369623e100f7e4157143c7b3b",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Government Eliminates Corporate Watchdog for Human Rights Violations Abroad",
+      "source": "cbc.ca",
+      "title": "Ottawa Allocates $5.4 Billion to Bolster National Child Care Program",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-eliminates-corporate-watchdog-9.7240970?cmp=rss",
-      "summary": "Human rights advocates criticize the Mark Carney government for eliminating the Canadian Ombudsperson for Responsible Enterprise (CORE), an office established to investigate allegations of human rights abuses, forced labour, and environmental degradation by Canadian companies operating abroad. Prime Minister Carney cited the office's ineffectiveness, having completed only one investigation since its 2019 launch, while advocates argue the solution should be to strengthen its powers, not disband it.",
-      "graph": ["Corporate Accountability", "Human Rights", "Federal Governance", "International Business Ethics"],
+      "url": "https://www.cbc.ca/news/politics/ottawa-adding-5-4-b-for-childcare-9.7242200?cmp=rss",
+      "summary": "The federal government announced an additional $5.4 billion over two years for the national $10-a-day child-care program. This funding aims to help provinces and territories address 'cost pressures' and overcome challenges in achieving targets for reduced fees, increased spaces, and recruitment of early childhood educators.",
+      "graph": ["Child Care", "Federal Funding", "Provincial Programs", "Social Policy", "Economic Growth", "Intergovernmental Transfers"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the elimination of CORE as a betrayal of human rights and a weakening of corporate accountability, arguing it allows Canadian companies to operate with impunity abroad and undermines Canada's international reputation." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the effectiveness and mandate of the CORE office, acknowledging both its limited powers and its low output, while debating whether elimination or reform is the appropriate response to improve corporate accountability mechanisms." },
-          "right": { "label": "Conservative Context", "synthesis": "May support the government's decision to eliminate an \"ineffective\" and potentially bureaucratic body, possibly advocating for less government oversight of private enterprise or different mechanisms for ensuring responsible business conduct that are less burdensome." }
+          "left": { "label": "Progressive Context", "synthesis": "This additional investment is crucial to ensure the viability and expansion of universal child care, which is vital for gender equity, economic participation, and family support. It directly addresses the funding gaps identified by provinces and advocates." },
+          "center": { "label": "Procedural Context", "synthesis": "The federal government is responding to provincial concerns regarding the financial sustainability of the national child care program. This flexible funding infusion is intended to help jurisdictions meet established targets and sustain progress, acknowledging the diverse cost environments across Canada." },
+          "right": { "label": "Conservative Context", "synthesis": "While child care support is valuable, large federal transfers with broad spending flexibility must be scrutinized for efficiency and accountability. The long-term fiscal implications and the role of provincial vs. federal responsibility in service delivery remain key considerations." }
         },
-        "neutral": "The federal government has eliminated the Canadian Ombudsperson for Responsible Enterprise (CORE), citing its ineffectiveness, drawing criticism from human rights advocates who argue for stronger corporate accountability measures for Canadian companies operating internationally."
+        "neutral": "The federal government is investing an additional $5.4 billion into the national $10-a-day child-care program over two years, aiming to help provinces and territories manage rising costs and meet implementation targets."
       }
     },
     {
-      "id": "federalism-6",
+      "id": "e6f66c0981e4b85770d100067c29cf2a65a2105f",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Ottawa and B.C. Announce $200 Million for Tumbler Ridge School and Health Centre Reconstruction",
+      "source": "theglobeandmail.com",
+      "title": "Federal Finance Minister Seeks Input on Tax and Energy Policy for Upcoming Budget",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/carney-tumbler-ridge-health-care-centre-9.7010777?cmp=rss",
-      "summary": "Prime Minister Mark Carney and British Columbia Premier David Eby announced a $200 million joint federal-provincial investment for the reconstruction of a new secondary school and an updated health centre in Tumbler Ridge, B.C. This funding addresses the community's recovery after a mass shooting, with construction expected to begin this summer.",
-      "graph": ["Federal-Provincial Relations", "Infrastructure Funding", "Community Development", "Post-Disaster Recovery"],
+      "url": "https://www.theglobeandmail.com/politics/article-francois-philippe-champagne-interview-budget-consultations/",
+      "summary": "Federal Finance Minister François-Philippe Champagne has initiated consultations for the 2026 budget, seeking proposals on tax changes and energy policy. Discussions are expected to cover strategies for economic growth in areas like critical minerals, defence spending, and artificial intelligence.",
+      "graph": ["Fiscal Policy", "Budget Consultation", "Energy Policy", "Economic Development", "Taxation", "Innovation"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Welcomes the government investment as essential support for a community recovering from tragedy, highlighting the role of public funding in social infrastructure and addressing community needs." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the intergovernmental cooperation and financial commitment for a specific infrastructure project, emphasizing the administrative process and the tangible outcomes for the affected community." },
-          "right": { "label": "Conservative Context", "synthesis": "Might question the scale of government spending or emphasize local responsibility, but generally acknowledges the need for support in times of crisis, while perhaps advocating for fiscal prudence in other areas." }
+          "left": { "label": "Progressive Context", "synthesis": "Budget consultations offer an opportunity to advance equitable tax reforms, invest in sustainable energy, and ensure social programs are adequately funded. Policies should prioritize inclusive growth and strategic public investments." },
+          "center": { "label": "Procedural Context", "synthesis": "The federal finance minister is conducting pre-budget consultations to gather input on key fiscal and economic policy areas. This process informs the development of the national budget, focusing on growth sectors and revenue considerations." },
+          "right": { "label": "Conservative Context", "synthesis": "The consultations are vital for developing a budget that encourages private sector investment, reduces tax burdens where possible, and streamlines energy policy to foster market-driven growth. Prudent fiscal management and competitiveness are paramount." }
         },
-        "neutral": "The federal and B.C. governments are jointly committing $200 million to rebuild a secondary school and update a health centre in Tumbler Ridge, B.C., as part of the community's recovery efforts."
+        "neutral": "Canada's Finance Minister is soliciting public and stakeholder input on potential tax adjustments and energy strategies to inform the upcoming 2026 federal budget, with an emphasis on key economic growth sectors."
       }
     },
     {
-      "id": "federalism-7",
+      "id": "273a0e36369795679953331b239c0fcb21703e7e",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada-U.S.-Mexico Agreement (CUSMA) Review Trilateral Meeting Scheduled for July 1",
+      "source": "theglobeandmail.com",
+      "title": "Banking Regulator Releases Billions in Capital, Signaling Economic Support",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trilateral-trade-meeting-cusma-9.7240822?cmp=rss",
-      "summary": "Mexican Economy Secretary Marcelo Ebrard announced that Canadian, U.S., and Mexican officials will hold their first trilateral meeting on July 1 to review the Canada-U.S.-Mexico Agreement (CUSMA). This meeting is significant as the agreement's terms stipulate a review by July 1 to signal extension beyond 2036, amidst U.S. President Donald Trump's repeated threats to terminate the deal.",
-      "graph": ["International Trade", "Diplomacy", "North American Economy", "Trade Agreements"],
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-banking-regulator-frees-up-billions-in-excess-cash/",
+      "summary": "The Office of the Superintendent of Financial Institutions (OSFI), Canada's banking regulator, has lowered the required capital levels for banks, effectively freeing up billions in excess cash. This move is intended to inject liquidity into the financial system and support economic activity.",
+      "graph": ["Financial Regulation", "Economic Stimulus", "Banking Sector", "Monetary Policy", "Liquidity", "Federal Oversight"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses concern about the stability of CUSMA given U.S. protectionist rhetoric, advocating for fair trade practices and worker protections within any renegotiated agreement." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural developments of the CUSMA review, emphasizing diplomatic efforts to maintain stability and predictability in North American trade relations despite external political pressures." },
-          "right": { "label": "Conservative Context", "synthesis": "Views U.S. threats as leveraging tactics for better terms, potentially advocating for Canada to pursue its national interests aggressively in trade negotiations, while emphasizing the importance of free trade." }
+          "left": { "label": "Progressive Context", "synthesis": "While aiming to stimulate the economy, this action warrants close monitoring to ensure banks use the freed capital responsibly, directing it towards productive investments rather than excessive risk-taking or shareholder returns, and that it benefits the broader public, not just financial institutions." },
+          "center": { "label": "Procedural Context", "synthesis": "OSFI's decision to adjust capital requirements is a regulatory measure to manage financial system stability and liquidity. This action reflects an assessment of economic conditions and the banking sector's capacity to support lending and growth." },
+          "right": { "label": "Conservative Context", "synthesis": "Reducing capital requirements can free up banks to lend more, stimulating investment and economic growth. This is a positive step towards reducing regulatory burdens that may stifle economic dynamism and allowing market forces to allocate capital more effectively." }
         },
-        "neutral": "Canadian, U.S., and Mexican officials are set to convene their first trilateral meeting on July 1 for the mandatory review of the CUSMA trade agreement, amidst U.S. President Trump's statements regarding its potential termination."
+        "neutral": "Canada's banking regulator, OSFI, has lowered capital requirements for financial institutions, releasing billions in capital to promote economic activity and enhance market liquidity."
       }
     },
     {
-      "id": "federalism-8",
+      "id": "f5e927163f58a8f4c7d0d01d413b589417c805a5",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Opinion: Chief Justice Wagner's 'Supreme Hubris' and the Need for Parliamentary Judicial Oversight",
+      "source": "globalnews.ca",
+      "title": "Information Commissioner Rejects Proposal to Narrow Access to Information Act",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/john-robson-the-supreme-hubris-of-richard-wagner",
-      "summary": "Columnist John Robson criticizes Supreme Court Chief Justice Richard Wagner for what he perceives as judicial overreach and an increasing lack of accountability to Parliament. The article argues that Wagner's stance on criticism exposes the judiciary's \"growing conceit\" and calls for Parliament to reassert its constitutional duty to check the judiciary's power, particularly in areas typically within legislative purview.",
-      "graph": ["Judicial Review", "Separation of Powers", "Parliamentary Oversight", "Constitutional Law"],
+      "url": "https://globalnews.ca/news/11914497/watchdog-rejects-information-law/",
+      "summary": "Information Commissioner Caroline Maynard has rejected a federal proposal to narrow the scope of the Access to Information Act, stating that such a move would be detrimental to government transparency and accountability. Her stance emphasizes the importance of maintaining robust public access to government records.",
+      "graph": ["Transparency", "Accountability", "Access to Information", "Public Administration", "Government Oversight", "Information Law"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 40, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May express concern about judicial activism from a different angle (e.g., if it impedes progressive legislation), or support robust judicial review as a check on legislative power, depending on the specific context of \"overreach.\"" },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the constitutional framework of Canada, discussing the proper balance of power between the legislative, executive, and judicial branches, and the historical conventions of judicial independence versus parliamentary supremacy." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for parliamentary supremacy and criticizes judicial activism or overreach, viewing it as an undemocratic assertion of power by unelected judges, arguing for tighter checks on the judiciary by the elected legislature." }
+          "left": { "label": "Progressive Context", "synthesis": "Narrowing information access is a regressive step that erodes democratic principles and empowers government secrecy. The Commissioner's rejection upholds the public's right to know and is critical for holding power accountable and fostering trust." },
+          "center": { "label": "Procedural Context", "synthesis": "The Information Commissioner's role involves safeguarding the principles of the Access to Information Act. Her rejection of proposed amendments underscores a commitment to maintaining the intended breadth and purpose of the legislation for government transparency." },
+          "right": { "label": "Conservative Context", "synthesis": "While transparency is important, there can be legitimate arguments for streamlining information requests to improve government efficiency and protect sensitive operational details. However, any changes must be carefully balanced against public oversight." }
         },
-        "neutral": "An opinion piece critiques Chief Justice Richard Wagner for perceived judicial overreach, arguing for greater parliamentary oversight to maintain the constitutional balance of power between the legislative and judicial branches."
+        "neutral": "The Information Commissioner has opposed a federal initiative to restrict the scope of the Access to Information Act, arguing it would be a step backward for government transparency."
       }
     }
   ],
-  "charter": [],
+  "charter": [
+    {
+      "id": "9342ef0139b4b1a4bb2f1c8413f41a02157a44f9",
+      "category": "Charter",
+      "source": "nationalpost.com",
+      "title": "National Post Op-Ed Criticizes Carney Government for 'Online Surveillance State' Policies",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/np-view-mark-carneys-online-surveillance-state",
+      "summary": "A National Post opinion piece criticizes the Mark Carney government for allegedly moving towards an 'online surveillance state.' The article highlights concerns about proposals to outlaw online anonymity, implement ID verification for internet users, and establish 'human rights tribunals' for online speech, arguing these measures infringe upon fundamental freedoms such as free expression and privacy.",
+      "graph": ["Online Regulation", "Free Speech", "Privacy Rights", "Digital Identity", "Government Overreach", "Human Rights Tribunals"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "While addressing online harms is crucial, government measures must carefully balance safety with civil liberties. Some argue that regulating online speech and anonymity, if done judiciously, can combat disinformation and harassment, but broad restrictions are concerning." },
+          "center": { "label": "Procedural Context", "synthesis": "The article raises questions about the scope and implementation of proposed online regulations and their potential impact on Charter rights, particularly freedom of expression and privacy. It prompts a debate on the necessity and proportionality of such governmental interventions in the digital sphere." },
+          "right": { "label": "Conservative Context", "synthesis": "The critique argues that proposals to mandate online identification and regulate speech through 'human rights tribunals' constitute a dangerous expansion of state power, threatening online anonymity, free expression, and individual liberty. It frames these as hallmarks of an 'online surveillance state'." }
+        },
+        "neutral": "An opinion piece asserts that the Carney government's potential policies on online anonymity, user identification, and speech regulation are creating an 'online surveillance state' and infringing on Charter-protected freedoms."
+      }
+    }
+  ],
   "indigenous": [
     {
-      "id": "indigenous-1",
+      "id": "97d2644265acfb484fb1e69a0319ef4ce6583995",
       "category": "Indigenous",
-      "source": "CBC News",
-      "title": "Grassy Narrows First Nation Demands Apology from PM Carney and Action on Mercury Poisoning",
+      "source": "cbc.ca",
+      "title": "K'omoks First Nation Chief Counters Poilievre's Opposition to Treaty Ratification",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/grassy-narrows-carney-must-apologize-9.7240863?cmp=rss",
-      "summary": "Chrissy Isaacs, a Grassy Narrows First Nation member suffering from mercury poisoning, along with Chief Sherry Ackabee and NDP Leader Avi Lewis, demanded an apology from Prime Minister Mark Carney for a dismissive comment made during a past protest. They also called for the closure of the Dryden paper mill, which caused the mercury contamination decades ago, and compensation for affected community members, emphasizing ongoing pollution concerns.",
-      "graph": ["Indigenous Rights", "Environmental Justice", "Government Accountability", "First Nations Health"],
+      "url": "https://www.cbc.ca/news/canada/british-columbia/komoks-treaty-pierre-poilievre-9.7242721?cmp=rss",
+      "summary": "K'omoks First Nation Chief Coun. Nicole Rempel has refuted Conservative Leader Pierre Poilievre's claim that the K'omoks treaty, awaiting federal ratification, fails to protect property rights. Poilievre and Conservative MPs plan to oppose the treaty, arguing it creates uncertainty, while Rempel asserts his criticisms are inaccurate and fuel 'fear and racism' for political gain.",
+      "graph": ["Indigenous Rights", "Treaty Negotiations", "Property Rights", "Reconciliation", "Federal Politics", "Provincial Legislation"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 35, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights systemic environmental racism and the federal government's ongoing failure to address historical and current injustices faced by Indigenous communities, advocating for immediate action, reparations, and respect for Indigenous self-determination." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the government's response to demands from a First Nation community regarding environmental contamination and accountability, examining the political and legal obligations to Indigenous peoples." },
-          "right": { "label": "Conservative Context", "synthesis": "Might emphasize the economic implications of mill closures or the long-term nature of such issues, potentially calling for a balanced approach between environmental concerns, economic activity, and government responsibility." }
+          "left": { "label": "Progressive Context", "synthesis": "Poilievre's opposition is seen as an attempt to undermine reconciliation efforts and Indigenous rights for political expediency, perpetuating misinformation and harmful stereotypes about treaties and land claims. The treaty brings legal clarity and certainty." },
+          "center": { "label": "Procedural Context", "synthesis": "The debate centers on the interpretation and implications of the K'omoks treaty regarding property rights. Federal ratification of the treaty follows provincial approval and aims to establish legal certainty, which is a standard objective of modern treaties." },
+          "right": { "label": "Conservative Context", "synthesis": "Opposition stems from concerns that the treaty does not sufficiently and explicitly protect existing private property rights, potentially creating economic uncertainty. This highlights a desire for clear, unambiguous legal frameworks that safeguard all property owners." }
         },
-        "neutral": "Grassy Narrows First Nation leaders and members are demanding an apology from Prime Minister Carney and decisive action, including the closure of a paper mill, to address ongoing mercury poisoning and its generational impact."
+        "neutral": "The K'omoks First Nation Chief is pushing back against federal Conservative opposition to the nation's treaty, which claims the agreement jeopardizes property rights, asserting that such criticisms are misinformed and politically motivated."
       }
     },
     {
-      "id": "indigenous-2",
+      "id": "91ae0b200b8753ec12b48e36d41bb92f5e324c44",
       "category": "Indigenous",
-      "source": "National Post",
-      "title": "Opinion: Alberta Chiefs' Treason Allegations Against Premier Smith Undermine Their Cause",
+      "source": "cbc.ca",
+      "title": "Inuit Leader Warns of Seeking Foreign Partners If Ottawa Relationship Deteriorates",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/rob-breakenridge-alberta-chiefs-want-the-premier-probed-for-treason-they-just-killed-their-own-cause",
-      "summary": "Columnist Rob Breakenridge criticizes certain Alberta First Nations chiefs for calling for Premier Danielle Smith to be investigated for treason, arguing that such an extreme accusation weakens their broader advocacy. The opinion piece notes there is no evidence to support claims of Smith being a separatist or treasonous, despite ongoing tensions between Indigenous leadership and the provincial government over resource development and jurisdiction.",
-      "graph": ["Indigenous Governance", "Provincial Politics", "Intergovernmental Relations", "Legal Discourse", "Political Rhetoric"],
+      "url": "https://www.cbc.ca/news/canada/north/inuit-sovereignty-9.7242711?cmp=rss",
+      "summary": "Natan Obed, President of Inuit Tapiriit Kanatami (ITK), stated that Inuit could explore foreign partnerships if their relationship with the federal government sours, particularly concerning Arctic policy. Following an Arctic sovereignty conference, ITK emphasized the need for Ottawa to be better partners and respect Inuit rights to governance and self-determination, rejecting 'outdated, colonial approaches.'",
+      "graph": ["Inuit Self-Determination", "Arctic Sovereignty", "Federal-Indigenous Relations", "Foreign Relations", "Resource Management", "Governance"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might focus on the underlying systemic issues leading to the conflict between Indigenous communities and the provincial government, such as resource exploitation and unaddressed land rights, seeing the chiefs' actions as a desperate plea for recognition." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the political rhetoric and legal merits of the \"treason\" accusation, assessing its impact on the credibility of Indigenous advocacy and the overall dynamic of Indigenous-provincial relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the provincial government's jurisdiction and criticizes what it views as inflammatory or unfounded accusations, emphasizing the need for respectful dialogue within established legal and political frameworks." }
+          "left": { "label": "Progressive Context", "synthesis": "The warning highlights the historical marginalization of Inuit in decisions concerning their homeland. It calls for genuine partnership based on Indigenous rights and self-determination, recognizing that Inuit must have full agency over their future and development in the Arctic." },
+          "center": { "label": "Procedural Context", "synthesis": "ITK's statement reflects a strategic assertion of Inuit governance rights and a call for re-evaluation of the federal government's engagement model in the Arctic. It proposes a shift from consultation to co-decision making, potentially impacting Canada's foreign policy and sovereignty posture." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the importance of Indigenous partnerships, the federal government must maintain primary control over national sovereignty and defence. Any foreign engagement by Indigenous groups would need to align with national interests and established diplomatic protocols." }
         },
-        "neutral": "An opinion piece contends that calls by some Alberta First Nations chiefs for Premier Danielle Smith to be investigated for treason, arising from intergovernmental tensions, are counterproductive to their advocacy efforts."
+        "neutral": "A national Inuit leader indicated that Inuit organizations might seek partnerships with foreign entities if the federal government fails to adequately respect their self-determination and rights in Arctic policy-making."
       }
     }
   ],
   "criminal": [
     {
-      "id": "criminal-1",
+      "id": "d7486f0302b1f891b61973fb6214ed7b83321590",
       "category": "Criminal",
-      "source": "CBC News",
-      "title": "Parliament Passes Key Bills Before Summer Recess, Including Military Sexual Offences and Digital Access",
+      "source": "cbc.ca",
+      "title": "Canadian Lawyers Call for Enforcement Against Imports Made with Alabama Prison Labour",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/house-of-commons-rises-for-summer-9.7240591?cmp=rss",
-      "summary": "Before its summer recess, the House of Commons passed 21 government bills, including Bill C-11, which mandates that all military sexual offences be handled by civilian courts, and Bill C-22, the lawful access legislation, granting police expanded powers to gather private digital information. The government emphasized these bills strengthen public safety and address crime, though some, like C-22, face further Senate review and privacy concerns.",
-      "graph": ["Criminal Justice", "Legislative Reform", "Military Law", "Digital Privacy", "Police Powers"],
+      "url": "https://www.cbc.ca/news/politics/forced-labour-imports-canada-tariffs-9.7238657?cmp=rss",
+      "summary": "Canadian Lawyers for International Human Rights (CLAIHR) has filed a complaint with the Competition Bureau against four companies, alleging they import goods from Alabama made with forced prison labour. The complaint argues that Alabama's work release programs qualify as forced labour under Canadian law and that companies made false claims in their supply chain reports, pushing for stronger enforcement of Canada's import bans.",
+      "graph": ["Forced Labour", "Human Rights", "Supply Chain Transparency", "Competition Law", "International Trade", "Corporate Accountability"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Applauds Bill C-11 for addressing systemic issues within the military justice system regarding sexual offences but raises concerns about Bill C-22's impact on digital privacy and civil liberties." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the legislative achievements of the parliamentary session, detailing the scope of passed bills and their intended effects on the criminal justice system and public safety, noting ongoing debates." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports legislation aimed at strengthening law enforcement powers (like C-22) and ensuring justice system integrity (like C-11), framing them as essential for public order and combating crime." }
+          "left": { "label": "Progressive Context", "synthesis": "This complaint is a vital step to hold corporations accountable for complicity in modern-day slavery and to ensure Canada's human rights commitments are enforced. It highlights the urgent need for robust legislation and enforcement against exploitative labour practices in global supply chains." },
+          "center": { "label": "Procedural Context", "synthesis": "The complaint tests the application of Canada's Supply Chains Act and competition law in prosecuting false claims regarding forced labour. It raises questions about the government's enforcement mechanisms for prohibiting goods made with forced labour." },
+          "right": { "label": "Conservative Context", "synthesis": "While forced labour is unacceptable, defining 'forced labour' in international contexts requires careful consideration to avoid unintended trade disruptions. Companies should be given clear guidelines and support to ensure compliance, rather than facing overly aggressive prosecution for complex supply chain issues." }
         },
-        "neutral": "The House of Commons has passed significant criminal justice legislation, including a bill transferring military sexual offence cases to civilian courts and a lawful access bill expanding police digital information gathering powers, before its summer adjournment."
+        "neutral": "Canadian human rights lawyers have filed a complaint alleging that several companies import products made with forced prison labor from Alabama, calling for stronger enforcement of Canadian law against such practices."
       }
     },
     {
-      "id": "criminal-2",
+      "id": "5865a782e6d9b62a690f0c0576395561a293ec51",
       "category": "Criminal",
-      "source": "Global News",
-      "title": "Liberals Dismiss Privacy Concerns as Lawful Access Bill C-22 Passes House of Commons",
+      "source": "cbc.ca",
+      "title": "Canadian Fentanyl Czar Refutes U.S. Claims of Increased Drug Trafficking from Canada",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11911957/lawful-access-bill-passes-privacy-liberals-tinfoil-hat/",
-      "summary": "Bill C-22, the federal government's lawful access legislation, has passed the House of Commons despite significant privacy concerns raised by opposition parties and advocates. The bill enhances police powers to obtain private digital information during investigations. Liberals dismissed these concerns as \"tinfoil hat\" fears, prioritizing law enforcement capabilities, while the bill now moves to the Senate for further review.",
-      "graph": ["Digital Privacy", "Police Powers", "Criminal Code", "Civil Liberties", "Legislative Debate"],
+      "url": "https://www.cbc.ca/news/politics/us-canada-trump-fentanyl-border-9.7241691?cmp=rss",
+      "summary": "Canada's Fentanyl Czar, Kevin Brosseau, has pushed back against U.S. claims, particularly from the Trump administration, that a crackdown on drug trafficking at the U.S.-Mexico border is leading to increased criminal activity from Canada. Brosseau stated that available data does not support these assertions regarding higher drug trafficking volumes.",
+      "graph": ["Drug Trafficking", "Fentanyl Crisis", "Border Security", "International Relations", "Law Enforcement", "Data Analysis"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly criticizes the bill for eroding digital privacy rights and expanding state surveillance, arguing that it disproportionately impacts civil liberties and lacks sufficient safeguards against abuse." },
-          "center": { "label": "Procedural Context", "synthesis": "Details the legislative process and the arguments presented by both the government (for law enforcement effectiveness) and the opposition (for privacy protection), highlighting the ongoing tension between security and individual rights." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports increased police powers as necessary for effective crime fighting and national security in the digital age, dismissing privacy concerns as potentially hindering law enforcement's ability to protect citizens." }
+          "left": { "label": "Progressive Context", "synthesis": "This situation highlights the need for evidence-based policy and cross-border cooperation on drug enforcement, rather than politically motivated accusations. Resources should focus on public health and addressing root causes of addiction, alongside targeted enforcement." },
+          "center": "This is a factual disagreement between Canadian and U.S. officials regarding intelligence on cross-border drug trafficking trends. The Canadian official asserts that data does not corroborate U.S. claims, indicating a need for reconciled intelligence sharing and assessment.",
+          "right": { "label": "Conservative Context", "synthesis": "Regardless of data disputes, Canada must ensure its borders are secure against all forms of illicit trafficking. If U.S. pressure highlights a potential vulnerability, Canada should proactively strengthen border controls and enforcement capabilities to protect both nations." }
         },
-        "neutral": "Federal Bill C-22, which expands police access to private digital information, has passed the House of Commons, prompting debate over the balance between enhancing law enforcement capabilities and protecting individual privacy rights."
+        "neutral": "Canada's Fentanyl Czar has contradicted U.S. claims of a surge in drug trafficking from Canada following heightened enforcement at the U.S.-Mexico border, citing a lack of supporting data."
       }
     },
     {
-      "id": "criminal-3",
+      "id": "d0f19c8f0003df243e86edb07d0f918e9a1ff004",
       "category": "Criminal",
-      "source": "Slaw",
-      "title": "Commentary on Ahluwalia v. Ahluwalia: Self-Representation and Access to Justice in Intimate Partner Violence Cases",
+      "source": "torontosun.com",
+      "title": "Toronto Police Investigate Downtown Shooting; Brampton Man Arrested for ATM Robberies",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/19/issues-of-self-representation-in-a-landmark-decision-reflecting-on-ahluwalia-v-ahluwalia/",
-      "summary": "This article reflects on the Supreme Court of Canada's landmark decision in Ahluwalia v. Ahluwalia, which established a tort for intimate partner violence. The commentary highlights the critical issue of self-represented litigants (SRLs) in family law, particularly victims of violence, noting how the original plaintiff was self-represented while her ex-spouse had counsel, and how the legal support imbalance shifted dramatically in later appellate stages. It questions the accessibility of justice for SRLs and the role of trial judges in supporting such claimants.",
-      "graph": ["Intimate Partner Violence", "Access to Justice", "Self-Represented Litigants", "Tort Law", "Family Law"],
+      "url": "https://torontosun.com/news/local-news/woman-shot-downtown-toronto-apartment-man-arrested-brampton-atm-robberies",
+      "summary": "A woman was found shot inside a downtown Toronto apartment, prompting a police investigation. Separately, a man has been arrested in connection with multiple ATM robberies in Brampton. These incidents highlight ongoing local law enforcement activities addressing violent and property crimes.",
+      "graph": ["Gun Violence", "Robbery", "Law Enforcement", "Local Crime", "Arrest", "Investigation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the systemic barriers faced by victims of intimate partner violence, especially SRLs, in accessing justice. Advocates for greater legal aid and judicial support to address profound power imbalances and ensure substantive equality." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the procedural and practical challenges presented by self-representation in complex litigation like intimate partner violence cases, discussing the role of the judiciary and the legal profession in ensuring a fair process." },
-          "right": { "label": "Conservative Context", "synthesis": "May focus on the efficiency of the legal system and the proper boundaries of judicial intervention, perhaps suggesting that while access to justice is important, judges should not \"enter the arena\" to compensate for lack of representation." }
+          "left": { "label": "Progressive Context", "synthesis": "These crimes underscore systemic issues like poverty, lack of opportunity, and mental health challenges that contribute to criminal activity. A holistic approach focusing on social support and preventative measures is necessary, alongside law enforcement." },
+          "center": { "label": "Procedural Context", "synthesis": "Police are actively investigating a shooting in Toronto and have made an arrest in a series of Brampton robberies. These are routine law enforcement actions aimed at maintaining public order and addressing criminal acts through due process." },
+          "right": { "label": "Conservative Context", "synthesis": "The incidents demonstrate the critical need for strong policing and judicial deterrents to ensure public safety. Rapid arrests and firm penalties are essential to combat crime and maintain order in urban areas." }
         },
-        "neutral": "A legal commentary discusses the implications of the Supreme Court's Ahluwalia v. Ahluwalia decision, which established a tort for intimate partner violence, with a focus on challenges faced by self-represented litigants and access to justice."
+        "neutral": "Police are investigating a shooting in downtown Toronto and have apprehended an individual linked to a string of ATM robberies in Brampton, reflecting active crime response in the GTA."
       }
     },
     {
-      "id": "criminal-4",
+      "id": "921869e5d4e13783a54b321a5b81a95c9600e122",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Poll Indicates Majority of Canadians Favor Reinstatement of Death Penalty for Murderers",
+      "source": "nationalpost.com",
+      "title": "Billionaire Frank Stronach's Journey from Rags to Riches to Criminal Convictions Documented",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/death-penalty-murderers-canadians",
-      "summary": "A new poll reveals that a significant majority of decided Canadians (two-to-one) support the return of capital punishment for murderers, a practice abolished in Canada in 1976. The poll reflects public sentiment on a controversial aspect of criminal justice policy.",
-      "graph": ["Capital Punishment", "Public Opinion", "Criminal Justice Policy", "Law Reform"],
+      "url": "https://nationalpost.com/news/canada/frank-stronach-from-rags-to-riches",
+      "summary": "The article details the life and career of billionaire Frank Stronach, from his humble beginnings and founding of Magna International to his eventual criminal convictions. It provides a narrative of his rise in the automotive industry and the legal troubles that culminated in his conviction.",
+      "graph": ["White-Collar Crime", "Corporate Governance", "Legal History", "Billionaire", "Business Ethics", "Conviction"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Opposes the death penalty on human rights grounds, citing concerns about wrongful convictions, ethical considerations, and its ineffectiveness as a deterrent, advocating for rehabilitative justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports the poll results objectively, framing it as a reflection of public sentiment on a contentious issue, noting the historical context of capital punishment in Canada and the complexities of criminal justice reform." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the reintroduction of the death penalty for severe crimes, often citing principles of retribution, deterrence, and victims' rights, advocating for tougher-on-crime policies." }
+          "left": { "label": "Progressive Context", "synthesis": "This case highlights the potential for corporate power and wealth to operate outside ethical bounds, underscoring the need for robust regulatory oversight and accountability for high-profile figures, regardless of their contributions to the economy." },
+          "center": { "label": "Procedural Context", "synthesis": "The report outlines the trajectory of a prominent business figure's life culminating in criminal convictions, reflecting the application of legal standards to individuals regardless of their socio-economic status. It is a factual account of legal outcomes." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the legal process, the story of Frank Stronach exemplifies a remarkable entrepreneurial spirit and wealth creation. His convictions, though serious, should not overshadow his significant economic achievements and contributions before his legal troubles." }
         },
-        "neutral": "A recent poll indicates that a majority of Canadians who have formed an opinion favour the reinstatement of the death penalty for murderers, a practice abolished in Canada in 1976."
+        "neutral": "The biography of billionaire Frank Stronach traces his entrepreneurial success and subsequent criminal convictions, marking a significant legal outcome for a prominent Canadian business figure."
       }
     }
   ],
   "immigration": [
     {
-      "id": "immigration-1",
+      "id": "2701b223ff9720088b901fc935661bb59b2bb5a4",
       "category": "Immigration",
-      "source": "rabble.ca",
-      "title": "Rainbow Railroad Faces Record Demand Amidst Reduced Global Funding for 2SLGBTQIA+ Refugees",
+      "source": "thehub.ca",
+      "title": "Canada's Population Declines by 234,000 as Immigration Policies Tighten",
       "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/lgbtiq/rainbow-railroad-experiences-highest-demand-ever-in-the-face-of-reduced-global-funding-and-supports-for-refugees/",
-      "summary": "Rainbow Railroad, a Canadian charity assisting 2SLGBTQIA+ individuals fleeing violence globally, has seen its highest-ever demand (over 20,000 requests last year, a 51% increase) at a time when global humanitarian aid and government funding are decreasing. The organization highlights how new legislative restrictions in Canada, such as Bill C-12 (which disqualifies asylum claims after a year), disproportionately endanger queer asylum seekers who may not initially realize their grounds for claim.",
-      "graph": ["Refugee Rights", "LGBTQI+ Rights", "Humanitarian Aid", "Immigration Policy", "Global Crisis"],
+      "url": "https://thehub.ca/2026/06/20/canadas-population-shrunk-by-over-234000-in-9-months-as-carney-government-curtailed-immigration-and-continues-trend/",
+      "summary": "Canada has experienced an unprecedented demographic contraction, with its population declining by over 234,000 people in the last nine months across three consecutive quarters. This decrease is primarily attributed to a significant reduction in the non-permanent resident population, driven by federal policies to curtail international student enrollments, temporary foreign worker streams, and permanent resident admissions.",
+      "graph": ["Immigration Policy", "Demographics", "Population Growth", "Economic Impact", "Temporary Residents", "Skilled Workers"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for increased humanitarian aid and more compassionate immigration policies for vulnerable populations, criticizing cuts to funding and restrictive legislation that endanger 2SLGBTQIA+ refugees." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the challenges faced by humanitarian organizations and refugees, detailing the impact of global funding cuts and legislative changes on asylum processes, highlighting the need for balanced policy." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize the need for robust border control and efficient immigration processes, potentially supporting measures that manage the volume of asylum seekers, while still acknowledging humanitarian concerns." }
+          "left": { "label": "Progressive Context", "synthesis": "The rapid population decline, driven by policy shifts, risks harming Canada's economic growth and social cohesion. A balanced immigration approach is needed, focusing on integrating newcomers and ensuring programs support long-term prosperity, not just short-term demographic targets." },
+          "center": { "label": "Procedural Context", "synthesis": "Statistics Canada data confirms a recent demographic shift linked to federal policy adjustments in immigration. The analysis suggests a deliberate course correction to recalibrate population growth, with ongoing debate on its economic and social implications." },
+          "right": { "label": "Conservative Context", "synthesis": "The decline in non-permanent residents is a necessary and positive correction to an unsustainable growth model. It allows Canada to reset its immigration system, prioritize skilled worker selection over sheer volume, and address infrastructure and housing pressures." }
         },
-        "neutral": "The Canadian charity Rainbow Railroad is experiencing unprecedented demand from 2SLGBTQIA+ refugees facing violence, coinciding with global funding reductions and new Canadian immigration legislation (Bill C-12) raising concerns for asylum seekers."
+        "neutral": "Canada's population has decreased by over 234,000 in nine months, primarily due to recent federal policy changes that have curtailed the inflow of non-permanent residents and reduced permanent resident admissions."
       }
     },
     {
-      "id": "immigration-2",
+      "id": "e8e815e449a518fb012e8470a1a89f911953dd83",
       "category": "Immigration",
-      "source": "National Post",
-      "title": "Opinion: Canadian Immigration Rates Remain High, Despite Perceptions of Population Shrinkage",
+      "source": "thehub.ca",
+      "title": "Ottawa Cites Privacy for Refusal to Detail Iranian Soccer Official's Border Entry Attempt",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/immigration-rates-still-at-generational-highs-even-if-population-shrinking",
-      "summary": "An opinion piece discusses that Canada's permanent immigration rates in 2026 are projected to be among the highest in over a century, challenging the notion of a shrinking population. It notes that asylum-seekers now number 500,000, framing the overall immigration levels as robust despite a potential decrease in natural population growth.",
-      "graph": ["Immigration Policy", "Population Growth", "Economic Policy", "Asylum Seekers", "Demographics"],
+      "url": "https://thehub.ca/2026/06/19/mps-questions-ottawa-cites-privacy-wont-say-why-iranian-soccer-official-reached-pearson/",
+      "summary": "Immigration, Refugees and Citizenship Canada declined to answer specific parliamentary questions regarding why Iranian Football Federation president Mehdi Taj was able to board a flight to Canada and reach Pearson Airport in April 2026 before being denied entry. The department cited privacy laws, offering only a general statement on policy, leading to concerns about federal transparency on high-profile immigration and security matters.",
+      "graph": ["Border Security", "Immigration Procedures", "Government Transparency", "Privacy Law", "Parliamentary Oversight", "National Security"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 35, "right": 35 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports high immigration levels as beneficial for economic growth and cultural diversity, advocating for accessible pathways for asylum seekers and newcomers." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents demographic and economic data related to immigration, discussing the overall trends and their implications for Canada's population and workforce, focusing on data-driven analysis." },
-          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the capacity to integrate high numbers of immigrants and asylum seekers, potentially advocating for more controlled or selective immigration policies, focusing on economic impacts and social services strain." }
+          "left": { "label": "Progressive Context", "synthesis": "While individual privacy must be protected, the lack of transparency around high-profile national security incidents erodes public trust and accountability. The government must balance privacy with the public's right to information on significant border incidents." },
+          "center": { "label": "Procedural Context", "synthesis": "The government's refusal to provide specific details is based on privacy legislation, a standard practice in individual immigration cases. The incident highlights the inherent tension between legislative privacy protections and demands for government transparency, especially in matters of public interest." },
+          "right": { "label": "Conservative Context", "synthesis": "This lack of transparency raises serious questions about Canada's border screening processes and national security. The government's use of privacy as a shield prevents necessary parliamentary oversight and public understanding of how individuals with potential ties to problematic regimes gain entry." }
         },
-        "neutral": "An opinion piece analyzes Canada's current immigration landscape, highlighting that permanent immigration rates remain at historically high levels for 2026, alongside a significant number of asylum seekers, despite some discussions of population trends."
+        "neutral": "The federal government cited privacy laws in its refusal to provide details on how an Iranian soccer official was able to travel to Pearson Airport before being denied entry, sparking concerns over transparency and border security protocols."
       }
     }
   ]
