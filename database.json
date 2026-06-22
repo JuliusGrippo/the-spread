@@ -1,200 +1,372 @@
 {
   "federalism": [
     {
-      "id": "poilievre-press-conf-cbce9d",
+      "id": "federalism-high-speed-rail-kingston",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Conservative Leader Pierre Poilievre Addresses National Issues in Vancouver",
+      "title": "Federal Government Explores Kingston Stop for Alto High-Speed Rail Project",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/player/play/9.7243643?cmp=rss",
-      "summary": "Federal Conservative leader Pierre Poilievre held a press conference at Vancouver International Airport, where he took questions from reporters on various national political and economic issues, aligning with his party's ongoing critique of current government policies.",
-      "graph": ["Federal Politics", "Conservative Party", "Political Leadership", "Public Relations", "Opposition Strategy"],
+      "url": "https://www.cbc.ca/news/politics/alto-route-change-kingston-9.7244054?cmp=rss",
+      "summary": "The Liberal federal government is reviewing a significant route alteration for the Alto high-speed rail line (Quebec City to Toronto) to include a stop in Kingston, Ontario. This consideration follows extensive public and Indigenous consultations, with local mayors supporting the Kingston inclusion despite broader opposition to other proposed routes. The Transport Minister emphasized the project's aim for common good and community connectivity.",
+      "graph": ["Infrastructure", "High-Speed Rail", "Federal Policy", "Inter-Provincial Development", "Public Consultation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would scrutinize the event for a perceived lack of detailed policy alternatives to the current government, focusing on rhetorical challenges rather than substantive solutions, and potentially highlighting populist messaging." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral observers view this as a standard exercise in opposition politics, an opportunity for a federal leader to communicate with the public and media, assessing the clarity and impact of his message within the political discourse." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would frame the press conference as a vital effort to hold the sitting government accountable and to articulate the party's vision and concerns directly to Canadians, particularly on economic grievances." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports public transportation infrastructure for environmental and equity reasons, potentially raising questions about local impact and Indigenous consultation depth." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the strategic economic benefits, regional connectivity, and the consultative process for refining large-scale public projects." },
+          "right": { "label": "Conservative Context", "synthesis": "Concerned about the significant cost of large public infrastructure projects, potential for government overreach, and the efficiency of public sector delivery, while acknowledging potential economic growth." }
         },
-        "neutral": "The event represents a routine public engagement by a federal opposition leader, aiming to influence national dialogue and position his party ahead of future electoral contests."
+        "neutral": "The federal government is assessing a route change for the Alto high-speed rail project to incorporate Kingston, based on stakeholder feedback, aiming to enhance regional connectivity."
       }
     },
     {
-      "id": "seaborn-liberal-nom-cbce2a",
+      "id": "federalism-nuclear-strategy-2040",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Claire Seaborn Seeks Liberal Nomination in Beaches-East York Riding",
+      "title": "Canada Unveils National Nuclear Energy Strategy Targeting 10 New Reactors by 2040",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/claire-seaborn-nomination-liberal-9.7243484?cmp=rss",
-      "summary": "Claire Seaborn, a lawyer with a background in environmental law and former chief of staff to a Trudeau-era minister, announced her intention to seek the Liberal Party nomination for the federal riding of Beaches-East York, a seat anticipated to be vacated by the incumbent Liberal MP Nathaniel Erskine-Smith.",
-      "graph": ["Federal Politics", "Liberal Party", "Electoral Process", "By-election", "Political Candidacy", "Parliament Hill"],
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509?cmp=rss",
+      "summary": "Canada's Energy Minister has announced a national nuclear power strategy aiming to build up to 10 new reactors by 2040, with at least one outside Ontario, and to double uranium exports. This \"nuclear renaissance\" is central to the federal government's goal of doubling the country's electricity grid capacity by 2050, with projected costs exceeding $100 billion. The plan also includes developing Canadian-made microreactors for remote communities.",
+      "graph": ["Energy Policy", "Nuclear Power", "Climate Change Mitigation", "Infrastructure Development", "Federal Investment"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators would likely emphasize Seaborn's legal expertise in environmental law and her experience in the previous Liberal government as aligning with progressive policy goals and continuity." },
-          "center": { "label": "Procedural Context", "synthesis": "From a neutral standpoint, this is a standard development in Canadian electoral politics, focusing on the procedural steps of securing a party nomination and the transition of political roles." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might question her association with the current Liberal government, potentially framing her candidacy as a continuation of policies they oppose, rather than a fresh voice for the constituency." }
+          "left": { "label": "Progressive Context", "synthesis": "Views nuclear power with mixed feelings, acknowledging its low-carbon benefits but raising concerns about safety, radioactive waste disposal, and potential for centralized energy control." },
+          "center": { "label": "Procedural Context", "synthesis": "Sees nuclear energy as a pragmatic and essential component for achieving clean energy goals and ensuring energy security, balancing environmental targets with economic feasibility." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports large-scale energy projects for economic growth and energy independence, potentially critiquing the cost and delivery speed of government-led initiatives but endorsing the strategic shift." }
         },
-        "neutral": "The candidacy of Claire Seaborn for a Liberal nomination in an upcoming by-election signals internal party dynamics and the ongoing renewal of federal political representation."
+        "neutral": "The federal government has introduced a comprehensive nuclear energy strategy with ambitious targets for new reactor construction and uranium exports, aiming to double national electricity capacity by 2050."
       }
     },
     {
-      "id": "gg-clothing-policy-cbcf3d",
+      "id": "federalism-arctic-radar-australia",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Governor General Clothing Expense Guidelines Tightened by Rideau Hall",
+      "title": "Canada Finalizes Agreement for Arctic Over-the-Horizon Radar System from Australia",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/governor-general-clothing-guidelines-changed-9.7242589?cmp=rss",
-      "summary": "Rideau Hall has revised the clothing expense guidelines for the Governor General and their spouse, explicitly stating that taxpayers will no longer reimburse costs for casual or business attire. Reimbursements are now restricted to 'distinct wardrobe requirements' for formal and special state occasions, following past scrutiny over expenses.",
-      "graph": ["Government Accountability", "Public Finance", "Governor General", "Executive Office", "Administrative Policy", "Taxpayer Funds"],
+      "url": "https://www.cbc.ca/news/politics/canada-australia-radar-system-9.7243658?cmp=rss",
+      "summary": "Canada has solidified a $2.5 billion agreement with Australia and BAE Systems Australia for an Arctic Over-the-Horizon Radar (A-OTHR) system. This defence procurement, part of a $6 billion program, is vital for enhancing North American Aerospace Defense Command (NORAD) capabilities in the Far North, with transmitting/receiving stations to be located in southern Ontario and expected operational readiness by 2029. An industrial benefits deal for Canadian defence was also signed.",
+      "graph": ["National Security", "Arctic Sovereignty", "Defence Procurement", "International Agreement", "NORAD Modernization"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would commend this move as a step towards greater accountability and responsible use of public funds, aligning with demands for transparency from high office holders." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would view this as a bureaucratic adjustment to clarify and standardize expense policies, aiming to reduce ambiguity and prevent future controversies regarding public spending by the vice-regal office." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators would likely welcome the change as a response to public pressure for fiscal prudence and a necessary curb on what they might have previously criticized as excessive or inappropriate spending by government representatives." }
+          "left": { "label": "Progressive Context", "synthesis": "May question the militarization of the Arctic, advocate for more diplomatic solutions, or scrutinize defence spending against social programs, while recognizing the need for sovereignty." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the critical importance of modernizing defence capabilities and surveillance for national security and NORAD commitments, viewing it as a necessary strategic investment." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for robust defence spending and asserting Arctic sovereignty against potential threats, criticizing any delays in implementing such crucial security measures." }
         },
-        "neutral": "The updated expense guidelines for the Governor General's wardrobe reflect an effort by Rideau Hall to enhance transparency and align spending with public expectations for formal and official duties."
+        "neutral": "Canada has completed a $2.5 billion agreement with Australia for an Arctic radar system, a key component of NORAD modernization to enhance surveillance in the Far North, with operations projected to begin by 2029."
       }
     },
     {
-      "id": "us-tariffs-alberta-cbc7a2",
+      "id": "federalism-chinese-ev-imports",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "U.S. Tariffs' Lighter Impact on Alberta Fuels Separatist Sentiment",
+      "source": "The Globe and Mail",
+      "title": "Canada Maintains Course on Low-Tariff Chinese EV Imports Despite US Pressure",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/analysis-us-tariffs-impact-alberta-separatism-9.7242585?cmp=rss",
-      "summary": "An analysis suggests that relatively lenient U.S. tariffs on Alberta, combined with the province's distinct political relationship with the American administration, are exacerbating separatist sentiments within Alberta by highlighting a divergence of provincial and federal interests and responses to international trade policy.",
-      "graph": ["Federal-Provincial Relations", "International Trade", "Alberta Separatism", "Regional Autonomy", "Economic Policy", "Political Divide"],
+      "url": "https://www.theglobeandmail.com/politics/article-canada-remains-on-track-for-increased-low-tariff-chinese-ev-imports/",
+      "summary": "Industry Minister Mélanie Joly affirmed Canada's commitment to increased low-tariff imports of Chinese electric vehicles, upholding a January agreement with China. This decision comes despite U.S. pressure for Canada to align its external tariffs in USMCA negotiations, indicating a divergence in trade policy between the two North American partners regarding EV market access.",
+      "graph": ["Trade Policy", "Electric Vehicles", "International Relations", "Tariff Policy", "Economic Diversification"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints may express concern over trade policies that inadvertently foster regional divisions and separatist movements, emphasizing the need for cohesive national trade strategies and support for national unity." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral assessment would analyze the complex interplay of international trade policy, provincial economic interests, and political identities, noting how external economic factors can influence internal federal-provincial dynamics." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative and Albertan regionalists might interpret the tariff scenario as evidence of Alberta's unique economic leverage and distinct interests, reinforcing arguments for greater provincial autonomy or even separation from federal oversight." }
+          "left": { "label": "Progressive Context", "synthesis": "May support affordable EV options for consumers and climate goals, but could raise concerns about labor practices in China or fair competition for domestic industries." },
+          "center": { "label": "Procedural Context", "synthesis": "Prioritizes maintaining stable trade relationships and access to competitive markets for consumers, while managing geopolitical dynamics and domestic industry needs." },
+          "right": { "label": "Conservative Context", "synthesis": "Likely advocates for protecting domestic industries, scrutinizes trade agreements with state-subsidized economies like China, and may call for tariff alignment with key allies like the US to ensure fair competition." }
         },
-        "neutral": "The differential impact of U.S. tariffs on Alberta highlights complex economic and political dynamics that can intensify provincial grievances and discussions around national unity."
+        "neutral": "Canada intends to proceed with a January agreement for increased low-tariff Chinese EV imports, a move that differentiates its trade policy from the U.S. amidst ongoing USMCA negotiations."
       }
     },
     {
-      "id": "conservative-ai-ad-cbc1d6",
+      "id": "federalism-groceries-essentials-benefit",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Conservative Party's AI-Generated Ad Raises Questions on Ethics in Federal Campaigns",
+      "source": "National Post",
+      "title": "Federal Government Rebrands and Increases GST/HST Credit to \"Canada Groceries and Essentials Benefit\"",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/conservative-ai-ad-targets-carney-9.7240936?cmp=rss",
-      "summary": "The Conservative Party of Canada released a political advertisement featuring AI-generated footage depicting Canadians facing economic hardship, marking one of the first known uses of such technology by a federal party. This has sparked debate among experts and the public regarding the ethical implications and trustworthiness of synthetic media in political campaigning.",
-      "graph": ["Federal Politics", "Political Advertising", "AI Ethics", "Election Campaign", "Digital Media", "Public Trust", "Misinformation"],
+      "url": "https://nationalpost.com/news/canada/groceries-and-essentials-benefit-canada",
+      "summary": "The federal government has renamed the Goods and Services Tax / Harmonized Sales Tax (GST/HST) credit to the \"Canada Groceries and Essentials Benefit\" (CGEB) and increased its value by 25 percent for a five-year period, starting in July. This initiative is designed to provide targeted financial assistance to low-income Canadians to help offset the rising costs of living, particularly for essential goods.",
+      "graph": ["Social Programs", "Cost of Living", "Tax Policy", "Economic Support", "Affordability"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely voice strong concerns about the potential for AI-generated content to mislead voters and erode trust in democratic processes, advocating for stringent regulations on its use in political advertising." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses would focus on the evolving technological landscape of political communication, examining public reception, the legal and regulatory vacuum surrounding AI in elections, and the potential need for new governance frameworks." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative proponents might defend the ad as an innovative and effective communication tool to convey a political message, arguing that it vividly illustrates issues without necessarily intending to deceive, and that technological advancement should not be unduly restricted." }
+          "left": { "label": "Progressive Context", "synthesis": "Generally supports government transfers to low-income individuals, but might argue for more substantial increases or broader eligibility to address deepening economic inequality." },
+          "center": { "label": "Procedural Context", "synthesis": "Views this as a practical measure to provide relief to vulnerable populations during inflationary periods, balancing social support with fiscal responsibility." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the overall cost of such programs, potential for disincentivizing work, or the role of government in direct financial intervention, while acknowledging the need for targeted support in economic hardship." }
         },
-        "neutral": "The Conservative Party's deployment of an AI-generated advertisement introduces new complexities to federal election campaigning, prompting a broader discussion on the ethical boundaries and regulatory oversight of advanced digital media in politics."
+        "neutral": "The federal government has introduced the \"Canada Groceries and Essentials Benefit,\" a rebranded and enhanced GST/HST credit, increasing its value by 25 percent for five years to assist low-income Canadians with rising living costs."
       }
     },
     {
-      "id": "scc-election-claims-slaw67",
+      "id": "federalism-trans-mountain-pipeline",
       "category": "Federalism",
-      "source": "Slaw",
-      "title": "Supreme Court Rules on Election Claims, Parliamentary Privilege, and Returning Officer Appointments",
+      "source": "The Hub",
+      "title": "Trans Mountain Pipeline Expansion Demonstrates Strong Economic Viability",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/21/summaries-sunday-supreme-one-liners-39/",
-      "summary": "The Supreme Court of Canada affirmed in 'Resler v. Anglin' that election claims are not automatically barred by doctrines such as collateral attack, abuse of process, parliamentary privilege, or immunity. Additionally, the Court granted leave to appeal a case concerning the appointment of returning officers, signaling ongoing judicial attention to the integrity and procedural fairness of federal electoral processes.",
-      "graph": ["Supreme Court of Canada", "Electoral Law", "Parliamentary Privilege", "Judicial Review", "Civil Procedure", "Democratic Governance"],
+      "url": "https://thehub.ca/2026/06/22/trans-mountain-proves-the-business-case-for-a-west-coast-pipeline/",
+      "summary": "A commentary piece asserts the Trans Mountain Expansion (TMX) pipeline's undeniable business success, noting it is already operating at full capacity and has generated significant financial returns for the Canadian government, which acquired the project to ensure its completion. This success, it argues, challenges initial skepticism and supports the rationale for further West Coast pipeline proposals to meet demand for Canadian heavy oil.",
+      "graph": ["Energy Infrastructure", "Resource Development", "Economic Policy", "Federal Investment", "Oil & Gas"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely emphasize the importance of judicial oversight to ensure accountability in the electoral system and prevent the misuse of legal doctrines to shield political actors from legitimate challenges." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral legal analysis focuses on the clarification of complex procedural and constitutional doctrines, such as parliamentary privilege and election law, ensuring that the legal framework for democratic governance remains robust and accessible to challenge." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might stress the need for clear legal boundaries to maintain stability in election results and parliamentary functions, while also upholding the principle that legal challenges must be procedurally sound." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques the environmental impact of fossil fuel infrastructure, raises concerns about Indigenous land rights, and questions the long-term economic wisdom of investing in oil pipelines amidst climate change." },
+          "center": { "label": "Procedural Context", "synthesis": "Acknowledges the economic benefits and energy security provided by the pipeline while emphasizing regulatory oversight and efforts to mitigate environmental and social impacts." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for resource development and export capacity, viewing the TMX as a success that justifies government intervention to overcome regulatory hurdles and promote national economic interests." }
         },
-        "neutral": "Recent Supreme Court activity underscores the judiciary's role in defining the parameters of electoral challenges and parliamentary privilege, reinforcing the legal foundations of Canada's democratic institutions."
+        "neutral": "The Trans Mountain Expansion pipeline is demonstrating strong economic performance, operating at full capacity and generating positive financial returns, which is seen by proponents as validating its construction and the potential for future projects."
+      }
+    },
+    {
+      "id": "federalism-alberta-independence-treaties",
+      "category": "Federalism",
+      "source": "Slaw.ca (ReconciliAction YEG)",
+      "title": "Alberta Court Rules Proposed Independence Referendum Would Breach Treaties and Constitution",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
+      "summary": "The Alberta Court of King's Bench ruled in Chief Electoral Officer of Alberta v Sylvestre (2025 ABKB 712) that a referendum on provincial independence under the Citizen Initiative Act would contravene the Constitution Act, 1982. Justice Feasby specifically found that such independence would jeopardize Charter rights and breach Treaties 6, 7, and 8, which cover most of Alberta's territory, thereby impacting First Nations.",
+      "graph": ["Constitutional Law", "Provincial Autonomy", "Indigenous Treaty Rights", "Judicial Review", "Federal-Provincial Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the court's upholding of treaty rights and constitutional protections for all citizens, emphasizing the inherent rights of Indigenous peoples and the dangers of secessionist movements." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the rule of law and the constitutional framework that governs federal-provincial relations, affirming the judiciary's role in interpreting and enforcing these foundational legal principles." },
+          "right": { "label": "Conservative Context", "synthesis": "May express support for provincial autonomy or question judicial activism, but often maintains a strong stance on national unity and the constitutional order, while some factions might support greater provincial self-determination." }
+        },
+        "neutral": "The Alberta Court of King's Bench has determined that a proposed referendum on provincial independence would be unconstitutional, specifically citing its conflict with Charter rights and existing treaties with First Nations."
+      }
+    },
+    {
+      "id": "federalism-pipeda-replacement-bill-c36",
+      "category": "Federalism",
+      "source": "Slaw.ca (Canadian Privacy Law Blog)",
+      "title": "New Federal Privacy Legislation, Bill C-36, Introduced to Replace PIPEDA",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
+      "summary": "Bill C-36, titled \"An Act to enact the Protecting Privacy and Consumer Data Act,\" has been introduced in the House of Commons by the Minister of Artificial Intelligence and Digital Innovation. This long-anticipated federal legislation aims to replace the Personal Information Protection and Electronic Documents Act (PIPEDA), incorporating new order-making powers and penalties but also significantly altering the role of the existing Privacy Commissioner.",
+      "graph": ["Privacy Law", "Digital Regulation", "Federal Legislation", "Consumer Protection", "Data Governance"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for strong, comprehensive privacy protections and robust enforcement mechanisms to safeguard individual rights in the digital age, potentially scrutinizing the impact on the Privacy Commissioner's independence." },
+          "center": { "label": "Procedural Context", "synthesis": "Seeks to modernize privacy laws to adapt to technological advancements while balancing individual privacy rights with the operational needs of businesses and innovation." },
+          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about regulatory burdens on businesses, the scope of government oversight in data management, and the potential impact on economic competitiveness, while supporting clear rules for data security." }
+        },
+        "neutral": "The federal government has introduced new legislation, Bill C-36, intended to replace PIPEDA and overhaul Canada's data privacy framework with new enforcement powers and a redefined role for the Privacy Commissioner."
       }
     }
   ],
-  "charter": [],
-  "indigenous": [
+  "charter": [
     {
-      "id": "indigenous-injustices-npa4b2",
-      "category": "Indigenous",
-      "source": "National Post",
-      "title": "Survey Confirms Majority of Canadians Recognize Ongoing Relevance of Historic Indigenous Injustices",
+      "id": "charter-cmhr-nakba-exhibit",
+      "category": "Charter",
+      "source": "CBC News",
+      "title": "Human Rights Museum Trustee Resigns Over 'One-Sided' Palestinian Exhibit",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/majority-of-canadians-agree-historic-injustices-against-indigenous-peoples-still-relevant-today-new-survey",
-      "summary": "A recent survey by the Association of Canadian Studies indicates that a significant majority of Canadians acknowledge the continued relevance of historic injustices faced by Indigenous peoples, suggesting a widespread belief that these historical contexts should inform and shape contemporary policy responses towards reconciliation and addressing systemic issues.",
-      "graph": ["Indigenous Rights", "Reconciliation", "Public Opinion", "Social Justice", "Canadian Policy", "Historical Injustice"],
+      "url": "https://www.cbc.ca/news/canada/manitoba/cmhr-nakba-exhibit-resignation-winnipeg-9.7244936?cmp=rss",
+      "summary": "A trustee of the Canadian Museum for Human Rights resigned due to concerns that an upcoming exhibit on the 1948 Palestinian displacement (Nakba) presents a \"one-sided\" historical narrative. The former trustee argued the exhibit lacks context, fails to acknowledge the displacement of Jews from Arab countries, and could fuel anti-Jewish sentiment, thereby compromising the museum's mandate for balanced representation and fostering national unity.",
+      "graph": ["Freedom of Expression", "Human Rights Interpretation", "Institutional Mandate", "Hate Speech Concerns", "Cultural Representation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would highlight these findings as a strong mandate for accelerated reconciliation efforts, advocating for the full implementation of Indigenous rights and self-determination through policy and resource allocation." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral interpretation would see the survey results as reflecting a maturing national dialogue on reconciliation, providing a societal foundation for careful and inclusive policy development to address historical and ongoing disparities." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might acknowledge the historical context but emphasize the need for practical, outcomes-focused policies that promote economic independence and sustainable development within Indigenous communities, rather than solely focusing on historical redress." }
+          "left": { "label": "Progressive Context", "synthesis": "Upholds the right to narrate histories of marginalized groups, emphasizing the importance of recognizing the Palestinian experience and allowing diverse perspectives within human rights discourse." },
+          "center": { "label": "Procedural Context", "synthesis": "Stresses the museum's responsibility to present history accurately and inclusively, potentially acknowledging the complexity of the narrative while seeking balanced representation for all affected groups." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern over exhibits that could be perceived as divisive or politically motivated, advocating for strict institutional neutrality and a comprehensive historical context to avoid fueling societal animosities." }
         },
-        "neutral": "The survey results underscore a growing national consensus on the importance of acknowledging past injustices against Indigenous peoples and integrating this understanding into current Canadian policy."
+        "neutral": "A Canadian Museum for Human Rights board member has resigned, citing concerns that an upcoming exhibit on the Palestinian Nakba offers a one-sided historical perspective and could contribute to societal division."
+      }
+    },
+    {
+      "id": "charter-maid-mental-illness-debate",
+      "category": "Charter",
+      "source": "CBC News",
+      "title": "Parliamentary Committee Recommends Indefinite Exclusion of Mental Illness as Sole Condition for MAID",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/health/maid-mental-illness-canada-9.7240830?cmp=rss",
+      "summary": "A Special Joint Committee on Medical Assistance in Dying (MAID) has recommended amending the Criminal Code to indefinitely exclude individuals whose sole underlying condition is mental illness from eligibility for MAID. The ongoing debate highlights concerns from medical experts about the unpredictability of mental illness recovery and diagnostic challenges, contrasting with arguments from some individuals with mental illness who view the exclusion as discriminatory and a denial of their right to choose.",
+      "graph": ["Medical Assistance in Dying (MAID)", "Mental Health Law", "Individual Autonomy", "Medical Ethics", "Charter Rights"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for individual autonomy and non-discrimination in access to MAID, while also emphasizing the need for robust mental health support systems and careful safeguards for vulnerable persons." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the ethical complexities of MAID for mental illness, balancing individual rights with medical capacity to assess irremediability and the potential for undue influence on vulnerable patients." },
+          "right": { "label": "Conservative Context", "synthesis": "Tends to prioritize the sanctity of life, expresses strong caution against expanding MAID, and raises concerns about the potential for abuse or the devaluing of lives impacted by mental illness." }
+        },
+        "neutral": "A parliamentary committee has advised against expanding Medical Assistance in Dying (MAID) to individuals whose sole condition is mental illness, reigniting debate over autonomy, medical prognoses, and the scope of Charter rights."
+      }
+    },
+    {
+      "id": "charter-joyal-judicial-restraint-opinion",
+      "category": "Charter",
+      "source": "National Post",
+      "title": "Opinion: New Supreme Court Nominee Praised for Judicial Restraint Philosophy",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/ben-woodfinden-finally-new-supreme-court-justice-doesnt-think-he-is-above-parliament",
+      "summary": "An opinion piece commends the nomination of Justice Glenn Joyal to the Supreme Court of Canada, specifically for his perceived adherence to judicial restraint. The author suggests this approach, which prioritizes legislative intent and limits judicial activism, is a welcome development for those who believe the judiciary should not overstep the role of Parliament in shaping law.",
+      "graph": ["Judicial Philosophy", "Judicial Review", "Parliamentary Supremacy", "Constitutional Interpretation", "Separation of Powers"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Often supports a more expansive role for the judiciary in protecting minority rights and interpreting the Charter broadly to advance social justice, potentially viewing judicial restraint critically if it limits rights protection." },
+          "center": { "label": "Procedural Context", "synthesis": "Seeks a balanced approach where the judiciary upholds the Constitution and reviews legislation for compliance, while generally respecting the legislative domain of elected Parliament." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for judicial restraint, believing that judges should interpret laws as written by Parliament rather than engage in policy-making, thus reinforcing parliamentary sovereignty and limiting judicial activism." }
+        },
+        "neutral": "An opinion column highlights the new Supreme Court nominee's perceived philosophy of judicial restraint, a stance favored by those who believe the judiciary should respect parliamentary authority."
+      }
+    },
+    {
+      "id": "charter-scc-constitutional-interpretation-critique",
+      "category": "Charter",
+      "source": "Slaw.ca (Double Aspect)",
+      "title": "Legal Blog Critiques Supreme Court's Inconsistent Constitutional Interpretation",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
+      "summary": "A legal blog post criticizes recent Supreme Court of Canada decisions on constitutional interpretation, including Alford v Canada (Attorney General), 2026 SCC 14, for perceived unprincipled and inconsistent reasoning. The critique emphasizes the need for a coherent approach to constitutional law while also denouncing populist calls for the removal of judges over unfavorable decisions.",
+      "graph": ["Constitutional Law", "Judicial Review", "Charter Interpretation", "Rule of Law", "Legal Scholarship"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May engage in critiques of judicial decisions from a rights-protective or social justice perspective, advocating for interpretations that advance equality and fundamental freedoms." },
+          "center": { "label": "Procedural Context", "synthesis": "Values legal consistency, principled reasoning, and judicial integrity, focusing on scholarly analysis of the Court's methodology and its impact on the development of law." },
+          "right": { "label": "Conservative Context", "synthesis": "Often critical of judicial 'overreach' or interpretations that deviate from originalist or textualist approaches, advocating for a more restrained and predictable application of constitutional principles." }
+        },
+        "neutral": "A legal analysis evaluates recent Supreme Court of Canada rulings on constitutional interpretation, particularly Alford v Canada (Attorney General), 2026 SCC 14, highlighting perceived inconsistencies in judicial reasoning."
+      }
+    }
+  ],
+  "indigenous": [
+    {
+      "id": "indigenous-alberta-independence-treaties",
+      "category": "Indigenous",
+      "source": "Slaw.ca (ReconciliAction YEG)",
+      "title": "Alberta Court Finds Proposed Independence Referendum Would Breach Treaties with First Nations",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
+      "summary": "In Chief Electoral Officer of Alberta v Sylvestre (2025 ABKB 712), the Alberta Court of King's Bench ruled that a referendum on Alberta independence would contravene the Constitution Act, 1982. A key finding was that such independence would specifically breach Treaties 6, 7, and 8, which encompass nearly all of Alberta, directly impacting the rights and status of First Nations and highlighting the constitutional entrenchment of Indigenous treaty rights within the Canadian federation.",
+      "graph": ["Indigenous Treaty Rights", "Constitutional Law", "Self-Determination", "Federal-Provincial Relations", "Reconciliation"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the judicial affirmation of Indigenous treaty rights and their foundational role in the Canadian legal framework, viewing any threats to these as significant breaches of justice and reconciliation." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the legal obligations enshrined in treaties and the Constitution, affirming the judiciary's role in protecting these rights and ensuring constitutional integrity in matters affecting Indigenous peoples." },
+          "right": { "label": "Conservative Context", "synthesis": "While generally supporting the rule of law, perspectives may vary from those who emphasize provincial resource autonomy to those who acknowledge the legal and historical importance of treaties, advocating for their proper adherence within the constitutional order." }
+        },
+        "neutral": "The Alberta Court of King's Bench has ruled that a hypothetical Alberta independence would violate constitutional law and specifically contravene Treaties 6, 7, and 8, which protect the rights of First Nations across the province."
       }
     }
   ],
   "criminal": [
     {
-      "id": "quebec-sex-offence-slaw2a1",
+      "id": "criminal-fentanyl-prison-incident-bc",
       "category": "Criminal",
-      "source": "Slaw",
-      "title": "Quebec Court of Appeal Upholds Suspended Sentence for Social Media Luring and Sexual Contacts with Minor",
+      "source": "National Post",
+      "title": "B.C. Prison Guards Hospitalized After Fentanyl Exposure During Cell Search",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/21/summaries-sunday-soquij-632/",
-      "summary": "The Quebec Court of Appeal rejected an appeal against a 21-month suspended sentence, followed by two years of probation, for a 23-year-old man who used social media and a false identity to engage in sexual relations with a 15-year-old girl. The court affirmed the trial judge's discretion in sentencing, noting the balance between aggravating factors and the accused's young age, lack of prior record, plea, and rehabilitation efforts.",
-      "graph": ["Criminal Law", "Sentencing", "Sexual Offences", "Child Luring", "Quebec Court of Appeal", "Judicial Review", "Rehabilitation", "Public Safety"],
+      "url": "https://nationalpost.com/news/prison-guards-hospitalized-after-a-b-c-inmate-sends-fentanyl-flying-into-air-during-cell-search-for-drugs",
+      "summary": "Several prison guards in British Columbia were hospitalized after an inmate intentionally aerosolized fentanyl during a cell search. The incident involved a physical altercation where the illicit substance became airborne, resulting in officers inhaling and being contaminated by the potent opioid. This event highlights the severe risks faced by correctional staff due to the prevalence of illicit drugs within prison systems.",
+      "graph": ["Correctional Facility Safety", "Drug Trafficking in Prisons", "Fentanyl Exposure", "Assault on Officers", "Public Safety"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views might focus on the rehabilitative aspects of the sentence and the importance of addressing the underlying causes of such behavior, while also emphasizing the need for comprehensive support for victims." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral legal assessment highlights the appellate court's review of sentencing principles, focusing on the trial judge's discretionary power, the weighing of aggravating and mitigating factors, and the evidentiary standards required for contested facts." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative critiques could express concern over the perceived leniency of a suspended sentence for a sexual offense involving a minor, advocating for stronger denunciation, deterrence, and stricter penalties to protect vulnerable youth." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for harm reduction strategies within prisons, address root causes of drug use among inmates, and improve resources for staff safety, while also calling for rehabilitation focus." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for robust security measures in correctional facilities, protection for frontline staff, and effective strategies to interdict drug contraband." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes law and order within prisons, advocates for stricter penalties for inmates who assault staff or traffic drugs, and calls for enhanced measures to ensure the safety of correctional officers." }
         },
-        "neutral": "The Quebec Court of Appeal's decision underscores the complexities of sentencing in cases of sexual offenses against minors, balancing principles of rehabilitation with societal demands for accountability and victim protection."
+        "neutral": "Multiple prison guards in British Columbia were hospitalized following exposure to airborne fentanyl, which an inmate dispersed during a drug search, underscoring critical safety concerns within correctional facilities."
+      }
+    },
+    {
+      "id": "criminal-montreal-shooting-antisemitism",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Opinion Piece Questions Antisemitic Motive in Montreal Shooting Incident",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/opinion/columnists/were-jews-targets-montreal-shootings",
+      "summary": "An opinion column speculates on whether a recent fatal shooting in Montreal, which resulted in three deaths, specifically targeted members of the Jewish community. The article underscores heightened anxieties about antisemitism and calls for a thorough investigation into potential hate crime elements and motives behind the violence in a Jewish neighborhood.",
+      "graph": ["Hate Crime", "Public Safety", "Antisemitism", "Gun Violence", "Police Investigation"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need to combat all forms of hate and discrimination, advocating for community support and police action to protect vulnerable minority groups from targeted violence." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the importance of comprehensive criminal investigations to determine motives, ensuring justice is served and community safety is maintained without prejudgment." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes law enforcement's role in maintaining public order and safety, calling for vigorous investigation and prosecution of any hate-motivated crimes, particularly those targeting religious communities." }
+        },
+        "neutral": "An opinion piece explores the possibility of an antisemitic motive behind a fatal Montreal shooting, reflecting broader concerns about targeted violence against the Jewish community."
+      }
+    },
+    {
+      "id": "criminal-vaughan-nightclub-shooting-sentencing",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Mississauga Man Sentenced to Life for Double Murder at Vaughan Nightclub",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/mississauga-man-life-sentences-vaughan-murders",
+      "summary": "Kensworth Alton Francis, a 31-year-old man from Mississauga, has been sentenced to life in prison. He was convicted on two counts of first-degree murder and one count of unlawfully causing bodily harm in connection with a fatal double shooting that occurred at a Vaughan nightclub. This sentencing highlights the justice system's response to severe gun violence.",
+      "graph": ["Homicide", "Gun Violence", "First-Degree Murder", "Sentencing", "Justice System"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May discuss the broader societal factors contributing to gun violence and the efficacy of current sentencing practices, while acknowledging the need for justice for victims." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the impartial application of criminal law and the role of the courts in delivering appropriate sentences for heinous crimes, ensuring public safety through judicial process." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes punitive measures, strict sentencing for violent offenders, and the importance of deterring crime through robust law enforcement and judicial outcomes." }
+        },
+        "neutral": "A Mississauga man has been handed a life sentence for two counts of first-degree murder and one count of unlawfully causing bodily harm stemming from a fatal shooting at a Vaughan nightclub."
+      }
+    },
+    {
+      "id": "criminal-foreign-actors-youth-violence",
+      "category": "Criminal",
+      "source": "The Hub",
+      "title": "Analysis Links Canada's Enforcement Failures to Market for Foreign-Hired Youth Violence",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/06/22/canadas-enforcement-failure-has-created-a-market-for-violence/",
+      "summary": "An analysis posits that Canada's criminal justice policies have inadvertently fostered an environment where foreign state actors can recruit Canadian teenagers via encrypted messaging to commit violent acts, including shootings targeting synagogues, Jewish schools, and the U.S. consulate. This \"market for violence\" is attributed to perceived \"soft edges\" in Canadian law and failures in monitoring foreign interference, raising national sovereignty concerns.",
+      "graph": ["Organized Crime", "Foreign Interference", "Youth Crime", "National Security", "Justice System Effectiveness"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might explore systemic issues contributing to youth vulnerability to recruitment, call for prevention programs, and question the effectiveness of purely punitive responses, while still condemning violence and foreign interference." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for strengthened law enforcement capabilities, robust intelligence gathering to counter foreign threats, and a balanced approach to criminal justice reform that addresses both root causes and accountability." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for stricter laws, enhanced enforcement, and robust national security measures to combat foreign interference and violent crime, asserting the need for state sovereignty and protection of its citizens." }
+        },
+        "neutral": "An article suggests that perceived failures in Canada's enforcement and justice systems have created an environment exploited by foreign actors, who are reportedly hiring Canadian teenagers for violent acts of political intimidation."
       }
     }
   ],
   "immigration": [
     {
-      "id": "nigerian-deportation-npe5c4",
+      "id": "immigration-lost-canadians-reversal",
       "category": "Immigration",
-      "source": "National Post",
-      "title": "Nigerian Woman Granted Deportation Relief Due to Fear of Forced Mistress Status",
+      "source": "CBC News",
+      "title": "Federal Immigration Ministry Reinstates Citizenship Certificates for 'Lost Canadians' After Brief Suspension",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/nigerian-woman-dodges-deportation-due-to-fears-of-being-made-a-mistress",
-      "summary": "A Nigerian woman successfully challenged her deportation from Canada after an immigration judge accepted her credible fear of being forced into a subservient mistress role by a powerful businessman upon her return to Nigeria. The judge noted allegations of the businessman using state machinery to pressure her into submission.",
-      "graph": ["Immigration Law", "Humanitarian Grounds", "Deportation", "Gender-Based Violence", "Refugee Protection", "Judicial Decision", "Human Rights"],
+      "url": "https://www.cbc.ca/news/politics/ottawa-reverses-suspension-citizenship-certificates-9.7244668?cmp=rss",
+      "summary": "The Immigration Department reversed its week-old directive for \"a few dozen\" individuals, known as \"lost Canadians,\" to surrender their citizenship certificates. These individuals, who acquired Canadian citizenship under a recently amended descent law (effective December 15, 2025), had their claims reconfirmed. The department has not clarified the initial reasons for the temporary suspension and review of these certificates.",
+      "graph": ["Citizenship Law", "Immigration Policy", "Administrative Error", "Ancestry", "Legal Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive advocates would laud this decision as a vital affirmation of Canada's commitment to protecting vulnerable individuals from gender-based violence and exploitation, emphasizing the humanitarian dimension of immigration policy." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the immigration tribunal's rigorous assessment of the applicant's fear and the evidence presented, demonstrating the application of Canadian and international human rights standards in immigration cases." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might express concerns about the breadth of humanitarian and compassionate grounds, potentially raising questions about the criteria for such claims while still acknowledging the severity of credible threats in specific cases." }
+          "left": { "label": "Progressive Context", "synthesis": "Praises the swift correction of an administrative error, emphasizing the importance of upholding citizenship rights and ensuring fair process for all claimants." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the need for transparent and efficient government administration, highlighting the importance of clear guidelines and rectifying bureaucratic inconsistencies." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the integrity of the citizenship process and the initial reasons for suspension, while ultimately supporting due process for legitimate claimants." }
         },
-        "neutral": "This case highlights the intricate balance within Canadian immigration law between national sovereignty and the protection of individuals facing serious human rights abuses in their countries of origin."
+        "neutral": "Following a brief suspension, the federal Immigration Department has reinstated citizenship certificates for several \"lost Canadians\" whose claims were made under an amended citizenship-by-descent law."
       }
     },
     {
-      "id": "stateless-senior-ossb6a7",
+      "id": "immigration-refugee-mental-health-cuts",
       "category": "Immigration",
-      "source": "National Post",
-      "title": "Ontario Tribunal Reinstates Social Assistance for Stateless Senior Facing Deportation Impasse",
+      "source": "CBC News",
+      "title": "Federal Government Imposes 10-Hour Annual Cap on Refugee Mental Health Sessions",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/ontario-tribunal-restores-social-assistance-to-stateless-senior-facing-deportation",
-      "summary": "An Ontario tribunal has overturned a provincial decision to cut income support for a stateless senior who holds citizenship in no country and cannot be deported from Canada. The ruling addresses a humanitarian issue arising from the individual's legal limbo between a deportation order and the practical impossibility of removal.",
-      "graph": ["Immigration Law", "Statelessness", "Social Assistance", "Human Rights", "Ontario Tribunal", "Deportation Impasse", "Vulnerable Populations"],
+      "url": "https://www.cbc.ca/news/politics/therapy-cuts-capifhp-mental-health-9.7241204?cmp=rss",
+      "summary": "The federal government has quietly implemented a new policy, capping mental health therapy sessions for asylum seekers and refugee claimants at 10 hours per year under the Interim Federal Health Program (IFHP). This change, which also introduced 30% co-payments for supplemental benefits, replaces an uncapped system. Mental health practitioners and former refugees are lobbying for a reversal, arguing the limited sessions are inadequate for trauma recovery and financially prohibitive for vulnerable populations.",
+      "graph": ["Refugee Healthcare", "Mental Health Policy", "Immigration Policy", "Government Spending", "Vulnerable Populations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views would emphasize the moral and legal imperative to ensure basic human dignity and support for all individuals residing in Canada, especially those in precarious legal situations like statelessness." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral assessment would focus on the tribunal's role in interpreting interconnected provincial social assistance and federal immigration regulations, highlighting the legal mechanisms in place to address complex humanitarian cases." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might raise questions about the long-term fiscal responsibilities for individuals who remain in Canada due to immigration impasses, while acknowledging the immediate humanitarian concerns in such unique circumstances." }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the cuts, viewing them as a violation of human rights and a detrimental policy impacting vulnerable populations, advocating for comprehensive and accessible mental health support for refugees." },
+          "center": { "label": "Procedural Context", "synthesis": "Expresses concern over the impact on refugee health, urging a re-evaluation of the policy to ensure adequate care while balancing fiscal considerations within federal programs." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports fiscal responsibility and controlled spending in federal programs, potentially arguing for a more limited scope of benefits for non-citizens or prioritizing certain types of healthcare." }
         },
-        "neutral": "The tribunal's decision highlights a critical gap in policy for stateless individuals facing deportation, underscoring the need to ensure basic support when legal and practical barriers prevent their removal from Canada."
+        "neutral": "The federal government has introduced a 10-hour annual limit on mental health therapy for refugees and asylum seekers, alongside new co-payments, prompting pushback from mental health professionals and advocacy groups."
       }
     }
   ]
