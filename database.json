@@ -1,373 +1,353 @@
 {
   "federalism": [
     {
-      "id": "federalism-high-speed-rail-kingston",
+      "id": "federalism-1",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Government Explores Kingston Stop for Alto High-Speed Rail Project",
+      "source": "rabble.ca",
+      "title": "Carney channels Harper by flouting parliamentary democracy",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/alto-route-change-kingston-9.7244054?cmp=rss",
-      "summary": "The Liberal federal government is reviewing a significant route alteration for the Alto high-speed rail line (Quebec City to Toronto) to include a stop in Kingston, Ontario. This consideration follows extensive public and Indigenous consultations, with local mayors supporting the Kingston inclusion despite broader opposition to other proposed routes. The Transport Minister emphasized the project's aim for common good and community connectivity.",
-      "graph": ["Infrastructure", "High-Speed Rail", "Federal Policy", "Inter-Provincial Development", "Public Consultation"],
+      "url": "https://rabble.ca/politics/canadian-politics/carney-channels-harper-by-flouting-parliamentary-democracy/",
+      "summary": "Prime Minister Mark Carney's Liberal government is criticized for bypassing parliamentary scrutiny by embedding a controversial provision allowing the use of toxic, banned pesticides within a budget implementation bill (C-30). Critics argue this maneuver circumvents proper debate and public consultation typically afforded to health and environmental legislation, raising concerns about executive overreach and democratic accountability.",
+      "graph": ["Parliamentary Procedure", "Legislative Scrutiny", "Executive Power", "Environmental Policy", "Pesticide Regulation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports public transportation infrastructure for environmental and equity reasons, potentially raising questions about local impact and Indigenous consultation depth." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the strategic economic benefits, regional connectivity, and the consultative process for refining large-scale public projects." },
-          "right": { "label": "Conservative Context", "synthesis": "Concerned about the significant cost of large public infrastructure projects, potential for government overreach, and the efficiency of public sector delivery, while acknowledging potential economic growth." }
+          "left": { "label": "Progressive Context", "synthesis": "Decries the government's actions as an erosion of democratic principles and transparency, arguing that bypassing parliamentary committees and public debate on environmental and health matters serves corporate interests over the public good. Compares it unfavorably to past conservative practices." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of legislative process, highlighting the deviation from standard parliamentary debate for significant policy changes. Examines the implications for legislative oversight, the role of committees, and the balance of power between the executive and legislative branches." },
+          "right": { "label": "Conservative Context", "synthesis": "Might frame the government's action as an efficient, albeit unconventional, means to implement policy, especially if it addresses perceived regulatory burdens on industry (e.g., CropLife Canada's advocacy). Could argue that legislative efficiency sometimes necessitates streamlining the process, though acknowledging concerns about transparency." }
         },
-        "neutral": "The federal government is assessing a route change for the Alto high-speed rail project to incorporate Kingston, based on stakeholder feedback, aiming to enhance regional connectivity."
+        "neutral": "The Liberal government is facing criticism for using a budget implementation bill to enact a significant policy change regarding pesticide use, bypassing traditional parliamentary debate."
       }
     },
     {
-      "id": "federalism-nuclear-strategy-2040",
+      "id": "federalism-2",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada Unveils National Nuclear Energy Strategy Targeting 10 New Reactors by 2040",
+      "source": "cbc.ca",
+      "title": "The byelection clock is ticking. How does that impact Liberals' majority?",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509?cmp=rss",
-      "summary": "Canada's Energy Minister has announced a national nuclear power strategy aiming to build up to 10 new reactors by 2040, with at least one outside Ontario, and to double uranium exports. This \"nuclear renaissance\" is central to the federal government's goal of doubling the country's electricity grid capacity by 2050, with projected costs exceeding $100 billion. The plan also includes developing Canadian-made microreactors for remote communities.",
-      "graph": ["Energy Policy", "Nuclear Power", "Climate Change Mitigation", "Infrastructure Development", "Federal Investment"],
+      "url": "https://www.cbc.ca/news/politics/byelection-dates-liberal-majority-math-9.7244778?cmp=rss",
+      "summary": "Six Members of Parliament have announced their resignation, triggering upcoming federal byelections that will affect the Liberal government's thin majority in the House of Commons. Prime Minister Mark Carney has 11 to 180 days to call these byelections, potentially delaying them to consolidate multiple races or avoid conflicts with provincial elections. The outcomes will subtly shift the balance of power in the House for the fall sitting.",
+      "graph": ["Federal Elections", "Parliamentary Majority", "Liberal Party", "MP Resignations", "Electoral Politics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views nuclear power with mixed feelings, acknowledging its low-carbon benefits but raising concerns about safety, radioactive waste disposal, and potential for centralized energy control." },
-          "center": { "label": "Procedural Context", "synthesis": "Sees nuclear energy as a pragmatic and essential component for achieving clean energy goals and ensuring energy security, balancing environmental targets with economic feasibility." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports large-scale energy projects for economic growth and energy independence, potentially critiquing the cost and delivery speed of government-led initiatives but endorsing the strategic shift." }
+          "left": { "label": "Progressive Context", "synthesis": "Views the electoral landscape through the lens of political dynamics and potential shifts in government power, emphasizing the importance of democratic participation and the accountability of the ruling party. May highlight how smaller parties could leverage byelections for representation." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the procedural timeline for byelections and their immediate impact on the arithmetic of the House of Commons. Focuses on the strategic considerations for the prime minister in timing these votes and the implications for legislative stability and parliamentary functioning." },
+          "right": { "label": "Conservative Context", "synthesis": "Might interpret the situation in terms of the government's precarious position and the opportunity for opposition parties to gain seats, reflecting a desire for greater accountability and potential governmental change. Emphasizes the public's role in electoral outcomes." }
         },
-        "neutral": "The federal government has introduced a comprehensive nuclear energy strategy with ambitious targets for new reactor construction and uranium exports, aiming to double national electricity capacity by 2050."
+        "neutral": "Upcoming federal byelections, following several MP resignations, will subtly impact the Liberal government's parliamentary majority, with strategic timing considerations for the Prime Minister."
       }
     },
     {
-      "id": "federalism-arctic-radar-australia",
+      "id": "federalism-3",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada Finalizes Agreement for Arctic Over-the-Horizon Radar System from Australia",
+      "source": "cbc.ca",
+      "title": "Flags become symbols for two sides in Alberta’s separation debate",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-australia-radar-system-9.7243658?cmp=rss",
-      "summary": "Canada has solidified a $2.5 billion agreement with Australia and BAE Systems Australia for an Arctic Over-the-Horizon Radar (A-OTHR) system. This defence procurement, part of a $6 billion program, is vital for enhancing North American Aerospace Defense Command (NORAD) capabilities in the Far North, with transmitting/receiving stations to be located in southern Ontario and expected operational readiness by 2029. An industrial benefits deal for Canadian defence was also signed.",
-      "graph": ["National Security", "Arctic Sovereignty", "Defence Procurement", "International Agreement", "NORAD Modernization"],
+      "url": "https://www.cbc.ca/news/canada/calgary/flag-symbolism-alberta-separation-debate-9.7238697?cmp=rss",
+      "summary": "In Alberta, the provincial and national flags have become potent symbols in the ongoing debate over provincial separation. Supporters of separation increasingly display the Alberta flag, while those advocating for remaining in Canada rally behind the Maple Leaf. This symbolic division has led to controversy, including the cancellation of a parade due to a dispute over a pro-Alberta flag float, reflecting deepening societal polarization.",
+      "graph": ["Alberta Separatism", "National Unity", "Political Symbolism", "Provincial Identity", "Intergovernmental Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May question the militarization of the Arctic, advocate for more diplomatic solutions, or scrutinize defence spending against social programs, while recognizing the need for sovereignty." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the critical importance of modernizing defence capabilities and surveillance for national security and NORAD commitments, viewing it as a necessary strategic investment." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for robust defence spending and asserting Arctic sovereignty against potential threats, criticizing any delays in implementing such crucial security measures." }
+          "left": { "label": "Progressive Context", "synthesis": "May interpret the flag debate as a symptom of underlying social and economic grievances in Alberta, advocating for dialogue and addressing root causes of regional discontent within a broader national framework that emphasizes diversity and inclusion." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the observable phenomenon of symbolic division and the political implications of regional identity movements within the Canadian federal structure. Focuses on the public discourse and organizational efforts around the separation debate." },
+          "right": { "label": "Conservative Context", "synthesis": "Could align with arguments for provincial autonomy and self-determination, viewing the use of the Alberta flag as an expression of legitimate provincial identity and grievances against federal policies. May criticize actions perceived as stifling provincial expression." }
         },
-        "neutral": "Canada has completed a $2.5 billion agreement with Australia for an Arctic radar system, a key component of NORAD modernization to enhance surveillance in the Far North, with operations projected to begin by 2029."
+        "neutral": "The Alberta and Canadian flags have become polarized symbols in Alberta's ongoing provincial separation debate, leading to public controversy and reflecting deeper societal divisions."
       }
     },
     {
-      "id": "federalism-chinese-ev-imports",
+      "id": "federalism-4",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Canada Maintains Course on Low-Tariff Chinese EV Imports Despite US Pressure",
+      "source": "theglobeandmail.com",
+      "title": "CSIS increases operation to combat Iranian state-directed activity, warns of continued threats",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canada-remains-on-track-for-increased-low-tariff-chinese-ev-imports/",
-      "summary": "Industry Minister Mélanie Joly affirmed Canada's commitment to increased low-tariff imports of Chinese electric vehicles, upholding a January agreement with China. This decision comes despite U.S. pressure for Canada to align its external tariffs in USMCA negotiations, indicating a divergence in trade policy between the two North American partners regarding EV market access.",
-      "graph": ["Trade Policy", "Electric Vehicles", "International Relations", "Tariff Policy", "Economic Diversification"],
+      "url": "https://www.theglobeandmail.com/politics/article-csis-increases-operation-to-combat-iranian-state-directed-activity/",
+      "summary": "The Canadian Security Intelligence Service (CSIS) has escalated its operations to counter Iranian state-directed activities within Canada, citing ongoing threats to national security and democratic processes. This comes amidst continued police investigations into a series of shootings in the Toronto area, which CSIS links to persistent foreign interference efforts by Iran.",
+      "graph": ["National Security", "Foreign Interference", "CSIS", "Iranian State Activity", "Intelligence Operations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May support affordable EV options for consumers and climate goals, but could raise concerns about labor practices in China or fair competition for domestic industries." },
-          "center": { "label": "Procedural Context", "synthesis": "Prioritizes maintaining stable trade relationships and access to competitive markets for consumers, while managing geopolitical dynamics and domestic industry needs." },
-          "right": { "label": "Conservative Context", "synthesis": "Likely advocates for protecting domestic industries, scrutinizes trade agreements with state-subsidized economies like China, and may call for tariff alignment with key allies like the US to ensure fair competition." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for robust intelligence oversight and accountability to ensure civil liberties are protected amidst increased national security operations. May highlight the need to address root causes of extremism while being vigilant against foreign interference." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the operational response of Canada's intelligence agency to documented foreign threats, emphasizing the objective of protecting national security and democratic institutions from external interference. Reports on the official warnings and ongoing investigations." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports aggressive measures to counter foreign adversaries and protect national sovereignty, advocating for strong security postures and sufficient resources for intelligence agencies to combat state-directed threats. May emphasize the importance of identifying and neutralizing external hostile actors." }
         },
-        "neutral": "Canada intends to proceed with a January agreement for increased low-tariff Chinese EV imports, a move that differentiates its trade policy from the U.S. amidst ongoing USMCA negotiations."
+        "neutral": "CSIS has intensified operations against Iranian state-directed activities in Canada, warning of persistent threats to national security and democratic institutions, amidst ongoing investigations into Toronto-area shootings."
       }
     },
     {
-      "id": "federalism-groceries-essentials-benefit",
+      "id": "federalism-5",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Federal Government Rebrands and Increases GST/HST Credit to \"Canada Groceries and Essentials Benefit\"",
+      "source": "theglobeandmail.com",
+      "title": "Governor-General clothing allowance cut as part of expenditure review",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/groceries-and-essentials-benefit-canada",
-      "summary": "The federal government has renamed the Goods and Services Tax / Harmonized Sales Tax (GST/HST) credit to the \"Canada Groceries and Essentials Benefit\" (CGEB) and increased its value by 25 percent for a five-year period, starting in July. This initiative is designed to provide targeted financial assistance to low-income Canadians to help offset the rising costs of living, particularly for essential goods.",
-      "graph": ["Social Programs", "Cost of Living", "Tax Policy", "Economic Support", "Affordability"],
+      "url": "https://www.theglobeandmail.com/politics/article-governor-general-clothing-allowance-cut-as-part-of-expenditure-review/",
+      "summary": "The federal government has reduced the clothing allowance for the Governor-General as part of a broader expenditure review. The revised policy will now only cover 'distinct wardrobe requirements' for official ceremonial duties for the Governor-General and their spouse, excluding everyday business attire, reflecting a move towards greater fiscal scrutiny of the vice-regal office.",
+      "graph": ["Government Spending", "Public Accountability", "Governor General", "Expenditure Review", "Fiscal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Generally supports government transfers to low-income individuals, but might argue for more substantial increases or broader eligibility to address deepening economic inequality." },
-          "center": { "label": "Procedural Context", "synthesis": "Views this as a practical measure to provide relief to vulnerable populations during inflationary periods, balancing social support with fiscal responsibility." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the overall cost of such programs, potential for disincentivizing work, or the role of government in direct financial intervention, while acknowledging the need for targeted support in economic hardship." }
+          "left": { "label": "Progressive Context", "synthesis": "Views the reduction as a minor, symbolic step towards addressing perceived excesses in public office, advocating for broader reforms in governmental spending and greater transparency for public funds, particularly for high-profile positions." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on a specific administrative change resulting from a federal expenditure review, detailing the adjustments to the Governor-General's allowance and the rationale behind defining what constitutes official wardrobe expenses, reflecting good governance practices." },
+          "right": { "label": "Conservative Context", "synthesis": "Welcomes the expenditure cut as a necessary measure for fiscal responsibility and accountability in public spending. May argue for further scrutiny of administrative costs associated with ceremonial roles, aligning with calls for reducing government waste." }
         },
-        "neutral": "The federal government has introduced the \"Canada Groceries and Essentials Benefit,\" a rebranded and enhanced GST/HST credit, increasing its value by 25 percent for five years to assist low-income Canadians with rising living costs."
+        "neutral": "The Governor-General's clothing allowance has been reduced by the federal government as part of an expenditure review, now only covering ceremonial attire."
       }
     },
     {
-      "id": "federalism-trans-mountain-pipeline",
+      "id": "federalism-6",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Trans Mountain Pipeline Expansion Demonstrates Strong Economic Viability",
+      "source": "globalnews.ca",
+      "title": "Less Canadians see U.S. as ‘reliable’ as confidence falls under Trump: poll",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/22/trans-mountain-proves-the-business-case-for-a-west-coast-pipeline/",
-      "summary": "A commentary piece asserts the Trans Mountain Expansion (TMX) pipeline's undeniable business success, noting it is already operating at full capacity and has generated significant financial returns for the Canadian government, which acquired the project to ensure its completion. This success, it argues, challenges initial skepticism and supports the rationale for further West Coast pipeline proposals to meet demand for Canadian heavy oil.",
-      "graph": ["Energy Infrastructure", "Resource Development", "Economic Policy", "Federal Investment", "Oil & Gas"],
+      "url": "https://globalnews.ca/news/11918340/less-canadians-see-us-as-reliable-confidence-in-trump-falls-poll/",
+      "summary": "A recent poll reveals a substantial decrease in Canadian public confidence regarding the United States as a reliable international partner, particularly during the Trump administration. Only 33% of Canadians now hold a favorable view, marking a continued decline from previous years, reflecting a shift in bilateral relations and public perception.",
+      "graph": ["International Relations", "Public Opinion", "US-Canada Relations", "Foreign Policy", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the environmental impact of fossil fuel infrastructure, raises concerns about Indigenous land rights, and questions the long-term economic wisdom of investing in oil pipelines amidst climate change." },
-          "center": { "label": "Procedural Context", "synthesis": "Acknowledges the economic benefits and energy security provided by the pipeline while emphasizing regulatory oversight and efforts to mitigate environmental and social impacts." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for resource development and export capacity, viewing the TMX as a success that justifies government intervention to overcome regulatory hurdles and promote national economic interests." }
+          "left": { "label": "Progressive Context", "synthesis": "Expresses concern over the implications of declining trust in the US, potentially advocating for Canada to diversify its international alliances and assert a more independent foreign policy stance. May link the decline to specific US policies or ideological shifts." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports the statistical findings of a public opinion poll, analyzing trends in Canadian perceptions of the US and the potential diplomatic and economic ramifications of such shifts in bilateral trust. Focuses on the observable data and its implications for foreign policy." },
+          "right": { "label": "Conservative Context", "synthesis": "Might interpret the poll results as reflecting Canadian public sentiment that could necessitate a recalibration of Canada's foreign policy to protect national interests, potentially advocating for a more pragmatic or assertive approach in dealings with the US, regardless of leadership." }
         },
-        "neutral": "The Trans Mountain Expansion pipeline is demonstrating strong economic performance, operating at full capacity and generating positive financial returns, which is seen by proponents as validating its construction and the potential for future projects."
+        "neutral": "A poll indicates that fewer Canadians view the United States as a reliable partner, with confidence falling significantly under the Trump administration."
       }
     },
     {
-      "id": "federalism-alberta-independence-treaties",
+      "id": "federalism-7",
       "category": "Federalism",
-      "source": "Slaw.ca (ReconciliAction YEG)",
-      "title": "Alberta Court Rules Proposed Independence Referendum Would Breach Treaties and Constitution",
+      "source": "torontosun.com",
+      "title": "Ontario touts ‘new modernized classrooms resources’ in schools this fall",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
-      "summary": "The Alberta Court of King's Bench ruled in Chief Electoral Officer of Alberta v Sylvestre (2025 ABKB 712) that a referendum on provincial independence under the Citizen Initiative Act would contravene the Constitution Act, 1982. Justice Feasby specifically found that such independence would jeopardize Charter rights and breach Treaties 6, 7, and 8, which cover most of Alberta's territory, thereby impacting First Nations.",
-      "graph": ["Constitutional Law", "Provincial Autonomy", "Indigenous Treaty Rights", "Judicial Review", "Federal-Provincial Relations"],
+      "url": "https://torontosun.com/news/provincial/ontario-touts-new-modernized-classrooms-resources",
+      "summary": "The Ontario government announced a $60 million investment to provide 'new modernized classroom resources' for schools beginning this fall. This provincial initiative aims to equip teachers with updated tools and materials, reflecting an effort to enhance educational delivery and student learning outcomes across the province.",
+      "graph": ["Provincial Education Policy", "Education Funding", "Classroom Resources", "Ontario Government", "Public Schools"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the court's upholding of treaty rights and constitutional protections for all citizens, emphasizing the inherent rights of Indigenous peoples and the dangers of secessionist movements." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the rule of law and the constitutional framework that governs federal-provincial relations, affirming the judiciary's role in interpreting and enforcing these foundational legal principles." },
-          "right": { "label": "Conservative Context", "synthesis": "May express support for provincial autonomy or question judicial activism, but often maintains a strong stance on national unity and the constitutional order, while some factions might support greater provincial self-determination." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for more substantial and equitable funding for public education, questioning if the investment is sufficient to address systemic issues and ensure equitable access to quality resources for all students across diverse communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the provincial government's announced investment and policy direction for education, focusing on the planned implementation of new resources and the stated objectives for improving classroom learning and teacher support." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports government investment in education aimed at improving outcomes and providing teachers with necessary tools, aligning with a focus on efficiency, accountability, and practical improvements within the provincial education system." }
         },
-        "neutral": "The Alberta Court of King's Bench has determined that a proposed referendum on provincial independence would be unconstitutional, specifically citing its conflict with Charter rights and existing treaties with First Nations."
+        "neutral": "The Ontario government plans to invest $60 million in modernized classroom resources for schools starting this fall to enhance educational delivery."
       }
     },
     {
-      "id": "federalism-pipeda-replacement-bill-c36",
+      "id": "federalism-8",
       "category": "Federalism",
-      "source": "Slaw.ca (Canadian Privacy Law Blog)",
-      "title": "New Federal Privacy Legislation, Bill C-36, Introduced to Replace PIPEDA",
+      "source": "thehub.ca",
+      "title": "Fact-checking PM Carney’s claim that government buying 2,200 condo units will help affordable housing crisis",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
-      "summary": "Bill C-36, titled \"An Act to enact the Protecting Privacy and Consumer Data Act,\" has been introduced in the House of Commons by the Minister of Artificial Intelligence and Digital Innovation. This long-anticipated federal legislation aims to replace the Personal Information Protection and Electronic Documents Act (PIPEDA), incorporating new order-making powers and penalties but also significantly altering the role of the existing Privacy Commissioner.",
-      "graph": ["Privacy Law", "Digital Regulation", "Federal Legislation", "Consumer Protection", "Data Governance"],
+      "url": "https://thehub.ca/2026/06/23/fact-checking-carneys-claim-that-government-buying-2200-b-c-condo-units-will-help-affordable-housing-crisis/",
+      "summary": "A critical analysis fact-checks Prime Minister Mark Carney's announcement that federal and British Columbia governments will purchase 2,200 vacant condo units for affordable housing. Critics, including housing analysts, argue the plan is an inefficient 'bailout' for financially distressed developers and banks rather than a genuine solution to the affordable housing crisis, suggesting alternative approaches would yield better value for taxpayer money.",
+      "graph": ["Housing Policy", "Government Intervention", "Affordable Housing", "Real Estate Market", "Public Funds"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for strong, comprehensive privacy protections and robust enforcement mechanisms to safeguard individual rights in the digital age, potentially scrutinizing the impact on the Privacy Commissioner's independence." },
-          "center": { "label": "Procedural Context", "synthesis": "Seeks to modernize privacy laws to adapt to technological advancements while balancing individual privacy rights with the operational needs of businesses and innovation." },
-          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about regulatory burdens on businesses, the scope of government oversight in data management, and the potential impact on economic competitiveness, while supporting clear rules for data security." }
+          "left": { "label": "Progressive Context", "synthesis": "May critique the policy as a missed opportunity for truly progressive housing solutions, arguing that direct public housing initiatives or stricter market regulations would be more effective than subsidizing developers and banks." },
+          "center": { "label": "Procedural Context", "synthesis": "Evaluates the government's housing policy based on economic and fiscal principles, examining the stated goals versus the potential financial costs and market impacts, and considering expert opinions on its effectiveness and efficiency in addressing the housing crisis." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the government's intervention as market distortion and a 'bailout' of private interests with taxpayer funds, advocating for market-based solutions and condemning policies that interfere with natural market corrections, viewing it as fiscally irresponsible." }
         },
-        "neutral": "The federal government has introduced new legislation, Bill C-36, intended to replace PIPEDA and overhaul Canada's data privacy framework with new enforcement powers and a redefined role for the Privacy Commissioner."
+        "neutral": "PM Carney's plan for the federal and B.C. governments to purchase 2,200 vacant condo units for affordable housing is being critically examined, with experts questioning its effectiveness and suggesting it may function more as a developer bailout."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-cmhr-nakba-exhibit",
+      "id": "charter-1",
       "category": "Charter",
-      "source": "CBC News",
-      "title": "Human Rights Museum Trustee Resigns Over 'One-Sided' Palestinian Exhibit",
+      "source": "cbc.ca",
+      "title": "Human rights museum board member resigns over 'one-sided' exhibit on displaced Palestinians",
       "citation": "June 2026 Tracking Window",
       "url": "https://www.cbc.ca/news/canada/manitoba/cmhr-nakba-exhibit-resignation-winnipeg-9.7244936?cmp=rss",
-      "summary": "A trustee of the Canadian Museum for Human Rights resigned due to concerns that an upcoming exhibit on the 1948 Palestinian displacement (Nakba) presents a \"one-sided\" historical narrative. The former trustee argued the exhibit lacks context, fails to acknowledge the displacement of Jews from Arab countries, and could fuel anti-Jewish sentiment, thereby compromising the museum's mandate for balanced representation and fostering national unity.",
-      "graph": ["Freedom of Expression", "Human Rights Interpretation", "Institutional Mandate", "Hate Speech Concerns", "Cultural Representation"],
+      "summary": "A trustee of the Canadian Museum for Human Rights (CMHR), Mark Berlin, resigned over an upcoming exhibit on displaced Palestinians, known as the Nakba. Berlin asserted the exhibit presents a 'one-sided' narrative, lacking proper historical and political context regarding the 1948 Arab-Israeli war and the concurrent displacement of Jewish people from Arab states, which he believes deepens division and contributes to anti-Jewish sentiment in Canada.",
+      "graph": ["Human Rights Museum", "Historical Narrative", "Palestinian Displacement", "Nakba", "Antisemitism", "Freedom of Expression"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Upholds the right to narrate histories of marginalized groups, emphasizing the importance of recognizing the Palestinian experience and allowing diverse perspectives within human rights discourse." },
-          "center": { "label": "Procedural Context", "synthesis": "Stresses the museum's responsibility to present history accurately and inclusively, potentially acknowledging the complexity of the narrative while seeking balanced representation for all affected groups." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern over exhibits that could be perceived as divisive or politically motivated, advocating for strict institutional neutrality and a comprehensive historical context to avoid fueling societal animosities." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust dialogue on human rights and historical injustices, including the Palestinian experience, emphasizing the importance of marginalized voices and critical institutional self-reflection. May criticize the resignation as an attempt to suppress a particular historical narrative." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the institutional governance challenge faced by a national cultural institution, balancing diverse historical perspectives and its mandate to unite Canadians with concerns about impartiality and potential fueling of societal divisions. Focuses on institutional mandate and process." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over perceived bias in cultural institutions, emphasizing the need for balanced historical representation and protecting against narratives that could foster hatred or division. Supports the notion that both sides of complex historical events should be presented simultaneously to maintain neutrality." }
         },
-        "neutral": "A Canadian Museum for Human Rights board member has resigned, citing concerns that an upcoming exhibit on the Palestinian Nakba offers a one-sided historical perspective and could contribute to societal division."
-      }
-    },
-    {
-      "id": "charter-maid-mental-illness-debate",
-      "category": "Charter",
-      "source": "CBC News",
-      "title": "Parliamentary Committee Recommends Indefinite Exclusion of Mental Illness as Sole Condition for MAID",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/health/maid-mental-illness-canada-9.7240830?cmp=rss",
-      "summary": "A Special Joint Committee on Medical Assistance in Dying (MAID) has recommended amending the Criminal Code to indefinitely exclude individuals whose sole underlying condition is mental illness from eligibility for MAID. The ongoing debate highlights concerns from medical experts about the unpredictability of mental illness recovery and diagnostic challenges, contrasting with arguments from some individuals with mental illness who view the exclusion as discriminatory and a denial of their right to choose.",
-      "graph": ["Medical Assistance in Dying (MAID)", "Mental Health Law", "Individual Autonomy", "Medical Ethics", "Charter Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for individual autonomy and non-discrimination in access to MAID, while also emphasizing the need for robust mental health support systems and careful safeguards for vulnerable persons." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the ethical complexities of MAID for mental illness, balancing individual rights with medical capacity to assess irremediability and the potential for undue influence on vulnerable patients." },
-          "right": { "label": "Conservative Context", "synthesis": "Tends to prioritize the sanctity of life, expresses strong caution against expanding MAID, and raises concerns about the potential for abuse or the devaluing of lives impacted by mental illness." }
-        },
-        "neutral": "A parliamentary committee has advised against expanding Medical Assistance in Dying (MAID) to individuals whose sole condition is mental illness, reigniting debate over autonomy, medical prognoses, and the scope of Charter rights."
-      }
-    },
-    {
-      "id": "charter-joyal-judicial-restraint-opinion",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Opinion: New Supreme Court Nominee Praised for Judicial Restraint Philosophy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/ben-woodfinden-finally-new-supreme-court-justice-doesnt-think-he-is-above-parliament",
-      "summary": "An opinion piece commends the nomination of Justice Glenn Joyal to the Supreme Court of Canada, specifically for his perceived adherence to judicial restraint. The author suggests this approach, which prioritizes legislative intent and limits judicial activism, is a welcome development for those who believe the judiciary should not overstep the role of Parliament in shaping law.",
-      "graph": ["Judicial Philosophy", "Judicial Review", "Parliamentary Supremacy", "Constitutional Interpretation", "Separation of Powers"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Often supports a more expansive role for the judiciary in protecting minority rights and interpreting the Charter broadly to advance social justice, potentially viewing judicial restraint critically if it limits rights protection." },
-          "center": { "label": "Procedural Context", "synthesis": "Seeks a balanced approach where the judiciary upholds the Constitution and reviews legislation for compliance, while generally respecting the legislative domain of elected Parliament." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for judicial restraint, believing that judges should interpret laws as written by Parliament rather than engage in policy-making, thus reinforcing parliamentary sovereignty and limiting judicial activism." }
-        },
-        "neutral": "An opinion column highlights the new Supreme Court nominee's perceived philosophy of judicial restraint, a stance favored by those who believe the judiciary should respect parliamentary authority."
-      }
-    },
-    {
-      "id": "charter-scc-constitutional-interpretation-critique",
-      "category": "Charter",
-      "source": "Slaw.ca (Double Aspect)",
-      "title": "Legal Blog Critiques Supreme Court's Inconsistent Constitutional Interpretation",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
-      "summary": "A legal blog post criticizes recent Supreme Court of Canada decisions on constitutional interpretation, including Alford v Canada (Attorney General), 2026 SCC 14, for perceived unprincipled and inconsistent reasoning. The critique emphasizes the need for a coherent approach to constitutional law while also denouncing populist calls for the removal of judges over unfavorable decisions.",
-      "graph": ["Constitutional Law", "Judicial Review", "Charter Interpretation", "Rule of Law", "Legal Scholarship"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May engage in critiques of judicial decisions from a rights-protective or social justice perspective, advocating for interpretations that advance equality and fundamental freedoms." },
-          "center": { "label": "Procedural Context", "synthesis": "Values legal consistency, principled reasoning, and judicial integrity, focusing on scholarly analysis of the Court's methodology and its impact on the development of law." },
-          "right": { "label": "Conservative Context", "synthesis": "Often critical of judicial 'overreach' or interpretations that deviate from originalist or textualist approaches, advocating for a more restrained and predictable application of constitutional principles." }
-        },
-        "neutral": "A legal analysis evaluates recent Supreme Court of Canada rulings on constitutional interpretation, particularly Alford v Canada (Attorney General), 2026 SCC 14, highlighting perceived inconsistencies in judicial reasoning."
+        "neutral": "A board member of the Canadian Museum for Human Rights resigned, alleging that an upcoming exhibit on displaced Palestinians offers a 'one-sided' narrative, lacking necessary historical context and potentially fueling anti-Jewish sentiment."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "indigenous-alberta-independence-treaties",
+      "id": "indigenous-1",
       "category": "Indigenous",
-      "source": "Slaw.ca (ReconciliAction YEG)",
-      "title": "Alberta Court Finds Proposed Independence Referendum Would Breach Treaties with First Nations",
+      "source": "cbc.ca",
+      "title": "7 First Nations sign nuclear reactor ownership deal with Ottawa, Ontario",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/22/mondays-mix-655/",
-      "summary": "In Chief Electoral Officer of Alberta v Sylvestre (2025 ABKB 712), the Alberta Court of King's Bench ruled that a referendum on Alberta independence would contravene the Constitution Act, 1982. A key finding was that such independence would specifically breach Treaties 6, 7, and 8, which encompass nearly all of Alberta, directly impacting the rights and status of First Nations and highlighting the constitutional entrenchment of Indigenous treaty rights within the Canadian federation.",
-      "graph": ["Indigenous Treaty Rights", "Constitutional Law", "Self-Determination", "Federal-Provincial Relations", "Reconciliation"],
+      "url": "https://www.cbc.ca/news/politics/first-nations-equity-nuclear-reactor-ontario-9.7245501?cmp=rss",
+      "summary": "Seven Williams Treaties First Nations in Ontario have entered a landmark commercial partnership with the federal and provincial governments, receiving $700 million in loan guarantees to acquire an equity stake in one of the new small modular reactors at the Darlington New Nuclear Project. This initiative, the first Indigenous equity partnership in a Canadian nuclear reactor, is lauded as a significant step towards economic reconciliation and Indigenous participation in major energy infrastructure.",
+      "graph": ["Indigenous Economic Reconciliation", "Nuclear Energy", "First Nations Equity", "Resource Development", "Ontario Power Generation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the judicial affirmation of Indigenous treaty rights and their foundational role in the Canadian legal framework, viewing any threats to these as significant breaches of justice and reconciliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the legal obligations enshrined in treaties and the Constitution, affirming the judiciary's role in protecting these rights and ensuring constitutional integrity in matters affecting Indigenous peoples." },
-          "right": { "label": "Conservative Context", "synthesis": "While generally supporting the rule of law, perspectives may vary from those who emphasize provincial resource autonomy to those who acknowledge the legal and historical importance of treaties, advocating for their proper adherence within the constitutional order." }
+          "left": { "label": "Progressive Context", "synthesis": "Applauds the move as a positive, albeit long overdue, step towards Indigenous economic self-determination and reconciliation, promoting Indigenous ownership in sustainable energy projects. May scrutinize the terms to ensure genuine empowerment and environmental justice." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the deal as a pragmatic economic and political development, noting the unprecedented nature of Indigenous equity in nuclear power and the collaborative effort between federal, provincial, and First Nations governments to advance energy infrastructure and reconciliation objectives." },
+          "right": { "label": "Conservative Context", "synthesis": "Could support the partnership as a means to foster economic development within Indigenous communities and advance national energy goals (e.g., 'energy superpower' ambition), particularly through private sector involvement and job creation, while potentially raising questions about the financial guarantees and long-term economic viability." }
         },
-        "neutral": "The Alberta Court of King's Bench has ruled that a hypothetical Alberta independence would violate constitutional law and specifically contravene Treaties 6, 7, and 8, which protect the rights of First Nations across the province."
+        "neutral": "Seven Williams Treaties First Nations in Ontario have secured a $700 million loan guarantee from federal and provincial governments, enabling them to acquire an equity stake in a new nuclear reactor at the Darlington project, marking Canada's first Indigenous nuclear energy partnership."
       }
     }
   ],
   "criminal": [
     {
-      "id": "criminal-fentanyl-prison-incident-bc",
+      "id": "criminal-1",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "B.C. Prison Guards Hospitalized After Fentanyl Exposure During Cell Search",
+      "source": "rabble.ca",
+      "title": "In prison, toxic drug deaths are rising. Access to treatment is shrinking",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/prison-guards-hospitalized-after-a-b-c-inmate-sends-fentanyl-flying-into-air-during-cell-search-for-drugs",
-      "summary": "Several prison guards in British Columbia were hospitalized after an inmate intentionally aerosolized fentanyl during a cell search. The incident involved a physical altercation where the illicit substance became airborne, resulting in officers inhaling and being contaminated by the potent opioid. This event highlights the severe risks faced by correctional staff due to the prevalence of illicit drugs within prison systems.",
-      "graph": ["Correctional Facility Safety", "Drug Trafficking in Prisons", "Fentanyl Exposure", "Assault on Officers", "Public Safety"],
+      "url": "https://rabble.ca/health/in-prison-toxic-drug-deaths-are-rising-access-to-treatment-is-shrinking/",
+      "summary": "An analysis reveals rising toxic drug deaths in Canadian prisons, attributing the trend to Correctional Services Canada's (CSC) recent policy changes that limit access to Opioid Agonist Treatment (OAT). Critics argue that the shift to a preferred injectable OAT option (Sublocade) and the restriction of oral alternatives (Suboxone, methadone) are coercing patients, increasing withdrawal, and leading to a significant drop in OAT enrollment, despite evidence of OAT's effectiveness in reducing fatal drug toxicity.",
+      "graph": ["Prison Health", "Drug Policy", "Correctional Services Canada", "Opioid Agonist Treatment", "Toxic Drug Supply"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for harm reduction strategies within prisons, address root causes of drug use among inmates, and improve resources for staff safety, while also calling for rehabilitation focus." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for robust security measures in correctional facilities, protection for frontline staff, and effective strategies to interdict drug contraband." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes law and order within prisons, advocates for stricter penalties for inmates who assault staff or traffic drugs, and calls for enhanced measures to ensure the safety of correctional officers." }
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes government policy for exacerbating a public health crisis within the carceral system, advocating for low-barrier, compassionate, and individualized addiction treatment. Highlights systemic failures in protecting vulnerable incarcerated populations and questions ethical oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural implementation of health policy within federal correctional institutions, noting the policy shift from individualized OAT options to a preferred single treatment and the observed statistical decline in treatment enrollment. Emphasizes the need for adherence to established standards of care and informed consent in medical practices." },
+          "right": { "label": "Conservative Context", "synthesis": "Could view the policy as an attempt to streamline correctional healthcare or manage costs, potentially favoring a more controlled approach to addiction treatment in prisons. Might raise concerns about the efficacy of diverse OAT options in a correctional setting or resource allocation challenges." }
         },
-        "neutral": "Multiple prison guards in British Columbia were hospitalized following exposure to airborne fentanyl, which an inmate dispersed during a drug search, underscoring critical safety concerns within correctional facilities."
+        "neutral": "Toxic drug deaths are increasing in Canadian prisons due to Correctional Services Canada's policy changes restricting access to Opioid Agonist Treatment, leading to decreased enrollment and concerns over patient care."
       }
     },
     {
-      "id": "criminal-montreal-shooting-antisemitism",
+      "id": "criminal-2",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Opinion Piece Questions Antisemitic Motive in Montreal Shooting Incident",
+      "source": "nationalpost.com",
+      "title": "Beryl Wajsman: Michel Mizrahi moved from Israel to Montreal only to lose his life to a Canadian terrorist",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/columnists/were-jews-targets-montreal-shootings",
-      "summary": "An opinion column speculates on whether a recent fatal shooting in Montreal, which resulted in three deaths, specifically targeted members of the Jewish community. The article underscores heightened anxieties about antisemitism and calls for a thorough investigation into potential hate crime elements and motives behind the violence in a Jewish neighborhood.",
-      "graph": ["Hate Crime", "Public Safety", "Antisemitism", "Gun Violence", "Police Investigation"],
+      "url": "https://nationalpost.com/opinion/moved-from-israel-to-montreal-only-to-lose-his-life-to-a-canadian-terrorist",
+      "summary": "An opinion piece reflecting on the death of Michel Mizrahi, an Israeli immigrant, in a Montreal shooting, framing it as a loss to a 'Canadian terrorist.' The article emphasizes the tragic irony of seeking safety in Canada only to fall victim to domestic violence, underscoring the victim's life and the broader impact of such acts on community safety and the perception of security.",
+      "graph": ["Terrorism", "Violent Crime", "Public Safety", "Montreal Shooting", "Antisemitism"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need to combat all forms of hate and discrimination, advocating for community support and police action to protect vulnerable minority groups from targeted violence." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the importance of comprehensive criminal investigations to determine motives, ensuring justice is served and community safety is maintained without prejudgment." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes law enforcement's role in maintaining public order and safety, calling for vigorous investigation and prosecution of any hate-motivated crimes, particularly those targeting religious communities." }
+          "left": { "label": "Progressive Context", "synthesis": "Would likely focus on the systemic issues contributing to extremism, such as radicalization pathways, and advocate for community-based prevention strategies and addressing root causes of hatred, while emphasizing victim support and social cohesion." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the public discourse surrounding a violent crime, analyzing the differing interpretations of the perpetrator's motives (terrorism, incel, communist) and the community's reaction, while detailing the facts of the event and the ongoing investigation by authorities." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the danger of domestic terrorism and radical ideologies (including communist and anti-capitalist elements mentioned in related articles), advocating for strong law enforcement and counter-terrorism measures. Emphasizes the need to protect communities from ideologically motivated violence." }
         },
-        "neutral": "An opinion piece explores the possibility of an antisemitic motive behind a fatal Montreal shooting, reflecting broader concerns about targeted violence against the Jewish community."
+        "neutral": "An opinion piece frames the Montreal shooting, which killed an Israeli immigrant, as an act of domestic terrorism, highlighting the victim's life and the broader implications for public safety."
       }
     },
     {
-      "id": "criminal-vaughan-nightclub-shooting-sentencing",
+      "id": "criminal-3",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Mississauga Man Sentenced to Life for Double Murder at Vaughan Nightclub",
+      "source": "nationalpost.com",
+      "title": "‘We’ve lost a member of our community’: Montreal Jews react to deadly attack",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/mississauga-man-life-sentences-vaughan-murders",
-      "summary": "Kensworth Alton Francis, a 31-year-old man from Mississauga, has been sentenced to life in prison. He was convicted on two counts of first-degree murder and one count of unlawfully causing bodily harm in connection with a fatal double shooting that occurred at a Vaughan nightclub. This sentencing highlights the justice system's response to severe gun violence.",
-      "graph": ["Homicide", "Gun Violence", "First-Degree Murder", "Sentencing", "Justice System"],
+      "url": "https://nationalpost.com/news/weve-lost-a-member-of-our-community-montreal-jews-react-to-deadly-attack",
+      "summary": "The Jewish community in Montreal is mourning the loss of a member in a recent deadly attack, which is under investigation as potentially stemming from a manifesto by the alleged shooter containing elements of involuntary celibacy (incel), anti-capitalism, and antisemitism. Community leaders express profound grief and concern over the nature of the attack and its potential ideological underpinnings, calling for vigilance and solidarity.",
+      "graph": ["Hate Crime", "Antisemitism", "Public Safety", "Community Impact", "Montreal Shooting"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May discuss the broader societal factors contributing to gun violence and the efficacy of current sentencing practices, while acknowledging the need for justice for victims." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the impartial application of criminal law and the role of the courts in delivering appropriate sentences for heinous crimes, ensuring public safety through judicial process." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes punitive measures, strict sentencing for violent offenders, and the importance of deterring crime through robust law enforcement and judicial outcomes." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need to combat hate in all its forms, including antisemitism and incel ideology, advocating for greater social inclusion, mental health support, and education to counter radicalization, while providing support to affected communities and promoting dialogue." },
+          "center": { "label": "Procedural Context", "synthesis": "Documents the immediate aftermath of a violent incident, focusing on community reactions and official statements regarding the nature of the crime and the alleged perpetrator's motives as they are understood during an ongoing investigation by law enforcement." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the urgency of addressing extremist ideologies and hate-motivated violence, particularly antisemitism, calling for strong law enforcement response and protection for religious communities. May emphasize the ideological components of the attack as a core driver." }
         },
-        "neutral": "A Mississauga man has been handed a life sentence for two counts of first-degree murder and one count of unlawfully causing bodily harm stemming from a fatal shooting at a Vaughan nightclub."
+        "neutral": "The Montreal Jewish community is grieving after a deadly attack, with the alleged shooter's manifesto reportedly containing incel, anti-capitalist, and antisemitic themes, raising concerns about hate-motivated violence."
       }
     },
     {
-      "id": "criminal-foreign-actors-youth-violence",
+      "id": "criminal-4",
       "category": "Criminal",
-      "source": "The Hub",
-      "title": "Analysis Links Canada's Enforcement Failures to Market for Foreign-Hired Youth Violence",
+      "source": "nationalpost.com",
+      "title": "Pornhub ‘will not speculate’ on alleged Montreal shooter targeting it offices",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/22/canadas-enforcement-failure-has-created-a-market-for-violence/",
-      "summary": "An analysis posits that Canada's criminal justice policies have inadvertently fostered an environment where foreign state actors can recruit Canadian teenagers via encrypted messaging to commit violent acts, including shootings targeting synagogues, Jewish schools, and the U.S. consulate. This \"market for violence\" is attributed to perceived \"soft edges\" in Canadian law and failures in monitoring foreign interference, raising national sovereignty concerns.",
-      "graph": ["Organized Crime", "Foreign Interference", "Youth Crime", "National Security", "Justice System Effectiveness"],
+      "url": "https://nationalpost.com/news/canada/pornhub-will-not-speculate-on-alleged-montreal-shooter-targeting-it-offices",
+      "summary": "Pornhub's parent company, Aylo, stated it 'will not speculate' on media reports suggesting its Montreal offices were a target of the alleged shooter responsible for recent deadly attacks. The company acknowledged ongoing police investigations and the public discussion linking the shooter's manifesto, which reportedly contained anti-capitalist sentiments, to a potential motive against the company.",
+      "graph": ["Violent Crime", "Corporate Security", "Investigation", "Montreal Shooting", "Digital Platforms"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might explore systemic issues contributing to youth vulnerability to recruitment, call for prevention programs, and question the effectiveness of purely punitive responses, while still condemning violence and foreign interference." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for strengthened law enforcement capabilities, robust intelligence gathering to counter foreign threats, and a balanced approach to criminal justice reform that addresses both root causes and accountability." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for stricter laws, enhanced enforcement, and robust national security measures to combat foreign interference and violent crime, asserting the need for state sovereignty and protection of its citizens." }
+          "left": { "label": "Progressive Context", "synthesis": "May highlight the broader societal issues that can lead to extremist violence, including mental health challenges and online radicalization, urging for comprehensive approaches to public safety beyond corporate statements and private sector responsibility." },
+          "center": "Procedural Context",
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for clarity and thorough investigation into the motives of violent criminals, particularly when involving potential corporate targets. Might also touch on themes of corporate responsibility in the digital age, linking to safety and security measures." }
         },
-        "neutral": "An article suggests that perceived failures in Canada's enforcement and justice systems have created an environment exploited by foreign actors, who are reportedly hiring Canadian teenagers for violent acts of political intimidation."
+        "neutral": "Pornhub's parent company, Aylo, stated it would not speculate on media reports linking its Montreal offices to the alleged shooter's targets, citing ongoing police investigations."
+      }
+    },
+    {
+      "id": "criminal-5",
+      "category": "Criminal",
+      "source": "nationalpost.com",
+      "title": "Mohamed Lamine Benredouane, the officer killed in Montreal, was a father to a ‘3-year-old’ with a second child on the way",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/what-we-know-about-montreal-cop-mohamed-lamine-benredouane-shot-dead",
+      "summary": "Montreal police officer Mohamed Lamine Benredouane, 34, was killed in the line of duty during a recent deadly shooting incident. Tributes highlight his dedication as a five-year veteran of the force and his personal life as a father with a young child and another on the way, underscoring the profound human cost of such violent crimes on law enforcement and their families.",
+      "graph": ["Police Fatality", "Line of Duty Death", "Public Safety", "Montreal Shooting", "Law Enforcement"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Expresses condolences and highlights the need for robust public safety measures and support systems for emergency responders and their families, while also potentially advocating for a review of underlying factors contributing to violent crime and police safety." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports the tragic loss of a police officer, detailing the circumstances of his death in the line of duty and the impact on his family and the police force. Focuses on the immediate facts and humanitarian aspects of the incident." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the dangers faced by law enforcement officers and calls for strong support for police, strict penalties for those who commit violence against them, and increased resources to ensure public safety and deter criminal acts." }
+        },
+        "neutral": "A Montreal police officer, Mohamed Lamine Benredouane, was killed in the line of duty during a recent shooting, leaving behind a family and sparking tributes to his service."
+      }
+    },
+    {
+      "id": "criminal-6",
+      "category": "Criminal",
+      "source": "nationalpost.com",
+      "title": "Terry Newman: Montreal shooter was a revolutionary communist",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/terry-newman-montreal-shooter-was-a-revolutionary-communist",
+      "summary": "An opinion piece asserts that the alleged Montreal shooter, Seth Hatfield, was driven by revolutionary communist ideology rather than involuntary celibacy, contrary to some initial reports. The author argues that Hatfield's manifesto outlines a goal of dismantling capitalism through terrorism, highlighting political extremism as the core motive behind the deadly attacks and calling for a re-evaluation of the narrative surrounding the crime.",
+      "graph": ["Political Extremism", "Terrorism", "Communist Ideology", "Violent Crime", "Montreal Shooting"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might view the piece critically, questioning the labelling of the individual or the oversimplification of complex motives, while still condemning violence. Could argue against linking political ideologies to isolated acts of violence without strong evidence and nuance." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the different interpretations of a criminal's motive, noting the ongoing public and analytical debate surrounding the nature of the Montreal shooting and the ideological leanings of the alleged perpetrator as presented in various media." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the threat posed by radical political ideologies, specifically revolutionary communism, and advocates for vigilance against domestic extremism that seeks to destabilize society through violence. Calls for clear identification and condemnation of such motives." }
+        },
+        "neutral": "An opinion piece claims the Montreal shooter was motivated by revolutionary communist ideology, suggesting his manifesto aimed to dismantle capitalism through terrorism, which challenges other reported motives."
+      }
+    },
+    {
+      "id": "criminal-7",
+      "category": "Criminal",
+      "source": "nationalpost.com",
+      "title": "Montreal mayor calls for stricter gun control in wake of deadly shootings",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/montreal-mayor-calls-for-stricter-gun-control-in-wake-of-deadly-shootings",
+      "summary": "In the aftermath of deadly shootings in Montreal, Mayor Soraya Martinez Ferrada has publicly called for stricter gun control measures. Citing the recent violence, Mayor Ferrada expressed that current regulations are insufficient and that authorities 'can go further' to enhance public safety and prevent future tragedies, advocating for legislative changes at various levels of government.",
+      "graph": ["Gun Control", "Public Safety", "Urban Policy", "Montreal Shootings", "Legislative Reform"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive gun control measures as essential for public safety, seeing it as a necessary governmental responsibility to reduce gun violence and prevent future mass shootings, emphasizing the need for robust legislative action." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports the official statement from a municipal leader regarding policy proposals in response to a public safety crisis, detailing the call for legislative action on gun control and its implications for intergovernmental coordination." },
+          "right": { "label": "Conservative Context", "synthesis": "While condemning violence, may express reservations about stricter gun control affecting law-abiding citizens, potentially advocating for alternative solutions like mental health support or enhanced policing to address crime at its roots, rather than solely focusing on firearm restrictions." }
+        },
+        "neutral": "Following deadly shootings, Montreal Mayor Soraya Martinez Ferrada has called for stricter gun control measures, arguing current regulations are inadequate for public safety."
+      }
+    },
+    {
+      "id": "criminal-8",
+      "category": "Criminal",
+      "source": "thehub.ca",
+      "title": "The Montreal shooting shows that evil exists—but that’s not the end of the story",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/06/23/the-montreal-shooting-shows-that-evil-exists-but-thats-not-the-end-of-the-story/",
+      "summary": "A commentary piece reflects on the Montreal shooting, which resulted in the deaths of a police officer and a member of the Jewish community, acknowledging the inherent evil of such acts. It sets the stage for a broader discussion on the perpetrator's motives, which varied from incel ideology to anti-capitalist or communist leanings, emphasizing the profound impact of the violence on victims and society while highlighting the courage of those who intervened.",
+      "graph": ["Violent Crime", "Extremism", "Public Safety", "Montreal Shooting", "Ideological Violence"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Views the tragedy as a stark reminder of the need to address social pathologies and systemic issues that foster violence and extremism, advocating for community resilience and support for those affected, while seeking deeper societal understanding." },
+          "center": { "label": "Procedural Context", "synthesis": "Offers a reflective summary of a major violent incident, acknowledging the loss of life and the complex, debated nature of the perpetrator's motivations, while highlighting the societal need to understand and prevent such events through investigation and dialogue." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the presence of evil in society and the need for a strong moral and legal response to violent extremism. Calls for clear condemnation of radical ideologies and measures to protect citizens from those who seek to cause harm, asserting moral clarity." }
+        },
+        "neutral": "A commentary piece examines the Montreal shooting, recognizing the tragedy and exploring the diverse, debated motives attributed to the perpetrator, including incel and communist ideologies."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "immigration-lost-canadians-reversal",
-      "category": "Immigration",
-      "source": "CBC News",
-      "title": "Federal Immigration Ministry Reinstates Citizenship Certificates for 'Lost Canadians' After Brief Suspension",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/ottawa-reverses-suspension-citizenship-certificates-9.7244668?cmp=rss",
-      "summary": "The Immigration Department reversed its week-old directive for \"a few dozen\" individuals, known as \"lost Canadians,\" to surrender their citizenship certificates. These individuals, who acquired Canadian citizenship under a recently amended descent law (effective December 15, 2025), had their claims reconfirmed. The department has not clarified the initial reasons for the temporary suspension and review of these certificates.",
-      "graph": ["Citizenship Law", "Immigration Policy", "Administrative Error", "Ancestry", "Legal Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Praises the swift correction of an administrative error, emphasizing the importance of upholding citizenship rights and ensuring fair process for all claimants." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the need for transparent and efficient government administration, highlighting the importance of clear guidelines and rectifying bureaucratic inconsistencies." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the integrity of the citizenship process and the initial reasons for suspension, while ultimately supporting due process for legitimate claimants." }
-        },
-        "neutral": "Following a brief suspension, the federal Immigration Department has reinstated citizenship certificates for several \"lost Canadians\" whose claims were made under an amended citizenship-by-descent law."
-      }
-    },
-    {
-      "id": "immigration-refugee-mental-health-cuts",
-      "category": "Immigration",
-      "source": "CBC News",
-      "title": "Federal Government Imposes 10-Hour Annual Cap on Refugee Mental Health Sessions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/therapy-cuts-capifhp-mental-health-9.7241204?cmp=rss",
-      "summary": "The federal government has quietly implemented a new policy, capping mental health therapy sessions for asylum seekers and refugee claimants at 10 hours per year under the Interim Federal Health Program (IFHP). This change, which also introduced 30% co-payments for supplemental benefits, replaces an uncapped system. Mental health practitioners and former refugees are lobbying for a reversal, arguing the limited sessions are inadequate for trauma recovery and financially prohibitive for vulnerable populations.",
-      "graph": ["Refugee Healthcare", "Mental Health Policy", "Immigration Policy", "Government Spending", "Vulnerable Populations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the cuts, viewing them as a violation of human rights and a detrimental policy impacting vulnerable populations, advocating for comprehensive and accessible mental health support for refugees." },
-          "center": { "label": "Procedural Context", "synthesis": "Expresses concern over the impact on refugee health, urging a re-evaluation of the policy to ensure adequate care while balancing fiscal considerations within federal programs." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports fiscal responsibility and controlled spending in federal programs, potentially arguing for a more limited scope of benefits for non-citizens or prioritizing certain types of healthcare." }
-        },
-        "neutral": "The federal government has introduced a 10-hour annual limit on mental health therapy for refugees and asylum seekers, alongside new co-payments, prompting pushback from mental health professionals and advocacy groups."
-      }
-    }
-  ]
+  "immigration": []
 }
