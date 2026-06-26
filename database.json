@@ -1,490 +1,257 @@
 {
   "federalism": [
     {
-      "id": "bc-mushrooms-us-trade-dispute-20260624",
+      "id": "e7c1f6b8c9d0a1b2e3f4a5d6c7b8e9a0",
       "category": "Federalism",
       "source": "The Narwhal",
-      "title": "U.S. Tariffs on B.C. Mushrooms Spark Trade Dispute Over Alleged Subsidies",
+      "title": "North Bay’s PFAS problem: Federal-municipal responsibility for 'forever chemicals' cleanup",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/bc-mushroom-growers-us-trade-conflict/?utm_source=rss",
-      "summary": "The U.S. Department of Commerce has imposed preliminary tariffs of 2.84% on Canadian-grown mushrooms, accusing B.C. producers of benefiting from unfair government subsidies. The B.C. mushroom industry, which is highly advanced and exports 98% of its crop to the U.S., denies receiving targeted subsidies, stating that any government support is general agricultural aid. This dispute could significantly impact cross-border trade and the B.C. agricultural sector, with more tariffs potentially forthcoming.",
-      "graph": ["Trade Dispute", "Agricultural Subsidies", "Canada-U.S. Relations", "B.C. Economy"],
+      "url": "https://thenarwhal.ca/north-bay-pfas-explainer/?utm_source=rss",
+      "summary": "A class-action lawsuit has been launched by North Bay residents over PFAS contamination linked to a former military base, with federal and municipal governments collaborating on a $122-million cleanup. The issue highlights discrepancies between Health Canada and Ontario's drinking water guidelines for these 'forever chemicals'.",
+      "graph": ["Environmental Policy", "Federal-Provincial Relations", "Public Health", "Class Action"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Critiques of global trade imbalances and calls for protecting domestic industries, while also examining the fairness of subsidy structures and potential environmental impacts of large-scale agriculture. May emphasize the role of government in supporting local economies and the need for fair international trade practices rather than punitive tariffs."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the mechanisms of international trade law, the process of countervailing duty investigations, and the definitions of 'unfair subsidies.' Emphasizes adherence to established trade agreements and diplomatic resolution, aiming for balanced outcomes that respect both national industrial interests and free trade principles."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Advocates for free market principles and reduced government intervention, viewing subsidies as market distortions. May support the U.S. action as a necessary measure to ensure fair competition, while also criticizing Canadian government spending and its potential impact on industry competitiveness. Emphasizes national economic interest over cross-border aid."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust environmental protection, corporate accountability, and strict public health regulations, potentially critiquing delays in addressing known hazards and advocating for stronger federal oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the complexities of inter-governmental coordination for environmental remediation, the process of legal recourse through class-action lawsuits, and the technical aspects of setting and enforcing environmental standards." },
+          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the economic impact of clean-up costs, debates the extent of government intervention in environmental matters, and may question the balance between environmental regulations and property rights or industrial activity." }
         },
-        "neutral": "A trade dispute has arisen between Canada and the United States regarding alleged unfair government subsidies to the B.C. mushroom industry, leading to U.S. tariffs and potential further economic implications for the sector."
+        "neutral": "This issue underscores the complex interplay of federal and provincial environmental standards, municipal impacts, and public and private sector liability in managing long-term chemical contamination."
       }
     },
     {
-      "id": "24-sussex-future-decision-20260624",
+      "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+      "category": "Federalism",
+      "source": "CBC News, The Globe and Mail, National Post",
+      "title": "Federal Government Launches Public-Private Initiative to Renovate 24 Sussex Drive",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-24-sussex-analysis-9.7250676?cmp=rss",
+      "summary": "Prime Minister Mark Carney has announced a national design competition and fundraising campaign to restore 24 Sussex Drive, the Prime Minister's official residence, which has been vacant and dilapidated for over a decade. The initiative aims for transparency in private donations and seeks to restore the site as a symbol of Canadian democracy.",
+      "graph": ["Federal Governance", "Public Finance", "National Heritage", "Political Accountability"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for responsible use of public funds, transparency in private donations to avoid undue influence, and ensuring the renovated residence reflects modern values like sustainability and accessibility." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the importance of due process in the design competition, the necessity of restoring a key national symbol, and the pragmatic aspects of managing a large-scale heritage renovation project." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the preservation of national heritage and institutions, criticizes decades of government inaction on the residence's decay, and raises concerns about the potential cost burden on taxpayers or the reliance on private funding." }
+        },
+        "neutral": "The restoration of 24 Sussex Drive represents a significant federal undertaking, balancing historical preservation and functional necessity with public finance considerations and calls for transparency in private funding."
+      }
+    },
+    {
+      "id": "b2e3f4a5d6c7b8e9a0f1b2c3d4e5f6a7",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Prime Minister Carney to Announce Decision on 24 Sussex Drive Future Amid Calls for Restoration",
+      "title": "Federal Energy Minister Prioritizes Five Inter-Provincial Power-Line Projects",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/decision-coming-24-sussex-drive-9.7247224?cmp=rss",
-      "summary": "Prime Minister Mark Carney is expected to announce the government's long-awaited decision regarding the future of 24 Sussex Drive, the official residence that has been vacant and in disrepair for over a decade. Carney has expressed a desire to restore the building for future prime ministers, acknowledging its 'embarrassing' state. The National Capital Commission's new plan supports rehabilitating the federal heritage building and potentially expanding it, signaling movement on this protracted federal property issue.",
-      "graph": ["Federal Property", "National Heritage", "Government Spending", "Prime Ministerial Residence"],
+      "url": "https://www.cbc.ca/news/politics/power-lines-interties-tim-hodgson-9.7249567?cmp=rss",
+      "summary": "Energy Minister Tim Hodgson announced that the federal government will prioritize five inter-provincial power-line projects to enhance electricity sharing and meet the ambitious goal of doubling Canada's electric grid by 2050. These projects aim to connect provincial grids more effectively, which currently trade more with the U.S. than within Canada.",
+      "graph": ["Energy Policy", "Infrastructure", "Federal-Provincial Cooperation", "Climate Action"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "May question the allocation of significant public funds to a symbolic residence while pressing social needs, such as affordable housing, remain unmet. Could advocate for repurposing the property or ensuring renovations prioritize sustainability and public accessibility where possible."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the governmental process for maintaining federal assets, the responsibilities of the National Capital Commission, and the logistical and financial challenges of restoring a historic property. Emphasizes due diligence, long-term planning, and responsible management of public funds and national symbols."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Criticizes the decade-long neglect as fiscal irresponsibility and a failure of governance. May advocate for cost-effective solutions, potentially privatizing parts of the restoration or questioning the necessity of such an expensive official residence, while also stressing the importance of national symbols and heritage preservation."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the environmental benefits of a modernized grid, supports federal investment in renewable energy infrastructure, and promotes national unity through shared energy resources to combat climate change." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical implementation of infrastructure development, the economic rationale for improving grid efficiency, and the need for strategic planning to meet future energy demands across provinces." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes provincial control over natural resources and energy development, may raise concerns about federal funding and potential overreach into provincial jurisdiction, and advocates for market-driven energy solutions." }
         },
-        "neutral": "The federal government, through Prime Minister Carney, is set to decide on the fate of the long-derelict 24 Sussex Drive, considering its restoration as a national heritage site and official prime ministerial residence."
+        "neutral": "The federal government's prioritization of inter-provincial power lines aims to enhance national energy security and grid efficiency, necessitating robust federal-provincial collaboration."
       }
     },
     {
-      "id": "fast-track-northern-projects-20260624",
+      "id": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8",
       "category": "Federalism",
-      "source": "CBC News / The Globe and Mail",
-      "title": "Federal Government Initiates Fast-Tracking for Three Major Northern Infrastructure Projects",
+      "source": "The Globe and Mail, National Post",
+      "title": "Federal-Provincial Tensions Rise Over Alberta's West Coast Pipeline Proposal and Carbon Tax Impact",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/mpo-greys-bay-mackenzie-highway-nuclear-waste-9.7247003?cmp=rss",
-      "summary": "The Liberal government is moving to designate the Mackenzie Valley Highway (N.W.T.), the Grays Bay Road and Port (N.W.T. & Nunavut), and a Deep Geological Repository for nuclear waste (Northern Ontario) as \"projects of national interest\" under the Building Canada Act. This designation aims to streamline approvals from five years to two by unifying federal and provincial environmental reviews and permitting processes. Consultation with provincial/territorial governments and Indigenous communities, whose rights may be affected, is legally mandated.",
-      "graph": ["Infrastructure Development", "Arctic Security", "Economic Development", "Environmental Assessment Streamlining", "Indigenous Consultation"],
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-nearing-major-projects-deal-with-bc-as-alberta-closes-in-on/",
+      "summary": "Amidst federal-provincial negotiations for a major projects deal with British Columbia, Alberta is advancing a West Coast pipeline proposal. A new study warns that Ottawa's industrial carbon tax requirements could render Alberta's oil production uncompetitive and increase provincial electricity costs by $1 billion annually by 2040, exacerbating inter-provincial tensions.",
+      "graph": ["Energy Policy", "Climate Policy", "Federalism", "Economic Impact"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Supports infrastructure development that benefits remote communities and considers environmental impact, but emphasizes robust Indigenous consultation and consent. May raise concerns about potentially weakening environmental protections for 'fast-tracking' purposes and the long-term implications of nuclear waste storage."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the legislative framework of the Building Canada Act, the efficiency of project approvals, and the balance between economic development, national interest, and environmental safeguards. Highlights the importance of coordinated governance and comprehensive, though expedited, review processes."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly advocates for expedited project approvals to boost economic growth, enhance national security (especially in the Arctic), and reduce bureaucratic delays. Views the 'fast-tracking' as essential for Canada's competitiveness and resource development, while prioritizing the strategic national benefits of these projects."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for strong federal climate policies and carbon pricing, supports the transition away from fossil fuels, and emphasizes the federal government's role in achieving national environmental targets." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the complex balancing act between economic development and environmental protection, the mechanisms of federal-provincial negotiations, and the technical assessments of energy infrastructure and carbon cost impacts." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the importance of provincial control over natural resources, criticizes federal carbon taxes as detrimental to provincial economic competitiveness, and advocates for policies that support the traditional energy sector." }
         },
-        "neutral": "The federal government is leveraging the Building Canada Act to fast-track three significant infrastructure projects in Canada's North, aiming to accelerate development and national interest objectives while mandating Indigenous and provincial/territorial consultations."
+        "neutral": "The ongoing negotiations for energy infrastructure and the impact of federal carbon pricing policies illustrate persistent federal-provincial tensions over economic development, environmental mandates, and jurisdictional authority."
       }
     },
     {
-      "id": "gordie-howe-bridge-delay-accusation-20260624",
+      "id": "d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Michigan Senate Candidate Accuses U.S. President Trump of Politically Blocking Gordie Howe Bridge Opening",
+      "source": "The Globe and Mail, The Hub",
+      "title": "Alberta Separatist Campaign Prompts Federal Response Amid Provincial Autonomy Debate",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/windsor/michigan-senate-candidate-accuses-trump-of-keeping-canada-us-bridge-closed-to-help-donor-9.7246991?cmp=rss",
-      "summary": "Democratic Michigan Senate candidate Mallory McMorrow alleges that U.S. President Donald Trump is intentionally delaying the opening of the Gordie Howe International Bridge, connecting Detroit and Windsor, to benefit a major political donor who owns a competing bridge. The bridge's opening was postponed due to \"outstanding issues\" between the U.S. and Canada. This accusation introduces a political corruption narrative into the Canada-U.S. infrastructure project, affecting cross-border trade and relations.",
-      "graph": ["Canada-U.S. Relations", "Infrastructure", "Trade", "Political Interference", "Election Politics"],
+      "url": "https://www.theglobeandmail.com/politics/opinion/article-high-stakes-and-co-operation-carneys-alberta-referendum-message/",
+      "summary": "Despite declining support for outright separation, a significant number of Albertans desire greater provincial autonomy, as indicated by recent polls. The 'Let Alberta Decide' campaign pushes for independence based on fiscal grievances and under-representation. Prime Minister Carney has responded with a national unity campaign, while experts suggest the referendum could still reshape Canada's federal structure even if separation is rejected.",
+      "graph": ["Federalism", "National Unity", "Constitutional Law", "Regional Autonomy"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Highlights concerns about political corruption and its impact on public infrastructure projects and international relations. Emphasizes transparency and accountability in government decisions, particularly when private interests may influence policy outcomes."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the diplomatic and logistical challenges in completing bilateral infrastructure projects. Examines the stated reasons for delays, the processes for resolving 'outstanding issues,' and the implications for efficient cross-border movement of goods and people."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "May view the accusations as partisan electioneering, while emphasizing the importance of infrastructure for economic competitiveness. Could criticize governmental inefficiencies causing project delays, regardless of the alleged political motivations, and advocate for timely completion and open trade corridors."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of national cohesion, equitable resource distribution, and adapting federal institutions to reflect a diverse and evolving Canada, potentially through inclusive dialogue and recognition of regional identities." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the constitutional implications of provincial referendums, the legal framework for separation, and the practical challenges of maintaining national unity amidst strong regionalist sentiments." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for strengthening provincial sovereignty, critiques federal fiscal policies (e.g., equalization) and perceived centralization of power, and champions regional economic self-determination." }
         },
-        "neutral": "A Michigan Senate candidate has publicly accused U.S. President Trump of delaying the opening of the Gordie Howe International Bridge for political gain, adding a layer of controversy to the Canada-U.S. infrastructure project whose opening has already been postponed."
+        "neutral": "Alberta's ongoing debate about separation and provincial autonomy, expressed through a proposed referendum and related campaigns, challenges Canada's national unity and prompts a re-evaluation of federal-provincial power dynamics."
       }
     },
     {
-      "id": "pesticide-food-rules-trade-impact-20260624",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Senator Raises Concern Federal Pesticide and Food Inspection Rule Changes Could Harm Canada’s Trade Goals",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/business/article-federal-changes-pesticide-food-rules-erode-trade-senator/",
-      "summary": "A Canadian senator has voiced concerns that recent federal changes granting new powers over pesticide and food inspection rules could negatively impact Canada's international trade objectives. Health Canada asserts these new powers will be reserved for \"exceptional circumstances\" and are intended to safeguard Canada's economic and food security. The debate revolves around the balance between domestic regulatory autonomy and commitments to international trade agreements and practices.",
-      "graph": ["Federal Regulation", "International Trade", "Food Security", "Pesticide Policy", "Economic Impact"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Prioritizes public health and environmental protection, potentially supporting stricter domestic regulations even if they cause trade friction. Emphasizes the right of a sovereign nation to protect its citizens and ecosystem, advocating for food safety standards that are not undermined by trade pressures."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Analyzes the legislative process behind the new regulations and the precise scope of the federal government's new powers. Examines how these changes align with existing trade agreements and assesses the potential for dispute resolution through established international mechanisms."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Warns against protectionist measures or regulations that could impede international trade and harm Canada's economic interests. Advocates for minimal regulatory burden to ensure competitiveness and maintain strong trade relationships, viewing potential disruptions as detrimental to national prosperity."
-          }
-        },
-        "neutral": "A senator has expressed concerns that new federal powers concerning pesticide and food inspection rules, intended to bolster national security and economy, might inadvertently hinder Canada's international trade objectives."
-      }
-    },
-    {
-      "id": "alberta-separatism-adviser-20260624",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "PM Carney Appoints New Adviser to Coordinate Federal Response to Alberta Separatism Referendum",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-taps-new-adviser-to-lead-response-to-alberta-separatism/",
-      "summary": "Prime Minister Mark Carney has appointed Morgan Breitkreutz as a new adviser to lead the federal government's coordinated response to Alberta's upcoming October referendum on separatism. This move signals a proactive approach by Ottawa to address growing sentiment for greater provincial autonomy or outright independence in Alberta, and to manage the political implications of the referendum.",
-      "graph": ["Federal-Provincial Relations", "Alberta Separatism", "National Unity", "Political Strategy", "Intergovernmental Affairs"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Emphasizes understanding the underlying grievances of Albertans, advocating for inclusive dialogue and federal policies that address regional disparities. May view separatism as a symptom of broader inequalities or a failure of federal engagement, pushing for social and economic equity."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the constitutional implications of a provincial referendum on separation and the legal parameters of federal intervention. Analyzes the strategic role of a federal adviser in coordinating communications and policy responses to uphold national unity within established legal frameworks."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Supports provincial autonomy and criticizes federal overreach, viewing Alberta's separatist sentiment as a legitimate response to federal policies deemed detrimental to the province's economy and jurisdiction. Advocates for respecting provincial democratic processes and addressing concerns about federal control."
-          }
-        },
-        "neutral": "Prime Minister Carney has appointed an adviser to coordinate the federal government's strategy in anticipation of Alberta's October referendum on separatism, indicating a strategic effort to manage provincial calls for greater autonomy."
-      }
-    },
-    {
-      "id": "condo-bailout-critique-20260624",
-      "category": "Federalism",
-      "source": "The Hub / National Post",
-      "title": "Critics Denounce Federal-Provincial Condo Conversion Plan as Developer Bailout at Taxpayer Expense",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/24/the-billion-dollar-plus-condo-bailout-that-socializes-losses-and-privatizes-profits/",
-      "summary": "A joint federal-B.C. government initiative to purchase thousands of unsold condominium units in Vancouver, converting them into affordable housing, is drawing strong criticism for allegedly acting as a developer bailout. Critics argue that the program socializes developers' losses from a cooling market, potentially paying inflated prices rather than allowing market correction. Concerns are raised about the economic rationale and the moral hazard of using taxpayer money to protect private sector investments, questioning the true benefit for affordable housing.",
-      "graph": ["Housing Policy", "Government Intervention", "Developer Bailout", "Affordable Housing", "Fiscal Responsibility", "Federal-Provincial Partnership"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Supports government intervention to address housing crises but scrutinizes the beneficiaries of such interventions, advocating for policies that directly benefit low-income individuals rather than developers. Calls for greater public control over housing supply and affordability, questioning market-based solutions."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Examines the legal and economic mechanisms of the federal-provincial partnership, assessing the transparency and accountability of public funds allocated. Focuses on the stated objectives of increasing housing supply and affordability versus the actual implementation and market impact."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly criticizes government intervention in the housing market as market distortion, particularly when it appears to bail out private sector failures. Advocates for free market solutions, reduced taxpayer burden, and warns against moral hazard and inefficient allocation of public resources. Views it as an example of crony capitalism."
-          }
-        },
-        "neutral": "A joint federal-B.C. government plan to buy unsold condo units for affordable housing is facing significant criticism, with detractors alleging it constitutes a bailout for developers at public expense rather than an efficient solution to the housing crisis."
-      }
-    },
-    {
-      "id": "canada-investment-crisis-20260624",
+      "id": "e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Analysis Identifies Canada’s Deepening Investment Crisis and Entrepreneurial Decline",
+      "title": "Analysis Reveals Trends in Federal Executive Travel and Spending Disclosures",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/24/canadas-57-collapse-the-missing-entrepreneurs-behind-our-growth-crisis/",
-      "summary": "An analysis highlights Canada's significant and worsening investment crisis, characterized by capital outflows exceeding foreign investment inflows, declining business investment in machinery and equipment, and a sharp drop in entrepreneurship (57% fewer self-employed Canadians with paid employees since 2000). The report criticizes the federal government's economic strategy and its inability to attract and retain capital and entrepreneurial talent, suggesting a need for more than superficial pitches to address fundamental structural issues affecting productivity and growth.",
-      "graph": ["Economic Policy", "Business Investment", "Entrepreneurship", "Productivity", "Capital Flight", "National Growth"],
+      "url": "https://thehub.ca/2026/06/26/your-tax-dollars-at-work-10/",
+      "summary": "An analysis of government disclosure records shows significant executive travel expenditures, with notable international trips by the Secretary of State and Privy Council Office staff to destinations like Berlin and Beijing. The report highlights questions about accountability and efficiency in federal government spending.",
+      "graph": ["Government Accountability", "Public Finance", "Transparency", "Executive Operations"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "May focus on the need for strategic public investments and policies that foster innovation and support small businesses, while addressing wealth inequality. Might argue for a more inclusive economic model that benefits all Canadians, rather than solely focusing on attracting large-scale capital or market-driven entrepreneurship."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Examines the empirical data on investment, productivity, and entrepreneurship trends, seeking evidence-based policy adjustments. Analyzes the effectiveness of current government programs and identifies structural factors influencing economic performance, advocating for a balanced approach to regulatory environments and incentives."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly criticizes government overregulation, high taxes, and disincentives to private sector investment and entrepreneurship. Advocates for policies that reduce red tape, lower corporate taxes, and create a more competitive business environment to attract and retain capital and talent, emphasizing market-led growth."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for enhanced public oversight of government expenditures, greater transparency in all financial dealings, and efficient use of taxpayer money for public services rather than executive perks." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the mechanisms of public disclosure, the operational necessities of government travel and international diplomacy, and the processes for auditing and ensuring fiscal compliance." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques perceived government waste and excessive spending, calls for stricter fiscal discipline and reduced bureaucratic costs, and emphasizes the burden on taxpayers." }
         },
-        "neutral": "Canada faces a significant investment crisis marked by capital flight, declining business investment in productive assets, and a sharp reduction in entrepreneurship, prompting calls for a re-evaluation of federal economic strategies to stimulate national growth."
+        "neutral": "Scrutiny of federal government travel expenses, revealed through public disclosure, underscores ongoing public interest in accountability and efficient use of taxpayer dollars by executive branches."
+      }
+    }
+  ],
+  "charter": [
+    {
+      "id": "f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1",
+      "category": "Charter",
+      "source": "The Globe and Mail",
+      "title": "Canada's Chief Accessibility Officer Drives Initiatives to Break Down Disability Barriers",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-stephanie-cadieux-aims-to-build-a-better-future-to-accommodate-all/",
+      "summary": "Stephanie Cadieux, Canada's Chief Accessibility Officer, is leading federal efforts to remove systemic barriers for people with disabilities. Her work aims to create a more inclusive future, directly aligning with and reinforcing the equality rights guaranteed under Section 15 of the Canadian Charter of Rights and Freedoms.",
+      "graph": ["Human Rights", "Accessibility", "Equality Rights", "Social Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports government intervention and social programs to ensure universal accessibility, advocating for a proactive approach to dismantle systemic discrimination and promote full participation for all individuals." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the implementation and enforcement of the Accessible Canada Act, the practical challenges and solutions for barrier removal, and the collaborative efforts required across various sectors to achieve accessibility goals." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes individual choice and market-based solutions for accessibility, potentially raising concerns about regulatory burden on businesses or the scope and cost of government mandates." }
+        },
+        "neutral": "The role of Canada's Chief Accessibility Officer and related federal initiatives are critical for advancing the equality rights of people with disabilities, reflecting an ongoing commitment to a more inclusive society under the Charter."
       }
     },
     {
-      "id": "alto-rail-bonuses-criticism-20260624",
-      "category": "Federalism",
+      "id": "a0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5",
+      "category": "Charter",
       "source": "National Post",
-      "title": "Alto Rail Project Executives Received $2.8 Million in Federal Bonuses Without Operational Train",
+      "title": "Prime Minister Carney Comments on MAID Policy Direction Amidst Expansion Report",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/alto-high-speed-rail-project-executives-bonuses",
-      "summary": "Executives involved in the Alto high-speed rail project received $2.8 million in bonuses from the federal government last year, despite the project having no operational trains. The Canadian Taxpayers Federation criticized this expenditure, arguing that 'government bureaucrats don’t deserve bonuses...before they even start their work.' This raises questions about public sector compensation practices and accountability in major infrastructure projects.",
-      "graph": ["Government Spending", "Public Accountability", "Infrastructure Projects", "Executive Compensation", "Taxpayer Dollars"],
+      "url": "https://nationalpost.com/news/politics/direction-is-clear-on-maid-carney-says-after-report-recommends-against-expansion",
+      "summary": "Prime Minister Mark Carney stated that the 'direction is clear' on Medical Assistance in Dying (MAID) policy, following a report that advised against its further expansion. This pronouncement addresses a deeply sensitive and legally complex issue with significant implications for individual autonomy, dignity, and the right to life, which have been fundamental to previous Charter challenges.",
+      "graph": ["Medical Ethics", "Right to Life", "Personal Autonomy", "Government Policy"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Critiques the allocation of public funds for executive bonuses, especially in projects without tangible results, advocating for greater accountability and transparency in how taxpayer money is spent. May also question the priorities of large infrastructure projects versus other public services."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the governance and oversight mechanisms for public projects, including criteria for performance-based compensation. Examines whether existing policies ensure value for money and effective project management, and calls for reviews of compensation structures."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly criticizes wasteful government spending and lack of accountability, aligning with calls for fiscal discipline and efficiency. Views executive bonuses for non-operational projects as an egregious misuse of taxpayer funds and advocates for reduced government bureaucracy and private sector solutions."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for broadening MAID access as an affirmation of personal autonomy and human dignity, potentially critiquing any legislative or policy restrictions that limit individual choice in end-of-life decisions." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the ethical and legal frameworks governing MAID, the legislative process for reviewing and amending policy, and the balance required between protecting vulnerable individuals and respecting personal choice." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the sanctity of life, expresses caution or opposition to MAID expansion, and raises concerns about potential abuse or the protection of vulnerable persons in end-of-life care." }
         },
-        "neutral": "Executives of the Alto high-speed rail project received $2.8 million in federal bonuses last year despite the project's lack of operational progress, drawing criticism from taxpayer advocacy groups regarding public spending and accountability."
+        "neutral": "The Prime Minister's remarks on the direction of MAID policy, particularly after a report recommending against expansion, highlight the ongoing societal and legal debate surrounding end-of-life choices and their intersection with Charter-protected rights."
       }
     }
   ],
-  "charter": [],
-  "indigenous": [
-    {
-      "id": "orillia-champlain-statue-fate-20260624",
-      "category": "Indigenous",
-      "source": "CBC News",
-      "title": "Orillia Debates Fate of Controversial Samuel de Champlain Statue Amid Indigenous Reconciliation Calls",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/orillia-champlain-statue-taken-down-9.7246284?cmp=rss",
-      "summary": "The city of Orillia, Ontario, is deliberating the future of its century-old Samuel de Champlain statue, which has been removed and stored due to ongoing controversy and protests over its colonial symbolism. Options for the statue, which depicts Champlain alongside Indigenous figures, include restoration, modification, relocation (potentially to Quebec), or melting it down. Indigenous rights activists, such as Krystal Brooks of the Chippewas of Rama First Nation, advocate for the inclusion of Indigenous perspectives and reconciliation efforts in any decision, highlighting the statue's controversial representation of history.",
-      "graph": ["Indigenous Rights", "Colonialism", "Reconciliation", "Public Art", "Cultural Heritage", "Municipal Governance"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Strongly supports the removal or recontextualization of colonial symbols in public spaces, advocating for Indigenous self-determination and truth and reconciliation. Emphasizes the need to address historical injustices and ensure public narratives reflect diverse perspectives, especially those of marginalized communities."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the municipal decision-making process, balancing historical preservation, public sentiment, and reconciliation efforts. Seeks a process that involves broad community engagement and considers various options for the statue's future, aiming for a civic consensus or pragmatic resolution."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Advocates for the preservation of historical monuments as part of national heritage, often resisting calls for their removal or significant alteration. May view the controversy as an overreaction to historical figures and criticize the perceived erasure of history, emphasizing the importance of tradition and continuity."
-          }
-        },
-        "neutral": "The city of Orillia is engaging in a complex public debate over the disposition of its Samuel de Champlain statue, balancing historical preservation with growing demands for Indigenous reconciliation and re-evaluation of colonial symbols."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "military-leaders-removed-probe-20260623",
+      "id": "b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0",
       "category": "Criminal",
-      "source": "CBC News / The Globe and Mail",
-      "title": "Canadian Army Battalion Commander and Chief Warrant Officer Removed Amid Investigation into Conduct",
+      "source": "CBC News",
+      "title": "Ottawa Man Arrested on Immigration Charges for Alleged Role in Rwandan Genocide",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/military-discipline-troops-investigation-9.7246387?cmp=rss",
-      "summary": "The commanding officer and chief warrant officer of an Edmonton-based Canadian Army battalion have been temporarily removed from their positions pending an investigation into alleged misconduct, which military sources indicate involves an alcohol-related incident. Defence officials confirmed the investigation, emphasizing the expectation of \"sound judgment and exemplary conduct\" from leaders. This action highlights ongoing efforts to address conduct within the Canadian Armed Forces and maintain public confidence.",
-      "graph": ["Military Justice", "Officer Conduct", "Internal Investigation", "Military Discipline", "Accountability"],
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-man-wanted-rwandan-genocide-arrested-9.7249058?cmp=rss",
+      "summary": "RCMP have arrested a 68-year-old Ottawa man, alleged to have lived in Canada under a false identity for three decades, on 16 charges under the Immigration and Refugee Protection Act. He is wanted in Rwanda for his alleged involvement in the 1994 genocide, a case that required extensive international cooperation.",
+      "graph": ["War Crimes", "Immigration Fraud", "International Justice", "RCMP Investigation"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Advocates for transparency and accountability within military leadership, emphasizing the need for cultural change to address issues like alcohol misuse and misconduct. Supports investigations that can lead to systemic reforms and improved institutional integrity."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the due process of military investigations, the chain of command, and the protocols for temporary removal and replacement of officers. Emphasizes the importance of impartial inquiries to uphold the integrity of the armed forces' disciplinary system."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Stresses the importance of maintaining strict discipline and high standards within the military to ensure operational effectiveness and public trust. Supports decisive action against misconduct, emphasizing leadership responsibility and the need to protect the reputation and morale of the armed forces."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes Canada's commitment to international human rights and ensuring accountability for severe atrocities, while also highlighting the importance of due process for accused individuals." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the meticulous investigative work of the RCMP, the complexities of international legal cooperation, and the application of Canada's immigration laws to ensure justice." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for strict enforcement of immigration laws and severe penalties for identity fraud, supporting aggressive pursuit of individuals accused of war crimes to uphold national security and justice." }
         },
-        "neutral": "Senior leaders of a Canadian Army battalion have been removed from command pending an investigation into alleged misconduct, reportedly an alcohol-related incident, underscoring the military's commitment to upholding standards of conduct."
+        "neutral": "The arrest of an individual wanted for alleged involvement in the Rwandan genocide on Canadian immigration charges highlights Canada's commitment to international justice and the integrity of its immigration system."
       }
     },
     {
-      "id": "gold-heist-suspect-gun-smuggling-sentence-20260624",
+      "id": "c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Toronto Airport Gold Heist Suspect Receives 13-Year U.S. Sentence for Gun Smuggling",
+      "source": "Toronto Sun",
+      "title": "Two Hamilton Women Charged with Assault in Connection to Escalator Fatality",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/toronto-airport-gold-heist-suspect-gets-13-years-in-the-u-s-for-gun-smuggling",
-      "summary": "Durante King-Mclean, a suspect in the 2023 Toronto Pearson airport gold heist, has been sentenced to 13 years in a U.S. prison for gun smuggling. He was apprehended in the U.S. shortly after the heist, found with 65 guns individually hidden in socks. This development sheds light on the cross-border criminal activities and the legal consequences faced by individuals implicated in major international theft and smuggling operations.",
-      "graph": ["Organized Crime", "Gun Smuggling", "International Law Enforcement", "Justice System", "Cross-Border Crime"],
+      "url": "https://torontosun.com/news/local-news/man-dies-escalator-hamilton-women-charged-assault-parking",
+      "summary": "Two women from Hamilton have been charged with assault following a parking dispute that tragically led to a man's death in an escalator fall. This incident is part of broader local news coverage on public safety and crime.",
+      "graph": ["Assault", "Homicide Investigation", "Public Safety", "Local Crime"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Highlights the interconnectedness of international crime and the need for robust global law enforcement cooperation. May also prompt discussion on the root causes of crime and the effectiveness of sentencing in deterring organized criminal activity."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the legal process of cross-border criminal investigations, extradition (implied), and sentencing. Emphasizes the collaboration between Canadian and U.S. authorities and the application of laws pertaining to gun trafficking and related offenses."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Advocates for strict penalties for serious crimes like gun smuggling and organized theft, emphasizing public safety and law and order. Supports strong international cooperation to combat cross-border criminality and secure borders from illegal activities."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Explores the underlying social factors contributing to escalated conflicts, emphasizes community-based crime prevention, and supports restorative justice approaches." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the police investigation procedures, the legal process for charging and prosecution, and the broader aim of maintaining public order and safety." },
+          "right": { "label": "Conservative Context", "synthesis": "Calls for strict law enforcement, accountability for violent acts, and a strong stance against public disturbances and assaults to deter future crime." }
         },
-        "neutral": "A suspect in the Toronto Pearson gold heist has received a 13-year sentence in the U.S. for gun smuggling, underscoring the international scope of the criminal investigation and justice process."
+        "neutral": "The charging of two individuals in relation to an escalator fatality stemming from a parking dispute underscores the tragic consequences of escalating minor conflicts and the ongoing efforts of law enforcement."
       }
     },
     {
-      "id": "montreal-shooting-justice-system-20260624",
+      "id": "d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2",
       "category": "Criminal",
-      "source": "The Hub",
-      "title": "Montreal Shooting Incident Prompts Discussion on Hate Ideology and Justice System Strain",
+      "source": "Toronto Sun",
+      "title": "Police Continue Manhunt for Jordan Sangwin, Suspect in Port Credit Double Murder",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/24/montreal-shooting-exposes-ideology-of-hate-and-a-strained-justice-system-hub-writers-argue/",
-      "summary": "A recent shooting in Montreal, characterized by an ideology fusing hatred of women and Jews, has sparked debate among Hub writers regarding the prevalence of hate ideology and its impact on a strained justice system. The incident, which involved a gunman firing multiple shots and injuring officers, highlights concerns about extremist online subcultures and the capacity of the legal system to effectively address such ideologically motivated violence.",
-      "graph": ["Hate Crime", "Justice System", "Public Safety", "Extremism", "Gun Violence", "Police Response"],
+      "url": "https://torontosun.com/news/local-news/new-images-released-murder-accused-jordan-sangwin",
+      "summary": "Authorities are continuing an intensive manhunt for Jordan Sangwin, 46, who is suspected of the double murder of his parents in Port Credit on June 18. New images have been released, and police believe he is hiding near High Park, with the search now entering its tenth day.",
+      "graph": ["Murder Investigation", "Law Enforcement", "Public Safety", "Fugitive Search"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Emphasizes the societal roots of hate and extremism, advocating for preventative measures, community support, and robust hate speech legislation. Calls for systemic changes within the justice system to address biases and support victims of hate-motivated violence more effectively."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the criminal investigation process, the classification of hate crimes, and the legal challenges in prosecuting ideologically motivated violence. Examines the operational strains on police and judicial resources in responding to complex and high-impact incidents."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Advocates for strong law enforcement and judicial measures to combat hate crimes and maintain public order, emphasizing personal responsibility and accountability for violent acts. Calls for a firm stance against extremism and the strengthening of justice system capabilities to deter and punish such offenses."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on the social impact of violent crime on communities, potentially highlighting the need for support services for victims' families and addressing root causes of violence." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the efficiency and thoroughness of the police investigation, the cooperation between different law enforcement units, and the legal framework for apprehending suspects." },
+          "right": { "label": "Conservative Context", "synthesis": "Demands swift apprehension and justice for violent offenders, advocating for increased police resources and a strong emphasis on maintaining public safety and order." }
         },
-        "neutral": "A shooting incident in Montreal, linked to hate ideology, has initiated a public discourse among commentators about the nature of extremist violence and the challenges facing Canada's justice system in addressing it."
+        "neutral": "An ongoing intensive police manhunt for a double murder suspect highlights the serious nature of violent crime and the dedication of law enforcement agencies to ensure public safety."
       }
     },
     {
-      "id": "ai-judgment-homogenization-20260624",
+      "id": "e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3",
       "category": "Criminal",
       "source": "Slaw",
-      "title": "Legal Scholars Warn of AI's Homogenizing Effect on Judicial Judgment Writing and Common Law",
+      "title": "Legal Commentary Proposes 'Forum Shopping' as Solution for Court Delays and Backlogs",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/24/resisting-the-echo-chamber-ai-assisted-judgment-writing-and-the-risk-of-homogenization/",
-      "summary": "A legal analysis article warns that the increasing use of AI tools by judges for judgment writing poses a significant risk of 'argument collapse' and 'homogenization' of legal reasoning and language. Research indicates that Large Language Models (LLMs) tend to produce a narrower range of arguments and less creative content compared to human-written texts, potentially stifling the nuanced development of common law and undermining public confidence in judicial independence, especially after instances of AI-generated fictitious case references.",
-      "graph": ["Legal Tech", "Judicial Independence", "Common Law", "AI Ethics", "Legal Reasoning", "Justice System Integrity"],
+      "url": "https://www.slaw.ca/2026/06/26/forum-shopping-could-fix-the-delay-problem/",
+      "summary": "A legal commentary argues that 'forum shopping' within a province should be reconsidered as a legitimate strategy to alleviate chronic court delays and backlogs, particularly in criminal litigation. The piece suggests that allowing litigants to choose jurisdictions with faster trial times could improve judicial efficiency and address the inconsistency in access to justice across different court locations.",
+      "graph": ["Access to Justice", "Judicial Efficiency", "Court Administration", "Procedural Law"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Emphasizes the ethical implications of AI in sensitive areas like justice, advocating for caution and strict oversight to prevent bias, reduce human agency, and ensure equitable access to justice. Raises concerns about the potential for algorithmic bias to reinforce existing inequalities."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on developing clear guidelines and ethical frameworks for AI use in judicial settings, ensuring judicial independence and the integrity of legal processes. Examines the practical challenges of integrating AI while preserving the nuanced, precedent-based nature of common law jurisprudence."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Warns against the erosion of traditional legal principles and human judgment by technology, stressing the importance of established legal methodologies. Advocates for human oversight and accountability in the justice system, viewing AI as a tool that should not compromise the fundamental role of judges."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for systemic reforms to ensure equitable access to justice for all, criticizing court delays as a barrier to fairness and potentially disproportionately affecting vulnerable populations, thus supporting creative solutions like managed forum shopping." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the practicalities and implications of procedural changes in court administration, seeking efficient solutions to case backlogs while maintaining legal consistency and judicial integrity across jurisdictions." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports reforms that enhance efficiency and reduce costs within the justice system, potentially critiquing bureaucratic inefficiencies that lead to delays and endorsing market-like mechanisms if they can improve service delivery." }
         },
-        "neutral": "Legal experts are raising concerns about the potential for AI-assisted judgment writing to homogenize legal reasoning and stifle common law development, posing a challenge to judicial integrity and confidence."
+        "neutral": "The suggestion to leverage 'forum shopping' as a mechanism to mitigate court delays addresses a critical issue in Canadian judicial administration, aiming to enhance the efficiency and consistency of the justice system."
       }
     }
   ],
   "immigration": [
     {
-      "id": "citizenship-docs-recall-investigation-20260624",
+      "id": "f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4",
       "category": "Immigration",
       "source": "CBC News",
-      "title": "Immigration Minister Orders Investigation into Abrupt Recall of 'Lost Canadians' Citizenship Documents",
+      "title": "Alleged Rwandan Genocide Participant Arrested in Ottawa on Immigration and Identity Fraud Charges",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/immigration-minister-citizenship-documents-9.7246657?cmp=rss",
-      "summary": "Immigration Minister Lena Diab has instructed her department to investigate why an unspecified number of 'Lost Canadians' — individuals who recently gained citizenship by descent under a new law — received emails ordering them to surrender their proof of citizenship. While some later had their status re-confirmed, all 4,100 successful claims under the new law are now under review. This incident has caused significant concern among those affected, highlighting potential issues with the implementation and verification processes of citizenship by descent policies.",
-      "graph": ["Citizenship Law", "Immigration Policy", "Administrative Error", "Government Accountability", "Lost Canadians"],
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-man-wanted-rwandan-genocide-arrested-9.7249058?cmp=rss",
+      "summary": "RCMP have arrested a 68-year-old man in Ottawa, suspected of living in Canada under a false identity for 30 years. He faces 16 charges under the Immigration and Refugee Protection Act and is wanted in Rwanda for his alleged involvement in the 1994 genocide, demonstrating international cooperation in upholding immigration integrity and justice.",
+      "graph": ["Immigration Law", "Identity Fraud", "War Crimes", "Border Security"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Advocates for compassionate and efficient processes for 'Lost Canadians,' emphasizing the human impact of administrative errors and the right to citizenship. Calls for greater government transparency and accountability in rectifying such issues promptly and fairly."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the administrative integrity of the citizenship application and verification process. Examines the departmental investigation into the trigger for the recall, ensuring adherence to legal statutes and a fair, consistent application of citizenship criteria."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Emphasizes the importance of rigorous verification and security in granting citizenship, while criticizing potential administrative failures that lead to errors. Advocates for clear and strict criteria for citizenship and efficient government operations to avoid such costly and disruptive recalls."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights Canada's moral obligation to not be a safe haven for alleged perpetrators of atrocities, while also ensuring due process and human rights are upheld for all individuals within the legal system." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the strict application of Canada's immigration and refugee protection laws, the complexities of verifying identity and background, and the need for robust international cooperation in such cases." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for strong border security and stringent immigration controls to prevent individuals with problematic backgrounds from entering or remaining in Canada under false pretenses, prioritizing national security." }
         },
-        "neutral": "Canada's Immigration Minister has initiated an investigation into the sudden recall of citizenship documents issued to an unknown number of 'Lost Canadians' under a new descent law, prompting a review of all successful claims."
+        "neutral": "The arrest of an alleged Rwandan genocide participant on serious immigration charges underscores Canada's efforts to maintain the integrity of its immigration system and uphold international justice by preventing individuals accused of grave crimes from establishing residency under false pretenses."
       }
     }
   ]
