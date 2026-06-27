@@ -1,257 +1,372 @@
 {
   "federalism": [
     {
-      "id": "e7c1f6b8c9d0a1b2e3f4a5d6c7b8e9a0",
-      "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "North Bay’s PFAS problem: Federal-municipal responsibility for 'forever chemicals' cleanup",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/north-bay-pfas-explainer/?utm_source=rss",
-      "summary": "A class-action lawsuit has been launched by North Bay residents over PFAS contamination linked to a former military base, with federal and municipal governments collaborating on a $122-million cleanup. The issue highlights discrepancies between Health Canada and Ontario's drinking water guidelines for these 'forever chemicals'.",
-      "graph": ["Environmental Policy", "Federal-Provincial Relations", "Public Health", "Class Action"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust environmental protection, corporate accountability, and strict public health regulations, potentially critiquing delays in addressing known hazards and advocating for stronger federal oversight." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the complexities of inter-governmental coordination for environmental remediation, the process of legal recourse through class-action lawsuits, and the technical aspects of setting and enforcing environmental standards." },
-          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the economic impact of clean-up costs, debates the extent of government intervention in environmental matters, and may question the balance between environmental regulations and property rights or industrial activity." }
-        },
-        "neutral": "This issue underscores the complex interplay of federal and provincial environmental standards, municipal impacts, and public and private sector liability in managing long-term chemical contamination."
-      }
-    },
-    {
-      "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
-      "category": "Federalism",
-      "source": "CBC News, The Globe and Mail, National Post",
-      "title": "Federal Government Launches Public-Private Initiative to Renovate 24 Sussex Drive",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-24-sussex-analysis-9.7250676?cmp=rss",
-      "summary": "Prime Minister Mark Carney has announced a national design competition and fundraising campaign to restore 24 Sussex Drive, the Prime Minister's official residence, which has been vacant and dilapidated for over a decade. The initiative aims for transparency in private donations and seeks to restore the site as a symbol of Canadian democracy.",
-      "graph": ["Federal Governance", "Public Finance", "National Heritage", "Political Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for responsible use of public funds, transparency in private donations to avoid undue influence, and ensuring the renovated residence reflects modern values like sustainability and accessibility." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the importance of due process in the design competition, the necessity of restoring a key national symbol, and the pragmatic aspects of managing a large-scale heritage renovation project." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the preservation of national heritage and institutions, criticizes decades of government inaction on the residence's decay, and raises concerns about the potential cost burden on taxpayers or the reliance on private funding." }
-        },
-        "neutral": "The restoration of 24 Sussex Drive represents a significant federal undertaking, balancing historical preservation and functional necessity with public finance considerations and calls for transparency in private funding."
-      }
-    },
-    {
-      "id": "b2e3f4a5d6c7b8e9a0f1b2c3d4e5f6a7",
+      "id": "cbc-liberals-crime-face-turn-20260627",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Energy Minister Prioritizes Five Inter-Provincial Power-Line Projects",
+      "title": "Liberals Pivot to Stricter Crime Policies and Bail Reform",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/power-lines-interties-tim-hodgson-9.7249567?cmp=rss",
-      "summary": "Energy Minister Tim Hodgson announced that the federal government will prioritize five inter-provincial power-line projects to enhance electricity sharing and meet the ambitious goal of doubling Canada's electric grid by 2050. These projects aim to connect provincial grids more effectively, which currently trade more with the U.S. than within Canada.",
-      "graph": ["Energy Policy", "Infrastructure", "Federal-Provincial Cooperation", "Climate Action"],
+      "url": "https://www.cbc.ca/news/politics/liberals-crime-bail-reform-9.7249031?cmp=rss",
+      "summary": "The federal Liberal government has shifted its stance on criminal justice, enacting approximately 80 changes to the Criminal Code over the past year. This includes restoring mandatory minimum sentences for certain offenses (firearms, child sex crimes), tightening bail laws for repeat violent offenders, and introducing measures to curb hate crimes, sexual predation, retail theft, and violence against transit operators. They also supported 'Bailey's Law' for life sentences in some domestic abuse murders. This policy reversal aims to counter the perception of being 'soft on crime' and is a significant change from their previous reform efforts. Public Safety Minister Gary Anandasangaree also advanced new online crime-fighting tools for police, which privacy advocates criticized.",
+      "graph": ["Criminal Code Amendments", "Bail Reform", "Mandatory Minimum Sentences", "Federal Crime Policy", "Law Enforcement Tools"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the environmental benefits of a modernized grid, supports federal investment in renewable energy infrastructure, and promotes national unity through shared energy resources to combat climate change." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical implementation of infrastructure development, the economic rationale for improving grid efficiency, and the need for strategic planning to meet future energy demands across provinces." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes provincial control over natural resources and energy development, may raise concerns about federal funding and potential overreach into provincial jurisdiction, and advocates for market-driven energy solutions." }
+          "left": { "label": "Progressive Context", "synthesis": "Critical of stricter policies, potential privacy overreach with new police tools, and the abandonment of prior reform efforts. Might highlight the disproportionate impact of mandatory minimums." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual shift in government policy, the political motivations (crime rates as a political liability), and the legislative process of enacting these changes. Notes the balance between public safety and privacy concerns." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports the 'tough on crime' shift, bail reform, and stricter penalties. Likely views the previous reforms as too lenient and welcomes the government's about-face." }
         },
-        "neutral": "The federal government's prioritization of inter-provincial power lines aims to enhance national energy security and grid efficiency, necessitating robust federal-provincial collaboration."
+        "neutral": "The federal Liberal government has implemented a significant shift in its criminal justice policy, moving towards stricter measures including restored mandatory minimum sentences and tightened bail laws, in response to rising crime rates and political pressures."
       }
     },
     {
-      "id": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8",
+      "id": "cbc-alta-separatism-us-envoy-20260627",
       "category": "Federalism",
-      "source": "The Globe and Mail, National Post",
-      "title": "Federal-Provincial Tensions Rise Over Alberta's West Coast Pipeline Proposal and Carbon Tax Impact",
+      "source": "CBC News",
+      "title": "Former U.S. Envoy Downplays Serious American Involvement in Alberta Separatism",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-ottawa-nearing-major-projects-deal-with-bc-as-alberta-closes-in-on/",
-      "summary": "Amidst federal-provincial negotiations for a major projects deal with British Columbia, Alberta is advancing a West Coast pipeline proposal. A new study warns that Ottawa's industrial carbon tax requirements could render Alberta's oil production uncompetitive and increase provincial electricity costs by $1 billion annually by 2040, exacerbating inter-provincial tensions.",
-      "graph": ["Energy Policy", "Climate Policy", "Federalism", "Economic Impact"],
+      "url": "https://www.cbc.ca/news/politics/u-s-ambassador-canada-alberta-separatism-referendum-white-house-9.7250683?cmp=rss",
+      "summary": "Kirsten Hillman, Canada's former ambassador to the U.S., stated she does not believe 'serious Americans' are interested in interfering with Alberta's upcoming referendum on whether to pursue separation from Canada. This comes after earlier concerns in January about U.S. foreign interference, including a meeting between the U.S. State Department and the Alberta Prosperity Project (APP), which sought a $500-billion line of credit for a potential independent Alberta. U.S. Treasury Secretary Scott Bessent had also made comments perceived as supportive of Alberta's separatist movement. Hillman's comments suggest that such interference is not a significant concern for U.S. figures of influence.",
+      "graph": ["Alberta Separatism", "Federal-Provincial Relations", "U.S.-Canada Relations", "Foreign Interference", "Referendum"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for strong federal climate policies and carbon pricing, supports the transition away from fossil fuels, and emphasizes the federal government's role in achieving national environmental targets." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the complex balancing act between economic development and environmental protection, the mechanisms of federal-provincial negotiations, and the technical assessments of energy infrastructure and carbon cost impacts." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the importance of provincial control over natural resources, criticizes federal carbon taxes as detrimental to provincial economic competitiveness, and advocates for policies that support the traditional energy sector." }
+          "left": { "label": "Progressive Context", "synthesis": "Might view U.S. interest in Alberta separatism as resource-driven opportunism, potentially undermining Canadian sovereignty. Would likely support strong federal unity." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the diplomatic perspective and the official stance of Canadian and U.S. diplomatic figures. Emphasizes the domestic nature of the debate while acknowledging past incidents of perceived foreign interest." },
+          "right": { "label": "Conservative Context", "synthesis": "Alberta-centric right might view U.S. interest, particularly from figures like Bessent, as validating separatist sentiment and the province's economic potential. Critiques federal government's handling of provincial concerns that fuel separatism." }
         },
-        "neutral": "The ongoing negotiations for energy infrastructure and the impact of federal carbon pricing policies illustrate persistent federal-provincial tensions over economic development, environmental mandates, and jurisdictional authority."
+        "neutral": "A former Canadian ambassador to the U.S. suggests that serious American entities are unlikely to interfere in Alberta's potential referendum on separation, despite previous reports of U.S. interest and meetings with pro-separatist groups."
       }
     },
     {
-      "id": "d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9",
+      "id": "cbc-griffon-helicopter-hold-20260627",
       "category": "Federalism",
-      "source": "The Globe and Mail, The Hub",
-      "title": "Alberta Separatist Campaign Prompts Federal Response Amid Provincial Autonomy Debate",
+      "source": "CBC News",
+      "title": "Federal Government Suspends $800M Griffon Helicopter Upgrade Amid Technical Issues and Cost Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/opinion/article-high-stakes-and-co-operation-carneys-alberta-referendum-message/",
-      "summary": "Despite declining support for outright separation, a significant number of Albertans desire greater provincial autonomy, as indicated by recent polls. The 'Let Alberta Decide' campaign pushes for independence based on fiscal grievances and under-representation. Prime Minister Carney has responded with a national unity campaign, while experts suggest the referendum could still reshape Canada's federal structure even if separation is rejected.",
-      "graph": ["Federalism", "National Unity", "Constitutional Law", "Regional Autonomy"],
+      "url": "https://www.cbc.ca/news/politics/airforce-helicopters-griffon-upgrade-suspended-9.7250616?cmp=rss",
+      "summary": "The federal government has paused the Royal Canadian Air Force's $800-million program to extend the life of its CH-146 Griffon helicopters due to technical problems, cost escalation, and increasing complexity. The Department of National Defence and Bell Textron Canada Ltd. are in discussions to redefine the project's scope. The suspension raises questions about the future of the 82-aircraft fleet and its operational readiness, particularly as Ottawa concurrently considers an $18-billion replacement program and faces growing NATO commitments.",
+      "graph": ["Defence Procurement", "Military Spending", "Royal Canadian Air Force", "Helicopter Upgrade", "Federal Budget"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of national cohesion, equitable resource distribution, and adapting federal institutions to reflect a diverse and evolving Canada, potentially through inclusive dialogue and recognition of regional identities." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the constitutional implications of provincial referendums, the legal framework for separation, and the practical challenges of maintaining national unity amidst strong regionalist sentiments." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for strengthening provincial sovereignty, critiques federal fiscal policies (e.g., equalization) and perceived centralization of power, and champions regional economic self-determination." }
+          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the $800M expenditure, potential cost overruns, and the efficiency of military procurement processes, advocating for fiscal responsibility and proper oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of government procurement, the technical challenges faced, and the strategic implications for Canada's defence capabilities and NATO commitments." },
+          "right": { "label": "Conservative Context", "synthesis": "Likely critical of government inefficiency, delays, and cost issues in military spending, advocating for timely and effective defence investments, and potentially questioning the broader Liberal government's handling of defence." }
         },
-        "neutral": "Alberta's ongoing debate about separation and provincial autonomy, expressed through a proposed referendum and related campaigns, challenges Canada's national unity and prompts a re-evaluation of federal-provincial power dynamics."
+        "neutral": "Canada has suspended the $800 million Griffon helicopter life-extension program due to technical difficulties, escalating costs, and complexity, prompting a reassessment of the project's scope and its impact on the military's operational capabilities and future replacement plans."
       }
     },
     {
-      "id": "e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0",
+      "id": "cbc-carney-24sussex-reno-20260626",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Analysis Reveals Trends in Federal Executive Travel and Spending Disclosures",
+      "source": "CBC News",
+      "title": "Prime Minister Carney Launches Initiative to Restore 24 Sussex Drive Through Design Competition and Fundraising",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/26/your-tax-dollars-at-work-10/",
-      "summary": "An analysis of government disclosure records shows significant executive travel expenditures, with notable international trips by the Secretary of State and Privy Council Office staff to destinations like Berlin and Beijing. The report highlights questions about accountability and efficiency in federal government spending.",
-      "graph": ["Government Accountability", "Public Finance", "Transparency", "Executive Operations"],
+      "url": "https://www.cbc.ca/news/politics/carney-24-sussex-analysis-9.7250676?cmp=rss",
+      "summary": "Prime Minister Mark Carney has announced a plan to finally address the dilapidated state of 24 Sussex Drive, the official residence of Canada's prime minister, which has been uninhabitable for over a decade. His proposal includes a national design competition and a fundraising effort, potentially involving private donations via the Rideau Hall Foundation. The residence has suffered from decades of neglect due to political sensitivities surrounding renovation costs, dubbed 'Gucci-gate' in the 1980s, leading to its current critical condition with issues like asbestos and rodents. Carney emphasized the residence's symbolic importance to Canadian democracy.",
+      "graph": ["Official Residence", "Government Property", "Public Spending", "Political Symbolism", "National Capital Commission"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for enhanced public oversight of government expenditures, greater transparency in all financial dealings, and efficient use of taxpayer money for public services rather than executive perks." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the mechanisms of public disclosure, the operational necessities of government travel and international diplomacy, and the processes for auditing and ensuring fiscal compliance." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques perceived government waste and excessive spending, calls for stricter fiscal discipline and reduced bureaucratic costs, and emphasizes the burden on taxpayers." }
+          "left": { "label": "Progressive Context", "synthesis": "Might question the use of public funds or the involvement of private donations for a prime ministerial residence, especially amidst affordability crises, preferring resources for social programs." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the necessity of maintaining national symbols and infrastructure, the long-standing political paralysis on the issue, and the practical challenges of funding. Focuses on the logistical and historical context." },
+          "right": { "label": "Conservative Context", "synthesis": "Could critique the decades of government inaction and mismanagement that led to the current state, while potentially supporting private funding as a way to avoid taxpayer burden." }
         },
-        "neutral": "Scrutiny of federal government travel expenses, revealed through public disclosure, underscores ongoing public interest in accountability and efficient use of taxpayer dollars by executive branches."
+        "neutral": "Prime Minister Mark Carney has initiated a plan to renovate the long-neglected official residence at 24 Sussex Drive, proposing a design competition and private fundraising to restore the symbolically important but currently uninhabitable property."
+      }
+    },
+    {
+      "id": "cbc-24sussex-photos-20260626",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Visual Tour Reveals Severe Disrepair Inside Official Prime Ministerial Residence, 24 Sussex Drive",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/inside-24-sussex-photos-9.7250553?cmp=rss",
+      "summary": "Following Prime Minister Mark Carney's announcement regarding the renovation of 24 Sussex Drive, a media tour revealed the extensive decay inside the official residence, which has been vacant for over ten years. Photographs show exposed brick, stripped-down staircases, and remnants of remediation work, confirming issues such as asbestos, lead, mold, and rodent infestations that led to its uninhabitability. The visual evidence underscores the severe state of disrepair resulting from decades of political reluctance to fund necessary maintenance and upgrades.",
+      "graph": ["Official Residence Condition", "Government Property", "Infrastructure Neglect", "Public Accountability", "Renovation Costs"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Could use the images to highlight government neglect of public assets while pointing to underfunded social services. Questions resource allocation." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the objective reality of the residence's condition, providing context for the recent renovation announcement. Emphasizes the practical challenges and historical inertia." },
+          "right": { "label": "Conservative Context", "synthesis": "Views the disrepair as a clear example of government inefficiency and fiscal irresponsibility over decades, criticizing the failure of successive administrations to address a fundamental asset." }
+        },
+        "neutral": "A media tour of 24 Sussex Drive revealed the extensive internal disrepair of the uninhabitable prime ministerial residence, showcasing the impact of decades of deferred maintenance including asbestos, lead, mold, and structural decay."
+      }
+    },
+    {
+      "id": "cbc-battalion-leaders-reinstated-20260626",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Senior Officers of Edmonton Infantry Battalion Reinstated After Investigation; Disciplinary Measures Taken",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/infantry-battalion-leaders-reinstated-9.7250904?cmp=rss",
+      "summary": "The Department of National Defence has reinstated Lt.-Col. Jason Hudson and Chief Warrant Officer Kim Doerr, senior leaders of the 3rd Battalion, Princess Patricia's Canadian Light Infantry, just days after their removal pending an investigation. While the DND confirmed a 'thorough investigation' took place and senior army leaders have confidence in their abilities, no specific details about the initial reason for removal were disclosed. The department stated that 'appropriate disciplinary measures are being taken,' underscoring the expectation for leaders to demonstrate good judgment and conduct.",
+      "graph": ["Canadian Armed Forces", "Military Leadership", "Department of National Defence", "Internal Investigation", "Discipline"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might question the transparency of the military's investigative and disciplinary process, advocating for greater accountability and disclosure, especially if the initial removal was due to serious misconduct." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural handling of military personnel matters, the DND's statement on confidence in leadership, and the balance between maintaining internal discipline and public trust." },
+          "right": { "label": "Conservative Context", "synthesis": "Could emphasize the importance of strong military leadership and the efficiency of resolving internal matters. May be critical if the investigation's opaque nature undermines confidence in the chain of command." }
+        },
+        "neutral": "Two senior leaders of an Edmonton-based infantry battalion, Lt.-Col. Jason Hudson and Chief Warrant Officer Kim Doerr, have been reinstated by the Department of National Defence following an investigation, with the department confirming that appropriate disciplinary measures are being taken without disclosing specifics."
+      }
+    },
+    {
+      "id": "tgam-24sussex-decision-20260626",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Opinion: Political Resolve Finally Addresses 24 Sussex Drive's Decade-Long Neglect",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/opinion/article-finally-someone-makes-a-decision-about-24-sussex/",
+      "summary": "This opinion piece by Campbell Clark commends Prime Minister Mark Carney for finally tackling the long-standing issue of 24 Sussex Drive's disrepair. For decades, successive governments avoided costly renovations due to political sensitivity (e.g., 'Gucci-gate'). Carney's plan for a design competition and fundraising effort is presented as a crucial step to restore the prime minister's official residence, which has deteriorated into an uninhabitable state. The article highlights the political courage required to address this neglected national symbol.",
+      "graph": ["Official Residence", "Government Accountability", "Political Leadership", "Public Infrastructure", "National Symbolism"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might view the article's focus on 'political courage' as overlooking the systemic issues of government spending and public priorities. May advocate for a more fundamental reconsideration of official residences." },
+          "center": { "label": "Procedural Context", "synthesis": "Agrees with the premise that a decision was overdue and praises the breaking of political paralysis. Focuses on the pragmatism of the solution." },
+          "right": { "label": "Conservative Context", "synthesis": "Likely supports the push to finally address the issue, perhaps seeing it as restoring national pride, but may also use it to criticize past Liberal (and Conservative) governments for their inaction and fiscal mismanagement." }
+        },
+        "neutral": "An opinion piece commends Prime Minister Mark Carney's decision to launch a design competition and fundraising campaign to restore 24 Sussex Drive, acknowledging the political challenge of addressing the long-neglected official residence."
+      }
+    },
+    {
+      "id": "tgam-canada-turkey-candu-20260626",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Canada Actively Promoting Candu Nuclear Technology and Uranium Exports to Turkey",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-canada-pitching-turkey-on-candu-reactors-and-uranium/",
+      "summary": "Canada is engaging in discussions with Turkey to promote its Candu nuclear reactor technology and uranium exports. This initiative was discussed during a meeting between Canadian Foreign Minister Anand and her Turkish counterpart ahead of a NATO summit. The move signifies Canada's efforts to leverage its nuclear industry expertise for international trade and to diversify its economic partnerships.",
+      "graph": ["International Trade", "Nuclear Technology", "Foreign Policy", "Candu Reactors", "Uranium Exports"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May raise concerns about nuclear proliferation risks, environmental impacts of uranium mining, or ethical considerations of selling advanced technology to a country like Turkey." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the economic benefits for Canada's nuclear industry, the geopolitical implications of strengthening ties with a NATO ally, and the regulatory framework for nuclear exports." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports such initiatives as boosting Canadian industry, creating jobs, and asserting Canada's presence on the global stage, emphasizing economic growth and national interest." }
+        },
+        "neutral": "Canada is actively promoting its Candu nuclear reactor technology and uranium exports to Turkey, a move discussed between foreign ministers to strengthen economic and strategic ties."
+      }
+    },
+    {
+      "id": "tgam-politics-insider-24sussex-alberta-bc-20260626",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Politics Insider: PM Carney Kicks Off 24 Sussex Renovation Competition, Alberta Seeks Project Deal",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-its-makeover-time-for-24-sussex-dr/",
+      "summary": "Prime Minister Mark Carney has officially launched a design competition for the renovation of 24 Sussex Drive, emphasizing its symbolic importance while declining to specify a budget. Concurrently, the federal government is reportedly close to a major projects agreement with British Columbia. Separately, Alberta is expected to propose a West Coast pipeline deal, contingent on a simultaneous agreement for the 'Pathways' carbon-capture project, which Ottawa links to its environmental credibility and economic diversification strategy away from the U.S.",
+      "graph": ["Official Residence Renovation", "Interprovincial Agreements", "Energy Infrastructure", "Carbon Capture", "Federal Economic Strategy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the lack of transparency on the 24 Sussex budget, and environmental concerns around the pipeline/carbon-capture deal, pushing for greater environmental protection and social equity." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on concurrent federal political developments, including the PM's residence renovation and complex interprovincial negotiations on energy and environment, highlighting the political balancing acts involved." },
+          "right": { "label": "Conservative Context", "synthesis": "Likely supports the pipeline project for economic growth and energy independence but may criticize the federal government's conditions (e.g., carbon capture) as burdensome. May also be skeptical of government-led renovation projects." }
+        },
+        "neutral": "Prime Minister Carney has initiated a design competition for the 24 Sussex Drive renovation, and simultaneously, the federal government is negotiating significant infrastructure and energy deals with British Columbia and Alberta, linking a proposed West Coast pipeline to a carbon-capture project."
+      }
+    },
+    {
+      "id": "globalnews-canada-embassies-20260626",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "Canada Maintains No Plans to Reopen Embassies in Venezuela and Iran Despite Diplomatic Disadvantage",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11940238/canada-iran-venezuela-embassy/",
+      "summary": "Foreign Minister Anand confirmed that Canada has no current intentions to re-establish diplomatic missions in Venezuela and Iran. Despite Prime Minister Mark Carney acknowledging that the absence of a diplomatic presence puts Canada 'at a disadvantage,' the government is not moving towards reopening embassies in these nations. This decision reflects Canada's ongoing foreign policy stance towards these regimes.",
+      "graph": ["Foreign Policy", "Diplomatic Relations", "International Sanctions", "Human Rights", "Geopolitics"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might advocate for diplomatic engagement as a means to foster human rights and democratic processes, even with challenging regimes. Could critique isolationist foreign policy." },
+          "center": { "label": "Procedural Context", "synthesis": "Explains the diplomatic rationale for maintaining or withdrawing missions, balancing geopolitical interests, security concerns, and human rights considerations." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports a firm stance against authoritarian regimes, prioritizing national security and values over diplomatic presence in certain challenging states. May see diplomatic absence as a strong signal." }
+        },
+        "neutral": "Foreign Minister Anand stated Canada has no immediate plans to reopen embassies in Venezuela and Iran, a position maintained despite Prime Minister Carney acknowledging the diplomatic disadvantages of such absences."
+      }
+    },
+    {
+      "id": "nationalpost-gordie-howe-donor-delay-20260413",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Allegations Surface Regarding Billionaire Donor's Influence on Trump's Delay of Gordie Howe Bridge Opening",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/trump-blocking-gordie-howe-bridge-opening-to-help-billionaire-donor-according-to-u-s-senate-hopeful-heres-who-they-are",
+      "summary": "Allegations have emerged from a U.S. Senate hopeful suggesting that former President Trump's delay in opening the Gordie Howe International Bridge is linked to a significant donation from the Maroun family, owners of the Ambassador Bridge. Matthew Maroun reportedly made a million-dollar donation to MAGA Inc. in January. This report raises questions about potential political influence impacting a major Canada-U.S. infrastructure project.",
+      "graph": ["Canada-U.S. Relations", "Infrastructure Projects", "Political Influence", "Cross-Border Trade", "Donor Politics"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Would highlight concerns about corporate lobbying, political corruption, and the undue influence of wealthy donors on public projects and international relations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual report of allegations and the impact on the Canada-U.S. relationship regarding critical infrastructure. Examines the processes of project development and political interference." },
+          "right": { "label": "Conservative Context", "synthesis": "Might frame the issue as a matter of American internal politics, or critique the efficacy of Canadian diplomacy in securing the project's completion without external interference." }
+        },
+        "neutral": "A U.S. Senate hopeful alleges that former President Trump's delay in opening the Gordie Howe Bridge is tied to a million-dollar donation from a billionaire family, raising concerns about political influence on a major Canada-U.S. infrastructure project."
       }
     }
   ],
   "charter": [
     {
-      "id": "f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1",
+      "id": "cbc-corrine-sparks-diversity-council-20260626",
       "category": "Charter",
-      "source": "The Globe and Mail",
-      "title": "Canada's Chief Accessibility Officer Drives Initiatives to Break Down Disability Barriers",
+      "source": "CBC News",
+      "title": "Federal Government Appoints Retired Judge Corrine Sparks to Diversity Council Following Criticism for Initial Omission of Black Representation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-stephanie-cadieux-aims-to-build-a-better-future-to-accommodate-all/",
-      "summary": "Stephanie Cadieux, Canada's Chief Accessibility Officer, is leading federal efforts to remove systemic barriers for people with disabilities. Her work aims to create a more inclusive future, directly aligning with and reinforcing the equality rights guaranteed under Section 15 of the Canadian Charter of Rights and Freedoms.",
-      "graph": ["Human Rights", "Accessibility", "Equality Rights", "Social Policy"],
+      "url": "https://www.cbc.ca/news/politics/black-council-member-added-9.7250993?cmp=rss",
+      "summary": "The federal government has appointed retired Judge Corrine Sparks, the first Black Nova Scotian woman to serve as a judge in Canada, to its Advisory Council on Rights, Equality and Inclusion. This appointment comes after significant criticism directed at Ottawa for initially failing to include any Black representatives on the council, which is tasked with combating racism and hate. Black advocates, including former MP Jean Augustine, expressed being 'tired of being an afterthought.' The council's initial mandate focused on antisemitism, leading to broader questions about its inclusivity and comprehensive approach to diversity issues.",
+      "graph": ["Diversity and Inclusion", "Advisory Council", "Racial Representation", "Anti-Racism Initiatives", "Judicial Appointment"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports government intervention and social programs to ensure universal accessibility, advocating for a proactive approach to dismantle systemic discrimination and promote full participation for all individuals." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the implementation and enforcement of the Accessible Canada Act, the practical challenges and solutions for barrier removal, and the collaborative efforts required across various sectors to achieve accessibility goals." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes individual choice and market-based solutions for accessibility, potentially raising concerns about regulatory burden on businesses or the scope and cost of government mandates." }
+          "left": { "label": "Progressive Context", "synthesis": "Praises the inclusion of a Black representative, but may critique the government's initial oversight as indicative of systemic issues in diversity initiatives. Advocates for more proactive, equitable representation." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports the government's response to public and advocate pressure, detailing the specific appointment and the council's evolving mandate. Focuses on the process of appointing and reforming advisory bodies." },
+          "right": { "label": "Conservative Context", "synthesis": "May view the appointment as a politically motivated response to 'woke' criticism rather than a principled decision. Some might question the existence or mandate of such identity-based councils, or the criteria for appointments." }
         },
-        "neutral": "The role of Canada's Chief Accessibility Officer and related federal initiatives are critical for advancing the equality rights of people with disabilities, reflecting an ongoing commitment to a more inclusive society under the Charter."
+        "neutral": "The federal government appointed retired Judge Corrine Sparks, Canada's first Black woman judge, to its Advisory Council on Rights, Equality and Inclusion, following public criticism regarding the council's initial lack of Black representation."
       }
     },
     {
-      "id": "a0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5",
+      "id": "nationalpost-anti-hate-laws-20260627",
       "category": "Charter",
       "source": "National Post",
-      "title": "Prime Minister Carney Comments on MAID Policy Direction Amidst Expansion Report",
+      "title": "Prominent Non-Jewish Canadians Urge Stricter Enforcement of Anti-Hate Laws to Combat Rising Antisemitism",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/politics/direction-is-clear-on-maid-carney-says-after-report-recommends-against-expansion",
-      "summary": "Prime Minister Mark Carney stated that the 'direction is clear' on Medical Assistance in Dying (MAID) policy, following a report that advised against its further expansion. This pronouncement addresses a deeply sensitive and legally complex issue with significant implications for individual autonomy, dignity, and the right to life, which have been fundamental to previous Charter challenges.",
-      "graph": ["Medical Ethics", "Right to Life", "Personal Autonomy", "Government Policy"],
+      "url": "https://nationalpost.com/news/leading-non-jewish-canadians-condemn-antisemitism-in-open-letter-call-for-stricter-enforcement-of-anti-hate-laws",
+      "summary": "Sixty-six prominent non-Jewish Canadians, including business leaders and former politicians, have signed an open letter condemning antisemitism and advocating for stricter enforcement of existing anti-hate laws. This collective statement signals significant concern among Canadian elites regarding the rise of anti-Jewish hatred and calls for governmental action within the legal framework to address it. This aligns with broader national discussions on hate speech and social cohesion.",
+      "graph": ["Antisemitism", "Anti-Hate Legislation", "Freedom of Speech", "Social Cohesion", "Public Advocacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for broadening MAID access as an affirmation of personal autonomy and human dignity, potentially critiquing any legislative or policy restrictions that limit individual choice in end-of-life decisions." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the ethical and legal frameworks governing MAID, the legislative process for reviewing and amending policy, and the balance required between protecting vulnerable individuals and respecting personal choice." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the sanctity of life, expresses caution or opposition to MAID expansion, and raises concerns about potential abuse or the protection of vulnerable persons in end-of-life care." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports calls to combat antisemitism and strengthen anti-hate laws, seeing it as crucial for protecting vulnerable communities and promoting inclusivity." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and societal debate surrounding hate speech and its regulation, examining the balance between freedom of expression and protection from hate." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports condemnation of antisemitism but may express caution about 'stricter enforcement' if it infringes on free speech or targets specific political viewpoints. Some might critique the perceived selective enforcement of hate laws." }
         },
-        "neutral": "The Prime Minister's remarks on the direction of MAID policy, particularly after a report recommending against expansion, highlight the ongoing societal and legal debate surrounding end-of-life choices and their intersection with Charter-protected rights."
+        "neutral": "A group of 66 prominent non-Jewish Canadians, including business and former political leaders, have published an open letter condemning antisemitism and advocating for more stringent enforcement of existing anti-hate legislation."
+      }
+    },
+    {
+      "id": "nationalpost-jedwab-multiculturalism-antisemitism-20260627",
+      "category": "Charter",
+      "source": "National Post",
+      "title": "Opinion: Antisemitism Contradicts Principles of Canadian Multiculturalism and Requires Vigilance",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/antisemitism-flies-in-the-face-of-canadian-multiculturalism",
+      "summary": "Jack Jedwab argues in this opinion piece that antisemitism is fundamentally incompatible with the principles of Canadian multiculturalism. He urges vigilance against efforts to appropriate Multiculturalism Day for political agendas that might tolerate or promote anti-Jewish hatred. The piece positions the fight against antisemitism as integral to Canada's national identity and commitment to diversity and inclusion, implicitly connecting to Charter values of equality and freedom from discrimination.",
+      "graph": ["Antisemitism", "Multiculturalism", "Canadian Values", "Hate Speech", "Social Inclusion"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports the premise that antisemitism undermines multiculturalism and aligns with calls for inclusive policies and anti-discrimination efforts." },
+          "center": { "label": "Procedural Context", "synthesis": "Acknowledges the tension between diverse viewpoints and the need to combat hatred within a multicultural framework, focusing on the social and civic aspects of the debate." },
+          "right": { "label": "Conservative Context", "synthesis": "While condemning antisemitism, some might critique the 'multiculturalism' framework itself or perceive some anti-racism efforts as overly prescriptive or politically charged, potentially impinging on free expression." }
+        },
+        "neutral": "An opinion piece by Jack Jedwab asserts that antisemitism directly opposes Canadian multiculturalism, advocating for protection against political appropriations of national celebrations that could normalize anti-Jewish sentiment."
+      }
+    },
+    {
+      "id": "thehub-activist-academy-anti-zionism-20260626",
+      "category": "Charter",
+      "source": "The Hub",
+      "title": "Opinion: Critiquing Canada's Academia for Shift Towards Activism and Rise of Anti-Zionism",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/06/26/canadas-activist-academy-and-the-rise-of-anti-zionism/",
+      "summary": "This opinion piece by Peter L. Biro critiques Canadian universities, specifically referencing his resignation from Massey College, for what he perceives as a shift from 'truth-seeking' to activism. He argues that this phenomenon is exemplified by the 'meteoric rise of anti-Zionism,' which he describes as a transmuted form of hatred that has become an established social science paradigm. The author contends that this trend undermines democratic principles and fosters epistemic polarization within society, calling into question academic freedom and the integrity of intellectual discourse.",
+      "graph": ["Academic Freedom", "Anti-Zionism", "Freedom of Expression", "Higher Education Policy", "Antisemitism"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May view anti-Zionism as a legitimate political critique of Israeli policies rather than a form of antisemitism. Supports academic freedom to discuss complex geopolitical issues, even if controversial." },
+          "center": { "label": "Procedural Context", "synthesis": "Explores the tension between academic freedom, institutional neutrality, and the need to address hate speech. Focuses on the debate around the boundaries of acceptable discourse in academic settings." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly critiques academic 'activism' and the rise of anti-Zionism, viewing it as ideological bias and a threat to intellectual rigor and free speech, particularly when it targets Jewish identity or Israel." }
+        },
+        "neutral": "An opinion piece criticizes Canadian academia for a perceived shift from truth-seeking to activism, exemplified by the rise of anti-Zionism, arguing this trend contributes to societal polarization and challenges foundational democratic values."
       }
     }
   ],
-  "indigenous": [],
+  "indigenous": [
+    {
+      "id": "torontosun-smol-bilkszto-decolonizing-20260627",
+      "category": "Indigenous",
+      "source": "Toronto Sun",
+      "title": "Opinion: Reflecting on Richard Bilkszto's Opposition to 'Woke Decolonizing Indoctrination' Amidst Canada Day Discourse",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/opinion/columnists/remember-richard-bilkszto-brave-stand-against-woke-decolonizing-indoctrination-canada-day",
+      "summary": "This opinion column by Candice Malcolm revisits the case of Richard Bilkszto, a Toronto teacher and principal whose suicide in 2023 was controversially linked to workplace 'anti-racism' training. The article frames Bilkszto's stand against what it terms 'woke decolonizing indoctrination' as a brave act, particularly relevant around Canada Day. It highlights ongoing debates about curriculum, historical narratives, and the impact of diversity and inclusion initiatives on individuals in educational settings, touching on broader issues of Indigenous relations and Canadian identity.",
+      "graph": ["Decolonization Debate", "Education Policy", "Anti-Racism Training", "Freedom of Expression", "Indigenous Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Would likely critique the framing of 'decolonizing indoctrination,' emphasizing the importance of truth and reconciliation and anti-racism education, and possibly seeing Bilkszto's case as a symptom of resistance to necessary social change." },
+          "center": { "label": "Procedural Context", "synthesis": "Acknowledges the complexities of implementing anti-racism and decolonization initiatives in education, and the challenges of balancing diverse perspectives while addressing historical injustices." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly aligns with the column's critique, viewing 'woke' and 'decolonizing' efforts as ideological overreach, harmful to traditional Canadian values, and detrimental to free speech. Sympathizes with Bilkszto's position as a stand against perceived indoctrination." }
+        },
+        "neutral": "An opinion piece calls for remembrance of Richard Bilkszto's opposition to 'woke decolonizing indoctrination' in education, linking his 2023 suicide to the broader contentious debate over anti-racism training and its impact on Canadian identity and discourse, particularly around Canada Day."
+      }
+    }
+  ],
   "criminal": [
     {
-      "id": "b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0",
-      "category": "Criminal",
-      "source": "CBC News",
-      "title": "Ottawa Man Arrested on Immigration Charges for Alleged Role in Rwandan Genocide",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-man-wanted-rwandan-genocide-arrested-9.7249058?cmp=rss",
-      "summary": "RCMP have arrested a 68-year-old Ottawa man, alleged to have lived in Canada under a false identity for three decades, on 16 charges under the Immigration and Refugee Protection Act. He is wanted in Rwanda for his alleged involvement in the 1994 genocide, a case that required extensive international cooperation.",
-      "graph": ["War Crimes", "Immigration Fraud", "International Justice", "RCMP Investigation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes Canada's commitment to international human rights and ensuring accountability for severe atrocities, while also highlighting the importance of due process for accused individuals." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the meticulous investigative work of the RCMP, the complexities of international legal cooperation, and the application of Canada's immigration laws to ensure justice." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for strict enforcement of immigration laws and severe penalties for identity fraud, supporting aggressive pursuit of individuals accused of war crimes to uphold national security and justice." }
-        },
-        "neutral": "The arrest of an individual wanted for alleged involvement in the Rwandan genocide on Canadian immigration charges highlights Canada's commitment to international justice and the integrity of its immigration system."
-      }
-    },
-    {
-      "id": "c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1",
+      "id": "torontosun-mississauga-double-slaying-20260627",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Two Hamilton Women Charged with Assault in Connection to Escalator Fatality",
+      "title": "Police Intensify Manhunt for Son Suspected in Mississauga Double Homicide as Family Prepares for Funerals",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/man-dies-escalator-hamilton-women-charged-assault-parking",
-      "summary": "Two women from Hamilton have been charged with assault following a parking dispute that tragically led to a man's death in an escalator fall. This incident is part of broader local news coverage on public safety and crime.",
-      "graph": ["Assault", "Homicide Investigation", "Public Safety", "Local Crime"],
+      "url": "https://torontosun.com/news/local-news/family-prepares-bury-mississauga-couple-son-wanted-double-slaying-eludes-capture",
+      "summary": "The family of a Mississauga couple is preparing for their funerals while police continue a manhunt for their son, Jordan Sangwin, who is wanted for the double slaying. Authorities nearly apprehended Sangwin in Etobicoke. This ongoing investigation highlights severe violent crime within a domestic context and the challenges faced by law enforcement in apprehending suspects.",
+      "graph": ["Double Homicide", "Manhunt", "Law Enforcement", "Violent Crime", "Domestic Incident"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Explores the underlying social factors contributing to escalated conflicts, emphasizes community-based crime prevention, and supports restorative justice approaches." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the police investigation procedures, the legal process for charging and prosecution, and the broader aim of maintaining public order and safety." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for strict law enforcement, accountability for violent acts, and a strong stance against public disturbances and assaults to deter future crime." }
+          "left": { "label": "Progressive Context", "synthesis": "May focus on the societal factors contributing to domestic violence and the need for support systems, as well as the efficacy of police response in such cases." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the details of the ongoing criminal investigation, the police efforts, and the tragic circumstances of the victims." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for swift justice and effective police action to ensure public safety and hold perpetrators of violent crime accountable." }
         },
-        "neutral": "The charging of two individuals in relation to an escalator fatality stemming from a parking dispute underscores the tragic consequences of escalating minor conflicts and the ongoing efforts of law enforcement."
+        "neutral": "Family members are making funeral arrangements for a Mississauga couple murdered in a double slaying, as police continue their pursuit of the couple's son, Jordan Sangwin, who is the primary suspect and remains at large despite a recent near-apprehension."
       }
     },
     {
-      "id": "d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2",
+      "id": "torontosun-crime-hunter-internet-murder-20260627",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Police Continue Manhunt for Jordan Sangwin, Suspect in Port Credit Double Murder",
+      "title": "Crime Hunter: Examining the Role of Online Interactions in a Reported Internet Murder Case",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/new-images-released-murder-accused-jordan-sangwin",
-      "summary": "Authorities are continuing an intensive manhunt for Jordan Sangwin, 46, who is suspected of the double murder of his parents in Port Credit on June 18. New images have been released, and police believe he is hiding near High Park, with the search now entering its tenth day.",
-      "graph": ["Murder Investigation", "Law Enforcement", "Public Safety", "Fugitive Search"],
+      "url": "https://torontosun.com/news/world/crime-hunter-did-online-sex-chats-drive-wife-to-first-internet-murder",
+      "summary": "This 'Crime Hunter' column delves into the murder of Bruce Miller, focusing on the speculative role of online sex chats in motivating his wife to commit the crime. The case involves Miller being shot in his auto salvage yard, with subsequent investigation pointing towards his spouse. The narrative explores the darker implications of online interactions and their potential connection to violent crime, presenting a true crime analysis.",
+      "graph": ["Murder Investigation", "Online Activity", "True Crime", "Domestic Crime", "Forensic Psychology"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the social impact of violent crime on communities, potentially highlighting the need for support services for victims' families and addressing root causes of violence." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the efficiency and thoroughness of the police investigation, the cooperation between different law enforcement units, and the legal framework for apprehending suspects." },
-          "right": { "label": "Conservative Context", "synthesis": "Demands swift apprehension and justice for violent offenders, advocating for increased police resources and a strong emphasis on maintaining public safety and order." }
+          "left": { "label": "Progressive Context", "synthesis": "Might explore the psychological and sociological factors influencing such crimes, potentially linking online behaviors to broader issues of addiction, isolation, or exploitation." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the facts of the crime and investigation, focusing on the evidence and the narrative without extensive ideological commentary." },
+          "right": { "label": "Conservative Context", "synthesis": "Focuses on the individual responsibility for criminal acts, often emphasizing the depravity of the crime and the need for punishment, while possibly highlighting the moral decay associated with certain online activities." }
         },
-        "neutral": "An ongoing intensive police manhunt for a double murder suspect highlights the serious nature of violent crime and the dedication of law enforcement agencies to ensure public safety."
-      }
-    },
-    {
-      "id": "e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3",
-      "category": "Criminal",
-      "source": "Slaw",
-      "title": "Legal Commentary Proposes 'Forum Shopping' as Solution for Court Delays and Backlogs",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/26/forum-shopping-could-fix-the-delay-problem/",
-      "summary": "A legal commentary argues that 'forum shopping' within a province should be reconsidered as a legitimate strategy to alleviate chronic court delays and backlogs, particularly in criminal litigation. The piece suggests that allowing litigants to choose jurisdictions with faster trial times could improve judicial efficiency and address the inconsistency in access to justice across different court locations.",
-      "graph": ["Access to Justice", "Judicial Efficiency", "Court Administration", "Procedural Law"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for systemic reforms to ensure equitable access to justice for all, criticizing court delays as a barrier to fairness and potentially disproportionately affecting vulnerable populations, thus supporting creative solutions like managed forum shopping." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the practicalities and implications of procedural changes in court administration, seeking efficient solutions to case backlogs while maintaining legal consistency and judicial integrity across jurisdictions." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports reforms that enhance efficiency and reduce costs within the justice system, potentially critiquing bureaucratic inefficiencies that lead to delays and endorsing market-like mechanisms if they can improve service delivery." }
-        },
-        "neutral": "The suggestion to leverage 'forum shopping' as a mechanism to mitigate court delays addresses a critical issue in Canadian judicial administration, aiming to enhance the efficiency and consistency of the justice system."
+        "neutral": "A crime column investigates the murder of Bruce Miller, exploring the alleged connection between his wife's online sex chats and her purported motivation to commit the crime, highlighting the role of digital interactions in criminal cases."
       }
     }
   ],
   "immigration": [
     {
-      "id": "f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4",
+      "id": "globalnews-haitian-asylum-seekers-20260627",
       "category": "Immigration",
-      "source": "CBC News",
-      "title": "Alleged Rwandan Genocide Participant Arrested in Ottawa on Immigration and Identity Fraud Charges",
+      "source": "Global News",
+      "title": "Advocate Warns of Anticipated New Wave of Haitian Asylum Seekers to Canada from U.S.",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-man-wanted-rwandan-genocide-arrested-9.7249058?cmp=rss",
-      "summary": "RCMP have arrested a 68-year-old man in Ottawa, suspected of living in Canada under a false identity for 30 years. He faces 16 charges under the Immigration and Refugee Protection Act and is wanted in Rwanda for his alleged involvement in the 1994 genocide, demonstrating international cooperation in upholding immigration integrity and justice.",
-      "graph": ["Immigration Law", "Identity Fraud", "War Crimes", "Border Security"],
+      "url": "https://globalnews.ca/news/11941420/more-haitian-asylum-seekers/",
+      "summary": "A Montreal-based advocate for asylum seekers predicts an increase in Haitian nationals attempting to enter Canada from the United States. This forecast suggests potential future challenges for Canada's immigration system and border management, particularly concerning the influx of individuals seeking asylum.",
+      "graph": ["Asylum Seekers", "Haitian Migration", "Border Management", "Immigration Policy", "Humanitarian Aid"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights Canada's moral obligation to not be a safe haven for alleged perpetrators of atrocities, while also ensuring due process and human rights are upheld for all individuals within the legal system." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the strict application of Canada's immigration and refugee protection laws, the complexities of verifying identity and background, and the need for robust international cooperation in such cases." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for strong border security and stringent immigration controls to prevent individuals with problematic backgrounds from entering or remaining in Canada under false pretenses, prioritizing national security." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for compassionate and efficient processing of asylum claims, potentially criticizing restrictive border policies and emphasizing Canada's humanitarian obligations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the logistical and resource challenges for immigration authorities, the legal framework for asylum, and the geopolitical factors driving migration." },
+          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about border security, the capacity of the immigration system, and the economic impact of increased asylum claims. Advocates for stricter controls or quicker processing to manage flows." }
         },
-        "neutral": "The arrest of an alleged Rwandan genocide participant on serious immigration charges underscores Canada's efforts to maintain the integrity of its immigration system and uphold international justice by preventing individuals accused of grave crimes from establishing residency under false pretenses."
+        "neutral": "A Montreal-based advocate indicates that Canada should anticipate a new wave of Haitian asylum seekers arriving from the United States, suggesting potential impacts on the country's immigration and border resources."
       }
     }
   ]
