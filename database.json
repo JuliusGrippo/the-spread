@@ -1,316 +1,372 @@
 {
   "federalism": [
     {
-      "id": "fed-alberta-separatism-appeal-win",
+      "id": "federalism-3",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Alberta Separatist Group Wins Partial Appeal Allowing Referendum Petition Verification",
+      "title": "What July 1 means for CUSMA, Canada's trade deal with the U.S. and Mexico",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-separatist-stay-free-petition-court-of-appeal-decision-9.7252814?cmp=rss",
-      "summary": "The Alberta Court of Appeal has partially overturned a lower court's decision, enabling the Chief Electoral Officer to resume verifying signatures for 'Stay Free Alberta's' referendum petition on provincial separation. While signatures can be counted and results reported publicly, the judge has prevented the results from being referred to the justice minister or lieutenant governor until the full appeal is heard, thereby delaying a potential constitutional referendum.",
-      "graph": ["Alberta separatism", "Provincial referendum", "Court of Appeal", "Constitutional law", "Provincial-federal relations"],
+      "url": "https://www.cbc.ca/news/politics/cusma-usmca-july-1-canada-us-mexico-trade-trump-tariffs-9.7253789?cmp=rss",
+      "summary": "Canadian officials are preparing for the critical July 1 review of CUSMA, where Canada and Mexico aim for a 16-year extension, but the U.S., under President Donald Trump, is pushing for renegotiation, creating uncertainty for the future of the trade agreement.",
+      "graph": ["CUSMA", "Trade Policy", "International Relations", "Canada-US-Mexico", "Donald Trump", "Economic Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives may view this development with concern, emphasizing the importance of national unity and stability within the Canadian federation, and potentially critiquing the legal avenues used to promote separatist agendas as divisive." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral and judicial analyses focus on the rule of law and the integrity of the electoral and appellate processes. The decision to allow verification while staying further action reflects a procedural balancing act, ensuring due process without prejudging the constitutional implications of the petition itself." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative and decentralist viewpoints often champion provincial autonomy and direct democracy. This partial win may be seen as a legitimate step for a province to assert its self-determination and allow its citizens' voices to be heard on fundamental questions of sovereignty." }
+          "left": { "label": "Progressive Context", "synthesis": "Concerns may focus on the potential for trade deals to impact labour standards, environmental regulations, or social programs, advocating for stronger protections and equitable benefits for all partners. Potential for renegotiation could be seen as an opportunity or a risk for progressive policy goals." },
+          "center": { "label": "Procedural Context", "synthesis": "The focus is on the established review mechanisms of CUSMA, the diplomatic efforts to navigate diverse national interests, and the procedural implications of extension versus renegotiation. Emphasizes stability and predictable international trade frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasis would be on national economic interests, ensuring fair trade terms, and potentially supporting renegotiation if it benefits Canadian industries. Skepticism of multinational agreements unless clearly advantageous to national sovereignty and market freedom." }
         },
-        "neutral": "The Alberta Court of Appeal's partial decision on the 'Stay Free Alberta' petition allows for the continuation of signature verification, reflecting a judicial balancing of democratic process and the need for full legal review before any constitutional referendum proceeds."
+        "neutral": "The trilateral review of CUSMA on July 1 poses a key decision point for Canada, the U.S., and Mexico regarding the trade agreement's future, with differing national positions on its extension or renegotiation."
       }
     },
     {
-      "id": "fed-green-home-retrofit-relaunch",
+      "id": "federalism-5",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Green Home Retrofit Program Relaunched with Provincial Administration",
+      "title": "Chong to finance, Duncan to foreign affairs in Conservative front bench shuffle",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/federal-green-home-retrofit-program-9.7252107?cmp=rss",
-      "summary": "Ottawa has relaunched the Canada Greener Homes Affordability Program (CGHAP) in Nova Scotia, Prince Edward Island, Quebec, and British Columbia, committing over $500 million (including $300 million federal funding). This revamped program targets low- and medium-income households, including renters, for energy efficiency upgrades, with administration now shifted to provincial governments, signifying a collaborative federal-provincial delivery model.",
-      "graph": ["Federal programs", "Climate policy", "Energy efficiency", "Provincial cooperation", "Intergovernmental funding", "Affordability"],
+      "url": "https://www.cbc.ca/news/politics/conservative-critic-shuffle-chong-finance-9.7253906?cmp=rss",
+      "summary": "Conservative Leader Pierre Poilievre has reshuffled his shadow cabinet, appointing long-serving MP Michael Chong as the new finance critic and Eric Duncan as foreign affairs critic, with a stated focus on addressing affordability concerns and revitalizing the party's front bench.",
+      "graph": ["Conservative Party", "Shadow Cabinet", "Canadian Politics", "Pierre Poilievre", "Affordability", "Parliamentary Affairs"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This relaunch is seen as a positive step towards climate action and social equity, addressing affordability issues for low-income households and promoting green initiatives. The shift to provincial administration could be viewed positively for local responsiveness." },
-          "center": { "label": "Procedural Context", "synthesis": "The focus is on effective intergovernmental cooperation and program delivery. Administering the program through provinces is a pragmatic approach to improve efficiency and reach, following previous program challenges, and emphasizes a partnership model." },
-          "right": { "label": "Conservative Context", "synthesis": "Concerns may be raised regarding federal spending, potential for bureaucratic overlap, and provincial autonomy in program design. While supporting energy efficiency, this side might prefer market-driven solutions or more direct provincial control over such initiatives." }
+          "left": { "label": "Progressive Context", "synthesis": "May view the shuffle as a strategic repositioning without fundamental policy shifts, or critique the Conservative focus on 'affordability' as potentially neglecting other social priorities. Scrutiny of new critics' past stances on social issues." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the internal organizational dynamics of the official opposition, focusing on changes in critic roles and their stated priorities in holding the government accountable. Analyzes the impact on parliamentary debate and legislative scrutiny." },
+          "right": { "label": "Conservative Context", "synthesis": "Framed as a strengthening of the party's capacity to challenge the government on economic issues like affordability, aligning with conservative principles of fiscal responsibility and smaller government. Highlights the promotion of experienced and new voices." }
         },
-        "neutral": "The federal government's relaunch of its green home retrofit program, with significant funding and a new provincial administration model, aims to enhance energy efficiency and affordability for targeted households across four provinces."
+        "neutral": "The Conservative Party has undertaken a significant reshuffle of its shadow cabinet, with key appointments aimed at sharpening the party's focus on economic issues and improving its opposition strategy."
       }
     },
     {
-      "id": "fed-cusma-checkpoint-trade-anxiety",
+      "id": "federalism-6",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "CUSMA Review Approaches Amidst Business and Labour Anxiety, Ontario Premier Engages US Lawmakers",
+      "title": "Feds to spend almost $700M on new RADARSAT Constellation Mission satellite",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/toronto/cusma-talks-checkpoint-businesses-unions-9.7250899?cmp=rss",
-      "summary": "As the Canada-U.S.-Mexico Agreement (CUSMA) enters its mandatory July 1 review, Canadian businesses and labour unions are apprehensive about potential U.S. tariff threats and the agreement's future. Ontario Premier Doug Ford's repeated trips to the U.S. reflect provincial efforts to influence federal trade policy, while Canadian negotiators reiterate the date is a review 'checkpoint,' not a hard deadline, with hopes for a renewed agreement.",
-      "graph": ["International trade", "CUSMA", "Canada-US relations", "Economic policy", "Provincial engagement", "Tariffs"],
+      "url": "https://www.cbc.ca/news/politics/radarsat-satellite-mission-replenishment-9.7253635?cmp=rss",
+      "summary": "The Liberal government is committing nearly $700 million to procure a new satellite for the RADARSAT Constellation Mission, aiming to bolster Canada's Arctic sovereignty, enhance surveillance capabilities, and support environmental monitoring as older satellites near end-of-life.",
+      "graph": ["Arctic Sovereignty", "National Security", "Space Program", "Defence Spending", "Remote Sensing", "Canadian Space Agency"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasis is placed on protecting Canadian workers and industries from detrimental trade policies. Unions highlight the need to defend sectors like auto, advocating for fair trade practices that prioritize labour standards and domestic economic stability over unfettered market access." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the diplomatic and economic strategies required to navigate complex international trade agreements. The objective is to maintain stability and predictability in Canada-U.S. relations, ensuring the CUSMA review proceeds pragmatically and avoids unnecessary disruptions." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes national economic interests and the stability of trade relationships. While seeking favorable trade terms, concerns exist about protectionist tendencies from the U.S. and the impact of uncertainty on business investment, advocating for strong federal action to secure Canadian market access." }
+          "left": { "label": "Progressive Context", "synthesis": "Focus on the environmental monitoring aspect, and ensuring ethical and peaceful use of space technology. May also question the allocation of funds to defence over social programs, but acknowledge the climate data benefits." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on government procurement, strategic national infrastructure investment, and the operational necessity of maintaining advanced surveillance capabilities for national and environmental interests. Emphasizes policy continuity and long-term planning." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports investments in national security and Arctic sovereignty, viewing it as essential for protecting Canada's borders and resources. May scrutinize cost-effectiveness and project timelines, but generally aligns with strong national defence." }
         },
-        "neutral": "The upcoming CUSMA review date is generating a mix of apprehension and strategic engagement from Canadian stakeholders, including the Ontario Premier, reflecting concerns over potential trade disruptions and the federal government's ongoing efforts to secure stable North American trade relations."
+        "neutral": "The federal government has allocated nearly $700 million for a new RADARSAT satellite to maintain and enhance Canada's capabilities in Arctic surveillance, national security, and environmental observation."
       }
     },
     {
-      "id": "fed-us-midterms-tariff-deal",
+      "id": "federalism-8",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Fundraising goal to restore 24 Sussex Drive set at $50M",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/rideau-cottage-fundraising-campaign-9.7253056?cmp=rss",
+      "summary": "A national fundraising campaign, led by the Rideau Hall Foundation, aims to raise $50 million for the restoration of 24 Sussex Drive, the Prime Minister's official residence, supplementing government funds and launching a design competition to address the long-neglected property.",
+      "graph": ["24 Sussex Drive", "Government Property", "Heritage Restoration", "Public-Private Partnership", "National Capital Commission", "Infrastructure Funding"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May raise questions about private influence in public assets and the priority of restoring a prime ministerial residence over other pressing social needs. Could advocate for transparent donor disclosure and public accountability for funds." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the government's approach to managing official residences, involving a hybrid funding model (public funds and private donations) and a design competition. Focuses on the logistical and administrative aspects of the restoration project." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports the restoration of national heritage properties, but may critique the reliance on private funding as an indictment of fiscal mismanagement or government inefficiency. Calls for stringent financial oversight." }
+        },
+        "neutral": "A national fundraising initiative, aiming for $50 million, has been launched by the Rideau Hall Foundation to finance the long-overdue restoration of 24 Sussex Drive, the official residence of the Prime Minister."
+      }
+    },
+    {
+      "id": "federalism-11",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Palestinian exhibit at human rights museum 'should be rectified': federal heritage minister",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/manitoba/marc-miller-palestinian-exhibit-9.7253020?cmp=rss",
+      "summary": "Federal Heritage Minister Marc Miller criticized the Canadian Museum for Human Rights' exhibit on displaced Palestinians, stating it failed to adequately identify Hamas as a terrorist organization and contained regrettable wording regarding the October 2023 attack, urging rectification and an update to the museum's oversight.",
+      "graph": ["Canadian Museum for Human Rights", "Cultural Policy", "Censorship Debate", "Middle East Conflict", "Federal Oversight", "Freedom of Expression"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Concerns about political interference in curatorial independence and academic freedom within a national institution. May emphasize the importance of presenting diverse perspectives on human rights issues, even if controversial, and resist government pressure on exhibit content." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the federal minister's role in overseeing national cultural institutions, the balance between curatorial autonomy and governmental accountability, and the museum's internal review processes. Focuses on governance and policy implementation." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the minister's intervention to ensure national institutions align with official government policy, particularly concerning designated terrorist organizations. Emphasizes accuracy and avoidance of content perceived as promoting a biased or anti-Canadian viewpoint." }
+        },
+        "neutral": "The federal Heritage Minister has called for the Canadian Museum for Human Rights to revise its Palestinian exhibit, specifically to include a clear designation of Hamas as a terrorist organization and to refine its description of the October 2023 attack."
+      }
+    },
+    {
+      "id": "federalism-16",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Canadian internal trade ministers recommit to direct-to-consumer alcohol sales after missing deadline",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-canadian-internal-trade-ministers-recommit-to-direct-to-consumer/",
+      "summary": "Despite missing an earlier federal deadline, Canadian internal trade ministers have reaffirmed their commitment to facilitating direct-to-consumer alcohol sales across provincial and territorial borders, aiming to reduce inter-provincial trade barriers and enhance economic flow.",
+      "graph": ["Internal Trade", "Alcohol Sales", "Interprovincial Barriers", "Economic Policy", "Federal-Provincial Cooperation", "Consumer Rights"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May support measures that benefit small producers and offer consumers more choice, but also raise concerns about potential impacts on provincial liquor board revenues or public health considerations related to alcohol accessibility." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the ongoing intergovernmental negotiations and policy harmonization efforts to dismantle internal trade barriers. Reports on the challenges and progress in achieving consensus among provinces and territories on economic integration." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for reducing trade barriers and fostering a more competitive internal market, emphasizing economic efficiency, consumer choice, and the removal of bureaucratic obstacles to business. Critical of government delays in implementing such reforms." }
+        },
+        "neutral": "Canadian internal trade ministers have reiterated their commitment to implementing direct-to-consumer alcohol sales across provincial lines, a measure intended to reduce trade barriers despite prior delays in its execution."
+      }
+    },
+    {
+      "id": "federalism-17",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Tariff Deal with U.S. Unlikely Before Midterm Elections, Says Former Canadian Trade Chief",
+      "title": "Carney says energy plan will unify Canada but \u2019emissions will be higher\u2019",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11943085/tariff-deal-unlikely-us-midterms-canadian-ex-trade-chief/",
-      "summary": "Steve Verheul, Canada's former chief trade negotiator, has indicated that a resolution to ongoing tariff disputes with the United States is improbable before the upcoming U.S. midterm elections. This assessment highlights the significant political influence on Canada-U.S. trade relations and suggests a period of continued uncertainty for Canadian industries reliant on cross-border trade.",
-      "graph": ["International trade", "Tariffs", "Canada-US relations", "Trade negotiations", "Political influence", "Economic policy"],
+      "url": "https://globalnews.ca/news/11944679/carney-energy-strategy-emissions-video/",
+      "summary": "Prime Minister Mark Carney unveiled an energy plan aimed at fostering national unity, acknowledging that it would lead to higher emissions compared to previous targets, citing affordability concerns and geopolitical realities as contributing factors to this policy shift.",
+      "graph": ["Energy Policy", "Climate Targets", "National Unity", "Economic Policy", "Prime Ministerial Statements", "Environmental Regulation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This forecast underscores the vulnerability of Canadian industries and workers to foreign political cycles, reinforcing arguments for diversified trade relationships and stronger domestic economic resilience against external shocks." },
-          "center": { "label": "Procedural Context", "synthesis": "From a neutral perspective, this is a realistic assessment of the political factors influencing trade negotiations. It emphasizes the need for Canadian diplomacy to continue to engage and prepare for various outcomes, adapting to the electoral calendar of its largest trading partner." },
-          "right": { "label": "Conservative Context", "synthesis": "A more conservative viewpoint might lament the lack of decisive action to secure trade certainty, potentially criticizing the current government's approach to international relations or advocating for more aggressive strategies to protect Canadian economic interests from U.S. political leverage." }
+          "left": { "label": "Progressive Context", "synthesis": "Likely to criticize the plan for compromising climate action and potentially weakening environmental commitments. Emphasis on the urgency of reducing emissions and investing in green energy, even if it entails economic adjustments." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the strategic adjustments in federal energy and climate policy, balancing economic factors like affordability and national unity with environmental goals. Examines the governmental rationale for modifying emissions targets and its broader policy implications." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports energy policies that prioritize economic growth, resource development, and national unity, even if it means adjusting climate targets. May view the shift as a pragmatic response to economic and geopolitical pressures, correcting previous overzealous environmental policies." }
         },
-        "neutral": "Canada's former chief trade negotiator projects that a tariff resolution with the U.S. is unlikely before the American midterm elections, underscoring the political influences on bilateral trade relations."
+        "neutral": "Prime Minister Carney has announced a new energy strategy prioritizing national unity, indicating that achieving affordability and addressing geopolitical factors will result in higher national emissions compared to prior governmental benchmarks."
       }
     },
     {
-      "id": "fed-joyal-scc-nomination-mps",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "Supreme Court Nomination: Glenn Joyal Undergoes Parliamentary Questioning",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11943038/glenn-joyal-mps-questions-supreme-court-of-canada/",
-      "summary": "Glenn Joyal, currently the Chief Justice of Manitoba's Court of King's Bench, is undergoing questioning by Members of Parliament regarding his nomination to the Supreme Court of Canada. This public scrutiny is a key part of the federal appointment process, allowing for examination of his judicial philosophy and its potential impact on national legal interpretations and the balance of federal-provincial judicial roles.",
-      "graph": ["Supreme Court", "Judicial appointments", "Federal judiciary", "Parliamentary scrutiny", "Rule of law", "Constitutional interpretation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive voices may focus on how the nominee's judicial philosophy aligns with evolving societal values, human rights, and the interpretation of the Charter, advocating for a bench that reflects Canada's diversity and commitment to social justice." },
-          "center": { "label": "Procedural Context", "synthesis": "The questioning process is viewed as a necessary step for transparency and accountability in judicial appointments. The focus is on the nominee's qualifications, experience, and commitment to judicial independence and the impartial application of law." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary might emphasize judicial restraint, adherence to originalist interpretations, and concerns about judicial activism. Scrutiny would center on the nominee's respect for parliamentary sovereignty and the distinct roles of federal and provincial courts." }
-        },
-        "neutral": "The parliamentary questioning of Supreme Court nominee Glenn Joyal marks a significant phase in the federal judicial appointment process, allowing for a public assessment of his qualifications and judicial approach."
-      }
-    },
-    {
-      "id": "fed-alberta-pipeline-test-confederation",
+      "id": "federalism-40",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Alberta's Pipeline Proposal Becomes Critical Test for Canadian Confederation",
+      "title": "Alberta\u2019s pipeline gambit puts Confederation\u2019s capacity to build to the test",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/29/albertas-pipeline-proposal-has-become-a-critical-test-of-confederation/",
-      "summary": "Alberta's plan for a bitumen pipeline to the West Coast is being framed as a crucial test for Canadian Confederation, highlighting deep-seated tensions over provincial resource development, climate policy, and Indigenous consultation. Despite federal government overtures towards major energy projects, the proposal is exposing existing fault lines and skepticism from environmental groups and First Nations, posing a challenge to national unity and investor confidence.",
-      "graph": ["Resource development", "Interprovincial disputes", "Indigenous rights", "Climate policy", "National unity", "Energy infrastructure", "Western alienation"],
+      "url": "https://thehub.ca/2026/06/30/albertas-pipeline-gambit-puts-confederations-capacity-to-build-to-the-test/",
+      "summary": "An editorial argues that Alberta's renewed push for a West Coast oil pipeline has become a crucial test of Canadian federalism, questioning the nation's capacity to approve and construct large-scale infrastructure projects amidst competing provincial and federal interests, and highlighting perceived national unity challenges.",
+      "graph": ["Alberta Politics", "Energy Infrastructure", "Federal-Provincial Relations", "National Unity", "Resource Development", "Confederation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the critical importance of environmental protection, climate commitments, and robust Indigenous consultation. Progressive viewpoints are likely to oppose projects that undermine climate goals or infringe on Indigenous sovereignty, prioritizing ecological integrity over resource extraction." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the need for effective governance, regulatory clarity, and a balanced approach to economic development that incorporates environmental stewardship and reconciliation. The challenge lies in mediating diverse interests within constitutional frameworks." },
-          "right": { "label": "Conservative Context", "synthesis": "Stresses provincial resource rights, economic sovereignty, and the national importance of energy infrastructure for economic growth and energy security. This perspective advocates for streamlined approval processes and views opposition as an impediment to national prosperity and Alberta's rightful role in Confederation." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques pipeline development as contributing to climate change and potentially infringing on Indigenous rights. Advocates for greater environmental assessment and Indigenous consent, seeing federal intervention as necessary for climate goals." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the policy and legal framework surrounding inter-provincial resource projects, focusing on jurisdictional issues, regulatory hurdles, and the mechanisms for federal-provincial dispute resolution. Reports on the balance of powers within the federation." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes provincial autonomy over natural resources and the economic imperative of pipeline development for national prosperity. Views federal delays or opposition as undermining provincial rights and stifling critical infrastructure, posing a threat to national unity." }
         },
-        "neutral": "Alberta's proposed pipeline project is increasingly seen as a significant challenge to the foundations of Canadian federalism, revealing ongoing tensions between provincial economic aspirations, environmental goals, and Indigenous rights."
+        "neutral": "Alberta's initiative to build a West Coast oil pipeline is presented as a significant challenge to Canadian federalism, testing the country's collective ability to facilitate large-scale infrastructure projects amidst complex intergovernmental dynamics."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-nl-parental-health-records",
+      "id": "charter-9",
+      "category": "Charter",
+      "source": "CBC News",
+      "title": "Judiciary must listen to ordinary people, says Supreme Court nominee Glenn Joyal",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/supreme-court-nominee-glenn-joyal-justice-committee-9.7253258?cmp=rss",
+      "summary": "Supreme Court nominee Justice Glenn Joyal, a self-described 'institutionalist,' emphasized the need for better public outreach and communication from the judiciary to restore trust, asserting the role of judges as guardians of the Constitution and judicial independence amidst increasing scrutiny of the justice system.",
+      "graph": ["Supreme Court of Canada", "Judicial Appointments", "Rule of Law", "Judicial Independence", "Constitutional Law", "Public Trust"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports judicial efforts to engage with the public and ensure accessibility to justice, potentially emphasizing that 'listening to ordinary people' should inform a progressive interpretation of Charter rights and social justice. May focus on the judiciary's role in protecting marginalized groups." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the principles of judicial independence and the rule of law as foundational to the Canadian legal system. Reports on the process of judicial appointments and the expressed philosophy of a nominee concerning judicial conduct and the judiciary's role within the constitutional framework." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes judicial restraint and adherence to the literal text of the Constitution, possibly viewing 'listening to ordinary people' through the lens of upholding democratic mandates against judicial overreach. Values the judiciary's role in maintaining order and traditional legal principles." }
+        },
+        "neutral": "Supreme Court nominee Glenn Joyal articulated a judicial philosophy centered on preserving institutional trust and independence through enhanced public communication, affirming the judiciary's role as constitutional guardians."
+      }
+    },
+    {
+      "id": "charter-21",
       "category": "Charter",
       "source": "National Post",
-      "title": "Newfoundland and Labrador Policy Blocking Parental Access to Children's Health Records Criticized",
+      "title": "Ben Woodfinden: The euthanize-the-mentally-ill crowd wants to override democracy",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/jamie-sarkonak-n-l-policy-blocking-parents-from-childrens-health-records-was-an-avoidable-mistake",
-      "summary": "An opinion piece highlights and criticizes Newfoundland and Labrador's provincial policy restricting parental access to their children's health records. This policy raises significant concerns regarding parental rights, the privacy rights of minors, and the fundamental integrity of the family unit, potentially leading to Charter challenges based on Sections 7 (life, liberty, and security of the person) or 15 (equality rights).",
-      "graph": ["Parental rights", "Privacy rights", "Child welfare", "Provincial policy", "Health records", "Section 7", "Section 15"],
+      "url": "https://nationalpost.com/opinion/the-euthanize-the-mentally-ill-crowd-wants-to-override-democracy",
+      "summary": "An opinion piece criticizes advocates for expanding Medical Assistance in Dying (MAID) to include mental illness, arguing that their pursuit of judicial mandates from the Supreme Court represents an attempt to circumvent democratic legislative processes and impose policy without broad public consensus.",
+      "graph": ["MAID Expansion", "Mental Health Policy", "Judicial Activism", "Parliamentary Sovereignty", "Bioethics", "Right to Die"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May support privacy for mature minors and child autonomy in healthcare decisions, balancing with parental guidance. Advocates for robust safeguarding of children's personal information and appropriate legal frameworks for access." },
-          "center": "Procedural Context",
-          "synthesis": "Analysis would focus on the legal framework for access to information, balancing the rights of parents to guide their children's upbringing with the evolving capacity and privacy interests of children, and ensuring procedural fairness in such policies."
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for individual autonomy and the right to choose, potentially viewing the expansion of MAID as a necessary step in evolving human rights and compassionate care. May criticize the framing of MAID as 'euthanasia' and emphasize the need for robust safeguards." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and constitutional debates surrounding MAID expansion, particularly the interplay between legislative authority and judicial interpretation of Charter rights. Focuses on the procedural propriety of policy development and oversight mechanisms." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly opposes the expansion of MAID, especially for mental illness, due to moral, ethical, and societal concerns. Critiques judicial intervention in policy as an overreach, advocating for democratic deliberation and emphasizing the sanctity of life and support for vulnerable persons." }
         },
-        "right": { "label": "Conservative Context", "synthesis": "Strongly emphasizes parental rights and the family unit's role in child-rearing, viewing state intervention or policies that restrict parental access to vital information as an overreach. Advocates for transparency and accountability in government policies affecting families." }
-      },
-      "neutral": "Newfoundland and Labrador's policy limiting parental access to children's health records has drawn criticism for its implications on parental and privacy rights, potentially prompting legal scrutiny under the Charter of Rights and Freedoms."
-    },
-    {
-      "id": "charter-corporate-dei-targets-study",
-      "category": "Charter",
-      "source": "The Hub",
-      "title": "Study Reveals Widespread Corporate DEI Targets and Mandatory Training in Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/29/study-finds-88-percent-of-canadas-largest-corporations-have-set-demographic-hiring-targets-96-percent-mandate-dei-training/",
-      "summary": "A study by the Aristotle Foundation for Public Policy found that 88% of Canada's largest publicly traded corporations have demographic hiring targets and 96% mandate DEI (diversity, equity, and inclusion) training. While overt discriminatory hiring was infrequent, the prevalence of DEI language correlated with identity-based hiring preferences in some sectors, raising questions about compliance with equality principles under the Charter, particularly Section 15.",
-      "graph": ["Equality rights", "Diversity & inclusion", "Employment equity", "Corporate policy", "Section 15", "Discrimination"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This reflects positive corporate steps towards addressing historical and systemic inequities, supporting proactive measures to achieve workplace diversity. The findings may encourage further initiatives to ensure equitable representation." },
-          "center": { "label": "Procedural Context", "synthesis": "Analysis would focus on the voluntary nature of these corporate policies versus their potential legal implications. It examines the balance between corporate social responsibility, market demands for diversity, and legal principles of non-discrimination in employment." },
-          "right": { "label": "Conservative Context", "synthesis": "Concerns are raised about 'reverse discrimination' and the potential for demographic targets to undermine merit-based hiring. This perspective views such policies as a form of ideological capture, potentially violating individual equality rights under the Charter." }
-        },
-        "neutral": "A recent study indicates that most large Canadian corporations have implemented demographic hiring targets and mandatory DEI training, highlighting a broad corporate adoption of diversity initiatives with potential implications for employment practices and equality principles."
+        "neutral": "An opinion column expresses strong opposition to the judicial expansion of Medical Assistance in Dying (MAID) to include mental illness, arguing that such moves bypass democratic legislative authority."
       }
     },
     {
-      "id": "charter-cmhr-nakba-exhibit-resignation",
+      "id": "charter-42",
       "category": "Charter",
       "source": "The Hub",
-      "title": "Trustee Resigns from Canadian Museum for Human Rights Over 'Nakba' Exhibit Controversy",
+      "title": "88 percent of Canada\u2019s biggest firms set demographic hiring targets. That should worry us",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/29/why-i-resigned-from-the-canadian-museum-for-human-rights/",
-      "summary": "A trustee resigned from the Canadian Museum for Human Rights (CMHR) due to concerns about the 'Palestine Uprooted: Nakba Past and Present' exhibit, alleging it presents an unbalanced and incomplete historical narrative. This incident highlights ongoing debates within public institutions about historical representation, freedom of expression, institutional impartiality, and the responsibility to present complex human rights narratives fairly to all Canadians, raising questions under Section 2(b) of the Charter.",
-      "graph": ["Freedom of expression", "Institutional impartiality", "Historical narrative", "Human rights education", "Section 2(b)", "Cultural sensitivity"],
+      "url": "https://thehub.ca/2026/06/29/88-percent-of-canadas-biggest-firms-set-demographic-hiring-targets-that-should-worry-us/",
+      "summary": "An editorial expresses concern over a study revealing that 88% of major Canadian corporations have explicit demographic hiring targets and mandatory DEI (Diversity, Equity, and Inclusion) training, suggesting these policies could undermine meritocracy and raise questions about fair hiring practices and potential reverse discrimination.",
+      "graph": ["Diversity Equity Inclusion", "Corporate Governance", "Hiring Practices", "Workplace Policy", "Meritocracy Debate", "Human Rights Law"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports the amplification of marginalized narratives and critical examination of historical injustices. Defends the right to present perspectives on events like the Nakba, emphasizing the importance of diverse voices in human rights discourse, even if controversial." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the museum's mandate for intellectual rigor, balanced curation, and transparent consultation processes. The controversy highlights governance challenges in presenting sensitive historical topics in a way that serves all communities and maintains public trust." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over one-sided historical accounts in national institutions and potential for politicization. Advocates for strict institutional neutrality and comprehensive historical context to avoid alienating segments of the population or promoting divisive narratives." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports DEI initiatives as crucial for correcting historical inequities and fostering inclusive workplaces. Argues that demographic targets, while not quotas, are necessary tools to ensure representation and systemic change, contributing to a more just society." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the implementation of corporate DEI policies, the legal implications of 'targets' versus 'quotas,' and their alignment with human rights legislation. Reports on the balance between promoting diversity and adhering to non-discrimination principles in hiring." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques DEI initiatives, particularly demographic targets, as potentially leading to 'reverse discrimination' and undermining merit-based hiring. Advocates for individual achievement and equal opportunity, rather than outcome-based equity, viewing such targets as an overreach of corporate social engineering." }
         },
-        "neutral": "A trustee's resignation from the Canadian Museum for Human Rights over an exhibit deemed unbalanced on the 'Nakba' highlights a national discussion on institutional impartiality, historical representation, and freedom of expression within public cultural spaces."
-      }
-    },
-    {
-      "id": "charter-slaw-forum-shopping-delay",
-      "category": "Charter",
-      "source": "Slaw",
-      "title": "Legal Blog Suggests Forum Shopping as Potential Solution for Court Delays",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/06/29/mondays-mix-656/",
-      "summary": "A legal blog on Slaw.ca, 'Forum Shopping Could Fix the Delay Problem,' explores whether litigants should be allowed to choose jurisdictions based on faster processing times. The piece argues that while courts typically disapprove of 'forum shopping,' allowing it could alleviate systemic delays and improve access to justice, drawing a parallel to patient choice in the medical system. This raises questions about the Charter right to a timely trial (Section 11(b)).",
-      "graph": ["Access to justice", "Court delays", "Judicial efficiency", "Legal reform", "Section 11(b)", "Fair trial"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for systemic changes to ensure equal access to timely justice for all, seeing delays as a barrier, particularly for vulnerable populations. Supports innovative solutions to uphold the Charter right to a speedy trial." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the practical and ethical implications of altering judicial procedures. While acknowledging the need for efficiency, a neutral stance considers the complexities of jurisdictional rules, resource allocation, and maintaining the integrity of the judicial system." },
-          "right": { "label": "Conservative Context", "synthesis": "May support individual autonomy in seeking legal recourse and reducing bureaucratic inefficiencies in the justice system. Could see 'forum shopping' as a market-driven approach to force systemic improvements in slow jurisdictions." }
-        },
-        "neutral": "A legal commentary suggests that allowing 'forum shopping' could be a pragmatic approach to mitigate court delays and enhance access to justice, prompting a re-evaluation of current judicial practices in light of systemic efficiency challenges and Charter rights."
+        "neutral": "A study indicates that a large majority of Canada's major corporations have adopted demographic hiring targets and mandatory DEI training, prompting debate on their impact on hiring practices and meritocratic principles."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "indigenous-first-nation-recycling-fight",
+      "id": "indigenous-1",
       "category": "Indigenous",
       "source": "The Narwhal",
-      "title": "Constance Lake First Nation Students Advocate for Return of Recycling Services",
+      "title": "Secwe\u0313pemc women are revitalizing hide tanning in B.C.",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/constance-lake-first-nation-recycling/?utm_source=rss",
-      "summary": "Students from Constance Lake First Nation in northern Ontario are leading an initiative to restore recycling services to their community, which were discontinued following the Doug Ford government's overhaul of the provincial Blue Box Program. This situation highlights a discrepancy in essential service provision and environmental equity issues for Indigenous communities affected by broader provincial policy changes.",
-      "graph": ["First Nations rights", "Environmental justice", "Provincial services", "Indigenous advocacy", "Self-determination", "Waste management"],
+      "url": "https://thenarwhal.ca/secwepemc-women-tan-deerhide/?utm_source=rss",
+      "summary": "Women from Simpcw First Nation in British Columbia are actively revitalizing traditional deer hide tanning through community workshops, a significant cultural practice that asserts Indigenous rights and ensures intergenerational knowledge transfer.",
+      "graph": ["Indigenous Culture", "Cultural Preservation", "Simpcw First Nation", "Traditional Knowledge", "Indigenous Rights", "Community Development"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Champions environmental justice and the right of Indigenous communities to equitable access to essential services. Supports Indigenous youth advocacy and highlights the need for provincial policies to consider impacts on First Nations." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the administrative challenges of harmonizing provincial service delivery models with the needs and governance structures of First Nations. Focuses on intergovernmental dialogue and practical solutions for service gaps." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize local responsibility for service provision or question the cost-effectiveness of extending certain programs to remote areas, advocating for locally-driven solutions or private sector involvement rather than mandated provincial services." }
+          "left": { "label": "Progressive Context", "synthesis": "Celebrates Indigenous cultural resurgence as a vital act of self-determination and reconciliation. Emphasizes the importance of supporting community-led initiatives that strengthen cultural identity, traditional knowledge, and the assertion of Indigenous rights against historical suppression." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on community-based cultural preservation efforts, acknowledging their significance within the broader context of Indigenous rights and reconciliation. Focuses on the logistical aspects of cultural workshops and their role in intergenerational knowledge transfer." },
+          "right": { "label": "Conservative Context", "synthesis": "Appreciates cultural preservation efforts within communities as long as they are self-funded and contribute to community well-being. May emphasize the importance of traditional skills for economic self-sufficiency, while generally being cautious about linking cultural practices directly to broader land claims or political rights without specific legal context." }
         },
-        "neutral": "Students in Constance Lake First Nation are campaigning for the re-establishment of recycling services, drawing attention to service disparities in Indigenous communities following changes to Ontario's provincial waste management program."
+        "neutral": "Secwe\u0313pemc women in British Columbia are leading community workshops to revitalize traditional deer hide tanning, strengthening cultural practices and promoting intergenerational knowledge transfer within the Simpcw First Nation."
       }
     },
     {
-      "id": "indigenous-tom-siddon-oka-nunavut",
+      "id": "indigenous-2",
+      "category": "Indigenous",
+      "source": "The Narwhal",
+      "title": "Big bank, First Nations support new direct air carbon capture project: documents",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/manitoba-deep-sky-support/?utm_source=rss",
+      "summary": "A proposed direct air carbon capture facility in Manitoba by Deep Sky has garnered support from First Nations, rural municipalities, and a major bank, as the company seeks provincial regulatory and power supply backing, despite critics' skepticism regarding the technology's efficacy, cost, and long-term environmental impacts.",
+      "graph": ["Carbon Capture Technology", "Climate Change Mitigation", "Indigenous Economic Development", "Manitoba", "Environmental Policy", "Energy Infrastructure"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May express cautious optimism about carbon capture if it aligns with genuine climate action and ensures equitable benefits for Indigenous communities without perpetuating resource exploitation. Strong scrutiny on environmental impact, true efficacy, and local community consent." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the project's development, including stakeholder engagement (First Nations, municipalities, corporations), regulatory approval processes, and the technical and economic viability claims. Discusses the interplay of provincial and corporate support for new energy technologies." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports energy and infrastructure projects that promise economic development and contribute to resource sector growth, especially if they are commercially viable. May view First Nations support as a positive indicator for project approval, while downplaying environmental criticisms." }
+        },
+        "neutral": "A direct air carbon capture project in Manitoba has secured support from First Nations and financial institutions as it seeks provincial government approvals, despite ongoing skepticism regarding the technology's effectiveness and costs."
+      }
+    },
+    {
+      "id": "indigenous-7",
       "category": "Indigenous",
       "source": "CBC News",
-      "title": "Obituary Highlights Former Minister Tom Siddon's Role During Oka Crisis and Nunavut Creation",
+      "title": "Carney promises Arctic investment will benefit Inuit during meeting with leadership",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/tom-siddon-obituary-9.7252589?cmp=rss",
-      "summary": "The passing of former cabinet minister Tom Siddon, at 84, brings renewed attention to his tenure as Minister of Indian Affairs during the pivotal 1990 Oka Crisis and his contributions to the establishment of Nunavut. The article recalls the Oka Crisis as a defining moment for Indigenous land claims and federal-Indigenous relations in Canada, reflecting on both the historical challenges and advancements in self-governance.",
-      "graph": ["Oka Crisis", "Indigenous land rights", "Self-governance", "Nunavut", "Historical reconciliation", "Federal-Indigenous relations"],
+      "url": "https://www.cbc.ca/news/politics/carney-kuujjuaq-icpc-meeting-9.7252693?cmp=rss",
+      "summary": "During a historic visit to Kuujjuaq, Prime Minister Mark Carney assured Inuit leaders that significant federal investments in Arctic defence and infrastructure would be designed to benefit Inuit communities and culture, with a commitment to avoid past mistakes and ensure Inuit-led development and security initiatives.",
+      "graph": ["Arctic Policy", "Inuit Self-Determination", "National Defence", "Infrastructure Investment", "Crown-Indigenous Relations", "Nunavik"],
       "spectrum": {
-        "baseline": { "left": 38, "center": 32, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the historical injustices faced by Indigenous peoples, viewing the Oka Crisis as a stark example of systemic issues regarding land rights and the need for genuine reconciliation and recognition of Indigenous sovereignty. Critiques the state's historical responses." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the governmental processes and policy developments surrounding Indigenous affairs during Siddon's time, including the complex negotiations for Nunavut's creation and the federal government's role in land claims and crisis management. Seeks to provide factual historical context." },
-          "right": { "label": "Conservative Context", "synthesis": "May highlight the challenges of managing complex land disputes and the importance of national security and the rule of law during crises. While acknowledging historical grievances, it may prioritize pragmatic solutions and resource development, and commend achievements like Nunavut's establishment within the federal framework." }
+          "left": { "label": "Progressive Context", "synthesis": "Praises the focus on Inuit-led development and addressing past harms, emphasizing the need for genuine self-determination and benefits for communities over purely strategic or military interests. Stresses the importance of environmental protection and cultural preservation in Arctic development." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on high-level governmental engagement with Indigenous leadership, focusing on the mechanisms of the Inuit-Crown Partnership Committee and the allocation of federal funds for Arctic development. Examines policy objectives balancing national security with local community needs and input." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports strengthening Arctic sovereignty and defence, but may scrutinize the financial commitments and ensure they are efficient and effective. Advocates for practical infrastructure improvements that benefit all northern residents and contribute to national interests." }
         },
-        "neutral": "The obituary of former Minister Tom Siddon serves as a historical marker, prompting reflection on his involvement in the 1990 Oka Crisis and the creation of Nunavut, both pivotal events in Canada's ongoing Indigenous relations and self-governance journey."
+        "neutral": "Prime Minister Mark Carney met with Inuit leadership in Kuujjuaq, pledging that federal Arctic defence and infrastructure investments would directly benefit Inuit communities and cultures, fostering Inuit-led development and security."
       }
     }
   ],
   "criminal": [
     {
-      "id": "crim-cse-fentanyl-cyberattacks",
+      "id": "criminal-15",
       "category": "Criminal",
       "source": "The Globe and Mail",
-      "title": "Canada's Electronic Spy Agency Conducts Cyberattacks on Fentanyl Brokers",
+      "title": "Ontario jail guards call for support after coroner finds increased suicide in corrections",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canadas-electronic-spy-agency-conducted-cyberattacks-on-criminals/",
-      "summary": "A report indicates that the Communications Security Establishment (CSE), Canada's electronic spy agency, has engaged in cyberattacks against fentanyl brokers. This action signifies an expanded role for the CSE in international criminal interdiction, leveraging cyber capabilities to disrupt the supply chain of illicit drugs and address the ongoing opioid crisis, while operating under its national security mandate.",
-      "graph": ["National security", "Cyber warfare", "Drug trafficking", "Fentanyl crisis", "Law enforcement", "Intelligence agencies", "Opioid crisis"],
+      "url": "https://www.theglobeandmail.com/canada/toronto/article-ontario-jail-guards-call-for-mental-health-support-coroner-finds/",
+      "summary": "A coroner's report detailing a significant rise in suicides among Ontario correctional workers has prompted their union to demand enhanced mental health support and benefits, advocating for parity with police services to address the profound psychological hazards inherent in their profession.",
+      "graph": ["Correctional Services", "Mental Health Support", "Workplace Safety", "Suicide Prevention", "Public Sector Labour", "Ontario Justice System"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concerns may be raised about the scope of surveillance powers, potential for civil liberties infringements, and the 'war on drugs' approach. Advocates for harm reduction strategies and addressing underlying social determinants of health rather than purely punitive or cyber-enforcement measures." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and ethical frameworks governing intelligence agencies' operations, ensuring accountability and adherence to national and international law. Examines the efficacy and technical aspects of cyberattacks in disrupting criminal networks while managing risks." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports aggressive action against international drug trafficking and organized crime, including leveraging advanced intelligence capabilities. Prioritizes national security and public safety, viewing such cyberattacks as a necessary and effective tool to combat the fentanyl crisis." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive mental health resources and systemic reforms within correctional institutions to support workers. Highlights the need to address the root causes of stress and trauma in the workplace, and ensure equitable access to care for all public service employees." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the findings of a coroner's investigation into workplace suicides and the subsequent calls for policy changes and resource allocation. Focuses on the governmental response, union advocacy, and the implementation of mental health support programs within the public service." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports efficient and effective mental health programs for public safety personnel to maintain operational readiness. May emphasize personal responsibility alongside institutional support, and scrutinize the cost implications of expanded benefits while ensuring value for taxpayer money." }
         },
-        "neutral": "Canada's electronic spy agency has reportedly conducted cyberattacks targeting fentanyl brokers, indicating an expanded, proactive national security role in combating international drug trafficking and the opioid crisis."
+        "neutral": "Following a coroner's report on increased suicides among Ontario correctional workers, their union is demanding improved mental health support and benefits, comparable to those offered to police, to mitigate the psychological toll of their jobs."
       }
     },
     {
-      "id": "crim-cpa-violence-against-cops",
+      "id": "criminal-30",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Canadian Police Association President Calls for 'Wake Up Call' Amidst Violence Against Officers",
+      "title": "FIRST READING: Poilievre described a Canadian who fled to Mexico for safety. Here\u2019s why",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/unprecedented-violence-against-cops-is-a-wake-up-call-for-canada",
-      "summary": "Tom Stamatakis, President of the Canadian Police Association, has issued a 'wake-up call' to Canada, citing an 'epidemic of crime' and unprecedented levels of violence against police officers. His statement emphasizes urgent concerns about public safety, the protection of law enforcement personnel, and the overall state of the criminal justice system in the country.",
-      "graph": ["Police safety", "Crime rates", "Law enforcement", "Public safety", "Criminal justice system", "Police accountability"],
+      "url": "https://nationalpost.com/opinion/poilievre-described-a-canadian-who-fled-to-mexico-for-safety-heres-why",
+      "summary": "An opinion column highlights a case where a Canadian woman reportedly fled to Mexico seeking safety from an 'unrestrained attacker,' drawing implicit criticism on the effectiveness of the Canadian justice system to protect victims from repeat or persistent offenders and ensure public safety.",
+      "graph": ["Victim Protection", "Criminal Justice Effectiveness", "Public Safety", "Domestic Violence", "Legal System Failures", "Cross-Border Safety"],
       "spectrum": {
-        "baseline": { "left": 25, "center": 35, "right": 40 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While acknowledging concerns for officer safety, this perspective often calls for addressing the root causes of crime, such as poverty, mental health, and systemic inequality. It may also advocate for police reform and accountability measures alongside support for officers." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on data-driven analysis of crime trends, resource allocation for law enforcement, and judicial efficiency. Emphasizes maintaining public order and ensuring the safety of both citizens and police officers through evidence-based policy and fair judicial processes." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for a 'tough on crime' approach, increased support and resources for police, and stricter penalties for offenders. Views violence against officers as a breakdown of law and order that requires robust enforcement and judicial responses." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes systemic failures in victim support, domestic violence prevention, and justice accessibility for vulnerable individuals. Advocates for comprehensive social services, legal aid, and protective measures to ensure safety within Canada, rather than blaming the victim." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on specific cases that highlight perceived shortcomings or inefficiencies in the criminal justice system regarding victim protection and offender management. Discusses the legal and policy mechanisms intended to ensure public safety and their real-world application." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly critiques the justice system for perceived leniency towards criminals and a failure to adequately protect law-abiding citizens. Advocates for stricter sentencing, more robust enforcement, and policies that prioritize victim safety over offender rehabilitation, linking such failures to broader governmental shortcomings." }
         },
-        "neutral": "The Canadian Police Association President has voiced serious concerns over escalating violence against police and an 'epidemic of crime,' urging a national response to enhance public safety and officer protection within the criminal justice system."
+        "neutral": "A Canadian woman reportedly fled to Mexico for safety from an 'unrestrained attacker,' raising questions and implicit criticism regarding the Canadian criminal justice system's capacity to protect victims."
       }
     },
     {
-      "id": "crim-bc-drug-recriminalization-overdose",
+      "id": "criminal-41",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Opinion: B.C. Drug Recriminalization Linked to Falling Overdose Rates",
+      "source": "The Hub",
+      "title": "Justice delayed: Nearly 60% of violent crime cases are stayed or withdrawn in Canada",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/recriminalizing-drugs-might-have-something-to-do-with-b-c-s-falling-overdose-rate",
-      "summary": "An opinion piece argues that British Columbia's recent move to recriminalize drugs may be linked to a decrease in overdose deaths, suggesting that the province's earlier decriminalization policy contributed directly to a spike in fatalities. This commentary fuels the ongoing national debate concerning the most effective policy approaches—whether public health or criminal justice-led—to manage the complex opioid crisis.",
-      "graph": ["Drug policy", "Decriminalization", "Opioid crisis", "Public health", "Criminal law", "Provincial policy", "Harm reduction"],
+      "url": "https://thehub.ca/2026/06/30/justice-delayed-nearly-60-of-violent-crime-cases-are-stayed-or-withdrawn-in-canada/",
+      "summary": "A comprehensive analysis reveals that a staggering 60% of violent crime cases in Canada are terminated before trial due to excessive delays, a problem often linked to the Supreme Court's 'Jordan' decision, indicating a systemic failure in the timely administration of justice and impacting public confidence.",
+      "graph": ["Trial Delays", "Criminal Justice Reform", "Jordan Decision", "Court Efficiency", "Violent Crime Rates", "Public Accountability"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques a return to criminalization, advocating for evidence-based harm reduction, safe supply, and addressing the social determinants of addiction. Questions the causal link suggested, emphasizing that complex public health crises require comprehensive, compassionate solutions." },
-          "center": { "label": "Procedural Context", "synthesis": "Seeks objective data and rigorous analysis to assess the impact of different drug policies. Emphasizes the need for policy decisions to be informed by both public health outcomes and criminal justice effectiveness, avoiding ideological predispositions." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports law and order approaches, viewing recriminalization as a necessary step to deter drug use and reduce overdose deaths. Argues that permissive drug policies lead to negative societal outcomes and undermine public safety." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the impact of delays on victims and vulnerable communities, advocating for increased resources for legal aid, court administration, and alternative justice mechanisms. May critique the 'Jordan' decision if it's seen as prioritizing process over substantive justice for victims." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes statistical trends in criminal case outcomes, focusing on the operational efficiency of the court system and the impact of landmark judicial decisions like 'Jordan' on trial timelines. Reports on efforts to streamline processes and address resource constraints." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the failure of the justice system to prosecute violent crimes effectively, viewing excessive delays and withdrawn charges as a breakdown of law and order. Often attributes blame to judicial decisions or government underfunding, advocating for stricter adherence to timelines and increased resources for prosecutors and police." }
         },
-        "neutral": "An opinion column suggests a possible link between British Columbia's drug recriminalization efforts and a decline in overdose deaths, reigniting debate on optimal strategies for the opioid crisis, balancing public health and criminal justice approaches."
+        "neutral": "An analysis indicates that nearly 60% of violent crime cases in Canada are stayed or withdrawn before trial due to delays, a trend influenced by the Supreme Court's 'Jordan' decision, raising concerns about the efficiency of the criminal justice system."
+      }
+    },
+    {
+      "id": "criminal-43",
+      "category": "Criminal",
+      "source": "Slaw.ca",
+      "title": "\u201cRefs, You Suck!\u201d: Personal Attacks on Decision Makers",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/06/30/refs-you-suck-personal-attacks-on-decision-makers/",
+      "summary": "This legal commentary addresses the concerning rise of personal attacks against decision-makers, including judges and sports officials, and emphasizes the vital importance of judicial independence and the rule of law. It cites Supreme Court Chief Justice Richard Wagner's call for judges to speak out against such attacks.",
+      "graph": ["Judicial Independence", "Rule of Law", "Public Discourse", "Justice System Integrity", "Media Scrutiny", "Civility in Public Life"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Concerns about harassment and abuse in public discourse affecting all decision-makers, advocating for measures that promote respect and civil engagement while upholding accountability. Supports judicial independence as crucial for protecting rights." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and ethical implications of personal attacks on judicial figures, emphasizing the constitutional principle of judicial independence. Reports on institutional responses and official statements aimed at preserving the integrity and impartiality of the justice system." },
+          "right": { "label": "Conservative Context", "synthesis": "While supporting judicial independence, may emphasize the need for judges to remain impartial and avoid statements that could be perceived as politicized. Focuses on maintaining public order and respect for authority, while also allowing for legitimate criticism of judicial outcomes, not persons." }
+        },
+        "neutral": "A legal commentary discusses the growing issue of personal attacks against decision-makers, including judges, highlighting the critical importance of upholding judicial independence and the rule of law, as emphasized by the Supreme Court Chief Justice."
       }
     }
   ],
   "immigration": [
     {
-      "id": "imm-canadians-leaving-highest-rate",
+      "id": "immigration-4",
       "category": "Immigration",
-      "source": "The Hub",
-      "title": "Canadian Emigration Reaches Highest Rate Since 1950s, Driven by Affordability and Economic Factors",
+      "source": "CBC News",
+      "title": "Immigration Department suspends citizenship for 67 'lost Canadians' as it reviews program",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/29/canadians-and-permanent-residents-leaving-canada-at-highest-rate-since-1950s-over-150000-emigrated-in-last-5-quarters/",
-      "summary": "Statistics Canada data reveals a significant increase in emigration, with over 150,000 Canadian citizens and permanent residents departing in the past five quarters—a rate not seen since the early 1950s. This 'silent brain drain,' particularly of highly skilled workers to the U.S., is largely attributed to mounting economic and affordability pressures in Canada, posing a challenge to the country's economic competitiveness and long-term demographic stability.",
-      "graph": ["Emigration", "Brain drain", "Economic competitiveness", "Affordability crisis", "Demographic trends", "Skilled workers", "Permanent residents"],
+      "url": "https://www.cbc.ca/news/politics/lost-canadians-citizenship-certificates-9.7254266?cmp=rss",
+      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has suspended 67 citizenship certificates issued under the 'lost Canadians' legislation (Bill C-3) following an internal review that found \"unclear\" guidance on acceptable documentation, affecting approximately one percent of total certificates issued to date. The department is now reconfirming eligibility.",
+      "graph": ["Citizenship Policy", "IRCC Review", "Lost Canadians", "Bill C-3", "Immigration Law", "Administrative Error"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the urgency of addressing social welfare, housing affordability, and income inequality to retain talent. Calls for policies that create a more inclusive and supportive economic environment, ensuring Canada remains attractive to its citizens and newcomers." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on evidence-based analysis of demographic shifts and economic factors. Advocates for careful policy adjustments to immigration, taxation, and economic development to mitigate brain drain and maintain Canada's competitive edge, based on factual data." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for fiscal responsibility, tax reform, and a competitive business environment to retain skilled workers and entrepreneurs. Views high emigration as a symptom of over-taxation and excessive government spending, advocating for policies that foster economic freedom." }
+          "left": { "label": "Progressive Context", "synthesis": "Expresses concern for individuals whose citizenship is suspended, advocating for clear, fair, and accessible processes for 'Lost Canadians.' May critique bureaucratic inefficiencies or ambiguities in legislation that impact individuals' rights and status." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on an administrative review by IRCC concerning the issuance of citizenship certificates, detailing the identification of procedural ambiguities and the subsequent suspension of documents for re-evaluation. Focuses on the government's efforts to ensure compliance with legislative requirements." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports rigorous oversight and verification processes to maintain the integrity of Canadian citizenship. May highlight the need for strict adherence to documentation requirements and express concerns about potential security gaps or improper issuance of citizenship, demanding accountability from IRCC." }
         },
-        "neutral": "Canada is experiencing its highest emigration rate since the 1950s, with a notable outflow of citizens and permanent residents, particularly skilled workers, due to national economic and affordability challenges, raising concerns about long-term competitiveness."
+        "neutral": "The Immigration Department has suspended 67 citizenship certificates for 'Lost Canadians' issued under Bill C-3, citing unclear guidance on acceptable documentation, as part of an ongoing program review to verify eligibility."
       }
     }
   ]
