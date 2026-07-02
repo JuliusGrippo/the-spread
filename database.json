@@ -1,155 +1,309 @@
 {
   "federalism": [
     {
-      "id": "federalism-1",
+      "id": "a9e6b5d2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Prime Minister Carney Emphasizes National Unity Amid Alberta Separatism and US Trade Tensions",
+      "title": "B.C.-Ottawa Multibillion-Dollar Deal Upholds Tanker Ban, Expands Port Amid Pipeline Debate",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-praises-canadian-connection-9.7255277?cmp=rss",
-      "summary": "Prime Minister Mark Carney used Canada Day celebrations to deliver a message of unity and connection, acknowledging ongoing trade tensions with the United States and the looming Alberta independence referendum. He emphasized that the government is working with Alberta to strengthen the country. Former Prime Minister Justin Trudeau also echoed messages of national cohesion.",
-      "graph": ["National Unity", "Federal-Provincial Relations", "Alberta Separatism", "Canada-US Trade", "CUSMA", "Canada Day"],
+      "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
+      "summary": "The federal government, led by Prime Minister Mark Carney, reaffirmed the North Coast oil tanker ban as part of a multi-billion dollar Canada-British Columbia Cooperative Prosperity Agreement. This deal, announced with B.C. Premier David Eby, includes funding for mining, forestry, and upgrades to the Massey Tunnel and Port of Vancouver, effectively undercutting any potential new oil pipeline route to the region just hours before Alberta was to update its own pipeline proposal.",
+      "graph": [
+        "Federal-Provincial Relations",
+        "Energy Policy",
+        "Environmental Protection",
+        "Infrastructure Investment",
+        "Economic Development"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of inclusive national narratives and addressing socio-economic grievances that may fuel separatist movements, while also critiquing the federal government for potentially exacerbating divisions through certain policies." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the Prime Minister's efforts to maintain national cohesion through symbolic gestures and diplomatic engagement, highlighting the procedural aspects of federal-provincial relations and international trade negotiations." },
-          "right": { "label": "Conservative Context", "synthesis": "Views the Prime Minister's statements as necessary but potentially insufficient, highlighting legitimate provincial concerns regarding federal policies and criticizing federal overreach or economic strategies that might fuel separatist sentiments." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Prime Minister Mark Carney delivered a message of national unity and connection on Canada Day, acknowledging internal divisions such as the Alberta separatist movement and external pressures from US trade relations, with support echoed by former Prime Minister Justin Trudeau."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Praises federal-provincial cooperation on environmental protection and strategic infrastructure, aligning with climate action goals and regional development, supporting the tanker ban."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Views the agreement as a significant act of 'co-operative federalism,' balancing environmental concerns with economic prosperity through strategic investments and port expansion, highlighting complex intergovernmental relations."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May criticize the federal government's reaffirmation of the tanker ban as an impediment to national energy strategy and Alberta's resource export ambitions, potentially seeing it as political maneuvering that prioritizes environmental concerns over economic potential."
+          }
+        },
+        "neutral": "The federal government and British Columbia have signed a multi-billion dollar agreement affirming the North Coast oil tanker ban and investing in B.C.'s infrastructure and resource sectors, impacting Alberta's proposed pipeline."
       }
     },
     {
-      "id": "federalism-2",
+      "id": "e9c2b8c5",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Prime Minister Carney Criticizes Previous Climate Plan as Costly and Divisive, Announces Emissions Increase",
+      "title": "PM Carney's Canada Day Unity Speech in Edmonton Cancelled by Storms Amidst Separatist Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-trudeau-carbon-emissions-climate-change-9.7254619?cmp=rss",
-      "summary": "Prime Minister Mark Carney publicly stated that the previous Liberal government's climate plan was 'too expensive' for Canadians and 'too divisive' for the country. He indicated that his government's departure from key planks of that policy, such as the consumer carbon tax and oil/gas emissions cap, would lead to higher emissions in the short term. Environmental groups are suing the government over its climate strategy.",
-      "graph": ["Climate Policy", "Federal Policy", "Intergovernmental Relations", "Carbon Tax", "Emissions Targets", "Environmental Law", "Affordability"],
+      "url": "https://www.cbc.ca/news/canada/carney-alberta-canada-day-cancelled-9.7255600?cmp=rss",
+      "summary": "Prime Minister Mark Carney's planned Canada Day speech in Edmonton, intended to promote national unity amidst emerging separatist movements in Alberta and Quebec, was cancelled due to thunderstorms in Ottawa that grounded his plane. He had previously delivered a similar message in Ottawa, emphasizing Canada's founding principles of partnership and accommodation.",
+      "graph": [
+        "National Unity",
+        "Federal Politics",
+        "Regionalism",
+        "Canada Day",
+        "Separatist Movements"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highly critical of Carney's reversal on climate policies, viewing it as a capitulation to fossil fuel interests and a betrayal of Canada's environmental commitments. Emphasizes the legal challenges from environmental groups and the long-term societal costs of climate change inaction." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the shift in federal climate policy and the pragmatic arguments made by the Carney government regarding affordability and national unity. Notes the political and economic trade-offs inherent in climate action decisions." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports Carney's stance, arguing that the previous climate plan was detrimental to the economy and affordability. Advocates for policies that prioritize economic growth, energy exports, and provincial autonomy over strict emissions targets, especially when perceived as economically burdensome." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Prime Minister Mark Carney criticized the former government's climate plan as overly expensive and divisive, confirming that his administration's policy changes would result in higher short-term emissions, a move that has drawn legal challenges from environmental organizations."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the importance of federal efforts to foster national unity and address underlying causes of regional discontent, potentially advocating for inclusive policies."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the Prime Minister's efforts to project a message of unity on a national holiday, acknowledging the political challenges posed by regional separatist sentiments. The cancellation is a logistical event impacting symbolic outreach."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May highlight the symbolic significance of the cancelled Edmonton visit as an indicator of growing regional alienation, particularly in Alberta, and question the effectiveness of federal unity efforts in the face of strong provincial movements."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney's attempt to deliver a national unity speech in Edmonton on Canada Day was thwarted by weather, against a backdrop of rising separatist sentiments in Alberta and Quebec."
       }
     },
     {
-      "id": "federalism-3",
+      "id": "b3e6d1e5",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "CUSMA Renewal Deadline Passes, U.S. Tariffs Remain, Raising Economic Concerns for Canada",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/02/cusma-renewal-deadline-passed-u-s-tariffs-remain-what-it-means-for-canada-and-its-economy/",
+      "summary": "The mandatory review date for the Canada-United States-Mexico Agreement (CUSMA) passed without a renewal deal, as the U.S. administration formally declined to extend it, initiating a 10-year review process. This decision, driven by U.S. concerns over \"substantial issues\" and trade deficits, leaves CUSMA in limbo and raises questions about its long-term stability and impact on the Canadian economy, especially given Canada's recent trade deal with China on EVs.",
+      "graph": [
+        "International Trade",
+        "Canada-US Relations",
+        "Economic Policy",
+        "CUSMA",
+        "Tariffs",
+        "Foreign Policy"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates for Canada to maintain a strong negotiating stance, emphasizing protection of Canadian industries and workers, and potentially criticizing aggressive U.S. trade tactics. May highlight the need for diversified trade relations beyond the U.S."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the procedural and economic implications of the CUSMA review, focusing on Canada's negotiating position, the risks of instability for investment, and the ongoing need for diplomatic engagement to secure trade relations."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Critiques the lack of a swift CUSMA renewal as detrimental to Canadian economic certainty and foreign investment. May also critique Canada's recent China EV deal as undermining its position within CUSMA and potentially exacerbating U.S. trade concerns."
+          }
+        },
+        "neutral": "The CUSMA renewal deadline has passed without an extension from the U.S., triggering a 10-year review and raising concerns about trade stability and economic impacts for Canada amid ongoing tariff issues."
+      }
+    },
+    {
+      "id": "f8a7c2d1",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Opinion: Prime Minister Carney's National Narrative Under Scrutiny Amid Divisions",
+      "title": "PM Carney to Discuss Energy and Trade with Philippines President",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/opinion/article-who-does-mark-carney-prime-minister-think-we-are/",
-      "summary": "This opinion piece critically examines Prime Minister Mark Carney's overarching narrative about Canada, suggesting it serves a political purpose in uniting a 'large ethnically, geographically diverse country.' The article questions the efficacy of this narrative in the face of escalating US trade tensions (USMCA), rising Alberta and Quebec separatist movements, and cost-of-living concerns, arguing that the 'air-raid siren' of past threats has become chronic.",
-      "graph": ["National Identity", "Political Narrative", "Federalism", "Public Opinion", "Separatist Movements", "Canada-US Relations", "Economy"],
+      "url": "https://www.theglobeandmail.com/politics/article-carney-philippines-energy-trade-defence-tourism-mou/",
+      "summary": "Prime Minister Mark Carney is scheduled to meet with the President of the Philippines to discuss strengthening bilateral ties, particularly in areas of energy, trade, defense, and tourism. The discussions are expected to lead to the signing of several Memoranda of Understanding and joint agreements, signifying Canada's efforts to diversify its international partnerships.",
+      "graph": [
+        "International Relations",
+        "Trade Diplomacy",
+        "Bilateral Agreements",
+        "Energy Sector",
+        "Tourism",
+        "Foreign Policy"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Argues that national identity narratives often mask systemic inequalities or historical injustices, emphasizing the need for a more inclusive and critically self-aware national story that addresses complex social issues and reconciliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the role of political leaders in shaping national identity as a means of governance and maintaining stability, discussing the challenges of balancing diverse regional and cultural identities within a unified state." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports a strong national identity narrative as essential for national cohesion, especially when facing external pressures or internal divisions. May critique the perceived erosion of traditional Canadian values or the federal government's handling of provincial grievances." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "An opinion piece questions the effectiveness of Prime Minister Carney's national unity narrative in addressing persistent challenges such as US trade tensions, growing separatist movements in Alberta and Quebec, and rising cost-of-living concerns."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Supports strengthening ties with developing nations and diversifying trade, potentially viewing it as a move towards a more equitable and multipolar global engagement."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Highlights the pragmatic benefits of expanding diplomatic and economic relationships, focusing on mutual interests in energy security, trade growth, and geopolitical stability."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May view the initiative as a means to explore new markets and secure resources, aligning with a more proactive, interest-driven foreign policy, and potentially seeing it as a way to reduce reliance on traditional partners."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney will meet with the Philippines President to discuss expanded cooperation on energy, trade, defense, and tourism, aiming to sign new bilateral agreements."
       }
     },
     {
-      "id": "federalism-4",
+      "id": "c1e8d4a9",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Taxpayer Complaints Against Canada Revenue Agency Surge to Three-Year High",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/02/complaints-against-cra-jump-27-percent-to-3-year-high-taxpayers-ombudsperson-reports/",
+      "summary": "The Canada Revenue Agency (CRA) is facing a significant increase in complaints, rising 27% to a three-year high of 3,558 in the 2025-26 fiscal year. The taxpayers' ombudsperson attributes this to long wait times and processing delays, with millions of calls redirected or experiencing prolonged waits. Critics argue that the underlying issue is the complexity of the tax system rather than just operational failures, prompting calls for more regular performance reporting from the CRA.",
+      "graph": [
+        "Public Administration",
+        "Taxation Policy",
+        "Government Accountability",
+        "Service Delivery",
+        "Ombudsperson Report"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the importance of accessible and efficient public services, calling for increased government investment in CRA resources and improved taxpayer support, and potentially linking issues to underfunding or systemic inequities."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the administrative challenges faced by a large federal agency, highlighting the need for operational improvements, transparency in reporting, and potentially, a review of service standards to better serve the public."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Critiques government inefficiency and the burden placed on taxpayers by complex regulations and poor service. Calls for greater accountability, streamlined processes, and a fundamental re-evaluation of the tax system's complexity."
+          }
+        },
+        "neutral": "The Canada Revenue Agency has seen a 27% increase in complaints to the taxpayers' ombudsperson, primarily due to long wait times and processing delays, prompting calls for improved performance and transparency."
+      }
+    },
+    {
+      "id": "d6a3f1b0",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Interprovincial Migration Creates Unacknowledged $800 Billion Human Capital Transfer",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/02/the-biggest-financial-transfer-in-canada-that-nobody-talks-about/",
+      "summary": "A report highlights the significant, often unacknowledged, interprovincial transfer of wealth through human capital mobility. It estimates that over $800 billion in taxpayer-funded education now resides in provinces other than where it was originally paid for, primarily due to individuals moving for employment opportunities. This phenomenon disproportionately benefits provinces with stronger economies, like Alberta and B.C., while provinces like those in Atlantic Canada and Saskatchewan experience a net outflow of educated residents, raising questions about fiscal federalism and provincial contributions to the national economy.",
+      "graph": [
+        "Fiscal Federalism",
+        "Interprovincial Migration",
+        "Human Capital",
+        "Economic Inequality",
+        "Public Education Funding"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May highlight the need for federal equalization payments or national strategies to support education and retention in less economically vibrant regions, ensuring equitable opportunities across the country."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the economic dynamics of interprovincial labor mobility and its financial implications for provinces, suggesting a need for a national dialogue on how human capital flows affect fiscal balances and regional development."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the unacknowledged economic burden on provinces that invest in education only to see their human capital move elsewhere. Advocates for reforms in fiscal federalism that recognize these 'transfers' and potentially align provincial contributions with the benefits received."
+          }
+        },
+        "neutral": "Interprovincial migration represents a substantial, unacknowledged transfer of over $800 billion in taxpayer-funded human capital from provinces of origin to those offering better employment prospects, raising fiscal federalism questions."
+      }
+    },
+    {
+      "id": "e4f9a1c7",
+      "category": "Federalism",
+      "source": "Toronto Sun",
+      "title": "Report Reveals Canada's Brain Drain to U.S. as Educated Citizens Relocate",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/national/new-report-reveals-reasons-behind-canadas-brain-drain-to-u-s",
+      "summary": "A new report indicates Canada is experiencing a significant \"brain drain,\" with a record number of young, educated citizens relocating to the United States. The reasons behind this outflow are explored, pointing to potential policy implications for Canada regarding talent retention and economic competitiveness.",
+      "graph": [
+        "Brain Drain",
+        "Economic Competitiveness",
+        "Talent Retention",
+        "Canada-US Migration",
+        "Human Resources Policy"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Focuses on potential systemic issues in Canada such as affordable housing, job market access for youth, and social support, advocating for policies that create a more inclusive and attractive environment for young professionals."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the report's findings objectively, looking at both push and pull factors for migration, and suggests a need for government and industry to collaborate on strategies to enhance Canada's appeal for skilled workers."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Attributes the brain drain to factors like high taxation, perceived lack of economic opportunity, and regulatory burdens in Canada, advocating for policies that reduce government intervention, foster a more competitive business environment, and offer greater individual financial incentives."
+          }
+        },
+        "neutral": "A new report highlights a 'brain drain' of young, educated Canadians to the United States, prompting analysis into the underlying reasons and implications for Canada's economy and talent pool."
+      }
+    },
+    {
+      "id": "f5b2c9e0",
       "category": "Federalism",
       "source": "Global News",
-      "title": "U.S. Declines to Renew CUSMA in Current Form, Initiating Review Period",
+      "title": "Gordie Howe Bridge Delay Becomes Political Issue in U.S. Midterms",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11948893/cusma-talks-deadline/",
-      "summary": "The U.S. Trade Representative confirmed that the Trump administration will not renew the Canada-U.S.-Mexico Agreement (CUSMA) in its current form, initiating a review process rather than a 16-year extension. While the deal remains in place until 2036 unless terminated, this signals ongoing trade uncertainties and pressure on Canada-U.S. relations.",
-      "graph": ["CUSMA", "International Trade", "Canada-US Relations", "Economic Policy", "Diplomatic Relations", "Trade Negotiations"],
+      "url": "https://globalnews.ca/news/11950193/gordie-howe-bridge-delay-democrats-trump/",
+      "summary": "U.S. Democratic candidates are politicizing the delayed opening of the Gordie Howe International Bridge, a major Canada-U.S. infrastructure project, by linking it to alleged corruption by former U.S. President Donald Trump. While primarily a U.S. domestic political issue in the context of midterm elections, the delay and associated political rhetoric directly impact a significant bilateral project.",
+      "graph": [
+        "Canada-US Relations",
+        "Infrastructure Projects",
+        "International Politics",
+        "Political Corruption",
+        "Border Economy"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses concern about potential negative impacts on Canadian workers and industries from trade instability, advocating for protections for vulnerable sectors and a diversified trade strategy to reduce over-reliance on the U.S. market." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the diplomatic and economic implications of the U.S. decision, emphasizing the need for strategic negotiation and management of the trade relationship to minimize disruption and ensure continuity." },
-          "right": { "label": "Conservative Context", "synthesis": "Views this as a challenge to Canadian sovereignty and economic interests, potentially criticizing the current government's trade negotiation strategy. May call for stronger advocacy for Canadian industries and a more assertive stance against protectionist policies." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The U.S. has confirmed its intention not to renew CUSMA in its present form, opting for a review period instead of a full extension, which introduces significant uncertainty into Canada-U.S. trade relations, though the agreement remains active until 2036."
-      }
-    },
-    {
-      "id": "federalism-5",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Conservative Leader Poilievre Critiques PM Carney's Economic Record as an 'Illusion'",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/carney-is-an-illusion-says-poilievre",
-      "summary": "Conservative leader Pierre Poilievre has sharply criticized Prime Minister Mark Carney's economic record, labeling it an 'illusion.' Poilievre suggests the Liberal government is heading towards a 'collision between reality and the illusion,' indicating a fundamental disagreement on the country's economic direction and the impact of federal policies.",
-      "graph": ["Economic Policy", "Federal Government", "Political Opposition", "Fiscal Policy", "Public Debate", "Affordability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might critique both conservative and liberal economic approaches, focusing on issues of wealth inequality, corporate power, or the need for more social spending. May see such debates as masking deeper structural economic problems." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the standard political discourse between governing and opposition parties regarding economic performance and policy. Analyzes the claims and counter-claims within the political arena." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly aligns with Poilievre's critique, emphasizing concerns about government spending, national debt, regulatory burdens, and the overall health of the economy under the current administration, advocating for fiscal conservatism and market-oriented policies." }
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Supports transparency and accountability in large-scale public projects, aligning with efforts to expose potential corruption and ensure public funds are used effectively, even if the accusations are politically motivated."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the political dimensions of a major binational infrastructure project, noting how domestic political campaigns can influence perceptions and progress on cross-border initiatives, without endorsing specific allegations."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May dismiss the allegations as politically motivated attacks, viewing the focus on 'corruption' as a distraction from the broader challenges of funding and managing large infrastructure projects, and potentially defending the economic rationale for the bridge."
+          }
         },
-        "neutral": "Conservative leader Pierre Poilievre described Prime Minister Mark Carney's economic record as an 'illusion,' asserting that the current government's policies are leading towards an inevitable clash with economic reality."
-      }
-    },
-    {
-      "id": "federalism-6",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Bryan Adams Releases Canada Day Protest Song Against '51st State' Rhetoric",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/bryan-adams-canada-will-never-be-51st-state",
-      "summary": "Canadian musician Bryan Adams released a new protest song for Canada Day, titled \"'51st State,\" directly addressing the sentiment of Canada becoming a part of the United States. The song's lyrics, such as \"We're better off together; We'll be better hand in hand; But the 49th parallel; Has become a line drawn in the sand,\" articulate a call for Canadian unity and distinctiveness amid ongoing cross-border political and economic tensions.",
-      "graph": ["National Identity", "Canada-US Relations", "Cultural Commentary", "Patriotism", "Sovereignty", "Canada Day"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views cultural nationalism as a means to express sovereignty and resist cultural or economic domination, especially from larger neighbors. Might also use such an anthem to call for internal unity based on shared progressive values." },
-          "center": { "label": "Procedural Context", "synthesis": "Interprets the song as a popular cultural expression of Canadian identity and a response to common political anxieties about the Canada-U.S. relationship, without strong partisan alignment, reflecting a widespread sentiment." },
-          "right": { "label": "Conservative Context", "synthesis": "Embraces the patriotic message as a reinforcement of Canadian sovereignty and a rejection of American influence, aligning with a desire for national self-reliance and distinctiveness against external pressures." }
-        },
-        "neutral": "Bryan Adams released a new protest song on Canada Day, \"'51st State,\" as a cultural commentary advocating for Canadian unity and distinctiveness against the notion of closer integration with the United States."
-      }
-    },
-    {
-      "id": "federalism-7",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Analysis: CUSMA Renewal Uncertainty as U.S. Declines Extension in Current Form",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/01/cusma-renewal-deadline-passed-u-s-tariffs-remain-what-it-means-for-canada-and-its-economy/",
-      "summary": "As the mandatory review date for CUSMA passed without a renewal deal, the U.S. declined to extend the pact in its current form, initiating a 10-year review process instead of a 16-year term extension. Experts suggest Canada faces a strong position but warns of economic costs from prolonged uncertainty and calls for a broader 'continental trade and security agreement.' Concerns about Canada's trade relations with China and enforcement of forced-labor import bans were also highlighted by U.S. officials.",
-      "graph": ["CUSMA", "International Trade", "Canada-US Relations", "Economic Policy", "Diplomatic Strategy", "Trade Disputes", "China Relations", "Forced Labor"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the potential for trade deals to impact labor rights, environmental standards, and economic equality. Might advocate for trade agreements that prioritize social and environmental justice over pure economic growth, and be critical of Canada's engagement with countries implicated in forced labor." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides a balanced analysis of the trade negotiations, highlighting the strategic considerations, economic impacts, and diplomatic complexities for Canada. Emphasizes the need for stable and predictable trade relations and adherence to international trade law." },
-          "right": { "label": "Conservative Context", "synthesis": "Stresses the importance of securing favorable trade terms for Canadian businesses and protecting national economic interests. Critiques perceived federal missteps in trade negotiations, especially regarding China, and emphasizes the need for robust enforcement of trade rules." }
-        },
-        "neutral": "The non-renewal of CUSMA in its current form by the U.S. initiates a prolonged review, generating trade uncertainty. Analysis suggests Canada has leverage but risks economic fallout from delay, with calls for a broader trade and security agreement, and concerns raised over Canada's China trade policies and enforcement of forced-labor import bans."
-      }
-    },
-    {
-      "id": "federalism-8",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Trustee Resigns from Canadian Museum for Human Rights Over Contentious Nakba Exhibit",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/06/30/trustee-quits-canadian-museum-for-human-rights-over-nakba-exhibit-citing-intellectual-dishonesty/",
-      "summary": "A trustee of the Canadian Museum for Human Rights resigned over the museum's Nakba exhibit, citing \"intellectual dishonesty.\" The resignation stems from concerns that the exhibit presented Palestinian displacement without adequate historical context, notably omitting the broader Arab-Israeli conflict and the simultaneous displacement of Jews from Arab lands. Critics argue the curatorial process lacked balance and failed to engage diverse perspectives, undermining the museum's integrity and fostering a one-sided historical narrative. The controversy unfolds amidst a documented rise in anti-Jewish hatred in Canadian institutions.",
-      "graph": ["Human Rights", "Federal Institutions", "Public Museums", "Historical Interpretation", "Middle East Conflict", "Antisemitism", "National Discourse"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for the full and critical examination of historical narratives, especially those of marginalized groups, and supports artistic/curatorial freedom. Might see the resignation as an attempt to suppress a Palestinian perspective, while still acknowledging the need for balanced and inclusive representation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the governance of federal institutions, the importance of academic rigor, and balanced historical representation. Emphasizes the need for transparent curatorial processes and ethical engagement with diverse stakeholders when presenting sensitive topics." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the trustee's resignation, arguing that the exhibit promoted a biased, anti-Israel narrative and lacked intellectual honesty, contributing to division rather than understanding. Emphasizes the importance of objective historical truth and critiques institutions that appear to take partisan stances or exclude relevant context." }
-        },
-        "neutral": "A trustee resigned from the Canadian Museum for Human Rights, alleging 'intellectual dishonesty' in the Nakba exhibit's presentation of Palestinian displacement, arguing it lacked critical historical context and balance, a controversy set against a backdrop of increasing anti-Jewish hatred in Canadian institutions."
+        "neutral": "U.S. Democratic candidates are using the delayed opening of the Canada-U.S. Gordie Howe Bridge as a political issue, alleging corruption by former President Trump, which affects the perception of this major bilateral infrastructure project."
       }
     }
   ],
@@ -157,43 +311,196 @@
   "indigenous": [],
   "criminal": [
     {
-      "id": "criminal-1",
+      "id": "e7c2a1b9",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Judge Imposes Harsher Sentence on Repeat Offender Due to Doubts About CBSA Deportation Efficacy",
+      "title": "Nova Scotia Woman Granted Further Day Parole After Daughter's Murder Conviction",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/judge-gives-repeat-lcbo-thief-a-harsher-sentence-because-he-doubts-cbsa-will-deport-him",
-      "summary": "An Ontario judge delivered a 12-month sentence to a repeat offender for LCBO thefts, explicitly stating that the harsher penalty was influenced by a lack of confidence in the Canada Border Services Agency (CBSA) to deport the individual. This ruling highlights judicial frustration with perceived shortcomings in immigration enforcement and its impact on domestic criminal justice.",
-      "graph": ["Criminal Justice", "Sentencing", "Repeat Offenders", "Judicial Discretion", "CBSA", "Immigration Enforcement", "Public Safety"],
+      "url": "https://nationalpost.com/news/canada/penny-patricia-boudreau-nova-scotia",
+      "summary": "Penny Boudreau, convicted of strangling her daughter, has been granted an additional six months of day parole. The parole board cited \"clear progress\" in her rehabilitation and efforts towards securing paid employment as reasons for the extension, allowing her to continue her reintegration into society under supervision.",
+      "graph": [
+        "Parole System",
+        "Criminal Justice",
+        "Rehabilitation",
+        "Homicide",
+        "Victim Impact"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Raises concerns about potential judicial overreach or the judge's role in influencing immigration policy through sentencing. Could argue for addressing root causes of crime and ensuring fair and consistent application of justice, separate from immigration status." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of sentencing and the intersection of criminal law with immigration enforcement, highlighting systemic challenges that arise when different government branches interact and the need for clear jurisdictional boundaries." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the judge's decision, viewing it as a necessary measure to protect public safety and compensate for perceived failures in the immigration system's ability to deport non-citizens who commit crimes. Emphasizes accountability and stricter enforcement." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "An Ontario judge imposed a longer sentence on a repeat LCBO thief, citing a lack of confidence in the CBSA's ability to deport him, underscoring judicial concerns regarding the effectiveness of immigration enforcement in managing criminal recidivism."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Focuses on the rehabilitative aspects of the justice system, supporting parole decisions that acknowledge an offender's progress and efforts towards reintegration, emphasizing societal benefit through successful rehabilitation."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the parole board's decision-making process, balancing public safety with an offender's progress and potential for reintegration, based on legal criteria and assessments."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Often expresses concern for public safety and victim's rights, potentially questioning the adequacy of the sentence or the perceived leniency of parole decisions for severe crimes, prioritizing punishment and deterrence."
+          }
+        },
+        "neutral": "A Nova Scotia woman convicted of strangling her daughter has received a six-month extension of day parole due to demonstrated progress and efforts towards employment."
+      }
+    },
+    {
+      "id": "f2a8c0d1",
+      "category": "Criminal",
+      "source": "National Post",
+      "title": "Man Charged in Vancouver Beach Attack Released Within 48 Hours, Raising Public Safety Concerns",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/man-charged-in-unprovoked-attack-at-vancouver-beach-released-after-less-than-48-hours",
+      "summary": "Carlos Caldera Duarte, charged in connection with an unprovoked attack at a Vancouver beach, was released from custody within 48 hours with court-imposed conditions. This quick release has raised public safety concerns and questions about the judicial system's approach to such incidents, with the accused scheduled to appear in court later.",
+      "graph": [
+        "Criminal Justice System",
+        "Bail Reform",
+        "Public Safety",
+        "Violent Crime",
+        "Court Process"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates for judicial processes that avoid undue detention, focusing on the presumption of innocence and the right to bail, while also emphasizing community support and addressing root causes of crime."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the legal process, outlining the charge and the conditions of release, and noting the procedural aspects of the justice system. Acknowledges public concern while explaining the legal framework for release."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Expresses strong concerns regarding public safety and the swift release of individuals charged with violent offenses, often criticizing what is perceived as a 'catch-and-release' justice system and calling for stricter bail conditions or pre-trial detention."
+          }
+        },
+        "neutral": "A man charged in an unprovoked attack at a Vancouver beach was released on court-imposed conditions within 48 hours, prompting public safety discussions ahead of his upcoming court date."
+      }
+    },
+    {
+      "id": "a5d0f3c6",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Man Murders Wife Six Days After Arriving in Canada; Victim Feared Husband",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/national/man-in-canada-just-six-days-murdered-wife",
+      "summary": "A man murdered his wife, Balwinder Kaur, just six days after arriving in Canada. The victim had reportedly expressed fear of her husband, highlighting a severe case of domestic violence and raising questions about the circumstances surrounding the individual's entry into Canada and any potential warning signs.",
+      "graph": [
+        "Homicide",
+        "Domestic Violence",
+        "Criminal Investigation",
+        "Public Safety",
+        "Immigration (indirectly)"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Focuses on systemic issues contributing to domestic violence, advocating for greater support for victims and proactive interventions, and may also examine the efficacy of immigration screening processes for potential risks."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Presents the factual details of a tragic criminal event, focusing on the investigation and the victim's expressed fears, without explicit policy commentary."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the severity of the crime and may raise questions about immigration screening and background checks for individuals entering Canada, prioritizing public safety and stricter controls."
+          }
+        },
+        "neutral": "A man murdered his wife in Canada six days after his arrival, with the victim having previously expressed fear of him, highlighting a tragic case of domestic violence."
+      }
+    },
+    {
+      "id": "e1f9b3c7",
+      "category": "Criminal",
+      "source": "The Hub",
+      "title": "Judicial Delays Lead to 'Get-Out-of-Jail-Free Cards' in Canadian Courts",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/02/getting-away-with-murder-how-canadas-courts-have-turned-delay-into-a-get-out-of-jail-free-card/",
+      "summary": "This article critiques Canada's judicial system, arguing that significant delays, particularly since the Supreme Court's 2016 Jordan decision, allow serious criminal cases to be stayed, effectively granting 'get-out-of-jail-free' cards to accused individuals. Data shows a 60% increase in median criminal case completion times and over half of cases outside Quebec ending without a verdict, leaving victims without justice and exposing systemic failures attributed to the court and government's inability to adapt.",
+      "graph": [
+        "Judicial System Reform",
+        "Criminal Procedure",
+        "Court Delays",
+        "Justice System Efficiency",
+        "Victim Rights",
+        "Rule of Law"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Acknowledges the need for a timely justice system but may emphasize the complexity of judicial reform, the need for adequate funding for legal aid and court resources, and addressing systemic inequalities that contribute to delays."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the impact of the Jordan decision on criminal case timelines and outcomes, presenting data on rising delays and stayed charges, and discusses the challenges of judicial administration without assigning partisan blame."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly criticizes the judicial system's inefficiency and the perceived failure to deliver justice, especially for serious crimes. Advocates for immediate and decisive reforms to expedite trials, uphold accountability, and restore confidence in the justice system, prioritizing public safety and victim justice."
+          }
+        },
+        "neutral": "Canada's judicial system faces scrutiny over increasing trial delays, particularly since the 2016 Jordan decision, leading to a rise in stayed criminal charges and concerns about justice for victims."
       }
     }
   ],
   "immigration": [
     {
-      "id": "immigration-1",
+      "id": "c3d9e0f2",
       "category": "Immigration",
-      "source": "Global News",
-      "title": "Federal Government Cites 'Unclear Guidance' for Citizenship Recalls Affecting 'Lost Canadians'",
+      "source": "National Post",
+      "title": "RCMP Arrests Two in Montreal Human Smuggling Probe Targeting Both-Direction Border Crossings",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11945114/lost-canadians-citizenship-recall-review-update/",
-      "summary": "The federal government has attributed \"unclear guidance\" as the reason behind approximately 100 individuals, known as \"Lost Canadians,\" being asked to surrender their citizenship certificates. These recalls followed a \"routine review\" by IRCC that flagged potentially insufficient supporting documentation, highlighting administrative issues impacting citizenship status.",
-      "graph": ["Citizenship Law", "Immigration Policy", "Administrative Justice", "Lost Canadians", "Government Accountability", "IRCC"],
+      "url": "https://nationalpost.com/news/canada/rcmp-montreal-human-smuggling-investigation",
+      "summary": "The RCMP in Montreal have arrested two individuals in connection with an alleged human smuggling operation. This investigation indicates that the smuggling ring facilitated the illegal movement of migrants across the Canada-U.S. border in both directions, highlighting complex border security challenges and transnational criminal activity.",
+      "graph": [
+        "Human Smuggling",
+        "Border Security",
+        "Law Enforcement",
+        "Illegal Migration",
+        "Transnational Crime"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for the rights of 'Lost Canadians,' emphasizing the human impact of bureaucratic errors and calling for more compassionate and efficient processes to rectify historical injustices and ensure equitable access to citizenship." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative challenges and policy complexities in determining citizenship, stressing the need for clear guidelines, robust processes, and due process to resolve issues fairly while upholding the integrity of citizenship laws." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize the importance of strict adherence to citizenship criteria and documentation to protect national sovereignty and prevent fraudulent claims. While acknowledging administrative error, the focus might be on the proper enforcement of immigration and citizenship laws." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The federal government has attributed the recall of citizenship certificates from approximately 100 'Lost Canadians' to 'unclear guidance' and insufficient documentation identified during a routine review by IRCC, revealing administrative challenges within the citizenship process."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May focus on the vulnerabilities of migrants exploited by smugglers, advocating for safer and more orderly immigration pathways, and addressing root causes of irregular migration."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on law enforcement actions to counter human smuggling, emphasizing the operational challenges of managing border integrity and combating criminal networks involved in illegal crossings."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the need for stricter border controls and increased enforcement against human smuggling rings, highlighting concerns about national security and the integrity of immigration systems."
+          }
+        },
+        "neutral": "The RCMP in Montreal have made two arrests in an investigation into an alleged human smuggling ring operating across the Canada-U.S. border in both directions."
       }
     }
   ]
