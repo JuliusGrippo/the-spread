@@ -1,20 +1,14 @@
 {
   "federalism": [
     {
-      "id": "a9e6b5d2",
+      "id": "fed-1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "B.C.-Ottawa Multibillion-Dollar Deal Upholds Tanker Ban, Expands Port Amid Pipeline Debate",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
-      "summary": "The federal government, led by Prime Minister Mark Carney, reaffirmed the North Coast oil tanker ban as part of a multi-billion dollar Canada-British Columbia Cooperative Prosperity Agreement. This deal, announced with B.C. Premier David Eby, includes funding for mining, forestry, and upgrades to the Massey Tunnel and Port of Vancouver, effectively undercutting any potential new oil pipeline route to the region just hours before Alberta was to update its own pipeline proposal.",
-      "graph": [
-        "Federal-Provincial Relations",
-        "Energy Policy",
-        "Environmental Protection",
-        "Infrastructure Investment",
-        "Economic Development"
-      ],
+      "title": "U.S. Ambassador Reports Stalled Progress in CUSMA Trade Negotiations with Canada",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss",
+      "summary": "U.S. Ambassador to Canada Pete Hoekstra has stated that after 14 months, trade negotiations between Canada and the Trump administration have seen 'no significant progress' on issues related to CUSMA's future. Despite the lack of breakthroughs, Hoekstra confirmed the U.S. commitment to continued talks, emphasizing that the existing deal remains in effect for another decade unless a formal six-month withdrawal notice is issued. The U.S. also indicated a desire for Canadian oil.",
+      "graph": ["Canada-US Relations", "Trade Negotiations", "CUSMA", "International Diplomacy", "Economic Policy"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -24,35 +18,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Praises federal-provincial cooperation on environmental protection and strategic infrastructure, aligning with climate action goals and regional development, supporting the tanker ban."
+            "synthesis": "This situation highlights the instability introduced by the Trump administration's protectionist stance, underscoring the urgency for Canada to diversify its trade partnerships beyond a potentially unreliable U.S. market."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Views the agreement as a significant act of 'co-operative federalism,' balancing environmental concerns with economic prosperity through strategic investments and port expansion, highlighting complex intergovernmental relations."
+            "synthesis": "The report focuses on the ongoing diplomatic process and the complexities inherent in renegotiating major trade agreements, providing an objective update on the state of bilateral discussions without immediate resolution."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "May criticize the federal government's reaffirmation of the tanker ban as an impediment to national energy strategy and Alberta's resource export ambitions, potentially seeing it as political maneuvering that prioritizes environmental concerns over economic potential."
+            "synthesis": "From this perspective, the Trump administration's assertive trade strategy and the pressure on Canada to make concessions are central, potentially advocating for Canada to leverage its resource strengths, such as oil, to achieve a more favorable outcome."
           }
         },
-        "neutral": "The federal government and British Columbia have signed a multi-billion dollar agreement affirming the North Coast oil tanker ban and investing in B.C.'s infrastructure and resource sectors, impacting Alberta's proposed pipeline."
+        "neutral": "U.S. Ambassador Hoekstra reports stalled progress in CUSMA trade talks with Canada, emphasizing continued negotiation despite lack of significant breakthroughs and the U.S. desire for Canadian oil."
       }
     },
     {
-      "id": "e9c2b8c5",
+      "id": "fed-2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "PM Carney's Canada Day Unity Speech in Edmonton Cancelled by Storms Amidst Separatist Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/carney-alberta-canada-day-cancelled-9.7255600?cmp=rss",
-      "summary": "Prime Minister Mark Carney's planned Canada Day speech in Edmonton, intended to promote national unity amidst emerging separatist movements in Alberta and Quebec, was cancelled due to thunderstorms in Ottawa that grounded his plane. He had previously delivered a similar message in Ottawa, emphasizing Canada's founding principles of partnership and accommodation.",
-      "graph": [
-        "National Unity",
-        "Federal Politics",
-        "Regionalism",
-        "Canada Day",
-        "Separatist Movements"
-      ],
+      "title": "Federal Government to Review Intervention Powers in Canada Labour Code",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss",
+      "summary": "Jobs Minister Patty Hajdu announced a second round of consultations to explore 'guardrails' and alternatives to Section 107 of the Canada Labour Code, a 'contentious' tool allowing federal intervention, including binding arbitration, in bitter labour disputes. The government aims to modernize the code to foster earlier dispute resolution and minimize the need for ministerial intervention, acknowledging diverse feedback from employers and unions.",
+      "graph": ["Canada Labour Code", "Labour Relations", "Government Intervention", "Binding Arbitration", "Federal Policy"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -62,36 +50,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Emphasizes the importance of federal efforts to foster national unity and address underlying causes of regional discontent, potentially advocating for inclusive policies."
+            "synthesis": "Progressive viewpoints likely emphasize strengthening workers' collective bargaining rights and caution against government interventions that could undermine union autonomy, advocating for fair processes that prioritize worker well-being."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Focuses on the Prime Minister's efforts to project a message of unity on a national holiday, acknowledging the political challenges posed by regional separatist sentiments. The cancellation is a logistical event impacting symbolic outreach."
+            "synthesis": "This development centers on the government's procedural efforts to balance industrial peace with equitable bargaining, seeking practical improvements to reduce protracted conflicts and optimize the application of labour law."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "May highlight the symbolic significance of the cancelled Edmonton visit as an indicator of growing regional alienation, particularly in Alberta, and question the effectiveness of federal unity efforts in the face of strong provincial movements."
+            "synthesis": "Conservative perspectives may highlight the economic costs of prolonged work stoppages, advocating for clear, efficient government tools to ensure market stability and essential services, potentially favoring intervention criteria that prevent economic disruption."
           }
         },
-        "neutral": "Prime Minister Mark Carney's attempt to deliver a national unity speech in Edmonton on Canada Day was thwarted by weather, against a backdrop of rising separatist sentiments in Alberta and Quebec."
+        "neutral": "The federal government is consulting on reforms to Section 107 of the Canada Labour Code, aiming to minimize interventions in labour disputes and encourage earlier resolution, amidst varied feedback from stakeholders."
       }
     },
     {
-      "id": "b3e6d1e5",
+      "id": "fed-3",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "CUSMA Renewal Deadline Passes, U.S. Tariffs Remain, Raising Economic Concerns for Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/02/cusma-renewal-deadline-passed-u-s-tariffs-remain-what-it-means-for-canada-and-its-economy/",
-      "summary": "The mandatory review date for the Canada-United States-Mexico Agreement (CUSMA) passed without a renewal deal, as the U.S. administration formally declined to extend it, initiating a 10-year review process. This decision, driven by U.S. concerns over \"substantial issues\" and trade deficits, leaves CUSMA in limbo and raises questions about its long-term stability and impact on the Canadian economy, especially given Canada's recent trade deal with China on EVs.",
-      "graph": [
-        "International Trade",
-        "Canada-US Relations",
-        "Economic Policy",
-        "CUSMA",
-        "Tariffs",
-        "Foreign Policy"
-      ],
+      "source": "CBC News",
+      "title": "Alberta Proposes $35B+ Southern Oil Pipeline to Pacific Coast for Asian Exports",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-pipeline-proposal-ottawa-major-projects-9.7254251?cmp=rss",
+      "summary": "Alberta has formally proposed a new $35.2 billion to $43.7 billion oil pipeline project to the southwest coast of British Columbia. This partnership with federally-owned Trans Mountain Corp. and Pembina Pipeline Corp. aims to export over one million barrels per day to Asian markets by 2032-2034, doubling Alberta's oil production. The southern route, mirroring the existing Trans Mountain corridor, is presented as having less environmental impact, coinciding with a federal-B.C. agreement to maintain the North Coast oil tanker ban.",
+      "graph": ["Energy Infrastructure", "Interprovincial Relations", "Oil Exports", "Environmental Impact", "Indigenous Consultation", "Economic Development"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -101,36 +82,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Advocates for Canada to maintain a strong negotiating stance, emphasizing protection of Canadian industries and workers, and potentially criticizing aggressive U.S. trade tactics. May highlight the need for diversified trade relations beyond the U.S."
+            "synthesis": "Environmental groups and progressives are likely to criticize the project for increasing fossil fuel reliance and associated carbon emissions, raising concerns about potential spills and the broader climate impact, even with the southern route's lower impact claim."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Analyzes the procedural and economic implications of the CUSMA review, focusing on Canada's negotiating position, the risks of instability for investment, and the ongoing need for diplomatic engagement to secure trade relations."
+            "synthesis": "Analysis would focus on the complex intergovernmental collaboration, the economic rationale for diversifying oil markets, the logistical considerations of pipeline construction, and the regulatory processes, including Indigenous engagement and environmental assessments."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "Critiques the lack of a swift CUSMA renewal as detrimental to Canadian economic certainty and foreign investment. May also critique Canada's recent China EV deal as undermining its position within CUSMA and potentially exacerbating U.S. trade concerns."
+            "synthesis": "Conservatives and industry advocates would emphasize the significant economic benefits, increased energy security through market diversification, and the strategic importance of expanding Alberta's oil export capacity, possibly downplaying environmental opposition."
           }
         },
-        "neutral": "The CUSMA renewal deadline has passed without an extension from the U.S., triggering a 10-year review and raising concerns about trade stability and economic impacts for Canada amid ongoing tariff issues."
+        "neutral": "Alberta proposes a $35-43 billion southern pipeline to Canada's Pacific coast to increase oil exports to Asia, partnering with federal and private entities, with the project slated for completion by 2032-2034."
       }
     },
     {
-      "id": "f8a7c2d1",
+      "id": "fed-4",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "PM Carney to Discuss Energy and Trade with Philippines President",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-philippines-energy-trade-defence-tourism-mou/",
-      "summary": "Prime Minister Mark Carney is scheduled to meet with the President of the Philippines to discuss strengthening bilateral ties, particularly in areas of energy, trade, defense, and tourism. The discussions are expected to lead to the signing of several Memoranda of Understanding and joint agreements, signifying Canada's efforts to diversify its international partnerships.",
-      "graph": [
-        "International Relations",
-        "Trade Diplomacy",
-        "Bilateral Agreements",
-        "Energy Sector",
-        "Tourism",
-        "Foreign Policy"
-      ],
+      "title": "Canada's Foreign Influence Registry to Launch in Early August",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-canadas-foreign-influence-registry-expected-to-launch-in-early-august/",
+      "summary": "Canada's Foreign Influence Transparency Registry will officially come into force in early August, requiring individuals and entities acting on behalf of foreign states to register activities aimed at influencing domestic politics. Failure to register can result in fines up to $1 million. While applicable across federal, provincial, territorial, and municipal politics, the registry currently exempts those seeking to influence Indigenous bands or governments. Anton Boegman has been appointed as the inaugural Transparency Commissioner.",
+      "graph": ["Foreign Interference", "National Security", "Legislation", "Transparency", "Diplomacy"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -140,35 +114,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Supports strengthening ties with developing nations and diversifying trade, potentially viewing it as a move towards a more equitable and multipolar global engagement."
+            "synthesis": "This action is seen as crucial for protecting democratic integrity and human rights from foreign coercion, though concerns may be raised regarding potential for stigmatization of diaspora communities or the unexplained exemption for Indigenous governments."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Highlights the pragmatic benefits of expanding diplomatic and economic relationships, focusing on mutual interests in energy security, trade growth, and geopolitical stability."
+            "synthesis": "The focus is on the long-anticipated implementation of new legislation designed to enhance transparency and mitigate national security risks associated with foreign influence, noting the administrative and legal details of its rollout."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "May view the initiative as a means to explore new markets and secure resources, aligning with a more proactive, interest-driven foreign policy, and potentially seeing it as a way to reduce reliance on traditional partners."
+            "synthesis": "This initiative is generally welcomed as a vital measure to safeguard national sovereignty and counter hostile foreign influence, with some voices potentially criticizing the delays in its implementation or questioning the scope of its exemptions."
           }
         },
-        "neutral": "Prime Minister Mark Carney will meet with the Philippines President to discuss expanded cooperation on energy, trade, defense, and tourism, aiming to sign new bilateral agreements."
+        "neutral": "Canada's new Foreign Influence Transparency Registry, designed to curb undue foreign influence in domestic politics, will come into force in early August, with fines for non-compliance, though Indigenous governments are currently exempt."
       }
     },
     {
-      "id": "c1e8d4a9",
+      "id": "fed-5",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Taxpayer Complaints Against Canada Revenue Agency Surge to Three-Year High",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/02/complaints-against-cra-jump-27-percent-to-3-year-high-taxpayers-ombudsperson-reports/",
-      "summary": "The Canada Revenue Agency (CRA) is facing a significant increase in complaints, rising 27% to a three-year high of 3,558 in the 2025-26 fiscal year. The taxpayers' ombudsperson attributes this to long wait times and processing delays, with millions of calls redirected or experiencing prolonged waits. Critics argue that the underlying issue is the complexity of the tax system rather than just operational failures, prompting calls for more regular performance reporting from the CRA.",
-      "graph": [
-        "Public Administration",
-        "Taxation Policy",
-        "Government Accountability",
-        "Service Delivery",
-        "Ombudsperson Report"
-      ],
+      "source": "The Globe and Mail",
+      "title": "Report Advises Canada Against Rushing into New CUSMA Deal Amid 'Zombie' Pact Status",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-canada-us-mexico-zombie-trade-pact-usmca-deal-report/",
+      "summary": "A report by a group of trade and foreign policy experts advises the Canadian government to accept the current 'zombie' state of the Canada-United States-Mexico Agreement (CUSMA/USMCA) rather than succumbing to pressure for a hasty renegotiation following the U.S.'s decision not to extend the deal. The experts argue that prolonged uncertainty should not force Canada into a quick agreement, advocating for a strategic, patient approach to protect national interests.",
+      "graph": ["CUSMA", "Trade Policy", "Canada-US Relations", "Economic Strategy", "International Trade Agreements"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -178,35 +146,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Emphasizes the importance of accessible and efficient public services, calling for increased government investment in CRA resources and improved taxpayer support, and potentially linking issues to underfunding or systemic inequities."
+            "synthesis": "Progressive views might see this as an opportunity to reassess Canada's economic dependence on the U.S. and advocate for stronger national economic sovereignty and diversification, potentially exploring alternative trade models or partners."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Focuses on the administrative challenges faced by a large federal agency, highlighting the need for operational improvements, transparency in reporting, and potentially, a review of service standards to better serve the public."
+            "synthesis": "This perspective emphasizes the need for a pragmatic and carefully deliberated trade policy, focusing on strategic patience and meticulous negotiation to safeguard Canadian economic interests in a complex and unpredictable international trade landscape."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "Critiques government inefficiency and the burden placed on taxpayers by complex regulations and poor service. Calls for greater accountability, streamlined processes, and a fundamental re-evaluation of the tax system's complexity."
+            "synthesis": "Conservative voices might express concern over the ongoing trade uncertainty's impact on business and investment, possibly urging for a swift resolution to stabilize the trade relationship, even if it entails making concessions."
           }
         },
-        "neutral": "The Canada Revenue Agency has seen a 27% increase in complaints to the taxpayers' ombudsperson, primarily due to long wait times and processing delays, prompting calls for improved performance and transparency."
+        "neutral": "A report suggests Canada should accept the current uncertain status of CUSMA and avoid rushing into new trade negotiations with the U.S., advocating for strategic patience amidst ongoing trade complexities."
       }
     },
     {
-      "id": "d6a3f1b0",
+      "id": "fed-6",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Interprovincial Migration Creates Unacknowledged $800 Billion Human Capital Transfer",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/02/the-biggest-financial-transfer-in-canada-that-nobody-talks-about/",
-      "summary": "A report highlights the significant, often unacknowledged, interprovincial transfer of wealth through human capital mobility. It estimates that over $800 billion in taxpayer-funded education now resides in provinces other than where it was originally paid for, primarily due to individuals moving for employment opportunities. This phenomenon disproportionately benefits provinces with stronger economies, like Alberta and B.C., while provinces like those in Atlantic Canada and Saskatchewan experience a net outflow of educated residents, raising questions about fiscal federalism and provincial contributions to the national economy.",
-      "graph": [
-        "Fiscal Federalism",
-        "Interprovincial Migration",
-        "Human Capital",
-        "Economic Inequality",
-        "Public Education Funding"
-      ],
+      "source": "The Globe and Mail",
+      "title": "Canada and Philippines Sign Joint Agreements, Advancing Trade Deal Prospects",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-philippines-trade-energy-tourism-carney-marcos/",
+      "summary": "Prime Minister Mark Carney and Philippines President Ferdinand Marcos Jr. have signed several joint agreements covering energy, natural resources, labour, and tourism during President Marcos's visit to Canada. These agreements are seen as significant steps towards fostering a broader bilateral trade deal, reflecting Canada's strategic efforts to diversify its international trade partnerships beyond traditional markets and deepen engagement in the Asia-Pacific region.",
+      "graph": ["International Trade", "Diplomatic Relations", "Economic Diversification", "Asia-Pacific Strategy"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -216,73 +178,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "May highlight the need for federal equalization payments or national strategies to support education and retention in less economically vibrant regions, ensuring equitable opportunities across the country."
+            "synthesis": "This move is largely viewed as positive, promoting international cooperation, responsible resource management, and potentially improved labour standards through new bilateral frameworks, aligning with broader global engagement goals."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Analyzes the economic dynamics of interprovincial labor mobility and its financial implications for provinces, suggesting a need for a national dialogue on how human capital flows affect fiscal balances and regional development."
+            "synthesis": "The focus is on the concrete steps taken to expand diplomatic and trade relations, detailing the agreements signed and their role in facilitating future economic growth and diversification efforts."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "Emphasizes the unacknowledged economic burden on provinces that invest in education only to see their human capital move elsewhere. Advocates for reforms in fiscal federalism that recognize these 'transfers' and potentially align provincial contributions with the benefits received."
+            "synthesis": "From a conservative standpoint, such trade deals are beneficial for opening new markets, fostering economic expansion, and reducing over-reliance on existing trade partners, thereby enhancing Canada's economic resilience."
           }
         },
-        "neutral": "Interprovincial migration represents a substantial, unacknowledged transfer of over $800 billion in taxpayer-funded human capital from provinces of origin to those offering better employment prospects, raising fiscal federalism questions."
+        "neutral": "Canada and the Philippines have signed agreements across key sectors, including energy, natural resources, labour, and tourism, laying groundwork for a potential free trade deal and advancing Canada's trade diversification efforts."
       }
     },
     {
-      "id": "e4f9a1c7",
-      "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Report Reveals Canada's Brain Drain to U.S. as Educated Citizens Relocate",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/new-report-reveals-reasons-behind-canadas-brain-drain-to-u-s",
-      "summary": "A new report indicates Canada is experiencing a significant \"brain drain,\" with a record number of young, educated citizens relocating to the United States. The reasons behind this outflow are explored, pointing to potential policy implications for Canada regarding talent retention and economic competitiveness.",
-      "graph": [
-        "Brain Drain",
-        "Economic Competitiveness",
-        "Talent Retention",
-        "Canada-US Migration",
-        "Human Resources Policy"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Focuses on potential systemic issues in Canada such as affordable housing, job market access for youth, and social support, advocating for policies that create a more inclusive and attractive environment for young professionals."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Examines the report's findings objectively, looking at both push and pull factors for migration, and suggests a need for government and industry to collaborate on strategies to enhance Canada's appeal for skilled workers."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Attributes the brain drain to factors like high taxation, perceived lack of economic opportunity, and regulatory burdens in Canada, advocating for policies that reduce government intervention, foster a more competitive business environment, and offer greater individual financial incentives."
-          }
-        },
-        "neutral": "A new report highlights a 'brain drain' of young, educated Canadians to the United States, prompting analysis into the underlying reasons and implications for Canada's economy and talent pool."
-      }
-    },
-    {
-      "id": "f5b2c9e0",
+      "id": "fed-7",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Gordie Howe Bridge Delay Becomes Political Issue in U.S. Midterms",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11950193/gordie-howe-bridge-delay-democrats-trump/",
-      "summary": "U.S. Democratic candidates are politicizing the delayed opening of the Gordie Howe International Bridge, a major Canada-U.S. infrastructure project, by linking it to alleged corruption by former U.S. President Donald Trump. While primarily a U.S. domestic political issue in the context of midterm elections, the delay and associated political rhetoric directly impact a significant bilateral project.",
-      "graph": [
-        "Canada-US Relations",
-        "Infrastructure Projects",
-        "International Politics",
-        "Political Corruption",
-        "Border Economy"
-      ],
+      "title": "Canada Begins Quarterly Rollout of Grocery Benefit Payments",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11951427/canada-groceries-essentials-benefit-payment/",
+      "summary": "The Canadian government has initiated the first of its quarterly grocery benefit payments, aiming to provide financial relief to families grappling with elevated food costs. The annual amounts disbursed under this program are designed to vary based on the recipient's marital status and the number of children in their household, with payments ranging from a few hundred to over a thousand dollars per family.",
+      "graph": ["Social Programs", "Cost of Living", "Federal Benefits", "Economic Support", "Food Security"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -292,39 +210,98 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Supports transparency and accountability in large-scale public projects, aligning with efforts to expose potential corruption and ensure public funds are used effectively, even if the accusations are politically motivated."
+            "synthesis": "This benefit is seen as a necessary government intervention to combat rising living costs, supporting low-income families, and addressing food insecurity, aligning with calls for a stronger social safety net and equitable wealth distribution."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Reports on the political dimensions of a major binational infrastructure project, noting how domestic political campaigns can influence perceptions and progress on cross-border initiatives, without endorsing specific allegations."
+            "synthesis": "The report highlights the operational rollout of a federal social program intended to deliver targeted economic relief, focusing on the administrative mechanisms and the demographic reach of the benefit."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "May dismiss the allegations as politically motivated attacks, viewing the focus on 'corruption' as a distraction from the broader challenges of funding and managing large infrastructure projects, and potentially defending the economic rationale for the bridge."
+            "synthesis": "Conservative commentary might question the overall fiscal sustainability and economic efficacy of direct financial aid, potentially raising concerns about its impact on inflation or broader government spending policies."
           }
         },
-        "neutral": "U.S. Democratic candidates are using the delayed opening of the Canada-U.S. Gordie Howe Bridge as a political issue, alleging corruption by former President Trump, which affects the perception of this major bilateral infrastructure project."
+        "neutral": "Canada has commenced its quarterly grocery benefit payments, providing financial assistance to families to help offset high food costs, with individual amounts varying by household composition."
+      }
+    },
+    {
+      "id": "fed-8",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "U.S. Cites China Ties as Factor in Blocking CUSMA Renewal with Canada",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11950765/cusma-renewal-us-block-greer-china/",
+      "summary": "U.S. Trade Representative Jamieson Greer has indicated that the U.S.'s decision to block the renewal of CUSMA (USMCA) stems partly from concerns that Canada's economic ties to China could enable Beijing to gain backdoor access to the American market. This adds a significant national security and geopolitical dimension to the ongoing trade discussions between the U.S. and Canada, pressuring Canada to clarify its strategic alignment.",
+      "graph": ["CUSMA", "Canada-US Relations", "China Relations", "Trade Policy", "National Security", "Geopolitics"],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "This perspective might advocate for Canada's independent foreign policy, cautioning against framing Canada-China relations solely through a U.S. security lens, while still acknowledging the complexities of global trade and security and promoting ethical trade practices."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "The report highlights the intertwining of trade policy with national security imperatives, as articulated by the U.S., signaling increased pressure on Canada regarding its geopolitical alignments and trade relationships."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Conservative voices would emphasize the critical importance of aligning with key allies like the U.S. on national security and economic policy, potentially advocating for a firmer stance on China to safeguard North American economic and security integrity."
+          }
+        },
+        "neutral": "The U.S. is blocking CUSMA renewal due to concerns that Canada's economic ties with China could allow Beijing backdoor access to the American market, intensifying bilateral trade and security discussions."
       }
     }
   ],
   "charter": [],
-  "indigenous": [],
+  "indigenous": [
+    {
+      "id": "ind-1",
+      "category": "Indigenous",
+      "source": "The Narwhal",
+      "title": "Osoyoos Indian Band Initiates Wildfire Forest Restoration with Native Species",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/osoyoos-indian-band-wildfire-forest-restoration/?utm_source=rss",
+      "summary": "The Osoyoos Indian Band, through its company Nk'Mip Forestry, is launching an ecological restoration project on 40 hectares of land devastated by the 2021 Nk'Mip Creek wildfire. The initiative focuses on clearing dead timber, which will be repurposed for community firewood, and replanting diverse native species including trees, berries, and medicinal plants. The goal is to enhance biodiversity, attract wildlife, and build long-term fire resilience in the region.",
+      "graph": ["Indigenous Land Management", "Environmental Restoration", "Wildfire Resilience", "First Nations Self-Governance", "Biodiversity"],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "This project exemplifies Indigenous-led environmental stewardship, emphasizing ecological recovery, biodiversity, and community benefit over commercial exploitation, aligning with principles of reconciliation and environmental justice."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "The initiative represents a practical, science-informed approach to post-wildfire forest management, highlighting community-driven ecological intervention and the detailed planning involved in such restoration efforts."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "While recognizing the local initiative and sustainable resource use for the community, a conservative view might also consider the economic scale of the project, perhaps comparing it to larger commercial forestry operations or broader resource development strategies."
+          }
+        },
+        "neutral": "The Osoyoos Indian Band is implementing an ecological restoration plan to improve fire resilience and biodiversity in wildfire-affected forest lands within its territory, prioritizing native species and community benefit."
+      }
+    }
+  ],
   "criminal": [
     {
-      "id": "e7c2a1b9",
+      "id": "crim-1",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Nova Scotia Woman Granted Further Day Parole After Daughter's Murder Conviction",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/penny-patricia-boudreau-nova-scotia",
-      "summary": "Penny Boudreau, convicted of strangling her daughter, has been granted an additional six months of day parole. The parole board cited \"clear progress\" in her rehabilitation and efforts towards securing paid employment as reasons for the extension, allowing her to continue her reintegration into society under supervision.",
-      "graph": [
-        "Parole System",
-        "Criminal Justice",
-        "Rehabilitation",
-        "Homicide",
-        "Victim Impact"
-      ],
+      "title": "Indian Man Convicted of Second-Degree Murder for Wife's Stabbing After Arriving in Canada",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/indian-man-convicted-for-fatally-stabbing-wife-just-six-days-after-landing-in-canada",
+      "summary": "Jagpreet Singh has been convicted of second-degree murder for the fatal stabbing of his 41-year-old wife, Balwinder Kaur, an incident that occurred just six days after their arrival in Canada. This high-profile criminal case brings to light severe domestic violence and its tragic consequences, particularly for vulnerable new immigrants.",
+      "graph": ["Second-Degree Murder", "Domestic Violence", "Immigration Impact", "Criminal Justice"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -334,73 +311,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Focuses on the rehabilitative aspects of the justice system, supporting parole decisions that acknowledge an offender's progress and efforts towards reintegration, emphasizing societal benefit through successful rehabilitation."
+            "synthesis": "This case underscores the urgent need for support systems for new immigrants, particularly women, to address domestic violence and facilitate integration, highlighting systemic issues and victim protection."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Reports on the parole board's decision-making process, balancing public safety with an offender's progress and potential for reintegration, based on legal criteria and assessments."
+            "synthesis": "The report focuses on the legal proceedings and the conviction, providing factual details about the crime and the application of the criminal justice system in response to a grave act of violence."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "Often expresses concern for public safety and victim's rights, potentially questioning the adequacy of the sentence or the perceived leniency of parole decisions for severe crimes, prioritizing punishment and deterrence."
+            "synthesis": "This event could lead to discussions about the importance of strict law enforcement and the potential implications for immigration vetting processes, emphasizing the need for robust measures to prevent such crimes."
           }
         },
-        "neutral": "A Nova Scotia woman convicted of strangling her daughter has received a six-month extension of day parole due to demonstrated progress and efforts towards employment."
+        "neutral": "Jagpreet Singh was convicted of second-degree murder for the fatal stabbing of his wife, Balwinder Kaur, a crime that occurred just six days after their arrival in Canada."
       }
     },
     {
-      "id": "f2a8c0d1",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Man Charged in Vancouver Beach Attack Released Within 48 Hours, Raising Public Safety Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/man-charged-in-unprovoked-attack-at-vancouver-beach-released-after-less-than-48-hours",
-      "summary": "Carlos Caldera Duarte, charged in connection with an unprovoked attack at a Vancouver beach, was released from custody within 48 hours with court-imposed conditions. This quick release has raised public safety concerns and questions about the judicial system's approach to such incidents, with the accused scheduled to appear in court later.",
-      "graph": [
-        "Criminal Justice System",
-        "Bail Reform",
-        "Public Safety",
-        "Violent Crime",
-        "Court Process"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Advocates for judicial processes that avoid undue detention, focusing on the presumption of innocence and the right to bail, while also emphasizing community support and addressing root causes of crime."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Reports on the legal process, outlining the charge and the conditions of release, and noting the procedural aspects of the justice system. Acknowledges public concern while explaining the legal framework for release."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Expresses strong concerns regarding public safety and the swift release of individuals charged with violent offenses, often criticizing what is perceived as a 'catch-and-release' justice system and calling for stricter bail conditions or pre-trial detention."
-          }
-        },
-        "neutral": "A man charged in an unprovoked attack at a Vancouver beach was released on court-imposed conditions within 48 hours, prompting public safety discussions ahead of his upcoming court date."
-      }
-    },
-    {
-      "id": "a5d0f3c6",
+      "id": "crim-2",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Man Murders Wife Six Days After Arriving in Canada; Victim Feared Husband",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/man-in-canada-just-six-days-murdered-wife",
-      "summary": "A man murdered his wife, Balwinder Kaur, just six days after arriving in Canada. The victim had reportedly expressed fear of her husband, highlighting a severe case of domestic violence and raising questions about the circumstances surrounding the individual's entry into Canada and any potential warning signs.",
-      "graph": [
-        "Homicide",
-        "Domestic Violence",
-        "Criminal Investigation",
-        "Public Safety",
-        "Immigration (indirectly)"
-      ],
+      "title": "British Police Uncover 270 Individuals in Online Sexual Abuse Networks Following Canadian Report",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://torontosun.com/news/world/british-police-270-individuals-online-sexual-abuse-networks",
+      "summary": "A lengthy investigation by British police, triggered by a Canadian report, has led to the identification of 270 individuals involved in extensive online sexual abuse networks. These networks were allegedly used by men to coordinate the drugging and sexual assault of their wives and girlfriends. This significant law enforcement operation demonstrates critical international cooperation against severe online exploitation.",
+      "graph": ["Sexual Abuse", "Online Crime", "International Cooperation", "Law Enforcement", "Criminal Networks"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -410,36 +343,29 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Focuses on systemic issues contributing to domestic violence, advocating for greater support for victims and proactive interventions, and may also examine the efficacy of immigration screening processes for potential risks."
+            "synthesis": "This finding highlights the global reach of sexual violence and the critical need for international cooperation, robust victim support, and proactive measures to address the root causes and online facilitation of such heinous crimes."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Presents the factual details of a tragic criminal event, focusing on the investigation and the victim's expressed fears, without explicit policy commentary."
+            "synthesis": "The focus is on the successful cross-border police operation, detailing the investigative methods and the collaborative efforts between Canadian and British authorities to dismantle complex online criminal networks."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "Emphasizes the severity of the crime and may raise questions about immigration screening and background checks for individuals entering Canada, prioritizing public safety and stricter controls."
+            "synthesis": "This event underscores the importance of strong law enforcement, efficient intelligence sharing across borders, and severe punitive measures for perpetrators of sexual violence and online exploitation to ensure public safety."
           }
         },
-        "neutral": "A man murdered his wife in Canada six days after his arrival, with the victim having previously expressed fear of him, highlighting a tragic case of domestic violence."
+        "neutral": "A Canadian report led to a British police investigation that uncovered 270 individuals linked to online sexual abuse networks, where men allegedly drugged and assaulted partners."
       }
     },
     {
-      "id": "e1f9b3c7",
+      "id": "crim-3",
       "category": "Criminal",
-      "source": "The Hub",
-      "title": "Judicial Delays Lead to 'Get-Out-of-Jail-Free Cards' in Canadian Courts",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/02/getting-away-with-murder-how-canadas-courts-have-turned-delay-into-a-get-out-of-jail-free-card/",
-      "summary": "This article critiques Canada's judicial system, arguing that significant delays, particularly since the Supreme Court's 2016 Jordan decision, allow serious criminal cases to be stayed, effectively granting 'get-out-of-jail-free' cards to accused individuals. Data shows a 60% increase in median criminal case completion times and over half of cases outside Quebec ending without a verdict, leaving victims without justice and exposing systemic failures attributed to the court and government's inability to adapt.",
-      "graph": [
-        "Judicial System Reform",
-        "Criminal Procedure",
-        "Court Delays",
-        "Justice System Efficiency",
-        "Victim Rights",
-        "Rule of Law"
-      ],
+      "source": "Toronto Sun",
+      "title": "Peel Police Recover Nearly $1 Million in Stolen Goods from Square One Break-in",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/peel-police-recover-1-million-stolen-goods",
+      "summary": "Peel Regional Police successfully recovered almost $1 million in stolen property following a break and enter at Square One in Mississauga. This significant recovery operation underscores the ongoing efforts of law enforcement to combat retail theft and organized crime, which pose substantial financial impacts on local businesses and undermine public safety within the community.",
+      "graph": ["Retail Theft", "Organized Crime", "Law Enforcement", "Property Crime", "Public Safety"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -449,37 +375,63 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "Acknowledges the need for a timely justice system but may emphasize the complexity of judicial reform, the need for adequate funding for legal aid and court resources, and addressing systemic inequalities that contribute to delays."
+            "synthesis": "While acknowledging the need for effective policing, this perspective might also emphasize addressing socio-economic factors that contribute to property crime, advocating for community programs alongside law enforcement efforts."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Analyzes the impact of the Jordan decision on criminal case timelines and outcomes, presenting data on rising delays and stayed charges, and discusses the challenges of judicial administration without assigning partisan blame."
+            "synthesis": "This report objectively details the success of a local police operation in recovering stolen assets, focusing on the factual outcome and the immediate impact of law enforcement actions against crime."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "Strongly criticizes the judicial system's inefficiency and the perceived failure to deliver justice, especially for serious crimes. Advocates for immediate and decisive reforms to expedite trials, uphold accountability, and restore confidence in the justice system, prioritizing public safety and victim justice."
+            "synthesis": "Conservative views would highlight the importance of robust policing, effective deterrence, and the protection of private property, associating the recovery with broader initiatives to maintain law and order and combat crime effectively."
           }
         },
-        "neutral": "Canada's judicial system faces scrutiny over increasing trial delays, particularly since the 2016 Jordan decision, leading to a rise in stayed criminal charges and concerns about justice for victims."
+        "neutral": "Peel Regional Police successfully recovered almost $1 million in stolen property following a break-and-enter at Square One, underscoring efforts to combat retail theft and its impact on community safety."
+      }
+    },
+    {
+      "id": "crim-4",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Woman Charged in Oshawa Road Rage Stabbing; Man Sought in Separate Assault",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/woman-charged-oshawa-road-rage-stabbing",
+      "summary": "A 53-year-old woman has been charged by authorities in connection with a road rage stabbing incident that occurred in Oshawa. Concurrently, police are actively seeking a man involved in a separate assault using a metal pole. These incidents collectively raise concerns about increasing public aggression and violent crime within local communities.",
+      "graph": ["Violent Crime", "Assault", "Road Rage", "Law Enforcement", "Public Safety"],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "This event may prompt discussions on addressing underlying societal factors contributing to violence and aggression, advocating for community-based interventions and mental health support alongside police action."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "The report focuses on the factual details of the criminal incidents, including charges laid and ongoing investigations, demonstrating the procedural response of local law enforcement to acts of violence."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "This situation underscores the demand for swift and decisive law enforcement responses, emphasizing the importance of strong penalties for violent crimes and maintaining public order and safety through effective policing."
+          }
+        },
+        "neutral": "A 53-year-old woman was charged in an Oshawa road rage stabbing, while authorities concurrently seek a man for a separate metal-pole assault, highlighting recent violent incidents."
       }
     }
   ],
   "immigration": [
     {
-      "id": "c3d9e0f2",
+      "id": "imm-1",
       "category": "Immigration",
       "source": "National Post",
-      "title": "RCMP Arrests Two in Montreal Human Smuggling Probe Targeting Both-Direction Border Crossings",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/rcmp-montreal-human-smuggling-investigation",
-      "summary": "The RCMP in Montreal have arrested two individuals in connection with an alleged human smuggling operation. This investigation indicates that the smuggling ring facilitated the illegal movement of migrants across the Canada-U.S. border in both directions, highlighting complex border security challenges and transnational criminal activity.",
-      "graph": [
-        "Human Smuggling",
-        "Border Security",
-        "Law Enforcement",
-        "Illegal Migration",
-        "Transnational Crime"
-      ],
+      "title": "Turkish Man Convicted of Shooting Gains Fourth Chance to Stay in Canada After Refugee Claim Denied for Decade",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/turkish-man-who-shot-two-people-gets-another-chance-to-stay-in-canada-10-years-after-refugee-claim-first-denied",
+      "summary": "Nevzat Etik, a Turkish national convicted of shooting two people, has been granted a fourth appeal to remain in Canada, a decade after his initial refugee claim was rejected. A judge ruled that a previous appeal decision failed to adequately assess the severity of his crime within the context of Canadian criminal law, allowing for further review of his admissibility despite his significant criminal record.",
+      "graph": ["Immigration Law", "Refugee Claims", "Criminal Inadmissibility", "Judicial Review", "Deportation Appeals"],
       "spectrum": {
         "baseline": {
           "left": 33,
@@ -489,18 +441,18 @@
         "zones": {
           "left": {
             "label": "Progressive Context",
-            "synthesis": "May focus on the vulnerabilities of migrants exploited by smugglers, advocating for safer and more orderly immigration pathways, and addressing root causes of irregular migration."
+            "synthesis": "This case highlights the importance of due process, access to multiple levels of appeal, and thorough legal assessment for all individuals, even those with criminal histories, ensuring humanitarian considerations and fair application of immigration laws."
           },
           "center": {
             "label": "Procedural Context",
-            "synthesis": "Reports on law enforcement actions to counter human smuggling, emphasizing the operational challenges of managing border integrity and combating criminal networks involved in illegal crossings."
+            "synthesis": "The focus is on the legal procedural intricacies of immigration and refugee claims, particularly the role of judicial review in ensuring that administrative decisions, especially regarding criminal inadmissibility, correctly apply Canadian law."
           },
           "right": {
             "label": "Conservative Context",
-            "synthesis": "Emphasizes the need for stricter border controls and increased enforcement against human smuggling rings, highlighting concerns about national security and the integrity of immigration systems."
+            "synthesis": "Conservative critics would express alarm over the system allowing multiple appeals for individuals with serious criminal convictions, questioning the efficiency, strictness, and national security implications of current immigration and refugee processes."
           }
         },
-        "neutral": "The RCMP in Montreal have made two arrests in an investigation into an alleged human smuggling ring operating across the Canada-U.S. border in both directions."
+        "neutral": "A Turkish man convicted of shooting two individuals has received a fourth opportunity for appeal to remain in Canada, with a judge citing an insufficient assessment of his crime's severity in previous decisions."
       }
     }
   ]
