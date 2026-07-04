@@ -1,459 +1,199 @@
 {
   "federalism": [
     {
-      "id": "fed-1",
+      "id": "carney-pipeline-deal-AB-BC",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "U.S. Ambassador Reports Stalled Progress in CUSMA Trade Negotiations with Canada",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss",
-      "summary": "U.S. Ambassador to Canada Pete Hoekstra has stated that after 14 months, trade negotiations between Canada and the Trump administration have seen 'no significant progress' on issues related to CUSMA's future. Despite the lack of breakthroughs, Hoekstra confirmed the U.S. commitment to continued talks, emphasizing that the existing deal remains in effect for another decade unless a formal six-month withdrawal notice is issued. The U.S. also indicated a desire for Canadian oil.",
-      "graph": ["Canada-US Relations", "Trade Negotiations", "CUSMA", "International Diplomacy", "Economic Policy"],
+      "source": "rabble.ca",
+      "title": "Prime Minister Carney Finalizes Pipeline Agreement with Alberta and British Columbia",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://rabble.ca/politics/canadian-politics/mark-carney-strikes-a-pipeline-deal-with-alberta-and-british-columbia/",
+      "summary": "Prime Minister Mark Carney has brokered a new pipeline agreement with the governments of Alberta and British Columbia, aiming to balance economic development with environmental considerations. Details of the deal, which rabble.ca notes as a complex compromise, were not fully accessible due to content restrictions but signify a major inter-provincial and federal collaboration on energy infrastructure.",
+      "graph": ["Federal-Provincial Relations", "Energy Policy", "Infrastructure", "Environmental Governance", "Resource Development"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 60, "center": 20, "right": 20 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This situation highlights the instability introduced by the Trump administration's protectionist stance, underscoring the urgency for Canada to diversify its trade partnerships beyond a potentially unreliable U.S. market."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The report focuses on the ongoing diplomatic process and the complexities inherent in renegotiating major trade agreements, providing an objective update on the state of bilateral discussions without immediate resolution."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "From this perspective, the Trump administration's assertive trade strategy and the pressure on Canada to make concessions are central, potentially advocating for Canada to leverage its resource strengths, such as oil, to achieve a more favorable outcome."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "From a progressive viewpoint, this deal is likely seen as a reluctant concession to fossil fuel interests, potentially undermining climate goals while perpetuating reliance on oil and gas. There would be scrutiny on the environmental review processes, Indigenous consultation, and the long-term sustainability of such projects, questioning if it truly 'saves the planet' as the snippet implies sarcastically." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the complex negotiations and the framework of federal-provincial cooperation required to advance major inter-provincial projects. It examines the mechanisms for balancing economic interests, provincial autonomy, and federal oversight in national infrastructure development, highlighting the pragmatic need for agreement among diverse stakeholders." },
+          "right": { "label": "Conservative Context", "synthesis": "From a conservative or market-oriented perspective, this agreement would be largely welcomed as a vital step for national economic development, resource export capacity, and strengthening the energy sector. Emphasis would be placed on unlocking economic potential, creating jobs, and ensuring energy security, with environmental concerns considered within a framework that prioritizes economic growth and provincial resource jurisdiction." }
         },
-        "neutral": "U.S. Ambassador Hoekstra reports stalled progress in CUSMA trade talks with Canada, emphasizing continued negotiation despite lack of significant breakthroughs and the U.S. desire for Canadian oil."
+        "neutral": "Prime Minister Carney has finalized an agreement with Alberta and British Columbia for a new pipeline project, representing a significant federal-provincial initiative to balance energy development and environmental considerations."
       }
     },
     {
-      "id": "fed-2",
+      "id": "west-coast-pipeline-taxpayer-cost",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Government to Review Intervention Powers in Canada Labour Code",
-      "citation": "July 2026 Tracking Window",
+      "title": "Federal Minister Defends Potential Taxpayer Burden for New West Coast Pipeline",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+      "summary": "Energy Minister Tim Hodgson asserts that a proposed second West Coast pipeline, with an estimated cost ranging from $35.2 billion to $43.7 billion, represents a sound investment for Canadian taxpayers, despite the federal government's inability to specify its exact financial contribution at this stage. The project is planned as a federal-provincial partnership with minority private sector involvement.",
+      "graph": ["Energy Infrastructure", "Public Finance", "Federal-Provincial Partnership", "Economic Development", "Fiscal Responsibility"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would critically question the use of substantial taxpayer funds for fossil fuel infrastructure, advocating instead for investments in green energy and social programs. Concerns would be raised about financial risk to the public, environmental impacts, and whether such projects align with long-term climate commitments." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the government's justification for public investment in a strategic national project, acknowledging the inherent financial uncertainties in large infrastructure ventures. It would examine the proposed partnership structure and the process for determining federal and provincial shares, emphasizing the need for robust cost-benefit analysis and oversight." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely support the pipeline as a critical economic driver for resource exports and national prosperity, seeing federal investment as a necessary measure to de-risk and ensure the completion of vital infrastructure. While acknowledging cost, they would emphasize the long-term economic returns and the importance of market access for Canadian resources." }
+        },
+        "neutral": "Energy Minister Tim Hodgson has stated that a new multi-billion dollar West Coast pipeline is a beneficial taxpayer investment, despite ongoing discussions about the precise federal financial commitment in the project."
+      }
+    },
+    {
+      "id": "carney-spending-transparency-critique",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Economists Criticize Federal Government's Major Projects Spending for Lack of Transparency",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-carney-spending-bc-alberta-major-projects-pipeline/",
+      "summary": "Economists have raised concerns about Prime Minister Carney's recent announcements of significant projects, particularly in Alberta and British Columbia, criticizing the federal government for insufficient detail and transparency regarding the financial specifics and annual spending allocations for these initiatives.",
+      "graph": ["Government Spending", "Fiscal Transparency", "Economic Policy", "Public Accountability", "Infrastructure Funding"],
+      "spectrum": {
+        "baseline": { "left": 35, "center": 35, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would emphasize the need for transparency and public accountability in government spending, particularly for large-scale projects, to ensure funds are allocated equitably and align with social and environmental priorities, not just economic growth." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral assessment would focus on the established protocols for public finance and reporting, highlighting the expectation for comprehensive financial disclosures in major government initiatives. It would underscore the role of economists in analyzing fiscal responsibility and the implications of opaque spending." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would strongly advocate for fiscal prudence and detailed budgetary oversight, criticizing any lack of transparency as potentially indicative of wasteful spending or political opportunism. They would demand clear justifications for public investments and adherence to rigorous economic impact assessments." }
+        },
+        "neutral": "Economists have voiced criticism regarding the lack of specific financial details and transparency in Prime Minister Carney's announcements concerning major federal projects, including a new West Coast pipeline."
+      }
+    },
+    {
+      "id": "carbon-pricing-oilsands-investment",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Study Finds Federal Carbon Pricing Eradicates Oilsands Investment Competitiveness",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/04/canadas-carbon-pricing-wipes-out-alberta-oil-sands-edge-in-attracting-investment-dollars-for-new-pipeline-study/",
+      "summary": "A Fraser Institute study contends that Canada's federal carbon pricing policy significantly elevates the production costs for oilsands crude, thereby eroding Alberta's historical tax advantage and its capacity to attract investment for new pipeline developments when compared to US jurisdictions. The study's findings highlight an adverse impact on the competitiveness of the Canadian energy sector.",
+      "graph": ["Carbon Pricing", "Energy Policy", "Resource Economy", "Investment Competitiveness", "Federal Environmental Policy"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would view carbon pricing as an essential mechanism for combating climate change and transitioning to a green economy, arguing that any competitive disadvantage for fossil fuels is a necessary outcome of environmental policy. They would challenge the study's framing by emphasizing the broader societal benefits of reduced emissions." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral examination would present the study's economic analysis as a contribution to the policy debate on carbon pricing and its sector-specific impacts. It would highlight the complexities of balancing environmental goals with economic competitiveness in resource-dependent regions, inviting further discussion on policy adjustments." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative and market-oriented analyses would strongly leverage this study to critique federal carbon pricing as a harmful intervention that stifles economic growth, deters investment, and undermines national resource industries. They would advocate for policies that prioritize energy sector competitiveness and reduce the fiscal burden on producers." }
+        },
+        "neutral": "A recent study indicates that federal carbon pricing significantly increases oilsands production costs, diminishing Alberta's competitive edge for pipeline investment against US rivals."
+      }
+    },
+    {
+      "id": "labour-code-intervention-review",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Federal Government Initiates Second Round of Consultations on Canada Labour Code Interventions",
+      "citation": "June 2026 Tracking Window",
       "url": "https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss",
-      "summary": "Jobs Minister Patty Hajdu announced a second round of consultations to explore 'guardrails' and alternatives to Section 107 of the Canada Labour Code, a 'contentious' tool allowing federal intervention, including binding arbitration, in bitter labour disputes. The government aims to modernize the code to foster earlier dispute resolution and minimize the need for ministerial intervention, acknowledging diverse feedback from employers and unions.",
-      "graph": ["Canada Labour Code", "Labour Relations", "Government Intervention", "Binding Arbitration", "Federal Policy"],
+      "summary": "Federal Jobs Minister Patty Hajdu announced further consultations to examine \"guardrails\" or alternatives for Section 107 of the Canada Labour Code, a controversial provision allowing government intervention in labour disputes via binding arbitration. The review aims to modernize the code, reduce prolonged work stoppages, and enhance transparency in federal mediation efforts.",
+      "graph": ["Labour Law", "Federal Legislation", "Industrial Relations", "Collective Bargaining", "Government Regulation"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 40, "center": 30, "right": 30 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive viewpoints likely emphasize strengthening workers' collective bargaining rights and caution against government interventions that could undermine union autonomy, advocating for fair processes that prioritize worker well-being."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "This development centers on the government's procedural efforts to balance industrial peace with equitable bargaining, seeking practical improvements to reduce protracted conflicts and optimize the application of labour law."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative perspectives may highlight the economic costs of prolonged work stoppages, advocating for clear, efficient government tools to ensure market stability and essential services, potentially favoring intervention criteria that prevent economic disruption."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices, particularly from unions, would advocate for strengthening workers' rights and collective bargaining, viewing Section 107 as an infringement on the right to strike. They would push for alternatives that empower workers and prevent government overreach in labour disputes." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the government's efforts to update and refine the legal framework governing industrial relations. It highlights the balance between fostering industrial peace and protecting labour rights, and the administrative implications of modifying federal intervention tools." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might emphasize the economic disruption caused by strikes and advocate for government tools that ensure rapid resolution of labour disputes to maintain business continuity and economic stability. They may support interventionist measures, if carefully deployed, to prevent significant economic harm." }
         },
-        "neutral": "The federal government is consulting on reforms to Section 107 of the Canada Labour Code, aiming to minimize interventions in labour disputes and encourage earlier resolution, amidst varied feedback from stakeholders."
+        "neutral": "Federal Jobs Minister Patty Hajdu is leading further consultations to explore modifications or alternatives to Section 107 of the Canada Labour Code, a controversial tool for government intervention in labour disputes."
       }
     },
     {
-      "id": "fed-3",
+      "id": "dnd-f35-business-card-rebuke",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Alberta Proposes $35B+ Southern Oil Pipeline to Pacific Coast for Asian Exports",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/alberta-pipeline-proposal-ottawa-major-projects-9.7254251?cmp=rss",
-      "summary": "Alberta has formally proposed a new $35.2 billion to $43.7 billion oil pipeline project to the southwest coast of British Columbia. This partnership with federally-owned Trans Mountain Corp. and Pembina Pipeline Corp. aims to export over one million barrels per day to Asian markets by 2032-2034, doubling Alberta's oil production. The southern route, mirroring the existing Trans Mountain corridor, is presented as having less environmental impact, coinciding with a federal-B.C. agreement to maintain the North Coast oil tanker ban.",
-      "graph": ["Energy Infrastructure", "Interprovincial Relations", "Oil Exports", "Environmental Impact", "Indigenous Consultation", "Economic Development"],
+      "title": "Department of National Defence Official Reprimanded for Unauthorized F-35 Business Card",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/f-35s-defence-department-business-card-9.7257273?cmp=rss",
+      "summary": "A Department of National Defence official received a reprimand for using a customized business card featuring F-35 fighter jets, which violates federal standards dictating that only the Canadian flag may be used as an illustration on government business cards. The incident occurred amidst a sensitive review of Canada's fighter jet procurement program, raising concerns about public service neutrality and adherence to official protocols.",
+      "graph": ["Government Ethics", "Public Service Conduct", "Military Procurement", "Federal Regulations", "Defence Policy"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 40, "center": 50, "right": 10 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Environmental groups and progressives are likely to criticize the project for increasing fossil fuel reliance and associated carbon emissions, raising concerns about potential spills and the broader climate impact, even with the southern route's lower impact claim."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Analysis would focus on the complex intergovernmental collaboration, the economic rationale for diversifying oil markets, the logistical considerations of pipeline construction, and the regulatory processes, including Indigenous engagement and environmental assessments."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservatives and industry advocates would emphasize the significant economic benefits, increased energy security through market diversification, and the strategic importance of expanding Alberta's oil export capacity, possibly downplaying environmental opposition."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critics might view this as symptomatic of deeper issues within military procurement, such as potential undue influence from defense contractors or a lack of transparency. They would call for stricter ethical guidelines and accountability in the DND." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would underscore the importance of strict adherence to public service guidelines and ethical standards, especially concerning procurement. It highlights the principle of neutrality expected from public servants to avoid any appearance of bias or conflict of interest in sensitive federal contracts." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might downplay the significance of the business card as a minor administrative oversight, emphasizing the more substantive goal of efficient military procurement. They might argue against excessive bureaucracy and focus on the strategic importance of acquiring necessary defense assets." }
         },
-        "neutral": "Alberta proposes a $35-43 billion southern pipeline to Canada's Pacific coast to increase oil exports to Asia, partnering with federal and private entities, with the project slated for completion by 2032-2034."
+        "neutral": "A Department of National Defence official was formally disciplined for using a non-compliant business card adorned with F-35 jets, contravening federal guidelines on public service neutrality during a critical fighter jet procurement review."
       }
     },
     {
-      "id": "fed-4",
+      "id": "24-sussex-fundraising-bipartisan",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Canada's Foreign Influence Registry to Launch in Early August",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canadas-foreign-influence-registry-expected-to-launch-in-early-august/",
-      "summary": "Canada's Foreign Influence Transparency Registry will officially come into force in early August, requiring individuals and entities acting on behalf of foreign states to register activities aimed at influencing domestic politics. Failure to register can result in fines up to $1 million. While applicable across federal, provincial, territorial, and municipal politics, the registry currently exempts those seeking to influence Indigenous bands or governments. Anton Boegman has been appointed as the inaugural Transparency Commissioner.",
-      "graph": ["Foreign Interference", "National Security", "Legislation", "Transparency", "Diplomacy"],
+      "title": "Former Prime Ministers Chrétien and Harper Lead Fundraising for 24 Sussex Drive Restoration",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-chretien-harper-to-take-key-roles-in-24-sussex-fundraising-campaign/",
+      "summary": "Former Prime Ministers Jean Chrétien and Stephen Harper are set to play leading roles in a fundraising campaign aimed at restoring 24 Sussex Drive, the dilapidated official residence of the Prime Minister. This bipartisan collaboration signals a significant effort to address the long-standing issue of the property's disrepair.",
+      "graph": ["National Heritage", "Government Property", "Political Cooperation", "Public-Private Partnerships", "Cultural Preservation"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 30, "center": 50, "right": 20 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This action is seen as crucial for protecting democratic integrity and human rights from foreign coercion, though concerns may be raised regarding potential for stigmatization of diaspora communities or the unexplained exemption for Indigenous governments."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The focus is on the long-anticipated implementation of new legislation designed to enhance transparency and mitigate national security risks associated with foreign influence, noting the administrative and legal details of its rollout."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "This initiative is generally welcomed as a vital measure to safeguard national sovereignty and counter hostile foreign influence, with some voices potentially criticizing the delays in its implementation or questioning the scope of its exemptions."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely support the restoration of a national heritage site, but might raise questions about the reliance on private fundraising for public property and whether public funds should be prioritized for social housing or more immediate needs." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis highlights the practical challenge of maintaining national assets and the collaborative efforts across political lines to secure funding. It examines the mechanisms of public-private partnerships for heritage preservation and the symbolic importance of the Prime Minister's residence." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely view the restoration as necessary for national symbolism and pride, but might critique the decades of government inaction that led to disrepair and question the long-term cost-effectiveness of maintaining such a property, potentially favouring more cost-efficient solutions." }
         },
-        "neutral": "Canada's new Foreign Influence Transparency Registry, designed to curb undue foreign influence in domestic politics, will come into force in early August, with fines for non-compliance, though Indigenous governments are currently exempt."
+        "neutral": "Former Prime Ministers Jean Chrétien and Stephen Harper are spearheading a fundraising initiative for the restoration of 24 Sussex Drive, marking a bipartisan effort to address the federal property's dilapidated state."
       }
     },
     {
-      "id": "fed-5",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Report Advises Canada Against Rushing into New CUSMA Deal Amid 'Zombie' Pact Status",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canada-us-mexico-zombie-trade-pact-usmca-deal-report/",
-      "summary": "A report by a group of trade and foreign policy experts advises the Canadian government to accept the current 'zombie' state of the Canada-United States-Mexico Agreement (CUSMA/USMCA) rather than succumbing to pressure for a hasty renegotiation following the U.S.'s decision not to extend the deal. The experts argue that prolonged uncertainty should not force Canada into a quick agreement, advocating for a strategic, patient approach to protect national interests.",
-      "graph": ["CUSMA", "Trade Policy", "Canada-US Relations", "Economic Strategy", "International Trade Agreements"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive views might see this as an opportunity to reassess Canada's economic dependence on the U.S. and advocate for stronger national economic sovereignty and diversification, potentially exploring alternative trade models or partners."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "This perspective emphasizes the need for a pragmatic and carefully deliberated trade policy, focusing on strategic patience and meticulous negotiation to safeguard Canadian economic interests in a complex and unpredictable international trade landscape."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative voices might express concern over the ongoing trade uncertainty's impact on business and investment, possibly urging for a swift resolution to stabilize the trade relationship, even if it entails making concessions."
-          }
-        },
-        "neutral": "A report suggests Canada should accept the current uncertain status of CUSMA and avoid rushing into new trade negotiations with the U.S., advocating for strategic patience amidst ongoing trade complexities."
-      }
-    },
-    {
-      "id": "fed-6",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Canada and Philippines Sign Joint Agreements, Advancing Trade Deal Prospects",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-philippines-trade-energy-tourism-carney-marcos/",
-      "summary": "Prime Minister Mark Carney and Philippines President Ferdinand Marcos Jr. have signed several joint agreements covering energy, natural resources, labour, and tourism during President Marcos's visit to Canada. These agreements are seen as significant steps towards fostering a broader bilateral trade deal, reflecting Canada's strategic efforts to diversify its international trade partnerships beyond traditional markets and deepen engagement in the Asia-Pacific region.",
-      "graph": ["International Trade", "Diplomatic Relations", "Economic Diversification", "Asia-Pacific Strategy"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This move is largely viewed as positive, promoting international cooperation, responsible resource management, and potentially improved labour standards through new bilateral frameworks, aligning with broader global engagement goals."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The focus is on the concrete steps taken to expand diplomatic and trade relations, detailing the agreements signed and their role in facilitating future economic growth and diversification efforts."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "From a conservative standpoint, such trade deals are beneficial for opening new markets, fostering economic expansion, and reducing over-reliance on existing trade partners, thereby enhancing Canada's economic resilience."
-          }
-        },
-        "neutral": "Canada and the Philippines have signed agreements across key sectors, including energy, natural resources, labour, and tourism, laying groundwork for a potential free trade deal and advancing Canada's trade diversification efforts."
-      }
-    },
-    {
-      "id": "fed-7",
+      "id": "nato-defence-spending-proof-refusal",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Canada Begins Quarterly Rollout of Grocery Benefit Payments",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11951427/canada-groceries-essentials-benefit-payment/",
-      "summary": "The Canadian government has initiated the first of its quarterly grocery benefit payments, aiming to provide financial relief to families grappling with elevated food costs. The annual amounts disbursed under this program are designed to vary based on the recipient's marital status and the number of children in their household, with payments ranging from a few hundred to over a thousand dollars per family.",
-      "graph": ["Social Programs", "Cost of Living", "Federal Benefits", "Economic Support", "Food Security"],
+      "title": "Federal Government Withholds Data for Prime Minister Carney's NATO Defence Spending Targets",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11952327/canada-nato-carney-defence-spending-claims-liberals/",
+      "summary": "The Liberal government has declined to provide supporting data for Prime Minister Carney's assertion that Canada is on track to allocate four percent of its GDP to total defence spending by 2030. This refusal has prompted questions regarding the fiscal transparency of the government's international commitments and its adherence to NATO targets.",
+      "graph": ["Defence Spending", "NATO Commitments", "Fiscal Transparency", "Government Accountability", "International Relations"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 35, "center": 40, "right": 25 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This benefit is seen as a necessary government intervention to combat rising living costs, supporting low-income families, and addressing food insecurity, aligning with calls for a stronger social safety net and equitable wealth distribution."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The report highlights the operational rollout of a federal social program intended to deliver targeted economic relief, focusing on the administrative mechanisms and the demographic reach of the benefit."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative commentary might question the overall fiscal sustainability and economic efficacy of direct financial aid, potentially raising concerns about its impact on inflation or broader government spending policies."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would criticize the opaqueness in defence spending, advocating for greater transparency and public oversight to ensure funds are used responsibly and that military expenditures do not disproportionately impact social programs or climate initiatives. They might question the necessity of such high spending targets." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the government's obligation for fiscal transparency and accountability, especially regarding international financial commitments like NATO targets. It highlights the importance of providing verifiable data to support public claims and maintain public trust." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely demand full transparency and proof of Canada's commitment to NATO defence spending targets, viewing it as crucial for national security and international standing. They would criticize the government's refusal to provide data as a potential sign of unmet obligations or misleading claims." }
         },
-        "neutral": "Canada has commenced its quarterly grocery benefit payments, providing financial assistance to families to help offset high food costs, with individual amounts varying by household composition."
-      }
-    },
-    {
-      "id": "fed-8",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "U.S. Cites China Ties as Factor in Blocking CUSMA Renewal with Canada",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11950765/cusma-renewal-us-block-greer-china/",
-      "summary": "U.S. Trade Representative Jamieson Greer has indicated that the U.S.'s decision to block the renewal of CUSMA (USMCA) stems partly from concerns that Canada's economic ties to China could enable Beijing to gain backdoor access to the American market. This adds a significant national security and geopolitical dimension to the ongoing trade discussions between the U.S. and Canada, pressuring Canada to clarify its strategic alignment.",
-      "graph": ["CUSMA", "Canada-US Relations", "China Relations", "Trade Policy", "National Security", "Geopolitics"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This perspective might advocate for Canada's independent foreign policy, cautioning against framing Canada-China relations solely through a U.S. security lens, while still acknowledging the complexities of global trade and security and promoting ethical trade practices."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The report highlights the intertwining of trade policy with national security imperatives, as articulated by the U.S., signaling increased pressure on Canada regarding its geopolitical alignments and trade relationships."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative voices would emphasize the critical importance of aligning with key allies like the U.S. on national security and economic policy, potentially advocating for a firmer stance on China to safeguard North American economic and security integrity."
-          }
-        },
-        "neutral": "The U.S. is blocking CUSMA renewal due to concerns that Canada's economic ties with China could allow Beijing backdoor access to the American market, intensifying bilateral trade and security discussions."
+        "neutral": "The Liberal government is facing scrutiny for not providing evidence to substantiate Prime Minister Carney's pledge for Canada to reach four percent of GDP in NATO defence spending by 2030."
       }
     }
   ],
   "charter": [],
-  "indigenous": [
-    {
-      "id": "ind-1",
-      "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Osoyoos Indian Band Initiates Wildfire Forest Restoration with Native Species",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/osoyoos-indian-band-wildfire-forest-restoration/?utm_source=rss",
-      "summary": "The Osoyoos Indian Band, through its company Nk'Mip Forestry, is launching an ecological restoration project on 40 hectares of land devastated by the 2021 Nk'Mip Creek wildfire. The initiative focuses on clearing dead timber, which will be repurposed for community firewood, and replanting diverse native species including trees, berries, and medicinal plants. The goal is to enhance biodiversity, attract wildlife, and build long-term fire resilience in the region.",
-      "graph": ["Indigenous Land Management", "Environmental Restoration", "Wildfire Resilience", "First Nations Self-Governance", "Biodiversity"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This project exemplifies Indigenous-led environmental stewardship, emphasizing ecological recovery, biodiversity, and community benefit over commercial exploitation, aligning with principles of reconciliation and environmental justice."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The initiative represents a practical, science-informed approach to post-wildfire forest management, highlighting community-driven ecological intervention and the detailed planning involved in such restoration efforts."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "While recognizing the local initiative and sustainable resource use for the community, a conservative view might also consider the economic scale of the project, perhaps comparing it to larger commercial forestry operations or broader resource development strategies."
-          }
-        },
-        "neutral": "The Osoyoos Indian Band is implementing an ecological restoration plan to improve fire resilience and biodiversity in wildfire-affected forest lands within its territory, prioritizing native species and community benefit."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "crim-1",
+      "id": "refugee-stabbing-release-concern",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Indian Man Convicted of Second-Degree Murder for Wife's Stabbing After Arriving in Canada",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/indian-man-convicted-for-fatally-stabbing-wife-just-six-days-after-landing-in-canada",
-      "summary": "Jagpreet Singh has been convicted of second-degree murder for the fatal stabbing of his 41-year-old wife, Balwinder Kaur, an incident that occurred just six days after their arrival in Canada. This high-profile criminal case brings to light severe domestic violence and its tragic consequences, particularly for vulnerable new immigrants.",
-      "graph": ["Second-Degree Murder", "Domestic Violence", "Immigration Impact", "Criminal Justice"],
+      "title": "Review Board Considers Release of Refugee with Violent History Despite Public Safety Concerns",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/man-who-stabbed-stranger-could-soon-be-freed-from-ontario-hospital-despite-significant-threat-to-the-public",
+      "summary": "Delroy Apple, a refugee with 39 prior criminal convictions including sexual assault and armed robbery, is being considered for release from an Ontario hospital by a review board, despite warnings of a 'significant threat to the public.' This case highlights the tension between patient rights, rehabilitation, and public safety within the Canadian justice system.",
+      "graph": ["Criminal Justice", "Public Safety", "Mental Health Law", "Forensic Psychiatry", "High-Risk Offenders"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 25, "center": 40, "right": 35 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This case underscores the urgent need for support systems for new immigrants, particularly women, to address domestic violence and facilitate integration, highlighting systemic issues and victim protection."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The report focuses on the legal proceedings and the conviction, providing factual details about the crime and the application of the criminal justice system in response to a grave act of violence."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "This event could lead to discussions about the importance of strict law enforcement and the potential implications for immigration vetting processes, emphasizing the need for robust measures to prevent such crimes."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views might emphasize the importance of rehabilitation, mental health support, and the rights of individuals within the justice system, while also acknowledging public safety concerns. There could be calls for more resources for mental health services to prevent re-offending rather than indefinite detention." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the legal process of the review board, balancing expert psychiatric assessments, patient rights, and the statutory mandate to protect public safety. It highlights the complex decision-making involved in managing high-risk individuals within the forensic mental health system." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would prioritize public safety, emphasizing the individual's extensive criminal record and the stated \"significant threat.\" They would likely advocate for stricter controls, longer detention periods, and question decisions that could place the public at risk, particularly in cases involving repeat offenders." }
         },
-        "neutral": "Jagpreet Singh was convicted of second-degree murder for the fatal stabbing of his wife, Balwinder Kaur, a crime that occurred just six days after their arrival in Canada."
+        "neutral": "An Ontario review board is assessing the potential release of a refugee with a long criminal history, including violent offenses, from a hospital, prompting public safety concerns."
       }
     },
     {
-      "id": "crim-2",
+      "id": "ttc-sexual-assault-allegations",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "British Police Uncover 270 Individuals in Online Sexual Abuse Networks Following Canadian Report",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/british-police-270-individuals-online-sexual-abuse-networks",
-      "summary": "A lengthy investigation by British police, triggered by a Canadian report, has led to the identification of 270 individuals involved in extensive online sexual abuse networks. These networks were allegedly used by men to coordinate the drugging and sexual assault of their wives and girlfriends. This significant law enforcement operation demonstrates critical international cooperation against severe online exploitation.",
-      "graph": ["Sexual Abuse", "Online Crime", "International Cooperation", "Law Enforcement", "Criminal Networks"],
+      "title": "Police Investigate Multiple Sexual Assault Allegations on TTC Transit System",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/man-allegedly-sexually-assaulted-multiple-women-ttc",
+      "summary": "Toronto police are actively investigating allegations against a 30-year-old man accused of sexually assaulting multiple women while using the Toronto Transit Commission (TTC). Authorities express concern that there may be additional victims beyond those already identified in this ongoing investigation.",
+      "graph": ["Sexual Assault", "Public Transit Safety", "Criminal Investigation", "Victim Support", "Urban Crime"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This finding highlights the global reach of sexual violence and the critical need for international cooperation, robust victim support, and proactive measures to address the root causes and online facilitation of such heinous crimes."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The focus is on the successful cross-border police operation, detailing the investigative methods and the collaborative efforts between Canadian and British authorities to dismantle complex online criminal networks."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "This event underscores the importance of strong law enforcement, efficient intelligence sharing across borders, and severe punitive measures for perpetrators of sexual violence and online exploitation to ensure public safety."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would highlight systemic issues contributing to violence against women, such as gender inequality and the need for comprehensive public safety strategies on transit. They would advocate for increased victim support, preventative measures, and addressing root causes of sexual violence." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the police investigation, the judicial process for alleged sexual assault, and the importance of public cooperation in identifying potential victims. It addresses the practical challenges of ensuring safety on public transit and the due process for the accused." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would emphasize strict law enforcement and accountability for offenders, advocating for robust policing and judicial responses to protect public safety, particularly on public transit. They might call for harsher penalties and increased surveillance in high-risk areas." }
         },
-        "neutral": "A Canadian report led to a British police investigation that uncovered 270 individuals linked to online sexual abuse networks, where men allegedly drugged and assaulted partners."
-      }
-    },
-    {
-      "id": "crim-3",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Peel Police Recover Nearly $1 Million in Stolen Goods from Square One Break-in",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/peel-police-recover-1-million-stolen-goods",
-      "summary": "Peel Regional Police successfully recovered almost $1 million in stolen property following a break and enter at Square One in Mississauga. This significant recovery operation underscores the ongoing efforts of law enforcement to combat retail theft and organized crime, which pose substantial financial impacts on local businesses and undermine public safety within the community.",
-      "graph": ["Retail Theft", "Organized Crime", "Law Enforcement", "Property Crime", "Public Safety"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "While acknowledging the need for effective policing, this perspective might also emphasize addressing socio-economic factors that contribute to property crime, advocating for community programs alongside law enforcement efforts."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "This report objectively details the success of a local police operation in recovering stolen assets, focusing on the factual outcome and the immediate impact of law enforcement actions against crime."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative views would highlight the importance of robust policing, effective deterrence, and the protection of private property, associating the recovery with broader initiatives to maintain law and order and combat crime effectively."
-          }
-        },
-        "neutral": "Peel Regional Police successfully recovered almost $1 million in stolen property following a break-and-enter at Square One, underscoring efforts to combat retail theft and its impact on community safety."
-      }
-    },
-    {
-      "id": "crim-4",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Woman Charged in Oshawa Road Rage Stabbing; Man Sought in Separate Assault",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/woman-charged-oshawa-road-rage-stabbing",
-      "summary": "A 53-year-old woman has been charged by authorities in connection with a road rage stabbing incident that occurred in Oshawa. Concurrently, police are actively seeking a man involved in a separate assault using a metal pole. These incidents collectively raise concerns about increasing public aggression and violent crime within local communities.",
-      "graph": ["Violent Crime", "Assault", "Road Rage", "Law Enforcement", "Public Safety"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This event may prompt discussions on addressing underlying societal factors contributing to violence and aggression, advocating for community-based interventions and mental health support alongside police action."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The report focuses on the factual details of the criminal incidents, including charges laid and ongoing investigations, demonstrating the procedural response of local law enforcement to acts of violence."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "This situation underscores the demand for swift and decisive law enforcement responses, emphasizing the importance of strong penalties for violent crimes and maintaining public order and safety through effective policing."
-          }
-        },
-        "neutral": "A 53-year-old woman was charged in an Oshawa road rage stabbing, while authorities concurrently seek a man for a separate metal-pole assault, highlighting recent violent incidents."
+        "neutral": "Toronto police are investigating a 30-year-old man for allegedly sexually assaulting multiple women on the TTC, with concerns of more unidentified victims."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "imm-1",
-      "category": "Immigration",
-      "source": "National Post",
-      "title": "Turkish Man Convicted of Shooting Gains Fourth Chance to Stay in Canada After Refugee Claim Denied for Decade",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/turkish-man-who-shot-two-people-gets-another-chance-to-stay-in-canada-10-years-after-refugee-claim-first-denied",
-      "summary": "Nevzat Etik, a Turkish national convicted of shooting two people, has been granted a fourth appeal to remain in Canada, a decade after his initial refugee claim was rejected. A judge ruled that a previous appeal decision failed to adequately assess the severity of his crime within the context of Canadian criminal law, allowing for further review of his admissibility despite his significant criminal record.",
-      "graph": ["Immigration Law", "Refugee Claims", "Criminal Inadmissibility", "Judicial Review", "Deportation Appeals"],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "This case highlights the importance of due process, access to multiple levels of appeal, and thorough legal assessment for all individuals, even those with criminal histories, ensuring humanitarian considerations and fair application of immigration laws."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "The focus is on the legal procedural intricacies of immigration and refugee claims, particularly the role of judicial review in ensuring that administrative decisions, especially regarding criminal inadmissibility, correctly apply Canadian law."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative critics would express alarm over the system allowing multiple appeals for individuals with serious criminal convictions, questioning the efficiency, strictness, and national security implications of current immigration and refugee processes."
-          }
-        },
-        "neutral": "A Turkish man convicted of shooting two individuals has received a fourth opportunity for appeal to remain in Canada, with a judge citing an insufficient assessment of his crime's severity in previous decisions."
-      }
-    }
-  ]
+  "immigration": []
 }
