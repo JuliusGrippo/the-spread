@@ -1,220 +1,258 @@
 {
   "federalism": [
     {
-      "id": "FED-1",
+      "id": "cbc-submarine-choice-germany-2026",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "US Ambassador Pressures Canada on Liquor Bans and F-35 Acquisition",
+      "title": "Canada Selects German TKMS for Next Submarine Fleet, Deepening European Ties",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/us-ambassador-to-canada-july-4-party-speech-9.7259011?cmp=rss",
-      "summary": "U.S. Ambassador Pete Hoekstra used an Independence Day celebration to diplomatically pressure Canada, urging the removal of provincial bans on American liquor which were retaliatory trade measures. The Ambassador also highlighted Canada's F-35 fighter jet acquisition, publicly revealing the first delivery date as October 14. These remarks underscore ongoing bilateral trade irritants and defense procurement discussions between the two nations.",
-      "graph": ["Trade Relations", "US-Canada Diplomacy", "Provincial Autonomy", "Defense Procurement", "CUSMA"],
+      "url": "https://www.cbc.ca/news/politics/submarines-germany-canada-norway-south-korea-9.7259709?cmp=rss",
+      "summary": "Prime Minister Mark Carney is expected to announce the selection of Germany's ThyssenKrupp Marine Systems (TKMS) as the preferred bidder for Canada's new submarine fleet, over South Korea's Hanwha Ocean. This multi-billion dollar defence project aims to replace the aging Victoria-Class boats, strengthen security ties with European partners (Germany and Norway), and accelerate Canada's military rearmament efforts, with a significant long-term investment commitment.",
+      "graph": ["Defence Procurement", "International Relations", "Military Modernization", "Federal Policy", "Germany-Canada"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might see the provincial liquor bans as a legitimate defense against U.S. protectionism, prioritizing Canadian sovereignty in trade. Concerns might also be raised about the cost and environmental impact of F-35 acquisition over social spending." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the diplomatic interplay, the procedural mechanisms of trade agreements, and the complexities of international defense procurement. The ambassador's remarks are viewed as part of ongoing, high-level bilateral discussions." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely advocate for resolving trade barriers to foster economic growth and free markets. Strong support for defense modernization, such as the F-35 purchase, and a close security alliance with the U.S. would be emphasized." }
+          "left": { "label": "Progressive Context", "synthesis": "From a progressive viewpoint, while military spending is often viewed critically, the deepening of ties with European democracies could be seen as aligning with collective security and multilateralism, albeit with questions about the environmental impact of defence industries and the allocation of public funds." },
+          "center": { "label": "Procedural Context", "synthesis": "The decision follows a rigorous procurement process balancing strategic defence needs, economic offsets, and international partnerships. It signifies a concrete step towards modernizing naval capabilities and meeting NATO commitments, with negotiations on specific terms to follow." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely view this as a necessary investment in national defence and sovereignty, bolstering Canada's presence on the global stage. The choice of a European partner over an Indo-Pacific one might raise questions about Canada's strategic focus, but the rearmament signal is generally supported." }
         },
-        "neutral": "The U.S. Ambassador's public statements on provincial liquor bans and F-35 delivery timelines illustrate key points of contention and cooperation within Canada-U.S. bilateral relations."
+        "neutral": "Prime Minister Mark Carney's anticipated announcement of Germany's TKMS as the preferred bidder for Canada's next submarine fleet signifies a major federal defence procurement decision, impacting international alliances and national military capabilities."
       }
     },
     {
-      "id": "FED-2",
+      "id": "cbc-submarine-deal-algoma-impact-2026",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Canada Seeks Clarity After U.S. Shifts CUSMA to Annual Review",
+      "source": "CBC News",
+      "title": "German Submarine Deal to Impact Algoma Steel, Sault Ste. Marie Economy",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11953602/canada-seeking-clarity-annual-cusma-review/",
-      "summary": "Canadian Minister LeBlanc confirmed that Canada is seeking clarification from the U.S. administration following its decision to implement annual reviews for the Canada-United States-Mexico Agreement (CUSMA), rather than a 16-year renewal. This move introduces significant uncertainty regarding the long-term stability of the trilateral trade pact.",
-      "graph": ["CUSMA", "Trade Policy", "US-Canada Relations", "Economic Stability", "Diplomacy"],
+      "url": "https://www.cbc.ca/news/canada/sudbury/algoma-steel-submarine-contract-9.7259921?cmp=rss",
+      "summary": "The federal government's decision to select Germany's TKMS for the submarine contract is seen as a blow to Algoma Steel in Sault Ste. Marie, Ontario. The rejected South Korean bidder, Hanwha Ocean, had committed $345 million for a new structural steel beam mill and hundreds of jobs in the region, which now appear lost, compounding recent layoffs at the steel plant.",
+      "graph": ["Defence Procurement", "Regional Economy", "Industrial Strategy", "Federal Policy", "Job Creation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This shift in CUSMA review could be viewed with concern regarding its potential to destabilize supply chains, impact workers, and weaken environmental or labor standards through constant renegotiation pressure. Emphasis would be on protecting Canadian interests against potential U.S. protectionism." },
-          "center": { "label": "Procedural Context", "synthesis": "The focus is on the diplomatic and legal processes surrounding international trade agreements. Canada's move to seek clarity is seen as a necessary step to understand the implications of the U.S. decision and prepare for ongoing negotiations." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative views would prioritize securing predictable trade relations and open markets. The uncertainty introduced by annual reviews could be seen as detrimental to business confidence, necessitating robust federal efforts to protect Canadian economic interests and reduce barriers." }
+          "left": { "label": "Progressive Context", "synthesis": "This outcome highlights the tension between national defence priorities and regional economic development, particularly concerning manufacturing jobs. Concerns would be raised about the impact on workers and the need for federal industrial policies that ensure equitable regional benefits from major procurements." },
+          "center": { "label": "Procedural Context", "synthesis": "The decision process for major defence contracts inherently involves trade-offs between strategic alliances, technical capabilities, and domestic economic benefits. While the German bid was chosen for strategic reasons, the loss of specific economic offsets for a region like Sault Ste. Marie is a recognized consequence." },
+          "right": { "label": "Conservative Context", "synthesis": "While advocating for strong national defence, conservative viewpoints might criticize the federal government for failing to secure sufficient domestic industrial benefits, especially when a competing bid offered significant regional economic investment, emphasizing the importance of maximizing Canadian economic advantage in such deals." }
         },
-        "neutral": "The U.S. decision for annual CUSMA reviews, rather than a long-term renewal, prompts Canada to seek clarity on future trade stability and bilateral relations."
+        "neutral": "The federal government's submarine procurement decision, favouring Germany over South Korea, will negatively impact Algoma Steel in Sault Ste. Marie, resulting in the loss of a $345 million investment and potential job creation promised by the unsuccessful South Korean bid."
       }
     },
     {
-      "id": "FED-3",
+      "id": "cbc-northern-shield-pipeline-2026",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Prime Minister Carney to Attend NATO Summit in Turkey, Focus on 'Managing Trump'",
+      "source": "CBC News",
+      "title": "Alberta and Ontario Announce 'Northern Shield' Oil Pipeline Proposal",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11953563/carney-turkey-nato-allies-trump/",
-      "summary": "Prime Minister Mark Carney is scheduled to travel to Turkey for the annual NATO summit, marking the first visit by a Canadian Prime Minister since 2015. The agenda for NATO allies is reportedly centered on strategies for managing U.S. President Trump, indicating a coordinated effort to navigate diplomatic challenges within the alliance.",
-      "graph": ["NATO", "Foreign Policy", "International Relations", "Canadian Diplomacy", "US Politics"],
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-northern-shield-ontario-alberta-oil-9.7259820?cmp=rss",
+      "summary": "Alberta Premier Danielle Smith and Ontario Premier Doug Ford have unveiled a proposal for the 'Northern Shield' oil pipeline, a 3,300 km project designed to transport up to 800,000 barrels per day of oil from Western Canada to refineries in Southern Ontario. The initiative is intended to boost Canadian energy independence, but the Manitoba government has declined to join due to insufficient Indigenous community involvement at the outset.",
+      "graph": ["Energy Policy", "Inter-provincial Cooperation", "Resource Development", "Infrastructure", "Indigenous Consultation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might view NATO's focus on 'managing Trump' as essential for preserving multilateralism and international cooperation against isolationist or nationalist tendencies, advocating for a united front on global challenges." },
-          "center": { "label": "Procedural Context", "synthesis": "This involves Canada's commitment to international alliances and the strategic importance of diplomatic engagement. The summit is seen as a venue for strengthening alliances and coordinating foreign policy amidst evolving geopolitical dynamics." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives might emphasize the need for strong defense within NATO while balancing Canadian sovereignty with alliance commitments. Discussions around 'managing Trump' could be viewed as a necessary diplomatic challenge or an overemphasis on personality politics, rather than strategic alignment." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would likely criticize new fossil fuel infrastructure projects, advocating for renewable energy transition. Concerns would also focus heavily on the lack of upfront Indigenous partnership, as highlighted by Manitoba, emphasizing environmental impacts and Indigenous rights." },
+          "center": { "label": "Procedural Context", "synthesis": "This proposal represents a significant inter-provincial energy initiative, aiming to enhance national energy security and domestic refining capacity. The feasibility study and ongoing consultations, particularly with Indigenous communities, are critical next steps in navigating regulatory and social license challenges." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives strongly support such projects as crucial for national energy independence, economic growth, and the Western Canadian energy sector. The emphasis would be on accelerating development, streamlining processes, and ensuring reliable domestic energy supply, with some skepticism towards environmental regulations or extended Indigenous consultation potentially hindering progress." }
         },
-        "neutral": "Prime Minister Carney's participation in the NATO summit in Turkey will address allied strategies for engaging with the U.S. administration, signaling concerted diplomatic efforts within the alliance."
+        "neutral": "The premiers of Alberta and Ontario have proposed a major new oil pipeline, 'Northern Shield', to transport Western Canadian crude to Ontario, aiming to bolster energy independence, with Manitoba's non-participation highlighting issues around initial Indigenous engagement."
       }
     },
     {
-      "id": "FED-4",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "US Ambassador Denies Political Influence in Gordie Howe Bridge Delays",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11952021/pete-hoekstra-interview-canada/",
-      "summary": "U.S. Ambassador Pete Hoekstra has refuted claims that political donations were responsible for delays in the opening of the Gordie Howe International Bridge. He expressed confidence that the crucial cross-border infrastructure project connecting Windsor and Detroit would open soon, addressing concerns about political interference in its completion.",
-      "graph": ["Infrastructure", "US-Canada Relations", "Political Ethics", "Cross-Border Trade"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might call for greater transparency in large public-private projects and investigate allegations of political influence to ensure public trust and equitable development." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral stance would focus on the facts surrounding the project's timeline, regulatory approvals, and the ambassador's official denials, emphasizing accountability and efficient completion." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely prioritize the timely and cost-effective completion of vital economic infrastructure, viewing any allegations as potential distractions from the project's benefits for trade and connectivity." }
-        },
-        "neutral": "The U.S. Ambassador denied allegations of political donations causing delays for the Gordie Howe Bridge, expressing optimism for its imminent opening and reaffirming commitment to the cross-border project."
-      }
-    },
-    {
-      "id": "FED-5",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Opinion: Recognition of Palestine by Canada Deemed a Mistake",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/michael-higgins-carney-applauds-palestinian-reform-while-hamas-rearms",
-      "summary": "An opinion piece by Michael Higgins criticizes Prime Minister Carney's government for its recognition of Palestine, asserting that it was a strategic misstep. The author argues that this decision applauds 'reform' efforts while militant groups like Hamas continue to rearm, questioning the efficacy and timing of Canada's foreign policy in the Middle East.",
-      "graph": ["Foreign Policy", "Middle East", "Canada-Israel Relations", "International Recognition", "Opinion"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views often support the recognition of Palestinian statehood as a step towards self-determination and human rights, criticizing foreign policy that appears to sideline international law or humanitarian concerns in the region." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would examine the diplomatic consequences and strategic implications of such a foreign policy shift, considering its impact on regional stability and Canada's international standing." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives frequently align with skepticism towards unilateral recognition, prioritizing robust alliances, such as with Israel, and focusing on security concerns. Such a move might be seen as undermining efforts to achieve peace through negotiation or empowering adversarial non-state actors." }
-        },
-        "neutral": "An opinion piece argues that Canada's recognition of Palestine was a foreign policy error, citing concerns about regional stability and the actions of militant groups."
-      }
-    },
-    {
-      "id": "FED-6",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Gail Asper Calls for Leadership Change to Fix Human Rights Museum After 'Nakba' Exhibit Controversy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/gail-asper-human-rights-museum-nakba",
-      "summary": "Gail Asper, a prominent figure associated with the Canadian Museum for Human Rights, expressed her resolve to rectify the institution's issues, attributing the controversy surrounding the 'Nakba' exhibit to 'bad leadership.' She emphasized that leadership changes are key to restoring the museum's credibility and ensuring its mandate is properly fulfilled.",
-      "graph": ["Cultural Institutions", "Public Policy", "Human Rights Education", "Museum Governance", "Public Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might advocate for inclusive and comprehensive historical narratives, ensuring that museums reflect diverse human rights experiences, even if controversial. Criticism would focus on any attempts to censor or dilute content for political expediency." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral stance examines the governance and operational independence of national cultural institutions. The emphasis is on maintaining institutional integrity through effective leadership and clear policies regarding exhibition content and public engagement." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives might focus on the museum's public funding and its role in presenting a balanced national narrative. Calls for leadership change would be supported if the exhibit is perceived as overly politicized or divisive, detracting from the museum's core mission." }
-        },
-        "neutral": "Gail Asper advocates for leadership reform at the Canadian Museum for Human Rights, citing 'bad leadership' as the cause of controversy surrounding the 'Nakba' exhibit."
-      }
-    },
-    {
-      "id": "FED-7",
-      "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Opinion: Speculation on Carney's Potential Submarine Fleet Announcement at NATO",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/columnists/will-carney-announce-a-mixed-submarine-fleet-on-his-way-to-nato",
-      "summary": "An opinion column by LILLEY speculates whether Prime Minister Mark Carney will use his upcoming trip to the NATO summit in Turkey to announce a decision on acquiring a mixed submarine fleet. This highlights ongoing discussions within the federal government regarding defense procurement and Canada's naval capabilities amidst its international alliance commitments.",
-      "graph": ["Defense Policy", "Military Procurement", "NATO", "Federal Budget", "Opinion"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives often question significant increases in military spending, advocating for greater investment in social programs, environmental initiatives, or diplomatic solutions. Concerns might be raised about the economic and environmental costs of a new submarine fleet." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would consider the strategic rationale for defense spending, Canada's commitments to NATO, and the various options for modernizing the military, including budgetary implications and procurement processes." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives typically advocate for strong national defense and robust military capabilities. Investment in a modern submarine fleet would be seen as essential for Canadian sovereignty, Arctic defense, and fulfilling NATO obligations." }
-        },
-        "neutral": "An opinion piece speculates that Prime Minister Carney might announce a mixed submarine fleet acquisition during his visit to the NATO summit, underscoring ongoing federal defense policy considerations."
-      }
-    },
-    {
-      "id": "FED-8",
+      "id": "thehub-carbon-pricing-pipeline-2026",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "B.C. Premier Eby Cooperates with Federal Government on New West Coast Pipeline",
+      "title": "Federal Carbon Pricing Renders New Oilsands Pipelines Uneconomic",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/05/why-b-c-and-david-eby-are-cooperating-with-mark-carney-on-a-new-west-coast-pipeline/",
-      "summary": "B.C. Premier David Eby has shifted from confrontational opposition to collaborative engagement with Prime Minister Mark Carney's federal government, agreeing to cooperate on a new West Coast pipeline. This strategic pivot, termed 'resource pragmatism,' secures significant federal commitments for B.C.'s economic development projects, including mining, transmission lines, and infrastructure, in exchange for participation in routing a pipeline south through the Trans Mountain corridor, maintaining the North Coast tanker ban.",
-      "graph": ["Federal-Provincial Relations", "Pipeline Policy", "Energy Infrastructure", "Economic Development", "British Columbia", "Resource Management"],
+      "url": "https://thehub.ca/2026/07/06/the-75-barrel-carbon-pricing-makes-canadas-next-pipeline-uneconomic-before-its-built/",
+      "summary": "An editorial from The Hub, citing a Fraser Institute study by Jack Mintz, argues that Ottawa's industrial carbon price of $95 per tonne significantly inflates the production costs of oilsands crude to $75 USD per barrel (from $58 USD before carbon tax), making new pipeline projects economically unviable compared to a Western Canadian Select price near $70 CAD. This analysis suggests federal carbon policy undermines the competitiveness of Canadian energy projects.",
+      "graph": ["Carbon Tax", "Energy Economics", "Oilsands", "Pipeline Feasibility", "Federal Policy", "Fiscal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives may view this cooperation as a pragmatic but problematic compromise on environmental principles, potentially criticizing the expansion of fossil fuel infrastructure while acknowledging the economic benefits for the province and Indigenous communities." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the political negotiation and economic rationale behind such a significant federal-provincial agreement, highlighting the balancing act between resource development, environmental concerns, and securing infrastructure investments." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely laud this development as a sensible move towards economic growth and energy security, emphasizing the importance of inter-provincial cooperation and federal support for major resource projects to boost the national economy." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive environmental advocates would view the carbon tax's impact on oilsands projects as an intended and positive outcome, necessary for transitioning away from fossil fuels and meeting climate targets, prioritizing ecological sustainability over carbon-intensive economic activities." },
+          "center": { "label": "Procedural Context", "synthesis": "The analysis highlights a direct economic consequence of federal carbon pricing on the viability of specific energy projects. It underscores the policy's role in internalizing environmental costs, prompting stakeholders to evaluate its effectiveness in achieving emissions reductions versus its impact on economic competitiveness and resource development." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative and free-market advocates would criticize federal carbon pricing for impeding resource development and undermining Canada's economic competitiveness. This perspective argues the tax creates an artificial barrier to infrastructure projects and disproportionately burdens the energy sector, advocating for policies that support industry growth and market-driven solutions." }
         },
-        "neutral": "B.C. Premier Eby's new cooperation with the federal government on a West Coast pipeline and other infrastructure projects marks a significant shift towards resource pragmatism, securing federal investment while navigating environmental and Indigenous concerns."
+        "neutral": "Analysis indicates that the federal industrial carbon price renders new oilsands pipeline projects uneconomic by significantly increasing production costs, thereby challenging Canada's energy sector competitiveness."
+      }
+    },
+    {
+      "id": "thehub-bc-ottawa-deal-tanker-port-2026",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "B.C. and Ottawa Strike Multibillion-Dollar Deal on Resource Development and Tanker Ban",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/06/b-c-ottawa-strike-multibillion-dollar-deal-upholding-north-coast-tanker-ban-expanding-port-of-vancouver/",
+      "summary": "British Columbia and Ottawa have reached a significant multibillion-dollar agreement that preserves the North Coast oil tanker ban while committing federal funds for major infrastructure projects, including a transmission line and tunnel, and accelerating LNG and resource development. The deal marks a strategic shift for B.C. towards negotiating for federal dollars in exchange for development, with complexities around Indigenous consultation and potential environmental backlash.",
+      "graph": ["Federal-Provincial Agreement", "Resource Development", "Environmental Policy", "Infrastructure", "Indigenous Rights", "LNG"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive groups would cautiously welcome the maintenance of the North Coast tanker ban for environmental protection but express concern over the acceleration of LNG and resource development, advocating for stronger climate action and deeper, more meaningful Indigenous consent in all resource projects." },
+          "center": { "label": "Procedural Context", "synthesis": "This agreement represents a complex negotiation balancing environmental protections, economic development, and intergovernmental relations. It establishes a framework for significant federal investment in B.C.'s infrastructure and resource sectors, while acknowledging the ongoing need for detailed implementation and Indigenous engagement." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely view the deal as a pragmatic step towards unlocking B.C.'s resource potential and boosting the national economy, while questioning the continued restriction of the North Coast tanker ban. The emphasis would be on the economic benefits and the need to overcome regulatory hurdles to accelerate development." }
+        },
+        "neutral": "A multibillion-dollar agreement between British Columbia and Ottawa upholds the North Coast oil tanker ban while providing federal investments for infrastructure and accelerating LNG and resource development, reflecting a shift in B.C.'s approach to resource projects and highlighting ongoing Indigenous engagement challenges."
+      }
+    },
+    {
+      "id": "globalnews-republican-alcohol-bill-2026",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "US Republican Bill Targets Canadian Provinces Over Alcohol Import Restrictions",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11954559/republican-bill-targets-canadian-provincial-alcohol-bans/",
+      "summary": "A Republican bill in the U.S. House of Representatives aims to impose retaliatory restrictions on U.S. alcohol exports to Canada. This action follows decisions by eight Canadian provincial governments to levy restrictions on U.S. alcohol imports, which were enacted in response to earlier tariffs imposed by the U.S. President.",
+      "graph": ["International Trade", "Canada-US Relations", "Provincial Jurisdiction", "Trade Disputes", "Alcohol Industry"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might view this as part of a larger pattern of protectionist trade practices. They would emphasize fair trade rules and potentially advocate for a diplomatic resolution that considers the broader economic and social impacts on both sides of the border, avoiding escalation of trade disputes." },
+          "center": { "label": "Procedural Context", "synthesis": "This development illustrates the complexities of international trade relations, where sub-national policies can trigger national-level diplomatic and legislative responses. It highlights the ongoing need for Canada to balance provincial autonomy in trade matters with its overarching federal trade strategy and international obligations." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative views would likely prioritize Canadian economic interests and advocate for strong federal action to protect Canadian industries from foreign retaliation. They might criticize provincial measures if they are seen as provoking unnecessary trade disputes, while also asserting Canada's right to protect its markets." }
+        },
+        "neutral": "A proposed U.S. Republican bill seeks to impose alcohol trade restrictions on Canadian provinces in retaliation for their import limitations on U.S. alcohol, escalating an existing Canada-U.S. trade dispute."
+      }
+    },
+    {
+      "id": "globalnews-cusma-renewal-gm-2026",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "General Motors Stresses Critical Importance of CUSMA Renewal for Auto Industry",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11953828/general-motors-cusma-auto-industry/",
+      "summary": "Amidst ongoing uncertainty regarding North American trade relations, General Motors has publicly stated that the renewal of the Canada-United States-Mexico Agreement (CUSMA) is \"very important\" for the stability and continued operation of the automobile industry. This emphasizes the critical role of federal trade policy in safeguarding key economic sectors.",
+      "graph": ["International Trade", "CUSMA", "Auto Industry", "Economic Policy", "Canada-US Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might acknowledge the importance of stable trade for workers but also advocate for CUSMA's renewal to include stronger labour protections, environmental standards, and a fair transition for workers in the auto sector, ensuring that trade benefits are broadly distributed." },
+          "center": { "label": "Procedural Context", "synthesis": "The statement from General Motors underscores the significant economic reliance on stable continental trade agreements. The renewal of CUSMA is a key federal responsibility, requiring careful negotiation to maintain continuity and predictability for industries operating across North America." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative business interests would strongly advocate for the swift and unhindered renewal of CUSMA, seeing it as fundamental to economic stability, investment, and job creation in the manufacturing sector. They would likely emphasize minimizing regulatory burdens and protectionist measures." }
+        },
+        "neutral": "General Motors highlights the crucial necessity of renewing the Canada-United States-Mexico Agreement (CUSMA) to ensure stability for the North American automobile industry amidst current trade uncertainties."
+      }
+    },
+    {
+      "id": "globalnews-federal-remote-work-2026",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "Federal Employees Face Reduced Office Space Amidst New Remote Work Rules",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11954122/federal-employees-working-onsite-less-office-space/",
+      "summary": "Following the Treasury Board's announcement of new remote work guidelines in February, federal employees now working four days a week are experiencing reduced available office space. This policy shift, which saw executive public servants return to the office full-time in May, signifies a broader governmental adjustment to post-pandemic work models and real estate management.",
+      "graph": ["Public Service Policy", "Remote Work", "Government Operations", "Workplace Policy", "Federal Administration"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might focus on ensuring remote work policies enhance work-life balance and accessibility for diverse employees, while critiquing potential negative impacts on team cohesion or junior staff mentorship, advocating for flexible and supportive workplace environments." },
+          "center": { "label": "Procedural Context", "synthesis": "The implementation of new remote work rules and the subsequent adjustment of office space reflect the federal government's efforts to optimize operational efficiency and adapt to evolving workplace norms, requiring careful management of resources and employee expectations." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives may emphasize the need for accountability and efficiency in public service. They might advocate for maximizing taxpayer value through reduced real estate costs associated with remote work, while also ensuring service delivery standards are maintained or improved with less in-office presence." }
+        },
+        "neutral": "Federal government employees working under new remote work rules, which require four days a week in the office, are now facing reduced physical office space as part of the Treasury Board's post-pandemic workplace adjustments."
+      }
+    },
+    {
+      "id": "nationalpost-development-charge-opinion-2026",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Federal-Provincial Program to Reduce Development Charges for Housing Projects",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/life/homes/opinion-the-federal-provincial-development-charge-reduction-program-provides-multiple-benefits-to-municipalities",
+      "summary": "An opinion piece advocates for the federal-provincial Development Charge Reduction Program, highlighting its benefits to municipalities. The program's objective is to stimulate housing construction, increase housing starts, and safeguard employment within the construction sector by alleviating the financial burden of development charges.",
+      "graph": ["Housing Policy", "Federal-Provincial Funding", "Municipal Development", "Economic Stimulus", "Construction Industry"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely support initiatives to increase housing affordability and supply, especially if tied to affordable housing units or addressing systemic barriers. However, they might also scrutinize whether such programs adequately address root causes of housing crises or disproportionately benefit developers." },
+          "center": { "label": "Procedural Context", "synthesis": "This program exemplifies intergovernmental cooperation to address a national priority, leveraging federal and provincial funding to influence local development. It aims to streamline financial incentives for construction, with the effectiveness dependent on municipal implementation and market response." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would strongly endorse such programs for reducing regulatory burdens and stimulating economic activity in the housing and construction sectors. They would emphasize the role of reduced charges in making housing more affordable through increased supply, aligning with market-oriented solutions." }
+        },
+        "neutral": "A federal-provincial Development Charge Reduction Program is being implemented to provide benefits to municipalities, primarily by reducing costs to stimulate housing projects, increase housing starts, and protect employment in the construction sector."
       }
     }
   ],
-  "charter": [],
-  "indigenous": [
+  "charter": [
     {
-      "id": "IND-1",
-      "category": "Indigenous",
-      "source": "National Post",
-      "title": "Inuk Man Sentenced to 33 Months for Severe Assault on Uncle in Quebec",
+      "id": "thehub-carney-lawful-access-powers-2026",
+      "category": "Charter",
+      "source": "The Hub",
+      "title": "Concerns Rise Over Bill C-22 Expanding Government's Online Surveillance Powers",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/crime-quebec-inuk-man",
-      "summary": "Timothy Assapa, an Inuk man in Quebec, received a 33-month sentence for a brutal assault on his uncle, Sajuilie Assapa, involving a metal bar. The victim sustained severe head and facial injuries, and was described as 'fortunate to be alive.' This case highlights the intersection of violent crime and the Canadian justice system's response within Indigenous communities.",
-      "graph": ["Violent Crime", "Sentencing", "Indigenous Justice", "Quebec Justice System", "Community Impact"],
+      "url": "https://thehub.ca/2026/07/06/the-carney-governments-expanding-power-to-identify-canadians-online-access-their-data-and-punish-them/",
+      "summary": "Bill C-22, the _Lawful Access Act_, 2026, has passed the House of Commons despite widespread criticism from civil liberties groups and legal experts. The bill significantly expands the government's powers to identify online users, access their data, and potentially penalize speech, introducing production orders based on a 'reasonable grounds to suspect' threshold and enabling orders for service providers to build surveillance capabilities and retain metadata. Critics denounce the bill's hurried passage through limited debate and warn of its potential unconstitutionality and comparison to the UK's 'censorship regime' for online speech.",
+      "graph": ["Privacy Rights", "Freedom of Expression", "Government Surveillance", "Bill C-22", "Digital Rights", "Civil Liberties"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would highlight the systemic factors contributing to violence in Indigenous communities, such as colonialism, intergenerational trauma, and socio-economic disparities, advocating for restorative justice and culturally appropriate interventions beyond punitive measures." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the judicial process, sentencing guidelines, and the application of law, including Gladue principles, which consider the unique circumstances of Indigenous offenders. It emphasizes fair trial procedures and the balance between punishment and rehabilitation." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would likely emphasize public safety, accountability for violent crimes, and the need for deterrent sentencing. The focus would be on the severity of the offense and ensuring justice for the victim, with less emphasis on broader systemic issues." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive and civil liberties advocates are deeply concerned about the erosion of privacy and free expression online, viewing Bill C-22 as a dangerous expansion of state surveillance that could disproportionately affect marginalized groups and dissent. They would emphasize the need for robust digital rights and judicial oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "The passage of Bill C-22 raises significant questions about legislative due process, given the curtailed debate and amendments forced through. The legal community is scrutinizing the bill's constitutionality, particularly concerning Section 8 (search and seizure) and Section 2(b) (freedom of expression) of the Charter, highlighting the ongoing tension between national security and individual rights." },
+          "right": { "label": "Conservative Context", "synthesis": "While some conservatives might support increased lawful access for national security, others (especially libertarians) would join civil liberties groups in opposing government overreach and potential censorship, emphasizing the protection of individual freedoms and limited government intervention. Concerns about the bill's impact on innovation and economic competitiveness might also be raised." }
         },
-        "neutral": "An Inuk man was sentenced to 33 months for a severe assault on his uncle in Quebec, a case that brings to light the complexities of violent crime and justice within Indigenous communities."
+        "neutral": "Bill C-22, the _Lawful Access Act_, 2026, has passed the House of Commons, granting the federal government expanded powers for online identification, data access, and speech regulation, drawing significant criticism regarding privacy, freedom of expression, and legislative process."
+      }
+    }
+  ],
+  "indigenous": [
+    {
+      "id": "thenarwhal-black-farm-owners-2026",
+      "category": "Indigenous",
+      "source": "The Narwhal",
+      "title": "Barriers to Land Ownership for Black and Racialized Farmers in Canada",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/canada-black-farmers-farmland-prices/?utm_source=rss",
+      "summary": "Despite Black and racialized workers forming a significant portion of Canada's agricultural labour, they rarely own farms due to systemic barriers like prohibitively high land costs. The article highlights a historical reversal from 19th-century Black Canadian settlements where farmers owned land, and points to current programs like farm rentals and urban farms attempting to address this gap, alongside the advocacy of the National Farmers Union's BIPOC caucus. While primarily focused on Black farmers, it references 'Black, Indigenous and racialized farmers' and the underlying issues of historical land disadvantage and racial equity in agriculture, making it relevant to broader discussions of Indigenous land issues given the limited categories.",
+      "graph": ["Racial Equity", "Land Ownership", "Agriculture Policy", "Systemic Barriers", "Historical Settlements", "BIPOC Rights"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints emphasize the need to address historical injustices and systemic racism in land access and agriculture. They would advocate for policies that actively support Black, Indigenous, and racialized farmers, including land redistribution, financial assistance, and programs to dismantle institutional barriers to ownership and wealth creation." },
+          "center": { "label": "Procedural Context", "synthesis": "This issue highlights a persistent gap in equitable land access and ownership within the agricultural sector, indicating a need for policy review and targeted initiatives. The focus would be on data-driven solutions, fair market access, and programs designed to overcome socio-economic disadvantages, including historical factors." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might focus on market mechanisms and individual responsibility, questioning the extent of systemic barriers while emphasizing property rights. They might support programs that foster economic self-sufficiency but would be cautious about interventions that could be seen as distorting market forces or creating preferential treatment." }
+        },
+        "neutral": "A report reveals significant systemic barriers, including high land costs, prevent Black and racialized farm workers from achieving land ownership in Canada, despite their substantial contribution to the agricultural workforce, highlighting a disparity compared to historical Black settlements."
       }
     }
   ],
   "criminal": [
     {
-      "id": "CRIM-1",
+      "id": "slaw-ai-misuse-courts-2026",
       "category": "Criminal",
       "source": "Slaw",
-      "title": "Supreme Court of Canada Addresses Police Misconduct Disclosure in Criminal Law",
+      "title": "Generative AI Misuse in Canadian Courts Beyond Fake Case Citations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/05/summaries-sunday-supreme-one-liners-40/",
-      "summary": "The Supreme Court of Canada has issued a decision in *Edmonton (Police Service) v. McKee*, addressing multiple disclosure issues related to prior police misconduct in criminal law cases. This ruling clarifies the obligations for disclosing information concerning police conduct that may be relevant to the credibility of officers or the fairness of a trial.",
-      "graph": ["Criminal Law", "Police Misconduct", "Disclosure Obligations", "Supreme Court of Canada", "Fair Trial"],
+      "url": "https://www.slaw.ca/2026/07/06/beyond-fake-cases-the-other-ways-ai-is-going-wrong-in-canadian-courts/",
+      "summary": "A legal analysis details how generative AI is being misused in Canadian courts beyond fabricating case citations. This includes generating hallucinated legal propositions without sources, creating fake quotes attributed to real cases, and, increasingly, producing fabricated evidence for litigation. These issues are predominantly observed in tribunals and cases involving self-represented litigants, raising serious concerns about the integrity of judicial processes.",
+      "graph": ["AI in Law", "Judicial Integrity", "Legal Ethics", "Evidence Law", "Self-Represented Litigants", "Technology in Courts"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views would welcome increased transparency regarding police misconduct, seeing it as crucial for police accountability, protecting civil liberties, and addressing systemic issues within law enforcement. They would advocate for expansive disclosure requirements." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral legal perspective focuses on the Supreme Court's interpretation of disclosure rules, balancing the rights of the accused to a fair trial with operational considerations for police and prosecution. The ruling is analyzed for its precedential impact on criminal procedure." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might emphasize balancing disclosure with protecting police officers' reputations and ensuring efficient law enforcement. Concerns might arise if disclosure requirements are seen as overly burdensome or potentially undermining police authority." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would emphasize the need for equitable access to justice, acknowledging that self-represented litigants may turn to AI out of necessity. They would advocate for educational resources, ethical AI guidelines, and support systems to ensure technology assists rather than undermines fair judicial processes, especially for vulnerable parties." },
+          "center": { "label": "Procedural Context", "synthesis": "This issue poses a fundamental challenge to judicial integrity and the reliability of legal submissions and evidence. Courts and tribunals must establish clear rules, educate participants, and develop mechanisms to identify and address AI-generated falsehoods, ensuring the accuracy and trustworthiness of legal proceedings." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely stress the importance of maintaining strict evidentiary standards and the rule of law, viewing AI misuse as a threat to judicial order and efficiency. They might advocate for stronger penalties for deliberate fabrication and clearer guidelines on responsible AI use by legal professionals and litigants." }
         },
-        "neutral": "The Supreme Court of Canada's ruling in *Edmonton (Police Service) v. McKee* clarifies the parameters for disclosing prior police misconduct in criminal cases, impacting police accountability and trial fairness."
+        "neutral": "Canadian courts are increasingly encountering generative AI misuse, including fabricated legal propositions, fake case quotes, and false evidence, predominantly from self-represented litigants in tribunals, posing significant challenges to judicial integrity."
+      }
+    },
+    {
+      "id": "torontosun-richmond-hill-robbery-2026",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Three Suspects Sought in Richmond Hill Robbery, Firearm Charges Laid",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/crime/3-sought-richmond-hill-robbery",
+      "summary": "York Regional Police are searching for three suspects involved in a robbery in Richmond Hill where two men entered a store, allegedly used metal objects to smash display cases, and stole electronics. Following the incident, three individuals have been charged with firearm-related offences, indicating a broader criminal investigation.",
+      "graph": ["Robbery", "Firearms Offence", "Police Investigation", "Theft", "Organized Crime"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views might examine the societal factors contributing to such crimes, such as economic inequality or lack of opportunity, alongside law enforcement efforts. They would advocate for preventative measures and community-based interventions in addition to punitive responses." },
+          "center": { "label": "Procedural Context", "synthesis": "This incident represents a standard police investigation into a violent property crime. The process involves identifying suspects, gathering evidence, and laying appropriate charges, demonstrating the consistent application of criminal law to maintain public order and safety." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would emphasize robust law enforcement, stricter penalties for violent and firearm-related offenses, and the importance of deterring criminal activity to ensure public safety and protect property rights. They would likely call for swift apprehension and prosecution of the suspects." }
+        },
+        "neutral": "Police are investigating a Richmond Hill robbery where electronics were stolen after display cases were smashed, leading to charges against three individuals for firearm-related offences in connection with the incident."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "IMM-1",
-      "category": "Immigration",
-      "source": "Toronto Sun",
-      "title": "Letters to the Editor Criticize Former PM Trudeau's Remarks on Immigration in Finland",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/letters/letters-to-the-editor-july-5-2026",
-      "summary": "Letters to the Editor published in the Toronto Sun include criticism directed at former Prime Minister Justin Trudeau for his comments on immigration and 'shared values' during a visit to Finland. The critique reflects public debate regarding Canada's approach to immigration policy and the perception of its international promotion.",
-      "graph": ["Immigration Policy", "Foreign Policy", "Political Criticism", "International Relations", "Public Opinion"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators would likely defend the promotion of 'shared values' and an open, inclusive approach to immigration, viewing it as a strength and a moral imperative for Canada on the international stage. Criticism of Trudeau's 'lecturing' style might be acknowledged, but the underlying message supported." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would analyze the diplomatic implications of a former leader's public statements on sensitive policy areas during foreign visits, examining the balance between advocacy and respecting other nations' sovereignty in policy matters." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative critics often advocate for stricter immigration controls and prioritize national interests over perceived globalist agendas. They would likely view Trudeau's remarks as an unwelcome intervention in another country's affairs and potentially reflective of an overly permissive Canadian immigration policy." }
-        },
-        "neutral": "Letters to the editor express disapproval of former Prime Minister Justin Trudeau's comments on immigration and 'shared values' during his visit to Finland, highlighting divergent views on Canadian immigration and foreign policy rhetoric."
-      }
-    }
-  ]
+  "immigration": []
 }
