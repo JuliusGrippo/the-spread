@@ -1,239 +1,276 @@
 {
   "federalism": [
     {
-      "id": "ontario-bill5-climate-policy",
+      "id": "fed-1",
+      "category": "Federalism",
+      "source": "rabble.ca",
+      "title": "Meta Investment Highlights Alberta's Proactive AI Data Centre Strategy",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://rabble.ca/politics/canadian-politics/meta-announcement-shows-albertas-determination-to-welcome-ai-data-centres/",
+      "summary": "Alberta Premier Danielle Smith announced Meta's commitment to build Canada's largest AI data centre in Sturgeon County. This move is highlighted as a significant economic victory for Alberta, demonstrating the province's determination to attract tech investment through incentives like affordable electricity and a skilled workforce. The article critically questions the overall benefits to Alberta beyond jobs and modest revenues.",
+      "graph": ["Alberta Economy", "AI Investment", "Provincial Policy", "Economic Development"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Critical of potential benefits, suggesting they may be modest compared to the scale of the investment. Focuses on jobs and revenues for Albertans." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports the announcement as a fact, highlighting the government's stated aims and the nature of the investment in advanced technology." },
+          "right": { "label": "Conservative Context", "synthesis": "Praises Alberta's proactive stance and its success in attracting major tech investment, positioning the province as a leader in economic diversification." }
+        },
+        "neutral": "Alberta secures major Meta AI data centre investment, initiating debate on long-term provincial economic benefits."
+      }
+    },
+    {
+      "id": "fed-2",
       "category": "Federalism",
       "source": "The Narwhal",
-      "title": "Ontario Government Revamps Environmental Regulations with Bill 5, Discarding Climate Plan",
+      "title": "Federal and Provincial Governments Announce Multiple Major Pipeline Proposals Amidst Energy Policy Debate",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/ontario-election-ford-explainer/?utm_source=rss",
-      "summary": "The Ontario government under Doug Ford is enacting significant changes to environmental regulations, including Bill 5, which streamlines development, reduces species protections, and eliminates the legal requirement for the province to maintain a climate plan. Critics argue these changes prioritize economic growth over environmental safeguards and reduce public oversight and municipal environmental powers.",
-      "graph": ["Provincial Legislation", "Environmental Policy", "Climate Change", "Regulatory Reform", "Municipal Powers"],
+      "url": "https://thenarwhal.ca/three-pipeline-announcements-2026/?utm_source=rss",
+      "summary": "A flurry of pipeline announcements includes a federal commitment for B.C. infrastructure tied to a West Coast oil pipeline (Roberts Bank terminal) and a joint Alberta-Ontario proposal for the Northern Shield pipeline to Sarnia. These projects involve significant taxpayer funding and raise questions about environmental impact and Indigenous consultation, with critics highlighting an uncritical media narrative and the financial burden on the public.",
+      "graph": ["Energy Policy", "Pipeline Development", "Federal-Provincial Relations", "Resource Development", "Taxpayer Funding", "Indigenous Consultation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints criticize the Ford government for dismantling environmental protections, prioritizing corporate interests over climate action and public good. They highlight increased climate risks and a reduction in transparency and democratic oversight." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the procedural aspects of Bill 5 and associated regulatory changes, observing the shift in provincial environmental governance. They emphasize the legal challenges and the ongoing policy debate between economic development and environmental protection." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives support the Ford government's efforts to cut perceived 'red tape' and accelerate economic development in sectors like housing, mining, and energy, viewing environmental regulations as barriers to growth and prosperity." }
+          "left": { "label": "Progressive Context", "synthesis": "Critical of taxpayer funding for oil infrastructure, potential environmental impacts, and insufficient Indigenous consultation. Views these as industry-driven narratives repeated uncritically." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the announcements and the various stakeholders' perspectives (federal, provincial, First Nations, academic), outlining the scope of proposed projects." },
+          "right": { "label": "Conservative Context", "synthesis": "Views these pipeline projects as crucial for national economic recovery and provincial prosperity, with governments actively facilitating private investment and resource export." }
         },
-        "neutral": "The Ontario government's recent legislative and policy changes, particularly through Bill 5, represent a significant shift in the province's environmental governance, prioritizing development and resource extraction while reducing previous climate plan requirements and municipal environmental powers."
+        "neutral": "New federal and provincial pipeline proposals initiate complex discussions on economic benefits, public funding, and environmental concerns across Canada."
       }
     },
     {
-      "id": "federal-government-domestic-defence-procurement",
+      "id": "fed-3",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Government Prioritizes Domestic Industry in $4.9B Army Vehicle Procurement",
+      "title": "Senate Attendance Under Scrutiny as Dozens Routinely Miss Key Votes",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/light-utility-vehicles-army-canada-competition-9.7262363?cmp=rss",
-      "summary": "The Canadian government has revised its procurement strategy for the army's $4.9-billion light utility vehicle program, shifting from an open competition to inviting bids exclusively from Canadian suppliers. This move, which sidelines international contenders including U.S. firms, is intended to strengthen Canada's domestic defence industrial base.",
-      "graph": ["Defence Procurement", "Industrial Policy", "Canadian Economy", "International Trade", "Military Spending"],
+      "url": "https://www.cbc.ca/news/politics/senate-missed-votes-9.7264884?cmp=rss",
+      "summary": "A CBC News analysis reveals that many senators routinely miss key votes, with only eight having perfect attendance over the past year. Reforms by Prime Minister Justin Trudeau aimed at reducing party pressure have inadvertently limited mechanisms to enforce attendance. This has led to concerns among some senators about the effectiveness of the upper house and calls for greater accountability, while others argue senators' duties extend beyond chamber attendance.",
+      "graph": ["Parliamentary Accountability", "Senate Reform", "Federal Governance", "Legislative Process"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This decision is seen by some progressives as a positive step towards fostering Canadian jobs, promoting domestic economic growth, and enhancing self-reliance in defence manufacturing, aligning with national economic sovereignty." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral observers view this as a strategic policy adjustment to balance economic stimulus and national security interests, while noting the departure from traditional open procurement processes and potential diplomatic implications with international partners." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative analyses may raise concerns about protectionist measures potentially impacting free trade or the efficiency and cost-effectiveness of procurement by limiting competition, though some may support it as a way to enhance national security and reduce reliance on foreign suppliers." }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on institutional effectiveness and democratic accountability, suggesting reforms haven't fully addressed engagement issues and calling for stronger oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the facts of the attendance records and the different perspectives on senators' responsibilities and the impact of the reforms on parliamentary functioning." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for dedicated public service, criticizing absentee senators as not taking their roles seriously and advocating for greater commitment to legislative duties." }
         },
-        "neutral": "The Canadian government has altered its $4.9-billion light utility vehicle procurement to prioritize domestic suppliers, a move aimed at bolstering Canada's defence industrial base but deviating from open competition."
+        "neutral": "Analysis highlights routine absenteeism in the Canadian Senate, prompting questions about accountability and the effectiveness of parliamentary reforms."
       }
     },
     {
-      "id": "canada-us-forced-labor-tariffs",
+      "id": "fed-4",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada Contests U.S. Forced Labour Tariffs, Citing New Domestic Legislation",
+      "title": "Alberta's Separatism Debate Primarily Online, Referendum Looms",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trump-no-basis-forced-labour-tariffs-9.7262433?cmp=rss",
-      "summary": "The Canadian government has formally informed the U.S. Trump administration that its recently enacted legislation to combat forced labor in supply chains should exempt Canada from proposed new U.S. tariffs. The U.S. launched trade investigations against 60 countries, including Canada, alleging insufficient enforcement of forced labor bans. Canada's submission highlights its existing prohibition and new enforcement bill (C-35) as proof of its commitment.",
-      "graph": ["International Trade", "Canada-US Relations", "Forced Labor", "Supply Chain Ethics", "Tariffs", "Legislation"],
+      "url": "https://www.cbc.ca/news/canada/calgary/drumheller-separatism-debate-9.7261829?cmp=rss",
+      "summary": "The debate over Alberta's separation from Canada is largely confined to online platforms, where discussions are often divisive and aggressive, while in-person conversations remain 'awkward' and rare. A provincial referendum on separation is scheduled for October, following a signature collection effort. This divide highlights challenges in civil discourse on politically sensitive issues and the complexities of gauging public sentiment beyond online echo chambers.",
+      "graph": ["National Unity", "Provincial Autonomy", "Political Discourse", "Referendum", "Alberta Politics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives emphasize the importance of robust global enforcement against forced labor, potentially questioning the timing or perceived effectiveness of Canada's legislation if viewed primarily as a reaction to U.S. tariffs rather than a proactive human rights measure." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the diplomatic and legal arguments presented by Canada to protect its economic interests, highlighting the procedural steps taken in response to U.S. trade actions and the complexities of international trade law and compliance." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may criticize U.S. protectionism but could also question the practical impact of Canadian legislation on business competitiveness or its genuine ability to address forced labor without unintended economic consequences, while valuing stable trade relations." }
+          "left": { "label": "Progressive Context", "synthesis": "Concerned about the divisiveness of online political discourse and its impact on community harmony, advocating for more inclusive and constructive dialogue." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the observed social dynamics of the separatism debate, noting the difference between online and in-person interactions in a community facing a significant political question." },
+          "right": { "label": "Conservative Context", "synthesis": "Views the referendum as an essential exercise in provincial sovereignty, with proponents advocating for a clear mandate on Alberta's future within the federation." }
         },
-        "neutral": "Canada is challenging potential U.S. tariffs on forced labor claims, asserting its new domestic legislation on supply chain transparency and existing prohibitions demonstrate sufficient commitment to warrant an exemption."
+        "neutral": "Alberta's looming independence referendum sparks a polarized debate, with online discussions contrasting sharply with more restrained in-person interactions."
       }
     },
     {
-      "id": "canada-submarine-procurement",
+      "id": "fed-5",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada's Billions-Dollar Submarine Procurement to Bolster Defence and Arctic Sovereignty",
+      "title": "Conservative Party Reports $14 Million Deficit in 2025 Despite Significant Revenue",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/tkms-canada-submarine-navy-contract-explained-9.7261980?cmp=rss",
-      "summary": "The Canadian federal government is proceeding with the largest defence procurement in its history, acquiring up to a dozen submarines from German shipbuilder ThyssenKrupp Marine Systems (TKMS), with an estimated lifetime cost exceeding $100 billion. Prime Minister Mark Carney justified the expenditure by citing a 'dangerous and divided world' and the increasing importance of Arctic sovereignty, aligning with NATO's call for increased defence spending.",
-      "graph": ["Defence Spending", "Military Procurement", "Arctic Sovereignty", "NATO", "Foreign Policy", "Economic Impact"],
+      "url": "https://www.cbc.ca/news/politics/conservatives-liberals-2025-spending-9.7264585?cmp=rss",
+      "summary": "Financial audits filed with Elections Canada reveal the Conservative Party accrued a $14 million deficit in 2025, despite taking in nearly $85 million in revenue. This is attributed to almost $100 million in spending during the election year, with a net debt of $5 million. In contrast, the Liberal Party reported a $3.6 million surplus. This data provides insight into the financial health and campaign expenditures of Canada's major federal political parties.",
+      "graph": ["Party Finance", "Election Spending", "Political Accountability", "Federal Politics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives raise concerns about the immense cost and potential for overruns, questioning if such a large military expenditure is the most effective use of public funds for national security or if resources could be better allocated to social programs, climate action, or other domestic priorities." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the strategic necessity of modernizing Canada's navy and securing Arctic interests in a complex geopolitical landscape, while also scrutinizing the transparency, long-term costs, and economic impact of such a massive procurement." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints strongly support increased defence spending and military modernization, especially given evolving global threats and the need to assert Arctic sovereignty. They see the deal as a necessary investment in national security and fulfilling Canada's NATO commitments." }
+          "left": { "label": "Progressive Context", "synthesis": "Might question the efficiency of large campaign spending, especially when resulting in a deficit, and its impact on fair political competition and transparency." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the financial figures objectively, contrasting the fiscal positions of the Conservative and Liberal parties as reported to Elections Canada." },
+          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the high spending in an election year, possibly framing it as necessary investment, while focusing on the party's fundraising strength and efforts to gain power." }
         },
-        "neutral": "Canada is undertaking its largest defence procurement to date, acquiring up to twelve submarines for over $100 billion, a move justified by the Prime Minister as essential for national security, Arctic sovereignty, and fulfilling NATO obligations in a volatile world."
+        "neutral": "Federal Conservative Party concludes 2025 with a significant deficit following high election year expenditures, contrasting with the Liberal Party's surplus."
       }
     },
     {
-      "id": "carney-senate-appointments",
+      "id": "fed-6",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Prime Minister Carney Revises Senate Appointment Criteria, Appointing Partisan Figures",
+      "source": "The Globe and Mail",
+      "title": "Prime Minister Carney Defends Engagement with Saudi Arabia on Trade and Investment",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-senate-independent-pitfield-martel-analysis-9.7261876?cmp=rss",
-      "summary": "Prime Minister Mark Carney has begun shaping the Canadian Senate by appointing figures with clear partisan ties, including a former Liberal strategist and a Conservative MP. Significantly, Carney's government has removed the 'nonpartisanship' criterion for Senate appointments, a key reform introduced by the previous Trudeau government, raising questions about a potential return to a more partisan Red Chamber.",
-      "graph": ["Senate Appointments", "Parliamentary Reform", "Political Partisanship", "Executive Power", "Checks and Balances"],
+      "url": "https://www.theglobeandmail.com/politics/article-mark-carney-saudi-arabia-trade-investment-human-rights/",
+      "summary": "Prime Minister Mark Carney defended Canada's decision to pursue increased trade and investment with Saudi Arabia, marking the first visit by a Canadian PM in 26 years. Carney asserted that doing business with foreign countries does not require agreement on all values, particularly human rights. This position aims to balance economic interests with ethical considerations in international relations.",
+      "graph": ["Foreign Policy", "Trade Relations", "Human Rights", "Diplomacy", "Economic Interests"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives view this as a potential step backward for Senate independence and a move to re-politicize an institution that was beginning to assert a more non-partisan role, raising concerns about the balance of power and the quality of legislative review." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the procedural changes to Senate appointments, noting the shift from the Trudeau government's independent model. It examines the implications for the Senate's function, legislative review capacity, and the nature of executive appointments in a parliamentary democracy." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints may support the Prime Minister's ability to appoint individuals aligned with the government's vision, potentially viewing the previous 'nonpartisanship' criterion as an unnecessary restriction or an ideological overreach by the prior administration." }
+          "left": { "label": "Progressive Context", "synthesis": "Critical of prioritizing economic gain over human rights concerns, advocating for a values-based foreign policy that upholds Canada's ethical standing." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the Prime Minister's rationale for engaging with Saudi Arabia, outlining the government's pragmatic approach to international relations and strategic economic diplomacy." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the focus on expanding trade and investment opportunities, emphasizing national economic benefit and a realistic approach to global diplomacy regardless of internal political systems." }
         },
-        "neutral": "Prime Minister Carney has initiated new Senate appointments, including individuals with partisan backgrounds, and has removed the 'nonpartisanship' criterion, signaling a potential shift back towards a more politically aligned Red Chamber, departing from previous reform efforts."
+        "neutral": "Prime Minister Carney defends Canada's pursuit of trade with Saudi Arabia, balancing economic opportunities with human rights considerations."
       }
     },
     {
-      "id": "liberal-bc-condo-plan-probe",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Liberal MPs Block Conservative Probe into Federal-B.C. Vacant Condo Acquisition Plan",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/liberal-condo-plan-bc-conservatives-9.7261672?cmp=rss",
-      "summary": "Liberal Members of Parliament on a parliamentary ethics committee have voted to dismiss a Conservative request for an investigation into a joint federal-B.C. government plan to purchase unsold, vacant condominium units in British Columbia for conversion into affordable housing. Conservatives have criticized the $1.45 billion initiative as a 'condo bailout' for developers, arguing it interferes with market forces.",
-      "graph": ["Housing Policy", "Affordable Housing", "Federal-Provincial Relations", "Parliamentary Oversight", "Public Finance", "Real Estate"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives generally support government intervention to create affordable housing, viewing the plan as a necessary step to address the housing crisis. They may criticize Conservative opposition as hindering efforts to provide homes for vulnerable populations." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis examines the procedural clash in Parliament and the differing interpretations of the housing initiative's intent and economic impact. It focuses on the debate over the government's role in the housing market and the ethical considerations of developer support." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints critique the plan as government overreach and a distortion of the housing market, suggesting it benefits developers at taxpayer expense. They advocate for market-driven solutions and demand greater transparency in government spending." }
-        },
-        "neutral": "Liberal MPs on a parliamentary committee rejected a Conservative call to probe a federal-B.C. plan to acquire vacant condos for affordable housing, an initiative criticized by the opposition as a 'condo bailout' that intervenes in market economics."
-      }
-    },
-    {
-      "id": "alberta-equalization-reform",
+      "id": "fed-7",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Opinion: Alberta's Demand for Fiscal Federalism Reform and Greater Autonomy",
+      "title": "Canadian Manufacturing Companies Increasingly Considering Relocation to the U.S.",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/08/alberta-is-right-to-want-a-better-deal/",
-      "summary": "An opinion piece argues that Alberta is justified in seeking a 'better deal' within Canada's fiscal federalism, particularly regarding the Equalization system. While acknowledging Equalization's role in decentralization, the article advocates for a critical re-evaluation of current arrangements, proposing reforms such as shrinking federal powers, eliminating the Canada Health Transfer, repealing the GST, and ceding tax points to provinces to enhance provincial autonomy and address Alberta's net contributions to Confederation.",
-      "graph": ["Fiscal Federalism", "Equalization Payments", "Provincial Autonomy", "Taxation", "Intergovernmental Relations", "Economic Policy"],
+      "url": "https://thehub.ca/2026/07/10/42-of-canadian-manufacturing-companies-have-moved-to-the-u-s-and-ottawa-is-running-out-of-time-to-stop-them/",
+      "summary": "A KPMG Canada survey indicates that 42% of Canadian manufacturing companies have either already moved or are planning to move some or all of their production to the United States within two years. Factors cited include trade uncertainty, tax measures, and a stronger U.S. economy bolstered by AI and data-infrastructure demand. The report warns this trend could significantly reshape Canada's manufacturing capacity and investment landscape, criticizing Ottawa's slow response.",
+      "graph": ["Manufacturing Sector", "Economic Competitiveness", "Trade Policy", "Investment Trends", "Federal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views may caution against reforms that could undermine national unity or federal standards in social programs, while also acknowledging the need for fair provincial representation and addressing legitimate regional grievances within the federation." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis explores the complex economic and constitutional arguments surrounding equalization and fiscal federalism, aiming to balance the principles of national equity and comparable services with demands for provincial autonomy and economic efficiency." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives strongly advocate for fiscal reform that reduces the federal government's role, increases provincial control over revenue and spending, and addresses what is perceived as an unfair burden on 'have' provinces like Alberta due to existing fiscal arrangements." }
+          "left": { "label": "Progressive Context", "synthesis": "Concerned about job losses and the erosion of Canada's industrial base, potentially advocating for federal intervention and industrial policies to support domestic manufacturing." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the survey findings and expert analysis on the economic pressures driving relocation decisions and the potential impact on Canadian manufacturing capacity and investment." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for competitive tax policies and a more favorable business environment in Canada to retain investment, criticizing federal policies for driving businesses south." }
         },
-        "neutral": "An op-ed advocates for Alberta's right to seek significant reforms to Canada's fiscal federalism, including changes to the Equalization system and increased provincial tax autonomy, to better reflect its economic contributions and enhance its self-governance."
+        "neutral": "A KPMG survey reveals a significant portion of Canadian manufacturers are relocating to the U.S., raising concerns about Canada's economic competitiveness and federal policy effectiveness."
       }
     },
     {
-      "id": "alberta-pipeline-vancouver-port",
+      "id": "fed-8",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Alberta Proposes Supertanker-Capable Oil Export Terminal at Port of Vancouver as Part of New Pipeline Plan",
+      "title": "Pathways Alliance Carbon Capture Project Criticized as Costly 'Indulgence Economy' for Taxpayers",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/08/can-the-port-of-vancouver-handle-supertankers-a-closer-look-at-the-other-megaproject-inside-albertas-pipeline-proposal/",
-      "summary": "Alberta's proposal for a second West Coast oil pipeline includes a significant megaproject: a new oil export terminal at Roberts Bank, Port of Vancouver, designed to accommodate 'very large crude carriers' (supertankers). The plan details a massive industrial complex and offshore loading facility, raising questions about infrastructure capacity, environmental impacts, and the considerable public funding required for a project that private capital is hesitant to support.",
-      "graph": ["Energy Infrastructure", "Oil and Gas", "Environmental Assessment", "Interprovincial Projects", "Port Development", "Economic Development"],
+      "url": "https://thehub.ca/2026/07/10/35-billion-for-12-megatonnes-of-carbon-canadas-indulgence-economy-is-a-terrible-deal-for-taxpayers/",
+      "summary": "A critical analysis describes Canada's Pathways Alliance carbon capture project, a $35 billion initiative involving federal and Alberta governments, as an 'indulgence economy.' The critique argues that the project's financial viability relies on artificially high carbon prices and taxpayer subsidies, effectively transferring costs from oilsands shareholders to the public. It questions the project's climate effectiveness compared to alternative emissions reduction strategies and views it primarily as a means to secure social license for new export pipelines.",
+      "graph": ["Climate Policy", "Carbon Capture", "Energy Projects", "Public Spending", "Taxpayer Subsidies", "Federal-Provincial Cooperation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives voice strong environmental concerns about increased tanker traffic, potential for spills, and the expansion of fossil fuel infrastructure. They advocate for a rapid transition to renewable energy and stricter environmental protection over new oil export projects." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis examines the economic and logistical feasibility of the proposed project, including regulatory processes, engineering challenges, and the complexities of balancing energy development with environmental stewardship and Indigenous community engagement." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives strongly advocate for the project as crucial for Alberta's economy and Canada's energy sector, emphasizing the economic benefits of improved market access and the efficiency of shipping crude via supertankers. They often criticize regulatory hurdles and perceived political risks deterring private investment." }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly critical of the project's cost-effectiveness and its reliance on public funds to support the fossil fuel industry, arguing for more direct and efficient climate action and a genuine shift from fossil fuels." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the financial details and the critical perspective, highlighting the economic structure and the debate over its true environmental and economic value as a joint federal-provincial initiative." },
+          "right": { "label": "Conservative Context", "synthesis": "Views the project as a necessary step for the energy sector to meet environmental goals while continuing resource development, potentially arguing for government support as a catalyst for large-scale innovation." }
         },
-        "neutral": "Alberta's plan for a new West Coast oil pipeline includes a large-scale terminal at the Port of Vancouver capable of handling supertankers, a complex infrastructure project whose feasibility involves significant environmental and public funding considerations."
+        "neutral": "The $35 billion Pathways Alliance carbon capture project faces scrutiny for its reliance on taxpayer funding and questioned climate effectiveness, sparking debate over Canada's energy transition strategy."
       }
     }
   ],
   "charter": [
     {
-      "id": "naval-veteran-age-discrimination",
+      "id": "char-1",
       "category": "Charter",
-      "source": "Toronto Sun",
-      "title": "Court Upholds Military Age Limit, Ending Naval Veteran's Fight to Serve Past 60",
+      "source": "Supreme Court of Canada",
+      "title": "SCC Restores Mandatory Minimum Sentence for Obtaining Sexual Services from a Minor",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/judge-drops-anchor-on-naval-veterans-fight-to-serve-past-age-60",
-      "summary": "A Canadian Naval Reserve Captain, Robert Snook, has lost his legal challenge to serve beyond the age of 60, with a judge ruling against his efforts to secure further extensions. This decision reinforces the existing age limits for military service, potentially setting a precedent for similar cases involving employment rights and age discrimination within federal institutions.",
-      "graph": ["Employment Rights", "Age Discrimination", "Military Service", "Judicial Review", "Human Rights"],
+      "url": "https://www.cbc.ca/news/politics/supreme-court-mandatory-minimum-prostitution-minor-9.7265835?cmp=rss",
+      "summary": "The case originated from Mario Denis, who was found guilty in 2018 of soliciting sexual services from a minor and sentenced to a six-month mandatory minimum. Denis appealed, challenging the constitutionality of this minimum sentence under the Charter. In May 2024, the Quebec Court of Appeal ruled the mandatory minimum sentence unconstitutional, though it upheld Denis's sentence. The Supreme Court of Canada subsequently heard the appeal regarding the constitutionality of the mandatory minimum.",
+      "graph": ["Mandatory Minimum Sentences", "Child Protection", "Sexual Offences", "Section 12 Charter", "Cruel and Unusual Punishment"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives often advocate for greater flexibility in employment rules, particularly for experienced individuals, challenging age-based discrimination and emphasizing individual choice and contribution regardless of age, provided competency is maintained." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the legal interpretation of employment regulations and human rights law, balancing individual rights with institutional needs, safety requirements, and operational efficiency considerations within the armed forces." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may support the military's right to set and enforce clear age-based policies for operational readiness, safety, and efficiency, while acknowledging the individual's desire to continue serving but prioritizing organizational standards." }
+          "left": { "label": "Majority Reasons", "synthesis": "The SCC Majority, in a 7-2 split decision, reinstated the mandatory minimum sentence of six months for obtaining sexual services from a minor. The majority found that this mandatory minimum sentence did not constitute cruel and unusual punishment under Section 12 of the Canadian Charter of Rights and Freedoms. Their reasoning likely focused on the gravity of the offence, the need to protect vulnerable minors, and the proportionality of the sentence in typical cases, asserting that the minimum term was not grossly disproportionate to the offence, even in conceivable hypothetical scenarios." },
+          "center": { "label": "Concurring Reasons", "synthesis": "No specific concurring opinions were detailed in the provided news output. Broader policy implications include reaffirming the legislature's role in setting minimum sentences for serious crimes, particularly those involving the sexual exploitation of minors. This decision highlights the ongoing tension between parliamentary supremacy in sentencing and judicial oversight under the Charter, particularly concerning mandatory minimums, and reinforces the priority of protecting children from sexual exploitation." },
+          "right": { "label": "Dissenting Reasons", "synthesis": "The two dissenting judges found that the mandatory minimum sentence *did* constitute cruel and unusual punishment, likely arguing that it could lead to grossly disproportionate sentences in certain hypothetical or marginal cases, thus violating Section 12 of the Charter. Their dissent would emphasize the importance of judicial discretion in sentencing to ensure proportionality and guard against unjust outcomes, even for severe offences, when a blanket minimum is applied without considering individual circumstances." }
         },
-        "neutral": "A Canadian judge has ruled against a Naval Reserve Captain's legal bid to extend his service beyond the age of 60, affirming the military's age limit policy and impacting discussions around age discrimination and employment rights in federal uniformed services."
+        "neutral": "Precedent Impact: Confirming - The Supreme Court's decision confirms the constitutionality of the mandatory minimum sentence for obtaining sexual services from a minor, upholding legislative intent for robust protection of children and affirming the scope of Section 12 Charter challenges against minimums."
+      }
+    },
+    {
+      "id": "char-2",
+      "category": "Charter",
+      "source": "Toronto Sun",
+      "title": "Ontario Court Affirms Anti-Trudeau Billboard as Protected Free Speech",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/ontario-court-rules-anti-trudeau-billboard-is-protected-free-speech-under-the-charter",
+      "summary": "An Ontario court ruled that a policy enacted by the provincial government, which prohibited political messaging on billboards along bush country highways, violated Charter Section 2(b) guaranteeing freedom of expression. The ruling specifically protected an anti-Trudeau billboard, affirming that political speech, even critical, is fundamental to a democratic society and subject to a high level of constitutional protection.",
+      "graph": ["Freedom of Expression", "Section 2(b) Charter", "Provincial Regulation", "Political Speech", "Judicial Review"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the broad scope of free speech protections, including critical political commentary, as essential for a healthy democracy and challenging authority. Would support the court's role in safeguarding rights against overreaching government regulation." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the court's application of Charter Section 2(b) jurisprudence, specifically balancing the provincial government's regulatory objectives against the constitutional right to freedom of expression. The decision underscores the limits of governmental power to restrict political speech without sufficient justification under Section 1." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the protection of individual liberties, particularly free speech, against government encroachment. Views the ruling as a victory for individual expression and a check on provincial authority, especially when it targets critical political messages." }
+        },
+        "neutral": "An Ontario court has affirmed that anti-Trudeau political billboards are protected under Charter Section 2(b), invalidating a provincial policy restricting political messaging on highways."
+      }
+    },
+    {
+      "id": "char-3",
+      "category": "Charter",
+      "source": "ABlawg",
+      "title": "Ontario Superior Court Affirms Evolving Right to Shelter under Charter for Homeless Encampments",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://ablawg.ca/2026/07/10/canadas-evolving-right-to-shelter-region-of-waterloo-v-named-respondents-persons-unknown/?utm_source=rss&utm_medium=rss&utm_campaign=canadas-evolving-right-to-shelter-region-of-waterloo-v-named-respondents-persons-unknown",
+      "summary": "The Ontario Superior Court of Justice, in *The Regional Municipality of Waterloo v Named Respondents and Persons Unknown*, ruled that a regional government bylaw prohibiting encampments was unconstitutional, violating sections 7 and 15 of the Charter. The court explicitly recognized an evolving human right to housing, drawing on international human rights law and the federal _National Housing Strategy Act_. It retained jurisdiction to oversee the creation of a Charter-compliant safe tenting protocol or alternative encampment site, furthering the limited right to shelter established in *Victoria v Adams*.",
+      "graph": ["Right to Housing", "Homelessness", "Section 7 Charter", "Section 15 Charter", "International Human Rights Law", "Judicial Oversight"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Lauds the decision as a significant advancement for the human right to housing, emphasizing the court's progressive interpretation of the Charter and its reliance on international human rights. Supports judicial intervention to protect vulnerable populations and ensure municipal accountability in addressing homelessness." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the court's application of Charter sections 7 and 15, noting its innovative use of 'homelessness' as an analogous ground and the 'Declaration Plus' remedy. Focuses on how the decision expands established jurisprudence on the right to shelter and mandates ongoing judicial oversight for compliance." },
+          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about judicial overreach into policy-making traditionally reserved for elected governments and the financial implications for municipalities. Questions the extent to which courts should define and enforce positive rights like housing, potentially advocating for legislative solutions over judicial ones." }
+        },
+        "neutral": "An Ontario Superior Court ruling has advanced the Charter-protected right to shelter, mandating municipal action for homeless encampments and recognizing an evolving human right to housing informed by international law."
       }
     }
   ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "toronto-markham-sex-assault-charges",
+      "id": "crim-1",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Two Individuals Face Separate Sex Assault Charges Involving Youth in Toronto and Markham",
+      "source": "National Post",
+      "title": "Profile of Global Gang Leader Lawrence Bishnoi Operating in Canada",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/crime/toronto-school-chef-camp-counsellor-markham-psychologist-face-separate-sex-assault-charges-involving-youth",
-      "summary": "Separate charges of sexual assault involving youth have been laid against a Toronto school chef-camp counsellor and a Markham psychologist. The allegations detail incidents occurring over several years, highlighting ongoing efforts by law enforcement to address sexual offenses against minors and protect vulnerable populations.",
-      "graph": ["Sexual Assault", "Child Protection", "Criminal Charges", "Law Enforcement"],
+      "url": "https://nationalpost.com/news/canada/lawrence-bishnoi-profile",
+      "summary": "The article profiles Lawrence Bishnoi, a jailed ex-policeman's son who has risen to head a violent and expanding global criminal gang, with a significant presence in Canada. His name has gained legendary status in the underworld from India to Canada, highlighting the international scope of organized crime affecting Canadian communities and law enforcement efforts.",
+      "graph": ["Organized Crime", "Gang Violence", "International Crime", "Law Enforcement", "Criminal Justice"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives emphasize the need for robust child protection systems, support services for victims, and addressing systemic issues that contribute to such crimes, advocating for comprehensive rehabilitation and prevention strategies." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the judicial process, the presumption of innocence, and the careful handling of evidence in sensitive cases involving vulnerable victims, ensuring due process and fair trials for all parties." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints call for swift and severe penalties for individuals convicted of sex crimes against children, emphasizing public safety, victim protection, and maintaining strict law and order." }
+          "left": { "label": "Progressive Context", "synthesis": "Might focus on the socio-economic factors that contribute to gang recruitment and the need for community-based prevention strategies alongside law enforcement to address the root causes of crime." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the operations of international organized crime, detailing the reach of such gangs and the challenges they pose to Canadian law enforcement and intelligence agencies in combating their activities." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for robust law enforcement, increased penalties, and enhanced cross-border cooperation to dismantle violent criminal organizations and protect public safety from foreign and domestic threats." }
         },
-        "neutral": "Law enforcement has laid sexual assault charges against a Toronto school chef-camp counsellor and a Markham psychologist in separate incidents involving youth, underscoring continued efforts to combat child exploitation and protect minors."
+        "neutral": "A profile reveals the expanding global influence of Lawrence Bishnoi's violent criminal gang in Canada, underscoring challenges for law enforcement against international organized crime."
       }
     },
     {
-      "id": "leslieville-murder-appeal",
+      "id": "crim-2",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Convicted Killer Seeks Appeal in Leslieville Bystander Murder Case",
+      "title": "Two Charged After Machete and Knife Attack in British Columbia",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/columnists/killer-of-leslieville-mom-seeks-appeal",
-      "summary": "Damian Hudson, who was found guilty of second-degree murder in the stray bullet killing of Karolina Huebner-Makurat in Leslieville, has initiated an appeal against his conviction and life sentence. Hudson is reportedly requesting a new trial presided over by a judge, rather than a jury, as part of his appeal process.",
-      "graph": ["Homicide", "Criminal Appeal", "Judicial Process", "Justice System"],
+      "url": "https://torontosun.com/news/national/group-attacked-in-b-c-by-males-armed-with-machete-knife-there-was-a-lot-of-blood",
+      "summary": "A group was violently attacked in British Columbia by males armed with a machete and a knife, resulting in significant injuries and a police investigation. Two individuals have been charged in connection with the assault. The event highlights incidents of violent crime and the ongoing efforts of law enforcement to address such occurrences and ensure public safety within Canadian communities.",
+      "graph": ["Violent Crime", "Assault", "Weapons Offences", "Law Enforcement", "British Columbia"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives may focus on systemic issues contributing to gun violence and call for addressing root causes of crime, while also emphasizing the importance of a fair and thorough legal process, including avenues for appeal, to ensure justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis examines the legal merits of the appeal, focusing on procedural fairness, the integrity of the original trial, and the role of the appellate court in reviewing judicial decisions to ensure legal correctness." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints emphasize the importance of upholding convictions for violent crimes and ensuring justice for victims, potentially criticizing appeals as lengthy delays or attempts to undermine a just verdict." }
+          "left": { "label": "Progressive Context", "synthesis": "May point to underlying social issues, such as poverty, lack of opportunities, or mental health challenges, that could contribute to violent acts, advocating for preventative social programs." },
+          "center": { "label": "Procedural Context", "synthesis": "Details the law enforcement response to the violent incident, including the charging of suspects, and discusses the judicial process that will follow to address the alleged crimes." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the severity of the violent act and calls for strict enforcement of laws and adequate penalties to deter such crimes and ensure public safety and order." }
         },
-        "neutral": "Damian Hudson, convicted of second-degree murder in the Leslieville bystander shooting, is appealing his conviction and life sentence, seeking a new trial to be heard by a judge rather than a jury."
+        "neutral": "Two suspects charged following a violent machete and knife attack in British Columbia, prompting ongoing law enforcement action."
+      }
+    },
+    {
+      "id": "crim-3",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Brampton Drug Trafficker Sentenced to 20 Years in U.S. Prison",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/world/brampton-drug-dealer-guramrit-sidhu-sentenced",
+      "summary": "Guramrit Sidhu, a drug trafficker from Brampton, Ontario, known as 'the King,' has been sentenced to 20 years in a U.S. prison for his role in trafficking hundreds of kilograms of methamphetamine and cocaine from the U.S. into Canada. The case highlights the cross-border nature of large-scale drug operations and the collaborative efforts between Canadian and U.S. authorities in combating international drug trade.",
+      "graph": ["Drug Trafficking", "Organized Crime", "Cross-Border Crime", "International Law Enforcement", "Sentencing"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might explore the broader social determinants of drug trade involvement and advocate for harm reduction strategies and addressing socio-economic disparities in addition to punitive measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the specifics of the case, the evidence presented in court, and the legal process leading to the conviction and sentencing for cross-border drug trafficking." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of severe sentencing for major drug traffickers to deter criminal activity and protect national borders from illicit substances, praising successful international law enforcement collaboration." }
+        },
+        "neutral": "A Brampton-based drug trafficker receives a 20-year U.S. prison sentence for cross-border meth and cocaine operations, highlighting international law enforcement efforts."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "indian-gang-canada-immigration",
-      "category": "Immigration",
-      "source": "National Post",
-      "title": "Report Links Rise of Indian Transnational Crime to Canada's Immigration Policies",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/india-bishnoi-gang-canada",
-      "summary": "A report suggests that an Indian organized crime syndicate is expanding its operations within Canada, allegedly exploiting the country's immigration laws and high immigration rates. The article highlights concerns about Canada becoming a new battleground for transnational violence due to perceived weaknesses in immigration screening and enforcement.",
-      "graph": ["Immigration Policy", "Organized Crime", "National Security", "Transnational Crime", "Law Enforcement"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would call for a nuanced approach, emphasizing the need for robust integration programs and targeted law enforcement against organized crime, rather than broad critiques of immigration rates. They would caution against xenophobia and ensure fair processes for all immigrants." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis examines the challenges of managing transnational crime within a high-immigration context, focusing on the need for effective screening, intelligence sharing, and law enforcement strategies to maintain public safety and the integrity of the immigration system." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints emphasize the imperative to tighten immigration laws and vetting processes to prevent criminal elements from exploiting the system, directly linking high immigration rates to potential national security and public safety risks." }
-        },
-        "neutral": "A report suggests that Canada's immigration laws and high intake rates are being exploited by an Indian organized crime group, raising national security concerns about transnational violence expanding within the country."
-      }
-    }
-  ]
+  "immigration": []
 }
