@@ -1,276 +1,259 @@
 {
   "federalism": [
     {
-      "id": "fed-1",
+      "id": "1d8b6f3c5a7e9d2b0e1f4c7a6d9b8e0f",
       "category": "Federalism",
       "source": "rabble.ca",
-      "title": "Meta Investment Highlights Alberta's Proactive AI Data Centre Strategy",
+      "title": "Alberta's Strategy to Attract AI Data Centres and Economic Development Implications",
       "citation": "June 2026 Tracking Window",
       "url": "https://rabble.ca/politics/canadian-politics/meta-announcement-shows-albertas-determination-to-welcome-ai-data-centres/",
-      "summary": "Alberta Premier Danielle Smith announced Meta's commitment to build Canada's largest AI data centre in Sturgeon County. This move is highlighted as a significant economic victory for Alberta, demonstrating the province's determination to attract tech investment through incentives like affordable electricity and a skilled workforce. The article critically questions the overall benefits to Alberta beyond jobs and modest revenues.",
-      "graph": ["Alberta Economy", "AI Investment", "Provincial Policy", "Economic Development"],
+      "summary": "Alberta Premier Danielle Smith announced measures to attract Meta's AI data centers. While praised by the provincial government for economic growth, critical analysis from a left-leaning perspective questions the actual benefits, suggesting limited job creation and modest government revenues compared to the substantial infrastructure and potential long-term impacts on the province's economy and energy grid.",
+      "graph": ["Provincial Policy", "Economic Development", "AI Data Centers", "Alberta Government", "Intergovernmental Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critical of potential benefits, suggesting they may be modest compared to the scale of the investment. Focuses on jobs and revenues for Albertans." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports the announcement as a fact, highlighting the government's stated aims and the nature of the investment in advanced technology." },
-          "right": { "label": "Conservative Context", "synthesis": "Praises Alberta's proactive stance and its success in attracting major tech investment, positioning the province as a leader in economic diversification." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques Alberta's approach, questioning the true economic and social benefits of large AI data centers, suggesting they may primarily serve corporate interests with limited local impact. Emphasizes environmental concerns related to energy consumption." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of attracting foreign investment and technological development, evaluating the balance between provincial autonomy, economic incentives, and the strategic importance of AI infrastructure." },
+          "right": { "label": "Conservative Context", "synthesis": "Applauds Alberta's proactive stance in attracting major tech investment, viewing it as a positive step for economic diversification, job creation, and fostering innovation within the province. Supports provincial initiatives to boost the economy." }
         },
-        "neutral": "Alberta secures major Meta AI data centre investment, initiating debate on long-term provincial economic benefits."
+        "neutral": "Alberta has announced policies to attract AI data centers, including Meta's, aiming to stimulate economic growth, though the long-term benefits and broader implications for provincial resources and economy are subject to debate."
       }
     },
     {
-      "id": "fed-2",
+      "id": "c7e2b1f9a0d3e5b8c6f4a1d7e8b9c2a3",
       "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "Federal and Provincial Governments Announce Multiple Major Pipeline Proposals Amidst Energy Policy Debate",
+      "source": "rabble.ca",
+      "title": "Progressive Call for Federal Wealth Tax to Address Economic Inequality",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/three-pipeline-announcements-2026/?utm_source=rss",
-      "summary": "A flurry of pipeline announcements includes a federal commitment for B.C. infrastructure tied to a West Coast oil pipeline (Roberts Bank terminal) and a joint Alberta-Ontario proposal for the Northern Shield pipeline to Sarnia. These projects involve significant taxpayer funding and raise questions about environmental impact and Indigenous consultation, with critics highlighting an uncritical media narrative and the financial burden on the public.",
-      "graph": ["Energy Policy", "Pipeline Development", "Federal-Provincial Relations", "Resource Development", "Taxpayer Funding", "Indigenous Consultation"],
+      "url": "https://rabble.ca/columnists/it-is-time-for-a-wealth-tax/",
+      "summary": "This opinion piece advocates for the implementation of a wealth tax in Canada, drawing parallels with historical U.S. tax policies. The argument posits that higher marginal tax rates on the wealthy are essential for funding public services, reducing economic inequality, and rebuilding national infrastructure, reflecting a progressive viewpoint on fiscal policy.",
+      "graph": ["Tax Policy", "Wealth Inequality", "Progressive Taxation", "Economic Justice", "Federal Fiscal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critical of taxpayer funding for oil infrastructure, potential environmental impacts, and insufficient Indigenous consultation. Views these as industry-driven narratives repeated uncritically." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the announcements and the various stakeholders' perspectives (federal, provincial, First Nations, academic), outlining the scope of proposed projects." },
-          "right": { "label": "Conservative Context", "synthesis": "Views these pipeline projects as crucial for national economic recovery and provincial prosperity, with governments actively facilitating private investment and resource export." }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports a wealth tax as a necessary tool to address widening wealth inequality, fund public services, and restore social programs, viewing it as a matter of economic justice." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the economic implications and administrative challenges of implementing a wealth tax, considering its potential impacts on investment, capital flight, and the feasibility of collection." },
+          "right": { "label": "Conservative Context", "synthesis": "Opposes a wealth tax, arguing it discourages investment, penalizes success, and could lead to capital flight, potentially harming economic growth and job creation. Advocates for market-led growth and competitive tax rates." }
         },
-        "neutral": "New federal and provincial pipeline proposals initiate complex discussions on economic benefits, public funding, and environmental concerns across Canada."
+        "neutral": "A progressive call for a federal wealth tax has been made, citing historical examples and arguing for its potential to address economic inequality and fund public infrastructure, while economic and political feasibility remain subjects of debate."
       }
     },
     {
-      "id": "fed-3",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Senate Attendance Under Scrutiny as Dozens Routinely Miss Key Votes",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/senate-missed-votes-9.7264884?cmp=rss",
-      "summary": "A CBC News analysis reveals that many senators routinely miss key votes, with only eight having perfect attendance over the past year. Reforms by Prime Minister Justin Trudeau aimed at reducing party pressure have inadvertently limited mechanisms to enforce attendance. This has led to concerns among some senators about the effectiveness of the upper house and calls for greater accountability, while others argue senators' duties extend beyond chamber attendance.",
-      "graph": ["Parliamentary Accountability", "Senate Reform", "Federal Governance", "Legislative Process"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on institutional effectiveness and democratic accountability, suggesting reforms haven't fully addressed engagement issues and calling for stronger oversight." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the facts of the attendance records and the different perspectives on senators' responsibilities and the impact of the reforms on parliamentary functioning." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for dedicated public service, criticizing absentee senators as not taking their roles seriously and advocating for greater commitment to legislative duties." }
-        },
-        "neutral": "Analysis highlights routine absenteeism in the Canadian Senate, prompting questions about accountability and the effectiveness of parliamentary reforms."
-      }
-    },
-    {
-      "id": "fed-4",
+      "id": "e4f8a9b2c3d5e7f1a0b6c9d8e7f5a2b1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Alberta's Separatism Debate Primarily Online, Referendum Looms",
+      "title": "National Concern Over Farmland Loss Amidst Carney Government's Food Security Strategy",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/drumheller-separatism-debate-9.7261829?cmp=rss",
-      "summary": "The debate over Alberta's separation from Canada is largely confined to online platforms, where discussions are often divisive and aggressive, while in-person conversations remain 'awkward' and rare. A provincial referendum on separation is scheduled for October, following a signature collection effort. This divide highlights challenges in civil discourse on politically sensitive issues and the complexities of gauging public sentiment beyond online echo chambers.",
-      "graph": ["National Unity", "Provincial Autonomy", "Political Discourse", "Referendum", "Alberta Politics"],
+      "url": "https://www.cbc.ca/news/politics/canada-farmland-carney-food-security-strategy-young-farmers-9.7266016?cmp=rss",
+      "summary": "Canada is experiencing a significant loss of agricultural land, primarily due to urban expansion, which poses a threat to national food security. The Carney government's National Food Security Strategy aims to counter this trend, while provinces like Ontario are implementing measures, such as restricting foreign ownership, to protect remaining farmland and encourage the next generation of farmers.",
+      "graph": ["Food Security", "Land Use Policy", "Urban Sprawl", "Provincial Legislation", "Federal Strategy", "Agricultural Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concerned about the divisiveness of online political discourse and its impact on community harmony, advocating for more inclusive and constructive dialogue." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the observed social dynamics of the separatism debate, noting the difference between online and in-person interactions in a community facing a significant political question." },
-          "right": { "label": "Conservative Context", "synthesis": "Views the referendum as an essential exercise in provincial sovereignty, with proponents advocating for a clear mandate on Alberta's future within the federation." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for stronger federal and provincial land protection policies, emphasizing the importance of sustainable agriculture, local food systems, and combating speculative land acquisition by developers and foreign entities." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the complex interplay of economic development, agricultural sustainability, and government policy in managing land use. Focuses on the need for balanced strategies that address both urban growth and food production." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports market-based solutions for land use while acknowledging the strategic importance of domestic food production. May view restrictions on foreign ownership as a necessary measure to protect national assets, but emphasizes the need for efficient land use and minimizing regulatory burdens on farmers." }
         },
-        "neutral": "Alberta's looming independence referendum sparks a polarized debate, with online discussions contrasting sharply with more restrained in-person interactions."
+        "neutral": "Canadian farmland is decreasing due to urban expansion, leading to concerns about food security. The federal government's National Food Security Strategy and provincial actions, such as Ontario's foreign ownership restrictions, are attempts to address this challenge."
       }
     },
     {
-      "id": "fed-5",
+      "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Conservative Party Reports $14 Million Deficit in 2025 Despite Significant Revenue",
+      "title": "Fiscal Credibility Challenged for Canada's NATO Defence Spending Commitments",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/conservatives-liberals-2025-spending-9.7264585?cmp=rss",
-      "summary": "Financial audits filed with Elections Canada reveal the Conservative Party accrued a $14 million deficit in 2025, despite taking in nearly $85 million in revenue. This is attributed to almost $100 million in spending during the election year, with a net debt of $5 million. In contrast, the Liberal Party reported a $3.6 million surplus. This data provides insight into the financial health and campaign expenditures of Canada's major federal political parties.",
-      "graph": ["Party Finance", "Election Spending", "Political Accountability", "Federal Politics"],
+      "url": "https://www.cbc.ca/news/politics/defence-spending-canada-uk-nato-9.7266431?cmp=rss",
+      "summary": "Following the NATO summit, Canada faces scrutiny over the fiscal credibility of its long-term defence spending plans. The Carney government needs to demonstrate how it will finance its commitment to the five percent NATO investment target by 2035, with political fallout in the UK serving as a cautionary tale against plans lacking transparent financial backing.",
+      "graph": ["Defence Spending", "NATO Commitments", "Fiscal Policy", "Federal Budget", "International Relations", "Government Accountability"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might question the efficiency of large campaign spending, especially when resulting in a deficit, and its impact on fair political competition and transparency." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the financial figures objectively, contrasting the fiscal positions of the Conservative and Liberal parties as reported to Elections Canada." },
-          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the high spending in an election year, possibly framing it as necessary investment, while focusing on the party's fundraising strength and efforts to gain power." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for transparent and accountable government spending, questioning the allocation of significant funds to military objectives, and advocating for investments in social programs alongside defence." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural requirements for meeting international defence obligations, stressing the importance of clear fiscal planning, economic capacity, and strategic alignment of defence spending with national interests." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports robust defence spending and meeting international alliance commitments, viewing it as essential for national security and global standing. Advocates for efficient and impactful use of taxpayer money in defence procurement." }
         },
-        "neutral": "Federal Conservative Party concludes 2025 with a significant deficit following high election year expenditures, contrasting with the Liberal Party's surplus."
+        "neutral": "Canada is facing increasing pressure to clarify the financing of its enhanced defence spending commitments to NATO, with the government expected to outline detailed fiscal plans amid concerns about financial credibility."
       }
     },
     {
-      "id": "fed-6",
+      "id": "f5e6d7c8b9a0f1e2d3c4b5a6f7e8d9c0",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Prime Minister Carney Defends Engagement with Saudi Arabia on Trade and Investment",
+      "source": "CBC News",
+      "title": "Gordie Howe International Bridge Opening Confirmed for July 27 After US-Canada Agreement",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-mark-carney-saudi-arabia-trade-investment-human-rights/",
-      "summary": "Prime Minister Mark Carney defended Canada's decision to pursue increased trade and investment with Saudi Arabia, marking the first visit by a Canadian PM in 26 years. Carney asserted that doing business with foreign countries does not require agreement on all values, particularly human rights. This position aims to balance economic interests with ethical considerations in international relations.",
-      "graph": ["Foreign Policy", "Trade Relations", "Human Rights", "Diplomacy", "Economic Interests"],
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-opening-9.7266280?cmp=rss",
+      "summary": "The federal government has confirmed that the Gordie Howe International Bridge, connecting Windsor, Ontario, to Detroit, Michigan, will open on July 27. This follows an agreement between Canada and Michigan, supported by the U.S. government, which resolved outstanding issues, including toll governance and the establishment of an economic development fund. The project was previously delayed due to demands from former U.S. President Donald Trump.",
+      "graph": ["International Infrastructure", "Federal-Provincial Cooperation", "Cross-Border Trade", "Public Works", "Economic Development", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critical of prioritizing economic gain over human rights concerns, advocating for a values-based foreign policy that upholds Canada's ethical standing." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the Prime Minister's rationale for engaging with Saudi Arabia, outlining the government's pragmatic approach to international relations and strategic economic diplomacy." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the focus on expanding trade and investment opportunities, emphasizing national economic benefit and a realistic approach to global diplomacy regardless of internal political systems." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the importance of public infrastructure projects that facilitate trade and economic ties, while also scrutinizing the transparency of agreements and the equitable distribution of benefits, including potential impacts on local communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the successful completion and operationalization of a critical international infrastructure project, emphasizing the diplomatic efforts and inter-governmental coordination required to resolve complex issues and ensure mutual economic benefit." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the economic benefits of improved trade routes and infrastructure for facilitating commerce and strengthening cross-border relations, while potentially critiquing delays and cost overruns." }
         },
-        "neutral": "Prime Minister Carney defends Canada's pursuit of trade with Saudi Arabia, balancing economic opportunities with human rights considerations."
+        "neutral": "The Gordie Howe International Bridge is set to open on July 27, following a Canada-Michigan agreement supported by the U.S. government, resolving prior delays and establishing frameworks for toll management and regional economic development."
       }
     },
     {
-      "id": "fed-7",
+      "id": "2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Public Crowdfunding Efforts Underway for Restoration of 24 Sussex Drive",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/24-sussex-mark-carney-fundraising-public-donor-list-9.7266278?cmp=rss",
+      "summary": "Over 2,000 Canadians have contributed more than $400,000 to a national crowdfunding campaign led by the Rideau Hall Foundation for the restoration of 24 Sussex Drive, the derelict official residence of the Prime Minister. Prime Minister Mark Carney initiated the public fundraising plan, promising donor transparency for the project, which has a stated target of $50 million.",
+      "graph": ["Federal Property", "Heritage Preservation", "Public Funding", "Government Accountability", "Prime Minister's Residence"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May question the use of public funds for a private residence (even if official), advocating for priorities in social housing or other public needs, while still supporting transparent fundraising and heritage preservation." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the logistical and financial challenges of maintaining significant federal heritage properties, examining the balance between private donations and public responsibility, and the process of transparent fundraising." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the preservation of national heritage sites and symbols, including the Prime Minister's residence, but may emphasize fiscal prudence and the importance of private contributions to reduce the burden on taxpayers." }
+        },
+        "neutral": "A national crowdfunding campaign to restore 24 Sussex Drive, the official residence of the Prime Minister, has garnered over $400,000 from more than 2,000 donors, with the federal government promoting transparency in the fundraising efforts for the $50 million target."
+      }
+    },
+    {
+      "id": "3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Tory MP Advocates for Easier Medical Access to Psilocybin for End-of-Life Depression",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/ben-woodfinden-a-tory-mp-wants-easier-access-to-magic-mushrooms-hear-him-out",
+      "summary": "An opinion piece highlights a Conservative Member of Parliament's push for easier access to psilocybin (magic mushrooms) for medical use, specifically for patients suffering from end-of-life depression. This initiative aims to amend federal drug policy and health regulations to allow doctors to prescribe psilocybin, opening a debate on therapeutic use of controlled substances and access to innovative treatments within the Canadian healthcare system.",
+      "graph": ["Drug Policy Reform", "Psilocybin", "Mental Health", "End-of-Life Care", "Federal Health Regulations", "Conservative Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports expanding access to therapeutic psilocybin, aligning with a harm reduction approach and patient autonomy, advocating for compassionate access to innovative treatments, particularly for mental health and palliative care." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the scientific evidence and regulatory pathways for controlled substances like psilocybin, focusing on the balance between potential therapeutic benefits, patient safety, and the need for controlled medical oversight." },
+          "right": { "label": "Conservative Context", "synthesis": "While generally supporting individual liberty and medical choice, the right might be cautious about decriminalizing or liberalizing access to controlled substances. However, some elements may support specific medical applications for psilocybin, especially if it reduces suffering and is backed by evidence, aligning with a less bureaucratic approach to healthcare solutions." }
+        },
+        "neutral": "A Conservative MP is advocating for simpler medical access to psilocybin, particularly for end-of-life depression, initiating a policy discussion on reforming federal drug regulations for therapeutic applications."
+      }
+    },
+    {
+      "id": "4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Canadian Manufacturing Companies Increasingly Considering Relocation to the U.S.",
+      "title": "Analysis of Justin Trudeau's Political Legacy and the Evolution of Liberal Party Policy Under Mark Carney",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/10/42-of-canadian-manufacturing-companies-have-moved-to-the-u-s-and-ottawa-is-running-out-of-time-to-stop-them/",
-      "summary": "A KPMG Canada survey indicates that 42% of Canadian manufacturing companies have either already moved or are planning to move some or all of their production to the United States within two years. Factors cited include trade uncertainty, tax measures, and a stronger U.S. economy bolstered by AI and data-infrastructure demand. The report warns this trend could significantly reshape Canada's manufacturing capacity and investment landscape, criticizing Ottawa's slow response.",
-      "graph": ["Manufacturing Sector", "Economic Competitiveness", "Trade Policy", "Investment Trends", "Federal Policy"],
+      "url": "https://thehub.ca/2026/07/10/the-liberal-party-has-proven-durable-trudeauism-has-not/",
+      "summary": "This analysis posits that while the Liberal Party remains durable, \"Trudeauism\" as a progressive governing philosophy has not. It critiques Justin Trudeau's nearly decade-long tenure, arguing his progressive policies led to economic underperformance and public disillusionment. In contrast, current Prime Minister Mark Carney is noted for shifting away from Trudeau-era policies towards a \"growth-first\" agenda, highlighting a significant ideological recalibration within federal politics, further exemplified by Alberta's proactive economic development.",
+      "graph": ["Political Legacy", "Liberal Party", "Federal Policy", "Economic Governance", "Progressivism", "Conservative Shift", "Prime Ministerial Leadership"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concerned about job losses and the erosion of Canada's industrial base, potentially advocating for federal intervention and industrial policies to support domestic manufacturing." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the survey findings and expert analysis on the economic pressures driving relocation decisions and the potential impact on Canadian manufacturing capacity and investment." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for competitive tax policies and a more favorable business environment in Canada to retain investment, criticizing federal policies for driving businesses south." }
+          "left": { "label": "Progressive Context", "synthesis": "May acknowledge electoral successes but critique the perceived drift away from core progressive values by subsequent leadership or the limitations of a purely economic growth focus, advocating for sustained social investment." },
+          "center": { "label": "Procedural Context", "synthesis": "Provides a critical assessment of a former leader's policy impact and the strategic evolution of a major political party. Focuses on pragmatic shifts in response to economic indicators and public sentiment, and the dynamics of leadership succession." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes \"Trudeauism\" for its economic outcomes and ideological approach, applauding the current government's pivot towards fiscal restraint, market-led growth, and a less expansive view of state intervention as a necessary course correction." }
         },
-        "neutral": "A KPMG survey reveals a significant portion of Canadian manufacturers are relocating to the U.S., raising concerns about Canada's economic competitiveness and federal policy effectiveness."
-      }
-    },
-    {
-      "id": "fed-8",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Pathways Alliance Carbon Capture Project Criticized as Costly 'Indulgence Economy' for Taxpayers",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/10/35-billion-for-12-megatonnes-of-carbon-canadas-indulgence-economy-is-a-terrible-deal-for-taxpayers/",
-      "summary": "A critical analysis describes Canada's Pathways Alliance carbon capture project, a $35 billion initiative involving federal and Alberta governments, as an 'indulgence economy.' The critique argues that the project's financial viability relies on artificially high carbon prices and taxpayer subsidies, effectively transferring costs from oilsands shareholders to the public. It questions the project's climate effectiveness compared to alternative emissions reduction strategies and views it primarily as a means to secure social license for new export pipelines.",
-      "graph": ["Climate Policy", "Carbon Capture", "Energy Projects", "Public Spending", "Taxpayer Subsidies", "Federal-Provincial Cooperation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly critical of the project's cost-effectiveness and its reliance on public funds to support the fossil fuel industry, arguing for more direct and efficient climate action and a genuine shift from fossil fuels." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the financial details and the critical perspective, highlighting the economic structure and the debate over its true environmental and economic value as a joint federal-provincial initiative." },
-          "right": { "label": "Conservative Context", "synthesis": "Views the project as a necessary step for the energy sector to meet environmental goals while continuing resource development, potentially arguing for government support as a catalyst for large-scale innovation." }
-        },
-        "neutral": "The $35 billion Pathways Alliance carbon capture project faces scrutiny for its reliance on taxpayer funding and questioned climate effectiveness, sparking debate over Canada's energy transition strategy."
+        "neutral": "An analysis evaluates Justin Trudeau's political legacy, suggesting his progressive policies led to economic underperformance, while observing that current Prime Minister Mark Carney has pivoted towards a \"growth-first\" agenda, indicating a shift in federal political and economic priorities."
       }
     }
   ],
   "charter": [
     {
-      "id": "char-1",
+      "id": "b1a2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
       "category": "Charter",
-      "source": "Supreme Court of Canada",
-      "title": "SCC Restores Mandatory Minimum Sentence for Obtaining Sexual Services from a Minor",
+      "source": "National Post",
+      "title": "Shopify President Expresses Concern Over Rising Antisemitism in Canada",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/supreme-court-mandatory-minimum-prostitution-minor-9.7265835?cmp=rss",
-      "summary": "The case originated from Mario Denis, who was found guilty in 2018 of soliciting sexual services from a minor and sentenced to a six-month mandatory minimum. Denis appealed, challenging the constitutionality of this minimum sentence under the Charter. In May 2024, the Quebec Court of Appeal ruled the mandatory minimum sentence unconstitutional, though it upheld Denis's sentence. The Supreme Court of Canada subsequently heard the appeal regarding the constitutionality of the mandatory minimum.",
-      "graph": ["Mandatory Minimum Sentences", "Child Protection", "Sexual Offences", "Section 12 Charter", "Cruel and Unusual Punishment"],
+      "url": "https://nationalpost.com/news/shopify-harley-finkelstein-jews-canada-antisemitism",
+      "summary": "Harley Finkelstein, President of Shopify, voiced deep concerns about the rise of antisemitism in Canada, noting that Jewish families are contemplating leaving the country – a scenario he described as \"unthinkable five years ago.\" His remarks highlight a perceived decline in safety and belonging for Jewish Canadians, sparking a national dialogue about freedom from discrimination and the security of minority communities.",
+      "graph": ["Antisemitism", "Hate Crimes", "Freedom of Religion", "Security of Person", "Human Rights", "Social Cohesion"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Majority Reasons", "synthesis": "The SCC Majority, in a 7-2 split decision, reinstated the mandatory minimum sentence of six months for obtaining sexual services from a minor. The majority found that this mandatory minimum sentence did not constitute cruel and unusual punishment under Section 12 of the Canadian Charter of Rights and Freedoms. Their reasoning likely focused on the gravity of the offence, the need to protect vulnerable minors, and the proportionality of the sentence in typical cases, asserting that the minimum term was not grossly disproportionate to the offence, even in conceivable hypothetical scenarios." },
-          "center": { "label": "Concurring Reasons", "synthesis": "No specific concurring opinions were detailed in the provided news output. Broader policy implications include reaffirming the legislature's role in setting minimum sentences for serious crimes, particularly those involving the sexual exploitation of minors. This decision highlights the ongoing tension between parliamentary supremacy in sentencing and judicial oversight under the Charter, particularly concerning mandatory minimums, and reinforces the priority of protecting children from sexual exploitation." },
-          "right": { "label": "Dissenting Reasons", "synthesis": "The two dissenting judges found that the mandatory minimum sentence *did* constitute cruel and unusual punishment, likely arguing that it could lead to grossly disproportionate sentences in certain hypothetical or marginal cases, thus violating Section 12 of the Charter. Their dissent would emphasize the importance of judicial discretion in sentencing to ensure proportionality and guard against unjust outcomes, even for severe offences, when a blanket minimum is applied without considering individual circumstances." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust government action to combat hate speech and discrimination against all minority groups, ensuring the safety and inclusion of Jewish communities, and addressing the root causes of prejudice." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the societal impact of rising antisemitism on national unity and civil liberties, calling for a measured, multi-faceted approach involving law enforcement, education, and community initiatives to uphold Charter rights and promote mutual respect." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the erosion of national values and security, attributing rising antisemitism to broader societal shifts or inadequate enforcement of law and order. Stresses the importance of protecting individual freedoms and national identity against extremist ideologies." }
         },
-        "neutral": "Precedent Impact: Confirming - The Supreme Court's decision confirms the constitutionality of the mandatory minimum sentence for obtaining sexual services from a minor, upholding legislative intent for robust protection of children and affirming the scope of Section 12 Charter challenges against minimums."
+        "neutral": "The President of Shopify has raised alarms about increasing antisemitism in Canada, noting concerns among Jewish families about their future safety and belonging, prompting national discussion on human rights and societal protection against discrimination."
       }
     },
     {
-      "id": "char-2",
+      "id": "p6o5n4m3l2k1j0i9h8g7f6e5d4c3b2a1",
       "category": "Charter",
-      "source": "Toronto Sun",
-      "title": "Ontario Court Affirms Anti-Trudeau Billboard as Protected Free Speech",
+      "source": "National Post",
+      "title": "Critique of Canadian Museum of Human Rights' 'Nakba' Exhibit for Historical Omissions",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/ontario-court-rules-anti-trudeau-billboard-is-protected-free-speech-under-the-charter",
-      "summary": "An Ontario court ruled that a policy enacted by the provincial government, which prohibited political messaging on billboards along bush country highways, violated Charter Section 2(b) guaranteeing freedom of expression. The ruling specifically protected an anti-Trudeau billboard, affirming that political speech, even critical, is fundamental to a democratic society and subject to a high level of constitutional protection.",
-      "graph": ["Freedom of Expression", "Section 2(b) Charter", "Provincial Regulation", "Political Speech", "Judicial Review"],
+      "url": "https://nationalpost.com/opinion/adam-katz-the-nakba-exhibits-contempt-for-history-is-worse-than-you-think",
+      "summary": "An opinion piece criticizes the Canadian Museum of Human Rights' \"Nakba\" exhibit, arguing it demonstrates \"contempt for history\" by omitting crucial context of the 1948 Arab-Israeli war. This critique suggests the exhibit's one-sided presentation potentially undermines its educational mission and raises concerns about the institution's neutrality and interpretation of human rights narratives.",
+      "graph": ["Human Rights Museum", "Historical Interpretation", "Freedom of Expression", "Academic Freedom", "Public Discourse", "Antisemitism", "Middle East Conflict"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the broad scope of free speech protections, including critical political commentary, as essential for a healthy democracy and challenging authority. Would support the court's role in safeguarding rights against overreaching government regulation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the court's application of Charter Section 2(b) jurisprudence, specifically balancing the provincial government's regulatory objectives against the constitutional right to freedom of expression. The decision underscores the limits of governmental power to restrict political speech without sufficient justification under Section 1." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the protection of individual liberties, particularly free speech, against government encroachment. Views the ruling as a victory for individual expression and a check on provincial authority, especially when it targets critical political messages." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for inclusive historical narratives that give voice to marginalized perspectives, while still upholding standards of accuracy. Might defend the museum's attempt to present a particular viewpoint but stress the need for broader context." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the institutional responsibility of a national human rights museum to present balanced, thoroughly researched historical accounts. Emphasizes academic integrity and the avoidance of partisan bias in public education." },
+          "right": { "label": "Conservative Context", "synthesis": "Criticizes what is perceived as a biased or incomplete historical narrative, arguing it undermines the museum's credibility and potentially fuels division. Advocates for historical accuracy that acknowledges all relevant facts and contexts." }
         },
-        "neutral": "An Ontario court has affirmed that anti-Trudeau political billboards are protected under Charter Section 2(b), invalidating a provincial policy restricting political messaging on highways."
-      }
-    },
-    {
-      "id": "char-3",
-      "category": "Charter",
-      "source": "ABlawg",
-      "title": "Ontario Superior Court Affirms Evolving Right to Shelter under Charter for Homeless Encampments",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://ablawg.ca/2026/07/10/canadas-evolving-right-to-shelter-region-of-waterloo-v-named-respondents-persons-unknown/?utm_source=rss&utm_medium=rss&utm_campaign=canadas-evolving-right-to-shelter-region-of-waterloo-v-named-respondents-persons-unknown",
-      "summary": "The Ontario Superior Court of Justice, in *The Regional Municipality of Waterloo v Named Respondents and Persons Unknown*, ruled that a regional government bylaw prohibiting encampments was unconstitutional, violating sections 7 and 15 of the Charter. The court explicitly recognized an evolving human right to housing, drawing on international human rights law and the federal _National Housing Strategy Act_. It retained jurisdiction to oversee the creation of a Charter-compliant safe tenting protocol or alternative encampment site, furthering the limited right to shelter established in *Victoria v Adams*.",
-      "graph": ["Right to Housing", "Homelessness", "Section 7 Charter", "Section 15 Charter", "International Human Rights Law", "Judicial Oversight"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Lauds the decision as a significant advancement for the human right to housing, emphasizing the court's progressive interpretation of the Charter and its reliance on international human rights. Supports judicial intervention to protect vulnerable populations and ensure municipal accountability in addressing homelessness." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the court's application of Charter sections 7 and 15, noting its innovative use of 'homelessness' as an analogous ground and the 'Declaration Plus' remedy. Focuses on how the decision expands established jurisprudence on the right to shelter and mandates ongoing judicial oversight for compliance." },
-          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about judicial overreach into policy-making traditionally reserved for elected governments and the financial implications for municipalities. Questions the extent to which courts should define and enforce positive rights like housing, potentially advocating for legislative solutions over judicial ones." }
-        },
-        "neutral": "An Ontario Superior Court ruling has advanced the Charter-protected right to shelter, mandating municipal action for homeless encampments and recognizing an evolving human right to housing informed by international law."
+        "neutral": "A recent opinion piece criticized the Canadian Museum of Human Rights' \"Nakba\" exhibit for allegedly presenting a historically incomplete account of the 1948 Arab-Israeli war, sparking debate on historical interpretation and institutional responsibility."
       }
     }
   ],
-  "indigenous": [],
+  "indigenous": [
+    {
+      "id": "6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d",
+      "category": "Indigenous",
+      "source": "The Hub",
+      "title": "Analyzing British Columbia's Enduring First Nations Land Disputes and Future Pathways",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/11/why-b-c-is-mired-in-first-nations-land-disputes-and-where-to-go-from-here/",
+      "summary": "British Columbia continues to grapple with complex and long-standing First Nations land disputes, despite efforts to implement the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) provincially. The article examines the historical context of these issues, rooted in BC's founding and a series of reactive, rather than strategic, government decisions, highlighting landmark Supreme Court cases and ongoing challenges in establishing clear land governance and title.",
+      "graph": ["First Nations Land Claims", "UNDRIP Implementation", "Indigenous Rights", "Provincial-Indigenous Relations", "Aboriginal Title", "BC Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the historical injustices and the urgent need for comprehensive reconciliation, full implementation of UNDRIP, and respect for Aboriginal title and self-governance, prioritizing Indigenous perspectives and solutions." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and political complexities of resolving land disputes, focusing on the need for stable, predictable frameworks that respect both Indigenous rights and broader provincial interests, advocating for careful, collaborative negotiation and judicial clarity." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the need for resolution, may prioritize economic certainty and established property rights, cautioning against policies that could create instability or deter investment. Advocates for clear, negotiated settlements that respect legal precedents and balance various interests." }
+        },
+        "neutral": "British Columbia faces persistent First Nations land disputes, stemming from historical governance issues and unresolved Aboriginal title, despite provincial UNDRIP implementation. The article explores the challenges and the need for a definitive path forward, referencing significant legal precedents."
+      }
+    }
+  ],
   "criminal": [
     {
-      "id": "crim-1",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Profile of Global Gang Leader Lawrence Bishnoi Operating in Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/lawrence-bishnoi-profile",
-      "summary": "The article profiles Lawrence Bishnoi, a jailed ex-policeman's son who has risen to head a violent and expanding global criminal gang, with a significant presence in Canada. His name has gained legendary status in the underworld from India to Canada, highlighting the international scope of organized crime affecting Canadian communities and law enforcement efforts.",
-      "graph": ["Organized Crime", "Gang Violence", "International Crime", "Law Enforcement", "Criminal Justice"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might focus on the socio-economic factors that contribute to gang recruitment and the need for community-based prevention strategies alongside law enforcement to address the root causes of crime." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the operations of international organized crime, detailing the reach of such gangs and the challenges they pose to Canadian law enforcement and intelligence agencies in combating their activities." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for robust law enforcement, increased penalties, and enhanced cross-border cooperation to dismantle violent criminal organizations and protect public safety from foreign and domestic threats." }
-        },
-        "neutral": "A profile reveals the expanding global influence of Lawrence Bishnoi's violent criminal gang in Canada, underscoring challenges for law enforcement against international organized crime."
-      }
-    },
-    {
-      "id": "crim-2",
+      "id": "7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Two Charged After Machete and Knife Attack in British Columbia",
+      "title": "Fatal Shooting Incident in North York Marks City's 18th Homicide of the Year",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/group-attacked-in-b-c-by-males-armed-with-machete-knife-there-was-a-lot-of-blood",
-      "summary": "A group was violently attacked in British Columbia by males armed with a machete and a knife, resulting in significant injuries and a police investigation. Two individuals have been charged in connection with the assault. The event highlights incidents of violent crime and the ongoing efforts of law enforcement to address such occurrences and ensure public safety within Canadian communities.",
-      "graph": ["Violent Crime", "Assault", "Weapons Offences", "Law Enforcement", "British Columbia"],
+      "url": "https://torontosun.com/news/local-news/one-person-dead-two-others-seriously-injured-north-york-shooting",
+      "summary": "A shooting in North York has resulted in one fatality and two serious injuries, marking Toronto's 18th homicide of the year and the second fatal shooting within a week. The incident highlights ongoing concerns about urban violence and public safety in the city, prompting calls for increased law enforcement and crime prevention strategies.",
+      "graph": ["Homicide", "Gun Violence", "Urban Crime", "Law Enforcement", "Public Safety", "Toronto Crime"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May point to underlying social issues, such as poverty, lack of opportunities, or mental health challenges, that could contribute to violent acts, advocating for preventative social programs." },
-          "center": { "label": "Procedural Context", "synthesis": "Details the law enforcement response to the violent incident, including the charging of suspects, and discusses the judicial process that will follow to address the alleged crimes." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the severity of the violent act and calls for strict enforcement of laws and adequate penalties to deter such crimes and ensure public safety and order." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes addressing the root causes of crime such as poverty, lack of opportunity, and systemic inequalities, advocating for community-based solutions, mental health support, and social programs alongside policing reform." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the objective reporting of crime statistics and law enforcement responses, examining the effectiveness of current policing strategies, judicial processes, and public safety initiatives in urban areas." },
+          "right": { "label": "Conservative Context", "synthesis": "Calls for tougher penalties for violent offenders, increased police presence, and stricter enforcement of laws to deter crime and ensure public safety. Prioritizes the protection of citizens and rapid response to criminal activity." }
         },
-        "neutral": "Two suspects charged following a violent machete and knife attack in British Columbia, prompting ongoing law enforcement action."
-      }
-    },
-    {
-      "id": "crim-3",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Brampton Drug Trafficker Sentenced to 20 Years in U.S. Prison",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/brampton-drug-dealer-guramrit-sidhu-sentenced",
-      "summary": "Guramrit Sidhu, a drug trafficker from Brampton, Ontario, known as 'the King,' has been sentenced to 20 years in a U.S. prison for his role in trafficking hundreds of kilograms of methamphetamine and cocaine from the U.S. into Canada. The case highlights the cross-border nature of large-scale drug operations and the collaborative efforts between Canadian and U.S. authorities in combating international drug trade.",
-      "graph": ["Drug Trafficking", "Organized Crime", "Cross-Border Crime", "International Law Enforcement", "Sentencing"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might explore the broader social determinants of drug trade involvement and advocate for harm reduction strategies and addressing socio-economic disparities in addition to punitive measures." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the specifics of the case, the evidence presented in court, and the legal process leading to the conviction and sentencing for cross-border drug trafficking." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of severe sentencing for major drug traffickers to deter criminal activity and protect national borders from illicit substances, praising successful international law enforcement collaboration." }
-        },
-        "neutral": "A Brampton-based drug trafficker receives a 20-year U.S. prison sentence for cross-border meth and cocaine operations, highlighting international law enforcement efforts."
+        "neutral": "A shooting in North York has led to one death and two serious injuries, making it Toronto's 18th homicide this year, raising concerns about urban violence and public safety."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f",
+      "category": "Immigration",
+      "source": "National Post",
+      "title": "Ontario Tribunal Rules Undocumented Migrant Eligible for Provincial Welfare Benefits",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/foreign-migrant-living- illegally-in-canada-eligible-for-ontario-welfare-tribunal-rules",
+      "summary": "An Ontario tribunal has ruled that a foreign migrant living illegally in Canada is eligible for provincial welfare benefits. The case revealed that welfare intake workers deliberately did not conduct immigration status checks to avoid jeopardizing the applicant's ability to remain in Canada, raising questions about provincial social assistance policies in relation to federal immigration law and the treatment of undocumented individuals.",
+      "graph": ["Undocumented Migrants", "Provincial Welfare", "Immigration Policy", "Social Assistance", "Tribunal Ruling", "Jurisdictional Overlap"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports access to social assistance for all residents, including undocumented migrants, on humanitarian grounds and as a matter of basic human rights, arguing that denying essential services creates a vulnerable underclass." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and policy implications of provincial welfare rulings on federal immigration policy, focusing on the jurisdictional complexities and the balance between providing social support and upholding immigration laws." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly opposes the provision of welfare benefits to individuals living illegally in Canada, arguing it incentivizes irregular migration, burdens taxpayers, and undermines the integrity of immigration laws. Calls for stricter enforcement and adherence to federal rules." }
+        },
+        "neutral": "An Ontario tribunal has determined that an undocumented migrant is eligible for provincial welfare, a decision that has highlighted the practice of some welfare intake workers not checking immigration status to avoid impacting a migrant's residency, sparking debate on provincial social support and federal immigration enforcement."
+      }
+    }
+  ]
 }
