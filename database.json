@@ -1,259 +1,238 @@
 {
   "federalism": [
     {
-      "id": "1d8b6f3c5a7e9d2b0e1f4c7a6d9b8e0f",
-      "category": "Federalism",
-      "source": "rabble.ca",
-      "title": "Alberta's Strategy to Attract AI Data Centres and Economic Development Implications",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/politics/canadian-politics/meta-announcement-shows-albertas-determination-to-welcome-ai-data-centres/",
-      "summary": "Alberta Premier Danielle Smith announced measures to attract Meta's AI data centers. While praised by the provincial government for economic growth, critical analysis from a left-leaning perspective questions the actual benefits, suggesting limited job creation and modest government revenues compared to the substantial infrastructure and potential long-term impacts on the province's economy and energy grid.",
-      "graph": ["Provincial Policy", "Economic Development", "AI Data Centers", "Alberta Government", "Intergovernmental Relations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques Alberta's approach, questioning the true economic and social benefits of large AI data centers, suggesting they may primarily serve corporate interests with limited local impact. Emphasizes environmental concerns related to energy consumption." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of attracting foreign investment and technological development, evaluating the balance between provincial autonomy, economic incentives, and the strategic importance of AI infrastructure." },
-          "right": { "label": "Conservative Context", "synthesis": "Applauds Alberta's proactive stance in attracting major tech investment, viewing it as a positive step for economic diversification, job creation, and fostering innovation within the province. Supports provincial initiatives to boost the economy." }
-        },
-        "neutral": "Alberta has announced policies to attract AI data centers, including Meta's, aiming to stimulate economic growth, though the long-term benefits and broader implications for provincial resources and economy are subject to debate."
-      }
-    },
-    {
-      "id": "c7e2b1f9a0d3e5b8c6f4a1d7e8b9c2a3",
-      "category": "Federalism",
-      "source": "rabble.ca",
-      "title": "Progressive Call for Federal Wealth Tax to Address Economic Inequality",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/columnists/it-is-time-for-a-wealth-tax/",
-      "summary": "This opinion piece advocates for the implementation of a wealth tax in Canada, drawing parallels with historical U.S. tax policies. The argument posits that higher marginal tax rates on the wealthy are essential for funding public services, reducing economic inequality, and rebuilding national infrastructure, reflecting a progressive viewpoint on fiscal policy.",
-      "graph": ["Tax Policy", "Wealth Inequality", "Progressive Taxation", "Economic Justice", "Federal Fiscal Policy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports a wealth tax as a necessary tool to address widening wealth inequality, fund public services, and restore social programs, viewing it as a matter of economic justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the economic implications and administrative challenges of implementing a wealth tax, considering its potential impacts on investment, capital flight, and the feasibility of collection." },
-          "right": { "label": "Conservative Context", "synthesis": "Opposes a wealth tax, arguing it discourages investment, penalizes success, and could lead to capital flight, potentially harming economic growth and job creation. Advocates for market-led growth and competitive tax rates." }
-        },
-        "neutral": "A progressive call for a federal wealth tax has been made, citing historical examples and arguing for its potential to address economic inequality and fund public infrastructure, while economic and political feasibility remain subjects of debate."
-      }
-    },
-    {
-      "id": "e4f8a9b2c3d5e7f1a0b6c9d8e7f5a2b1",
+      "id": "e7c6b5d0-a1f2-4e3c-8d9b-2a1f0c3d4e5f",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "National Concern Over Farmland Loss Amidst Carney Government's Food Security Strategy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-farmland-carney-food-security-strategy-young-farmers-9.7266016?cmp=rss",
-      "summary": "Canada is experiencing a significant loss of agricultural land, primarily due to urban expansion, which poses a threat to national food security. The Carney government's National Food Security Strategy aims to counter this trend, while provinces like Ontario are implementing measures, such as restricting foreign ownership, to protect remaining farmland and encourage the next generation of farmers.",
-      "graph": ["Food Security", "Land Use Policy", "Urban Sprawl", "Provincial Legislation", "Federal Strategy", "Agricultural Policy"],
+      "title": "PM Carney's 'Energy Sovereignty' Definition Promotes Oil Exports, Sparks Debate",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/business/canada-energy-sovereignty-oil-climate-9.7265441?cmp=rss",
+      "summary": "Prime Minister Mark Carney's administration defines 'energy sovereignty' as maximizing Canadian oil and gas exports, especially to Asian markets via a new West Coast pipeline, in response to U.S. economic protectionism. This interpretation is contested by academics who argue true energy sovereignty should focus on domestic energy self-sufficiency and sustainability, with former Environment Minister Guilbeault criticizing the plan for increasing emissions.",
+      "graph": ["Energy Policy", "Federal-Provincial Relations", "Climate Change", "International Trade", "Resource Development"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for stronger federal and provincial land protection policies, emphasizing the importance of sustainable agriculture, local food systems, and combating speculative land acquisition by developers and foreign entities." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the complex interplay of economic development, agricultural sustainability, and government policy in managing land use. Focuses on the need for balanced strategies that address both urban growth and food production." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports market-based solutions for land use while acknowledging the strategic importance of domestic food production. May view restrictions on foreign ownership as a necessary measure to protect national assets, but emphasizes the need for efficient land use and minimizing regulatory burdens on farmers." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques focus on the environmental impact of increasing fossil fuel production and exports, arguing it conflicts with climate goals and prioritizes short-term economic gain over long-term sustainability and genuine energy independence through renewables." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the governmental rationale for defining 'energy sovereignty' in economic terms, emphasizing the need to secure new markets and manage geopolitical risks. Focuses on the mechanisms of federal-provincial cooperation for major infrastructure projects and the policy debate around resource management." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the economic imperative of maximizing resource extraction and export, particularly to shield the Canadian economy from foreign pressures and capitalize on global demand. Views 'energy sovereignty' as the right to control and profit from national resources without external interference." }
         },
-        "neutral": "Canadian farmland is decreasing due to urban expansion, leading to concerns about food security. The federal government's National Food Security Strategy and provincial actions, such as Ontario's foreign ownership restrictions, are attempts to address this challenge."
+        "neutral": "The Canadian government's interpretation of 'energy sovereignty' emphasizes maximizing fossil fuel exports for economic stability and reducing reliance on a single market, a stance that faces scrutiny regarding its alignment with climate objectives and alternative definitions of national energy control."
       }
     },
     {
-      "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Fiscal Credibility Challenged for Canada's NATO Defence Spending Commitments",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/defence-spending-canada-uk-nato-9.7266431?cmp=rss",
-      "summary": "Following the NATO summit, Canada faces scrutiny over the fiscal credibility of its long-term defence spending plans. The Carney government needs to demonstrate how it will finance its commitment to the five percent NATO investment target by 2035, with political fallout in the UK serving as a cautionary tale against plans lacking transparent financial backing.",
-      "graph": ["Defence Spending", "NATO Commitments", "Fiscal Policy", "Federal Budget", "International Relations", "Government Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for transparent and accountable government spending, questioning the allocation of significant funds to military objectives, and advocating for investments in social programs alongside defence." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural requirements for meeting international defence obligations, stressing the importance of clear fiscal planning, economic capacity, and strategic alignment of defence spending with national interests." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports robust defence spending and meeting international alliance commitments, viewing it as essential for national security and global standing. Advocates for efficient and impactful use of taxpayer money in defence procurement." }
-        },
-        "neutral": "Canada is facing increasing pressure to clarify the financing of its enhanced defence spending commitments to NATO, with the government expected to outline detailed fiscal plans amid concerns about financial credibility."
-      }
-    },
-    {
-      "id": "f5e6d7c8b9a0f1e2d3c4b5a6f7e8d9c0",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Gordie Howe International Bridge Opening Confirmed for July 27 After US-Canada Agreement",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-opening-9.7266280?cmp=rss",
-      "summary": "The federal government has confirmed that the Gordie Howe International Bridge, connecting Windsor, Ontario, to Detroit, Michigan, will open on July 27. This follows an agreement between Canada and Michigan, supported by the U.S. government, which resolved outstanding issues, including toll governance and the establishment of an economic development fund. The project was previously delayed due to demands from former U.S. President Donald Trump.",
-      "graph": ["International Infrastructure", "Federal-Provincial Cooperation", "Cross-Border Trade", "Public Works", "Economic Development", "Diplomacy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the importance of public infrastructure projects that facilitate trade and economic ties, while also scrutinizing the transparency of agreements and the equitable distribution of benefits, including potential impacts on local communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the successful completion and operationalization of a critical international infrastructure project, emphasizing the diplomatic efforts and inter-governmental coordination required to resolve complex issues and ensure mutual economic benefit." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the economic benefits of improved trade routes and infrastructure for facilitating commerce and strengthening cross-border relations, while potentially critiquing delays and cost overruns." }
-        },
-        "neutral": "The Gordie Howe International Bridge is set to open on July 27, following a Canada-Michigan agreement supported by the U.S. government, resolving prior delays and establishing frameworks for toll management and regional economic development."
-      }
-    },
-    {
-      "id": "2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Public Crowdfunding Efforts Underway for Restoration of 24 Sussex Drive",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/24-sussex-mark-carney-fundraising-public-donor-list-9.7266278?cmp=rss",
-      "summary": "Over 2,000 Canadians have contributed more than $400,000 to a national crowdfunding campaign led by the Rideau Hall Foundation for the restoration of 24 Sussex Drive, the derelict official residence of the Prime Minister. Prime Minister Mark Carney initiated the public fundraising plan, promising donor transparency for the project, which has a stated target of $50 million.",
-      "graph": ["Federal Property", "Heritage Preservation", "Public Funding", "Government Accountability", "Prime Minister's Residence"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May question the use of public funds for a private residence (even if official), advocating for priorities in social housing or other public needs, while still supporting transparent fundraising and heritage preservation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the logistical and financial challenges of maintaining significant federal heritage properties, examining the balance between private donations and public responsibility, and the process of transparent fundraising." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the preservation of national heritage sites and symbols, including the Prime Minister's residence, but may emphasize fiscal prudence and the importance of private contributions to reduce the burden on taxpayers." }
-        },
-        "neutral": "A national crowdfunding campaign to restore 24 Sussex Drive, the official residence of the Prime Minister, has garnered over $400,000 from more than 2,000 donors, with the federal government promoting transparency in the fundraising efforts for the $50 million target."
-      }
-    },
-    {
-      "id": "3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b",
+      "id": "f8a7c6b5-d4e3-4f2a-8c1b-9d0e1f2a3c4b",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Tory MP Advocates for Easier Medical Access to Psilocybin for End-of-Life Depression",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/ben-woodfinden-a-tory-mp-wants-easier-access-to-magic-mushrooms-hear-him-out",
-      "summary": "An opinion piece highlights a Conservative Member of Parliament's push for easier access to psilocybin (magic mushrooms) for medical use, specifically for patients suffering from end-of-life depression. This initiative aims to amend federal drug policy and health regulations to allow doctors to prescribe psilocybin, opening a debate on therapeutic use of controlled substances and access to innovative treatments within the Canadian healthcare system.",
-      "graph": ["Drug Policy Reform", "Psilocybin", "Mental Health", "End-of-Life Care", "Federal Health Regulations", "Conservative Policy"],
+      "title": "Albertan Thinker Mark Milke Advocates for National Renewal through Decentralization",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/albertan-mark-milke-wants-to-reinvigorate-canada-not-leave-it",
+      "summary": "Mark Milke, founder of the Aristotle Foundation, suggests that rather than advocating for Western separation, Alberta should focus on invigorating Canada through policies that reduce federal subsidies and enhance provincial autonomy. His perspective advocates for fiscal responsibility and less federal intervention to strengthen the national fabric.",
+      "graph": ["Fiscal Federalism", "Provincial Autonomy", "Economic Policy", "Western Alienation", "National Unity"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 25, "center": 35, "right": 40 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports expanding access to therapeutic psilocybin, aligning with a harm reduction approach and patient autonomy, advocating for compassionate access to innovative treatments, particularly for mental health and palliative care." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the scientific evidence and regulatory pathways for controlled substances like psilocybin, focusing on the balance between potential therapeutic benefits, patient safety, and the need for controlled medical oversight." },
-          "right": { "label": "Conservative Context", "synthesis": "While generally supporting individual liberty and medical choice, the right might be cautious about decriminalizing or liberalizing access to controlled substances. However, some elements may support specific medical applications for psilocybin, especially if it reduces suffering and is backed by evidence, aligning with a less bureaucratic approach to healthcare solutions." }
+          "left": { "label": "Progressive Context", "synthesis": "May view calls for reduced federal subsidies as potentially undermining national social programs, equalization principles, and the federal government's role in addressing regional disparities and ensuring equitable service delivery across the country." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the ongoing constitutional and fiscal dialogue between federal and provincial governments concerning resource revenues, transfer payments, and the division of powers. Examines proposals for federal reform and provincial empowerment within the existing constitutional framework." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly aligns with principles of provincial self-reliance, reduced central government spending, and free-market economics. Advocates for greater control over provincial resources and finances, believing this approach fosters greater prosperity and a more efficient federation." }
         },
-        "neutral": "A Conservative MP is advocating for simpler medical access to psilocybin, particularly for end-of-life depression, initiating a policy discussion on reforming federal drug regulations for therapeutic applications."
+        "neutral": "An Albertan commentator proposes strengthening Canada by increasing provincial autonomy and reducing federal subsidies, sparking a national dialogue on fiscal federalism and regional economic self-determination."
       }
     },
     {
-      "id": "4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d",
+      "id": "a9b8c7d6-e5f4-3a2b-1c0d-2e3f4a5b6c7d",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Analysis of Justin Trudeau's Political Legacy and the Evolution of Liberal Party Policy Under Mark Carney",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/10/the-liberal-party-has-proven-durable-trudeauism-has-not/",
-      "summary": "This analysis posits that while the Liberal Party remains durable, \"Trudeauism\" as a progressive governing philosophy has not. It critiques Justin Trudeau's nearly decade-long tenure, arguing his progressive policies led to economic underperformance and public disillusionment. In contrast, current Prime Minister Mark Carney is noted for shifting away from Trudeau-era policies towards a \"growth-first\" agenda, highlighting a significant ideological recalibration within federal politics, further exemplified by Alberta's proactive economic development.",
-      "graph": ["Political Legacy", "Liberal Party", "Federal Policy", "Economic Governance", "Progressivism", "Conservative Shift", "Prime Ministerial Leadership"],
+      "source": "National Post",
+      "title": "Study Claims Top 20% of Earners Pay Over Half of Canadian Taxes, Warns Against Rate Hikes",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/top-20-of-canadian-earners-pay-more-than-half-of-all-taxes-says-study-warning-against-increasing-rates",
+      "summary": "A recent study indicates that the wealthiest 20% of Canadian households contribute more than half of all federal and provincial income taxes, while the bottom 20% pay less than 1%. The study cautions against further tax increases on high earners, arguing it could be detrimental to the economy.",
+      "graph": ["Taxation Policy", "Fiscal Policy", "Income Inequality", "Economic Impact", "Wealth Distribution"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 35, "right": 35 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May acknowledge electoral successes but critique the perceived drift away from core progressive values by subsequent leadership or the limitations of a purely economic growth focus, advocating for sustained social investment." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides a critical assessment of a former leader's policy impact and the strategic evolution of a major political party. Focuses on pragmatic shifts in response to economic indicators and public sentiment, and the dynamics of leadership succession." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes \"Trudeauism\" for its economic outcomes and ideological approach, applauding the current government's pivot towards fiscal restraint, market-led growth, and a less expansive view of state intervention as a necessary course correction." }
+          "left": { "label": "Progressive Context", "synthesis": "Challenges the narrative by advocating for increased progressive taxation, arguing that the wealthy can afford to contribute more to public services and wealth redistribution, thereby reducing income inequality and strengthening social safety nets." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the empirical analysis of tax burdens and their economic implications. Discusses the technical aspects of tax policy, revenue generation, and balancing equity with economic efficiency without taking a strong ideological stance on rate changes." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the study's warning, emphasizing that high earners are already disproportionately taxed and that further increases could harm economic growth, discourage investment, and potentially lead to capital flight, advocating for tax relief to stimulate the economy." }
         },
-        "neutral": "An analysis evaluates Justin Trudeau's political legacy, suggesting his progressive policies led to economic underperformance, while observing that current Prime Minister Mark Carney has pivoted towards a \"growth-first\" agenda, indicating a shift in federal political and economic priorities."
+        "neutral": "A study highlights the significant tax contributions of Canada's top 20% earners, prompting a debate on the fairness and economic implications of current and proposed tax rates."
+      }
+    },
+    {
+      "id": "c0d1e2f3-a4b5-6c7d-8e9f-0a1b2c3d4e5f",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Hamed Esmaeilion Calls for Continued Diplomatic Isolation of Iran Over PS752 Tragedy",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/we-will-never-forget-what-iran-did-to-canadians",
+      "summary": "Hamed Esmaeilion, a spokesperson for victims' families, pens an opinion piece advocating against the reopening of Iran's embassy in Canada. He cites the downing of Flight PS752, which killed 84 Canadians, as an unforgotten act of aggression by the Iranian regime, demanding accountability and continued diplomatic pressure.",
+      "graph": ["Foreign Policy", "International Justice", "Victims' Rights", "Diplomacy", "National Security"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 30, "right": 40 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of international law and human rights, supporting a firm stance against regimes responsible for grave injustices. Could also explore avenues for international legal action and victim compensation alongside diplomatic pressure." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the complexities of foreign policy decisions, balancing national interests, security concerns, and humanitarian demands. Focuses on the diplomatic mechanisms available for pursuing justice and accountability, including sanctions and international cooperation." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for a principled and uncompromising foreign policy against states deemed hostile or responsible for harming Canadian citizens. Supports continued diplomatic isolation and punitive measures until full accountability and justice are achieved." }
+        },
+        "neutral": "An opinion leader and victim advocate urges the Canadian government to maintain diplomatic sanctions against Iran, emphasizing the unresolved justice for the downing of Flight PS752 and its Canadian victims."
+      }
+    },
+    {
+      "id": "d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6a",
+      "category": "Federalism",
+      "source": "Slaw.ca",
+      "title": "SCC Allows Civil Claim Against Elections Officer, Clarifying Parliamentary Privilege Limits",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-advocacy-133/",
+      "summary": "The Supreme Court of Canada in 'Resler v. Anglin' ruled that an unsuccessful election candidate's civil claim for misfeasance against an elections officer can proceed, stating it does not constitute a collateral attack or abuse of process. The decision narrows the application of parliamentary privilege and statutory immunity, enhancing accountability for public officials involved in elections.",
+      "graph": ["Electoral Law", "Civil Litigation", "Parliamentary Privilege", "Public Accountability", "Abuse of Process"],
+      "spectrum": {
+        "baseline": { "left": 35, "center": 35, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports greater transparency and accountability for public officials, especially in democratic processes. Views the ruling as a step towards ensuring that citizens have recourse against misconduct in the administration of elections." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal interpretation of parliamentary privilege, statutory immunity, and the principles of collateral attack and abuse of process. Emphasizes the court's role in defining the boundaries of these doctrines to balance institutional protection with individual rights." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the potential for increased litigation against public servants, arguing that a broad interpretation of accountability could impede the efficient functioning of government and electoral processes, or create disincentives for public service." }
+        },
+        "neutral": "The Supreme Court of Canada affirmed that a civil claim against an elections officer for misfeasance can proceed, clarifying the limitations of parliamentary privilege and statutory immunity in holding public officials accountable."
+      }
+    },
+    {
+      "id": "e3f4a5b6-c7d8-9e0f-1a2b-3c4d5e6f7a8b",
+      "category": "Federalism",
+      "source": "Slaw.ca",
+      "title": "SCC Upholds Parliamentary Authority to Limit Privilege for National Security Oversight",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-advocacy-133/",
+      "summary": "In 'Alford v. Canada (Attorney General),' the Supreme Court of Canada validated Section 12 of the NSICOP Act, which prohibits parliamentarians on the National Security and Intelligence Committee of Parliamentarians (NSICOP) from claiming parliamentary privilege to avoid disclosing national security information. This decision affirms Parliament's constitutional authority to define its own privileges, including imposing limitations for the purpose of national security oversight.",
+      "graph": ["Constitutional Law", "Parliamentary Privilege", "National Security", "Government Oversight", "Legislative Authority"],
+      "spectrum": {
+        "baseline": { "left": 35, "center": 35, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports robust oversight of national security apparatus and government transparency. Views the limitation on privilege as necessary to ensure public accountability and trust in intelligence activities, balancing national security with democratic principles." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the constitutional interpretation of Section 18 of the Constitution Act, 1867, regarding Parliament's power to define its privileges. Focuses on the legal framework for balancing legislative independence with the imperative of national security oversight." },
+          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about the erosion of traditional parliamentary privilege, arguing it could impact the ability of MPs to conduct their duties independently or speak freely without fear of reprisal, potentially weakening legislative oversight in other areas." }
+        },
+        "neutral": "The Supreme Court of Canada confirmed Parliament's power to limit parliamentary privilege for members of the National Security and Intelligence Committee, affirming that national security oversight can necessitate exceptions to traditional privileges."
       }
     }
   ],
   "charter": [
     {
-      "id": "b1a2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3e2f1d0c",
       "category": "Charter",
-      "source": "National Post",
-      "title": "Shopify President Expresses Concern Over Rising Antisemitism in Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/shopify-harley-finkelstein-jews-canada-antisemitism",
-      "summary": "Harley Finkelstein, President of Shopify, voiced deep concerns about the rise of antisemitism in Canada, noting that Jewish families are contemplating leaving the country – a scenario he described as \"unthinkable five years ago.\" His remarks highlight a perceived decline in safety and belonging for Jewish Canadians, sparking a national dialogue about freedom from discrimination and the security of minority communities.",
-      "graph": ["Antisemitism", "Hate Crimes", "Freedom of Religion", "Security of Person", "Human Rights", "Social Cohesion"],
+      "source": "Slaw.ca",
+      "title": "SCC Rules Unilingual Lieutenant Governor Infringes New Brunswick's Charter Language Rights",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-advocacy-133/",
+      "summary": "In 'Société de l’Acadie du Nouveau-Brunswick v. Canada (Prime Minister),' the Supreme Court of Canada declared that the appointment of a unilingual Lieutenant Governor in New Brunswick violates Section 16(2) of the Charter. The Court emphasized that this symbolic and unipersonal office must be held by an individual proficient in both official languages to uphold the substantive equality guaranteed for English and French in the province.",
+      "graph": ["Language Rights", "Constitutional Law", "Official Languages", "Charter of Rights", "New Brunswick Bilingualism"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust government action to combat hate speech and discrimination against all minority groups, ensuring the safety and inclusion of Jewish communities, and addressing the root causes of prejudice." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the societal impact of rising antisemitism on national unity and civil liberties, calling for a measured, multi-faceted approach involving law enforcement, education, and community initiatives to uphold Charter rights and promote mutual respect." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the erosion of national values and security, attributing rising antisemitism to broader societal shifts or inadequate enforcement of law and order. Stresses the importance of protecting individual freedoms and national identity against extremist ideologies." }
+          "left": { "label": "Progressive Context", "synthesis": "Applauds the decision as a critical advancement for minority language rights and the principle of substantive equality. Views it as reinforcing the constitutional commitment to bilingualism and protecting the cultural vitality of official language communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial interpretation of Section 16(2) of the Charter and its application to high-level institutional appointments. Examines the court's reasoning regarding the symbolic and practical importance of bilingualism in public office for linguistic equality." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the practical implications of bilingualism requirements for public appointments, potentially arguing for greater flexibility or questioning the extent of judicial intervention in executive decisions, while acknowledging the constitutional basis of language rights." }
         },
-        "neutral": "The President of Shopify has raised alarms about increasing antisemitism in Canada, noting concerns among Jewish families about their future safety and belonging, prompting national discussion on human rights and societal protection against discrimination."
+        "neutral": "The Supreme Court of Canada ruled that New Brunswick's Lieutenant Governor must be bilingual to comply with Section 16(2) of the Charter, affirming the mandatory guarantee of substantive equality for official languages in provincial institutions."
       }
     },
     {
-      "id": "p6o5n4m3l2k1j0i9h8g7f6e5d4c3b2a1",
+      "id": "0c1b2a3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
       "category": "Charter",
-      "source": "National Post",
-      "title": "Critique of Canadian Museum of Human Rights' 'Nakba' Exhibit for Historical Omissions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/adam-katz-the-nakba-exhibits-contempt-for-history-is-worse-than-you-think",
-      "summary": "An opinion piece criticizes the Canadian Museum of Human Rights' \"Nakba\" exhibit, arguing it demonstrates \"contempt for history\" by omitting crucial context of the 1948 Arab-Israeli war. This critique suggests the exhibit's one-sided presentation potentially undermines its educational mission and raises concerns about the institution's neutrality and interpretation of human rights narratives.",
-      "graph": ["Human Rights Museum", "Historical Interpretation", "Freedom of Expression", "Academic Freedom", "Public Discourse", "Antisemitism", "Middle East Conflict"],
+      "source": "Slaw.ca",
+      "title": "SCC Grants Leave to Appeal on Charter Section 11(c) in Civil Contempt Cases",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-one-liners-41/",
+      "summary": "The Supreme Court of Canada has granted leave to appeal in 'Estate of Craig Sutherland, et al. v. Murphy,' a case concerning the application of civil contempt and its interaction with Section 11(c) of the Charter, which guarantees the right against self-incrimination. This appeal will likely provide important clarifications on procedural rights within civil contempt proceedings.",
+      "graph": ["Charter of Rights", "Self-Incrimination", "Civil Contempt", "Procedural Rights", "Appellate Review"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 35, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for inclusive historical narratives that give voice to marginalized perspectives, while still upholding standards of accuracy. Might defend the museum's attempt to present a particular viewpoint but stress the need for broader context." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the institutional responsibility of a national human rights museum to present balanced, thoroughly researched historical accounts. Emphasizes academic integrity and the avoidance of partisan bias in public education." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes what is perceived as a biased or incomplete historical narrative, arguing it undermines the museum's credibility and potentially fuels division. Advocates for historical accuracy that acknowledges all relevant facts and contexts." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the critical importance of protecting fundamental Charter rights, including the right against self-incrimination, ensuring that procedural mechanisms like civil contempt do not unduly infringe upon these constitutional guarantees, even in non-criminal contexts." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the precise legal interpretation and scope of Section 11(c) of the Charter as it applies to civil contempt proceedings. The court aims to clarify the balance between enforcing judicial orders and upholding constitutional protections for individuals." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the necessity of courts to enforce their orders effectively to maintain the rule of law. While acknowledging Charter rights, there may be concerns about how an expansive interpretation of self-incrimination could hinder the efficiency of civil litigation and contempt remedies." }
         },
-        "neutral": "A recent opinion piece criticized the Canadian Museum of Human Rights' \"Nakba\" exhibit for allegedly presenting a historically incomplete account of the 1948 Arab-Israeli war, sparking debate on historical interpretation and institutional responsibility."
+        "neutral": "The Supreme Court will examine how the Charter's right against self-incrimination (Section 11(c)) applies to civil contempt proceedings, a decision expected to clarify fundamental procedural rights."
       }
     }
   ],
-  "indigenous": [
-    {
-      "id": "6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d",
-      "category": "Indigenous",
-      "source": "The Hub",
-      "title": "Analyzing British Columbia's Enduring First Nations Land Disputes and Future Pathways",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/11/why-b-c-is-mired-in-first-nations-land-disputes-and-where-to-go-from-here/",
-      "summary": "British Columbia continues to grapple with complex and long-standing First Nations land disputes, despite efforts to implement the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) provincially. The article examines the historical context of these issues, rooted in BC's founding and a series of reactive, rather than strategic, government decisions, highlighting landmark Supreme Court cases and ongoing challenges in establishing clear land governance and title.",
-      "graph": ["First Nations Land Claims", "UNDRIP Implementation", "Indigenous Rights", "Provincial-Indigenous Relations", "Aboriginal Title", "BC Policy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the historical injustices and the urgent need for comprehensive reconciliation, full implementation of UNDRIP, and respect for Aboriginal title and self-governance, prioritizing Indigenous perspectives and solutions." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and political complexities of resolving land disputes, focusing on the need for stable, predictable frameworks that respect both Indigenous rights and broader provincial interests, advocating for careful, collaborative negotiation and judicial clarity." },
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the need for resolution, may prioritize economic certainty and established property rights, cautioning against policies that could create instability or deter investment. Advocates for clear, negotiated settlements that respect legal precedents and balance various interests." }
-        },
-        "neutral": "British Columbia faces persistent First Nations land disputes, stemming from historical governance issues and unresolved Aboriginal title, despite provincial UNDRIP implementation. The article explores the challenges and the need for a definitive path forward, referencing significant legal precedents."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e",
+      "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+      "category": "Criminal",
+      "source": "National Post",
+      "title": "Lawrence Bishnoi's Extortion Gang Expands Operations and Violence in Canada",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/how-lawrence-bishnoi-grew-his-extortion-gang-in-canada",
+      "summary": "An investigation reveals the significant growth of Lawrence Bishnoi's international extortion gang within Canada, with over 1,000 alleged members involved in murder-for-hire plots, extortion, and targeted violence, particularly against the Sikh community. The article highlights the challenges Canadian law enforcement faces in combating this transnational organized crime.",
+      "graph": ["Organized Crime", "Extortion", "Gang Violence", "Transnational Crime", "Law Enforcement"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on the social and economic factors that might contribute to individuals joining gangs, advocating for preventative measures, community outreach programs, and addressing systemic inequalities alongside law enforcement efforts." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the operational challenges for Canadian police and intelligence agencies in disrupting complex international criminal networks. Highlights the need for cross-jurisdictional cooperation and advanced investigative techniques to combat such sophisticated organizations." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for stricter enforcement, increased penalties for organized crime, and enhanced national security measures, potentially including border controls, to dismantle criminal organizations and protect communities from violence and extortion." }
+        },
+        "neutral": "Reports detail the growing presence and violent activities of Lawrence Bishnoi's extortion gang in Canada, posing a significant challenge to law enforcement and public safety."
+      }
+    },
+    {
+      "id": "g3h4i5j6-k7l8-9m0n-1o2p-3q4r5s6t7u8v",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Fatal Shooting Incident in North York Marks City's 18th Homicide of the Year",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/one-person-dead-two-others-seriously-injured-north-york-shooting",
-      "summary": "A shooting in North York has resulted in one fatality and two serious injuries, marking Toronto's 18th homicide of the year and the second fatal shooting within a week. The incident highlights ongoing concerns about urban violence and public safety in the city, prompting calls for increased law enforcement and crime prevention strategies.",
-      "graph": ["Homicide", "Gun Violence", "Urban Crime", "Law Enforcement", "Public Safety", "Toronto Crime"],
+      "title": "Salsa on St. Clair Festival Cancelled Following Deadly Shooting in Toronto",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/salsa-on-st-clair-cancelled-sunday-after-deadly-shooting",
+      "summary": "The popular Salsa on St. Clair festival in Toronto was abruptly cancelled on its second day after a deadly shooting incident resulted in two fatalities and four injuries. The cancellation underscored heightened concerns about public safety and the impact of gun violence on large community events.",
+      "graph": ["Gun Violence", "Public Safety", "Urban Crime", "Community Impact", "Festival Security"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 35, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes addressing the root causes of crime such as poverty, lack of opportunity, and systemic inequalities, advocating for community-based solutions, mental health support, and social programs alongside policing reform." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the objective reporting of crime statistics and law enforcement responses, examining the effectiveness of current policing strategies, judicial processes, and public safety initiatives in urban areas." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for tougher penalties for violent offenders, increased police presence, and stricter enforcement of laws to deter crime and ensure public safety. Prioritizes the protection of citizens and rapid response to criminal activity." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for addressing systemic issues contributing to gun violence, such as poverty, lack of youth programs, and mental health support. Advocates for stricter gun control measures and community-based violence prevention strategies." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the immediate law enforcement response, investigation protocols, and the practical challenges of securing large public events. Examines the coordination between municipal authorities and police in crisis management." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for increased police presence, harsher penalties for violent offenders, and a 'tough on crime' approach to restore public order and deter future acts of violence in public spaces." }
         },
-        "neutral": "A shooting in North York has led to one death and two serious injuries, making it Toronto's 18th homicide this year, raising concerns about urban violence and public safety."
+        "neutral": "A major Toronto festival was cancelled after a deadly shooting, highlighting immediate public safety concerns and the profound impact of violent crime on urban community events."
+      }
+    },
+    {
+      "id": "i0j1k2l3-m4n5-6o7p-8q9r-0s1t2u3v4w5x",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Multiple Fatalities in Durham Region Incidents, Waterfront Shooting Injures Five",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://torontosun.com/news/crime/2-dead-in-separate-durham-region-crashes-5-hurt-in-waterfront-shooting",
+      "summary": "Durham Region experienced a series of public safety incidents, including two separate fatal vehicle crashes and a shooting near the waterfront that left five people injured. These events contribute to a broader discussion on regional crime trends, road safety, and community violence.",
+      "graph": ["Public Safety", "Fatal Accidents", "Gun Violence", "Regional Crime", "Emergency Response"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for a comprehensive approach to public safety, including investment in road safety infrastructure, addressing underlying causes of violence, and expanding access to mental health and social support services to prevent such incidents." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the coordination of emergency services, police investigations into the criminal aspects of the shooting, and data analysis to inform road safety measures and crime prevention strategies across the region." },
+          "right": { "label": "Conservative Context", "synthesis": "Calls for stricter law enforcement, increased penalties for traffic offenses and violent crimes, and greater resources for police to ensure public order and deter illegal activity that contributes to such tragic incidents." }
+        },
+        "neutral": "A series of incidents in Durham Region, including fatal crashes and a shooting, underscores escalating concerns regarding public safety and the need for coordinated preventative and responsive measures."
+      }
+    },
+    {
+      "id": "p6q7r8s9-t0u1-2v3w-4x5y-6z7a8b9c0d1e",
+      "category": "Criminal",
+      "source": "Slaw.ca",
+      "title": "Quebec Court of Appeal Orders New Trial in Sexual Assault Case Due to Unequal Testimony Assessment",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-soquij-635/",
+      "summary": "The Quebec Court of Appeal in 'Savoie c. R.' overturned a sexual assault conviction and ordered a new trial, citing a determinative error in the trial judge's unequal examination of the appellant's and victim's testimonies. The appellate court found this disparity in assessment effectively reversed the burden of proof, violating due process for the accused.",
+      "graph": ["Criminal Law", "Sexual Assault", "Appellate Review", "Burden of Proof", "Judicial Impartiality"],
+      "spectrum": {
+        "baseline": { "left": 35, "center": 40, "right": 25 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the delicate balance of justice for sexual assault victims with the imperative of fair trials and due process for the accused. Calls for judicial sensitivity training while upholding rigorous evidentiary standards to prevent miscarriages of justice." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the critical role of appellate courts in reviewing trial judges' adherence to established legal methodology for assessing credibility and evidence. Focuses on ensuring the correct application of the burden of proof and presumption of innocence." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the fundamental importance of upholding the presumption of innocence and the strict burden of proof on the Crown. Concerns may be raised about judicial overreach or bias in lower courts that could lead to unfair convictions." }
+        },
+        "neutral": "The Quebec Court of Appeal mandated a new trial in a sexual assault case, ruling that the initial judge's uneven evaluation of witness testimonies amounted to a legal error that shifted the burden of proof."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f",
-      "category": "Immigration",
-      "source": "National Post",
-      "title": "Ontario Tribunal Rules Undocumented Migrant Eligible for Provincial Welfare Benefits",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/foreign-migrant-living- illegally-in-canada-eligible-for-ontario-welfare-tribunal-rules",
-      "summary": "An Ontario tribunal has ruled that a foreign migrant living illegally in Canada is eligible for provincial welfare benefits. The case revealed that welfare intake workers deliberately did not conduct immigration status checks to avoid jeopardizing the applicant's ability to remain in Canada, raising questions about provincial social assistance policies in relation to federal immigration law and the treatment of undocumented individuals.",
-      "graph": ["Undocumented Migrants", "Provincial Welfare", "Immigration Policy", "Social Assistance", "Tribunal Ruling", "Jurisdictional Overlap"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports access to social assistance for all residents, including undocumented migrants, on humanitarian grounds and as a matter of basic human rights, arguing that denying essential services creates a vulnerable underclass." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and policy implications of provincial welfare rulings on federal immigration policy, focusing on the jurisdictional complexities and the balance between providing social support and upholding immigration laws." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly opposes the provision of welfare benefits to individuals living illegally in Canada, arguing it incentivizes irregular migration, burdens taxpayers, and undermines the integrity of immigration laws. Calls for stricter enforcement and adherence to federal rules." }
-        },
-        "neutral": "An Ontario tribunal has determined that an undocumented migrant is eligible for provincial welfare, a decision that has highlighted the practice of some welfare intake workers not checking immigration status to avoid impacting a migrant's residency, sparking debate on provincial social support and federal immigration enforcement."
-      }
-    }
-  ]
+  "immigration": []
 }
