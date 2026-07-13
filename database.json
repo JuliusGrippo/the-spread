@@ -1,238 +1,170 @@
 {
   "federalism": [
     {
-      "id": "e7c6b5d0-a1f2-4e3c-8d9b-2a1f0c3d4e5f",
+      "id": "federalism-alberta-referendum",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "PM Carney's 'Energy Sovereignty' Definition Promotes Oil Exports, Sparks Debate",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/business/canada-energy-sovereignty-oil-climate-9.7265441?cmp=rss",
-      "summary": "Prime Minister Mark Carney's administration defines 'energy sovereignty' as maximizing Canadian oil and gas exports, especially to Asian markets via a new West Coast pipeline, in response to U.S. economic protectionism. This interpretation is contested by academics who argue true energy sovereignty should focus on domestic energy self-sufficiency and sustainability, with former Environment Minister Guilbeault criticizing the plan for increasing emissions.",
-      "graph": ["Energy Policy", "Federal-Provincial Relations", "Climate Change", "International Trade", "Resource Development"],
+      "title": "Ottawa Mobilizes Ahead of Alberta Secession Referendum",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-calgary-stampede-referendum-9.7267713?cmp=rss",
+      "summary": "The federal government, led by Prime Minister Mark Carney, is intensifying efforts to counter Alberta's upcoming October 19th referendum on secession. Both Carney and Conservative Leader Pierre Poilievre campaigned at the Calgary Stampede, urging unity, though with differing approaches. Carney's Liberals emphasize growth and inclusion, while Poilievre critiques federal policies impacting Alberta's economy, highlighting the deep political divisions and the federal response to a provincial challenge to national unity.",
+      "graph": ["Provincial Secession", "National Unity", "Federal-Provincial Relations"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques focus on the environmental impact of increasing fossil fuel production and exports, arguing it conflicts with climate goals and prioritizes short-term economic gain over long-term sustainability and genuine energy independence through renewables." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the governmental rationale for defining 'energy sovereignty' in economic terms, emphasizing the need to secure new markets and manage geopolitical risks. Focuses on the mechanisms of federal-provincial cooperation for major infrastructure projects and the policy debate around resource management." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the economic imperative of maximizing resource extraction and export, particularly to shield the Canadian economy from foreign pressures and capitalize on global demand. Views 'energy sovereignty' as the right to control and profit from national resources without external interference." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The Canadian government's interpretation of 'energy sovereignty' emphasizes maximizing fossil fuel exports for economic stability and reducing reliance on a single market, a stance that faces scrutiny regarding its alignment with climate objectives and alternative definitions of national energy control."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Views federal engagement as crucial to preserve national unity and promote inclusive policies, potentially seeing secessionist movements as driven by short-sighted regionalism."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the political process of federal engagement, the legitimacy of a provincial referendum, and the strategic positioning of national leaders to maintain Canadian cohesion."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports Alberta's right to self-determination and critiques federal policies that are perceived to hinder provincial economic interests, viewing federal campaigning as an attempt to undermine provincial autonomy."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney and federal politicians campaigned in Alberta to counter a looming provincial referendum on secession, with both Liberal and Conservative leaders making appeals for national unity while addressing distinct policy concerns."
       }
     },
     {
-      "id": "f8a7c6b5-d4e3-4f2a-8c1b-9d0e1f2a3c4b",
+      "id": "federalism-senate-appointment",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Albertan Thinker Mark Milke Advocates for National Renewal through Decentralization",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/albertan-mark-milke-wants-to-reinvigorate-canada-not-leave-it",
-      "summary": "Mark Milke, founder of the Aristotle Foundation, suggests that rather than advocating for Western separation, Alberta should focus on invigorating Canada through policies that reduce federal subsidies and enhance provincial autonomy. His perspective advocates for fiscal responsibility and less federal intervention to strengthen the national fabric.",
-      "graph": ["Fiscal Federalism", "Provincial Autonomy", "Economic Policy", "Western Alienation", "National Unity"],
+      "source": "CBC News",
+      "title": "PM Carney Appoints Opposition MP to Senate, Shifting House Balance",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/opposition-mps-appointed-to-senate-9.7265980?cmp=rss",
+      "summary": "Prime Minister Mark Carney has appointed Conservative MP Richard Martel to the Senate, a rare political maneuver that alters party standings in the House of Commons and necessitates a byelection. Martel, who will sit as a non-affiliated senator, joins a small historical group of opposition MPs appointed to the Upper Chamber by a prime minister of a different political stripe, a move that could potentially strengthen the Liberal position.",
+      "graph": ["Parliamentary Appointments", "Political Strategy", "Senate Reform"],
       "spectrum": {
-        "baseline": { "left": 25, "center": 35, "right": 40 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May view calls for reduced federal subsidies as potentially undermining national social programs, equalization principles, and the federal government's role in addressing regional disparities and ensuring equitable service delivery across the country." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the ongoing constitutional and fiscal dialogue between federal and provincial governments concerning resource revenues, transfer payments, and the division of powers. Examines proposals for federal reform and provincial empowerment within the existing constitutional framework." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly aligns with principles of provincial self-reliance, reduced central government spending, and free-market economics. Advocates for greater control over provincial resources and finances, believing this approach fosters greater prosperity and a more efficient federation." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "An Albertan commentator proposes strengthening Canada by increasing provincial autonomy and reducing federal subsidies, sparking a national dialogue on fiscal federalism and regional economic self-determination."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Might view the appointment as a strategic move to undermine the opposition or as a cynical approach to Senate independence, potentially criticizing the practice of executive appointments to the legislative body."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the historical precedent and procedural rarity of such an appointment, analyzing its impact on parliamentary dynamics, party power balances, and the non-partisan nature of the Senate."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Could critique the Liberal government for weakening the Conservative presence in the House, while also acknowledging the prerogative of the Prime Minister to make Senate appointments; Conservative leader's public stance appears pragmatic."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney's appointment of a sitting Conservative MP to the Senate is a rare parliamentary event that shifts the balance of power in the House of Commons and opens a new electoral contest."
       }
     },
     {
-      "id": "a9b8c7d6-e5f4-3a2b-1c0d-2e3f4a5b6c7d",
+      "id": "federalism-alberta-visions",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Study Claims Top 20% of Earners Pay Over Half of Canadian Taxes, Warns Against Rate Hikes",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/top-20-of-canadian-earners-pay-more-than-half-of-all-taxes-says-study-warning-against-increasing-rates",
-      "summary": "A recent study indicates that the wealthiest 20% of Canadian households contribute more than half of all federal and provincial income taxes, while the bottom 20% pay less than 1%. The study cautions against further tax increases on high earners, arguing it could be detrimental to the economy.",
-      "graph": ["Taxation Policy", "Fiscal Policy", "Income Inequality", "Economic Impact", "Wealth Distribution"],
+      "source": "CBC News",
+      "title": "Competing Visions for Alberta's Future Highlighted at Calgary Stampede",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-stampede-mark-carney-corey-hogan-keith-wilson-9.7267573?cmp=rss",
+      "summary": "The Calgary Stampede became a battleground for Alberta's political future, with pro-independence group 'Let Alberta Decide' hosting events to broaden its base, while Prime Minister Mark Carney engaged voters to promote national unity. This dual narrative underscores the deep divisions in Alberta ahead of an upcoming secession referendum, with independence sentiment strongest outside major cities, challenging federal efforts to maintain cohesion.",
+      "graph": ["Provincial Autonomy", "Political Polarization", "Federal Engagement"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Challenges the narrative by advocating for increased progressive taxation, arguing that the wealthy can afford to contribute more to public services and wealth redistribution, thereby reducing income inequality and strengthening social safety nets." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the empirical analysis of tax burdens and their economic implications. Discusses the technical aspects of tax policy, revenue generation, and balancing equity with economic efficiency without taking a strong ideological stance on rate changes." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the study's warning, emphasizing that high earners are already disproportionately taxed and that further increases could harm economic growth, discourage investment, and potentially lead to capital flight, advocating for tax relief to stimulate the economy." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A study highlights the significant tax contributions of Canada's top 20% earners, prompting a debate on the fairness and economic implications of current and proposed tax rates."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Sees federal engagement as necessary to ensure equity and social cohesion across Canada, potentially viewing separatist movements as divisive or undermining national progressive agendas."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the political contest, public sentiment, and the efforts by both federalists and separatists to sway public opinion in Alberta, emphasizing the democratic process of the upcoming referendum."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the importance of provincial autonomy and the right to self-determination, critiquing federal interventions as potentially infringing on Alberta's economic and political sovereignty."
+          }
+        },
+        "neutral": "Divergent political narratives for Alberta's future were prominently displayed at the Calgary Stampede, as federal and pro-independence groups actively campaigned ahead of a provincial referendum on secession."
       }
     },
     {
-      "id": "c0d1e2f3-a4b5-6c7d-8e9f-0a1b2c3d4e5f",
+      "id": "federalism-pathways-carbon-capture",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Hamed Esmaeilion Calls for Continued Diplomatic Isolation of Iran Over PS752 Tragedy",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/we-will-never-forget-what-iran-did-to-canadians",
-      "summary": "Hamed Esmaeilion, a spokesperson for victims' families, pens an opinion piece advocating against the reopening of Iran's embassy in Canada. He cites the downing of Flight PS752, which killed 84 Canadians, as an unforgotten act of aggression by the Iranian regime, demanding accountability and continued diplomatic pressure.",
-      "graph": ["Foreign Policy", "International Justice", "Victims' Rights", "Diplomacy", "National Security"],
+      "source": "The Globe and Mail",
+      "title": "Federal and Alberta Governments Advance Pathways Carbon Capture Project with Oil Producers",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/business/industry-news/energy-and-resources/article-alberta-ottawa-oil-producers-mou-pathways-carbon-capture-project/",
+      "summary": "Alberta, Ottawa, and major oil producers have agreed to advance the Pathways carbon capture project, building on a previously signed Memorandum of Understanding. This collaboration aims to significantly increase crude production while addressing environmental concerns through carbon capture technology, representing a key joint federal-provincial effort in energy and climate policy.",
+      "graph": ["Climate Policy", "Energy Development", "Federal-Provincial Cooperation"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 30, "right": 40 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of international law and human rights, supporting a firm stance against regimes responsible for grave injustices. Could also explore avenues for international legal action and victim compensation alongside diplomatic pressure." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the complexities of foreign policy decisions, balancing national interests, security concerns, and humanitarian demands. Focuses on the diplomatic mechanisms available for pursuing justice and accountability, including sanctions and international cooperation." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for a principled and uncompromising foreign policy against states deemed hostile or responsible for harming Canadian citizens. Supports continued diplomatic isolation and punitive measures until full accountability and justice are achieved." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "An opinion leader and victim advocate urges the Canadian government to maintain diplomatic sanctions against Iran, emphasizing the unresolved justice for the downing of Flight PS752 and its Canadian victims."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Supports investments in emissions reduction technology but may scrutinize the long-term commitment to fossil fuels and the effectiveness of carbon capture versus a full transition to renewables."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the pragmatic cooperation between different levels of government and industry to achieve economic and environmental objectives through technological solutions."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the importance of supporting the oil and gas industry, promoting economic growth, and utilizing technology to make resource extraction more sustainable, while potentially viewing federal involvement as a necessary compromise."
+          }
+        },
+        "neutral": "The federal and Alberta governments, along with major oil producers, have agreed to move forward with the Pathways carbon capture project, a joint initiative to integrate environmental goals with increased crude production."
       }
     },
     {
-      "id": "d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6a",
+      "id": "federalism-pmo-shuffle",
       "category": "Federalism",
-      "source": "Slaw.ca",
-      "title": "SCC Allows Civil Claim Against Elections Officer, Clarifying Parliamentary Privilege Limits",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-advocacy-133/",
-      "summary": "The Supreme Court of Canada in 'Resler v. Anglin' ruled that an unsuccessful election candidate's civil claim for misfeasance against an elections officer can proceed, stating it does not constitute a collateral attack or abuse of process. The decision narrows the application of parliamentary privilege and statutory immunity, enhancing accountability for public officials involved in elections.",
-      "graph": ["Electoral Law", "Civil Litigation", "Parliamentary Privilege", "Public Accountability", "Abuse of Process"],
+      "source": "The Globe and Mail",
+      "title": "Prime Minister Carney Shuffles PMO, Appoints Chief Operating Officer",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-carney-appoints-chief-operating-officer-in-pmo/",
+      "summary": "Prime Minister Mark Carney has restructured his inner circle, promoting key advisors Scott Gilmore and Maia Johnson. Johnson, who previously advised on Canada-U.S. relations, has been appointed Chief Operating Officer in the Prime Minister's Office, indicating a focus on operational efficiency and a centralized leadership approach within the government.",
+      "graph": ["Government Operations", "Executive Appointments", "Political Administration"],
       "spectrum": {
-        "baseline": { "left": 35, "center": 35, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports greater transparency and accountability for public officials, especially in democratic processes. Views the ruling as a step towards ensuring that citizens have recourse against misconduct in the administration of elections." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal interpretation of parliamentary privilege, statutory immunity, and the principles of collateral attack and abuse of process. Emphasizes the court's role in defining the boundaries of these doctrines to balance institutional protection with individual rights." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the potential for increased litigation against public servants, arguing that a broad interpretation of accountability could impede the efficient functioning of government and electoral processes, or create disincentives for public service." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The Supreme Court of Canada affirmed that a civil claim against an elections officer for misfeasance can proceed, clarifying the limitations of parliamentary privilege and statutory immunity in holding public officials accountable."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May view the appointment as part of a trend towards technocratic governance, potentially questioning the democratic accountability of unelected advisors in powerful roles."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the administrative restructuring within the Prime Minister's Office, the qualifications of the appointees, and the stated goals of improving governmental efficiency."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Could support a 'CEO approach' to governance if it leads to greater efficiency and less political gridlock, while also potentially expressing concerns about the concentration of power within the PMO."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney has reorganized his top staff, appointing Maia Johnson as Chief Operating Officer within the Prime Minister's Office, alongside other key promotions."
       }
     },
     {
-      "id": "e3f4a5b6-c7d8-9e0f-1a2b-3c4d5e6f7a8b",
+      "id": "federalism-us-bridge-shakedown",
       "category": "Federalism",
-      "source": "Slaw.ca",
-      "title": "SCC Upholds Parliamentary Authority to Limit Privilege for National Security Oversight",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-advocacy-133/",
-      "summary": "In 'Alford v. Canada (Attorney General),' the Supreme Court of Canada validated Section 12 of the NSICOP Act, which prohibits parliamentarians on the National Security and Intelligence Committee of Parliamentarians (NSICOP) from claiming parliamentary privilege to avoid disclosing national security information. This decision affirms Parliament's constitutional authority to define its own privileges, including imposing limitations for the purpose of national security oversight.",
-      "graph": ["Constitutional Law", "Parliamentary Privilege", "National Security", "Government Oversight", "Legislative Authority"],
-      "spectrum": {
-        "baseline": { "left": 35, "center": 35, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports robust oversight of national security apparatus and government transparency. Views the limitation on privilege as necessary to ensure public accountability and trust in intelligence activities, balancing national security with democratic principles." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the constitutional interpretation of Section 18 of the Constitution Act, 1867, regarding Parliament's power to define its privileges. Focuses on the legal framework for balancing legislative independence with the imperative of national security oversight." },
-          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about the erosion of traditional parliamentary privilege, arguing it could impact the ability of MPs to conduct their duties independently or speak freely without fear of reprisal, potentially weakening legislative oversight in other areas." }
-        },
-        "neutral": "The Supreme Court of Canada confirmed Parliament's power to limit parliamentary privilege for members of the National Security and Intelligence Committee, affirming that national security oversight can necessitate exceptions to traditional privileges."
-      }
-    }
-  ],
-  "charter": [
-    {
-      "id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3e2f1d0c",
-      "category": "Charter",
-      "source": "Slaw.ca",
-      "title": "SCC Rules Unilingual Lieutenant Governor Infringes New Brunswick's Charter Language Rights",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-advocacy-133/",
-      "summary": "In 'Société de l’Acadie du Nouveau-Brunswick v. Canada (Prime Minister),' the Supreme Court of Canada declared that the appointment of a unilingual Lieutenant Governor in New Brunswick violates Section 16(2) of the Charter. The Court emphasized that this symbolic and unipersonal office must be held by an individual proficient in both official languages to uphold the substantive equality guaranteed for English and French in the province.",
-      "graph": ["Language Rights", "Constitutional Law", "Official Languages", "Charter of Rights", "New Brunswick Bilingualism"],
-      "spectrum": {
-        "baseline": { "left": 40, "center": 35, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Applauds the decision as a critical advancement for minority language rights and the principle of substantive equality. Views it as reinforcing the constitutional commitment to bilingualism and protecting the cultural vitality of official language communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial interpretation of Section 16(2) of the Charter and its application to high-level institutional appointments. Examines the court's reasoning regarding the symbolic and practical importance of bilingualism in public office for linguistic equality." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the practical implications of bilingualism requirements for public appointments, potentially arguing for greater flexibility or questioning the extent of judicial intervention in executive decisions, while acknowledging the constitutional basis of language rights." }
-        },
-        "neutral": "The Supreme Court of Canada ruled that New Brunswick's Lieutenant Governor must be bilingual to comply with Section 16(2) of the Charter, affirming the mandatory guarantee of substantive equality for official languages in provincial institutions."
-      }
-    },
-    {
-      "id": "0c1b2a3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
-      "category": "Charter",
-      "source": "Slaw.ca",
-      "title": "SCC Grants Leave to Appeal on Charter Section 11(c) in Civil Contempt Cases",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-supreme-one-liners-41/",
-      "summary": "The Supreme Court of Canada has granted leave to appeal in 'Estate of Craig Sutherland, et al. v. Murphy,' a case concerning the application of civil contempt and its interaction with Section 11(c) of the Charter, which guarantees the right against self-incrimination. This appeal will likely provide important clarifications on procedural rights within civil contempt proceedings.",
-      "graph": ["Charter of Rights", "Self-Incrimination", "Civil Contempt", "Procedural Rights", "Appellate Review"],
-      "spectrum": {
-        "baseline": { "left": 35, "center": 35, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the critical importance of protecting fundamental Charter rights, including the right against self-incrimination, ensuring that procedural mechanisms like civil contempt do not unduly infringe upon these constitutional guarantees, even in non-criminal contexts." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the precise legal interpretation and scope of Section 11(c) of the Charter as it applies to civil contempt proceedings. The court aims to clarify the balance between enforcing judicial orders and upholding constitutional protections for individuals." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the necessity of courts to enforce their orders effectively to maintain the rule of law. While acknowledging Charter rights, there may be concerns about how an expansive interpretation of self-incrimination could hinder the efficiency of civil litigation and contempt remedies." }
-        },
-        "neutral": "The Supreme Court will examine how the Charter's right against self-incrimination (Section 11(c)) applies to civil contempt proceedings, a decision expected to clarify fundamental procedural rights."
-      }
-    }
-  ],
-  "indigenous": [],
-  "criminal": [
-    {
-      "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Lawrence Bishnoi's Extortion Gang Expands Operations and Violence in Canada",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/how-lawrence-bishnoi-grew-his-extortion-gang-in-canada",
-      "summary": "An investigation reveals the significant growth of Lawrence Bishnoi's international extortion gang within Canada, with over 1,000 alleged members involved in murder-for-hire plots, extortion, and targeted violence, particularly against the Sikh community. The article highlights the challenges Canadian law enforcement faces in combating this transnational organized crime.",
-      "graph": ["Organized Crime", "Extortion", "Gang Violence", "Transnational Crime", "Law Enforcement"],
-      "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the social and economic factors that might contribute to individuals joining gangs, advocating for preventative measures, community outreach programs, and addressing systemic inequalities alongside law enforcement efforts." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the operational challenges for Canadian police and intelligence agencies in disrupting complex international criminal networks. Highlights the need for cross-jurisdictional cooperation and advanced investigative techniques to combat such sophisticated organizations." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for stricter enforcement, increased penalties for organized crime, and enhanced national security measures, potentially including border controls, to dismantle criminal organizations and protect communities from violence and extortion." }
-        },
-        "neutral": "Reports detail the growing presence and violent activities of Lawrence Bishnoi's extortion gang in Canada, posing a significant challenge to law enforcement and public safety."
-      }
-    },
-    {
-      "id": "g3h4i5j6-k7l8-9m0n-1o2p-3q4r5s6t7u8v",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Salsa on St. Clair Festival Cancelled Following Deadly Shooting in Toronto",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/salsa-on-st-clair-cancelled-sunday-after-deadly-shooting",
-      "summary": "The popular Salsa on St. Clair festival in Toronto was abruptly cancelled on its second day after a deadly shooting incident resulted in two fatalities and four injuries. The cancellation underscored heightened concerns about public safety and the impact of gun violence on large community events.",
-      "graph": ["Gun Violence", "Public Safety", "Urban Crime", "Community Impact", "Festival Security"],
-      "spectrum": {
-        "baseline": { "left": 35, "center": 35, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for addressing systemic issues contributing to gun violence, such as poverty, lack of youth programs, and mental health support. Advocates for stricter gun control measures and community-based violence prevention strategies." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the immediate law enforcement response, investigation protocols, and the practical challenges of securing large public events. Examines the coordination between municipal authorities and police in crisis management." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for increased police presence, harsher penalties for violent offenders, and a 'tough on crime' approach to restore public order and deter future acts of violence in public spaces." }
-        },
-        "neutral": "A major Toronto festival was cancelled after a deadly shooting, highlighting immediate public safety concerns and the profound impact of violent crime on urban community events."
-      }
-    },
-    {
-      "id": "i0j1k2l3-m4n5-6o7p-8q9r-0s1t2u3v4w5x",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Multiple Fatalities in Durham Region Incidents, Waterfront Shooting Injures Five",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://torontosun.com/news/crime/2-dead-in-separate-durham-region-crashes-5-hurt-in-waterfront-shooting",
-      "summary": "Durham Region experienced a series of public safety incidents, including two separate fatal vehicle crashes and a shooting near the waterfront that left five people injured. These events contribute to a broader discussion on regional crime trends, road safety, and community violence.",
-      "graph": ["Public Safety", "Fatal Accidents", "Gun Violence", "Regional Crime", "Emergency Response"],
-      "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for a comprehensive approach to public safety, including investment in road safety infrastructure, addressing underlying causes of violence, and expanding access to mental health and social support services to prevent such incidents." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the coordination of emergency services, police investigations into the criminal aspects of the shooting, and data analysis to inform road safety measures and crime prevention strategies across the region." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for stricter law enforcement, increased penalties for traffic offenses and violent crimes, and greater resources for police to ensure public order and deter illegal activity that contributes to such tragic incidents." }
-        },
-        "neutral": "A series of incidents in Durham Region, including fatal crashes and a shooting, underscores escalating concerns regarding public safety and the need for coordinated preventative and responsive measures."
-      }
-    },
-    {
-      "id": "p6q7r8s9-t0u1-2v3w-4x5y-6z7a8b9c0d1e",
-      "category": "Criminal",
-      "source": "Slaw.ca",
-      "title": "Quebec Court of Appeal Orders New Trial in Sexual Assault Case Due to Unequal Testimony Assessment",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/12/summaries-sunday-soquij-635/",
-      "summary": "The Quebec Court of Appeal in 'Savoie c. R.' overturned a sexual assault conviction and ordered a new trial, citing a determinative error in the trial judge's unequal examination of the appellant's and victim's testimonies. The appellate court found this disparity in assessment effectively reversed the burden of proof, violating due process for the accused.",
-      "graph": ["Criminal Law", "Sexual Assault", "Appellate Review", "Burden of Proof", "Judicial Impartiality"],
-      "spectrum": {
-        "baseline": { "left": 35, "center": 40, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the delicate balance of justice for sexual assault victims with the imperative of fair trials and due process for the accused. Calls for judicial sensitivity training while upholding rigorous evidentiary standards to prevent miscarriages of justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the critical role of appellate courts in reviewing trial judges' adherence to established legal methodology for assessing credibility and evidence. Focuses on ensuring the correct application of the burden of proof and presumption of innocence." },
-          "right": { "label": "Conservative Context", "synthesis": "Stresses the fundamental importance of upholding the presumption of innocence and the strict burden of proof on the Crown. Concerns may be raised about judicial overreach or bias in lower courts that could lead to unfair convictions." }
-        },
-        "neutral": "The Quebec Court of Appeal mandated a new trial in a sexual assault case, ruling that the initial judge's uneven evaluation of witness testimonies amounted to a legal error that shifted the burden of proof."
-      }
-    }
-  ],
-  "immigration": []
-}
+      "source": "The Globe and Mail",
+      "title": "Opinion: Canada's Gordie Howe Bridge Project and US Policy Leverage",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/opinion/article-a-us-bridge-shakedown-in-a-rough-world/",
+      "summary": "An opinion piece discusses the implications of U.S. policy, particularly under a potential Trump administration, on critical Canada-U.S. infrastructure projects like the Gordie Howe Bridge. It argues that American leverage over such projects, despite Canadian investment,
