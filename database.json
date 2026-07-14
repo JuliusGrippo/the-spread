@@ -1,170 +1,372 @@
 {
   "federalism": [
     {
-      "id": "federalism-alberta-referendum",
+      "id": "fed-001",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Ottawa Mobilizes Ahead of Alberta Secession Referendum",
+      "source": "rabble.ca",
+      "title": "Critique of Ontario Government's Privatization Policies",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-calgary-stampede-referendum-9.7267713?cmp=rss",
-      "summary": "The federal government, led by Prime Minister Mark Carney, is intensifying efforts to counter Alberta's upcoming October 19th referendum on secession. Both Carney and Conservative Leader Pierre Poilievre campaigned at the Calgary Stampede, urging unity, though with differing approaches. Carney's Liberals emphasize growth and inclusion, while Poilievre critiques federal policies impacting Alberta's economy, highlighting the deep political divisions and the federal response to a provincial challenge to national unity.",
-      "graph": ["Provincial Secession", "National Unity", "Federal-Provincial Relations"],
+      "url": "https://rabble.ca/politics/canadian-politics/expensive-privatization-propaganda/",
+      "summary": "A left-leaning analysis criticizes the Ontario government's privatization of public assets, arguing it leads to higher costs and diminished services. The piece frames this trend as 'expensive privatization propaganda,' suggesting a political agenda that prioritizes private interests over public welfare, potentially influencing broader federal-provincial economic discussions regarding public services.",
+      "graph": ["Privatization", "Public Services", "Economic Policy", "Ontario Politics", "Federal-Provincial Relations"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Views federal engagement as crucial to preserve national unity and promote inclusive policies, potentially seeing secessionist movements as driven by short-sighted regionalism."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the political process of federal engagement, the legitimacy of a provincial referendum, and the strategic positioning of national leaders to maintain Canadian cohesion."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Supports Alberta's right to self-determination and critiques federal policies that are perceived to hinder provincial economic interests, viewing federal campaigning as an attempt to undermine provincial autonomy."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the detrimental impact of privatization on public access and affordability, framing it as a betrayal of public trust and an exacerbation of inequality, potentially pushing for federal intervention or a national anti-privatization stance." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the efficiency and fiscal arguments for or against public asset management, seeking balanced approaches that may involve public-private partnerships or regulated privatization to optimize service delivery and financial sustainability." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for privatization as a means to reduce government inefficiency, foster market competition, and stimulate economic growth, aligning with principles of fiscal conservatism and limited government intervention in the economy." }
         },
-        "neutral": "Prime Minister Mark Carney and federal politicians campaigned in Alberta to counter a looming provincial referendum on secession, with both Liberal and Conservative leaders making appeals for national unity while addressing distinct policy concerns."
+        "neutral": "This article critiques provincial privatization efforts, arguing they lead to poorer outcomes and higher costs. The discussion often involves the efficiency of public versus private sector operations and the appropriate role of government in service provision."
       }
     },
     {
-      "id": "federalism-senate-appointment",
+      "id": "fed-002",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "PM Carney Appoints Opposition MP to Senate, Shifting House Balance",
+      "source": "rabble.ca",
+      "title": "Concerns Raised Over Carney Government's AI Strategy and its Impacts",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/opposition-mps-appointed-to-senate-9.7265980?cmp=rss",
-      "summary": "Prime Minister Mark Carney has appointed Conservative MP Richard Martel to the Senate, a rare political maneuver that alters party standings in the House of Commons and necessitates a byelection. Martel, who will sit as a non-affiliated senator, joins a small historical group of opposition MPs appointed to the Upper Chamber by a prime minister of a different political stripe, a move that could potentially strengthen the Liberal position.",
-      "graph": ["Parliamentary Appointments", "Political Strategy", "Senate Reform"],
+      "url": "https://rabble.ca/technology/experts-warn-carneys-ai-strategy-will-lead-to-job-cuts-and-environmental-damage/",
+      "summary": "Experts are voicing concerns that the Canadian federal government's AI strategy, championed by Prime Minister Mark Carney, could result in significant job displacement and environmental harm. The critique suggests the strategy is being hastily imposed and primarily benefits a select 'broliarchy,' questioning the broader societal and ecological implications of a billion-dollar investment in artificial intelligence.",
+      "graph": ["AI Policy", "Job Displacement", "Environmental Impact", "Federal Technology Strategy", "Economic Policy"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Might view the appointment as a strategic move to undermine the opposition or as a cynical approach to Senate independence, potentially criticizing the practice of executive appointments to the legislative body."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the historical precedent and procedural rarity of such an appointment, analyzing its impact on parliamentary dynamics, party power balances, and the non-partisan nature of the Senate."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Could critique the Liberal government for weakening the Conservative presence in the House, while also acknowledging the prerogative of the Prime Minister to make Senate appointments; Conservative leader's public stance appears pragmatic."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the ethical and social justice implications of AI, warning of increased economic inequality due to job losses and advocating for robust regulatory frameworks to protect workers and the environment from technological exploitation." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on balancing innovation and economic growth with social responsibility, seeking mechanisms for retraining workers, mitigating environmental impacts, and ensuring transparent governance in AI development and deployment." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes economic competitiveness and technological advancement, viewing federal AI investments as crucial for Canada's global standing and productivity, with less emphasis on potential downsides or calls for market-based solutions to address any negative externalities." }
         },
-        "neutral": "Prime Minister Mark Carney's appointment of a sitting Conservative MP to the Senate is a rare parliamentary event that shifts the balance of power in the House of Commons and opens a new electoral contest."
+        "neutral": "This report highlights expert concerns regarding the federal government's AI strategy, specifically focusing on potential job cuts and environmental degradation. The debate centers on balancing economic development through AI with social and ecological responsibilities."
       }
     },
     {
-      "id": "federalism-alberta-visions",
+      "id": "fed-003",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Competing Visions for Alberta's Future Highlighted at Calgary Stampede",
+      "source": "rabble.ca",
+      "title": "Elections Alberta's Handling of 'Water Not Coal' Petition Sparks Democratic Legitimacy Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-stampede-mark-carney-corey-hogan-keith-wilson-9.7267573?cmp=rss",
-      "summary": "The Calgary Stampede became a battleground for Alberta's political future, with pro-independence group 'Let Alberta Decide' hosting events to broaden its base, while Prime Minister Mark Carney engaged voters to promote national unity. This dual narrative underscores the deep divisions in Alberta ahead of an upcoming secession referendum, with independence sentiment strongest outside major cities, challenging federal efforts to maintain cohesion.",
-      "graph": ["Provincial Autonomy", "Political Polarization", "Federal Engagement"],
+      "url": "https://rabble.ca/politics/canadian-politics/somethings-gravely-wrong-with-how-elections-alberta-torpedoed-corb-lunds-water-not-coal-citizen-initiative-petition/",
+      "summary": "An article from rabble.ca raises serious questions about the integrity of Alberta's democratic processes, specifically criticizing how Elections Alberta managed the 'Water Not Coal' citizen initiative petition, fronted by Corb Lund. The piece suggests a pattern of 'electoral jiggery-pokery' by the provincial government, potentially leading to a crisis of democratic legitimacy within the province and raising questions about the fairness of citizen-led legislative efforts.",
+      "graph": ["Electoral Integrity", "Citizen Initiative", "Alberta Politics", "Environmental Advocacy", "Democratic Process"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Sees federal engagement as necessary to ensure equity and social cohesion across Canada, potentially viewing separatist movements as divisive or undermining national progressive agendas."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Reports on the political contest, public sentiment, and the efforts by both federalists and separatists to sway public opinion in Alberta, emphasizing the democratic process of the upcoming referendum."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Emphasizes the importance of provincial autonomy and the right to self-determination, critiquing federal interventions as potentially infringing on Alberta's economic and political sovereignty."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for greater transparency and accountability in electoral processes, advocating for stronger protections for citizen-led initiatives against government interference and emphasizing the importance of grassroots democracy in environmental protection." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural fairness and legal adherence of election authorities, seeking independent investigations and systemic reforms to ensure all citizen petitions are handled impartially according to established rules, regardless of their political alignment." },
+          "right": { "label": "Conservative Context", "synthesis": "May defend the actions of Elections Alberta as upholding existing regulations, or argue against the premise of such citizen initiatives as potentially undermining representative democracy or efficient governance." }
         },
-        "neutral": "Divergent political narratives for Alberta's future were prominently displayed at the Calgary Stampede, as federal and pro-independence groups actively campaigned ahead of a provincial referendum on secession."
+        "neutral": "This article critiques Elections Alberta's handling of a citizen initiative, raising concerns about the fairness and transparency of provincial democratic processes. The issue involves the procedural validity of petitions and the role of electoral bodies."
       }
     },
     {
-      "id": "federalism-pathways-carbon-capture",
+      "id": "fed-004",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Federal and Alberta Governments Advance Pathways Carbon Capture Project with Oil Producers",
+      "source": "rabble.ca",
+      "title": "Alberta Referendum Questions Viewed as Attempt to Encroach on Federal Jurisdiction",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/business/industry-news/energy-and-resources/article-alberta-ottawa-oil-producers-mou-pathways-carbon-capture-project/",
-      "summary": "Alberta, Ottawa, and major oil producers have agreed to advance the Pathways carbon capture project, building on a previously signed Memorandum of Understanding. This collaboration aims to significantly increase crude production while addressing environmental concerns through carbon capture technology, representing a key joint federal-provincial effort in energy and climate policy.",
-      "graph": ["Climate Policy", "Energy Development", "Federal-Provincial Cooperation"],
+      "url": "https://rabble.ca/politics/canadian-politics/danielle-smiths-referendum-questions-push-right-wing-policies-intended-to-divide-and-weaken-canada/",
+      "summary": "An analysis from rabble.ca argues that Alberta Premier Danielle Smith's proposed referendum questions are a deliberate attempt to advance right-wing policies and challenge federal jurisdiction, aiming to create division and weaken national unity. The article urges citizens to reject these questions, framing them as a provincial 'march into federal jurisdiction' designed to provoke constitutional conflict and assert provincial autonomy over areas traditionally managed by the federal government.",
+      "graph": ["Federal-Provincial Relations", "Alberta Sovereignty", "Constitutional Law", "Referendum Politics", "Intergovernmental Conflict"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Supports investments in emissions reduction technology but may scrutinize the long-term commitment to fossil fuels and the effectiveness of carbon capture versus a full transition to renewables."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the pragmatic cooperation between different levels of government and industry to achieve economic and environmental objectives through technological solutions."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Emphasizes the importance of supporting the oil and gas industry, promoting economic growth, and utilizing technology to make resource extraction more sustainable, while potentially viewing federal involvement as a necessary compromise."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns provincial attempts to undermine federal authority, viewing such actions as politically motivated efforts to weaken national social programs or environmental regulations, and advocating for a strong central government to ensure national standards." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and constitutional implications of provincial challenges to federal jurisdiction, focusing on the division of powers, precedents, and the potential for judicial review, while seeking constructive dialogue to resolve intergovernmental disputes." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports provincial efforts to assert greater autonomy and control over their affairs, viewing it as a necessary step to address unique regional needs, reduce federal overreach, and enhance provincial economic and political self-determination." }
         },
-        "neutral": "The federal and Alberta governments, along with major oil producers, have agreed to move forward with the Pathways carbon capture project, a joint initiative to integrate environmental goals with increased crude production."
+        "neutral": "This report examines Alberta's proposed referendum questions as an assertion of provincial autonomy and a challenge to federal jurisdiction. The central theme is the ongoing tension and negotiation of power between federal and provincial governments in Canada."
       }
     },
     {
-      "id": "federalism-pmo-shuffle",
+      "id": "fed-005",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Prime Minister Carney Shuffles PMO, Appoints Chief Operating Officer",
+      "source": "cbc.ca",
+      "title": "Canada Deepens Economic and Diplomatic Ties with Saudi Arabia Amid Geopolitical Instability",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-appoints-chief-operating-officer-in-pmo/",
-      "summary": "Prime Minister Mark Carney has restructured his inner circle, promoting key advisors Scott Gilmore and Maia Johnson. Johnson, who previously advised on Canada-U.S. relations, has been appointed Chief Operating Officer in the Prime Minister's Office, indicating a focus on operational efficiency and a centralized leadership approach within the government.",
-      "graph": ["Government Operations", "Executive Appointments", "Political Administration"],
+      "url": "https://www.cbc.ca/news/politics/carney-saudi-arabia-iran-yemen-mbs-9.7268649?cmp=rss",
+      "summary": "The Carney government is pursuing closer business and investment opportunities with Saudi Arabia, including a permanent defence attaché and participation in the World Defence Show, despite the kingdom's involvement in regional conflicts and human rights record. This strategy is highlighted as a calculated 'bet' on Saudi Arabia's economic diversification through Vision 2030, particularly in sectors like mining and technology, while Global Affairs emphasizes vetting arms sales for compliance with Canadian law and human rights.",
+      "graph": ["Foreign Policy", "Trade Relations", "Defence Exports", "Geopolitics", "Human Rights", "Saudi Arabia", "Economic Diversification"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "May view the appointment as part of a trend towards technocratic governance, potentially questioning the democratic accountability of unelected advisors in powerful roles."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the administrative restructuring within the Prime Minister's Office, the qualifications of the appointees, and the stated goals of improving governmental efficiency."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Could support a 'CEO approach' to governance if it leads to greater efficiency and less political gridlock, while also potentially expressing concerns about the concentration of power within the PMO."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes the government's pursuit of economic ties with Saudi Arabia, particularly in defence, given the country's human rights record and regional conflicts, advocating for an ethical foreign policy that prioritizes human rights over economic gain." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the pragmatic aspects of international diplomacy and trade, balancing economic opportunities and strategic alliances with considerations of human rights and geopolitical stability, highlighting the need for careful vetting and risk management." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the government's efforts to expand trade and investment, viewing it as essential for national economic prosperity and global influence, and potentially arguing that engaging with such nations can foster gradual internal reform." }
         },
-        "neutral": "Prime Minister Mark Carney has reorganized his top staff, appointing Maia Johnson as Chief Operating Officer within the Prime Minister's Office, alongside other key promotions."
+        "neutral": "Canada's federal government is expanding economic and diplomatic engagement with Saudi Arabia, including defence sector exports and investment, despite regional conflicts and human rights concerns. The policy aims to leverage Saudi Arabia's Vision 2030 for Canadian business opportunities."
       }
     },
     {
-      "id": "federalism-us-bridge-shakedown",
+      "id": "fed-006",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Opinion: Canada's Gordie Howe Bridge Project and US Policy Leverage",
+      "source": "cbc.ca",
+      "title": "Federal Government Appoints New Consuls General to U.S. Missions Amid Trade Realignments",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/opinion/article-a-us-bridge-shakedown-in-a-rough-world/",
-      "summary": "An opinion piece discusses the implications of U.S. policy, particularly under a potential Trump administration, on critical Canada-U.S. infrastructure projects like the Gordie Howe Bridge. It argues that American leverage over such projects, despite Canadian investment,
+      "url": "https://www.cbc.ca/news/politics/carney-consular-general-appointments-u-s-cusma-9.7269449?cmp=rss",
+      "summary": "The federal government has announced new consular general appointments across the United States, including former Liberal MP Kamal Khera for Los Angeles and former Shell executive Susannah Pierce for New York. These diplomatic shifts occur as trade talks surrounding the Canada-U.S.-Mexico Agreement (CUSMA) continue, following the U.S. decision not to extend the agreement and triggering ongoing reviews. The appointments aim to bolster Canada's diplomatic presence during evolving cross-border economic relations.",
+      "graph": ["Diplomatic Appointments", "Canada-U.S. Relations", "CUSMA", "International Trade", "Federal Governance"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the appointments, particularly of a former corporate executive, for potential conflicts of interest or a tilt towards corporate interests in diplomatic roles, advocating for transparency and public service values." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the appointments as standard government procedure to refresh diplomatic teams and adapt to changing international relations, focusing on the appointees' qualifications and the strategic objectives of strengthening bilateral ties and trade." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the government's pragmatic approach to staffing key diplomatic roles with individuals who may bring strong business acumen or political experience to navigate complex trade negotiations and advocate for Canadian economic interests abroad." }
+        },
+        "neutral": "The federal government has made several new consular appointments in the United States, including a former MP and a former oil executive, as Canada navigates evolving trade relations with the U.S. under the CUSMA agreement."
+      }
+    },
+    {
+      "id": "fed-007",
+      "category": "Federalism",
+      "source": "thehub.ca",
+      "title": "Report Indicates Top-Earning Canadian Families Bear Majority of National Tax Burden",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/14/top-earning-canadian-families-now-pay-65-of-all-income-taxes-in-canada-and-over-50-of-all-individual-taxes-report/",
+      "summary": "A Fraser Institute report highlights that the top 20 percent of income-earning Canadian families contribute 65.3 percent of personal income taxes and 58.3 percent of total taxes, while earning less than half of the total income. This analysis fuels debate on tax progressivity and fairness, suggesting that the 'brain drain' of high earners could be exacerbated by Canada's tax structure, with implications for federal and provincial fiscal policies.",
+      "graph": ["Taxation Policy", "Income Inequality", "Economic Policy", "Fiscal Studies", "Brain Drain", "Federal Finance"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May argue that while top earners pay a large share, their overall wealth and ability to pay are higher, advocating for even more progressive taxation and questioning the report's framing of 'burden' without considering accumulated capital and societal benefits." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on objective data and economic efficiency, discussing the implications of tax rates on economic incentives, investment, and national competitiveness, while considering various models for achieving a balanced and equitable tax system." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes that high tax burdens on top earners disincentivize wealth creation and can lead to capital flight or 'brain drain,' advocating for lower marginal tax rates and broader tax base to encourage economic activity and investment." }
+        },
+        "neutral": "A Fraser Institute report indicates that Canada's highest-earning families pay a majority of the country's income and total taxes, sparking discussion on tax progressivity and its potential effects on economic migration."
+      }
+    },
+    {
+      "id": "fed-008",
+      "category": "Federalism",
+      "source": "thehub.ca",
+      "title": "Polling Reveals Significant Divergence in Canadian and American Views on Bilateral Relationship",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/14/canadians-fume-americans-shrug-81-of-canadians-see-negative-relationship-with-u-s-while-only-31-of-americans-agree-polling/",
+      "summary": "Recent binational polling indicates that 81% of Canadians view their country's relationship with the U.S. negatively, a sentiment largely unreciprocated by Americans, of whom only 31% agree. This stark contrast, driven by trade disputes and U.S. presidential rhetoric, suggests an emotional rather than strictly economic basis for Canadian discontent, posing challenges for federal foreign policy and diplomacy despite underlying mutual support for economic cooperation.",
+      "graph": ["Canada-U.S. Relations", "Public Opinion", "Foreign Policy", "Trade Wars", "Diplomacy", "National Identity"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Attributes negative Canadian sentiment to U.S. protectionism and the aggressive posture of the Trump administration, advocating for Canada to diversify its economic partnerships and assert its distinct progressive values on the world stage." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the need for stable and predictable bilateral relations, emphasizing the importance of pragmatic diplomacy and continued efforts to manage trade disputes and address areas of mutual concern, while acknowledging differences in national priorities." },
+          "right": { "label": "Conservative Context", "synthesis": "May downplay the Canadian 'fuming' as overly emotional or nationalistic, arguing that Canadian economic prosperity is inherently linked to the U.S. and that a more accommodating approach to American interests, particularly on trade, would be beneficial." }
+        },
+        "neutral": "Polling data reveals a significant disparity in how Canadians and Americans perceive their bilateral relationship, with Canadians expressing strong negative views, largely due to trade disputes and U.S. political rhetoric, while Americans remain largely unconcerned."
+      }
+    }
+  ],
+  "charter": [
+    {
+      "id": "char-001",
+      "category": "Charter",
+      "source": "ablawg.ca",
+      "title": "Analysis of Bill C-22's Impact on Lawful Access and Charter Section 8 Privacy Rights",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://ablawg.ca/2026/07/14/decrypting-bill-c-22-part-i-why-canada-needs-a-lawful-access-regime/?utm_source=rss&utm_medium=rss&utm_campaign=decrypting-bill-c-22-part-i-why-canada-needs-a-lawful-access-regime",
+      "summary": "A detailed analysis of Bill C-22, the federal government's proposed 'An Act respecting lawful access,' examines its aim to modernize law enforcement's digital search and seizure powers. The article critically assesses how the bill, by compelling communication service providers to retain data and facilitate access, creates a tension with civil liberties and privacy interests protected by Section 8 of the Canadian Charter of Rights and Freedoms, prompting a debate on the balance between public safety and individual digital privacy.",
+      "graph": ["Charter Rights", "Privacy", "Lawful Access", "Bill C-22", "Digital Rights", "Law Enforcement", "Civil Liberties"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for robust protection of digital privacy and civil liberties, warning that Bill C-22's expansion of state surveillance powers could disproportionately impact vulnerable groups and erode fundamental Charter rights without adequate safeguards." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on interpreting the constitutional limits of government power, balancing public safety needs with Charter Section 8 privacy rights, and seeking a lawful access regime that is proportionate, transparent, and subject to judicial oversight." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes public safety and law enforcement's ability to combat digital crime, arguing that an updated lawful access regime is essential for national security and effective policing in the digital age, while acknowledging the need for constitutional compliance." }
+        },
+        "neutral": "Bill C-22, the federal government's proposed lawful access legislation, is being analyzed for its potential impact on privacy rights under Section 8 of the Canadian Charter of Rights and Freedoms, balancing state powers for public safety against civil liberties in the digital sphere."
+      }
+    }
+  ],
+  "indigenous": [
+    {
+      "id": "ind-001",
+      "category": "Indigenous",
+      "source": "thenarwhal.ca",
+      "title": "Nunavut Hunters Demand Consultation and Review for Baffinland Mine Expansion",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/baffinland-nunavut-mine-expansion-pushback/?utm_source=rss",
+      "summary": "Hunter and trapper organizations in three Nunavut Inuit communities are calling for comprehensive consultation and a full environmental review of Baffinland Iron Mines Corporation's proposed Steensby expansion of the Mary River mine. They argue the expansion, which includes a 149-kilometre rail line and increased shipping through Foxe Basin, will severely impact marine wildlife crucial for their harvesting rights and way of life, potentially violating their rights to traditional use of land and resources.",
+      "graph": ["Indigenous Rights", "Environmental Impact", "Resource Development", "Consultation", "Nunavut", "Mining", "Inuit"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the Indigenous communities' right to self-determination and environmental protection, advocating for rigorous impact assessments that prioritize traditional knowledge and consent, and critiques industrial development that threatens biodiversity and cultural heritage." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on ensuring legal compliance with consultation duties and environmental assessment processes, seeking a balanced approach that allows for resource development while mitigating impacts on Indigenous rights and ecosystems through robust regulatory oversight." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes economic development and resource extraction, viewing the mine expansion as a source of jobs and revenue, and may argue for streamlined regulatory processes while ensuring minimal necessary consultation to proceed with projects." }
+        },
+        "neutral": "Inuit hunters and trappers in Nunavut are demanding proper consultation and a full review of Baffinland's proposed mine expansion, citing significant environmental concerns and potential impacts on their traditional harvesting rights and way of life."
+      }
+    },
+    {
+      "id": "ind-002",
+      "category": "Indigenous",
+      "source": "cbc.ca",
+      "title": "AFN Addresses Federal Water Legislation and Major Project Consultation Concerns",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/indigenous/afn-assembly-water-walk-9.7268701?cmp=rss",
+      "summary": "The Assembly of First Nations (AFN) is holding its summer assembly in Ottawa to discuss critical issues including new federal drinking water legislation (Bill C-37) and the fast-tracking of major resource projects. First Nations leaders express strong concerns that the new water bill weakens explicit recognition of their human right to safe drinking water and that major projects are being advanced without adequate consultation, prompting calls for unified 'push back' against federal policies.",
+      "graph": ["First Nations", "Water Rights", "Federal Legislation", "Resource Development", "Consultation", "Self-Governance"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for strengthening Indigenous self-determination and inherent rights over water and land, criticizing federal legislative changes that dilute rights and supporting Indigenous-led environmental governance to protect vital resources." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and procedural aspects of federal legislation and consultation protocols, seeking clear frameworks that ensure First Nations input is properly considered and that water quality standards and project approvals meet equitable and transparent criteria." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the balance between Indigenous rights and broader national economic interests, potentially advocating for more efficient project approval processes while acknowledging the need for consultation within existing legal frameworks." }
+        },
+        "neutral": "The Assembly of First Nations is convening to address concerns regarding new federal drinking water legislation, which some leaders argue weakens Indigenous rights, and the perceived inadequate consultation on major resource projects."
+      }
+    },
+    {
+      "id": "ind-003",
+      "category": "Indigenous",
+      "source": "nationalpost.com",
+      "title": "AFN National Chief Reaffirms Rights Must Not Be Sacrificed for Fast-Tracked Projects",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/politics/not-at-the-expense-of-our-rights-says-national-chief-on-fast-tracking-major-projects",
+      "summary": "The National Chief of the Assembly of First Nations (AFN) has emphatically stated that First Nations' rights cannot be compromised for the sake of fast-tracking major development projects, during the AFN's summer assembly. This statement reinforces concerns about the federal government's approach to resource development and its impact on Indigenous land and self-determination, underscoring the ongoing demand for meaningful consultation and respect for treaty rights.",
+      "graph": ["Indigenous Rights", "Resource Development", "Consultation", "Self-Determination", "Treaty Rights", "Federal Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Commends the AFN's strong stance on protecting Indigenous rights, viewing fast-tracking projects as a colonial imposition and calling for a paradigm shift towards Indigenous consent and environmental stewardship as a prerequisite for development." },
+          "center": { "label": "Procedural Context", "synthesis": "Considers the legal obligations for consultation and accommodation with Indigenous peoples, seeking mechanisms to integrate Indigenous perspectives into project planning and regulatory processes while balancing diverse stakeholder interests." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the economic urgency of major projects for national prosperity, suggesting that while Indigenous consultation is important, it should not unduly impede development, and advocating for clear, predictable processes to avoid delays." }
+        },
+        "neutral": "The National Chief of the Assembly of First Nations has reiterated that Indigenous rights must not be overlooked in the interest of fast-tracking major resource projects, advocating for full respect of inherent and treaty rights."
+      }
+    },
+    {
+      "id": "ind-004",
+      "category": "Indigenous",
+      "source": "thehub.ca",
+      "title": "British Columbia Grapples with Unresolved Aboriginal Title and Land Governance Issues",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/13/b-c-s-unanswered-land-questions-can-no-longer-be-ignored/",
+      "summary": "British Columbia faces a 'governance problem of its own making' as five decades of court rulings have brought the concept of Aboriginal title from abstraction to practical reality, impacting 95% of the province's unceded land. An editorial from The Hub emphasizes that legislative inaction by the B.C. government has forced courts to fill the vacuum on land ownership and governance, indicating a trajectory towards increased litigation rather than political solutions for Indigenous land rights.",
+      "graph": ["Aboriginal Title", "Land Claims", "Provincial Governance", "Indigenous Rights", "Legal Precedent", "BC Politics"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for immediate legislative action and reconciliation to recognize and implement Aboriginal title, viewing it as a moral imperative and a necessary step to address historical injustices and support Indigenous self-governance." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal complexities of Aboriginal title, advocating for clear legislative frameworks and transparent processes to define and manage land ownership and resource development, reducing legal uncertainty for all parties." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the economic implications of undefined Aboriginal title, advocating for certainty and clear pathways for resource development, while also recognizing the legal necessity of addressing Indigenous claims through negotiated settlements where possible." }
+        },
+        "neutral": "British Columbia faces a significant challenge with unresolved Aboriginal title over 95% of its land, with legislative inaction leading courts to increasingly define land ownership and governance, pushing for political resolution of Indigenous land rights."
+      }
+    },
+    {
+      "id": "ind-005",
+      "category": "Indigenous",
+      "source": "globalnews.ca",
+      "title": "Judge Freezes Assets of Alberta Lawyer Amidst Tallcree First Nation Trust Dispute",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11964544/mareva-injunction-jeffrey-rath/",
+      "summary": "An Alberta judge has issued a Mareva injunction, freezing up to $8.5 million in assets belonging to lawyer Jeffrey Rath and his firm. This action stems from an ongoing and escalating court battle with Tallcree First Nation regarding a trust dispute, highlighting concerns over the management and potential misappropriation of Indigenous community funds. The case underscores legal challenges in safeguarding First Nations' financial interests.",
+      "graph": ["First Nations Trust", "Legal Dispute", "Asset Freeze", "Indigenous Governance", "Fraud Allegations", "Civil Law"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports strong legal protection for Indigenous community assets, viewing the freezing order as a necessary measure to prevent financial harm and advocating for greater oversight and accountability in the management of First Nation trusts." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the impartial application of civil law procedures, such as Mareva injunctions, to preserve assets during disputes, ensuring due process for all parties while courts adjudicate complex financial claims." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of legal certainty and protection of property rights, and may focus on the responsibility of legal professionals and the need for clear contractual agreements in managing large financial trusts." }
+        },
+        "neutral": "A judge has frozen $8.5 million in assets belonging to an Alberta lawyer, Jeffrey Rath, amidst a contentious trust dispute involving the Tallcree First Nation, raising questions about financial oversight and legal accountability in Indigenous community funds."
+      }
+    }
+  ],
+  "criminal": [
+    {
+      "id": "crim-001",
+      "category": "Criminal",
+      "source": "theglobeandmail.com",
+      "title": "Former Government Scientist Charged with Unauthorized Data Use and Breach of Trust",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-ex-government-scientist-accused-of-copying-work-files-to-further-new/",
+      "summary": "A former federal government scientist, Dennis Lu, has been charged under the Criminal Code with unauthorized use of a computer and breach of trust. The charges allege that Lu copied work files to further a new career in China, raising concerns about national security, intellectual property protection, and the integrity of public service within Canada.",
+      "graph": ["Criminal Code", "Breach of Trust", "National Security", "Data Theft", "Public Service Ethics", "Intellectual Property"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Calls for robust protection of public information and ethical conduct within government, emphasizing potential systemic vulnerabilities and advocating for stronger whistleblower protections while ensuring due process for the accused." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the strict application of criminal law, examining the evidence for unauthorized access and breach of trust, and the proper legal procedures for investigating and prosecuting cases involving public servants and national security implications." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the need for strong national security measures and severe penalties for breaches of trust involving sensitive government data, emphasizing accountability and deterrence to protect state secrets and intellectual property from foreign exploitation." }
+        },
+        "neutral": "A former federal government scientist faces Criminal Code charges for unauthorized use of a computer and breach of trust, stemming from allegations of copying work files to aid a new career in China, implicating national security and public service integrity."
+      }
+    },
+    {
+      "id": "crim-002",
+      "category": "Criminal",
+      "source": "nationalpost.com",
+      "title": "Former MP Raj Grewal Faces Fraud Allegations and Potential Legal Profession Suspension",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/former-mp-raj-grewal-faces-slew-of-fraud-allegations-possible-suspension-as-lawyer",
+      "summary": "Former Liberal MP Raj Grewal is under investigation by the Law Society of Ontario for a series of fraud allegations, including the potential misappropriation of trust money. This development could lead to his suspension as a lawyer, bringing renewed scrutiny to ethical conduct within political and legal professions and the mechanisms for accountability when public figures face accusations of financial misconduct.",
+      "graph": ["Fraud Allegations", "Legal Ethics", "Political Accountability", "Professional Misconduct", "Law Society", "Former MP"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of holding public officials and legal professionals to high ethical standards, advocating for rigorous oversight and swift action against financial misconduct to restore public trust in institutions." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the impartial investigative processes of the Law Society and the application of professional conduct rules, ensuring that allegations are thoroughly examined and disciplinary actions, if any, are based on established facts and precedents." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses individual responsibility and the consequences of financial malfeasance, advocating for clear penalties to deter corruption and uphold the integrity of both the legal profession and political office." }
+        },
+        "neutral": "Former Liberal MP Raj Grewal is facing multiple fraud allegations, including misappropriation of trust money, leading to an investigation by the Law Society of Ontario that could result in his suspension as a lawyer."
+      }
+    },
+    {
+      "id": "crim-003",
+      "category": "Criminal",
+      "source": "torontosun.com",
+      "title": "Man Hospitalized with Gunshot Wound Amid Rising Toronto Gun Violence",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/man-gunshot-wound-walks-hospital",
+      "summary": "A man was admitted to a Toronto hospital with a gunshot wound, following a weekend that saw 12 people shot, three fatally, in three separate incidents across the city. This event contributes to growing concerns about an escalation in urban gun violence in Toronto, prompting increased public safety debates and calls for effective policing and crime prevention strategies.",
+      "graph": ["Gun Violence", "Urban Crime", "Public Safety", "Policing", "Toronto"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for addressing root causes of violence, such as poverty and systemic inequality, and supports community-based intervention programs and stricter gun control measures to reduce harm." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on data-driven approaches to crime reduction, including targeted policing efforts, community engagement, and comprehensive strategies that combine enforcement with social programs, while maintaining legal frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes stricter law enforcement, increased police presence, and harsher penalties for violent offenders to deter crime and ensure public order, potentially advocating for greater support for police resources." }
+        },
+        "neutral": "A man was hospitalized in Toronto with a gunshot wound, adding to a recent surge in gun violence in the city, which has seen multiple shootings and fatalities over the past weekend."
+      }
+    },
+    {
+      "id": "crim-004",
+      "category": "Criminal",
+      "source": "torontosun.com",
+      "title": "Durham Police Increase Patrols Following Violent Sexual Assault in Whitby",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/durham-cops-seek-male-suspect-sex-assault-whitby",
+      "summary": "Durham Regional Police are actively searching for a male suspect and have significantly increased patrols in the area of Iroquois Beach Park in Whitby, Ontario, after a violent sexual assault occurred on Monday night. The incident underscores ongoing concerns about public safety and gender-based violence, leading to heightened community alert and demands for effective police response and prevention measures.",
+      "graph": ["Sexual Assault", "Public Safety", "Policing", "Gender-Based Violence", "Whitby", "Crime Prevention"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive strategies to combat gender-based violence, including addressing systemic misogyny, promoting consent education, and supporting victim services, alongside effective law enforcement." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on thorough police investigation, community collaboration for safety, and the implementation of evidence-based crime prevention programs to address and deter violent offenses." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes strong law enforcement presence, rapid apprehension of suspects, and punitive measures to deter violent crime, ensuring public safety through robust policing." }
+        },
+        "neutral": "Durham Regional Police are increasing patrols and searching for a suspect following a violent sexual assault in Whitby, Ontario, highlighting public safety concerns in the community."
+      }
+    },
+    {
+      "id": "crim-005",
+      "category": "Criminal",
+      "source": "slaw.ca",
+      "title": "Defining Lawyer Competence in the Era of Artificial Intelligence",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/14/what-does-it-mean-to-be-a-competent-lawyer-in-the-age-of-ai/",
+      "summary": "A discussion among Canadian law teachers and lawyers at a conference explored whether proficiency with AI should be considered a core competence for lawyers and law students. The debate delves into the ethical and pedagogical duties of legal professionals to understand and effectively use AI, given its evolving role in legal practice, and whether foregoing AI tools could constitute a failure in the duty of competence as outlined by professional conduct codes.",
+      "graph": ["Legal Profession", "AI Ethics", "Professional Competence", "Legal Education", "Technology Law", "Justice System"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes equitable access to justice and the potential for AI to both widen and narrow access gaps, advocating for ethical guidelines that ensure AI tools are used to enhance human rights and fairness, not to replace critical judgment." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical implications of integrating AI into legal practice, stressing the need for clear professional standards, ongoing education, and careful consideration of AI's reliability and limitations to maintain the integrity and efficiency of the legal system." },
+          "right": { "label": "Conservative Context", "synthesis": "Views AI as a powerful tool for efficiency and innovation in legal services, advocating for its rapid adoption to reduce costs and increase productivity, with an emphasis on individual lawyer responsibility for ethical use and continuous skill development." }
+        },
+        "neutral": "Legal professionals are debating whether competence in artificial intelligence should be a mandatory requirement for lawyers in Canada, considering the ethical and practical implications of AI's increasing role in legal practice."
+      }
+    }
+  ],
+  "immigration": []
+}
