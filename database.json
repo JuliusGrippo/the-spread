@@ -1,333 +1,582 @@
 {
   "federalism": [
     {
-      "id": "fed-001",
-      "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "Roberts Bank Oil Supertanker Terminal Plan Raises Environmental, Federal-Provincial Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/alberta-pipepine-terminal-roberts-bank/?utm_source=rss",
-      "summary": "Alberta's proposal for a new West Coast pipeline to Roberts Bank, capable of servicing supertankers in the Fraser River estuary, is drawing significant environmental scrutiny. The project, which involves federal support for port infrastructure upgrades, raises concerns for critical ecosystems and endangered species. The federal government had previously committed to maintaining a tanker ban on B.C.'s North Coast, shifting focus to the southern Fraser River estuary.",
-      "graph": ["Energy Infrastructure", "Environmental Impact", "Federal-Provincial Relations", "Marine Transport"],
-      "spectrum": {
-        "baseline": { "left": 70, "center": 20, "right": 10 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the critical environmental risks to the Fraser River estuary, calling out the federal and provincial governments for prioritizing industrial expansion over ecological protection and Indigenous rights. Advocates for cleaner energy alternatives and strict environmental safeguards." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the complex intergovernmental decisions surrounding major energy and port infrastructure projects. Highlights the balancing act between economic development goals, federal climate commitments, and environmental protection, as well as the federal role in coordinating provincial initiatives." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the expansion of energy infrastructure as vital for economic growth and provincial resource development, potentially viewing environmental concerns as regulatory hurdles that impede national prosperity. Focuses on the strategic importance of market access for Alberta's oil." }
-        },
-        "neutral": "Alberta's proposed Roberts Bank oil terminal, with federal port upgrade support, faces environmental opposition concerning the Fraser River estuary, while navigating existing tanker bans and economic objectives."
-      }
-    },
-    {
-      "id": "fed-002",
+      "id": "74888775f284e6065c71d9d8b671a740",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Government to Invest Nearly $2 Billion in Canadian-Made Armoured Vehicles",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-armoured-vehicles-general-dynamics-9.7272503?cmp=rss",
-      "summary": "Prime Minister Mark Carney announced a $2 billion federal investment over four years to acquire 190 armoured combat support vehicles from General Dynamics Land Systems-Canada. This procurement is positioned as the first strategic partnership under the government's defence industrial strategy, aiming to bolster Canada's military capabilities, foster Canadian defence companies, and create over 6,000 jobs through a national supply chain, including companies in B.C., Saskatchewan, Quebec, and Nova Scotia.",
-      "graph": ["Defence Procurement", "Federal Spending", "Industrial Strategy", "Job Creation", "National Security"],
+      "title": "RCMP Official Contradicts Previous Stance on Indian Government Link to Nijjar Murder",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/operation-hardball-rcmp-india-modi-nijjar-9.7272978?cmp=rss",
+      "summary": "RCMP Deputy Commissioner Lisa Moreland stated \"no evidence\" links Indian government officials to crimes by Indian gangs, including the Hardeep Singh Nijjar assassination, directly contradicting earlier statements by former PM Justin Trudeau and RCMP Commissioner Mike Duheme, who previously asserted a \"widespread\" campaign of violence by Indian government agents in Canada.",
+      "graph": [
+        "RCMP",
+        "India",
+        "Nijjar Assassination",
+        "International Relations",
+        "Government Transparency"
+      ],
       "spectrum": {
-        "baseline": { "left": 15, "center": 70, "right": 15 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May question the allocation of significant funds to military hardware over social programs or climate initiatives, while acknowledging the economic benefits of domestic job creation and industrial development. Calls for transparency and ethical oversight in defence contracts." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the government's strategic procurement process, the economic impact of federal contracts on Canadian industry, and the objective of enhancing national defence capabilities. Highlights the 'build, partner, buy' framework for industrial strategy." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports increased defence spending and domestic military procurement as crucial for national sovereignty and security. Emphasizes the economic advantages of local job creation and strengthening Canadian manufacturing, seeing it as a sound investment." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canada is investing nearly $2 billion in domestic armoured vehicle production, enhancing defence capabilities and stimulating economic growth through a national industrial strategy and job creation."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Highlights potential political interference or shifting narratives in sensitive international/security matters, raising concerns about government accountability."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the factual discrepancy in official statements from law enforcement and government, emphasizing the need for clarity and consistency in public communication regarding ongoing investigations and foreign relations."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Questions the coherence and credibility of government and law enforcement communications on foreign influence, potentially suggesting a lack of decisive action or shifting political expediency."
+          }
+        },
+        "neutral": "A senior RCMP official's recent comments regarding the lack of evidence linking the Indian government to the Nijjar assassination diverge from prior official Canadian statements, creating a perception of inconsistent messaging on a high-profile international and criminal investigation."
       }
     },
     {
-      "id": "fed-003",
+      "id": "f5f14228965f3fcf228e9327663f73d8",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "U.S. Republicans Criticize Canada Over Wildfire Smoke and Air Quality Impact",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/widlfires-smoke-air-quality-michigan-congress-republicans-9.7272538?cmp=rss",
-      "summary": "Republican members of the U.S. Congress, specifically from Michigan, issued a sharply worded letter to Prime Minister Mark Carney, accusing Canadian federal and provincial governments of inaction in preventing wildfires that cause widespread smoke and poor air quality across the northeastern U.S. and Central Canada. The letter warns of potential independent U.S. action for cross-border fire prevention, contrasting with the U.S. Ambassador's message of bilateral cooperation on shared challenges.",
-      "graph": ["International Relations", "Environmental Policy", "Wildfires", "Air Quality", "Cross-Border Issues"],
+      "title": "U.S. Trade Envoy Dismisses Canada's Trade Concessions as CUSMA Negotiations Stall",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/cusma-trade-negotiations-netflix-tax-dst-9.7273212?cmp=rss",
+      "summary": "U.S. Trade Representative Jamieson Greer indicated minimal progress in CUSMA negotiations despite Canada rolling back its digital services tax and online streaming services tax. Greer stated Canada \"don't really get credit for doing something bad and then undoing it,\" while Canada maintains it has offered fair proposals for renewal before the 2036 expiry.",
+      "graph": [
+        "CUSMA",
+        "Trade Negotiations",
+        "Digital Services Tax",
+        "Canada-U.S. Relations",
+        "Economic Policy"
+      ],
       "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Contextualizes wildfires within the broader climate change crisis, advocating for more robust federal and provincial environmental policies and international cooperation on climate action. May view the U.S. Republican criticism as politically motivated or an attempt to deflect from their own climate responsibilities." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic exchange and the complexities of managing cross-border environmental issues. Explores the differing tones of official U.S. communication and the challenges of federal-provincial coordination in Canada's response to natural disasters with international implications." },
-          "right": { "label": "Conservative Context", "synthesis": "May underscore provincial autonomy in natural resource management, potentially criticizing federal overreach or insufficient provincial action. Views U.S. criticism as a legitimate concern for sovereign nations regarding cross-border impacts, emphasizing accountability in governance and resource stewardship." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "U.S. Republicans criticized Canadian governments for perceived inaction on wildfires causing cross-border air quality issues, prompting a diplomatic exchange that highlights differing approaches to environmental and international cooperation."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May view the U.S. stance as aggressive and dismissive of Canada's sovereignty in tax policy, potentially advocating for stronger Canadian negotiation tactics rather than concessions."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the diplomatic and economic implications of the stalled trade talks, focusing on the procedural challenges and the need for mutually beneficial resolutions to ensure trade stability."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the need for Canada to avoid \"trade irritants\" that provoke U.S. retaliation, suggesting that proactive alignment with major trading partners' expectations is crucial for economic stability."
+          }
+        },
+        "neutral": "The U.S. trade envoy expressed dissatisfaction with the pace of CUSMA negotiations and discounted Canada's previous rollbacks of digital and streaming taxes, indicating ongoing bilateral trade tensions despite Canadian concessions."
       }
     },
     {
-      "id": "fed-004",
+      "id": "97e68c199a0d8109d94943f54802c67b",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada Anticipates Following U.S. Lead on Permanent Daylight Saving Time",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/permanent-daylight-saving-time-9.7271404?cmp=rss",
-      "summary": "Following the U.S. House of Representatives' vote to make daylight saving time permanent, Canada is considering its response. While provinces like Saskatchewan, Yukon, B.C., and Alberta have already abandoned seasonal clock changes, others, including Ontario, are awaiting collective action, particularly from key U.S. states and Quebec. A Liberal MP plans to introduce federal legislation to initiate interprovincial talks aimed at establishing a year-round national standard time.",
-      "graph": ["Legislative Harmonization", "Interprovincial Policy", "International Policy", "Time Zones"],
+      "title": "PM Carney Clarifies Gordie Howe Bridge Toll Revenue Sharing Agreement",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/windsor/carney-presser-gord-bridge-9.7272695?cmp=rss",
+      "summary": "Prime Minister Mark Carney clarified that net revenues from the Gordie Howe International Bridge will be split with the U.S. for 15 years, but no toll revenue sharing will occur until Canada's $6.4 billion investment debt is fully repaid. This statement followed speculation regarding the deal for the delayed bridge opening.",
+      "graph": [
+        "Gordie Howe Bridge",
+        "Infrastructure",
+        "Canada-U.S. Agreement",
+        "Public Finance",
+        "International Projects"
+      ],
       "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports a federal initiative to harmonize time across Canada, seeing it as a pragmatic step to reduce confusion and potential health impacts of time changes. Advocates for a nationally consistent approach that prioritizes public well-being." },
-          "center": "Analyzes the federal implications of U.S. legislative action on time change and the challenges of achieving interprovincial consensus. Focuses on the various provincial positions, economic considerations, and the procedural efforts required to establish a uniform time standard across Canada.",
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes provincial jurisdiction over such matters, advocating for minimal federal intervention unless there is clear economic or logistical necessity. May express skepticism about the need for uniform national standards dictated by external decisions, preferring local control." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The potential U.S. shift to permanent daylight saving time is prompting Canadian provinces to consider alignment, with a proposed federal bill aiming to facilitate national harmonization discussions on a consistent time standard."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May scrutinize the financial structure for public benefit and long-term economic returns, ensuring the deal prioritizes Canadian interests and responsible public spending."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the precise details of the financial agreement and its implications for fiscal responsibility and transparency in large-scale international infrastructure projects."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports clear financial accountability and repayment of Canadian investment, while questioning the initial terms that led to confusion and potential delays in recouping costs."
+          }
+        },
+        "neutral": "Prime Minister Carney confirmed that Canada will only split net revenues from the Gordie Howe International Bridge with the U.S. for 15 years after Canada's initial $6.4 billion investment debt has been fully repaid."
       }
     },
     {
-      "id": "fed-005",
+      "id": "426ceb2e1b1226dd851b4331bb143003",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Port of Vancouver Gateway Strategy Referred to Major Projects Office for Fast-Tracking",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/federal-announcement-port-of-vancouver-delta-bc-9.7272207?cmp=rss",
-      "summary": "Federal Transport Minister Steven MacKinnon announced that the Port of Vancouver Gateway Strategy, including the Roberts Bank Terminal 2 expansion, has been referred to the Major Projects Office for potential designation as a 'project of national interest' to accelerate development. This initiative aims to increase the Port's container capacity by 50% and double Canadian exports to non-U.S. markets by 2035. Tsawwassen First Nation stated their consent is conditional on hundreds of enforceable protective measures, emphasizing that these cannot be compromised for efficiency.",
-      "graph": ["Infrastructure Development", "Economic Strategy", "Federal Policy", "Indigenous Consultation", "Port Expansion"],
+      "title": "Internal Audit Reveals Health and Safety Challenges for Canadian Diplomats in U.S.",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-diplomats-audit-gun-violence-housing-issues-9.7272394?cmp=rss",
+      "summary": "A Global Affairs Canada audit found that Canadian diplomats and staff in the U.S. face significant safety risks (due to crime, firearms), high health care costs leading to personal debt, and housing issues. These concerns echo those raised by the Professional Association of Foreign Service Officers in early 2024.",
+      "graph": [
+        "Diplomatic Service",
+        "Global Affairs Canada",
+        "Employee Welfare",
+        "Health Care Costs",
+        "Security Risks"
+      ],
       "spectrum": {
-        "baseline": { "left": 25, "center": 50, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports economic development that aligns with environmental protection and strong Indigenous rights. Emphasizes the critical importance of upholding all treaty conditions and ensuring genuine consent and benefit-sharing for impacted First Nations, opposing any 'fast-tracking' that could undermine these principles." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the federal government's efforts to streamline major infrastructure projects for economic benefit while acknowledging the complex regulatory environment and the imperative of Indigenous consultation. Focuses on the mechanisms for project acceleration and the ongoing dialogue with stakeholders." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for expedited approval of national infrastructure projects like port expansions, viewing them as essential for economic competitiveness and increased trade. May prioritize efficiency and reduced regulatory burdens to attract investment and boost exports, while still acknowledging the need for Indigenous input." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The federal government is fast-tracking the Port of Vancouver's expansion, including Roberts Bank Terminal 2, to boost exports, with Tsawwassen First Nation emphasizing the non-negotiability of environmental and Indigenous rights conditions."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the need for robust support systems for federal employees, advocating for better benefits and working conditions to ensure staff well-being and equitable access to essential services abroad."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Highlights administrative and logistical challenges within federal foreign service operations, calling for systemic improvements to ensure the safety and welfare of diplomatic staff."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May focus on the efficiency and cost-effectiveness of diplomatic missions, while acknowledging the need to address critical employee welfare issues to maintain operational integrity."
+          }
+        },
+        "neutral": "An internal audit by Global Affairs Canada identified that Canadian diplomatic staff stationed in the U.S. encounter substantial challenges related to health care costs, housing affordability, and security risks."
       }
     },
     {
-      "id": "fed-006",
+      "id": "b30349666f77259f93cf1156e7e40a0c",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Experts Advocate for Covert Testing of AI Chatbots for Harmful Advice",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-experts-call-for-mystery-shopping-of-ai-chatbots-to-test-if-they-are/",
+      "summary": "Experts propose \"mystery shopping\" AI chatbots to verify company claims about safety features, particularly concerning advice on self-harm and child bullying. This recommendation is aimed at Ottawa's future Digital Safety Commission to proactively test AI systems for potential harms.",
+      "graph": [
+        "AI Regulation",
+        "Digital Safety",
+        "Chatbots",
+        "Child Protection",
+        "Public Policy"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Prioritizes public safety and ethical AI development, advocating for strong regulatory oversight and consumer protection measures to mitigate technological harms, especially for vulnerable populations."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the practical implementation of regulatory mechanisms to verify AI safety claims, balancing innovation with responsible governance and consumer trust."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May express concerns about potential over-regulation stifling technological innovation, while recognizing the necessity of targeted oversight to address specific and severe risks like self-harm advice."
+          }
+        },
+        "neutral": "Experts recommend that Ottawa's proposed Digital Safety Commission implement \"mystery shopping\" to test AI chatbots for harmful content, such as advice on self-harm or child bullying, to ensure their safety features are effective."
+      }
+    },
+    {
+      "id": "40632b4b7c1266e797a7a13c932f90a9",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Carney States No Gordie Howe Bridge Toll Sharing Until Debt Repaid",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11968511/no-sharing-gordie-howe-bridge-tolls-debt-repaid-carney/",
-      "summary": "Prime Minister Mark Carney clarified that revenues from Gordie Howe International Bridge tolls will not be shared with the United States until the bridge's construction debt is fully satisfied. This statement addresses previous reports suggesting an immediate 50/50 split of toll revenues with the U.S. upon project completion, underscoring Canada's commitment to prioritizing debt repayment for the binational infrastructure project.",
-      "graph": ["International Infrastructure", "Federal Finance", "Cross-Border Agreements"],
+      "title": "Federal Government Places Canadian Forces on Standby for Ontario Wildfire Support",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11969785/canadian-armed-forces-standby-ontario-wildfires/",
+      "summary": "Defence Minister David McGuinty announced that the Canadian Armed Forces are on standby to assist with the ongoing Ontario wildfires, though currently, provincial and federal emergency preparedness agencies are deemed capable of handling the situation.",
+      "graph": [
+        "Wildfires",
+        "Emergency Response",
+        "Canadian Armed Forces",
+        "Inter-governmental Cooperation",
+        "Ontario"
+      ],
       "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports transparent financial management of public infrastructure projects. Emphasizes responsible use of public funds and ensuring that international agreements serve Canada's long-term economic interests without undue burden on taxpayers or users." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the Prime Minister's clarification regarding the financial terms of a major international infrastructure project. Focuses on the established repayment schedules, funding mechanisms, and the importance of clear communication in cross-border agreements." },
-          "right": { "label": "Conservative Context", "synthesis": "Commends fiscal responsibility in managing large infrastructure debts. Supports Canada retaining full control of its share of toll revenues to service debt, ensuring maximum financial benefit to the Canadian treasury before considering any revenue sharing with international partners." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Prime Minister Carney affirmed that Gordie Howe International Bridge tolls will solely repay construction debt before any revenue sharing with the U.S., clarifying financial terms for the binational project."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the need for robust federal support for provinces in crisis, linking wildfire severity to broader climate change impacts and the importance of proactive disaster response."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the operational aspects of inter-governmental emergency management, highlighting coordination between federal and provincial authorities in disaster relief efforts."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Values efficient and appropriate deployment of national resources in emergencies, supporting federal readiness to assist but also stressing provincial responsibility where capacity exists."
+          }
+        },
+        "neutral": "Canada's Defence Minister confirmed that the Canadian Armed Forces are on standby to provide assistance to Ontario in response to ongoing wildfires, indicating federal readiness if provincial resources become insufficient."
       }
     },
     {
-      "id": "fed-007",
+      "id": "a92e104f7c132ce47e8fb1f97b693e54",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Industrial Carbon Pricing Deemed Complementary to Alberta's New Pipeline",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/16/why-industrial-carbon-pricing-complements-albertas-new-pipeline/",
-      "summary": "An analysis argues that industrial carbon pricing systems, such as Alberta's Technology Innovation and Emissions Reduction (TIER) system, are designed to protect the competitiveness of trade-exposed industries and complement, rather than hinder, new pipeline projects like Alberta's proposed West Coast pipeline. It clarifies that actual carbon costs for facilities are significantly lower than the public 'headline' price due to mechanisms like free allowances and credit trading, emphasizing the policy's intent to balance environmental goals with economic viability.",
-      "graph": ["Carbon Pricing", "Energy Policy", "Industrial Policy", "Federal-Provincial Relations", "Economic Competitiveness"],
+      "source": "National Post",
+      "title": "Opposition Demands Transparency on Gordie Howe Bridge Toll Deal Details",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/politics/carney-poilievre-gordie-howe-bridge-deal",
+      "summary": "Opposition Leader Pierre Poilievre has publicly challenged Prime Minister Mark Carney to release the full details of the Gordie Howe International Bridge toll revenue sharing agreement, questioning what Canada may have \"negotiated away\" to the U.S.",
+      "graph": [
+        "Gordie Howe Bridge",
+        "Political Accountability",
+        "Trade Negotiations",
+        "Public Funds",
+        "Government Transparency"
+      ],
       "spectrum": {
-        "baseline": { "left": 10, "center": 20, "right": 70 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the effectiveness of carbon pricing systems if they are significantly diluted by allowances, arguing that while they may enable projects, they might not drive sufficient decarbonization. Advocates for stronger climate policies that genuinely incentivize a transition away from fossil fuels." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the technical design of industrial carbon pricing mechanisms and their intended economic impacts. Reports on the debate surrounding these policies, including how they are structured to balance environmental targets with industrial competitiveness and interprovincial economic interests." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports market-based mechanisms like industrial carbon pricing, particularly when designed with industry competitiveness in mind. Views this approach as a pragmatic way to meet environmental goals without stifling the energy sector, and argues it facilitates large-scale resource projects." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Industrial carbon pricing, through mechanisms like allowances and credit trading, is presented as a system designed to protect industry competitiveness and support new energy infrastructure projects, with actual costs for facilities being lower than publicized rates."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates for complete transparency in government dealings, particularly on major infrastructure projects and international agreements, ensuring public oversight and democratic accountability."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the procedural necessity of disclosing public agreements to allow for informed debate and scrutiny of government decisions affecting national finances and foreign relations."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes fiscal responsibility and national interest in international agreements, demanding clarity on financial terms and an explanation for perceived concessions to foreign partners."
+          }
+        },
+        "neutral": "Opposition Leader Pierre Poilievre has called on Prime Minister Mark Carney to disclose the specifics of the Gordie Howe International Bridge toll revenue sharing agreement, seeking greater transparency on the terms negotiated with the U.S."
       }
     },
     {
-      "id": "fed-008",
+      "id": "7ac15967ee38c114389656fb154b73b5",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Canada's North-South Electricity Trade Highlights National Interprovincial Grid Failure",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/15/80-percent-of-canadas-electricity-trade-moves-north-south-that-number-is-a-national-failure/",
-      "summary": "An editorial criticizes Canada's electricity infrastructure, noting that over 80% of its electricity trade flows north-south with the United States, rather than east-west between provinces. This is highlighted as a 'national embarrassment' amid national electrification goals, particularly due to weak interprovincial transmission ties in Western Canada. A new Calgary-based initiative, Western Transmission Catalysts, is working to overcome the pre-development hurdles that have historically impeded interprovincial grid projects.",
-      "graph": ["Energy Infrastructure", "Interprovincial Trade", "National Strategy", "Economic Integration", "Climate Policy"],
+      "title": "Analysis: Carney Warned Against 'Privilege Policy Trap' Benefiting Elites",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/17/the-privilege-policy-trap-and-why-carney-must-avoid-it-to-succeed/",
+      "summary": "An analysis argues that Prime Minister Mark Carney must avoid \"privilege policies\" – such as mass immigration, lax crime measures, restrictive housing rules, open trade with China, and working-class-burdening climate policies – that disproportionately benefit wealthy elites while imposing costs on the working class, to prevent the political failures seen under the previous Liberal government.",
+      "graph": [
+        "Economic Policy",
+        "Social Inequality",
+        "Political Strategy",
+        "Liberal Party",
+        "Carney Government"
+      ],
       "spectrum": {
-        "baseline": { "left": 10, "center": 20, "right": 70 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust national energy infrastructure and interprovincial cooperation to facilitate a green energy transition. Emphasizes the environmental benefits of efficient power sharing and the need for federal leadership to overcome provincial barriers for a cohesive climate strategy." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the historical and ongoing challenges in developing interprovincial electricity transmission infrastructure. Reports on initiatives aimed at addressing these barriers and the economic and policy implications of fragmented energy grids for national energy security and climate targets." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes the lack of interprovincial energy integration as a failure of national economic strategy and inefficient resource allocation. Advocates for policies that promote internal free trade of electricity and reduce reliance on U.S. markets, emphasizing provincial sovereignty in energy development but also the benefits of market efficiency." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canada's predominantly north-south electricity trade is seen as a national failure, underscoring weak interprovincial grid connections and a lack of integrated national energy infrastructure, particularly hindering electrification goals in Western Canada."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "While often critical of policies that exacerbate inequality, a Left perspective might challenge the categorization of certain policies (like climate action or immigration) as inherently \"privilege policies,\" or advocate for different solutions to address their impacts on the working class."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the political and economic implications of policy choices on different socio-economic groups, focusing on the need for balanced approaches that ensure broad-based prosperity and social cohesion."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly advocates for policies that prioritize the material concerns of the working class, criticizing policies perceived as catering to an \"educated and affluent\" elite and calling for a return to more pragmatic, economically grounded governance."
+          }
+        },
+        "neutral": "Commentary suggests that Prime Minister Mark Carney's success hinges on avoiding a \"privilege policy trap\" where government measures, including on immigration, crime, housing, trade, and climate, disproportionately benefit wealthy elites at the expense of the working class."
       }
     }
   ],
-  "charter": [],
+  "charter": [
+    {
+      "id": "e9365511b8178122d264426c117e3f81",
+      "category": "Charter",
+      "source": "National Post",
+      "title": "Opinion: Residential School Denialism Legislation Raises Free Speech Concerns",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/michael-higgins-theres-no-justice-in-jailing-people-for-residential-school-denialism",
+      "summary": "An opinion piece argues against proposed legislation by some senators and First Nations chiefs that would criminalize residential school \"denialism,\" asserting that such laws would infringe on freedom of expression and constitute an unjust attempt to punish people into believing a specific \"truth.\"",
+      "graph": [
+        "Freedom of Expression",
+        "Hate Speech",
+        "Residential Schools",
+        "Legislation",
+        "Legal Commentary"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Prioritizes the protection of vulnerable groups and the fight against historical revisionism, but may also acknowledge concerns about the breadth of free speech restrictions, seeking a balance."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the legal challenge of balancing freedom of expression (Charter s. 2(b)) with the need to combat hate speech and protect the dignity of Indigenous peoples, analyzing the constitutional limits of such legislation."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly advocates for robust free speech protections, cautioning against government efforts to legislate belief or criminalize opinions, even controversial ones, as a slippery slope to censorship."
+          }
+        },
+        "neutral": "An opinion argues that criminalizing residential school \"denialism\" would pose a challenge to fundamental free speech principles and risks creating an unjust legal precedent."
+      }
+    },
+    {
+      "id": "31b017b35316499313271f81014a450e",
+      "category": "Charter",
+      "source": "The Hub",
+      "title": "Business Leaders Condemn Antisemitism, Call for Enforcement of Anti-Hate Laws",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/17/canadian-values-are-our-values/",
+      "summary": "Nearly 90 prominent non-Jewish Canadian business and community leaders publicly condemned antisemitism in a national letter, demanding enforcement of existing anti-hate laws. This act challenged the typical corporate silence on contentious issues and advocated for clear condemnation of antisemitism without equivocation.",
+      "graph": [
+        "Antisemitism",
+        "Anti-Hate Laws",
+        "Corporate Responsibility",
+        "Freedom of Speech",
+        "Social Cohesion"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Supports the condemnation of antisemitism and the enforcement of anti-hate laws to protect marginalized communities, seeing it as part of a broader fight against all forms of hate."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Views the statement as a significant civic development promoting social cohesion and the rule of law, highlighting the role of civil society in upholding shared values."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Praises the clear and unequivocal stance against antisemitism, particularly noting the demand for enforcement of existing laws and a departure from \"both-sides\" rhetoric, which it often associates with progressive caution."
+          }
+        },
+        "neutral": "A large group of Canadian business and community leaders issued a public statement condemning antisemitism and calling for the enforcement of Canada's anti-hate laws, marking a notable corporate intervention in a contentious social issue."
+      }
+    },
+    {
+      "id": "52857036cece29a1b02b542e742e97a2",
+      "category": "Charter",
+      "source": "The Hub",
+      "title": "Analysis: Australian University Antisemitism Policy Prompts Canadian Debate on Academic Freedom and Funding",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/17/australia-plans-to-defund-universities-that-dont-stop-their-antisemitism-should-canada/",
+      "summary": "An analysis discusses Australia's plan to \"grade\" and potentially defund universities failing to address antisemitism, sparking debate on whether Canada, facing similar campus issues, should adopt such an interventionist approach. Concerns are raised about academic freedom and free speech versus the need to combat antisemitism.",
+      "graph": [
+        "Antisemitism",
+        "Academic Freedom",
+        "University Funding",
+        "Free Speech",
+        "Public Policy",
+        "Australia"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "While condemning antisemitism, may express strong reservations about government intervention in university autonomy and academic freedom, fearing a chilling effect on legitimate protest and critical discourse."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Explores the policy dilemma of balancing institutional accountability for combating discrimination with the protection of academic and expressive freedoms within educational settings."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports government intervention to ensure universities actively combat antisemitism and maintain safe environments for Jewish students, often viewing such measures as necessary to curb perceived ideological excesses on campuses."
+          }
+        },
+        "neutral": "Australia's proposed policy to grade and potentially defund universities based on their efforts to combat antisemitism has prompted discussion in Canada regarding the balance between government oversight, academic freedom, and addressing antisemitism on campuses."
+      }
+    }
+  ],
   "indigenous": [
     {
-      "id": "ind-001",
+      "id": "586b627ed3ee3a7f80ddb0d3d5272a80",
       "category": "Indigenous",
-      "source": "CBC News",
-      "title": "First Nations Chiefs Challenge Ministers on Major Project Reforms and Reconciliation Efforts",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/indigenous/afn-assembly-ministers-9.7272213?cmp=rss",
-      "summary": "At the Assembly of First Nations (AFN) annual general assembly, federal cabinet ministers faced pointed criticism from chiefs regarding government efforts to fast-track major project approvals. Chiefs unanimously resolved to oppose reforms that might weaken environmental protections or bypass Indigenous rights, advocating for direct engagement with First Nations as sovereign governments. Energy Minister Tim Hodgson reiterated the necessity of First Nations partnership, citing their influence on the Alberta pipeline route away from B.C.'s North Coast.",
-      "graph": ["Indigenous Rights", "Major Projects", "Reconciliation", "Self-Determination", "Environmental Protection"],
+      "source": "The Globe and Mail",
+      "title": "Federal Ministers Reiterate Commitment to First Nations Consultation on Major Projects",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-ministers-promise-first-nations-will-be-consulted-on-carney/",
+      "summary": "Federal ministers have pledged to consult First Nations on all major projects under the Carney government. This commitment, however, was met with skepticism by some Assembly of First Nations delegates, highlighting ongoing concerns about the adequacy and effectiveness of consultation processes.",
+      "graph": [
+        "First Nations Consultation",
+        "Major Projects",
+        "Indigenous Rights",
+        "UNDRIP",
+        "Government Accountability"
+      ],
       "spectrum": {
-        "baseline": { "left": 60, "center": 30, "right": 10 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the assertion of Indigenous sovereignty and self-determination in resource development. Critiques government attempts to streamline projects that may dilute Indigenous rights or environmental safeguards, emphasizing that genuine reconciliation requires full consent and partnership." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the ongoing dialogue and tensions between the federal government and First Nations regarding resource development and the implementation of UNDRIP. Highlights the government's commitment to partnership while navigating the complexities of project approvals and the diverse views within Indigenous communities." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for efficient project approvals to foster economic growth, while acknowledging the Crown's duty to consult. May view some Indigenous demands as potential impediments to national economic projects, advocating for a balanced approach that respects rights without causing undue delays." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "First Nations chiefs at the AFN challenged federal ministers over proposed major project reforms, opposing any weakening of Indigenous rights or environmental protections, and advocating for direct government-to-government engagement on all developments."
-      }
-    },
-    {
-      "id": "ind-002",
-      "category": "Indigenous",
-      "source": "CBC News",
-      "title": "Assembly of First Nations Urges Criminalization of Residential School Denialism",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/indigenous/afn-aga-resolution-residential-school-denialism-9.7271197?cmp=rss",
-      "summary": "The Assembly of First Nations (AFN) passed an emergency resolution calling for Canada to criminalize residential school denialism, seeking to amend the Combating Hate Act (Bill C-9) or create new legislation. First Nations chiefs argue that denying or minimizing the harms of residential schools constitutes hate speech and reopens trauma for survivors. The Justice Minister's office, while acknowledging the seriousness, indicated that residential school denialism does not fit the scope of Bill C-9 and requires dedicated parliamentary study and consultation with Indigenous peoples.",
-      "graph": ["Residential Schools", "Reconciliation", "Hate Speech", "Indigenous Advocacy", "Legislative Reform"],
-      "spectrum": {
-        "baseline": { "left": 65, "center": 25, "right": 10 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for the immediate criminalization of residential school denialism as a necessary step for reconciliation and combating hate speech against Indigenous peoples. Supports legislative measures to protect historical truth and prevent further harm to survivors and communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the AFN's legislative advocacy and the government's response, highlighting the legal complexities of defining and criminalizing denialism within existing hate speech frameworks. Focuses on the procedural aspects of legislative amendment and the need for thorough consultation." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses caution about expanding hate speech laws, citing concerns over free speech principles. While acknowledging the suffering caused by residential schools, prefers educational initiatives and genuine dialogue over criminalization, or suggests a more narrowly defined legal approach after extensive consultation." }
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates for robust, free, prior, and informed consent (FPIC) for Indigenous communities, viewing ministerial promises as a step but emphasizing the need for concrete, legally binding implementation and power-sharing."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the procedural and legal requirements of Crown consultation, seeking effective mechanisms to integrate Indigenous perspectives into project development while managing diverse stakeholder expectations."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the need for clarity and predictability in project approval processes, while recognizing the legal duty to consult Indigenous groups to avoid delays and legal challenges."
+          }
         },
-        "neutral": "The Assembly of First Nations passed a resolution to criminalize residential school denialism as hate speech, prompting a government response indicating the issue's seriousness but suggesting it requires dedicated legislative study beyond the current Combating Hate Act."
-      }
-    },
-    {
-      "id": "ind-003",
-      "category": "Indigenous",
-      "source": "Global News",
-      "title": "Alberta Separatist Lawyer Jeffrey Rath Faces Legal Scrutiny Over First Nation Trust Fund Mismanagement",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11967739/jeff-rath-first-nations-trusts/",
-      "summary": "Jeffrey Rath, an Alberta separatist lawyer, is facing increasing legal challenges, including an interim Mareva order (asset freeze) and a receivership order, over allegations of unauthorized withdrawals and undisclosed trust fees from First Nation settlement funds. Sturgeon Lake Cree Nation is questioning $12 million in withdrawals from its trust, including $11 million paid to Rath's firm. This 'pattern of behaviour' follows similar disputes involving eight other First Nations, raising significant concerns about the financial accountability and governance of Indigenous trust funds managed by Rath's corporation.",
-      "graph": ["Indigenous Governance", "Financial Mismanagement", "Legal Accountability", "Trust Funds", "Fraud"],
-      "spectrum": {
-        "baseline": { "left": 40, "center": 40, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the alleged exploitation of Indigenous trust funds and calls for robust oversight and legal protection for First Nations' financial assets. Highlights systemic issues that allow such alleged misconduct and advocates for greater Indigenous control over their own resources and legal representation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the ongoing legal proceedings, including court orders to freeze assets and appoint a receiver, to investigate and protect First Nation trust funds. Focuses on the judicial process for accountability and the evidence of alleged financial irregularities, without taking a definitive stance on guilt." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes individual responsibility and accountability for alleged financial wrongdoing. Calls for swift legal action and due process to address the alleged mismanagement, reinforcing the importance of strict financial governance and transparency, particularly in high-value trusts." }
-        },
-        "neutral": "Alberta lawyer Jeffrey Rath faces mounting legal challenges and an asset freeze over alleged millions in unauthorized withdrawals and undisclosed fees from First Nation trust funds, highlighting a 'pattern of behaviour' questioned by multiple Indigenous communities."
+        "neutral": "Federal ministers affirmed their commitment to consult First Nations on major government projects, a promise met with some skepticism from Indigenous representatives regarding its practical implementation and impact."
       }
     }
   ],
   "criminal": [
     {
-      "id": "crim-001",
+      "id": "78ee403c20c0255850e056976f082e05",
       "category": "Criminal",
       "source": "CBC News",
-      "title": "Minister of Public Safety Seeks to Detain Alleged Bishnoi Gang Member Amid Murder Charges and Terrorist Links",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-karamveer-singh-murder-anmol-9.7271336?cmp=rss",
-      "summary": "The Minister of Public Safety is appealing an Immigration and Refugee Board decision to release Karamveer Singh, an alleged senior member of the designated terrorist Bishnoi gang, who faces a murder charge in India and is fighting deportation. Federal authorities cite FBI intelligence linking Singh to the gang's leadership in the U.S. before he fled to Canada, and suspicions he ordered an arson attack in Victoria. The government argues Singh poses a significant danger to the public, especially in light of 'Operation Hard Ball,' an international investigation targeting the Bishnoi syndicate's transnational criminal activities, including extortion and targeted killings.",
-      "graph": ["Immigration Detention", "Deportation", "Transnational Crime", "National Security", "Public Safety", "Murder"],
+      "title": "Federal Justice Minister Orders New Trial for Daniel Jolivet After 33 Years in Prison",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/montreal/daniel-jolivet-new-trial-9.7274090?cmp=rss",
+      "summary": "Canada's Justice Minister Sean Fraser ordered a new trial for Daniel Jolivet, a Quebec man convicted of four murders who spent 33 years in prison, citing reasonable grounds for a likely miscarriage of justice. Jolivet, released on bail in 2025, has consistently maintained his innocence, with the Supreme Court having previously reinstated his convictions in 2000.",
+      "graph": [
+        "Miscarriage of Justice",
+        "Wrongful Conviction",
+        "Criminal Justice System",
+        "Justice Minister Review",
+        "Quebec"
+      ],
       "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on due process and human rights within the immigration and detention system, ensuring that national security concerns do not override legal protections. Advocates for rigorous judicial oversight and transparent evidence in cases of alleged gang affiliation and potential deportation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the legal battle between the Minister of Public Safety and an individual fighting deportation, detailing the evidence presented by law enforcement (FBI, RCMP) and the courts' consideration of public safety versus conditions of release. Highlights the complexities of transnational crime investigations." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly prioritizes public safety and national security, supporting aggressive measures to detain and deport individuals linked to transnational crime and terrorism. Advocates for robust law enforcement and immigration controls to protect Canadian citizens from foreign criminal elements." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The Minister of Public Safety is challenging an order to release Karamveer Singh, an alleged Bishnoi gang member facing murder charges in India, citing national security risks and links to transnational criminal activities currently under international investigation."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Highlights systemic failures within the justice system that lead to wrongful convictions, advocating for stronger oversight, review mechanisms, and remedies for the incarcerated."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the procedural integrity of the justice system, emphasizing the importance of conviction review processes and the Minister's role in addressing potential miscarriages of justice."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "While recognizing the need to correct wrongful convictions, might emphasize individual accountability in the initial process, or call for reforms that ensure efficiency while protecting rights."
+          }
+        },
+        "neutral": "The federal Justice Minister ordered a new trial for Daniel Jolivet, a Quebec man incarcerated for 33 years, based on reasonable grounds suggesting a miscarriage of justice in his 1994 four-murder conviction."
       }
     },
     {
-      "id": "crim-002",
+      "id": "f51b5c4006c00fdf65e52c8cf292025d",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Elderly Ontario Woman Loses Nearly $1 Million to Deepfake Mark Carney Investment Scam",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/deepfake-politicians-costing-canadians-life-savings",
-      "summary": "An 86-year-old Ontario woman lost close to $1 million after falling victim to an investment scam that utilized a deepfake video of Prime Minister Mark Carney. The fraudulent video falsely claimed a $350 investment was backed by the Bank of Canada. This incident underscores the escalating threat of sophisticated cybercrime, particularly deepfake technology, and its devastating financial impact on vulnerable populations.",
-      "graph": ["Fraud", "Cybercrime", "Deepfake", "Financial Crime", "Consumer Protection", "Elder Abuse"],
+      "title": "Frank Stronach Sex Assault Conviction Results in Mistrial Due to Witness Narrative Discrepancy",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/frank-stronach-seeks-mistrial",
+      "summary": "A judge declared a mistrial for Frank Stronach's lone sex assault conviction. The decision was based on the risk of a miscarriage of justice, as the narrative presented by the complainant's lawyer differed significantly from the complainant's own testimony.",
+      "graph": [
+        "Mistrial",
+        "Sex Assault",
+        "Criminal Procedure",
+        "Testimony Discrepancy",
+        "Judicial Decision"
+      ],
       "spectrum": {
-        "baseline": { "left": 15, "center": 65, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for stronger government regulation of AI and online platforms to combat deepfake technology and protect consumers, especially vulnerable seniors. Advocates for public education campaigns and accessible support systems for victims of financial fraud." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the specific instance of advanced financial fraud, detailing the methods used by criminals and the substantial financial loss incurred. Focuses on law enforcement's role in investigating such crimes and the challenges of prosecuting perpetrators of sophisticated digital scams." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for individual vigilance and digital literacy to avoid scams. Calls for robust law enforcement efforts to prosecute fraudsters, potentially advocating for stricter penalties for cybercrimes and scams targeting the elderly." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "An elderly Ontario woman lost nearly $1 million to a deepfake video featuring Prime Minister Mark Carney promoting a fraudulent investment, highlighting the rising threat of advanced cybercrime and its impact on vulnerable citizens."
-      }
-    },
-    {
-      "id": "crim-003",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Podcast Duo Wins Defamation Suit Over False Incest Claims",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/podcast-couple-wins-defamation-suit-against-rival-over-incest-claims",
-      "summary": "A podcast couple successfully sued a rival for defamation over false incest allegations, resulting in a court order for the defendant to pay approximately $40,000 in damages and legal costs. This judgment highlights the significant legal consequences for individuals who spread harmful and untrue statements, particularly in online or public media forums, and reinforces the boundaries of acceptable speech.",
-      "graph": ["Defamation", "Civil Law", "Legal Judgment", "Online Harassment", "Freedom of Expression"],
-      "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports legal avenues for victims of online harassment and false accusations, emphasizing the need to protect individuals from reputational harm. Considers how online platforms could be held more accountable for content moderation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the judicial outcome of a civil defamation case, detailing the court's findings and the financial penalties imposed. Focuses on the legal standards for proving defamation and the process for seeking redress through the courts." },
-          "right": { "label": "Conservative Context", "synthesis": "Upholds the importance of personal responsibility for public statements and the legal recourse available for those subjected to false accusations. Supports robust legal frameworks to ensure accountability for libel and slander, particularly in digital spaces." }
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May express concern over how procedural errors can impact justice for complainants in sex assault cases, while acknowledging due process. Could highlight systemic issues in handling such testimonies."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses strictly on the judicial process, emphasizing the importance of consistent evidence and adherence to trial procedure to prevent miscarriages of justice for both the accused and the complainant."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the protection of the accused's rights and the strict adherence to legal procedure, supporting judicial decisions that uphold the integrity of the trial process against flawed evidence or presentations."
+          }
         },
-        "neutral": "A podcast couple won a defamation lawsuit, receiving $40,000 in damages and costs from a rival who spread false incest claims, demonstrating legal repercussions for harmful online statements."
-      }
-    },
-    {
-      "id": "crim-004",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Two Principals Arrested for Separate DUIs in Same Vehicle",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/pair-of-principals-arrested-duis-hours-apart",
-      "summary": "In an unusual incident, two school principals were arrested for impaired driving (DUI) hours apart, both while operating the same vehicle. This event underscores the enforcement of impaired driving laws and the public accountability faced by individuals, particularly those in positions of trust within the community, highlighting the serious consequences of driving under the influence.",
-      "graph": ["DUI", "Impaired Driving", "Law Enforcement", "Public Accountability"],
-      "spectrum": {
-        "baseline": { "left": 10, "center": 70, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May contextualize impaired driving within broader public health and social issues, advocating for comprehensive strategies beyond punitive measures, such as rehabilitation programs and addressing underlying causes. Emphasizes the importance of restorative justice and community impact." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on law enforcement actions regarding impaired driving. Focuses on the factual details of the arrests, the legal process involved in DUI charges, and the societal expectations for public figures, without delving into broader social commentary." },
-          "right": { "label": "Conservative Context", "synthesis": "Stresses the importance of strict law enforcement and individual responsibility for dangerous behaviour like impaired driving. Advocates for clear consequences and maintains that public figures should be held to high standards of conduct, reinforcing law and order." }
-        },
-        "neutral": "Two school principals were arrested for separate DUI incidents in the same car, highlighting law enforcement's response to impaired driving and the accountability for public figures."
-      }
-    },
-    {
-      "id": "crim-005",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Canadian Woman Accused of Assault Faces Doxxing and Detention Amidst Political Tensions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/husband-accused-teen-doxxed-rightists",
-      "summary": "The husband of a Canadian woman accused of slapping a pro-Trump teenager claims they are being subjected to doxxing by right-wing groups, following the alleged incident. The woman is reportedly in a detention center. This situation involves an alleged assault, raises concerns about online harassment, the amplification of minor incidents into significant legal and social challenges, and the potential impact of political polarization on individual lives and legal proceedings.",
-      "graph": ["Assault", "Online Harassment", "Political Expression", "Due Process", "Public Disorder"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 50, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Raises concerns about online vigilantism, doxxing, and the disproportionate punishment faced by individuals for politically charged incidents, especially when amplified by social media. Advocates for fair legal processes and protection against online harassment regardless of political affiliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the alleged assault and the subsequent legal and social ramifications. Focuses on the specifics of the criminal accusation, the legal status of the accused, and the verifiable claims of online harassment, examining the intersection of law, public reaction, and political rhetoric." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the alleged assault as a potential crime and the importance of law and order. May frame the doxxing as a consequence of public outrage over the alleged action, while generally supporting consequences for acts perceived as politically motivated violence or aggression." }
-        },
-        "neutral": "A Canadian woman accused of assaulting a pro-Trump teenager is facing doxxing and detention, with her husband alleging harassment by right-wing groups, highlighting issues of online vigilantism and political polarization."
+        "neutral": "A mistrial was declared in the sex assault conviction of Frank Stronach after the judge identified a significant discrepancy between the complainant's lawyer's narrative and her testimony, raising concerns about a potential miscarriage of justice."
       }
     }
   ],
   "immigration": [
     {
-      "id": "imm-001",
+      "id": "27083049b4efefc685ac9ce61439266e",
       "category": "Immigration",
-      "source": "CBC News",
-      "title": "Canada Pauses New Applications for Parent and Grandparent Sponsorship Program",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/immigration-pause-sponsorship-family-9.7272155?cmp=rss",
-      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has announced a halt on new applications for the Parent and Grandparent Sponsorship Program for the current year. This measure is implemented to manage the high volume of applications and reduce existing processing wait times, which can extend up to 66 months. Despite the pause on new applications, the government will still approve 15,000 permanent residents under the program for 2026 and 2027, as part of broader efforts to restore 'control and sustainability' to the immigration system and address declining public support for high immigration levels.",
-      "graph": ["Immigration Policy", "Family Reunification", "Government Programs", "Wait Times", "Public Opinion"],
+      "source": "Toronto Sun",
+      "title": "Fundraiser Supports Individual Facing Deportation After Visa Expiry in U.S.",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://torontosun.com/news/world/fundraiser-launched-for-maple-leaf-menace",
+      "summary": "A fundraiser has been launched for \"Tracey,\" dubbed the \"Maple Leaf Menace,\" who is facing deportation from the U.S. by ICE due to overstaying her visa by nearly two years.",
+      "graph": [
+        "Deportation",
+        "Immigration Law",
+        "Visa Overstay",
+        "U.S. Immigration",
+        "Fundraiser"
+      ],
       "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the pause as potentially hindering family reunification, a core principle of Canadian immigration. Advocates for increased resources and more efficient processing to meet demand and uphold humanitarian values, rather than restricting access to programs." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the government's administrative decision to manage a popular immigration program, detailing the rationale behind the pause (wait times, demand exceeding capacity) and its alignment with broader immigration levels planning. Focuses on the policy mechanics and official justifications." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports measures to control and manage immigration levels, including pauses on programs with high backlogs, to ensure the sustainability of the system. Emphasizes the need to address public concerns about the pace and impact of immigration on national services and infrastructure." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canada's immigration department has paused new applications for the Parent and Grandparent Sponsorship Program to manage backlogs and wait times, while maintaining existing permanent resident targets and aiming for system sustainability."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May highlight the human impact of strict immigration enforcement and advocate for more compassionate approaches to individuals facing deportation, particularly in cases of non-violent violations."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the application of immigration laws and regulations, acknowledging the legal basis for deportation while noting the public's response and support efforts."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the importance of upholding immigration laws and securing national borders, supporting the enforcement of visa regulations to maintain legal immigration processes."
+          }
+        },
+        "neutral": "An individual, identified as \"Tracey,\" is facing deportation from the U.S. due to an expired visa, leading to a public fundraiser in her support."
       }
     }
   ]
