@@ -1,353 +1,182 @@
 {
   "federalism": [
     {
-      "id": "f_01_wildfires_response",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Minister Defends Ottawa's Response to Ontario Wildfires Amid Critical Calls",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/minister-says-nothing-went-wrong-with-ottawa-s-response-to-ontario-wildfires-9.7274886?cmp=rss",
-      "summary": "Eleanor Olszewski, federal Minister of Emergency Management, defended Ottawa's response to ongoing Ontario wildfires, stating nothing went wrong. This comes as the Ontario government requested federal resources, and First Nations chiefs passed an emergency resolution criticizing the federal and provincial governments for failing northern Ontario First Nations, forcing self-evacuations due to perceived lack of support.",
-      "graph": ["Wildfires", "Federal-Provincial Relations", "Emergency Management", "Government Response", "Disaster Relief"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the perceived inadequacy of federal and provincial support for vulnerable communities, especially First Nations, during a major crisis, advocating for equitable and robust government intervention." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the federal minister's defense of the government's operational response and the intergovernmental coordination challenges in managing widespread natural disasters." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on government accountability and efficiency in disaster response, potentially questioning the effectiveness of current federal initiatives or the need for more localized solutions." }
-        },
-        "neutral": "The federal Minister of Emergency Management defended Ottawa's response to ongoing Ontario wildfires, while First Nations chiefs criticized the lack of federal and provincial support for their communities' evacuations."
-      }
-    },
-    {
-      "id": "f_02_trump_tariffs",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "U.S. President Trump Threatens Tariffs on Canada Over Wildfire Smoke Dispersion",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/us-complaints-trump-widlfire-smoke-9.7274466?cmp=rss",
-      "summary": "U.S. President Donald Trump threatened increased tariffs on Canadian goods, accusing Canada of 'willful negligence' in forest management, leading to wildfire smoke impacting the United States. Canadian officials, including Minister Olszewski and Ontario Premier Ford, defended Canada's efforts and urged the U.S. to provide assistance rather than criticism, highlighting past reciprocal support.",
-      "graph": ["International Relations", "Trade Tariffs", "Wildfires", "Cross-Border Pollution", "U.S.-Canada Relations", "Climate Change"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for international cooperation on shared environmental challenges like climate change, criticizing unilateral economic threats and emphasizing a collaborative approach to disaster mitigation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the diplomatic exchange, political rhetoric, and potential economic repercussions arising from the cross-border environmental issue between Canada and the U.S." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes national economic interests and sovereignty, supporting measures to hold other nations accountable for negative externalities impacting the U.S., even through trade leverage." }
-        },
-        "neutral": "U.S. President Donald Trump threatened new tariffs on Canada, accusing it of negligence over wildfire smoke impacting the U.S., while Canadian officials countered by defending their efforts and calling for U.S. assistance."
-      }
-    },
-    {
-      "id": "f_03_mexico_cusma",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Mexico Reaffirms Trilateral CUSMA Commitment Amidst U.S. Bilateral Trade Progress",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-mexico-trade-talks-cusma-usmca-9.7274363?cmp=rss",
-      "summary": "Mexico's Foreign Secretary Roberto Velasco Álvarez stated his country is not pursuing a separate trade deal with the U.S. that would exclude Canada. This declaration comes despite U.S. Trade Representative Jamieson Greer indicating more progress in bilateral talks with Mexico than with Canada regarding the CUSMA (USMCA) renewal, with both Mexican and Canadian officials emphasizing the agreement's trilateral framework.",
-      "graph": ["International Trade", "CUSMA", "NAFTA", "Canada-U.S.-Mexico Relations", "Trade Negotiations", "Diplomacy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the importance of multilateral trade agreements and stability for all partners, potentially critiquing any efforts to undermine trilateral cooperation for bilateral gain." },
-          "center": { "label": "Procedural Context", "synthesis": "Documents the current status of CUSMA renewal negotiations, the public statements from key diplomatic figures, and the differential progress in bilateral discussions among the three nations." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on national economic interests in trade negotiations, acknowledging the strategic flexibility of bilateral talks while also valuing existing multilateral frameworks when beneficial." }
-        },
-        "neutral": "Mexico's Foreign Secretary affirmed commitment to the trilateral CUSMA agreement, dispelling concerns that Mexico would pursue a separate trade deal with the U.S. at Canada's expense, despite differential progress in bilateral talks."
-      }
-    },
-    {
-      "id": "f_04_gordie_howe_debt",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Gordie Howe Bridge Profit-Sharing Deal Lacks Debt Repayment Provision, Contradicting PM's Stance",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-gordie-howe-bridge-profit-sharing-agreement/",
-      "summary": "A recently revealed side deal for sharing toll profits from the Gordie Howe International Bridge with the U.S. reportedly omits a provision for Canada's debt repayment for the project. This contrasts with earlier statements from the Prime Minister, who indicated that debt servicing would be a factor in the new profit-sharing agreement, raising questions about the financial terms of this major binational infrastructure investment.",
-      "graph": ["International Infrastructure", "Debt Repayment", "Cross-Border Projects", "Canada-U.S. Relations", "Financial Agreements", "Public Finance"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for transparency and equitable financial arrangements in public projects to protect taxpayer interests and ensure fiscal responsibility in large-scale infrastructure investments." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the specifics of the profit-sharing agreement, the discrepancies with previous government statements, and the financial implications of the current terms for the binational bridge project." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques potential government mismanagement or weak negotiation that could lead to unfavorable financial outcomes for Canada, stressing fiscal prudence and clear repayment strategies." }
-        },
-        "neutral": "A new agreement for sharing Gordie Howe International Bridge toll profits with the U.S. reportedly omits a debt repayment provision, contrary to prior statements from the Prime Minister."
-      }
-    },
-    {
-      "id": "f_05_canada_us_wildfire_aid",
+      "id": "federalism-1",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Canada's Historical Wildfire Aid to U.S. Highlighted Amid Current Bilateral Tensions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11969816/canada-us-wildfire-support/",
-      "summary": "As U.S. President Trump issues threats of tariffs due to Canadian wildfire smoke, Canadian officials, including Ontario Premier Doug Ford, have underscored Canada's past reciprocal support to the U.S. during their natural disasters. This provides crucial context to the current diplomatic friction, suggesting a history of mutual aid contrasts with recent 'chirping' from American politicians.",
-      "graph": ["Wildfires", "Canada-U.S. Relations", "International Cooperation", "Disaster Relief", "Diplomacy", "Foreign Policy"],
+      "title": "Conservative Party Appoints MP Dane Lloyd as Alberta Referendum Lead to Counter Separatism",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11971631/conservatives-dane-lloyd-albert-referendum-lead/",
+      "summary": "Conservative Party leader Pierre Poilievre has named Edmonton MP Dane Lloyd as the party's lead for the upcoming Alberta provincial referendum on separation. Lloyd's role will involve engaging with Albertans and addressing their concerns, signaling the federal Conservative party's strategic efforts to maintain national unity and counter separatist sentiment within the province.",
+      "graph": ["Intergovernmental Relations", "National Unity", "Provincial Autonomy", "Federal Politics", "Conservative Party Strategy"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 30, "right": 50 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for continued international solidarity and humanitarian aid during environmental crises, emphasizing shared responsibility and the benefits of mutual support over political posturing." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents factual historical data on cross-border disaster assistance, providing diplomatic context to current tensions and contrasting past cooperation with present political rhetoric." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize the importance of national interests while also acknowledging the value of reciprocal agreements and past aid as a basis for current expectations in international relations." }
+          "left": { "label": "Inclusive Dialogue & Systemic Grievances", "synthesis": "Critiques the focus on mere 'listening' without addressing underlying systemic issues that contribute to regional alienation. Argues for a more fundamental reconsideration of resource sharing, environmental policy, and Indigenous relations within the federation, rather than solely focusing on retaining a province within the existing power structures." },
+          "center": { "label": "Political Strategy & Constitutional Stability", "synthesis": "Analyzes the appointment as a strategic move by a federal party to navigate complex federal-provincial relations and manage internal dissent. Focuses on the political implications for federal unity, the party's electoral prospects, and the formal processes surrounding referendums on constitutional matters." },
+          "right": { "label": "Provincial Rights Within a United Canada & Fiscal Fairness", "synthesis": "Strongly supports national unity but also emphasizes addressing legitimate provincial grievances, particularly those related to economic fairness, resource development, and federal overreach. Views the appointment as an effort to ensure Alberta's voice is heard while maintaining its place in Canada, often advocating for greater provincial autonomy within a strong federation." }
         },
-        "neutral": "As U.S. President Trump threatens tariffs over wildfire smoke, Canadian Premier Doug Ford reminded that Canada has historically provided assistance to the U.S. during their past natural disasters, implying a need for reciprocal support."
+        "neutral": "The federal Conservative Party has appointed MP Dane Lloyd to lead its pro-unity campaign in Alberta, engaging with residents ahead of the provincial referendum on separation to address concerns and advocate for remaining within Canada."
       }
     },
     {
-      "id": "f_06_carney_diversification",
+      "id": "federalism-2",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Conrad Black Criticizes Prime Minister Carney's Failed Economic Diversification Strategy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/carneys-failed-diversification-gambit",
-      "summary": "In an opinion piece, Conrad Black criticizes Prime Minister Mark Carney's economic diversification strategy as a 'failed gambit,' arguing it has not significantly reduced Canada's dependence on trade with the United States. Black advocates for focusing on pro-growth strategies to gradually achieve greater economic independence, suggesting current policies are ineffective.",
-      "graph": ["Economic Policy", "International Trade", "Canada-U.S. Relations", "Diversification", "Government Strategy", "Opinion"],
+      "title": "Public Debate on Financing Methods for New Pipeline Infrastructure",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/how-should-we-pay-for-new-pipelines",
+      "summary": "A public opinion piece discusses various perspectives on funding new pipeline projects in Canada. The debate often involves questions of private vs. public investment, provincial vs. federal roles in resource development and regulatory oversight, and the broader economic and environmental implications that affect intergovernmental relations.",
+      "graph": ["Energy Policy", "Infrastructure Funding", "Resource Development", "Federal-Provincial Relations", "Public Investment"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 35, "right": 35 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May argue for strategic government intervention and planned economic development to reduce reliance on specific markets, potentially critiquing the *execution* of diversification if it lacks social or environmental components." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic arguments for and against diversification, evaluating the outcomes of government policy and trade figures without ideological bias." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for free-market principles, critiquing government-led diversification efforts as potentially inefficient or distorting, and emphasizing the importance of strong bilateral trade with the U.S." }
+          "left": { "label": "Environmental Stewardship & Public Accountability", "synthesis": "Emphasizes the environmental costs of new pipelines, advocating for public funds to be directed towards renewable energy and sustainable infrastructure instead. Views public financing of fossil fuel projects as an unsustainable and irresponsible use of taxpayer money, demanding greater transparency and adherence to climate goals." },
+          "center": { "label": "Economic Viability & Regulatory Framework", "synthesis": "Focuses on the pragmatic considerations of infrastructure development, including market demand, economic benefits, and the regulatory approval process. Considers whether projects are financially sound and align with national energy strategies, balancing various stakeholder interests." },
+          "right": { "label": "Resource Sovereignty & Market-Driven Investment", "synthesis": "Advocates for private sector-led development of pipelines as essential for economic prosperity and resource extraction, particularly in provinces rich in natural resources. Supports minimal government interference and robust infrastructure to get Canadian resources to market, viewing government financing as a last resort or for de-risking private ventures." }
         },
-        "neutral": "Conrad Black critiques Prime Minister Mark Carney's economic diversification strategy, arguing it has failed to reduce Canada's trade dependence on the U.S. and calls for pro-growth strategies."
-      }
-    },
-    {
-      "id": "f_07_pipelines_support",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Poll Indicates Majority Canadian Support for Pipelines, Preference for Alberta-B.C. Project",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/most-canadians-support-oil-pipelines-poll",
-      "summary": "A recent poll reveals that a majority of Canadians support oil pipelines, with a notable preference for the proposed Alberta-B.C. project. This finding is significant given British Columbia's historical resistance to such projects, indicating a possible shift in public opinion regarding energy infrastructure and resource development across the country.",
-      "graph": ["Energy Policy", "Pipelines", "Public Opinion", "Federal-Provincial Relations", "Resource Development", "Infrastructure"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the environmental concerns, Indigenous land rights, and climate change impacts associated with pipeline development, advocating for renewable energy and sustainable alternatives." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents public opinion data objectively, discussing the political and economic implications of pipeline support across different regions and demographics in Canada." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for resource development, economic growth, and energy independence, viewing pipeline construction as crucial for national prosperity and criticizing opposition as hindering progress." }
-        },
-        "neutral": "A recent poll indicates majority support among Canadians for oil pipelines, with a noted preference for the Alberta-B.C. project, even within British Columbia."
-      }
-    },
-    {
-      "id": "f_08_tax_dollars_work",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Analysis of Canadian Government Hospitality Expenses and Bureaucratic Spending",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/17/your-tax-dollars-at-work-13/",
-      "summary": "A weekly analysis of Canadian government proactive disclosure records sheds light on various hospitality and operational expenses incurred by federal agencies and diplomats. This scrutiny highlights significant spending on meals and networking events by officials from institutions like the Canadian Museum of History and Farm Credit Canada, raising questions about the accountability and use of taxpayer funds within the bureaucracy.",
-      "graph": ["Government Spending", "Public Accountability", "Bureaucracy", "Financial Oversight", "Taxpayer Money", "Transparency"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques excessive spending by public officials as a potential misallocation of resources that could be directed towards social programs, advocating for greater transparency and austerity in government administration." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents disclosed financial figures and activities, allowing for an objective assessment of government spending patterns and adherence to financial guidelines and reporting mechanisms." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for fiscal conservatism, reduced government expenditure, and enhanced accountability for taxpayer funds, often criticizing what is perceived as wasteful or unnecessary bureaucratic spending." }
-        },
-        "neutral": "A weekly analysis of government proactive disclosure records details various hospitality and operational expenses by Canadian federal officials, highlighting expenditures at different levels of bureaucracy."
+        "neutral": "The financing of new pipeline infrastructure in Canada remains a topic of public debate, touching on issues of economic investment, environmental concerns, and the respective roles of federal and provincial governments in resource development."
       }
     }
   ],
   "charter": [
     {
-      "id": "c_01_canadian_values_antisemitism",
+      "id": "charter-1",
       "category": "Charter",
-      "source": "The Hub",
-      "title": "Opinion: Prominent Canadian Leaders Condemn Antisemitism, Urge Enforcement of Anti-Hate Laws",
+      "source": "Slaw.ca",
+      "title": "Supreme Court Upholds Constitutionality of Mandatory Minimum Sentence for Obtaining Sexual Services from Minor",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/17/canadian-values-are-our-values/",
-      "summary": "An opinion piece discusses a full-page letter signed by nearly 90 non-Jewish Canadian business and community leaders, explicitly condemning antisemitism and calling for the enforcement of existing anti-hate laws. This act broke with typical corporate reluctance on contentious social issues and argues that 'Canadian values' necessitate clear condemnation of hatred, criticizing previously muted official responses.",
-      "graph": ["Antisemitism", "Hate Speech", "Canadian Values", "Corporate Responsibility", "Freedom of Expression", "Law Enforcement", "Social Justice"],
+      "url": "https://www.slaw.ca/2026/07/19/summaries-sunday-supreme-one-liners-42/",
+      "summary": "The Supreme Court of Canada in Quebec (Attorney General) v. Denis (2026 SCC 25) granted leave to appeal and affirmed the constitutionality of a six-month mandatory minimum sentence for the offense of obtaining sexual services from a minor. This decision reinforces the legal framework for serious sexual offenses and the application of mandatory minimums, implicating Charter challenges to sentencing proportionality.",
+      "graph": ["Mandatory Minimum Sentences", "Sexual Offenses", "Youth Protection", "Supreme Court of Canada", "Charter Rights"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Champions anti-hate legislation and social justice, advocating for strong measures against discrimination and hate speech, while also being mindful of protecting minority rights broadly within civil liberties frameworks." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and societal balance between freedom of expression and the prevention of hate speech, discussing the implications of enforcing anti-hate laws and corporate social responsibility." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize individual liberties, including freedom of speech, and question the role of corporations in taking political stances, while unequivocally condemning clear instances of hatred and advocating for robust law enforcement." }
+          "left": { "label": "Justice Reform & Proportionality", "synthesis": "Raises concerns about the impact of mandatory minimums on judicial discretion and the potential for disproportionate sentences, particularly for marginalized individuals. Advocates for individualized sentencing that considers rehabilitative potential and systemic factors, even while condemning the underlying offense, often through the lens of Charter Section 12 (cruel and unusual punishment)." },
+          "center": { "label": "Judicial Review & Legislative Intent", "synthesis": "Focuses on the Supreme Court's interpretation of constitutional limits on legislative power to impose mandatory minimums, balancing parliamentary intent to deter serious crimes with Charter protections against cruel and unusual punishment. Examines the specific legal arguments and precedents that led to the decision." },
+          "right": { "label": "Law and Order & Victim Protection", "synthesis": "Strongly supports mandatory minimum sentences for serious crimes, especially those involving minors, as a critical tool for public safety, deterrence, and ensuring justice for victims. Views the Court's upholding of the sentence as a necessary affirmation of the seriousness of the offense and the government's role in protecting vulnerable populations, often arguing against overly broad Charter interpretations that might dilute deterrence." }
         },
-        "neutral": "A public letter signed by nearly 90 Canadian business and community leaders condemned antisemitism and advocated for the enforcement of anti-hate laws, contrasting with previous government and corporate responses."
+        "neutral": "The Supreme Court of Canada has affirmed the constitutionality of a six-month mandatory minimum sentence for obtaining sexual services from a minor, a decision that clarifies the legal boundaries of such penalties in criminal law, specifically concerning Charter challenges."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "i_01_afn_treaty_rights",
+      "id": "indigenous-1",
       "category": "Indigenous",
       "source": "CBC News",
-      "title": "Assembly of First Nations Demands Protection of Treaty Rights Amid Alberta Separatism Discussions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/edmonton/assembly-first-nations-separation-resolution-treaty-rights-9.7274690?cmp=rss",
-      "summary": "The Assembly of First Nations (AFN) passed an emergency resolution calling on federal and provincial governments to protect treaty rights from potential threats posed by Alberta separatism. The resolution asserts that no province has the legal authority to unilaterally alter or extinguish treaty rights or the constitutional relationship between First Nations and the Crown, emphasizing the need for consultation and consent on constitutional changes.",
-      "graph": ["Indigenous Rights", "Treaty Rights", "Federal-Provincial Relations", "Alberta Separatism", "UNDRIP", "Crown Obligations", "Constitutional Law"],
+      "title": "Alberta First Nations Mobilize Voters Against Provincial Separatism Referendum",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/alberta-first-nations-rock-the-vote-separatism-referendum-9.7274549?cmp=rss",
+      "summary": "First Nations leaders in Alberta, particularly Grand Chief Trevor Mercredi of Treaty 8, are launching a 'Rock the Vote' campaign to increase on-reserve voter turnout in the upcoming October provincial referendum. The goal is to oppose the separatist movement and protect treaty rights, replicating a successful 2015 federal election drive. Challenges include ensuring First Nations people have necessary ID for voting.",
+      "graph": ["Indigenous Voting Rights", "Provincial Referendum", "Federalism", "Treaty Rights", "Political Mobilization"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 30, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the paramountcy of Indigenous self-determination and treaty rights, supporting the AFN's call for meaningful consultation and consent, and critiquing any provincial moves that undermine these constitutionally protected rights." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the AFN's resolution, the legal and constitutional arguments regarding treaty rights, and the jurisdiction of provincial and federal governments concerning Indigenous land and governance." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on provincial autonomy and constitutional boundaries, while acknowledging the legal framework of treaty rights and the Crown's obligations within the Canadian legal system." }
+          "left": { "label": "Indigenous Sovereignty & Political Empowerment", "synthesis": "Advocates for greater Indigenous political agency and self-determination, seeing this mobilization as a defense of inherent rights against provincial attempts to disrupt national unity, which could further marginalize Indigenous communities. Emphasizes the historical disenfranchisement and the importance of voter participation for self-advocacy and safeguarding treaty obligations from federal and provincial governments." },
+          "center": { "label": "Electoral Process & Intergovernmental Relations", "synthesis": "Focuses on the mechanics of a provincial referendum and the mobilization efforts within established democratic frameworks. Views the First Nations' campaign as a legitimate expression of political will within the Canadian federal system, highlighting the interplay between provincial autonomy discussions and the interests of distinct Indigenous governments." },
+          "right": { "label": "Provincial Autonomy vs. National Unity & Property Rights", "synthesis": "While generally opposing separatism for national unity, some right-leaning perspectives might view this Indigenous mobilization as an internal provincial matter that could complicate Alberta's pursuit of greater autonomy. Others might align with the anti-separatist stance from a national unity perspective, but potentially also view Indigenous 'Rock the Vote' campaigns through a lens of special interest group influence rather than inherent rights." }
         },
-        "neutral": "The Assembly of First Nations passed a resolution urging federal and provincial governments to protect treaty rights from potential impacts of Alberta separatism, arguing no province can unilaterally alter these rights."
+        "neutral": "Alberta First Nations are actively organizing a 'Rock the Vote' campaign to ensure high voter turnout in the provincial referendum, aiming to counter separatist proposals and protect existing treaty rights and relationships within the Canadian federation."
       }
     },
     {
-      "id": "i_02_namaygoosisagagun_evac",
+      "id": "indigenous-2",
       "category": "Indigenous",
       "source": "National Post",
-      "title": "Namaygoosisagagun First Nation Members Forced to Self-Evacuate During Devastating Wildfire",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/ontario-wildfire-namaygoosisagagun-first-nation",
-      "summary": "Members of Namaygoosisagagun First Nation in northwestern Ontario were forced to self-evacuate by boat as raging wildfires consumed their community, with harrowing accounts of residents, including a 13-year-old, heroically rescuing others. This event starkly highlights the severe impact of wildfires on Indigenous communities and the reported inadequacy of timely emergency support from external agencies.",
-      "graph": ["Indigenous Communities", "Wildfires", "Emergency Evacuation", "First Nations Resilience", "Disaster Response", "Community Impact"],
+      "title": "Profile of Young, Pragmatic First Nations Chief Focused on Poverty Alleviation",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/hes-30-pragmatic-and-possibly-our-most-crucial-first-nations-chief",
+      "summary": "This article profiles Aaron Pete, a 30-year-old First Nations chief, lawyer, and podcaster, highlighting his pragmatic approach to lifting his people out of poverty. His mission focuses on developing and implementing replicable strategies for economic and social improvement within Indigenous communities, potentially making him a crucial figure in contemporary First Nations leadership.",
+      "graph": ["Indigenous Leadership", "Poverty Reduction", "Community Development", "Pragmatism", "Economic Empowerment"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 40, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes systemic failures in emergency response for Indigenous communities, advocating for increased resources, self-governance in emergency management, and addressing root causes of vulnerability and inequality." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides a factual account of the evacuation and the challenges faced by the First Nation, documenting the human impact of the disaster and the reported deficiencies in official support mechanisms." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on individual heroism and community resilience in the face of adversity, while also potentially questioning the efficiency and responsiveness of government emergency services at all levels." }
+          "left": { "label": "Self-Determination & Systemic Change", "synthesis": "Applauds Indigenous leaders who champion self-determination and work to dismantle systemic barriers to prosperity. Sees pragmatic strategies as essential for addressing historical injustices and fostering equitable development, potentially advocating for greater federal support and recognition of Indigenous governance." },
+          "center": { "label": "Effective Governance & Sustainable Development", "synthesis": "Focuses on the practical success of leadership in achieving tangible outcomes for communities. Values innovative, replicable strategies that demonstrate effective governance and sustainable development, often emphasizing accountability and efficient resource management regardless of political leanings." },
+          "right": { "label": "Economic Empowerment & Individual Responsibility", "synthesis": "Praises leaders who promote economic independence and entrepreneurial spirit within their communities. Views pragmatic, results-oriented approaches as a path away from reliance on government assistance, aligning with principles of self-sufficiency and market-based solutions, while still acknowledging the unique context of First Nations." }
         },
-        "neutral": "Namaygoosisagagun First Nation members were forced to self-evacuate by boat from a raging wildfire that destroyed their community, highlighting the severe impact on Indigenous communities and the need for improved emergency response."
+        "neutral": "A profile piece highlights Aaron Pete, a 30-year-old First Nations chief, lawyer, and podcaster, recognized for his pragmatic and replicable strategies aimed at poverty reduction and community development within his Indigenous community."
       }
     }
   ],
   "criminal": [
     {
-      "id": "cr_01_pat_king_resentencing",
-      "category": "Criminal",
-      "source": "CBC News",
-      "title": "Freedom Convoy Leader Pat King's Intimidation Acquittal Overturned, Ordered for Resentencing",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/ottawa/convoy-leader-pat-king-loses-at-appeal-court-to-be-resentenced-9.7274254?cmp=rss",
-      "summary": "Pat King, a key figure in the 2022 convoy protests, will be resentenced after the Ontario Court of Appeal overturned his acquittal on an intimidation charge, deeming his original punishment too lenient. The appeal court concluded King played a central role in a 'coordinated, targeted attack on Ottawa residents' aimed at coercing policy changes through disruptive criminal conduct, and will now face a new sentencing hearing.",
-      "graph": ["Freedom Convoy", "Criminal Law", "Appeals Court Decision", "Public Order", "Intimidation", "Sentencing", "Protest Law"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of upholding public order, accountability for actions that disrupt society, and the rule of law, particularly against those who incite civil disobedience." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the judicial process, the appellate court's reasoning for overturning the acquittal, and the procedural next steps of resentencing, focusing on the legal interpretation of criminal conduct." },
-          "right": { "label": "Conservative Context", "synthesis": "Might express concerns about judicial overreach or perceived political motivations in prosecuting protest leaders, while also acknowledging the need for individual accountability within the legal framework." }
-        },
-        "neutral": "The Ontario Court of Appeal overturned Pat King's acquittal on an intimidation charge related to the 2022 convoy protests, ordering a new sentencing hearing and finding his previous punishment too lenient."
-      }
-    },
-    {
-      "id": "cr_02_iran_terror_nexus",
+      "id": "criminal-1",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Opinion: Iran's Terror-Crime Nexus Poses Growing Threat to Canadian National Security",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/noah-shack-irans-terror-crime-nexus-is-a-growing-threat-to-canadians",
-      "summary": "Noah Shack argues in an opinion piece that a growing terror-crime nexus linked to Iran constitutes an increasing threat to Canadians, necessitating an evolution in Canada's counterterrorism approach. The analysis implies a call for strengthened intelligence and law enforcement measures to combat foreign-sponsored criminal and terrorist activities within Canada's borders.",
-      "graph": ["National Security", "Organized Crime", "Counterterrorism", "Foreign Interference", "Iran", "Geopolitics"],
+      "title": "Supreme Court Intervention Prevents Sex Offender from National Registry Enrollment Discussion",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/jamie-sarkonak-why-this-sex-offender-wont-have-to-go-on-the-national-registry",
+      "summary": "An opinion piece discusses a Supreme Court decision that has led to a sex offender not being included on the national registry, a measure previously mandatory. The article implies that the Supreme Court's ruling altered the application of mandatory registration for certain sexual offenders, sparking debate on public safety versus individual rights within the criminal justice system.",
+      "graph": ["Sex Offender Registry", "Supreme Court Ruling", "Criminal Justice", "Public Safety", "Individual Rights"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May focus on the complex geopolitical factors contributing to such threats and the importance of addressing root causes, while ensuring civil liberties are protected in counterterrorism efforts." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the intelligence and law enforcement challenges of identifying and mitigating transnational terror-crime networks, advocating for effective, evidence-based security strategies." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes robust national security measures, border control, and intelligence capabilities to protect against foreign threats, advocating for decisive action against state-sponsored crime." }
+          "left": { "label": "Rehabilitation & Rights Protection", "synthesis": "Focuses on the potential for overreach in mandatory registration and the importance of individual rights, including the right to privacy and rehabilitation. Argues that blanket policies may not be proportionate to all offenses and could hinder reintegration without demonstrably enhancing public safety." },
+          "center": { "label": "Judicial Precedent & Legal Interpretation", "synthesis": "Analyzes the Supreme Court's decision based on its legal reasoning, constitutional interpretation, and its impact on the criminal justice system. Examines the balance struck between legislative intent for public safety and judicial protection of individual liberties." },
+          "right": { "label": "Public Safety & Victim Protection", "synthesis": "Strongly advocates for robust public safety measures, including mandatory registration for all sex offenders, to protect potential victims. Views judicial interventions that limit such measures as potentially undermining community safety and weakening the tools available to law enforcement." }
         },
-        "neutral": "An opinion piece asserts that the terror-crime nexus linked to Iran poses a growing threat to Canadians, advocating for an evolution in Canada's counterterrorism strategy to address this new reality."
+        "neutral": "A Supreme Court decision has reportedly impacted the mandatory enrollment of a sex offender on the national registry, prompting discussion on the balance between public safety measures and individual rights within the criminal justice system."
       }
     },
     {
-      "id": "cr_03_kitchener_fake_cash",
+      "id": "criminal-2",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Kitchener Man Allegedly Used Counterfeit Cash to Scam Online Precious Metal Sellers",
+      "source": "Slaw.ca (SOQUIJ)",
+      "title": "Quebec Court Upholds Distracted Driving Conviction for Holding Phone While Using Hands-Free Device",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/kitchener-man-counterfeit-cash-scam-online-sellers-precious-metals",
-      "summary": "A Kitchener man, already facing similar charges, has been accused of using counterfeit cash to defraud online sellers of precious metals. The alleged scam highlights ongoing issues with fraud in online transactions and the challenges faced by law enforcement in tracking repeat offenders in the realm of financial crime.",
-      "graph": ["Fraud", "Counterfeit Currency", "Online Scams", "Financial Crime", "Law Enforcement", "Repeat Offenders"],
+      "url": "https://www.slaw.ca/2026/07/19/summaries-sunday-soquij-636/",
+      "summary": "The Quebec Court of Appeal, in Rahme c. Ville de Laval (2026 QCCA 902), ruled that holding a cellular phone while using a vehicle's integrated hands-free system for a call constitutes an unauthorized use under Article 443.1 of Quebec's Highway Safety Code. The court emphasized that a 'hands-free device' implies the driver does not physically hold the portable device, aligning with the legislature's intent to broadly interpret prohibitions against distracted driving for public safety.",
+      "graph": ["Distracted Driving", "Highway Safety Code", "Quebec Court of Appeal", "Hands-Free Device Interpretation", "Public Safety"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 50, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on consumer protection and the need for robust regulatory frameworks to prevent online fraud, emphasizing support for victims and addressing underlying economic vulnerabilities that may lead to such crimes." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the alleged criminal activities, the ongoing investigation, and the legal process involved in prosecuting individuals for fraud and counterfeit offenses." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes strong law enforcement and severe penalties for financial crimes to deter illicit activities and protect legitimate commerce and individual property rights." }
+          "left": { "label": "Contextual Enforcement & Driver Education", "synthesis": "While acknowledging the dangers of distracted driving, some may argue for greater emphasis on driver education and contextual enforcement, rather than strict literal interpretations that might penalize actions perceived as less distracting. Concerns could be raised about the accessibility of fully hands-free systems for all drivers." },
+          "center": { "label": "Statutory Interpretation & Public Safety Precedent", "synthesis": "Focuses on the court's role in interpreting legislative intent to ensure clarity and consistency in law application. Views the decision as a critical clarification for public safety, establishing a clear standard that 'hands-free' means no physical interaction with the device, thereby reinforcing road safety objectives." },
+          "right": { "label": "Strict Enforcement & Personal Responsibility", "synthesis": "Strongly supports clear and strict enforcement of traffic laws to enhance public safety and uphold personal responsibility while driving. Views the court's ruling as a necessary measure to eliminate ambiguities that could be exploited, reinforcing discipline on the roads and deterring risky behavior." }
         },
-        "neutral": "A Kitchener man, with a history of similar offenses, is accused of using fake currency to defraud online sellers of precious metals, highlighting ongoing concerns about online fraud."
-      }
-    },
-    {
-      "id": "cr_04_north_york_gun_1",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Man Faces Loaded Gun Charges After Asking Police for Fifty Cents in North York",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/man-loaded-gun-charges-asked-cops-for-50-cents-north-york",
-      "summary": "A 20-year-old man in North York faces multiple gun charges after allegedly asking police officers for 50 cents, leading to an interaction where a loaded handgun was seized. Further investigation reportedly uncovered additional ammunition, a master vehicle key, and a stolen Ontario license plate, indicating a broader criminal context.",
-      "graph": ["Gun Violence", "Weapons Charges", "Police Interaction", "Criminal Possession", "Theft", "Public Safety"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May focus on the social determinants of crime and the need for community-based interventions, while also acknowledging the importance of addressing gun violence through comprehensive strategies." },
-          "center": { "label": "Procedural Context", "synthesis": "Details the police encounter, the alleged discovery of illegal items, and the legal charges filed, focusing on the factual sequence of events and the application of criminal law." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes aggressive policing and strict enforcement of gun laws to combat illegal weapon possession and enhance public safety, advocating for tough penalties for offenders." }
-        },
-        "neutral": "A man in North York faces loaded gun and other charges after police interaction following his request for 50 cents led to the discovery of illegal weapons and stolen property."
-      }
-    },
-    {
-      "id": "cr_05_north_york_gun_2",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Man Allegedly Tossed Loaded Gun While Fleeing Police in North York; Second Suspect Sought",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/man-tossed-loaded-gun-running-from-cops-north-york",
-      "summary": "During a police chase in North York, a man allegedly discarded a loaded firearm while attempting to evade arrest. One individual has been apprehended, but authorities are still searching for a second suspect involved in the incident, highlighting ongoing challenges with gun violence and law enforcement pursuits in urban areas.",
-      "graph": ["Gun Violence", "Weapons Charges", "Police Chase", "Evading Arrest", "Public Safety", "Law Enforcement"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Examines the broader context of gun violence and its root causes, while acknowledging the need for effective police work and advocating for community-based crime prevention programs alongside law enforcement efforts." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the police pursuit, the alleged discarding of a firearm, and the ongoing investigation to apprehend additional suspects, focusing on the operational aspects of law enforcement." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the necessity of robust police powers and proactive measures to combat illegal gun possession and apprehend dangerous criminals, prioritizing public safety through firm law enforcement." }
-        },
-        "neutral": "A man allegedly threw a loaded gun while fleeing police in North York; one suspect has been arrested, and authorities are actively searching for a second individual involved in the incident."
-      }
-    },
-    {
-      "id": "cr_06_brampton_shooting",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Teenage Brothers Sought for First-Degree Murder in Deadly Brampton Shooting",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/teenage-brothers-wanted-for-deadly-brampton-shooting",
-      "summary": "Two teenage brothers, aged 17, from Brampton are wanted on first-degree murder charges in connection with the fatal shooting of a 20-year-old man. This incident highlights concerns about youth involvement in serious violent crime and the ongoing efforts by law enforcement to address and prevent such occurrences in the Greater Toronto Area.",
-      "graph": ["Homicide", "Youth Crime", "Gun Violence", "First-Degree Murder", "Law Enforcement", "Brampton Crime"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the societal factors contributing to youth involvement in violent crime, advocating for preventative programs, community support, and addressing systemic issues alongside criminal justice responses." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the investigation, the charges laid against the teenage brothers, and the ongoing police efforts to locate and apprehend the suspects involved in the fatal shooting." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes swift and decisive law enforcement action against violent offenders, regardless of age, advocating for strong penalties to deter serious crimes and ensure public safety." }
-        },
-        "neutral": "Two 17-year-old brothers from Brampton are wanted on first-degree murder charges in connection with the fatal shooting of a 20-year-old man, prompting an active police investigation."
+        "neutral": "The Quebec Court of Appeal has affirmed that a driver is considered to be using a handheld device if they physically hold their phone during a call, even if connected to a vehicle's hands-free system, thereby reinforcing strict distracted driving regulations."
       }
     }
   ],
   "immigration": [
     {
-      "id": "im_01_broken_screening",
+      "id": "immigration-1",
       "category": "Immigration",
-      "source": "The Hub",
-      "title": "Report Alleges Canada's Immigration System Vulnerable to Exploitation by Transnational Crime Gangs",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/17/bishnoi-indictments-reveal-canadas-immigration-system-has-a-broken-screening-process-gangs-exploit-to-recruit-foot-soldiers-internationally/",
-      "summary": "U.S. indictments against the India-based Bishnoi crime syndicate reveal allegations that Canada's immigration system has a 'broken screening process,' enabling gangs to recruit foot soldiers using fraudulent student and temporary work visas. Experts, including a former CBSA official, highlight this as a long-standing issue stemming from reliance on easily-forged documents and insufficient background checks for temporary residents.",
-      "graph": ["Immigration Policy", "Organized Crime", "National Security", "Visa Fraud", "Border Security", "Screening Process", "Transnational Crime"],
+      "source": "CBC News",
+      "title": "Canada Implements Temporary Travel Ban on Foreign Nationals from Congo Due to Ebola Outbreak",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/canada-congo-ebola-9.7275782?cmp=rss",
+      "summary": "The Canadian government has enacted temporary border measures, effective July 19, 2026, until August 29, 2026, to deny entry to foreign nationals who have been in the Democratic Republic of the Congo within the past 21 days due to an Ebola outbreak. Canadian citizens, permanent residents, and those registered under the Indian Act arriving from the DRC will undergo health assessments and a 21-day quarantine.",
+      "graph": ["Public Health", "Border Control", "Ebola Outbreak", "Temporary Travel Restrictions", "Immigration Policy"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 25, "center": 50, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of fair immigration processes and support for new immigrants, while also acknowledging the need to address exploitation vulnerabilities through improved oversight and support for vulnerable individuals." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative and operational challenges within the immigration screening process, discussing the policy implications of identified loopholes and the need for enhanced verification methods." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for stricter immigration controls, enhanced security screening, and measures to prevent criminal exploitation of temporary visa programs, prioritizing national security and the integrity of the immigration system." }
+          "left": { "label": "Humanitarian Concern & Global Health Equity", "synthesis": "Acknowledges the necessity of public health measures but raises concerns about potential discriminatory impacts on specific populations and the broader ethical implications of restricting movement based on origin. Emphasizes international cooperation and humanitarian support for affected regions rather than solely punitive border controls." },
+          "center": { "label": "National Security & Public Health Protocols", "synthesis": "Focuses on the government's primary responsibility to protect national public health through evidence-based, temporary border control measures. Views these actions as a necessary, proportionate response to a high-risk infectious disease outbreak, aligning with international health regulations and prioritizing public safety above unrestricted movement." },
+          "right": { "label": "Border Sovereignty & National Interest Protection", "synthesis": "Supports strict border enforcement and travel restrictions as a critical tool for national security and safeguarding citizens from external threats, including health crises. Prioritizes national interests and the integrity of borders, potentially advocating for even broader or longer-term restrictions based on risk assessments." }
         },
-        "neutral": "U.S. indictments reveal alleged exploitation of Canada's immigration system by transnational crime gangs recruiting members via student and temporary work visas due to a purportedly 'broken screening process.'"
+        "neutral": "In response to an Ebola outbreak in the Democratic Republic of the Congo, Canada has implemented temporary measures barring entry to foreign nationals who have recently visited the country, while Canadian citizens and permanent residents face health assessments and quarantine upon arrival."
+      }
+    },
+    {
+      "id": "immigration-2",
+      "category": "Immigration",
+      "source": "CBC News",
+      "title": "Alberta Referendum Questions Threaten Health and Education Coverage for Non-Permanent Residents",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-immigrant-referendum-explained-9.7274985?cmp=rss",
+      "summary": "Alberta Premier Danielle Smith is proposing five referendum questions in October that, if passed, could significantly alter provincial services for temporary workers and other non-permanent residents. These measures include restricting eligibility for provincially-funded health care and education, imposing a 12-month residency waiting period, or introducing fees for services, raising concerns among critics about their impact and potential contradictions.",
+      "graph": ["Provincial Immigration Policy", "Non-Permanent Residents", "Healthcare Access", "Education Access", "Intergovernmental Conflict", "Referendum"],
+      "spectrum": {
+        "baseline": { "left": 45, "center": 30, "right": 25 },
+        "zones": {
+          "left": { "label": "Social Equity & Immigrant Rights", "synthesis": "Views these proposals as potentially discriminatory and harmful to vulnerable populations, undermining social safety nets and the integration of newcomers. Argues that access to essential services like healthcare and education should not be contingent on immigration status or provincial policy whims, advocating for universal access and federal oversight to protect rights." },
+          "center": { "label": "Constitutional Interpretation & Policy Feasibility", "synthesis": "Examines the legal and logistical challenges of implementing such policies, including potential constitutional conflicts with federal powers and practical difficulties in defining and administering new categories of eligibility and fees. Focuses on the clarity, enforceability, and potential unintended consequences of the proposed referendum questions." },
+          "right": { "label": "Provincial Autonomy & Fiscal Responsibility", "synthesis": "Supports Alberta's right to manage its provincial services and control the costs associated with population growth, including immigration. Advocates for greater provincial control over immigration levels and the allocation of resources, seeing these questions as a legitimate effort to assert provincial jurisdiction and ensure fiscal sustainability." }
+        },
+        "neutral": "Alberta's upcoming provincial referendum includes questions proposed by Premier Danielle Smith that seek to grant the province more control over immigration and could lead to changes in provincially-funded health and education services for temporary and non-permanent residents."
       }
     }
   ]
