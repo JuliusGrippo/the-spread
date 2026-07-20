@@ -1,183 +1,258 @@
 {
   "federalism": [
     {
-      "id": "federalism-1",
+      "id": "vancouver-boats-jurisdiction-federalism",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Conservative Party Appoints MP Dane Lloyd as Alberta Referendum Lead to Counter Separatism",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11971631/conservatives-dane-lloyd-albert-referendum-lead/",
-      "summary": "Conservative Party leader Pierre Poilievre has named Edmonton MP Dane Lloyd as the party's lead for the upcoming Alberta provincial referendum on separation. Lloyd's role will involve engaging with Albertans and addressing their concerns, signaling the federal Conservative party's strategic efforts to maintain national unity and counter separatist sentiment within the province.",
-      "graph": ["Intergovernmental Relations", "National Unity", "Provincial Autonomy", "Federal Politics", "Conservative Party Strategy"],
+      "source": "The Narwhal",
+      "title": "Federalism and Jurisdictional Challenges: Vancouver's Abandoned Boats Problem",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/vancouver-abandoned-boats-false-creek/?utm_source=rss",
+      "summary": "The presence of abandoned boats in Vancouver's False Creek highlights complex jurisdictional challenges between federal (Transport Canada, Coast Guard) and local authorities, environmental hazards, and a connection to the city's housing insecurity crisis. A proposed federal bill aims to address the issue by prohibiting the transfer of boats to individuals unable to maintain them, signaling increased federal involvement in maritime and environmental regulation impacting local communities.",
+      "graph": ["Jurisdictional Disputes", "Federal Legislation", "Environmental Regulation", "Urban Policy"],
       "spectrum": {
-        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "baseline": { "left": 35, "center": 35, "right": 30 },
         "zones": {
-          "left": { "label": "Inclusive Dialogue & Systemic Grievances", "synthesis": "Critiques the focus on mere 'listening' without addressing underlying systemic issues that contribute to regional alienation. Argues for a more fundamental reconsideration of resource sharing, environmental policy, and Indigenous relations within the federation, rather than solely focusing on retaining a province within the existing power structures." },
-          "center": { "label": "Political Strategy & Constitutional Stability", "synthesis": "Analyzes the appointment as a strategic move by a federal party to navigate complex federal-provincial relations and manage internal dissent. Focuses on the political implications for federal unity, the party's electoral prospects, and the formal processes surrounding referendums on constitutional matters." },
-          "right": { "label": "Provincial Rights Within a United Canada & Fiscal Fairness", "synthesis": "Strongly supports national unity but also emphasizes addressing legitimate provincial grievances, particularly those related to economic fairness, resource development, and federal overreach. Views the appointment as an effort to ensure Alberta's voice is heard while maintaining its place in Canada, often advocating for greater provincial autonomy within a strong federation." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the societal and environmental costs, criticizing bureaucratic inertia and advocating for comprehensive solutions that address housing insecurity and environmental protection. Views federal legislative action as necessary to rectify long-standing issues." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the inter-governmental coordination required to manage maritime pollution and safety, and the legislative process of the proposed federal bill. Highlights the practical difficulties of enforcement across different levels of government." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the importance of individual responsibility for property (boats) and the financial burden on taxpayers for cleanup. Questions the efficiency of current regulatory frameworks and may advocate for stricter enforcement or market-based solutions." }
         },
-        "neutral": "The federal Conservative Party has appointed MP Dane Lloyd to lead its pro-unity campaign in Alberta, engaging with residents ahead of the provincial referendum on separation to address concerns and advocate for remaining within Canada."
+        "neutral": "The persistent problem of abandoned boats in Vancouver's False Creek involves interwoven environmental, social, and jurisdictional issues, prompting federal legislative proposals to clarify responsibilities and mitigate hazards."
       }
     },
     {
-      "id": "federalism-2",
+      "id": "trump-carney-wildfire-smoke-federalism",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Public Debate on Financing Methods for New Pipeline Infrastructure",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/how-should-we-pay-for-new-pipelines",
-      "summary": "A public opinion piece discusses various perspectives on funding new pipeline projects in Canada. The debate often involves questions of private vs. public investment, provincial vs. federal roles in resource development and regulatory oversight, and the broader economic and environmental implications that affect intergovernmental relations.",
-      "graph": ["Energy Policy", "Infrastructure Funding", "Resource Development", "Federal-Provincial Relations", "Public Investment"],
+      "source": "CBC News",
+      "title": "US President Trump Pressures PM Carney on Wildfire Smoke, Threatens Tariffs",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/tump-wildfire-smoke-carney-9.7276302?cmp=rss",
+      "summary": "U.S. President Donald Trump directly urged Canadian Prime Minister Mark Carney to address Canada's wildfires, which have caused significant smoke pollution in the United States. Trump reiterated threats of imposing financial penalties or tariffs on Canada, arguing that Canadian wildfire management constitutes 'wilful negligence' impacting American air quality and economy.",
+      "graph": ["International Relations", "Trade Policy", "Environmental Policy", "Bilateral Diplomacy", "Cross-Border Impacts"],
+      "spectrum": {
+        "baseline": { "left": 25, "center": 40, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the global nature of climate change and environmental issues, advocating for international cooperation rather than punitive measures. May criticize the U.S. stance as unilateral and counterproductive to shared environmental goals." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic exchange, the economic implications of potential tariffs, and Canada's federal responsibility in disaster management and international environmental agreements. Focuses on the mechanisms of bilateral relations under pressure." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports calls for Canadian accountability in wildfire management, emphasizing the economic and health impacts on U.S. citizens. May view tariffs as a legitimate tool to ensure other nations address cross-border externalities and protect national interests." }
+        },
+        "neutral": "U.S. President Trump raised concerns about Canadian wildfire smoke impacting the U.S. and threatened retaliatory financial measures during discussions with Prime Minister Carney, escalating a cross-border environmental and economic issue."
+      }
+    },
+    {
+      "id": "poilievre-alberta-referendum-federalism",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Conservative Party Appoints Lead for Alberta Referendum on Separation",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/calgary/dane-lloyd-conservative-referendum-lead-alberta-9.7275791?cmp=rss",
+      "summary": "Conservative leader Pierre Poilievre named Alberta MP Dane Lloyd as the party's lead for the upcoming provincial referendum on separation. While campaigning for Alberta to remain in Canada, Poilievre acknowledged legitimate provincial grievances, framing the federal party's role as listening to Albertans' concerns rather than scolding them, and linking Alberta's prosperity to Canada's overall strength.",
+      "graph": ["Federal-Provincial Relations", "Western Alienation", "Referendum Politics", "National Unity", "Party Strategy"],
       "spectrum": {
         "baseline": { "left": 30, "center": 35, "right": 35 },
         "zones": {
-          "left": { "label": "Environmental Stewardship & Public Accountability", "synthesis": "Emphasizes the environmental costs of new pipelines, advocating for public funds to be directed towards renewable energy and sustainable infrastructure instead. Views public financing of fossil fuel projects as an unsustainable and irresponsible use of taxpayer money, demanding greater transparency and adherence to climate goals." },
-          "center": { "label": "Economic Viability & Regulatory Framework", "synthesis": "Focuses on the pragmatic considerations of infrastructure development, including market demand, economic benefits, and the regulatory approval process. Considers whether projects are financially sound and align with national energy strategies, balancing various stakeholder interests." },
-          "right": { "label": "Resource Sovereignty & Market-Driven Investment", "synthesis": "Advocates for private sector-led development of pipelines as essential for economic prosperity and resource extraction, particularly in provinces rich in natural resources. Supports minimal government interference and robust infrastructure to get Canadian resources to market, viewing government financing as a last resort or for de-risking private ventures." }
+          "left": { "label": "Progressive Context", "synthesis": "Examines the underlying causes of Western alienation, such as resource development policies and environmental concerns, and advocates for inclusive dialogue and federal policies that address diverse regional needs without fueling separatism." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the political maneuvering of the federal Conservative party in response to a provincial initiative, focusing on campaign strategy, the democratic process of referendums, and the constitutional implications of such a vote on national unity." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports addressing Alberta's economic and policy grievances (e.g., pipelines, taxes) to maintain national unity, while also asserting the importance of a strong, unified Canada. May criticize previous federal policies perceived as detrimental to Alberta." }
         },
-        "neutral": "The financing of new pipeline infrastructure in Canada remains a topic of public debate, touching on issues of economic investment, environmental concerns, and the respective roles of federal and provincial governments in resource development."
+        "neutral": "The federal Conservative Party has designated an Alberta MP to lead its efforts in the upcoming provincial referendum on separation, aiming to keep Alberta within Canada while acknowledging the province's stated grievances."
+      }
+    },
+    {
+      "id": "cusma-us-trade-federalism",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Manufacturing Insider Optimistic on US Stance Towards CUSMA Trade Deal",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/why-this-manufacturing-industry-insider-thinks-the-u-s-will-soon-come-around-on-cusma",
+      "summary": "A manufacturing industry insider, the managing director of Marsh Risk Canada, expresses a bullish outlook on U.S.-Canada trade relations, anticipating a more favourable U.S. disposition towards the Canada-United States-Mexico Agreement (CUSMA). This perspective suggests an evolving dynamic in the critical bilateral trade relationship.",
+      "graph": ["International Trade", "Economic Policy", "Bilateral Relations", "Trade Agreements", "Manufacturing Sector"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for CUSMA to include stronger labor and environmental protections, ensuring that trade benefits all segments of society and promotes sustainable practices. Could scrutinize the power dynamics within international trade agreements." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the practical impacts of trade agreements on specific industries and the diplomatic efforts required to maintain stable international economic relationships. Focuses on the mechanics of trade policy and market responses." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of free trade and open markets for economic growth and competitiveness. Supports agreements like CUSMA that reduce barriers and enhance business certainty, viewing any U.S. shift as beneficial for Canadian industry." }
+        },
+        "neutral": "An industry expert predicts an improved U.S. outlook on CUSMA, signaling potential positive shifts in the vital trade relationship between Canada and the United States."
+      }
+    },
+    {
+      "id": "carney-china-alliance-federalism",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Opinion: PM Carney Risks Canada's Middle Power Status by Aligning with China",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/raquel-garbers-carney-will-squander-canadas-middle-power-advantage-by-allying-with-china",
+      "summary": "An opinion piece argues that Prime Minister Mark Carney's foreign policy approach risks squandering Canada's traditional 'middle power' advantage through perceived over-alignment with China. The author advocates for Canada to clearly side with the U.S. and its allies to insulate itself from great power rivalries, prioritizing Western alliances and national interests.",
+      "graph": ["Foreign Policy", "International Relations", "Geopolitics", "Canada-China Relations", "Canada-US Relations"],
+      "spectrum": {
+        "baseline": { "left": 25, "center": 35, "right": 40 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May argue for a nuanced foreign policy that promotes multilateralism and human rights globally, rather than exclusive alliances. Could advocate for a critical engagement with China while maintaining independence and prioritizing global cooperation on issues like climate change." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the pragmatic considerations of balancing economic interests with security concerns in international diplomacy. Focuses on the complexities of maintaining relationships with multiple global powers and the strategic implications of alliance choices." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for prioritizing security interests and aligning closely with traditional Western allies, particularly the U.S., against perceived adversaries like China. Emphasizes protecting national sovereignty, economic integrity, and democratic values." }
+        },
+        "neutral": "An opinion column critically assesses Prime Minister Carney's foreign policy regarding China, arguing that it risks Canada's international standing and advocating for a stronger alignment with the U.S. and its allies."
+      }
+    },
+    {
+      "id": "provincial-federal-economic-reform-federalism",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Fiscal Federalism: Federal Reforms Deemed Crucial for Provincial Economic Health",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/20/the-most-important-provincial-economic-reforms-are-federal/",
+      "summary": "An analysis argues that Canada's fiscal federalism, largely unchanged since 1937, no longer suits current demographic and economic realities. It contends that significant federal reforms—such as modernizing Old Age Security, coordinating tax reform, and transferring tax points to provinces—are essential for provincial economic competitiveness and to address structural deficits, rather than solely provincial initiatives.",
+      "graph": ["Fiscal Federalism", "Intergovernmental Transfers", "Economic Policy", "Aging Population", "Tax Reform", "Provincial Autonomy"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for federal leadership in addressing national economic disparities and ensuring equitable social safety nets across provinces, potentially through stronger transfer payments while maintaining federal oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the need for a comprehensive, evidence-based review of Canada's fiscal architecture to ensure long-term sustainability and efficiency across federal and provincial jurisdictions, promoting collaborative policy-making." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes fiscal responsibility, arguing for greater provincial autonomy through tax point transfers and federal spending restraint. Advocates for reforms to federal entitlements like OAS to alleviate national debt and boost economic competitiveness." }
+        },
+        "neutral": "A commentary highlights the critical need for federal reforms in Canada's fiscal federalism to address systemic economic challenges and enhance provincial competitiveness, suggesting the current architecture is outdated."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-1",
+      "id": "bc-maid-compliance-charter",
       "category": "Charter",
-      "source": "Slaw.ca",
-      "title": "Supreme Court Upholds Constitutionality of Mandatory Minimum Sentence for Obtaining Sexual Services from Minor",
+      "source": "National Post",
+      "title": "B.C. Identifies Hundreds of MAID Compliance Concerns, Lacks Transparency on Outcomes",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/19/summaries-sunday-supreme-one-liners-42/",
-      "summary": "The Supreme Court of Canada in Quebec (Attorney General) v. Denis (2026 SCC 25) granted leave to appeal and affirmed the constitutionality of a six-month mandatory minimum sentence for the offense of obtaining sexual services from a minor. This decision reinforces the legal framework for serious sexual offenses and the application of mandatory minimums, implicating Charter challenges to sentencing proportionality.",
-      "graph": ["Mandatory Minimum Sentences", "Sexual Offenses", "Youth Protection", "Supreme Court of Canada", "Charter Rights"],
+      "url": "https://nationalpost.com/news/b-c-found-hundreds-of-maid-compliance-concerns-in-2024-the-province-wont-say-what-happened",
+      "summary": "British Columbia reported hundreds of 'compliance concerns' in its Medical Assistance in Dying (MAID) cases in 2024, with half involving reporting errors and 353 instances requiring 'education to practitioners' regarding legal requirements and practice standards. The provincial government, however, has not disclosed the specific actions taken or the outcomes of these identified concerns, raising questions about oversight and transparency in a constitutionally protected healthcare service.",
+      "graph": ["Medical Assistance in Dying (MAID)", "Right to Life, Liberty and Security of Person", "Healthcare Policy", "Legal Compliance", "Provincial Oversight"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 30, "center": 35, "right": 35 },
         "zones": {
-          "left": { "label": "Justice Reform & Proportionality", "synthesis": "Raises concerns about the impact of mandatory minimums on judicial discretion and the potential for disproportionate sentences, particularly for marginalized individuals. Advocates for individualized sentencing that considers rehabilitative potential and systemic factors, even while condemning the underlying offense, often through the lens of Charter Section 12 (cruel and unusual punishment)." },
-          "center": { "label": "Judicial Review & Legislative Intent", "synthesis": "Focuses on the Supreme Court's interpretation of constitutional limits on legislative power to impose mandatory minimums, balancing parliamentary intent to deter serious crimes with Charter protections against cruel and unusual punishment. Examines the specific legal arguments and precedents that led to the decision." },
-          "right": { "label": "Law and Order & Victim Protection", "synthesis": "Strongly supports mandatory minimum sentences for serious crimes, especially those involving minors, as a critical tool for public safety, deterrence, and ensuring justice for victims. Views the Court's upholding of the sentence as a necessary affirmation of the seriousness of the offense and the government's role in protecting vulnerable populations, often arguing against overly broad Charter interpretations that might dilute deterrence." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust oversight and clear guidelines to ensure equitable access to MAID while protecting patient rights and autonomy. Emphasizes the importance of ethical practice and transparent reporting to maintain public trust in the healthcare system." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative challenges of implementing complex legislation, the need for clear regulatory frameworks, and the importance of accurate data collection for public accountability. Highlights the balance between patient privacy and public transparency." },
+          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the potential for errors and lack of accountability in MAID provision, advocating for stricter adherence to legal safeguards and increased transparency. May question the broader expansion of MAID eligibility and the sufficiency of current oversight mechanisms." }
         },
-        "neutral": "The Supreme Court of Canada has affirmed the constitutionality of a six-month mandatory minimum sentence for obtaining sexual services from a minor, a decision that clarifies the legal boundaries of such penalties in criminal law, specifically concerning Charter challenges."
+        "neutral": "British Columbia identified numerous compliance issues in its Medical Assistance in Dying (MAID) program, including reporting errors and training needs, but has not publicly detailed the resolutions, prompting calls for greater transparency in this Charter-relevant healthcare service."
+      }
+    },
+    {
+      "id": "sikh-kirpan-gym-charter",
+      "category": "Charter",
+      "source": "Toronto Sun",
+      "title": "Sikh Man Denied Gym Access Over Kirpan, Raising Religious Freedom Concerns",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/provincial/sikh-man-windsor-goodlife-fitness-gym-for-wearing-kirpan",
+      "summary": "A Sikh man was reportedly ordered to leave a Windsor gym for wearing a kirpan, a ceremonial dagger fundamental to his faith. This incident raises questions about the balance between religious freedom, as protected under the Charter and human rights codes, and the private property rights and safety policies of commercial establishments.",
+      "graph": ["Religious Freedom", "Section 2(a) Charter", "Human Rights", "Private Property Rights", "Reasonable Accommodation"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 35, "right": 25 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for the protection of religious freedom and the duty to accommodate religious practices, emphasizing the importance of inclusivity and challenging discriminatory policies in public and private spaces." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines existing legal precedents regarding kirpans in public and private settings, outlining the legal tests for balancing religious rights with legitimate safety concerns and property rights under human rights legislation." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes the rights of private businesses to establish and enforce their own safety policies, and may express concerns about exceptions to general rules, particularly if perceived to impact public safety or commercial autonomy." }
+        },
+        "neutral": "An incident where a Sikh man was denied entry to a gym for wearing a kirpan highlights ongoing tensions between religious freedom protections under the Charter and a private business's right to set its own policies."
+      }
+    },
+    {
+      "id": "scc-medical-patent-charter",
+      "category": "Charter",
+      "source": "Slaw",
+      "title": "Supreme Court Rules Against Patenting Medical Treatment Methods in Canada",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/20/mondays-mix-659/",
+      "summary": "The Supreme Court of Canada issued a 7-2 ruling affirming that methods of medical treatment cannot be patented under Canadian law. This decision, reported in 'Monday's Mix' of legal news, has significant implications for intellectual property rights in the healthcare sector and can be interpreted through the lens of public access to essential medical care, a matter often debated in the context of Charter rights.",
+      "graph": ["Supreme Court of Canada", "Patent Law", "Medical Treatment", "Access to Healthcare", "Intellectual Property", "Public Interest"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 35, "right": 25 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Applauds the ruling as a victory for public health and universal access to medical treatments, prioritizing human well-being over corporate profits and intellectual property monopolies in healthcare." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal reasoning behind the SCC's interpretation of patentable subject matter, balancing innovation incentives with societal needs. Focuses on the judicial function in defining the boundaries of intellectual property law." },
+          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the potential disincentive for innovation and research in the medical field if the commercial protections of patents are limited. Emphasizes the importance of strong intellectual property rights to attract investment and foster technological advancement." }
+        },
+        "neutral": "The Supreme Court of Canada has ruled that medical treatment methods are not patentable in Canada, a decision with wide-ranging implications for intellectual property, innovation, and public access to healthcare."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "indigenous-1",
+      "id": "attawapiskat-diesel-lawsuit-indigenous",
       "category": "Indigenous",
-      "source": "CBC News",
-      "title": "Alberta First Nations Mobilize Voters Against Provincial Separatism Referendum",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/alberta-first-nations-rock-the-vote-separatism-referendum-9.7274549?cmp=rss",
-      "summary": "First Nations leaders in Alberta, particularly Grand Chief Trevor Mercredi of Treaty 8, are launching a 'Rock the Vote' campaign to increase on-reserve voter turnout in the upcoming October provincial referendum. The goal is to oppose the separatist movement and protect treaty rights, replicating a successful 2015 federal election drive. Challenges include ensuring First Nations people have necessary ID for voting.",
-      "graph": ["Indigenous Voting Rights", "Provincial Referendum", "Federalism", "Treaty Rights", "Political Mobilization"],
+      "source": "The Narwhal",
+      "title": "Attawapiskat First Nation Sues Canada and Ontario Over Decades of Diesel Contamination",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/ontario-attawapiskat-diesel-contamination/?utm_source=rss",
+      "summary": "The Attawapiskat First Nation has initiated legal action against both the federal government of Canada and the provincial government of Ontario, seeking redress for decades of diesel contamination on its territory. This lawsuit underscores persistent issues of environmental injustice and the ongoing struggle for Indigenous communities to achieve clean living conditions and assert their inherent rights over land and resources.",
+      "graph": ["Indigenous Rights", "Environmental Justice", "Land Claims", "Government Accountability", "First Nations Lawsuit", "Contamination"],
       "spectrum": {
-        "baseline": { "left": 40, "center": 30, "right": 30 },
+        "baseline": { "left": 45, "center": 30, "right": 25 },
         "zones": {
-          "left": { "label": "Indigenous Sovereignty & Political Empowerment", "synthesis": "Advocates for greater Indigenous political agency and self-determination, seeing this mobilization as a defense of inherent rights against provincial attempts to disrupt national unity, which could further marginalize Indigenous communities. Emphasizes the historical disenfranchisement and the importance of voter participation for self-advocacy and safeguarding treaty obligations from federal and provincial governments." },
-          "center": { "label": "Electoral Process & Intergovernmental Relations", "synthesis": "Focuses on the mechanics of a provincial referendum and the mobilization efforts within established democratic frameworks. Views the First Nations' campaign as a legitimate expression of political will within the Canadian federal system, highlighting the interplay between provincial autonomy discussions and the interests of distinct Indigenous governments." },
-          "right": { "label": "Provincial Autonomy vs. National Unity & Property Rights", "synthesis": "While generally opposing separatism for national unity, some right-leaning perspectives might view this Indigenous mobilization as an internal provincial matter that could complicate Alberta's pursuit of greater autonomy. Others might align with the anti-separatist stance from a national unity perspective, but potentially also view Indigenous 'Rock the Vote' campaigns through a lens of special interest group influence rather than inherent rights." }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the First Nation's pursuit of justice, highlighting systemic environmental racism and colonial legacies that contribute to disproportionate impacts on Indigenous communities. Advocates for meaningful reconciliation, Indigenous sovereignty, and robust environmental protections." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal process of the lawsuit, the historical context of government responsibilities, and the potential for a landmark ruling that clarifies environmental liability and Indigenous land rights in Canada. Examines the role of courts in addressing historical grievances." },
+          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about the financial implications of such lawsuits on taxpayers and governments, while emphasizing the need for practical solutions to environmental issues. Could question the scope of government liability for historical contamination." }
         },
-        "neutral": "Alberta First Nations are actively organizing a 'Rock the Vote' campaign to ensure high voter turnout in the provincial referendum, aiming to counter separatist proposals and protect existing treaty rights and relationships within the Canadian federation."
-      }
-    },
-    {
-      "id": "indigenous-2",
-      "category": "Indigenous",
-      "source": "National Post",
-      "title": "Profile of Young, Pragmatic First Nations Chief Focused on Poverty Alleviation",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/hes-30-pragmatic-and-possibly-our-most-crucial-first-nations-chief",
-      "summary": "This article profiles Aaron Pete, a 30-year-old First Nations chief, lawyer, and podcaster, highlighting his pragmatic approach to lifting his people out of poverty. His mission focuses on developing and implementing replicable strategies for economic and social improvement within Indigenous communities, potentially making him a crucial figure in contemporary First Nations leadership.",
-      "graph": ["Indigenous Leadership", "Poverty Reduction", "Community Development", "Pragmatism", "Economic Empowerment"],
-      "spectrum": {
-        "baseline": { "left": 35, "center": 40, "right": 25 },
-        "zones": {
-          "left": { "label": "Self-Determination & Systemic Change", "synthesis": "Applauds Indigenous leaders who champion self-determination and work to dismantle systemic barriers to prosperity. Sees pragmatic strategies as essential for addressing historical injustices and fostering equitable development, potentially advocating for greater federal support and recognition of Indigenous governance." },
-          "center": { "label": "Effective Governance & Sustainable Development", "synthesis": "Focuses on the practical success of leadership in achieving tangible outcomes for communities. Values innovative, replicable strategies that demonstrate effective governance and sustainable development, often emphasizing accountability and efficient resource management regardless of political leanings." },
-          "right": { "label": "Economic Empowerment & Individual Responsibility", "synthesis": "Praises leaders who promote economic independence and entrepreneurial spirit within their communities. Views pragmatic, results-oriented approaches as a path away from reliance on government assistance, aligning with principles of self-sufficiency and market-based solutions, while still acknowledging the unique context of First Nations." }
-        },
-        "neutral": "A profile piece highlights Aaron Pete, a 30-year-old First Nations chief, lawyer, and podcaster, recognized for his pragmatic and replicable strategies aimed at poverty reduction and community development within his Indigenous community."
+        "neutral": "Attawapiskat First Nation is suing the federal and Ontario governments over decades of diesel contamination, bringing a critical case concerning Indigenous rights, environmental justice, and governmental responsibility to the courts."
       }
     }
   ],
   "criminal": [
     {
-      "id": "criminal-1",
+      "id": "csis-scientist-lu-criminal",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Supreme Court Intervention Prevents Sex Offender from National Registry Enrollment Discussion",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/jamie-sarkonak-why-this-sex-offender-wont-have-to-go-on-the-national-registry",
-      "summary": "An opinion piece discusses a Supreme Court decision that has led to a sex offender not being included on the national registry, a measure previously mandatory. The article implies that the Supreme Court's ruling altered the application of mandatory registration for certain sexual offenders, sparking debate on public safety versus individual rights within the criminal justice system.",
-      "graph": ["Sex Offender Registry", "Supreme Court Ruling", "Criminal Justice", "Public Safety", "Individual Rights"],
+      "source": "CBC News",
+      "title": "CSIS Clarifies Origin of Probe into Federal Scientist Dennis Lu, Citing Government Tip-Off",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/ottawa/government-tip-off-prompted-spy-agency-to-look-into-federal-scientist-csis-says-9.7273903?cmp=rss",
+      "summary": "The Canadian Security Intelligence Service (CSIS) revealed in court that the investigation into former federal scientist Dennis Lu, facing criminal charges of breach of trust and unauthorized computer use, was initiated by a tip-off from Natural Resources Canada over two decades ago. This disclosure clarifies the timeline and origin of a long-standing security investigation linked to alleged foreign interference, leading to criminal prosecution.",
+      "graph": ["National Security", "Breach of Trust", "Foreign Interference", "RCMP Investigation", "Federal Employees", "Criminal Justice"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 25, "center": 40, "right": 35 },
         "zones": {
-          "left": { "label": "Rehabilitation & Rights Protection", "synthesis": "Focuses on the potential for overreach in mandatory registration and the importance of individual rights, including the right to privacy and rehabilitation. Argues that blanket policies may not be proportionate to all offenses and could hinder reintegration without demonstrably enhancing public safety." },
-          "center": { "label": "Judicial Precedent & Legal Interpretation", "synthesis": "Analyzes the Supreme Court's decision based on its legal reasoning, constitutional interpretation, and its impact on the criminal justice system. Examines the balance struck between legislative intent for public safety and judicial protection of individual liberties." },
-          "right": { "label": "Public Safety & Victim Protection", "synthesis": "Strongly advocates for robust public safety measures, including mandatory registration for all sex offenders, to protect potential victims. Views judicial interventions that limit such measures as potentially undermining community safety and weakening the tools available to law enforcement." }
+          "left": { "label": "Progressive Context", "synthesis": "Raises questions about due process, the lengthy timeline of the investigation, and potential overreach by intelligence agencies. Emphasizes the protection of civil liberties even in national security cases and demands transparency in government investigations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and operational cooperation between government departments and intelligence agencies, the rules of evidence in court, and the procedural aspects of prosecuting national security-related crimes. Highlights the complexities of such investigations." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the critical importance of national security and protecting government intellectual property from foreign interference. Advocates for robust intelligence gathering and prosecution of individuals who compromise national interests, potentially criticizing the delay in action." }
         },
-        "neutral": "A Supreme Court decision has reportedly impacted the mandatory enrollment of a sex offender on the national registry, prompting discussion on the balance between public safety measures and individual rights within the criminal justice system."
+        "neutral": "CSIS confirmed in court that the criminal investigation into federal scientist Dennis Lu for breach of trust and unauthorized computer use originated from a government tip-off over twenty years ago, clarifying a case linked to foreign interference."
       }
     },
     {
-      "id": "criminal-2",
+      "id": "dangerous-offender-tag-criminal",
       "category": "Criminal",
-      "source": "Slaw.ca (SOQUIJ)",
-      "title": "Quebec Court Upholds Distracted Driving Conviction for Holding Phone While Using Hands-Free Device",
+      "source": "Toronto Sun",
+      "title": "Application of 'Dangerous Offender' Designation in Canadian Courts Questioned",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/19/summaries-sunday-soquij-636/",
-      "summary": "The Quebec Court of Appeal, in Rahme c. Ville de Laval (2026 QCCA 902), ruled that holding a cellular phone while using a vehicle's integrated hands-free system for a call constitutes an unauthorized use under Article 443.1 of Quebec's Highway Safety Code. The court emphasized that a 'hands-free device' implies the driver does not physically hold the portable device, aligning with the legislature's intent to broadly interpret prohibitions against distracted driving for public safety.",
-      "graph": ["Distracted Driving", "Highway Safety Code", "Quebec Court of Appeal", "Hands-Free Device Interpretation", "Public Safety"],
+      "url": "https://torontosun.com/news/provincial/low-rent-small-town-thug-nabs-rare-dangerous-offender-tag",
+      "summary": "An article discusses the rare application of the 'dangerous offender' designation in Canadian courts, prompted by a recent case where a 'low-rent small-town thug' received the tag. The commentary suggests that a more frequent and robust use of this designation by judges and Crown attorneys could enhance public safety by incapacitating repeat violent offenders.",
+      "graph": ["Criminal Sentencing", "Public Safety", "Judicial Discretion", "Dangerous Offender", "Recidivism", "Corrections Policy"],
       "spectrum": {
-        "baseline": { "left": 20, "center": 50, "right": 30 },
+        "baseline": { "left": 20, "center": 35, "right": 45 },
         "zones": {
-          "left": { "label": "Contextual Enforcement & Driver Education", "synthesis": "While acknowledging the dangers of distracted driving, some may argue for greater emphasis on driver education and contextual enforcement, rather than strict literal interpretations that might penalize actions perceived as less distracting. Concerns could be raised about the accessibility of fully hands-free systems for all drivers." },
-          "center": { "label": "Statutory Interpretation & Public Safety Precedent", "synthesis": "Focuses on the court's role in interpreting legislative intent to ensure clarity and consistency in law application. Views the decision as a critical clarification for public safety, establishing a clear standard that 'hands-free' means no physical interaction with the device, thereby reinforcing road safety objectives." },
-          "right": { "label": "Strict Enforcement & Personal Responsibility", "synthesis": "Strongly supports clear and strict enforcement of traffic laws to enhance public safety and uphold personal responsibility while driving. Views the court's ruling as a necessary measure to eliminate ambiguities that could be exploited, reinforcing discipline on the roads and deterring risky behavior." }
+          "left": { "label": "Progressive Context", "synthesis": "Expresses concern about the potential for over-incarceration, systemic biases in the justice system, and the need for rehabilitative approaches over purely punitive ones. May question the effectiveness and ethical implications of prolonged detention." },
+          "center": { "label": "Procedural Context", "synthesis": "Explains the legal criteria and judicial process for applying the dangerous offender designation, emphasizing the need for thorough psychological assessments and a high legal threshold. Focuses on the rule of law and due process." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for increasing the application of the dangerous offender designation to protect society from repeat violent criminals. Criticizes perceived judicial leniency and calls for stricter sentencing to ensure public safety and justice for victims." }
         },
-        "neutral": "The Quebec Court of Appeal has affirmed that a driver is considered to be using a handheld device if they physically hold their phone during a call, even if connected to a vehicle's hands-free system, thereby reinforcing strict distracted driving regulations."
+        "neutral": "The rare application of the 'dangerous offender' designation in Canadian courts is under discussion following a recent case, with opinions varying on whether its broader use would improve public safety or raise concerns about judicial overreach."
+      }
+    },
+    {
+      "id": "mandatory-minimums-judicial-review-criminal",
+      "category": "Criminal",
+      "source": "The Hub",
+      "title": "Courts Striking Down Mandatory Minimum Sentences for Severe Crimes: Legal Debate Intensifies",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/20/why-canadian-courts-are-striking-down-mandatory-minimum-sentences-for-some-of-the-worst-crimes-imaginable/",
+      "summary": "Canadian courts are increasingly striking down mandatory minimum sentences, even for heinous crimes like child sexual abuse, by invoking the 'reasonable hypotheticals' doctrine under Section 12 of the Charter (cruel and unusual punishment). This trend reflects an ongoing legal debate over judicial discretion versus legislative intent in sentencing, with recent decisions prompting public concern and legislative responses like Bill C-16.",
+      "graph": ["Mandatory Minimum Sentences", "Section 12 Charter", "Judicial Discretion", "Criminal Justice Reform", "Sentencing Policy", "Child Protection"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports judicial review of mandatory minimums to ensure individual proportionality and prevent unjust outcomes, arguing that rigid sentences can lead to cruel and unusual punishment. Advocates for a justice system focused on rehabilitation and addressing root causes of crime." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal doctrine of 'reasonable hypotheticals,' the constitutional role of the judiciary in reviewing legislation, and the legislative-judicial dialogue in shaping sentencing policy. Explores the complexities of balancing different justice objectives." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes judicial decisions that overturn legislative mandates on sentencing, arguing that such actions undermine public safety, victim justice, and the deterrence function of criminal law. Advocates for stricter penalties and less judicial discretion for serious crimes." }
+        },
+        "neutral": "Canadian courts are frequently using the Charter's 'reasonable hypotheticals' doctrine to strike down mandatory minimum sentences for serious crimes, igniting a significant debate between judicial oversight and legislative intent in criminal justice."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "immigration-1",
-      "category": "Immigration",
-      "source": "CBC News",
-      "title": "Canada Implements Temporary Travel Ban on Foreign Nationals from Congo Due to Ebola Outbreak",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/canada-congo-ebola-9.7275782?cmp=rss",
-      "summary": "The Canadian government has enacted temporary border measures, effective July 19, 2026, until August 29, 2026, to deny entry to foreign nationals who have been in the Democratic Republic of the Congo within the past 21 days due to an Ebola outbreak. Canadian citizens, permanent residents, and those registered under the Indian Act arriving from the DRC will undergo health assessments and a 21-day quarantine.",
-      "graph": ["Public Health", "Border Control", "Ebola Outbreak", "Temporary Travel Restrictions", "Immigration Policy"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 50, "right": 25 },
-        "zones": {
-          "left": { "label": "Humanitarian Concern & Global Health Equity", "synthesis": "Acknowledges the necessity of public health measures but raises concerns about potential discriminatory impacts on specific populations and the broader ethical implications of restricting movement based on origin. Emphasizes international cooperation and humanitarian support for affected regions rather than solely punitive border controls." },
-          "center": { "label": "National Security & Public Health Protocols", "synthesis": "Focuses on the government's primary responsibility to protect national public health through evidence-based, temporary border control measures. Views these actions as a necessary, proportionate response to a high-risk infectious disease outbreak, aligning with international health regulations and prioritizing public safety above unrestricted movement." },
-          "right": { "label": "Border Sovereignty & National Interest Protection", "synthesis": "Supports strict border enforcement and travel restrictions as a critical tool for national security and safeguarding citizens from external threats, including health crises. Prioritizes national interests and the integrity of borders, potentially advocating for even broader or longer-term restrictions based on risk assessments." }
-        },
-        "neutral": "In response to an Ebola outbreak in the Democratic Republic of the Congo, Canada has implemented temporary measures barring entry to foreign nationals who have recently visited the country, while Canadian citizens and permanent residents face health assessments and quarantine upon arrival."
-      }
-    },
-    {
-      "id": "immigration-2",
-      "category": "Immigration",
-      "source": "CBC News",
-      "title": "Alberta Referendum Questions Threaten Health and Education Coverage for Non-Permanent Residents",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-immigrant-referendum-explained-9.7274985?cmp=rss",
-      "summary": "Alberta Premier Danielle Smith is proposing five referendum questions in October that, if passed, could significantly alter provincial services for temporary workers and other non-permanent residents. These measures include restricting eligibility for provincially-funded health care and education, imposing a 12-month residency waiting period, or introducing fees for services, raising concerns among critics about their impact and potential contradictions.",
-      "graph": ["Provincial Immigration Policy", "Non-Permanent Residents", "Healthcare Access", "Education Access", "Intergovernmental Conflict", "Referendum"],
-      "spectrum": {
-        "baseline": { "left": 45, "center": 30, "right": 25 },
-        "zones": {
-          "left": { "label": "Social Equity & Immigrant Rights", "synthesis": "Views these proposals as potentially discriminatory and harmful to vulnerable populations, undermining social safety nets and the integration of newcomers. Argues that access to essential services like healthcare and education should not be contingent on immigration status or provincial policy whims, advocating for universal access and federal oversight to protect rights." },
-          "center": { "label": "Constitutional Interpretation & Policy Feasibility", "synthesis": "Examines the legal and logistical challenges of implementing such policies, including potential constitutional conflicts with federal powers and practical difficulties in defining and administering new categories of eligibility and fees. Focuses on the clarity, enforceability, and potential unintended consequences of the proposed referendum questions." },
-          "right": { "label": "Provincial Autonomy & Fiscal Responsibility", "synthesis": "Supports Alberta's right to manage its provincial services and control the costs associated with population growth, including immigration. Advocates for greater provincial control over immigration levels and the allocation of resources, seeing these questions as a legitimate effort to assert provincial jurisdiction and ensure fiscal sustainability." }
-        },
-        "neutral": "Alberta's upcoming provincial referendum includes questions proposed by Premier Danielle Smith that seek to grant the province more control over immigration and could lead to changes in provincially-funded health and education services for temporary and non-permanent residents."
-      }
-    }
-  ]
+  "immigration": []
 }
