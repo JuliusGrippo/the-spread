@@ -1,296 +1,92 @@
 {
   "federalism": [
     {
-      "id": "thenarwhal-carbon-capture-history",
-      "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "Federal Carbon Capture Initiatives Show Limited Progress Over Two Decades",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/canada-carbon-capture-history/?utm_source=rss",
-      "summary": "A Narwhal investigation highlights that despite nearly 20 years of promises and substantial taxpayer investment by both Liberal and Conservative governments, Canada's carbon capture and storage (CCS) technology efforts have shown minimal gains in reducing industrial emissions. While political leaders like Stephen Harper and Mark Carney have championed CCS as a climate solution, actual captured carbon amounts remain low, particularly in the oilsands, which have seen significant emission growth. The article critiques the continued reliance on unproven technology and its disconnect from escalating climate change impacts.",
-      "graph": ["Carbon Capture", "Climate Policy", "Federal Spending", "Oilsands Emissions", "Policy Effectiveness"],
-      "spectrum": {
-        "baseline": { "left": 45, "center": 30, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the failure of carbon capture as a false climate solution, diverting funds from genuine renewable energy transition, and perpetuating reliance on fossil fuels. Highlights the environmental and social costs of inaction and misdirection." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the continuity of carbon capture promotion across different federal governments, examining the discrepancy between ambitious political rhetoric and the modest practical outcomes. Focuses on the challenges of scaling such technologies and the allocation of public funds." },
-          "right": { "label": "Conservative Context", "synthesis": "Could critique the government's chosen approach to climate policy, questioning the effectiveness of large-scale subsidies for unproven technology, suggesting market-based mechanisms or reduced regulatory burdens might be more efficient, but the source origin leans against this being a primary focus here. More likely to point to regulatory hurdles or cost-prohibitive nature of tech rather than the underlying policy failure itself." }
-        },
-        "neutral": "An investigation reveals that federal carbon capture and storage initiatives over two decades have yielded limited emission reductions despite significant political promotion and public investment."
-      }
-    },
-    {
-      "id": "cbc-premiers-trump-unity",
+      "id": "6299175d-f1a2-475f-b52e-503a7a932d88",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canadian Premiers Affirm United Front Against U.S. Tariffs Amid Council of the Federation Meeting",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/kinew-insists-premiers-are-united-against-common-opponent-in-trump-9.7279213?cmp=rss",
-      "summary": "Manitoba Premier Wab Kinew stated that Canadian premiers are united as \"Team Canada\" in the face of escalating trade tariffs from the U.S. Donald Trump administration, despite internal disagreements on the best response strategy. The Council of the Federation meeting in Charlottetown focused on countering the new 50% tariffs on Canadian imports, with Prime Minister Mark Carney briefing premiers on intense trade negotiations and potential retaliatory measures. While some, like Ontario Premier Doug Ford, suggested withholding energy exports, Alberta Premier Danielle Smith opposed such actions.",
-      "graph": ["Interprovincial Relations", "International Trade", "US-Canada Relations", "Tariff Policy", "Federal-Provincial Strategy"],
+      "title": "Canada 'will do whatever it takes' to counter Trump's tariff threat, Carney tells premiers",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/trump-tariff-threat-premiers-carney-meeting-9.7279671?cmp=rss",
+      "summary": "Prime Minister Mark Carney met with provincial premiers in Charlottetown to discuss Canada's response to the U.S. President Donald Trump's threat of 50% tariffs on Canadian imports, effective August 19. Carney affirmed the government's commitment to defend Canadian interests, while premiers sought details on retaliatory measures. Some premiers, like Ontario's Doug Ford, advocated for aggressive tactics, including leveraging energy supply, while others, like Alberta's Danielle Smith, rejected such ideas.",
+      "graph": ["Trade Tariffs", "Canada-U.S. Relations", "Intergovernmental Relations", "Economic Policy", "Premiers", "Prime Minister", "NAFTA/CUSMA"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the necessity of national unity in confronting external economic threats, while possibly critiquing the specific strategies proposed (e.g., energy leverage) for their environmental or long-term economic implications. Emphasizes protecting Canadian workers and industries." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the political alignment and strategic discussions among federal and provincial leaders in response to external trade pressures. Details the differing provincial approaches to negotiation and retaliation, and the federal government's role in coordinating a national response." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on defending Canadian economic interests and sovereignty against foreign aggression, potentially advocating for strong retaliatory measures, including leveraging natural resources. May criticize any perceived federal weakness or internal provincial divisions that undermine a firm stance." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would emphasize protecting Canadian workers and farmers from U.S. protectionism and ensuring a comprehensive, fair trade strategy, potentially questioning the effectiveness of a confrontational approach." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the diplomatic and policy mechanisms for responding to trade threats, the importance of national unity in intergovernmental relations, and the pragmatic assessment of retaliatory options to safeguard economic stability." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would stress national sovereignty, aggressive defense of Canadian economic interests, and the strategic use of all available leverage, including provincial resources, in negotiations against foreign trade threats." }
         },
-        "neutral": "Canadian premiers have publicly declared a united front against new U.S. tariffs, engaging in federal-provincial discussions on trade negotiation strategies and potential retaliatory measures, though some provincial disagreements exist on specific tactics."
+        "neutral": "The article details the Canadian Prime Minister and provincial premiers' discussions on a unified national response to impending U.S. tariffs, highlighting both federal resolve and inter-provincial strategic differences."
       }
     },
     {
-      "id": "cbc-gordie-howe-deal-contradiction",
+      "id": "89b5c2d3-f0a4-4f4a-9e11-72f10d3a5b9e",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Discrepancies Emerge Between Official Gordie Howe Bridge Agreement Text and Prime Minister's Revenue Statements",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-deal-tolls-canada-trump-open-release-9.7278704?cmp=rss",
-      "summary": "Ottawa has released the text of the \"proposed agreement in principle\" for the Gordie Howe International Bridge, revealing that Canada will split half of the net revenue with a U.S. economic development fund for the first 15 years, prior to Canada recouping its $6.4-billion construction costs. This appears to contradict earlier statements by Prime Minister Mark Carney, who indicated that net profits would be split only after Canada's debts were repaid. The discrepancy has drawn criticism from opposition parties, demanding clarity on the financial terms and the implications for Canadian taxpayers.",
-      "graph": ["International Infrastructure", "Federal Finance", "Transparency", "US-Canada Relations", "Trade Agreement"],
+      "title": "Ford wants premiers, Carney to be 'more vocal' against Trump, says he 'can't do it alone'",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/ford-trump-carney-tariffs-9.7279926?cmp=rss",
+      "summary": "Ontario Premier Doug Ford urged Prime Minister Mark Carney and other premiers to adopt a more vocal and aggressive 'Team Canada' approach against President Trump's new 50% tariffs. Ford reiterated his call to leverage Canada's energy exports, but other premiers like Alberta's Danielle Smith and Saskatchewan's Scott Moe rejected this stance, highlighting a divergence in provincial strategies for responding to U.S. trade threats.",
+      "graph": ["Trade Policy", "Intergovernmental Relations", "Provincial Autonomy", "U.S. Tariffs", "Energy Exports", "Team Canada"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 45, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for federal transparency and accountability in large-scale infrastructure projects, especially those with international financial implications. May raise concerns about potentially unfavorable terms for Canadian taxpayers and the impact of political pressures on public funds." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the public release of the international bridge agreement and identifies direct contradictions with prior statements by the Prime Minister regarding revenue distribution. Examines the technical language of the deal and the political ramifications of perceived inconsistencies." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the federal government for perceived fiscal mismanagement and lack of transparency regarding the bridge financing. Highlights the financial burden on Canadian taxpayers and questions the competence of the Prime Minister's office in negotiating or communicating key international agreements." }
+          "left": { "label": "Progressive Context", "synthesis": "Left-leaning views might express caution about overly aggressive tactics, fearing escalation of trade wars or potential harm to specific Canadian industries, while emphasizing broad national unity over provincial grandstanding." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral view focuses on the dynamics of intergovernmental consensus-building and the challenges of coordinating diverse provincial interests within a federal response to international trade pressures, evaluating the efficacy of different negotiating postures." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints, particularly from provinces with key resources, would advocate for a strong, uncompromising stance against U.S. protectionism, asserting provincial economic sovereignty and the strategic use of Canadian assets as leverage." }
         },
-        "neutral": "The released text of the Gordie Howe International Bridge agreement indicates Canada will split net revenue with the U.S. prior to debt repayment, a detail that appears to contradict earlier statements by the Prime Minister and has prompted calls for greater federal transparency."
+        "neutral": "Ontario Premier Doug Ford calls for a more unified and forceful Canadian response to U.S. tariffs, highlighting a divide among premiers on appropriate retaliatory strategies, particularly regarding energy exports."
       }
     },
     {
-      "id": "cbc-kingston-highspeed-rail",
+      "id": "0c5f4a6d-8e7c-4a3b-9d21-1f0e2a8b3c4d",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Crown Corporation CEO Indicates Kingston High-Speed Rail Stop Likely Due to Public Demand",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-kingston-ontario-stop-9.7279098?cmp=rss",
-      "summary": "Martin Imbleau, CEO of Alto (the Crown corporation overseeing the Toronto-Quebec City high-speed rail project), announced that Kingston, Ontario, will likely be included as a stop. This decision is primarily attributed to strong public feedback and Kingston's status as a high-ridership Via Rail station, indicating business viability. While some communities along the proposed route express opposition due to land concerns, local mayors in Kingston and South Frontenac have advocated for a stop, pushing for a route along the Highway 401 corridor.",
-      "graph": ["Infrastructure Projects", "Public Transit", "Regional Development", "Crown Corporations", "Public Consultation"],
+      "title": "Gordie Howe bridge deal appears to contradict Carney’s description of pact with U.S.",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-how-bridge-deals-explained-compare-original-trump-carney-9.7279334?cmp=rss",
+      "summary": "The recently released full text of the Gordie Howe International Bridge agreement reveals Canada will share half of net revenues with a U.S. federal economic development fund for 15 years and granted the U.S. veto power over some toll rate changes. This contradicts Prime Minister Mark Carney's earlier descriptions of the deal, which implied Canada would recover debt-servicing costs before revenue splitting. Critics from the Conservative party accuse the government of making significant concessions and lacking transparency.",
+      "graph": ["International Bridge", "Canada-U.S. Agreement", "Federal Accountability", "Toll Revenue", "Infrastructure Spending", "Trade Routes"],
       "spectrum": {
-        "baseline": { "left": 35, "center": 40, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Praises the responsiveness of a Crown corporation to public demand and the potential for enhanced public transit and regional connectivity. May emphasize the environmental benefits of high-speed rail as an alternative to other transportation modes." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the CEO's justification for potentially adding a stop based on ridership data and public consultation, detailing the planning process for a significant federal infrastructure project. Highlights the logistical and economic factors influencing route decisions." },
-          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about the economic viability and cost implications of adding stops to a large-scale federal project, particularly if it compromises speed or efficiency. Could also question the influence of public pressure versus strict financial analysis in Crown corporation decisions." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might criticize the deal as a capitulation to U.S. demands, highlighting concerns about economic sovereignty and the use of public funds, while advocating for greater transparency and public consultation in such international agreements." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the legal and financial details of the agreement, the process of international negotiations, and the implications of opaque deal-making on governmental accountability and public trust in major infrastructure projects." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely criticize the government for making significant concessions, misrepresenting the terms of the deal, and demonstrating poor negotiating strategy, emphasizing fiscal responsibility and protecting Canadian taxpayer interests." }
         },
-        "neutral": "The CEO of Alto, a federal Crown corporation, has indicated that Kingston, Ontario, is likely to become a stop on the planned Toronto-Quebec City high-speed rail line, citing significant public demand and strong ridership potential despite some localized opposition to the overall route."
+        "neutral": "The full terms of the Gordie Howe International Bridge agreement reveal Canada's concessions on revenue sharing and toll rate authority to the U.S., contradicting earlier federal government statements and raising questions about transparency and negotiation strategy."
       }
     },
     {
-      "id": "cbc-premiers-alcohol-trade-barriers",
+      "id": "a1d3f2c5-7b8e-4f9a-9c0d-6e1b2a4f5c3d",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Nine Provinces Agree to Lift Interprovincial Direct-to-Consumer Alcohol Sales Barriers",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-alcohol-direct-to-consumer-9.7278453?cmp=rss",
-      "summary": "Nine Canadian premiers have signed an agreement to update rules, allowing wineries, distilleries, and breweries to sell directly to consumers across provincial borders. This move aims to dismantle interprovincial trade barriers, aligning with a broader effort to strengthen the Canadian economy amidst U.S. tariff threats. Premiers, including Ontario's Doug Ford and Nova Scotia's Tim Houston, emphasized supporting Canadian businesses and fostering a \"self-reliant Canadian economy.\" Quebec and Yukon intend to join, while Nunavut and the Northwest Territories cited unique realities for not signing.",
-      "graph": ["Interprovincial Trade", "Economic Policy", "Alcohol Regulation", "Trade Barriers", "Federal-Provincial Cooperation"],
+      "title": "Canada urges U.K. to join new global bank for defence projects",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/world/canada-push-uk-join-defence-security-resiliance-bank-9.7279219?cmp=rss",
+      "summary": "Canada is actively lobbying the United Kingdom, under its new Prime Minister Andy Burnham, to join the Canada-led Defence, Security and Resilience Bank (DSRB). This multinational financial institution, set to operate by 2027, aims to provide low-cost loans to allied nations to boost their defence supply chains and rearm against growing international threats, especially from Russia. While eight other countries support it, no other G7 nations have joined, a point Canada hopes the UK will reconsider amidst pressure for NATO allies to increase defence spending.",
+      "graph": ["Defence Policy", "International Relations", "NATO", "United Kingdom", "Defence Bank", "Geopolitical Security", "Foreign Policy"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports measures that empower small and medium-sized Canadian businesses, enhance consumer choice, and foster national economic resilience. May highlight the need for further reforms to ensure equitable access and support local industries." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the specifics of the interprovincial agreement and the mechanism for implementing direct-to-consumer alcohol sales. Examines the stated motivations for the change, including economic nationalism in response to U.S. tariffs, and notes the differing participation of provinces/territories." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for reducing internal trade barriers and fostering free markets within Canada, seeing this as a positive step for economic growth and competitiveness. Critiques government monopolies on alcohol sales and supports greater individual and business freedom." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives may question the emphasis on military spending over other forms of international aid or diplomatic solutions, advocating for a more balanced approach to global security that addresses root causes of conflict and promotes peaceful cooperation." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the strategic rationale and logistical challenges of establishing and securing participation in a multinational defence financing institution, assessing its potential impact on alliance coherence and global security architecture." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would strongly support initiatives that bolster national and allied defence capabilities, seeing the DSRB as a crucial tool to counter rising geopolitical threats and ensure Western security, emphasizing fiscal prudence in military investment." }
         },
-        "neutral": "Nine Canadian provinces have agreed to new rules facilitating direct-to-consumer interprovincial alcohol sales, a measure intended to reduce internal trade barriers and bolster the national economy in the face of international trade challenges."
+        "neutral": "Canada is urging the United Kingdom to join its proposed Defence, Security and Resilience Bank, a multinational initiative designed to finance allied defence projects and bolster supply chains amidst increasing global threats and NATO pressure for higher defence spending."
       }
     },
     {
-      "id": "cbc-idlout-nvision-trust",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Nunavut MP Lori Idlout Places Financial Interest in Indigenous Consulting Firm into Trust Amid Scrutiny",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/north/nvision-lori-idlout-trust-9.7278384?cmp=rss",
-      "summary": "Nunavut MP Lori Idlout has voluntarily transferred her financial interest in NVision Insight Group Inc., an Indigenous management consulting firm that received significant federal contracts, into a trust. This action was taken to address \"scrutiny\" from other parties and to adhere to parliamentary obligations preventing MPs from financially benefiting from government contracts. Idlout, who was elected in 2021, had previously warned her staff not to seek training from NVision and reimbursed the House of Commons for expenses made from her own gallery.",
-      "graph": ["Parliamentary Ethics", "Conflict of Interest", "Federal Contracts", "Indigenous Business", "Accountability"],
-      "spectrum": {
-        "baseline": { "left": 35, "center": 40, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of rigorous ethical standards for elected officials, particularly concerning financial ties to government contracts. Could call for stronger oversight mechanisms to prevent potential conflicts of interest, while also acknowledging the unique challenges faced by Indigenous entrepreneurs entering politics." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the MP's voluntary compliance with ethical guidelines by establishing a trust, following scrutiny regarding her financial interest in a company receiving federal contracts. Focuses on the rules governing MPs' financial dealings and the steps taken to address potential conflicts." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights concerns over potential conflicts of interest and the perception of impropriety within federal government contracting. Calls for greater transparency and stricter enforcement of ethics rules to protect taxpayer money and public trust, regardless of the MP's background." }
-        },
-        "neutral": "Nunavut MP Lori Idlout has placed her financial stake in an Indigenous consulting firm, which held federal contracts, into a trust to resolve concerns about potential conflicts of interest and uphold parliamentary ethics rules."
-      }
-    },
-    {
-      "id": "globeandmail-anand-foreign-policy",
+      "id": "b7d0c9f1-2e6a-4c8d-8a5b-0f1c3d2e4a5b",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Canadian Foreign Minister Addresses Geopolitical Tensions and Trade Diversification at ASEAN Meeting",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-canada-urges-middle-east-de-escalation-asean-meeting/",
-      "summary": "Canada's Foreign Minister, Anita Anand, has used a meeting with ASEAN (Association of Southeast Asian Nations) to advocate for de-escalation in the Middle East and express concern over confrontation in the South China Sea. During her remarks, Anand also highlighted Canada's strategic imperative to diversify trade relationships beyond the United States and is actively pursuing a free-trade agreement with ASEAN, underscoring a broader shift in Canadian foreign and economic policy.",
-      "graph": ["Foreign Policy", "Trade Diversification", "Geopolitics", "ASEAN", "International Relations"],
+      "title": "Premiers talk tariffs as annual meeting wraps",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/video-premiers-talk-tariffs-as-annual-meeting-wraps/",
+      "summary": "Canada's premiers concluded their Council of the Federation meeting, which was largely focused on the recent U.S. tariff threats. Provincial leaders expressed optimism for a negotiated resolution but affirmed that all retaliatory options remain on the table to protect Canadian economic interests. The meeting underscored the need for a united Canadian front in responding to U.S. trade actions.",
+      "graph": ["Trade Tariffs", "Canada-U.S. Relations", "Council of the Federation", "Economic Policy", "Intergovernmental Coordination", "Retaliatory Measures"],
       "spectrum": {
-        "baseline": { "left": 35, "center": 40, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports Canada's role in global peacekeeping and de-escalation, emphasizing multilateral diplomacy and human rights considerations in foreign policy. Praises trade diversification as a means to foster global equity and reduce over-reliance on a single economic partner." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on Canada's official diplomatic stance on international conflicts and strategic trade initiatives. Details the Foreign Minister's statements on current geopolitical challenges and the pursuit of new trade agreements as part of a national economic strategy." },
-          "right": { "label": "Conservative Context", "synthesis": "May question the efficacy or strategic benefits of Canada's \"middle power\" diplomatic interventions in distant conflicts. Supports trade diversification as a means to enhance economic sovereignty and reduce dependence on the U.S., but may prioritize specific national economic advantages in trade negotiations." }
-        },
-        "neutral": "Canada's Foreign Minister, Anita Anand, addressed international tensions in the Middle East and South China Sea at an ASEAN meeting, simultaneously emphasizing Canada's commitment to diversifying trade relationships away from the U.S. and pursuing a free-trade agreement with ASEAN."
-      }
-    },
-    {
-      "id": "nationalpost-pq-churchill-falls",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Parti Qu\u00e9b\u00e9cois Advocates Renegotiation of Churchill Falls Agreement Citing Historical Injustice",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/politics/pq-would-renegotiate-churchill-falls-mou-with-1927-injustice-in-mind",
-      "summary": "The Parti Québécois (PQ) energy critic has stated that a PQ government would seek to renegotiate the Churchill Falls Memorandum of Understanding (MOU), viewing the 1927 decision that awarded Labrador to Newfoundland as a historical injustice against Quebec. This stance implies that Quebec should receive compensation for the historical territorial ruling, linking contemporary resource agreements to long-standing interprovincial boundary and resource ownership disputes. This reignites a significant federalism debate regarding provincial rights and historical grievances.",
-      "graph": ["Interprovincial Disputes", "Resource Rights", "Historical Grievances", "Quebec Sovereignty", "Energy Policy"],
-      "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May acknowledge historical injustices and the need for fair resource distribution, potentially advocating for a more equitable renegotiation that considers social and environmental impacts. Could support provincial autonomy in resource management while seeking a collaborative path." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the political position of the Parti Québécois regarding a historical interprovincial dispute and its implications for current resource agreements. Details the legal and historical context of the Churchill Falls agreement and the 1927 boundary decision." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports provincial autonomy and resource ownership, viewing the renegotiation as a necessary step to correct a historical wrong and assert Quebec's economic interests. May emphasize the importance of provincial control over natural resources and question federal intervention in such matters." }
-        },
-        "neutral": "The Parti Québécois' energy critic has announced an intention to renegotiate the Churchill Falls agreement, citing a historical injustice from the 1927 Labrador boundary decision, thereby rekindling a significant interprovincial resource dispute."
-      }
-    },
-    {
-      "id": "cbc-gordie-howe-bridge-friendship",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Analysis: Deteriorating US-Canada Relations Cloud Symbolic Opening of Gordie Howe Bridge",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-trump-tariffs-analysis-9.7278424?cmp=rss",
-      "summary": "This analysis reflects on the opening of the Gordie Howe International Bridge amidst heightened U.S.-Canada trade tensions, arguing that the project, once envisioned as a symbol of friendship, now highlights the deterioration of the bilateral relationship under the Trump administration. The article details recent U.S. tariff threats, Canada's decision to forego a joint opening ceremony, and the ongoing renegotiation demands from the U.S. regarding the bridge's financial terms, suggesting Prime Minister Mark Carney's earlier contention that 'the old relationship' is over holds true.",
-      "graph": ["US-Canada Relations", "International Trade", "Diplomatic Relations", "Infrastructure Projects", "Tariff Policy"],
-      "spectrum": {
-        "baseline": { "left": 35, "center": 40, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the challenges of maintaining multilateral cooperation and international agreements in an era of heightened nationalism. Expresses concern over the erosion of historical alliances and the economic impact of protectionist policies on Canadian industries and workers." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the shift in US-Canada relations, contrasting the original spirit of the bridge project with current diplomatic and trade conflicts. Focuses on the specific actions taken by both governments, such as tariff threats and ceremonial changes, and their implications for future bilateral negotiations." },
-          "right": { "label": "Conservative Context", "synthesis": "May criticize the federal government's handling of the deteriorating relationship with the U.S., potentially advocating for a stronger stance or more decisive action to protect Canadian economic interests. Could highlight the need for Canada to reduce its reliance on the U.S. and assert its sovereignty more forcefully." }
-        },
-        "neutral": "The imminent opening of the Gordie Howe International Bridge is occurring amidst significantly strained US-Canada relations and ongoing tariff threats, casting a shadow on its original symbolic purpose as a testament to bilateral friendship."
-      }
-    },
-    {
-      "id": "globalnews-trump-tariffs-list",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "Comprehensive List of Canadian Products Targeted by New U.S. 50% Tariffs Released",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11973935/us-tariffs-canada-full-list/",
-      "summary": "The U.S. administration has released a detailed list of dozens of Canadian goods that will be subject to new 50% import duties, effective August 19. These tariffs, imposed under Section 338 of the U.S. Tariff Act of 1930, target approximately $20 billion in Canadian imports, including dairy products, certain sugar products, and seemingly unrelated items like hockey sticks. Notably, these levies will apply even to goods compliant with the Canada-U.S.-Mexico Agreement (CUSMA), a move Canadian Prime Minister Mark Carney has called a \"direct violation\" of the agreement, signaling an intensified trade dispute.",
-      "graph": ["International Trade", "Tariff Policy", "US-Canada Relations", "Economic Impact", "CUSMA"],
-      "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Raises concerns about the broad economic impact on Canadian industries and workers, advocating for government support for affected sectors. Calls for international cooperation to address protectionist trade practices and defend fair trade principles." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents a factual breakdown of the specific goods targeted by the new U.S. tariffs and explains the legal basis (Section 338) and the stated justifications provided by the White House. Highlights the unprecedented nature of applying these tariffs to CUSMA-compliant goods." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on the need for Canada to assert its economic sovereignty and develop strategies to withstand foreign trade pressures. May critique Canada's existing trade policies, such as dairy supply management, as contributing factors, while emphasizing the importance of market access for Canadian exports." }
-        },
-        "neutral": "The U.S. has published a list of Canadian products facing new 50% tariffs, affecting approximately $20 billion in imports and applying to CUSMA-compliant goods, intensifying the ongoing trade dispute between the two nations."
-      }
-    }
-  ],
-  "charter": [],
-  "indigenous": [
-    {
-      "id": "globeandmail-indigenous-premiers-economy",
-      "category": "Indigenous",
-      "source": "The Globe and Mail",
-      "title": "First Nations Leaders Secure Historic Meeting with Premiers and Prime Minister on Economic Development",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-indigenous-leaders-premiers-meeting-first-nations/",
-      "summary": "After years of advocacy, First Nations chiefs have successfully secured a dedicated meeting with Canada's provincial premiers and Prime Minister Mark Carney, scheduled for October. This upcoming meeting will focus on Indigenous involvement in major projects and strategies for building the Indigenous economy, marking a significant step towards greater inclusion and self-determination in national economic planning. The initiative aims to address long-standing demands for direct consultation and partnership on economic matters.",
-      "graph": ["Indigenous Governance", "Economic Reconciliation", "First Nations", "Resource Development", "Intergovernmental Relations"],
-      "spectrum": {
-        "baseline": { "left": 40, "center": 40, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights this meeting as a crucial step towards reconciliation and economic justice for Indigenous peoples, emphasizing the importance of self-determination and Indigenous-led economic development. Calls for meaningful partnership and equitable benefit-sharing from major projects." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the outcome of sustained advocacy by Indigenous leaders to establish a formal forum for direct engagement with federal and provincial heads on economic and resource development issues. Details the planned discussions aimed at fostering economic partnerships and addressing systemic barriers." },
-          "right": { "label": "Conservative Context", "synthesis": "May focus on the need for stable investment climates and predictable regulatory processes for major projects, advocating for streamlined consultation processes that facilitate economic growth while respecting Indigenous rights. Emphasizes the economic potential of resource development for all Canadians, including Indigenous communities." }
-        },
-        "neutral": "Indigenous leaders have successfully arranged a meeting with provincial premiers and the Prime Minister in October to discuss economic development and First Nations' involvement in major projects, marking a significant step in intergovernmental relations."
-      }
-    }
-  ],
-  "criminal": [
-    {
-      "id": "cbc-tamara-lich-travel-request",
-      "category": "Criminal",
-      "source": "CBC News",
-      "title": "Convoy Protest Leader Tamara Lich Seeks Court Permission for International Travel While Under House Arrest",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/ottawa/lich-white-house-sentence-9.7278022?cmp=rss",
-      "summary": "Tamara Lich, a prominent figure in the 2022 Ottawa convoy protest, is appealing to the court for permission to travel internationally, including a Caribbean cruise and a visit to the White House. Lich is currently serving a conditional sentence, including 12 months of house arrest, after being found guilty of mischief and other offenses related to her role in organizing the protest. Her request, supported by Rebel News for \"important journalism,\" follows previous exemptions granted for family and work travel within Canada.",
-      "graph": ["Conditional Sentencing", "Judicial Review", "Travel Restrictions", "Political Protest", "Media Personalities"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 40, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Could criticize the perceived leniency or inconsistency in the application of justice, particularly given the nature of the protest and its societal impact. May question the 'journalism' claims of a far-right outlet and its political implications." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the legal process of a convicted individual seeking modifications to her conditional sentence, focusing on the court's discretion in granting travel exemptions. Details the conditions of her sentence and the stated reasons for her international travel requests." },
-          "right": { "label": "Conservative Context", "synthesis": "May frame the request as part of a broader struggle for freedom of movement and expression, especially if the individual is seen as a political prisoner or symbol. Could criticize the original sentence as overly harsh or politically motivated, and support the right to travel for legitimate work." }
-        },
-        "neutral": "A key organizer of the 2022 Ottawa convoy protest, currently under house arrest, has formally requested court permission for international travel, including a Caribbean cruise and a White House visit, citing professional obligations with a media outlet."
-      }
-    },
-    {
-      "id": "torontosun-ms13-sex-trafficking",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Police Uncover Alleged MS-13 Sex Trafficking Operation Managed from Within Prison",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/ms-13-gangbanger-sex-trafficking-ring-prison",
-      "summary": "Peel Regional Police have revealed details of \"Project Mermaid,\" an investigation that allegedly uncovered a sophisticated sex trafficking ring operated by a convicted MS-13 gang member from inside a prison. The case highlights significant concerns regarding the efficacy of correctional facility oversight and the persistent challenges of combating organized crime and human trafficking, even among incarcerated individuals. Law enforcement authorities are working to disrupt these illicit networks and protect vulnerable individuals.",
-      "graph": ["Organized Crime", "Sex Trafficking", "Corrections Oversight", "Law Enforcement", "Gang Activity"],
-      "spectrum": {
-        "baseline": { "left": 20, "center": 40, "right": 40 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust victim support services and addressing the root causes of vulnerability to trafficking. May call for reforms within the correctional system to prevent such activities and highlight systemic issues that allow organized crime to persist." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the details of the police investigation and the alleged operational methods of the sex trafficking ring from within a correctional facility. Focuses on the challenges faced by law enforcement and correctional services in preventing and prosecuting such crimes." },
-          "right": { "label": "Conservative Context", "synthesis": "Demands stricter controls within correctional facilities and enhanced policing efforts to combat organized crime, especially sex trafficking. Calls for tougher penalties and a strong law-and-order approach to dismantle criminal networks and ensure public safety." }
-        },
-        "neutral": "Police have revealed an alleged sex trafficking operation, run by an incarcerated MS-13 gang member from prison, prompting concerns about correctional oversight and the ongoing fight against organized crime."
-      }
-    }
-  ],
-  "immigration": [
-    {
-      "id": "globeandmail-acadian-citizenship",
-      "category": "Immigration",
-      "source": "The Globe and Mail",
-      "title": "Historians Allege Unfair Treatment of Acadians by Immigration Department in Citizenship Reversal",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-acadians-immigration-citizenship-unfair-treatment-historians-say/",
-      "summary": "Historians claim that the Canadian immigration department has unfairly treated Acadians, a French-speaking community historically displaced in the 18th century, by issuing \"citizenship U-turns.\" This refers to instances where individuals with Acadian heritage, despite long-standing residency and cultural ties, face challenges or reversals in their citizenship status due to scattered historical records. Experts highlight the administrative burden placed on Acadians to prove their lineage and the implications for historical justice and cultural recognition.",
-      "graph": ["Citizenship Policy", "Historical Injustice", "Acadian Identity", "Immigration Bureaucracy", "Administrative Fairness"],
-      "spectrum": {
-        "baseline": { "left": 40, "center": 40, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for policy reforms within the immigration department to recognize and rectify historical injustices against Acadians, prioritizing cultural continuity and identity. Emphasizes the need for administrative empathy and flexibility in cases involving marginalized historical communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the claims of historical and administrative unfairness experienced by Acadians regarding their citizenship status. Details the specific challenges posed by fragmented historical records and the procedural obstacles within the immigration department, calling for clear policy guidelines." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize the importance of clear and consistent application of citizenship laws for all individuals, while acknowledging the need to streamline administrative processes. Could express concern about the precedent of historical claims impacting modern citizenship policy, but also support fairness in process." }
-        },
-        "neutral": "Historians assert that the Canadian immigration department has unfairly processed Acadian citizenship applications, citing historical record scattering as a cause for 'citizenship U-turns' and highlighting issues of administrative fairness for the historically displaced community."
-      }
-    },
-    {
-      "id": "nationalpost-barutciski-asylum-warning",
-      "category": "Immigration",
-      "source": "National Post",
-      "title": "Opinion: Belfast Attack Highlights Risks of Fast-Track Asylum Processes, Prompting Scrutiny of Canadian Policy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/michael-barutciski-gruesome-beheading-attempt-in-belfast-a-warning-against-fast-track-asylum-processes",
-      "summary": "An opinion piece by Michael Barutciski argues that a brutal attack in Belfast, allegedly committed by a refugee claimant who was granted entry without an interview, serves as a critical warning against fast-track asylum processes. The author implies that such expedited procedures, which might rely solely on questionnaires, could pose significant national security risks by allowing dangerous individuals to enter. This raises questions about the thoroughness of Canada's asylum screening protocols and the balance between compassion and security.",
-      "graph": ["Asylum Policy", "National Security", "Refugee Screening", "Immigration Risk", "Border Security"],
-      "spectrum": {
-        "baseline": { "left": 20, "center": 35, "right": 45 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Could counter that robust, fair asylum processes are essential for upholding human rights, and isolated incidents should not lead to blanket restrictions. Emphasizes the importance of humane treatment for refugees while acknowledging the need for effective, not necessarily punitive, screening." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the argument presented in the opinion piece regarding the potential vulnerabilities of fast-track asylum systems. Discusses the trade-offs between processing efficiency and comprehensive security screening within immigration policies." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for heightened national security and more stringent vetting in immigration and asylum processes, arguing that fast-track systems compromise public safety. Calls for prioritizing national security and border control over expedited entry, potentially linking incidents to perceived lax policies." }
-        },
-        "neutral": "An opinion piece suggests that an international criminal incident underscores the potential risks associated with fast-track asylum processes, leading to calls for increased scrutiny of screening protocols in Canadian immigration policy."
-      }
-    }
-  ]
-}
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would focus on safeguarding vulnerable industries and workers from trade disruptions, emphasizing the need for federal support and a carefully considered, unified approach that prioritizes long-term economic stability." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral
