@@ -1,92 +1,219 @@
 {
   "federalism": [
     {
-      "id": "6299175d-f1a2-475f-b52e-503a7a932d88",
+      "id": "federalism-1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada 'will do whatever it takes' to counter Trump's tariff threat, Carney tells premiers",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trump-tariff-threat-premiers-carney-meeting-9.7279671?cmp=rss",
-      "summary": "Prime Minister Mark Carney met with provincial premiers in Charlottetown to discuss Canada's response to the U.S. President Donald Trump's threat of 50% tariffs on Canadian imports, effective August 19. Carney affirmed the government's commitment to defend Canadian interests, while premiers sought details on retaliatory measures. Some premiers, like Ontario's Doug Ford, advocated for aggressive tactics, including leveraging energy supply, while others, like Alberta's Danielle Smith, rejected such ideas.",
-      "graph": ["Trade Tariffs", "Canada-U.S. Relations", "Intergovernmental Relations", "Economic Policy", "Premiers", "Prime Minister", "NAFTA/CUSMA"],
+      "title": "Trump Claims Revised Gordie Howe Bridge Deal Favours U.S. as Canada Opens Bridge Unilaterally",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/windsor/livestory/gordie-howe-international-bridge-2026-live-updates-9.7172299?cmp=rss",
+      "summary": "U.S. President Donald Trump boasted on social media about securing more favorable terms for the U.S. regarding the Gordie Howe International Bridge toll revenue, claiming a 50% profit share. This statement came as Canada held its opening ceremony for the $6.4-billion bridge without U.S. officials, citing recent U.S. tariff threats. The new agreement supersedes a 2012 deal where Canada would recoup its construction costs first.",
+      "graph": ["International Trade", "Infrastructure", "Canada-U.S. Relations", "Federal Policy", "Tolls"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would emphasize protecting Canadian workers and farmers from U.S. protectionism and ensuring a comprehensive, fair trade strategy, potentially questioning the effectiveness of a confrontational approach." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the diplomatic and policy mechanisms for responding to trade threats, the importance of national unity in intergovernmental relations, and the pragmatic assessment of retaliatory options to safeguard economic stability." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would stress national sovereignty, aggressive defense of Canadian economic interests, and the strategic use of all available leverage, including provincial resources, in negotiations against foreign trade threats." }
+          "left": { "label": "Progressive Context", "synthesis": "Would view Trump's claim as an aggressive stance impacting Canada's national interests and potentially advocating for stronger Canadian sovereignty in economic negotiations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of the deal, the political optics of the opening ceremony, and the economic implications of the revenue-sharing agreement. Highlights the bilateral challenges." },
+          "right": { "label": "Conservative Context", "synthesis": "May see Canada's decision to proceed unilaterally as a necessary assertion of national interest amidst aggressive U.S. trade tactics, while still advocating for fiscal prudence in managing infrastructure projects." }
         },
-        "neutral": "The article details the Canadian Prime Minister and provincial premiers' discussions on a unified national response to impending U.S. tariffs, highlighting both federal resolve and inter-provincial strategic differences."
+        "neutral": "The opening of the Gordie Howe Bridge proceeded with Canada and the U.S. disagreeing on financial terms and diplomatic protocol, highlighting ongoing cross-border trade tensions."
       }
     },
     {
-      "id": "89b5c2d3-f0a4-4f4a-9e11-72f10d3a5b9e",
+      "id": "federalism-2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Ford wants premiers, Carney to be 'more vocal' against Trump, says he 'can't do it alone'",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/ford-trump-carney-tariffs-9.7279926?cmp=rss",
-      "summary": "Ontario Premier Doug Ford urged Prime Minister Mark Carney and other premiers to adopt a more vocal and aggressive 'Team Canada' approach against President Trump's new 50% tariffs. Ford reiterated his call to leverage Canada's energy exports, but other premiers like Alberta's Danielle Smith and Saskatchewan's Scott Moe rejected this stance, highlighting a divergence in provincial strategies for responding to U.S. trade threats.",
-      "graph": ["Trade Policy", "Intergovernmental Relations", "Provincial Autonomy", "U.S. Tariffs", "Energy Exports", "Team Canada"],
+      "title": "Prime Minister Carney Clarifies Gordie Howe Bridge Revenue-Sharing Agreement Following Public Scrutiny",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-says-should-have-been-clearer-bridge-deal-us-9.7281520?cmp=rss",
+      "summary": "Prime Minister Mark Carney admitted to 'imperfectly' explaining the new Gordie Howe International Bridge agreement, clarifying that the 15-year revenue-sharing deal with the U.S. does not account for Canada's $6.4 billion construction debt repayment. The Prime Minister's Office confirmed the new deal could cost Canada up to $320 million, contradicting earlier statements implying debt repayment priority.",
+      "graph": ["Federal Finances", "Government Transparency", "Canada-U.S. Relations", "Infrastructure Policy", "Prime Minister's Office"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Left-leaning views might express caution about overly aggressive tactics, fearing escalation of trade wars or potential harm to specific Canadian industries, while emphasizing broad national unity over provincial grandstanding." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral view focuses on the dynamics of intergovernmental consensus-building and the challenges of coordinating diverse provincial interests within a federal response to international trade pressures, evaluating the efficacy of different negotiating postures." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints, particularly from provinces with key resources, would advocate for a strong, uncompromising stance against U.S. protectionism, asserting provincial economic sovereignty and the strategic use of Canadian assets as leverage." }
+          "left": { "label": "Progressive Context", "synthesis": "May criticize the lack of clarity and the financial concessions to the U.S., potentially viewing it as a compromise of Canadian public funds and a failure in negotiating against U.S. pressure." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for clear communication and transparent governance in major public projects and international agreements. Focuses on the factual correction and the financial implications." },
+          "right": { "label": "Conservative Context", "synthesis": "Likely critical of the government's initial misrepresentation and the financial cost to Canadian taxpayers, arguing for stricter fiscal accountability and more robust negotiation tactics." }
         },
-        "neutral": "Ontario Premier Doug Ford calls for a more unified and forceful Canadian response to U.S. tariffs, highlighting a divide among premiers on appropriate retaliatory strategies, particularly regarding energy exports."
+        "neutral": "Prime Minister Carney clarified the financial terms of the Gordie Howe Bridge deal, confirming Canada's 15-year net revenue-sharing with the U.S. does not prioritize Canada's construction debt repayment, at an estimated cost of $320 million."
       }
     },
     {
-      "id": "0c5f4a6d-8e7c-4a3b-9d21-1f0e2a8b3c4d",
+      "id": "federalism-3",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Gordie Howe bridge deal appears to contradict Carney’s description of pact with U.S.",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/windsor/gordie-how-bridge-deals-explained-compare-original-trump-carney-9.7279334?cmp=rss",
-      "summary": "The recently released full text of the Gordie Howe International Bridge agreement reveals Canada will share half of net revenues with a U.S. federal economic development fund for 15 years and granted the U.S. veto power over some toll rate changes. This contradicts Prime Minister Mark Carney's earlier descriptions of the deal, which implied Canada would recover debt-servicing costs before revenue splitting. Critics from the Conservative party accuse the government of making significant concessions and lacking transparency.",
-      "graph": ["International Bridge", "Canada-U.S. Agreement", "Federal Accountability", "Toll Revenue", "Infrastructure Spending", "Trade Routes"],
+      "title": "U.S. Imposes New Global Tariff Regime Targeting 'Forced Labour,' Affecting Canada and Allies",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-forced-labour-9.7281548?cmp=rss",
+      "summary": "The Trump administration has implemented a new global 10% tariff regime, replacing a temporary measure struck down by the U.S. Supreme Court. This tariff applies to goods from Canada, the European Union, and nearly 60 other countries, justified by claims of inadequate measures against forced labour in supply chains. Canadian exports complying with CUSMA rules of origin are exempt from changes in existing tariffs.",
+      "graph": ["International Trade", "Trade Policy", "Canada-U.S. Relations", "Economic Impact", "Forced Labour"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might criticize the deal as a capitulation to U.S. demands, highlighting concerns about economic sovereignty and the use of public funds, while advocating for greater transparency and public consultation in such international agreements." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the legal and financial details of the agreement, the process of international negotiations, and the implications of opaque deal-making on governmental accountability and public trust in major infrastructure projects." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely criticize the government for making significant concessions, misrepresenting the terms of the deal, and demonstrating poor negotiating strategy, emphasizing fiscal responsibility and protecting Canadian taxpayer interests." }
+          "left": { "label": "Progressive Context", "synthesis": "May highlight the potential for these tariffs to disproportionately affect workers and consumers, while questioning the genuine intent behind the 'forced labour' justification." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and economic mechanisms of the new tariffs, focusing on the U.S. administration's strategic rationale and the practical implications for Canadian trade compliance and market access." },
+          "right": { "label": "Conservative Context", "synthesis": "Could support the U.S. in asserting national economic interests, perhaps viewing the tariffs as a tool to ensure fair trade practices, or criticize the lack of Canadian government's proactive measures to counter trade protectionism." }
         },
-        "neutral": "The full terms of the Gordie Howe International Bridge agreement reveal Canada's concessions on revenue sharing and toll rate authority to the U.S., contradicting earlier federal government statements and raising questions about transparency and negotiation strategy."
+        "neutral": "The U.S. has instituted new global tariffs based on 'forced labour' allegations, affecting numerous nations including Canada, though CUSMA-compliant Canadian exports maintain current tariff statuses."
       }
     },
     {
-      "id": "a1d3f2c5-7b8e-4f9a-9c0d-6e1b2a4f5c3d",
+      "id": "federalism-4",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada urges U.K. to join new global bank for defence projects",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/world/canada-push-uk-join-defence-security-resiliance-bank-9.7279219?cmp=rss",
-      "summary": "Canada is actively lobbying the United Kingdom, under its new Prime Minister Andy Burnham, to join the Canada-led Defence, Security and Resilience Bank (DSRB). This multinational financial institution, set to operate by 2027, aims to provide low-cost loans to allied nations to boost their defence supply chains and rearm against growing international threats, especially from Russia. While eight other countries support it, no other G7 nations have joined, a point Canada hopes the UK will reconsider amidst pressure for NATO allies to increase defence spending.",
-      "graph": ["Defence Policy", "International Relations", "NATO", "United Kingdom", "Defence Bank", "Geopolitical Security", "Foreign Policy"],
+      "source": "Global News",
+      "title": "Premiers and Experts Debate Canada's Leverage in Response to U.S. Tariff Threats",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11986422/donald-trump-tariffs-canada-leverage-critical-minerals-premiers/",
+      "summary": "Amidst U.S. President Donald Trump's threat of a 50% tariff on Canadian goods, provincial premiers and trade experts are debating Canada's retaliatory options. While Prime Minister Carney stated 'everything is on the table' without specifying measures, premiers like Doug Ford advocate for 'dollar for dollar' tariffs and restricting energy/potash exports. Experts warn Canada's leverage is limited compared to countries like China, despite potential in critical minerals.",
+      "graph": ["Trade War", "Federal-Provincial Relations", "Economic Strategy", "Canada-U.S. Relations", "Critical Minerals"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives may question the emphasis on military spending over other forms of international aid or diplomatic solutions, advocating for a more balanced approach to global security that addresses root causes of conflict and promotes peaceful cooperation." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the strategic rationale and logistical challenges of establishing and securing participation in a multinational defence financing institution, assessing its potential impact on alliance coherence and global security architecture." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would strongly support initiatives that bolster national and allied defence capabilities, seeing the DSRB as a crucial tool to counter rising geopolitical threats and ensure Western security, emphasizing fiscal prudence in military investment." }
+          "left": { "label": "Progressive Context", "synthesis": "May argue for a unified national response that prioritizes Canadian workers and industries, potentially advocating for strategic, targeted retaliation or focusing on diversifying trade relationships away from over-reliance on the U.S." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the political and economic calculus of Canada's response, considering the balance between assertive defense of national interests and the risks of escalating trade disputes, and the complexities of federal-provincial consensus." },
+          "right": { "label": "Conservative Context", "synthesis": "Calls for strong, decisive action to protect Canadian economic sovereignty, emphasizing the need for robust negotiation and potential use of Canada's resource advantages as leverage, while critiquing any perceived federal hesitation." }
         },
-        "neutral": "Canada is urging the United Kingdom to join its proposed Defence, Security and Resilience Bank, a multinational initiative designed to finance allied defence projects and bolster supply chains amidst increasing global threats and NATO pressure for higher defence spending."
+        "neutral": "Canadian premiers and experts are assessing the nation's options and leverage in a potential trade war with the U.S., with discussions focusing on retaliatory measures and the strategic importance of resources like critical minerals."
       }
     },
     {
-      "id": "b7d0c9f1-2e6a-4c8d-8a5b-0f1c3d2e4a5b",
+      "id": "federalism-5",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Premiers talk tariffs as annual meeting wraps",
-      "citation": "July 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/video-premiers-talk-tariffs-as-annual-meeting-wraps/",
-      "summary": "Canada's premiers concluded their Council of the Federation meeting, which was largely focused on the recent U.S. tariff threats. Provincial leaders expressed optimism for a negotiated resolution but affirmed that all retaliatory options remain on the table to protect Canadian economic interests. The meeting underscored the need for a united Canadian front in responding to U.S. trade actions.",
-      "graph": ["Trade Tariffs", "Canada-U.S. Relations", "Council of the Federation", "Economic Policy", "Intergovernmental Coordination", "Retaliatory Measures"],
+      "source": "Global News",
+      "title": "Canada and Ecuador to Formalize Free Trade Agreement in Ottawa",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11987438/canada-ecuador-signing-free-trade-deal-ottawa/",
+      "summary": "Canada and Ecuador are scheduled to sign a free trade agreement in Ottawa. While details on public events are scarce, this deal represents Canada's ongoing efforts to expand its international trade networks. The agreement is expected to foster economic growth and strengthen bilateral relations between the two countries.",
+      "graph": ["International Trade", "Trade Agreements", "Economic Diplomacy", "Bilateral Relations", "Federal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would focus on safeguarding vulnerable industries and workers from trade disruptions, emphasizing the need for federal support and a carefully considered, unified approach that prioritizes long-term economic stability." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral
+          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the potential impacts on labour standards, environmental protections, and Indigenous rights in both Canada and Ecuador, advocating for fair trade principles and human rights considerations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the economic rationale for the agreement, including market access and diversification, and the diplomatic process involved in formalizing international trade partnerships." },
+          "right": { "label": "Conservative Context", "synthesis": "Will likely highlight the benefits of increased free trade for Canadian businesses, promoting economic liberalization and access to new markets as a driver of national prosperity." }
+        },
+        "neutral": "Canada and Ecuador are proceeding with the signing of a free trade agreement in Ottawa, signifying an expansion of Canada's international economic partnerships."
+      }
+    },
+    {
+      "id": "federalism-6",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "Prime Minister Carney to Host Investment Summit to Counter Capital Flight",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/11985983/carney-capital-flight-investment-summit/",
+      "summary": "Prime Minister Mark Carney is organizing a two-day investment summit in September with the goal of reversing $1 trillion in foreign capital flight from Canada. The initiative seeks to attract new international investment and boost Canada's economy, with the Business Council of Canada noting a growing 'enthusiasm' from the business community to invest.",
+      "graph": ["Economic Policy", "Foreign Investment", "Capital Markets", "Federal Strategy", "Economic Growth"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May call for ensuring new investments align with social and environmental goals, prioritizing equitable distribution of benefits and addressing underlying reasons for capital flight that impact ordinary Canadians." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the government's economic strategy to improve Canada's investment climate and the expected outcomes of attracting foreign capital, focusing on macroeconomic stability and growth." },
+          "right": { "label": "Conservative Context", "synthesis": "Will likely emphasize the importance of creating a competitive business environment, reducing regulatory burdens, and offering incentives to attract private capital to stimulate economic activity and job creation." }
+        },
+        "neutral": "Prime Minister Carney plans an investment summit in September to attract foreign capital and reverse an estimated $1 trillion in capital flight, aiming to boost Canada's economic growth."
+      }
+    },
+    {
+      "id": "federalism-7",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "The Hub Critiques CBC's Perceived Anti-Conservative Bias and Lack of Accountability",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/24/the-cbc-continues-to-gaslight-conservatives-even-after-its-near-death-experience/",
+      "summary": "The Hub publishes a critical analysis arguing that the CBC has not addressed its perceived bias against conservative voters, despite recent trust surveys showing a wide gap in trust between Liberal and Conservative supporters. The article references a Senate report recommending independent news audits and criticizes the CBC's 'business as usual' stance, suggesting it alienates a significant portion of the electorate.",
+      "graph": ["Public Broadcasting", "Media Bias", "Political Polarization", "Government Funding", "National Identity"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May argue that criticisms of CBC's bias are politically motivated attempts to undermine public broadcasting, or that the CBC's role is to challenge established narratives." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the role of public broadcasters in a diverse democracy and the challenges of maintaining neutrality amidst political polarization, considering the need for accountability and representation of varied viewpoints." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the CBC for its perceived ideological leanings and use of public funds, advocating for significant reforms or defunding to ensure balanced coverage or reduce taxpayer burden." }
+        },
+        "neutral": "Commentary from The Hub criticizes the CBC for its alleged persistent anti-conservative bias and failure to address a significant trust deficit among conservative voters, despite recommendations for independent audits."
+      }
+    },
+    {
+      "id": "federalism-8",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Critique of 'Sovereignty Economics' as Detrimental to Canadian Prosperity and Global Integration",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/24/the-false-promise-of-sovereignty-economics/",
+      "summary": "An analysis in The Hub critiques 'sovereignty economics,' a national strategy advocating for domestic ownership and control of technology and infrastructure through state intervention. The author argues that this approach, exemplified by Canada's AI strategy, overestimates the state's capacity to engineer such ownership and underestimates the benefits of global integration, ultimately leaving Canada poorer and less sovereign.",
+      "graph": ["Economic Policy", "Technology Policy", "Foreign Investment", "Industrial Strategy", "Global Integration"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May support strategic state intervention in key sectors like technology to protect national interests, create jobs, and ensure equitable control over essential infrastructure, even if it entails some degree of protectionism." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic arguments for and against 'sovereignty economics,' balancing the desire for national control with the benefits of international partnerships, market efficiency, and open economies." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly opposes government overreach in the economy and industrial planning, advocating for free-market principles, open investment, and global competition as the primary drivers of prosperity and innovation." }
+        },
+        "neutral": "An article critically examines the emerging concept of 'sovereignty economics' in Canada, which prioritizes domestic ownership and control of technology and infrastructure, arguing its potential to hinder economic prosperity and global integration."
+      }
+    }
+  ],
+  "charter": [],
+  "indigenous": [
+    {
+      "id": "indigenous-1",
+      "category": "Indigenous",
+      "source": "The Narwhal",
+      "title": "Yukon Community Harnesses Indigenous Knowledge for Grizzly Bear Coexistence",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/grizzly-bear-haines-junction-yukon-coexistence/?utm_source=rss",
+      "summary": "Haines Junction, Yukon, a community located in a dense grizzly bear corridor, has cultivated a decades-long coexistence with these animals, significantly informed by Indigenous Knowledge from the Champagne and Aishihik First Nations. Residents, including schoolchildren, are taught early how to safely interact with bears, viewing them as integral to their identity and environment, in contrast to rising human-grizzly conflicts elsewhere.",
+      "graph": ["Indigenous Knowledge", "Environmental Stewardship", "Wildlife Management", "First Nations Rights", "Coexistence"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of integrating traditional ecological knowledge with contemporary conservation efforts, highlighting successful models of Indigenous-led stewardship and challenging colonial approaches to land management." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical success of a community-based, informed approach to wildlife management and human-wildlife interaction, underscoring lessons learned from long-term coexistence models." },
+          "right": { "label": "Conservative Context", "synthesis": "May appreciate the self-reliance and local solutions demonstrated by the community in managing wildlife interactions, potentially seeing it as an example of effective, localized governance without excessive top-down regulation." }
+        },
+        "neutral": "The community of Haines Junction, Yukon, successfully coexists with grizzly bears, leveraging decades of local experience and Indigenous Knowledge from the Champagne and Aishihik First Nations for effective wildlife management."
+      }
+    },
+    {
+      "id": "indigenous-2",
+      "category": "Indigenous",
+      "source": "The Narwhal",
+      "title": "Photographer Captures Intimate Grizzly Bear Life in Haines Junction, Yukon, Reflecting Community Coexistence",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/haines-junction-grizzly-bear-photos/?utm_source=rss",
+      "summary": "Photographer Sonny Parker utilized camera traps over a year to capture intimate images of grizzly bears in Haines Junction, Yukon. This project is intertwined with the community's established history of peaceful coexistence with these animals, a relationship deeply influenced by local Indigenous knowledge, as explored in a companion feature. The photos aim to foster greater understanding and protection of grizzlies.",
+      "graph": ["Wildlife Photography", "Conservation", "Indigenous Culture", "Community Relations", "Grizzly Bears"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the aesthetic and emotional connection to nature, reinforcing calls for stronger conservation efforts and respect for ecosystems, often echoing Indigenous perspectives on interconnectedness." },
+          "center": { "label": "Procedural Context", "synthesis": "Appreciates the educational and awareness-raising potential of the photography, contributing to broader public understanding of wildlife and community conservation practices." },
+          "right": { "label": "Conservative Context", "synthesis": "May value the individual initiative of the photographer and the local community's pragmatic approach to living with wildlife, perhaps seeing it as an example of private efforts contributing to conservation without extensive government intervention." }
+        },
+        "neutral": "Photographer Sonny Parker's work showcases grizzly bears in Haines Junction, Yukon, complementing narratives of local and Indigenous community coexistence and conservation efforts."
+      }
+    }
+  ],
+  "criminal": [
+    {
+      "id": "criminal-1",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "GTA Man Accused of Murder Arrested in Major Organized Crime and Drug Trafficking Operation",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/accused-gta-killer-organized-crime-blitz",
+      "summary": "Michele Moscone, already in custody for a murder accusation, has been implicated in a large-scale $139 million organized crime and drug trafficking investigation by law enforcement in the Greater Toronto Area. This major police operation targeted criminal networks, leading to numerous arrests and seizures, highlighting ongoing efforts to combat organized crime.",
+      "graph": ["Organized Crime", "Drug Trafficking", "Murder Investigation", "Law Enforcement", "Greater Toronto Area"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May focus on systemic issues that contribute to organized crime, such as poverty or lack of social support, and the need for rehabilitation programs in addition to law enforcement." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the efficacy of police operations in disrupting criminal networks and the legal processes involved in prosecuting serious offenses, emphasizing public safety and rule of law." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for strong law enforcement measures, increased police funding, and severe penalties for organized crime to ensure public safety and deter criminal activity." }
+        },
+        "neutral": "A suspect already facing murder charges in the GTA has been further implicated in a $139 million organized crime and drug trafficking bust, underscoring ongoing law enforcement efforts against criminal networks."
+      }
+    }
+  ],
+  "immigration": []
+}
