@@ -1,219 +1,238 @@
 {
   "federalism": [
     {
-      "id": "federalism-1",
+      "id": "fed-1",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Trump Claims Revised Gordie Howe Bridge Deal Favours U.S. as Canada Opens Bridge Unilaterally",
+      "source": "rabble.ca",
+      "title": "Unions Allege Public Service Cuts Worsened National Wildfire Response",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/windsor/livestory/gordie-howe-international-bridge-2026-live-updates-9.7172299?cmp=rss",
-      "summary": "U.S. President Donald Trump boasted on social media about securing more favorable terms for the U.S. regarding the Gordie Howe International Bridge toll revenue, claiming a 50% profit share. This statement came as Canada held its opening ceremony for the $6.4-billion bridge without U.S. officials, citing recent U.S. tariff threats. The new agreement supersedes a 2012 deal where Canada would recoup its construction costs first.",
-      "graph": ["International Trade", "Infrastructure", "Canada-U.S. Relations", "Federal Policy", "Tolls"],
+      "url": "https://rabble.ca/labour/wildfire-crisis-worsened-by-public-service-cuts-unions-say/",
+      "summary": "Federal public service unions are asserting that budget cuts implemented by the Mark Carney government have directly undermined Canada's capacity to effectively manage and respond to ongoing wildfire crises. They argue that reductions in public service personnel and resources have left the country ill-prepared for national emergencies of this scale, impacting public safety and environmental management.",
+      "graph": ["Wildfire Crisis", "Public Service Funding", "Union Advocacy", "Federal Capacity", "National Emergencies"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 60, "center": 25, "right": 15 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would view Trump's claim as an aggressive stance impacting Canada's national interests and potentially advocating for stronger Canadian sovereignty in economic negotiations." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of the deal, the political optics of the opening ceremony, and the economic implications of the revenue-sharing agreement. Highlights the bilateral challenges." },
-          "right": { "label": "Conservative Context", "synthesis": "May see Canada's decision to proceed unilaterally as a necessary assertion of national interest amidst aggressive U.S. trade tactics, while still advocating for fiscal prudence in managing infrastructure projects." }
+          "left": { "label": "Progressive Context", "synthesis": "This perspective strongly critiques government austerity measures, arguing that cuts to the public service are shortsighted and directly endanger citizens during crises. It emphasizes the critical role of well-funded public institutions in national resilience and advocates for increased investment in essential services and worker protections." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would evaluate the impact of budgetary decisions on operational readiness for natural disasters. It would examine public service staffing levels, emergency preparedness protocols, and resource allocation efficiency, seeking data-driven insights into system strengths and weaknesses without inherent political bias." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might argue that government spending must be fiscally responsible, and any issues in crisis response could be due to inefficient spending rather than insufficient funds, or call for private sector involvement, questioning the necessity or effectiveness of extensive government apparatus." }
         },
-        "neutral": "The opening of the Gordie Howe Bridge proceeded with Canada and the U.S. disagreeing on financial terms and diplomatic protocol, highlighting ongoing cross-border trade tensions."
+        "neutral": "Unions claim that federal public service cuts by the Carney government have impaired Canada's wildfire response capabilities, highlighting concerns about governmental preparedness for national emergencies."
       }
     },
     {
-      "id": "federalism-2",
+      "id": "fed-2",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Prime Minister Carney Clarifies Gordie Howe Bridge Revenue-Sharing Agreement Following Public Scrutiny",
+      "source": "cbc.ca",
+      "title": "Federal Food Security Strategy Targets Grocery Oligopoly with Local Hubs",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-says-should-have-been-clearer-bridge-deal-us-9.7281520?cmp=rss",
-      "summary": "Prime Minister Mark Carney admitted to 'imperfectly' explaining the new Gordie Howe International Bridge agreement, clarifying that the 15-year revenue-sharing deal with the U.S. does not account for Canada's $6.4 billion construction debt repayment. The Prime Minister's Office confirmed the new deal could cost Canada up to $320 million, contradicting earlier statements implying debt repayment priority.",
-      "graph": ["Federal Finances", "Government Transparency", "Canada-U.S. Relations", "Infrastructure Policy", "Prime Minister's Office"],
+      "url": "https://www.cbc.ca/news/politics/canada-grocery-competition-carney-food-strategy-funding-food-hubs-food-terminal-9.7282701?cmp=rss",
+      "summary": "The Mark Carney government has launched a national food security strategy, committing $1 billion over ten years to establish up to 40 local food hubs across Canada. The initiative aims to counter the concentrated power of five major grocery chains controlling 75% of the market, empowering local farmers and fostering competition. While experts see potential to disrupt the retail giants, the strategy's effect on lowering consumer food prices remains a subject of debate.",
+      "graph": ["Food Security", "Grocery Competition", "Federal Funding", "Local Agriculture", "Market Intervention"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 50, "center": 30, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May criticize the lack of clarity and the financial concessions to the U.S., potentially viewing it as a compromise of Canadian public funds and a failure in negotiating against U.S. pressure." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for clear communication and transparent governance in major public projects and international agreements. Focuses on the factual correction and the financial implications." },
-          "right": { "label": "Conservative Context", "synthesis": "Likely critical of the government's initial misrepresentation and the financial cost to Canadian taxpayers, arguing for stricter fiscal accountability and more robust negotiation tactics." }
+          "left": { "label": "Progressive Context", "synthesis": "This approach is generally welcomed as a step towards food sovereignty, supporting local economies, and addressing corporate power. It aligns with desires for equitable food systems, fair prices for farmers, and improved access to fresh, local produce for communities, potentially advocating for even stronger anti-monopoly measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Analysis would focus on the operational effectiveness and economic impact of the food hubs. It would objectively assess whether the investment leads to measurable increases in farmer income, diversification of supply chains, and, crucially, downward pressure on consumer prices, while also examining logistical challenges and market dynamics." },
+          "right": { "label": "Conservative Context", "synthesis": "Skeptical views may question the efficacy of government intervention in market mechanisms, arguing that $1 billion is a substantial investment that might not significantly alter consumer prices or promote true competition. It could advocate for less state involvement and more market-driven solutions to enhance grocery competition and efficiency." }
         },
-        "neutral": "Prime Minister Carney clarified the financial terms of the Gordie Howe Bridge deal, confirming Canada's 15-year net revenue-sharing with the U.S. does not prioritize Canada's construction debt repayment, at an estimated cost of $320 million."
+        "neutral": "The Carney government's $1 billion national food security strategy proposes establishing local food hubs to tackle grocery market consolidation, aiming to bolster farmers and competition, though its impact on consumer prices is uncertain."
       }
     },
     {
-      "id": "federalism-3",
+      "id": "fed-3",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "U.S. Imposes New Global Tariff Regime Targeting 'Forced Labour,' Affecting Canada and Allies",
+      "source": "cbc.ca",
+      "title": "Bloc Québécois Leader's X Account Hacked for Bitcoin Promotion",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/world/trump-tariffs-forced-labour-9.7281548?cmp=rss",
-      "summary": "The Trump administration has implemented a new global 10% tariff regime, replacing a temporary measure struck down by the U.S. Supreme Court. This tariff applies to goods from Canada, the European Union, and nearly 60 other countries, justified by claims of inadequate measures against forced labour in supply chains. Canadian exports complying with CUSMA rules of origin are exempt from changes in existing tariffs.",
-      "graph": ["International Trade", "Trade Policy", "Canada-U.S. Relations", "Economic Impact", "Forced Labour"],
+      "url": "https://www.cbc.ca/news/politics/bloc-hack-crypto-9.7281719?cmp=rss",
+      "summary": "Bloc Québécois Leader Yves-François Blanchet's X (formerly Twitter) account was compromised for two weeks, used to promote Bitcoin, before being restored. This cybersecurity incident targeting a prominent federal political figure raises serious questions about the digital security protocols for politicians and the responsiveness of social media platforms to political account breaches. The Bloc expressed dissatisfaction with X's assistance in resolving the issue.",
+      "graph": ["Cybersecurity", "Political Accounts", "Social Media", "Bitcoin Scams", "Federal Politics"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 50, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May highlight the potential for these tariffs to disproportionately affect workers and consumers, while questioning the genuine intent behind the 'forced labour' justification." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and economic mechanisms of the new tariffs, focusing on the U.S. administration's strategic rationale and the practical implications for Canadian trade compliance and market access." },
-          "right": { "label": "Conservative Context", "synthesis": "Could support the U.S. in asserting national economic interests, perhaps viewing the tariffs as a tool to ensure fair trade practices, or criticize the lack of Canadian government's proactive measures to counter trade protectionism." }
+          "left": { "label": "Progressive Context", "synthesis": "This perspective highlights the broader implications of digital security failures for democratic integrity and information dissemination. It may call for increased regulation of social media platforms to ensure faster response times to hacks and better protection of public figures' accounts from misinformation and manipulation." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective assessment would focus on the technical aspects of the hack, the procedural response of both the political party and the social media platform, and the general best practices for cybersecurity in political communications. It would emphasize the need for robust, consistent security measures and clear communication protocols." },
+          "right": { "label": "Conservative Context", "synthesis": "This view might emphasize individual accountability for digital security practices and question the reliance on external platforms for political communication. It could also open a discussion on the role of tech companies in controlling information and the need for greater transparency regarding their content moderation and security practices." }
         },
-        "neutral": "The U.S. has instituted new global tariffs based on 'forced labour' allegations, affecting numerous nations including Canada, though CUSMA-compliant Canadian exports maintain current tariff statuses."
+        "neutral": "Bloc Québécois Leader Yves-François Blanchet's X account was hacked to promote Bitcoin for two weeks, prompting concerns about political cybersecurity and the platform's incident response."
       }
     },
     {
-      "id": "federalism-4",
+      "id": "fed-4",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Premiers and Experts Debate Canada's Leverage in Response to U.S. Tariff Threats",
+      "source": "theglobeandmail.com",
+      "title": "Ottawa Consults on Regulating Misleading AI Agents and Content",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-consults-on-ai-agents-shopping-bots-mislead/",
+      "summary": "The federal government is initiating a consultation process to gather public and expert opinions on regulating artificial intelligence (AI) agents that may mislead users or malfunction, such as shopping bots. Led by the Minister of Artificial Intelligence and Digital Innovation, Evan Solomon, the consultation also seeks views on mandatory labeling for AI-generated content (videos, music, text), aiming to establish transparent and accountable frameworks for AI use in Canada.",
+      "graph": ["AI Regulation", "Digital Policy", "Consumer Protection", "AI Transparency", "Federal Consultation"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 40, "right": 20 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "This perspective strongly supports proactive government regulation to ensure AI development is ethical, socially responsible, and protects vulnerable populations from algorithmic bias and deceptive practices. It advocates for robust consumer protections and clear accountability mechanisms for AI failures." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective assessment focuses on the technical challenges of AI regulation, the need for balanced policy that fosters innovation while mitigating risk, and the importance of multi-stakeholder input. It examines international precedents and the feasibility of implementing effective transparency and liability frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might express caution about government over-regulation stifling innovation and economic growth in the AI sector. It could advocate for industry-led standards, minimal government intervention, and a focus on market-based solutions to address AI-related issues, prioritizing technological advancement." }
+        },
+        "neutral": "Canada's federal government is consulting on measures to regulate misleading or malfunctioning AI agents and require labeling for AI-generated content, aiming to ensure transparency and accountability."
+      }
+    },
+    {
+      "id": "fed-5",
+      "category": "Federalism",
+      "source": "globalnews.ca",
+      "title": "Canada Explores Leverage Against Potential Trump Tariffs",
       "citation": "June 2026 Tracking Window",
       "url": "https://globalnews.ca/news/11986422/donald-trump-tariffs-canada-leverage-critical-minerals-premiers/",
-      "summary": "Amidst U.S. President Donald Trump's threat of a 50% tariff on Canadian goods, provincial premiers and trade experts are debating Canada's retaliatory options. While Prime Minister Carney stated 'everything is on the table' without specifying measures, premiers like Doug Ford advocate for 'dollar for dollar' tariffs and restricting energy/potash exports. Experts warn Canada's leverage is limited compared to countries like China, despite potential in critical minerals.",
-      "graph": ["Trade War", "Federal-Provincial Relations", "Economic Strategy", "Canada-U.S. Relations", "Critical Minerals"],
+      "summary": "In response to former U.S. President Donald Trump's threat of 50% tariffs, Prime Minister Mark Carney has indicated that Canada will consider \"everything on the table\" to protect its interests. The article examines Canada's potential leverage, including its supply of critical minerals, and explores the varying perspectives of provincial premiers and trade experts on how to best formulate a federal-provincial response to a potential trade war with the United States.",
+      "graph": ["Trade War", "US-Canada Relations", "Tariffs", "Critical Minerals", "Federal-Provincial Strategy"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 25, "center": 50, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May argue for a unified national response that prioritizes Canadian workers and industries, potentially advocating for strategic, targeted retaliation or focusing on diversifying trade relationships away from over-reliance on the U.S." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the political and economic calculus of Canada's response, considering the balance between assertive defense of national interests and the risks of escalating trade disputes, and the complexities of federal-provincial consensus." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for strong, decisive action to protect Canadian economic sovereignty, emphasizing the need for robust negotiation and potential use of Canada's resource advantages as leverage, while critiquing any perceived federal hesitation." }
+          "left": { "label": "Progressive Context", "synthesis": "This perspective would emphasize protecting Canadian jobs and industries, advocating for strong government support for affected sectors and exploring diversification of trade relationships to reduce reliance on the U.S. It might also highlight the need for a unified national strategy that considers social impacts." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on diplomatic strategies, legal recourse under trade agreements, and economic impact assessments. It would consider the effectiveness of various retaliatory or conciliatory measures and the complexities of coordinating federal and provincial responses to international trade disputes." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint would likely advocate for a firm stance against U.S. protectionism, emphasizing national economic sovereignty and the importance of reciprocal trade. It might also critique past Canadian trade policies or call for clearer articulation of Canada's economic leverage, particularly in resource sectors." }
         },
-        "neutral": "Canadian premiers and experts are assessing the nation's options and leverage in a potential trade war with the U.S., with discussions focusing on retaliatory measures and the strategic importance of resources like critical minerals."
+        "neutral": "Prime Minister Mark Carney is exploring all options, including leveraging critical minerals, as Canada prepares a federal-provincial response to potential 50% tariffs threatened by the Trump administration."
       }
     },
     {
-      "id": "federalism-5",
+      "id": "fed-6",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Canada and Ecuador to Formalize Free Trade Agreement in Ottawa",
+      "source": "nationalpost.com",
+      "title": "Ukraine Seeks 30-Year Energy Pact with Canada, Plus $650M Aid",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11987438/canada-ecuador-signing-free-trade-deal-ottawa/",
-      "summary": "Canada and Ecuador are scheduled to sign a free trade agreement in Ottawa. While details on public events are scarce, this deal represents Canada's ongoing efforts to expand its international trade networks. The agreement is expected to foster economic growth and strengthen bilateral relations between the two countries.",
-      "graph": ["International Trade", "Trade Agreements", "Economic Diplomacy", "Bilateral Relations", "Federal Policy"],
+      "url": "https://nationalpost.com/news/canada/ukraine-seeks-30-year-energy-pact-with-canada-minister-says",
+      "summary": "Ukraine is seeking to forge a long-term, 30-year energy partnership with Canada, according to a Ukrainian minister. This request is coupled with an appeal for a direct Canadian grant of $650 million to facilitate Ukraine's purchase of gas for the upcoming winter. This initiative underscores Canada's continuing role in supporting Ukraine's energy security and reconstruction efforts amidst geopolitical instability.",
+      "graph": ["Ukraine Support", "Energy Cooperation", "Foreign Aid", "International Pacts", "Canadian Diplomacy"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 40, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the potential impacts on labour standards, environmental protections, and Indigenous rights in both Canada and Ecuador, advocating for fair trade principles and human rights considerations." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the economic rationale for the agreement, including market access and diversification, and the diplomatic process involved in formalizing international trade partnerships." },
-          "right": { "label": "Conservative Context", "synthesis": "Will likely highlight the benefits of increased free trade for Canadian businesses, promoting economic liberalization and access to new markets as a driver of national prosperity." }
+          "left": { "label": "Progressive Context", "synthesis": "This perspective strongly supports Canada's role in international solidarity and humanitarian aid, particularly for Ukraine. It emphasizes the moral imperative to assist nations under duress and potentially advocates for even broader support, including renewable energy initiatives and long-term development." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on the diplomatic, economic, and logistical feasibility of such a long-term energy pact and the implications of the financial grant. It would examine Canada's capacity to meet such commitments, the strategic benefits for both nations, and the mechanisms for accountability and delivery." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might scrutinize the financial commitment and its potential impact on Canadian taxpayers, advocating for careful cost-benefit analysis and clear terms for aid. It could question the extent of Canada's long-term entanglement in foreign energy markets and prioritize domestic economic stability." }
         },
-        "neutral": "Canada and Ecuador are proceeding with the signing of a free trade agreement in Ottawa, signifying an expansion of Canada's international economic partnerships."
+        "neutral": "Ukraine is proposing a 30-year energy pact with Canada and requesting a $650 million grant for winter gas purchases, highlighting Canada's role in supporting Ukraine's energy security."
       }
     },
     {
-      "id": "federalism-6",
+      "id": "fed-7",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Prime Minister Carney to Host Investment Summit to Counter Capital Flight",
+      "source": "torontosun.com",
+      "title": "Federal Government Rejects Ontario's Billy Bishop Airport Expansion Plan",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11985983/carney-capital-flight-investment-summit/",
-      "summary": "Prime Minister Mark Carney is organizing a two-day investment summit in September with the goal of reversing $1 trillion in foreign capital flight from Canada. The initiative seeks to attract new international investment and boost Canada's economy, with the Business Council of Canada noting a growing 'enthusiasm' from the business community to invest.",
-      "graph": ["Economic Policy", "Foreign Investment", "Capital Markets", "Federal Strategy", "Economic Growth"],
+      "url": "https://torontosun.com/news/local-news/federal-government-not-supporting-ontario-expand-billy-bishop-airport",
+      "summary": "Transport Minister Steven MacKinnon announced that the federal government will not support Ontario's proposal to expand the Billy Bishop Toronto City Airport. This decision signals a significant federal-provincial disagreement over major urban infrastructure and development, raising questions about jurisdictional boundaries and the future of transportation planning in Canada's largest city.",
+      "graph": ["Federal-Provincial Dispute", "Airport Infrastructure", "Urban Development", "Transport Policy", "Ontario Politics"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May call for ensuring new investments align with social and environmental goals, prioritizing equitable distribution of benefits and addressing underlying reasons for capital flight that impact ordinary Canadians." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the government's economic strategy to improve Canada's investment climate and the expected outcomes of attracting foreign capital, focusing on macroeconomic stability and growth." },
-          "right": { "label": "Conservative Context", "synthesis": "Will likely emphasize the importance of creating a competitive business environment, reducing regulatory burdens, and offering incentives to attract private capital to stimulate economic activity and job creation." }
+          "left": { "label": "Progressive Context", "synthesis": "This perspective might view the federal rejection as a victory for environmental protection, noise reduction, and sustainable urban planning, prioritizing community interests and public transit over increased air traffic in an urban core. It may also criticize provincial expansionist development agendas." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would explore the specific reasons cited by the federal government for non-support (e.g., environmental impact, safety, financial feasibility, competing priorities) and the process of federal-provincial negotiation on such projects. It would consider the broader implications for national transport strategy." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might criticize the federal government for impeding economic development and regional connectivity. It could argue for provincial autonomy in infrastructure decisions or highlight the potential benefits of airport expansion for business and tourism, framing the federal stance as bureaucratic obstruction." }
         },
-        "neutral": "Prime Minister Carney plans an investment summit in September to attract foreign capital and reverse an estimated $1 trillion in capital flight, aiming to boost Canada's economic growth."
+        "neutral": "The federal government has refused to support Ontario's plan to expand Billy Bishop Toronto City Airport, marking a federal-provincial policy clash on urban infrastructure development."
       }
     },
     {
-      "id": "federalism-7",
+      "id": "fed-8",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "The Hub Critiques CBC's Perceived Anti-Conservative Bias and Lack of Accountability",
+      "source": "thehub.ca",
+      "title": "Analysis Questions Fiscal Prudence of Federal Government Spending",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/24/the-cbc-continues-to-gaslight-conservatives-even-after-its-near-death-experience/",
-      "summary": "The Hub publishes a critical analysis arguing that the CBC has not addressed its perceived bias against conservative voters, despite recent trust surveys showing a wide gap in trust between Liberal and Conservative supporters. The article references a Senate report recommending independent news audits and criticizes the CBC's 'business as usual' stance, suggesting it alienates a significant portion of the electorate.",
-      "graph": ["Public Broadcasting", "Media Bias", "Political Polarization", "Government Funding", "National Identity"],
+      "url": "https://thehub.ca/2026/07/24/your-tax-dollars-at-work-14/",
+      "summary": "A weekly review of proactive disclosure records highlights various instances of federal government hospitality spending, including significant expenses by entities like the National Gallery of Canada and the Canadian Museum of History. The analysis raises questions about the fiscal prudence and accountability of government departments and agencies in their use of taxpayer funds for events and catering, drawing public scrutiny to administrative expenditures.",
+      "graph": ["Government Accountability", "Public Spending", "Fiscal Policy", "Transparency", "Federal Administration"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 35, "right": 45 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May argue that criticisms of CBC's bias are politically motivated attempts to undermine public broadcasting, or that the CBC's role is to challenge established narratives." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the role of public broadcasters in a diverse democracy and the challenges of maintaining neutrality amidst political polarization, considering the need for accountability and representation of varied viewpoints." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the CBC for its perceived ideological leanings and use of public funds, advocating for significant reforms or defunding to ensure balanced coverage or reduce taxpayer burden." }
+          "left": { "label": "Progressive Context", "synthesis": "While supporting government programs, this view would demand accountability for perceived waste, arguing that such funds could be better directed towards social services or urgent public needs. It may criticize elite spending while public services are underfunded." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective perspective would analyze the mechanisms of public expenditure oversight, the adequacy of transparency protocols, and the guidelines for hospitality spending within government agencies. It would seek to identify any systemic issues in fiscal management and propose improvements for efficiency and accountability." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint strongly criticizes what is perceived as excessive and wasteful government spending, advocating for strict fiscal austerity, reduced bureaucracy, and greater respect for taxpayer money. It frames such expenditures as symptomatic of a broader problem of government inefficiency and detachment from public economic realities." }
         },
-        "neutral": "Commentary from The Hub criticizes the CBC for its alleged persistent anti-conservative bias and failure to address a significant trust deficit among conservative voters, despite recommendations for independent audits."
-      }
-    },
-    {
-      "id": "federalism-8",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Critique of 'Sovereignty Economics' as Detrimental to Canadian Prosperity and Global Integration",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/24/the-false-promise-of-sovereignty-economics/",
-      "summary": "An analysis in The Hub critiques 'sovereignty economics,' a national strategy advocating for domestic ownership and control of technology and infrastructure through state intervention. The author argues that this approach, exemplified by Canada's AI strategy, overestimates the state's capacity to engineer such ownership and underestimates the benefits of global integration, ultimately leaving Canada poorer and less sovereign.",
-      "graph": ["Economic Policy", "Technology Policy", "Foreign Investment", "Industrial Strategy", "Global Integration"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May support strategic state intervention in key sectors like technology to protect national interests, create jobs, and ensure equitable control over essential infrastructure, even if it entails some degree of protectionism." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic arguments for and against 'sovereignty economics,' balancing the desire for national control with the benefits of international partnerships, market efficiency, and open economies." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly opposes government overreach in the economy and industrial planning, advocating for free-market principles, open investment, and global competition as the primary drivers of prosperity and innovation." }
-        },
-        "neutral": "An article critically examines the emerging concept of 'sovereignty economics' in Canada, which prioritizes domestic ownership and control of technology and infrastructure, arguing its potential to hinder economic prosperity and global integration."
+        "neutral": "A weekly review of federal proactive disclosure records spotlights numerous government hospitality expenses, prompting questions about fiscal prudence and accountability in public spending."
       }
     }
   ],
   "charter": [],
-  "indigenous": [
+  "indigenous": [],
+  "criminal": [
     {
-      "id": "indigenous-1",
-      "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Yukon Community Harnesses Indigenous Knowledge for Grizzly Bear Coexistence",
+      "id": "crim-1",
+      "category": "Criminal",
+      "source": "cbc.ca",
+      "title": "Canadian Intern at NATO Headquarters Charged with International Espionage",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/grizzly-bear-haines-junction-yukon-coexistence/?utm_source=rss",
-      "summary": "Haines Junction, Yukon, a community located in a dense grizzly bear corridor, has cultivated a decades-long coexistence with these animals, significantly informed by Indigenous Knowledge from the Champagne and Aishihik First Nations. Residents, including schoolchildren, are taught early how to safely interact with bears, viewing them as integral to their identity and environment, in contrast to rising human-grizzly conflicts elsewhere.",
-      "graph": ["Indigenous Knowledge", "Environmental Stewardship", "Wildlife Management", "First Nations Rights", "Coexistence"],
+      "url": "https://www.cbc.ca/news/politics/canadian-intern-nato-spying-9.7283752?cmp=rss",
+      "summary": "A Canadian citizen of Chinese origin, who was interning at NATO's Supreme Headquarters Allied Powers Europe (SHAPE) in Belgium, has been arrested and charged with spying for an unnamed third country and association with a criminal organization. The arrest followed an investigation initiated by NATO's security services, highlighting a significant international security breach.",
+      "graph": ["Espionage", "National Security", "International Crime", "NATO Security", "Criminal Justice"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 15, "center": 50, "right": 35 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of integrating traditional ecological knowledge with contemporary conservation efforts, highlighting successful models of Indigenous-led stewardship and challenging colonial approaches to land management." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical success of a community-based, informed approach to wildlife management and human-wildlife interaction, underscoring lessons learned from long-term coexistence models." },
-          "right": { "label": "Conservative Context", "synthesis": "May appreciate the self-reliance and local solutions demonstrated by the community in managing wildlife interactions, potentially seeing it as an example of effective, localized governance without excessive top-down regulation." }
+          "left": { "label": "Progressive Context", "synthesis": "Might raise questions about due process, potential for racial profiling, and the diplomatic complexities of international espionage cases. Focus could also be on the root causes of individuals potentially engaging in such activities or the need for transparency in intelligence operations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and international justice processes involved, the collaboration between Belgian authorities and NATO security, and the investigative steps taken. Emphasizes upholding the rule of law and ensuring a fair legal process in a high-stakes national security case." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the severity of espionage as a national security threat and the importance of robust intelligence and counter-intelligence measures. Calls for full accountability for those involved in undermining national and international security alliances, possibly linking it to broader geopolitical challenges posed by foreign actors." }
         },
-        "neutral": "The community of Haines Junction, Yukon, successfully coexists with grizzly bears, leveraging decades of local experience and Indigenous Knowledge from the Champagne and Aishihik First Nations for effective wildlife management."
+        "neutral": "A Canadian intern at NATO headquarters in Belgium faces charges of spying for a third country and criminal organization affiliation following an investigation by NATO security services."
       }
     },
     {
-      "id": "indigenous-2",
-      "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Photographer Captures Intimate Grizzly Bear Life in Haines Junction, Yukon, Reflecting Community Coexistence",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/haines-junction-grizzly-bear-photos/?utm_source=rss",
-      "summary": "Photographer Sonny Parker utilized camera traps over a year to capture intimate images of grizzly bears in Haines Junction, Yukon. This project is intertwined with the community's established history of peaceful coexistence with these animals, a relationship deeply influenced by local Indigenous knowledge, as explored in a companion feature. The photos aim to foster greater understanding and protection of grizzlies.",
-      "graph": ["Wildlife Photography", "Conservation", "Indigenous Culture", "Community Relations", "Grizzly Bears"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the aesthetic and emotional connection to nature, reinforcing calls for stronger conservation efforts and respect for ecosystems, often echoing Indigenous perspectives on interconnectedness." },
-          "center": { "label": "Procedural Context", "synthesis": "Appreciates the educational and awareness-raising potential of the photography, contributing to broader public understanding of wildlife and community conservation practices." },
-          "right": { "label": "Conservative Context", "synthesis": "May value the individual initiative of the photographer and the local community's pragmatic approach to living with wildlife, perhaps seeing it as an example of private efforts contributing to conservation without extensive government intervention." }
-        },
-        "neutral": "Photographer Sonny Parker's work showcases grizzly bears in Haines Junction, Yukon, complementing narratives of local and Indigenous community coexistence and conservation efforts."
-      }
-    }
-  ],
-  "criminal": [
-    {
-      "id": "criminal-1",
+      "id": "crim-2",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "GTA Man Accused of Murder Arrested in Major Organized Crime and Drug Trafficking Operation",
+      "source": "torontosun.com",
+      "title": "Brampton Man Charged with First-Degree Murder in Rexdale Shooting",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/accused-gta-killer-organized-crime-blitz",
-      "summary": "Michele Moscone, already in custody for a murder accusation, has been implicated in a large-scale $139 million organized crime and drug trafficking investigation by law enforcement in the Greater Toronto Area. This major police operation targeted criminal networks, leading to numerous arrests and seizures, highlighting ongoing efforts to combat organized crime.",
-      "graph": ["Organized Crime", "Drug Trafficking", "Murder Investigation", "Law Enforcement", "Greater Toronto Area"],
+      "url": "https://torontosun.com/news/local-news/cops-identify-female-victim-gunned-down-in-rexdale",
+      "summary": "Toronto Police have identified a female victim fatally shot in the Rexdale area and have subsequently charged a 37-year-old Brampton man with first-degree murder. This development marks a significant step in the ongoing investigation into a recent violent crime in the Greater Toronto Area, bringing the case closer to judicial proceedings.",
+      "graph": ["Murder", "Homicide Investigation", "Criminal Charges", "Toronto Crime", "Law Enforcement"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 50, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May focus on systemic issues that contribute to organized crime, such as poverty or lack of social support, and the need for rehabilitation programs in addition to law enforcement." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the efficacy of police operations in disrupting criminal networks and the legal processes involved in prosecuting serious offenses, emphasizing public safety and rule of law." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for strong law enforcement measures, increased police funding, and severe penalties for organized crime to ensure public safety and deter criminal activity." }
+          "left": { "label": "Progressive Context", "synthesis": "This perspective would analyze the societal factors contributing to gun violence, such as poverty, lack of opportunities, or systemic inequalities. It would advocate for community-based prevention programs, mental health support, and addressing root causes of crime alongside law enforcement." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the police investigation, the laying of charges, the evidence collection process, and the upcoming judicial proceedings. Emphasizes the importance of due process, fair trial, and the objective application of criminal law to ensure justice." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint stresses the importance of law and order, advocating for stringent enforcement, effective policing, and severe punishment for violent crimes. It might highlight the need for greater public safety measures and a strong stance against criminal activity." }
         },
-        "neutral": "A suspect already facing murder charges in the GTA has been further implicated in a $139 million organized crime and drug trafficking bust, underscoring ongoing law enforcement efforts against criminal networks."
+        "neutral": "Toronto Police have charged a 37-year-old Brampton man with first-degree murder following the identification of a female victim shot dead in Rexdale."
+      }
+    },
+    {
+      "id": "crim-3",
+      "category": "Criminal",
+      "source": "thehub.ca",
+      "title": "Escalation of Violent Antisemitic Attacks Outpaces Ottawa's Response",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/24/27-violent-antisemitic-attacks-in-6-months-canadas-crisis-has-outpaced-ottawas-response/",
+      "summary": "B'nai Brith Canada reports a alarming surge in violent antisemitic incidents, with 27 documented in the first half of the year—more than double the previous year's total—and projections suggesting 50 by year-end 2026. This data underscores a critical public safety crisis and argues that the federal government's current response is insufficient to address the accelerating threat of antisemitic violence across Canada.",
+      "graph": ["Antisemitism", "Hate Crimes", "Public Safety", "Federal Inaction", "Community Security"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 30, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "This perspective would call for comprehensive government action, including anti-hate legislation, increased funding for community security initiatives, and educational programs to combat discrimination and its root causes. It emphasizes the need for a strong, inclusive societal response to protect minority groups." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on the statistical data, the effectiveness of existing law enforcement and public safety measures, and the policy challenges in addressing hate crimes. It would assess the adequacy of governmental responses against the documented rise in incidents, seeking evidence-based solutions." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint would strongly condemn the rise in antisemitic violence, demanding more robust law enforcement, stricter penalties for hate crimes, and clear government leadership in combating extremism. It might criticize perceived government inaction as a failure to uphold national security and protect citizens." }
+        },
+        "neutral": "B'nai Brith Canada's report on 27 violent antisemitic attacks in six months, double last year's total, suggests Ottawa's response is insufficient to an escalating crisis."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "imm-1",
+      "category": "Immigration",
+      "source": "nationalpost.com",
+      "title": "Canada Sees 20% Decline in New Permanent Residents, Driven by Drop from India",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/new-permanent-residents-down-20-percent-in-canada",
+      "summary": "Canada has recorded a 20% reduction in the intake of new permanent residents, with a substantial portion of this decline (nearly half) stemming from a 66% drop in study permits issued to Indian students since 2023. Regionally, Ontario and British Columbia accounted for 81% of the national decrease, while Quebec notably saw a 12% increase, indicating significant shifts in national immigration patterns and provincial distribution strategies.",
+      "graph": ["Immigration Trends", "Permanent Residency", "Student Visas", "Demographic Change", "Immigration Policy"],
+      "spectrum": {
+        "baseline": { "left": 25, "center": 40, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "This perspective might express concern about the impact of declining immigration on labor markets, diversity, and economic growth, advocating for policies that facilitate broader access for immigrants and international students. It might also call for examination of barriers for specific national groups." },
+          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on the demographic and economic implications of these trends, the specific policy changes (if any) that led to the decline in Indian student permits, and the varying provincial immigration strategies. It would assess the data for its impact on Canada's overall immigration goals." },
+          "right": { "label": "Conservative Context", "synthesis": "This viewpoint could frame the decline as a necessary adjustment to manage population growth, housing pressures, or labor market demands. It might advocate for more selective immigration policies, focusing on skilled labor, and question the economic benefits of previous immigration levels." }
+        },
+        "neutral": "Canada experienced a 20% decrease in new permanent residents, largely due to a 66% drop in Indian student permits, with Ontario and B.C. seeing the most significant regional declines while Quebec grew."
+      }
+    }
+  ]
 }
