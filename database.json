@@ -1,238 +1,181 @@
 {
   "federalism": [
     {
-      "id": "fed-1",
+      "id": "federalism-carney-byelections",
       "category": "Federalism",
-      "source": "rabble.ca",
-      "title": "Unions Allege Public Service Cuts Worsened National Wildfire Response",
+      "source": "CBC News",
+      "title": "Prime Minister Carney Calls August Byelections in Key Ridings to Retain House Majority",
       "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/labour/wildfire-crisis-worsened-by-public-service-cuts-unions-say/",
-      "summary": "Federal public service unions are asserting that budget cuts implemented by the Mark Carney government have directly undermined Canada's capacity to effectively manage and respond to ongoing wildfire crises. They argue that reductions in public service personnel and resources have left the country ill-prepared for national emergencies of this scale, impacting public safety and environmental management.",
-      "graph": ["Wildfire Crisis", "Public Service Funding", "Union Advocacy", "Federal Capacity", "National Emergencies"],
+      "url": "https://www.cbc.ca/news/politics/carney-byelections-bc-ontario-quebec-9.7284819?cmp=rss",
+      "summary": "Prime Minister Mark Carney has announced three federal byelections for August 31, 2026, in North Vancouver\u2013Capilano (B.C.), Beaches-East York (Ontario), and Chicoutimi\u2014Le Fjord (Quebec). These elections are crucial for the Liberal Party to secure at least one seat and maintain its technical majority in the House of Commons, given several upcoming MP resignations.",
+      "graph": ["Federal Elections", "Parliamentary Dynamics", "Political Strategy", "House of Commons", "Government Stability"],
       "spectrum": {
-        "baseline": { "left": 60, "center": 25, "right": 15 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective strongly critiques government austerity measures, arguing that cuts to the public service are shortsighted and directly endanger citizens during crises. It emphasizes the critical role of well-funded public institutions in national resilience and advocates for increased investment in essential services and worker protections." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would evaluate the impact of budgetary decisions on operational readiness for natural disasters. It would examine public service staffing levels, emergency preparedness protocols, and resource allocation efficiency, seeking data-driven insights into system strengths and weaknesses without inherent political bias." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might argue that government spending must be fiscally responsible, and any issues in crisis response could be due to inefficient spending rather than insufficient funds, or call for private sector involvement, questioning the necessity or effectiveness of extensive government apparatus." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints may emphasize these byelections as vital for democratic participation and a chance for voters to influence federal policy direction. Concerns might be raised about voter engagement or the equitable representation of diverse constituencies in such critical electoral contests." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the constitutional and procedural necessity of these byelections to fill vacant parliamentary seats. The central analysis revolves around the mechanics of maintaining governmental stability and the orderly functioning of the federal legislative body." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary might highlight the government's need to shore up its parliamentary position, questioning the timing or strategic implications for the balance of power. Emphasis may be placed on government accountability and the broader political landscape." }
         },
-        "neutral": "Unions claim that federal public service cuts by the Carney government have impaired Canada's wildfire response capabilities, highlighting concerns about governmental preparedness for national emergencies."
+        "neutral": "The announcement of three federal byelections in August aims to fill vacant parliamentary seats, with significant implications for the Liberal government's ability to maintain its technical majority in the House of Commons."
       }
     },
     {
-      "id": "fed-2",
+      "id": "federalism-canada-antinuke-path",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "Federal Food Security Strategy Targets Grocery Oligopoly with Local Hubs",
+      "source": "CBC News",
+      "title": "Canada's Nuclear Ambiguity: Shortening Path to Atomic Weapons Amidst Anti-Proliferation Stance",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-grocery-competition-carney-food-strategy-funding-food-hubs-food-terminal-9.7282701?cmp=rss",
-      "summary": "The Mark Carney government has launched a national food security strategy, committing $1 billion over ten years to establish up to 40 local food hubs across Canada. The initiative aims to counter the concentrated power of five major grocery chains controlling 75% of the market, empowering local farmers and fostering competition. While experts see potential to disrupt the retail giants, the strategy's effect on lowering consumer food prices remains a subject of debate.",
-      "graph": ["Food Security", "Grocery Competition", "Federal Funding", "Local Agriculture", "Market Intervention"],
+      "url": "https://www.cbc.ca/news/politics/canada-remains-antinuke-road-to-bomb-getting-shorter-9.7283194?cmp=rss",
+      "summary": "Despite Canada's official anti-nuclear weapons policy, its indigenous nuclear industry, heavy-water CANDU reactors, and abundant uranium reserves technically position it to develop nuclear weapons with relative ease. The potential for domestic uranium enrichment for new small modular reactors would further diminish the technical gap, presenting significant geopolitical implications while raising questions about Canada's long-term nuclear stance.",
+      "graph": ["Nuclear Policy", "International Relations", "National Security", "Energy Policy", "Non-Proliferation", "Canadian Sovereignty"],
       "spectrum": {
-        "baseline": { "left": 50, "center": 30, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This approach is generally welcomed as a step towards food sovereignty, supporting local economies, and addressing corporate power. It aligns with desires for equitable food systems, fair prices for farmers, and improved access to fresh, local produce for communities, potentially advocating for even stronger anti-monopoly measures." },
-          "center": { "label": "Procedural Context", "synthesis": "Analysis would focus on the operational effectiveness and economic impact of the food hubs. It would objectively assess whether the investment leads to measurable increases in farmer income, diversification of supply chains, and, crucially, downward pressure on consumer prices, while also examining logistical challenges and market dynamics." },
-          "right": { "label": "Conservative Context", "synthesis": "Skeptical views may question the efficacy of government intervention in market mechanisms, arguing that $1 billion is a substantial investment that might not significantly alter consumer prices or promote true competition. It could advocate for less state involvement and more market-driven solutions to enhance grocery competition and efficiency." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would express strong concerns about nuclear proliferation risks and environmental impacts of expanding nuclear technology. There might be calls for reinforced international arms control and a firm commitment to peaceful nuclear energy applications without military potential." },
+          "center": { "label": "Procedural Context", "synthesis": "A central analysis focuses on the technical realities and policy implications for Canada, balancing its non-proliferation commitments with the strategic management of its nuclear capabilities. It examines the dual-use nature of nuclear technology and the regulatory framework required." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might emphasize national sovereignty and the strategic advantage of latent nuclear capabilities as a deterrent in an unpredictable global landscape. Discussions could involve energy security benefits from nuclear power and a pragmatic evaluation of defense options." }
         },
-        "neutral": "The Carney government's $1 billion national food security strategy proposes establishing local food hubs to tackle grocery market consolidation, aiming to bolster farmers and competition, though its impact on consumer prices is uncertain."
+        "neutral": "Canada possesses the technical infrastructure, including heavy-water reactors and uranium supply, that provides a relatively short pathway to nuclear weapons development, despite its official anti-nuclear weapon stance, a situation further influenced by potential future uranium enrichment decisions for new reactors."
       }
     },
     {
-      "id": "fed-3",
+      "id": "federalism-conservatives-carney-trump",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "Bloc Québécois Leader's X Account Hacked for Bitcoin Promotion",
+      "source": "Global News",
+      "title": "Conservatives Demand Parliamentary Session on Carney's Trump Negotiation Strategy",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/bloc-hack-crypto-9.7281719?cmp=rss",
-      "summary": "Bloc Québécois Leader Yves-François Blanchet's X (formerly Twitter) account was compromised for two weeks, used to promote Bitcoin, before being restored. This cybersecurity incident targeting a prominent federal political figure raises serious questions about the digital security protocols for politicians and the responsiveness of social media platforms to political account breaches. The Bloc expressed dissatisfaction with X's assistance in resolving the issue.",
-      "graph": ["Cybersecurity", "Political Accounts", "Social Media", "Bitcoin Scams", "Federal Politics"],
+      "url": "https://globalnews.ca/news/11994151/conservative-mp-emergency-meeting-trump-negotiation-plan/",
+      "summary": "Conservative MP Shuv Majumdar has formally requested an urgent meeting of the Standing Committee on International Trade, seeking a comprehensive explanation from Prime Minister Mark Carney regarding his government's negotiation plan for upcoming discussions with President Trump. This move underscores the opposition's push for greater transparency and accountability on critical foreign trade policy.",
+      "graph": ["Parliamentary Oversight", "Foreign Policy", "Trade Negotiations", "Political Opposition", "Government Accountability", "Canada-US Relations"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 50, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective highlights the broader implications of digital security failures for democratic integrity and information dissemination. It may call for increased regulation of social media platforms to ensure faster response times to hacks and better protection of public figures' accounts from misinformation and manipulation." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective assessment would focus on the technical aspects of the hack, the procedural response of both the political party and the social media platform, and the general best practices for cybersecurity in political communications. It would emphasize the need for robust, consistent security measures and clear communication protocols." },
-          "right": { "label": "Conservative Context", "synthesis": "This view might emphasize individual accountability for digital security practices and question the reliance on external platforms for political communication. It could also open a discussion on the role of tech companies in controlling information and the need for greater transparency regarding their content moderation and security practices." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would support parliamentary transparency in trade negotiations, ensuring that any deal aligns with social justice, environmental standards, and fair labour practices, emphasizing public input over secretive elite agreements." },
+          "center": { "label": "Procedural Context", "synthesis": "The procedural lens highlights the opposition's role in holding the government accountable. It examines the mechanisms of parliamentary scrutiny, the importance of detailed policy explanations, and the adherence to established governmental protocols in international relations." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would stress the necessity of a strong, clear, and beneficial trade strategy for Canada, critiquing any perceived weakness or lack of direction from the government. The call for a meeting asserts the opposition's duty to protect national economic interests and ensure a robust approach." }
         },
-        "neutral": "Bloc Québécois Leader Yves-François Blanchet's X account was hacked to promote Bitcoin for two weeks, prompting concerns about political cybersecurity and the platform's incident response."
+        "neutral": "The Conservative Party is demanding an emergency meeting of the International Trade Committee for Prime Minister Carney to detail his negotiation strategy concerning President Trump, signaling heightened political scrutiny over Canada's foreign trade policy."
       }
     },
     {
-      "id": "fed-4",
+      "id": "federalism-alberta-smith-trump",
       "category": "Federalism",
-      "source": "theglobeandmail.com",
-      "title": "Ottawa Consults on Regulating Misleading AI Agents and Content",
+      "source": "Global News",
+      "title": "Alberta Premier Rejects Retaliatory Alcohol Ban Amid Trump Tariff Threats, Emphasizes Calm Approach",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-ottawa-consults-on-ai-agents-shopping-bots-mislead/",
-      "summary": "The federal government is initiating a consultation process to gather public and expert opinions on regulating artificial intelligence (AI) agents that may mislead users or malfunction, such as shopping bots. Led by the Minister of Artificial Intelligence and Digital Innovation, Evan Solomon, the consultation also seeks views on mandatory labeling for AI-generated content (videos, music, text), aiming to establish transparent and accountable frameworks for AI use in Canada.",
-      "graph": ["AI Regulation", "Digital Policy", "Consumer Protection", "AI Transparency", "Federal Consultation"],
+      "url": "https://globalnews.ca/news/11993638/alta-smith-radio-show/",
+      "summary": "Alberta Premier Danielle Smith has publicly stated her government will not impose an alcohol ban on U.S. products in response to President Donald Trump's recent tariff threats. Smith indicated a preference for a 'stay calm' approach, highlighting the complex interplay between provincial jurisdiction, federal trade policy, and international relations.",
+      "graph": ["Provincial Autonomy", "International Trade", "Federal-Provincial Relations", "Economic Policy", "Diplomacy", "Trade Disputes"],
       "spectrum": {
-        "baseline": { "left": 40, "center": 40, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective strongly supports proactive government regulation to ensure AI development is ethical, socially responsible, and protects vulnerable populations from algorithmic bias and deceptive practices. It advocates for robust consumer protections and clear accountability mechanisms for AI failures." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective assessment focuses on the technical challenges of AI regulation, the need for balanced policy that fosters innovation while mitigating risk, and the importance of multi-stakeholder input. It examines international precedents and the feasibility of implementing effective transparency and liability frameworks." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might express caution about government over-regulation stifling innovation and economic growth in the AI sector. It could advocate for industry-led standards, minimal government intervention, and a focus on market-based solutions to address AI-related issues, prioritizing technological advancement." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might commend the avoidance of protectionist measures that could harm consumers or specific industries, advocating for cooperative international trade and diplomatic solutions over escalatory actions." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the Premier's pragmatic decision-making, acknowledging the balance between provincial economic interests and the federal government's primary role in international trade. It highlights the complexities of managing cross-border economic relations within a federal structure." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary might support the Premier's measured response as fiscally responsible and protective of Alberta's economy, emphasizing prudent management and avoiding unnecessary trade disputes, while also asserting provincial interests in federal-international policy." }
         },
-        "neutral": "Canada's federal government is consulting on measures to regulate misleading or malfunctioning AI agents and require labeling for AI-generated content, aiming to ensure transparency and accountability."
+        "neutral": "Alberta Premier Danielle Smith announced her province would not impose an alcohol ban as retaliation against President Trump's tariff threats, advocating a calm approach to international trade disputes."
       }
     },
     {
-      "id": "fed-5",
+      "id": "federalism-cotler-carney-foreignpolicy",
       "category": "Federalism",
-      "source": "globalnews.ca",
-      "title": "Canada Explores Leverage Against Potential Trump Tariffs",
+      "source": "National Post",
+      "title": "Irwin Cotler Critiques Carney Government's Foreign Policy Execution Post-Davos Commitments",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11986422/donald-trump-tariffs-canada-leverage-critical-minerals-premiers/",
-      "summary": "In response to former U.S. President Donald Trump's threat of 50% tariffs, Prime Minister Mark Carney has indicated that Canada will consider \"everything on the table\" to protect its interests. The article examines Canada's potential leverage, including its supply of critical minerals, and explores the varying perspectives of provincial premiers and trade experts on how to best formulate a federal-provincial response to a potential trade war with the United States.",
-      "graph": ["Trade War", "US-Canada Relations", "Tariffs", "Critical Minerals", "Federal-Provincial Strategy"],
+      "url": "https://nationalpost.com/opinion/what-happened-to-carneys-davos-call-for-principled-pragmatic-foreign-policy",
+      "summary": "Irwin Cotler, former Liberal Justice Minister, published an opinion piece critically assessing the Carney government's foreign policy. He questioned whether the administration has consistently upheld its stated commitment to a 'principled, pragmatic foreign policy,' highlighting instances where actions may diverge from the principles articulated at Davos.",
+      "graph": ["Foreign Policy", "Government Accountability", "International Relations", "Political Critique", "Public Policy", "Davos"],
       "spectrum": {
-        "baseline": { "left": 25, "center": 50, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective would emphasize protecting Canadian jobs and industries, advocating for strong government support for affected sectors and exploring diversification of trade relationships to reduce reliance on the U.S. It might also highlight the need for a unified national strategy that considers social impacts." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on diplomatic strategies, legal recourse under trade agreements, and economic impact assessments. It would consider the effectiveness of various retaliatory or conciliatory measures and the complexities of coordinating federal and provincial responses to international trade disputes." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint would likely advocate for a firm stance against U.S. protectionism, emphasizing national economic sovereignty and the importance of reciprocal trade. It might also critique past Canadian trade policies or call for clearer articulation of Canada's economic leverage, particularly in resource sectors." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators may align with Cotler's call for a principled foreign policy, emphasizing human rights, international cooperation, and ethical consistency. They might critique any perceived compromises on these values in the pursuit of 'pragmatic' interests." },
+          "center": { "label": "Procedural Context", "synthesis": "From a neutral standpoint, this opinion piece serves as an important critique of policy coherence and implementation. It invites a procedural review of how government statements on foreign policy translate into actionable and consistent diplomatic strategies." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative analyses might leverage Cotler's critique to question the overall effectiveness and reliability of the government's foreign policy. They may emphasize the importance of clear, strong national interest in international dealings and demand greater accountability for perceived inconsistencies." }
         },
-        "neutral": "Prime Minister Mark Carney is exploring all options, including leveraging critical minerals, as Canada prepares a federal-provincial response to potential 50% tariffs threatened by the Trump administration."
+        "neutral": "Irwin Cotler's opinion piece critically evaluates the Carney government's foreign policy, examining the consistency between its public commitments to a 'principled, pragmatic' approach and its actual international actions."
       }
     },
     {
-      "id": "fed-6",
+      "id": "federalism-supreme-one-liners",
       "category": "Federalism",
-      "source": "nationalpost.com",
-      "title": "Ukraine Seeks 30-Year Energy Pact with Canada, Plus $650M Aid",
+      "source": "Slaw.ca",
+      "title": "Supreme Court of Canada Clarifies Riparian Rights and Grants Leave on RCMP Administrative Law Case",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/ukraine-seeks-30-year-energy-pact-with-canada-minister-says",
-      "summary": "Ukraine is seeking to forge a long-term, 30-year energy partnership with Canada, according to a Ukrainian minister. This request is coupled with an appeal for a direct Canadian grant of $650 million to facilitate Ukraine's purchase of gas for the upcoming winter. This initiative underscores Canada's continuing role in supporting Ukraine's energy security and reconstruction efforts amidst geopolitical instability.",
-      "graph": ["Ukraine Support", "Energy Cooperation", "Foreign Aid", "International Pacts", "Canadian Diplomacy"],
+      "url": "https://www.slaw.ca/2026/07/26/summaries-sunday-supreme-one-liners-43/",
+      "summary": "The Supreme Court of Canada has recently issued clarifications on riparian rights concerning submerged lots in *Zardev Inc. v. Dydzak* (2026 SCC 27). Additionally, the Court granted leave to appeal in *Royal Canadian Mounted Police External Review Committee, et al. v. Benison, et al.* (2026 FCA 53), which involves matters of administrative law and mandamus concerning a key federal institution.",
+      "graph": ["Supreme Court of Canada", "Real Property Law", "Administrative Law", "RCMP", "Judicial Review", "Federal Law"],
       "spectrum": {
-        "baseline": { "left": 40, "center": 40, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective strongly supports Canada's role in international solidarity and humanitarian aid, particularly for Ukraine. It emphasizes the moral imperative to assist nations under duress and potentially advocates for even broader support, including renewable energy initiatives and long-term development." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on the diplomatic, economic, and logistical feasibility of such a long-term energy pact and the implications of the financial grant. It would examine Canada's capacity to meet such commitments, the strategic benefits for both nations, and the mechanisms for accountability and delivery." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might scrutinize the financial commitment and its potential impact on Canadian taxpayers, advocating for careful cost-benefit analysis and clear terms for aid. It could question the extent of Canada's long-term entanglement in foreign energy markets and prioritize domestic economic stability." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive legal thought may focus on the implications for environmental protection in riparian rights and ensuring robust oversight mechanisms for federal bodies like the RCMP to safeguard civil liberties and equitable treatment." },
+          "center": { "label": "Procedural Context", "synthesis": "The central legal analysis emphasizes the Supreme Court's role in clarifying and developing federal common law and administrative principles. This ensures legal certainty, consistent application of law across Canada, and the proper functioning of federal governance structures." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might prioritize the clarity of property rights to support economic activity and may show interest in how administrative law affects the efficiency and operational autonomy of federal institutions, including potential concerns about judicial intervention in executive functions." }
         },
-        "neutral": "Ukraine is proposing a 30-year energy pact with Canada and requesting a $650 million grant for winter gas purchases, highlighting Canada's role in supporting Ukraine's energy security."
-      }
-    },
-    {
-      "id": "fed-7",
-      "category": "Federalism",
-      "source": "torontosun.com",
-      "title": "Federal Government Rejects Ontario's Billy Bishop Airport Expansion Plan",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/federal-government-not-supporting-ontario-expand-billy-bishop-airport",
-      "summary": "Transport Minister Steven MacKinnon announced that the federal government will not support Ontario's proposal to expand the Billy Bishop Toronto City Airport. This decision signals a significant federal-provincial disagreement over major urban infrastructure and development, raising questions about jurisdictional boundaries and the future of transportation planning in Canada's largest city.",
-      "graph": ["Federal-Provincial Dispute", "Airport Infrastructure", "Urban Development", "Transport Policy", "Ontario Politics"],
-      "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective might view the federal rejection as a victory for environmental protection, noise reduction, and sustainable urban planning, prioritizing community interests and public transit over increased air traffic in an urban core. It may also criticize provincial expansionist development agendas." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would explore the specific reasons cited by the federal government for non-support (e.g., environmental impact, safety, financial feasibility, competing priorities) and the process of federal-provincial negotiation on such projects. It would consider the broader implications for national transport strategy." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint might criticize the federal government for impeding economic development and regional connectivity. It could argue for provincial autonomy in infrastructure decisions or highlight the potential benefits of airport expansion for business and tourism, framing the federal stance as bureaucratic obstruction." }
-        },
-        "neutral": "The federal government has refused to support Ontario's plan to expand Billy Bishop Toronto City Airport, marking a federal-provincial policy clash on urban infrastructure development."
-      }
-    },
-    {
-      "id": "fed-8",
-      "category": "Federalism",
-      "source": "thehub.ca",
-      "title": "Analysis Questions Fiscal Prudence of Federal Government Spending",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/24/your-tax-dollars-at-work-14/",
-      "summary": "A weekly review of proactive disclosure records highlights various instances of federal government hospitality spending, including significant expenses by entities like the National Gallery of Canada and the Canadian Museum of History. The analysis raises questions about the fiscal prudence and accountability of government departments and agencies in their use of taxpayer funds for events and catering, drawing public scrutiny to administrative expenditures.",
-      "graph": ["Government Accountability", "Public Spending", "Fiscal Policy", "Transparency", "Federal Administration"],
-      "spectrum": {
-        "baseline": { "left": 20, "center": 35, "right": 45 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While supporting government programs, this view would demand accountability for perceived waste, arguing that such funds could be better directed towards social services or urgent public needs. It may criticize elite spending while public services are underfunded." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective perspective would analyze the mechanisms of public expenditure oversight, the adequacy of transparency protocols, and the guidelines for hospitality spending within government agencies. It would seek to identify any systemic issues in fiscal management and propose improvements for efficiency and accountability." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint strongly criticizes what is perceived as excessive and wasteful government spending, advocating for strict fiscal austerity, reduced bureaucracy, and greater respect for taxpayer money. It frames such expenditures as symptomatic of a broader problem of government inefficiency and detachment from public economic realities." }
-        },
-        "neutral": "A weekly review of federal proactive disclosure records spotlights numerous government hospitality expenses, prompting questions about fiscal prudence and accountability in public spending."
+        "neutral": "Recent Supreme Court of Canada legal developments include a decision clarifying riparian property rights and the granting of leave to appeal in a case that will address administrative law issues involving the Royal Canadian Mounted Police."
       }
     }
   ],
-  "charter": [],
+  "charter": [
+    {
+      "id": "charter-soquij-s12-challenge",
+      "category": "Charter",
+      "source": "Slaw.ca",
+      "title": "Quebec Court of Appeal Declares Mandatory Minimum Sentence for Child Pornography Unconstitutional Under Charter Section 12",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/07/26/summaries-sunday-soquij-637/",
+      "summary": "In *Claing c. R.*, the Quebec Court of Appeal ruled that the mandatory minimum sentence for distributing child pornography (Criminal Code s. 163.1(3)) constitutes cruel and unusual punishment under Section 12 of the Charter of Rights and Freedoms when applied to an offender with an intellectual disability and mental health issues. The court substituted the initial 12-month imprisonment with a 6-month conditional sentence, underscoring the necessity of individualized sentencing to ensure proportionality.",
+      "graph": ["Constitutional Law", "Criminal Sentencing", "Cruel and Unusual Punishment", "Mandatory Minimums", "Intellectual Disability", "Judicial Review", "Quebec Court of Appeal"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would strongly support this ruling, emphasizing the Charter's role in protecting vulnerable individuals from disproportionate sentences and advocating for rehabilitation over solely punitive measures, particularly for those with mental health challenges or intellectual disabilities." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral legal analysis focuses on the judicial review of legislative intent against constitutional rights. The decision reaffirms the appellate court's role in ensuring sentencing principles are applied justly and that laws comply with fundamental Charter protections, balancing societal protection with individual justice." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary might express concern about the court's overturning of mandatory minimums, which are often seen as vital for deterrence and public protection against serious crimes like child pornography. This perspective might highlight concerns about judicial activism and leniency." }
+        },
+        "neutral": "The Quebec Court of Appeal found a mandatory minimum sentence for child pornography distribution unconstitutional as applied to an offender with an intellectual disability, citing a violation of Section 12 of the Charter against cruel and unusual punishment, and imposed a conditional sentence."
+      }
+    }
+  ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "crim-1",
+      "id": "criminal-nato-spy-arrest",
       "category": "Criminal",
-      "source": "cbc.ca",
-      "title": "Canadian Intern at NATO Headquarters Charged with International Espionage",
+      "source": "The Globe and Mail",
+      "title": "Canadian Intern at NATO HQ Arrested on Suspicion of Espionage for 'Third Country'",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canadian-intern-nato-spying-9.7283752?cmp=rss",
-      "summary": "A Canadian citizen of Chinese origin, who was interning at NATO's Supreme Headquarters Allied Powers Europe (SHAPE) in Belgium, has been arrested and charged with spying for an unnamed third country and association with a criminal organization. The arrest followed an investigation initiated by NATO's security services, highlighting a significant international security breach.",
-      "graph": ["Espionage", "National Security", "International Crime", "NATO Security", "Criminal Justice"],
+      "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-spying-for-third-country/",
+      "summary": "A Canadian national, serving as an intern at NATO Headquarters in Brussels, Belgium, has been arrested under suspicion of engaging in espionage activities on behalf of an unidentified 'third country.' Public Safety Canada confirmed that the arrest is connected to an ongoing criminal investigation into national security offences.",
+      "graph": ["Espionage", "National Security", "International Affairs", "Criminal Investigation", "NATO", "Foreign Interference"],
       "spectrum": {
-        "baseline": { "left": 15, "center": 50, "right": 35 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might raise questions about due process, potential for racial profiling, and the diplomatic complexities of international espionage cases. Focus could also be on the root causes of individuals potentially engaging in such activities or the need for transparency in intelligence operations." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and international justice processes involved, the collaboration between Belgian authorities and NATO security, and the investigative steps taken. Emphasizes upholding the rule of law and ensuring a fair legal process in a high-stakes national security case." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the severity of espionage as a national security threat and the importance of robust intelligence and counter-intelligence measures. Calls for full accountability for those involved in undermining national and international security alliances, possibly linking it to broader geopolitical challenges posed by foreign actors." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis might focus on due process for the accused, potential geopolitical tensions, and the need for careful investigation into the root causes or vulnerabilities that could lead to such alleged acts." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective centers on the legal process of arrest and investigation for a serious national security crime. It emphasizes the collaboration between international and domestic law enforcement agencies and the protection of classified information and alliance integrity." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would stress the gravity of espionage, the importance of robust national security protocols, and severe penalties for individuals compromising national or allied intelligence. Calls for increased vigilance and stricter vetting processes are likely." }
         },
-        "neutral": "A Canadian intern at NATO headquarters in Belgium faces charges of spying for a third country and criminal organization affiliation following an investigation by NATO security services."
+        "neutral": "A Canadian intern at NATO Headquarters has been arrested on suspicion of spying for an unspecified foreign nation, with Canadian authorities confirming an ongoing criminal investigation related to national security."
       }
     },
     {
-      "id": "crim-2",
+      "id": "criminal-soquij-childporn-sentencing",
       "category": "Criminal",
-      "source": "torontosun.com",
-      "title": "Brampton Man Charged with First-Degree Murder in Rexdale Shooting",
+      "source": "Slaw.ca",
+      "title": "Quebec Court of Appeal Reduces Sentence and Finds Mandatory Minimum for Child Pornography Unconstitutional for Disabled Offender",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/cops-identify-female-victim-gunned-down-in-rexdale",
-      "summary": "Toronto Police have identified a female victim fatally shot in the Rexdale area and have subsequently charged a 37-year-old Brampton man with first-degree murder. This development marks a significant step in the ongoing investigation into a recent violent crime in the Greater Toronto Area, bringing the case closer to judicial proceedings.",
-      "graph": ["Murder", "Homicide Investigation", "Criminal Charges", "Toronto Crime", "Law Enforcement"],
+      "url": "https://www.slaw.ca/2026/07/26/summaries-sunday-soquij-637/",
+      "summary": "In *Claing c. R.*, the Quebec Court of Appeal addressed a case involving possession, access, and distribution of child pornography. The Court found that the trial judge inadequately weighed the accused's personal characteristics, specifically an intellectual disability and mental health issues, when imposing a sentence. Consequently, the Court substituted a 12-month imprisonment with a 6-month conditional sentence and declared the mandatory minimum sentence under Article 163.1(3) of the Criminal Code for distributing child pornography unconstitutional, as it violated Section 12 of the Charter by constituting cruel and unusual punishment in this context.",
+      "graph": ["Criminal Law", "Sentencing Principles", "Child Pornography", "Constitutional Challenge", "Intellectual Disability", "Mental Health", "Quebec Court of Appeal"],
       "spectrum": {
-        "baseline": { "left": 20, "center": 50, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective would analyze the societal factors contributing to gun violence, such as poverty, lack of opportunities, or systemic inequalities. It would advocate for community-based prevention programs, mental health support, and addressing root causes of crime alongside law enforcement." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the police investigation, the laying of charges, the evidence collection process, and the upcoming judicial proceedings. Emphasizes the importance of due process, fair trial, and the objective application of criminal law to ensure justice." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint stresses the importance of law and order, advocating for stringent enforcement, effective policing, and severe punishment for violent crimes. It might highlight the need for greater public safety measures and a strong stance against criminal activity." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive advocates would highlight the importance of individualized justice, considering an offender's mental and intellectual capacity for rehabilitation. They would support the ruling as a crucial step against rigid mandatory minimums that can lead to unjust outcomes for vulnerable populations." },
+          "center": { "label": "Procedural Context", "synthesis": "From a neutral standpoint, the ruling underscores the appellate court's role in correcting sentencing errors and ensuring legal principles, including Charter rights, are upheld. It clarifies the limits of mandatory minimums and reinforces the need for judicial discretion in applying criminal law." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative views might express concern over the reduction of a sentence for child pornography and the striking down of a mandatory minimum. They might argue for harsher penalties as a deterrent and to protect children, viewing the ruling as potentially undermining public safety and legislative intent." }
         },
-        "neutral": "Toronto Police have charged a 37-year-old Brampton man with first-degree murder following the identification of a female victim shot dead in Rexdale."
-      }
-    },
-    {
-      "id": "crim-3",
-      "category": "Criminal",
-      "source": "thehub.ca",
-      "title": "Escalation of Violent Antisemitic Attacks Outpaces Ottawa's Response",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/24/27-violent-antisemitic-attacks-in-6-months-canadas-crisis-has-outpaced-ottawas-response/",
-      "summary": "B'nai Brith Canada reports a alarming surge in violent antisemitic incidents, with 27 documented in the first half of the year—more than double the previous year's total—and projections suggesting 50 by year-end 2026. This data underscores a critical public safety crisis and argues that the federal government's current response is insufficient to address the accelerating threat of antisemitic violence across Canada.",
-      "graph": ["Antisemitism", "Hate Crimes", "Public Safety", "Federal Inaction", "Community Security"],
-      "spectrum": {
-        "baseline": { "left": 40, "center": 30, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective would call for comprehensive government action, including anti-hate legislation, increased funding for community security initiatives, and educational programs to combat discrimination and its root causes. It emphasizes the need for a strong, inclusive societal response to protect minority groups." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on the statistical data, the effectiveness of existing law enforcement and public safety measures, and the policy challenges in addressing hate crimes. It would assess the adequacy of governmental responses against the documented rise in incidents, seeking evidence-based solutions." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint would strongly condemn the rise in antisemitic violence, demanding more robust law enforcement, stricter penalties for hate crimes, and clear government leadership in combating extremism. It might criticize perceived government inaction as a failure to uphold national security and protect citizens." }
-        },
-        "neutral": "B'nai Brith Canada's report on 27 violent antisemitic attacks in six months, double last year's total, suggests Ottawa's response is insufficient to an escalating crisis."
+        "neutral": "The Quebec Court of Appeal modified a criminal sentence for child pornography offenses, substituting a conditional sentence and declaring a mandatory minimum unconstitutional for an offender with an intellectual disability, emphasizing individualized sentencing and Charter Section 12 protections."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "imm-1",
-      "category": "Immigration",
-      "source": "nationalpost.com",
-      "title": "Canada Sees 20% Decline in New Permanent Residents, Driven by Drop from India",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/new-permanent-residents-down-20-percent-in-canada",
-      "summary": "Canada has recorded a 20% reduction in the intake of new permanent residents, with a substantial portion of this decline (nearly half) stemming from a 66% drop in study permits issued to Indian students since 2023. Regionally, Ontario and British Columbia accounted for 81% of the national decrease, while Quebec notably saw a 12% increase, indicating significant shifts in national immigration patterns and provincial distribution strategies.",
-      "graph": ["Immigration Trends", "Permanent Residency", "Student Visas", "Demographic Change", "Immigration Policy"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 40, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective might express concern about the impact of declining immigration on labor markets, diversity, and economic growth, advocating for policies that facilitate broader access for immigrants and international students. It might also call for examination of barriers for specific national groups." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would focus on the demographic and economic implications of these trends, the specific policy changes (if any) that led to the decline in Indian student permits, and the varying provincial immigration strategies. It would assess the data for its impact on Canada's overall immigration goals." },
-          "right": { "label": "Conservative Context", "synthesis": "This viewpoint could frame the decline as a necessary adjustment to manage population growth, housing pressures, or labor market demands. It might advocate for more selective immigration policies, focusing on skilled labor, and question the economic benefits of previous immigration levels." }
-        },
-        "neutral": "Canada experienced a 20% decrease in new permanent residents, largely due to a 66% drop in Indian student permits, with Ontario and B.C. seeing the most significant regional declines while Quebec grew."
-      }
-    }
-  ]
+  "immigration": []
 }
