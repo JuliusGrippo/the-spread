@@ -1,179 +1,332 @@
 {
   "federalism": [
     {
-      "id": "federalism-carney-byelections",
+      "id": "fed-1",
+      "category": "Federalism",
+      "source": "The Narwhal",
+      "title": "Northern Ontario Forest Restoration Addresses Climate Change with Federal Input",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/rebuilding-samuel-de-champlain-forest/?utm_source=rss",
+      "summary": "Following a devastating storm in 2025, Samuel de Champlain Provincial Park in northern Ontario is undertaking a reforestation effort. This restoration considers climate change projections, with input from Forests Canada, to plant tree species better suited for future environmental conditions, highlighting the intersection of provincial park management and federal climate adaptation strategies.",
+      "graph": ["Climate Change", "Forest Management", "Environmental Policy", "Federal-Provincial Cooperation"],
+      "spectrum": {
+        "baseline": { "left": 50, "center": 30, "right": 20 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the urgency of climate action and integrated ecological management across governmental levels, prioritizing environmental resilience and long-term sustainability over short-term economic gains." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical implementation of climate adaptation strategies through inter-agency cooperation (Ontario Parks, Forests Canada) and scientific data to inform resilient environmental policy." },
+          "right": { "label": "Conservative Context", "synthesis": "May view such initiatives through the lens of cost-effectiveness and local autonomy, questioning the extent of federal involvement in provincial park operations, while acknowledging the need for practical disaster recovery." }
+        },
+        "neutral": "This initiative represents a collaborative governmental response to climate change impacts on natural ecosystems, integrating federal scientific projections into provincial land management for long-term ecological resilience."
+      }
+    },
+    {
+      "id": "fed-2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Prime Minister Carney Calls August Byelections in Key Ridings to Retain House Majority",
+      "title": "Gordie Howe International Bridge Opens to First Crossers",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-byelections-bc-ontario-quebec-9.7284819?cmp=rss",
-      "summary": "Prime Minister Mark Carney has announced three federal byelections for August 31, 2026, in North Vancouver\u2013Capilano (B.C.), Beaches-East York (Ontario), and Chicoutimi\u2014Le Fjord (Quebec). These elections are crucial for the Liberal Party to secure at least one seat and maintain its technical majority in the House of Commons, given several upcoming MP resignations.",
-      "graph": ["Federal Elections", "Parliamentary Dynamics", "Political Strategy", "House of Commons", "Government Stability"],
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howes-family-tecumseh-trucking-company-set-to-be-1st-crossers-of-new-span-9.7285650?cmp=rss",
+      "summary": "The Gordie Howe International Bridge, a major Canada-U.S. infrastructure project, has officially opened, with members of the Howe family and a Tecumseh trucking company being the first to cross. The bridge, a significant federal undertaking, aims to enhance cross-border trade and travel between Ontario and Michigan, featuring six traffic lanes and extensive customs facilities.",
+      "graph": ["International Infrastructure", "Canada-US Relations", "Trade Facilitation", "Federal Projects"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints may emphasize these byelections as vital for democratic participation and a chance for voters to influence federal policy direction. Concerns might be raised about voter engagement or the equitable representation of diverse constituencies in such critical electoral contests." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the constitutional and procedural necessity of these byelections to fill vacant parliamentary seats. The central analysis revolves around the mechanics of maintaining governmental stability and the orderly functioning of the federal legislative body." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary might highlight the government's need to shore up its parliamentary position, questioning the timing or strategic implications for the balance of power. Emphasis may be placed on government accountability and the broader political landscape." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the benefits of international cooperation and infrastructure investment to facilitate trade and cultural exchange, potentially advocating for equitable access and environmental considerations in such large-scale projects." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the logistical and operational aspects of opening a major international bridge, including customs procedures, traffic flow management, and the roles of binational authorities in maintaining the span." },
+          "right": { "label": "Conservative Context", "synthesis": "Focuses on the economic advantages of improved trade routes, the efficiency of border crossings, and the strategic importance of strengthening commercial ties with the U.S. through substantial infrastructure." }
         },
-        "neutral": "The announcement of three federal byelections in August aims to fill vacant parliamentary seats, with significant implications for the Liberal government's ability to maintain its technical majority in the House of Commons."
+        "neutral": "The opening of the Gordie Howe International Bridge marks a critical development in Canada-U.S. cross-border infrastructure, poised to significantly impact regional logistics, trade, and travel."
       }
     },
     {
-      "id": "federalism-canada-antinuke-path",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada's Nuclear Ambiguity: Shortening Path to Atomic Weapons Amidst Anti-Proliferation Stance",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-remains-antinuke-road-to-bomb-getting-shorter-9.7283194?cmp=rss",
-      "summary": "Despite Canada's official anti-nuclear weapons policy, its indigenous nuclear industry, heavy-water CANDU reactors, and abundant uranium reserves technically position it to develop nuclear weapons with relative ease. The potential for domestic uranium enrichment for new small modular reactors would further diminish the technical gap, presenting significant geopolitical implications while raising questions about Canada's long-term nuclear stance.",
-      "graph": ["Nuclear Policy", "International Relations", "National Security", "Energy Policy", "Non-Proliferation", "Canadian Sovereignty"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views would express strong concerns about nuclear proliferation risks and environmental impacts of expanding nuclear technology. There might be calls for reinforced international arms control and a firm commitment to peaceful nuclear energy applications without military potential." },
-          "center": { "label": "Procedural Context", "synthesis": "A central analysis focuses on the technical realities and policy implications for Canada, balancing its non-proliferation commitments with the strategic management of its nuclear capabilities. It examines the dual-use nature of nuclear technology and the regulatory framework required." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might emphasize national sovereignty and the strategic advantage of latent nuclear capabilities as a deterrent in an unpredictable global landscape. Discussions could involve energy security benefits from nuclear power and a pragmatic evaluation of defense options." }
-        },
-        "neutral": "Canada possesses the technical infrastructure, including heavy-water reactors and uranium supply, that provides a relatively short pathway to nuclear weapons development, despite its official anti-nuclear weapon stance, a situation further influenced by potential future uranium enrichment decisions for new reactors."
-      }
-    },
-    {
-      "id": "federalism-conservatives-carney-trump",
+      "id": "fed-3",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Conservatives Demand Parliamentary Session on Carney's Trump Negotiation Strategy",
+      "title": "Gordie Howe Bridge Opens Amid Intensified Canada-U.S. Trade Tensions",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11994151/conservative-mp-emergency-meeting-trump-negotiation-plan/",
-      "summary": "Conservative MP Shuv Majumdar has formally requested an urgent meeting of the Standing Committee on International Trade, seeking a comprehensive explanation from Prime Minister Mark Carney regarding his government's negotiation plan for upcoming discussions with President Trump. This move underscores the opposition's push for greater transparency and accountability on critical foreign trade policy.",
-      "graph": ["Parliamentary Oversight", "Foreign Policy", "Trade Negotiations", "Political Opposition", "Government Accountability", "Canada-US Relations"],
+      "url": "https://globalnews.ca/news/11994915/gordie-howe-bridge-open/",
+      "summary": "After prolonged delays, the Gordie Howe International Bridge is opening to traffic, providing a crucial new link between Windsor, Ontario, and Detroit, Michigan. This opening occurs against a backdrop of heightened Canada-U.S. trade tensions, notably U.S. President Donald Trump's threats of new tariffs on Canadian goods, underscoring the complex federal and international economic context surrounding the bridge's operationalization.",
+      "graph": ["International Trade", "Canada-US Relations", "Infrastructure Development", "Economic Policy", "Tariffs"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would support parliamentary transparency in trade negotiations, ensuring that any deal aligns with social justice, environmental standards, and fair labour practices, emphasizing public input over secretive elite agreements." },
-          "center": { "label": "Procedural Context", "synthesis": "The procedural lens highlights the opposition's role in holding the government accountable. It examines the mechanisms of parliamentary scrutiny, the importance of detailed policy explanations, and the adherence to established governmental protocols in international relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would stress the necessity of a strong, clear, and beneficial trade strategy for Canada, critiquing any perceived weakness or lack of direction from the government. The call for a meeting asserts the opposition's duty to protect national economic interests and ensure a robust approach." }
+          "left": { "label": "Progressive Context", "synthesis": "May highlight the economic vulnerability of Canada to protectionist U.S. policies, advocating for diversification of trade partners while emphasizing the bridge's potential for regional economic equity and job creation." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the bridge's delayed completion and opening as a key infrastructure project, alongside the ongoing diplomatic and economic negotiations surrounding Canada-U.S. trade relations and tariff threats." },
+          "right": { "label": "Conservative Context", "synthesis": "Focuses on the strategic importance of the bridge for Canadian exports and economic growth, while criticizing trade protectionism and calling for robust federal strategies to defend Canadian economic interests against U.S. tariffs." }
         },
-        "neutral": "The Conservative Party is demanding an emergency meeting of the International Trade Committee for Prime Minister Carney to detail his negotiation strategy concerning President Trump, signaling heightened political scrutiny over Canada's foreign trade policy."
+        "neutral": "The opening of the Gordie Howe International Bridge is a significant infrastructure milestone that is complicated by existing Canada-U.S. trade disputes and tariff threats, highlighting the dual objectives of facilitating commerce and navigating international economic policy."
       }
     },
     {
-      "id": "federalism-alberta-smith-trump",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "Alberta Premier Rejects Retaliatory Alcohol Ban Amid Trump Tariff Threats, Emphasizes Calm Approach",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11993638/alta-smith-radio-show/",
-      "summary": "Alberta Premier Danielle Smith has publicly stated her government will not impose an alcohol ban on U.S. products in response to President Donald Trump's recent tariff threats. Smith indicated a preference for a 'stay calm' approach, highlighting the complex interplay between provincial jurisdiction, federal trade policy, and international relations.",
-      "graph": ["Provincial Autonomy", "International Trade", "Federal-Provincial Relations", "Economic Policy", "Diplomacy", "Trade Disputes"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might commend the avoidance of protectionist measures that could harm consumers or specific industries, advocating for cooperative international trade and diplomatic solutions over escalatory actions." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the Premier's pragmatic decision-making, acknowledging the balance between provincial economic interests and the federal government's primary role in international trade. It highlights the complexities of managing cross-border economic relations within a federal structure." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary might support the Premier's measured response as fiscally responsible and protective of Alberta's economy, emphasizing prudent management and avoiding unnecessary trade disputes, while also asserting provincial interests in federal-international policy." }
-        },
-        "neutral": "Alberta Premier Danielle Smith announced her province would not impose an alcohol ban as retaliation against President Trump's tariff threats, advocating a calm approach to international trade disputes."
-      }
-    },
-    {
-      "id": "federalism-cotler-carney-foreignpolicy",
+      "id": "fed-4",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Irwin Cotler Critiques Carney Government's Foreign Policy Execution Post-Davos Commitments",
+      "title": "Trump's Boundary Waters Mining Policy Sparks Concerns for Canada-U.S. Water Agreements",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/what-happened-to-carneys-davos-call-for-principled-pragmatic-foreign-policy",
-      "summary": "Irwin Cotler, former Liberal Justice Minister, published an opinion piece critically assessing the Carney government's foreign policy. He questioned whether the administration has consistently upheld its stated commitment to a 'principled, pragmatic foreign policy,' highlighting instances where actions may diverge from the principles articulated at Davos.",
-      "graph": ["Foreign Policy", "Government Accountability", "International Relations", "Political Critique", "Public Policy", "Davos"],
+      "url": "https://nationalpost.com/news/what-trumps-tinkering-around-with-water-at-the-canadian-border-could-be-about",
+      "summary": "U.S. President Trump's reversal of a mining moratorium in the Boundary Waters area near the Canadian border raises questions about the potential impact on transboundary water agreements and Canada's environmental interests. This development suggests a possible escalation of U.S. pressure campaigns, potentially extending to critical shared natural resources between the two nations, impacting federal environmental and foreign policy.",
+      "graph": ["Canada-US Border", "Environmental Agreements", "Water Resources", "Federal Foreign Policy", "Resource Management"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 30, "right": 50 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators may align with Cotler's call for a principled foreign policy, emphasizing human rights, international cooperation, and ethical consistency. They might critique any perceived compromises on these values in the pursuit of 'pragmatic' interests." },
-          "center": { "label": "Procedural Context", "synthesis": "From a neutral standpoint, this opinion piece serves as an important critique of policy coherence and implementation. It invites a procedural review of how government statements on foreign policy translate into actionable and consistent diplomatic strategies." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative analyses might leverage Cotler's critique to question the overall effectiveness and reliability of the government's foreign policy. They may emphasize the importance of clear, strong national interest in international dealings and demand greater accountability for perceived inconsistencies." }
+          "left": { "label": "Progressive Context", "synthesis": "Expresses alarm over potential environmental degradation and the weakening of international environmental protections, advocating for strong federal intervention to protect shared water systems and prioritize ecological integrity over resource extraction." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and diplomatic mechanisms governing Canada-U.S. transboundary water management, examining how U.S. policy changes may test existing agreements and necessitate bilateral discussions." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques the U.S. policy decision but also emphasizes Canada's sovereign right to manage its resources, potentially advocating for a firm federal stance in defending national interests and economic prosperity related to natural resources." }
         },
-        "neutral": "Irwin Cotler's opinion piece critically evaluates the Carney government's foreign policy, examining the consistency between its public commitments to a 'principled, pragmatic' approach and its actual international actions."
+        "neutral": "The lifting of a U.S. mining moratorium near the Canadian border raises significant concerns for Canada regarding shared water resource management and the stability of existing bilateral environmental agreements, placing pressure on federal diplomatic responses."
       }
     },
     {
-      "id": "federalism-supreme-one-liners",
+      "id": "fed-5",
       "category": "Federalism",
-      "source": "Slaw.ca",
-      "title": "Supreme Court of Canada Clarifies Riparian Rights and Grants Leave on RCMP Administrative Law Case",
+      "source": "The Hub",
+      "title": "Ontario Wildfires and Alberta Pipeline: A Clash in National Climate-Energy Debate",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/26/summaries-sunday-supreme-one-liners-43/",
-      "summary": "The Supreme Court of Canada has recently issued clarifications on riparian rights concerning submerged lots in *Zardev Inc. v. Dydzak* (2026 SCC 27). Additionally, the Court granted leave to appeal in *Royal Canadian Mounted Police External Review Committee, et al. v. Benison, et al.* (2026 FCA 53), which involves matters of administrative law and mandamus concerning a key federal institution.",
-      "graph": ["Supreme Court of Canada", "Real Property Law", "Administrative Law", "RCMP", "Judicial Review", "Federal Law"],
+      "url": "https://thehub.ca/2026/07/26/what-do-ontarios-wildfires-have-to-do-with-an-alberta-pipeline/",
+      "summary": "A commentary piece explores the connection drawn by some between Ontario's wildfires and Alberta's oil and gas production, particularly the Pathways Plus carbon capture proposal. The author, Martha Hall Findlay, former Suncor CSO and current director of the University of Calgary's School of Public Policy, argues against polarizing the climate debate and attributing regional disasters solely to Canadian oil sands, highlighting the complex inter-provincial and federal dimensions of energy and climate policy.",
+      "graph": ["Climate Policy", "Energy Policy", "Inter-provincial Relations", "Federalism", "Public Discourse"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 30, "right": 50 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive legal thought may focus on the implications for environmental protection in riparian rights and ensuring robust oversight mechanisms for federal bodies like the RCMP to safeguard civil liberties and equitable treatment." },
-          "center": { "label": "Procedural Context", "synthesis": "The central legal analysis emphasizes the Supreme Court's role in clarifying and developing federal common law and administrative principles. This ensures legal certainty, consistent application of law across Canada, and the proper functioning of federal governance structures." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might prioritize the clarity of property rights to support economic activity and may show interest in how administrative law affects the efficiency and operational autonomy of federal institutions, including potential concerns about judicial intervention in executive functions." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the direct link between fossil fuel extraction and climate impacts, advocating for aggressive decarbonization policies and holding the federal government accountable for approving projects that exacerbate climate change." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the differing perspectives in the national climate and energy debate, acknowledging both the scientific consensus on climate change and the economic realities of energy production, and the challenges of federal-provincial coordination." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for separating climate impact responsibility from specific Canadian industries, emphasizing the global demand for energy, the economic benefits of Alberta's resources, and criticizing the 'vilification' of the oil and gas sector within federal policy discussions." }
         },
-        "neutral": "Recent Supreme Court of Canada legal developments include a decision clarifying riparian property rights and the granting of leave to appeal in a case that will address administrative law issues involving the Royal Canadian Mounted Police."
+        "neutral": "This article examines the contentious debate over Canada's climate and energy policies, specifically the perceived linkage between regional climate events like wildfires and national energy infrastructure, underscoring the challenges in reconciling environmental and economic objectives within the federal system."
+      }
+    },
+    {
+      "id": "fed-6",
+      "category": "Federalism",
+      "source": "Toronto Sun",
+      "title": "Opinion: Lilley Critiques Mark Carney's Crisis Management Record",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-thrives-crisis-record-suggests-otherwise",
+      "summary": "An opinion piece by columnist Brian Lilley criticizes Mark Carney's self-proclaimed ability to thrive in a crisis, arguing that Carney's historical responses to political pressure, such as during trade talks with Donald Trump or the Billy Bishop Airport expansion, often resulted in retreat rather than decisive action. This commentary evaluates a prominent Canadian figure's leadership qualities in the context of national policy and political challenges.",
+      "graph": ["Political Commentary", "Federal Politics", "Leadership", "Economic Policy", "Trade"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might focus on Carney's perceived cautiousness as a pragmatic approach to complex issues, or critique the specific policy outcomes from a progressive viewpoint, potentially advocating for more robust federal intervention." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines Carney's past decisions and their political and economic ramifications, assessing his effectiveness in navigating high-stakes national and international challenges based on established policy outcomes." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly critiques Carney's leadership as indecisive or lacking a clear, strong pro-Canadian stance, arguing for more assertive federal leadership in trade and economic matters to prevent perceived 'retreats' under pressure." }
+        },
+        "neutral": "This opinion piece assesses Mark Carney's public record in managing national crises, presenting a critical view of his responses to significant political and economic pressures, including international trade and infrastructure projects."
+      }
+    },
+    {
+      "id": "fed-7",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Opinion: Calls for 'Normalism' in Canadian Politics, Bounded Government",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/27/in-search-of-a-normal-politician/",
+      "summary": "An opinion piece from The Hub advocates for a 'politics of normalcy' or 'normalism' in Canada, arguing that political discourse has become overly ideological and detached from the concerns of 'normie' Canadians. The author outlines principles for a bounded government focused on essential services, public order, and economic growth, while asserting that meaning should reside in civil society. This reflects a significant debate about the role of the federal government and national political culture.",
+      "graph": ["Political Philosophy", "Governance", "Canadian Politics", "Federal Role", "Public Discourse"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May criticize 'normalism' as potentially downplaying systemic inequalities or the need for government intervention to address social justice issues, arguing that politics must engage with identity and purpose to achieve broader societal change." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the varying philosophies of governance and their implications for public policy and political engagement, considering the challenges of balancing state intervention with individual and communal autonomy." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the idea of limited government, individual responsibility, and strengthening civil society institutions over state-led solutions. Views excessive government intervention as an infringement on personal liberty and a distortion of societal priorities." }
+        },
+        "neutral": "This commentary proposes a 'normalist' approach to Canadian politics, advocating for a federal government focused on core functions rather than identity or purpose, aiming to recalibrate political discourse towards practical governance and away from ideological extremes."
+      }
+    },
+    {
+      "id": "fed-8",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Opinion: Government Funding of Consulting Voices Undermines Independence",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/27/government-shouldnt-fund-the-voices-it-consults/",
+      "summary": "An opinion piece argues that government funding for news organizations and non-profits in Canada compromises their independence and ability to hold the government accountable. It suggests that a reliance on state patronage undermines the fundamental democratic role of these entities, citing disparities in funding for groups supporting or opposing legislation like Bill C-35. This raises significant federal governance and accountability issues.",
+      "graph": ["Government Funding", "Media Independence", "Non-profit Sector", "Democratic Accountability", "Federal Governance"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might acknowledge the need for diverse voices but argue for more robust, transparent funding mechanisms that do not compromise critical reporting, or suggest that public funding can support public interest journalism and advocacy without inherent bias if structured correctly." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the current regulatory and funding frameworks for media and non-profits, evaluating the structural conditions that either promote or hinder independence, and exploring policy solutions for maintaining an arm's-length relationship." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for minimal government involvement in funding media and civil society, asserting that such funding creates an inherent conflict of interest and reduces critical oversight, thus undermining democratic checks and balances." }
+        },
+        "neutral": "This commentary critically examines the practice of government funding for Canadian news outlets and non-profit organizations, arguing that it creates a dependency that compromises the recipients' independence and their capacity to provide unbiased oversight of government actions."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-soquij-s12-challenge",
+      "id": "char-1",
       "category": "Charter",
-      "source": "Slaw.ca",
-      "title": "Quebec Court of Appeal Declares Mandatory Minimum Sentence for Child Pornography Unconstitutional Under Charter Section 12",
+      "source": "National Post",
+      "title": "Opinion: Liberal Legislation Threatens Canadian Privacy Rights",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/26/summaries-sunday-soquij-637/",
-      "summary": "In *Claing c. R.*, the Quebec Court of Appeal ruled that the mandatory minimum sentence for distributing child pornography (Criminal Code s. 163.1(3)) constitutes cruel and unusual punishment under Section 12 of the Charter of Rights and Freedoms when applied to an offender with an intellectual disability and mental health issues. The court substituted the initial 12-month imprisonment with a 6-month conditional sentence, underscoring the necessity of individualized sentencing to ensure proportionality.",
-      "graph": ["Constitutional Law", "Criminal Sentencing", "Cruel and Unusual Punishment", "Mandatory Minimums", "Intellectual Disability", "Judicial Review", "Quebec Court of Appeal"],
+      "url": "https://nationalpost.com/opinion/john-carpay-our-privacy-had-decent-protection-until-the-liberals-stepped-in",
+      "summary": "An opinion piece by John Carpay contends that new legislative measures introduced by the Liberal government risk eroding the personal privacy protections that Canadians have established through past court decisions. The article suggests that these new laws could undo significant legal precedents safeguarding individual data and autonomy, directly implicating Section 8 of the Charter of Rights and Freedoms concerning protection against unreasonable search and seizure.",
+      "graph": ["Privacy Rights", "Government Legislation", "Charter of Rights", "Civil Liberties", "Digital Policy"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 30, "right": 50 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would strongly support this ruling, emphasizing the Charter's role in protecting vulnerable individuals from disproportionate sentences and advocating for rehabilitation over solely punitive measures, particularly for those with mental health challenges or intellectual disabilities." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral legal analysis focuses on the judicial review of legislative intent against constitutional rights. The decision reaffirms the appellate court's role in ensuring sentencing principles are applied justly and that laws comply with fundamental Charter protections, balancing societal protection with individual justice." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary might express concern about the court's overturning of mandatory minimums, which are often seen as vital for deterrence and public protection against serious crimes like child pornography. This perspective might highlight concerns about judicial activism and leniency." }
+          "left": { "label": "Progressive Context", "synthesis": "While potentially supportive of some regulatory oversight, might critique the specific legislation for overreach or insufficient safeguards, aligning with concerns for individual rights but potentially balancing against collective goods like security or data governance." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal implications of the new Liberal laws against established Charter jurisprudence on privacy, assessing whether the legislation passes constitutional muster and balances individual rights with state interests." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes government expansion of power and intervention into personal privacy, viewing the new laws as an infringement on fundamental freedoms and a dangerous precedent for state overreach." }
         },
-        "neutral": "The Quebec Court of Appeal found a mandatory minimum sentence for child pornography distribution unconstitutional as applied to an offender with an intellectual disability, citing a violation of Section 12 of the Charter against cruel and unusual punishment, and imposed a conditional sentence."
-      }
-    }
-  ],
-  "indigenous": [],
-  "criminal": [
-    {
-      "id": "criminal-nato-spy-arrest",
-      "category": "Criminal",
-      "source": "The Globe and Mail",
-      "title": "Canadian Intern at NATO HQ Arrested on Suspicion of Espionage for 'Third Country'",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-spying-for-third-country/",
-      "summary": "A Canadian national, serving as an intern at NATO Headquarters in Brussels, Belgium, has been arrested under suspicion of engaging in espionage activities on behalf of an unidentified 'third country.' Public Safety Canada confirmed that the arrest is connected to an ongoing criminal investigation into national security offences.",
-      "graph": ["Espionage", "National Security", "International Affairs", "Criminal Investigation", "NATO", "Foreign Interference"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis might focus on due process for the accused, potential geopolitical tensions, and the need for careful investigation into the root causes or vulnerabilities that could lead to such alleged acts." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective centers on the legal process of arrest and investigation for a serious national security crime. It emphasizes the collaboration between international and domestic law enforcement agencies and the protection of classified information and alliance integrity." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would stress the gravity of espionage, the importance of robust national security protocols, and severe penalties for individuals compromising national or allied intelligence. Calls for increased vigilance and stricter vetting processes are likely." }
-        },
-        "neutral": "A Canadian intern at NATO Headquarters has been arrested on suspicion of spying for an unspecified foreign nation, with Canadian authorities confirming an ongoing criminal investigation related to national security."
+        "neutral": "This commentary raises concerns that recent Liberal government legislation poses a threat to established personal privacy protections under Canadian law, potentially undermining Charter rights affirmed by previous court rulings."
       }
     },
     {
-      "id": "criminal-soquij-childporn-sentencing",
-      "category": "Criminal",
-      "source": "Slaw.ca",
-      "title": "Quebec Court of Appeal Reduces Sentence and Finds Mandatory Minimum for Child Pornography Unconstitutional for Disabled Offender",
+      "id": "char-2",
+      "category": "Charter",
+      "source": "Toronto Sun",
+      "title": "Canadian Influencer Utilizes MAID Following Alzheimer’s Diagnosis",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/26/summaries-sunday-soquij-637/",
-      "summary": "In *Claing c. R.*, the Quebec Court of Appeal addressed a case involving possession, access, and distribution of child pornography. The Court found that the trial judge inadequately weighed the accused's personal characteristics, specifically an intellectual disability and mental health issues, when imposing a sentence. Consequently, the Court substituted a 12-month imprisonment with a 6-month conditional sentence and declared the mandatory minimum sentence under Article 163.1(3) of the Criminal Code for distributing child pornography unconstitutional, as it violated Section 12 of the Charter by constituting cruel and unusual punishment in this context.",
-      "graph": ["Criminal Law", "Sentencing Principles", "Child Pornography", "Constitutional Challenge", "Intellectual Disability", "Mental Health", "Quebec Court of Appeal"],
+      "url": "https://torontosun.com/news/national/social-media-influencer-ends-life-via-maid",
+      "summary": "A Canadian social media influencer chose to end her life through Medical Assistance in Dying (MAID) after receiving an Alzheimer’s diagnosis, as confirmed by her eldest daughter. This case highlights the deeply personal and evolving legal landscape surrounding MAID in Canada, touching on individual autonomy, the right to dignity, and the parameters of end-of-life care within the framework of the Charter of Rights and Freedoms.",
+      "graph": ["Medical Assistance in Dying (MAID)", "Right to Die", "Personal Autonomy", "Healthcare Policy", "Charter Implications"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 30, "right": 50 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive advocates would highlight the importance of individualized justice, considering an offender's mental and intellectual capacity for rehabilitation. They would support the ruling as a crucial step against rigid mandatory minimums that can lead to unjust outcomes for vulnerable populations." },
-          "center": { "label": "Procedural Context", "synthesis": "From a neutral standpoint, the ruling underscores the appellate court's role in correcting sentencing errors and ensuring legal principles, including Charter rights, are upheld. It clarifies the limits of mandatory minimums and reinforces the need for judicial discretion in applying criminal law." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative views might express concern over the reduction of a sentence for child pornography and the striking down of a mandatory minimum. They might argue for harsher penalties as a deterrent and to protect children, viewing the ruling as potentially undermining public safety and legislative intent." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes individual bodily autonomy and the right to make end-of-life choices, advocating for broad and compassionate access to MAID, while ensuring robust safeguards and support systems." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the application of existing MAID legislation, its ethical complexities in cases of degenerative conditions, and the public discourse surrounding the interpretation and scope of constitutional rights related to end-of-life decisions." },
+          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the expansion of MAID criteria, potentially highlighting ethical dilemmas, the sanctity of life, and the need for stricter regulations to prevent premature or coerced decisions, especially in the context of mental health or degenerative diseases." }
         },
-        "neutral": "The Quebec Court of Appeal modified a criminal sentence for child pornography offenses, substituting a conditional sentence and declaring a mandatory minimum unconstitutional for an offender with an intellectual disability, emphasizing individualized sentencing and Charter Section 12 protections."
+        "neutral": "The decision of a Canadian social media influencer to undergo MAID following an Alzheimer’s diagnosis underscores the personal impact and ongoing societal debate regarding the scope and ethics of medical assistance in dying in Canada."
+      }
+    }
+  ],
+  "indigenous": [
+    {
+      "id": "indig-1",
+      "category": "Indigenous",
+      "source": "National Post",
+      "title": "Opinion: B.C. Law Society Adjusts Residential School Claims Language After Litigation",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/jamie-sarkonak-why-the-b-c-law-society-walked-back-claims-of-buried-children",
+      "summary": "An opinion piece by Jamie Sarkonak discusses how the B.C. Law Society revised its language regarding 'buried children' at the Kamloops residential school after two years of litigation with a lawyer seeking factual clarity. The settlement resulted in more cautious phrasing, highlighting the legal and evidentiary challenges surrounding historical claims and public discourse on Indigenous residential school findings.",
+      "graph": ["Indigenous Justice", "Residential Schools", "Legal Discourse", "Truth and Reconciliation", "Historical Claims"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes efforts to 'walk back' or question claims related to residential schools, viewing them as attempts to diminish the severity of historical injustices and advocating for full acceptance of survivor testimonies and Indigenous-led research." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the role of legal processes in shaping public statements and the standards of proof applied to historical narratives, emphasizing the need for evidence-based conclusions while navigating sensitive historical truths." },
+          "right": { "label": "Conservative Context", "synthesis": "Applauds the Law Society's adjustment as a victory for factual accuracy and due process, advocating for critical scrutiny of historical claims and resisting what is perceived as unverified or overly emotional discourse, ensuring legal standards are maintained." }
+        },
+        "neutral": "This article addresses the B.C. Law Society's revision of language regarding historical claims at the Kamloops residential school following litigation, underscoring the legal and public discourse challenges in accurately representing sensitive Indigenous historical findings."
+      }
+    },
+    {
+      "id": "indig-2",
+      "category": "Indigenous",
+      "source": "National Post",
+      "title": "Opinion: Haida Land Deal Critiqued for 'Legal Subterfuge' in Aboriginal Title Recognition",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/legal-subterfuge",
+      "summary": "Geoffrey Moyse's opinion piece alleges that the Haida land deal, which recognized Aboriginal title over the entire Haida Gwaii archipelago, was enabled by 'legal subterfuge' through secret negotiations without sufficient legal proof of title. This commentary scrutinizes the process by which governments engage in land agreements with Indigenous groups, raising questions about transparency, legal precedents, and the methodology of title recognition.",
+      "graph": ["Aboriginal Title", "Indigenous Land Rights", "Legal Agreements", "Government Negotiations", "Treaty Rights"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Champions the recognition of Aboriginal title as an inherent right, viewing critiques of the process as attempts to undermine Indigenous sovereignty and self-determination, while advocating for meaningful reconciliation and nation-to-nation agreements." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the legal framework for recognizing Aboriginal title and the negotiation processes, assessing whether the Haida deal adhered to established legal principles and best practices for Indigenous-government agreements, focusing on legal precedent and due process." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the perceived lack of transparency and legal rigor in the Haida land deal, arguing that recognition of broad Aboriginal title without clear legal proof sets a dangerous precedent and undermines property rights and rule of law." }
+        },
+        "neutral": "This opinion piece critically evaluates the Haida land deal, which recognized Aboriginal title across Haida Gwaii, by alleging a lack of legal substantiation and transparency in the government's negotiation process."
+      }
+    }
+  ],
+  "criminal": [
+    {
+      "id": "crim-1",
+      "category": "Criminal",
+      "source": "National Post",
+      "title": "Gunfire Reported Near U.S. Consulate in Toronto",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/us-consulate-toronto-shooting",
+      "summary": "Toronto police have reported gunfire near the U.S. consulate downtown. This incident follows a previous shooting at the same location in March, for which three individuals have already been arrested and charged. The ongoing nature of these incidents raises concerns about security, law enforcement response, and potential motivations behind targeting a diplomatic facility.",
+      "graph": ["Gun Violence", "Law Enforcement", "Public Safety", "Consulate Security", "Criminal Investigation"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May prompt discussion on the root causes of urban violence, access to firearms, and the need for community-based crime prevention strategies, alongside law enforcement responses." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the police investigation, evidence gathering, and judicial process for the individuals charged, as well as measures for protecting diplomatic facilities and public spaces." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for strong law enforcement, strict penalties for criminal acts, and enhanced security measures to deter violence and protect diplomatic missions, highlighting the importance of 'law and order'." }
+        },
+        "neutral": "Reports of gunfire near the U.S. consulate in Toronto indicate a recurring security issue, prompting ongoing police investigation into the incident and its potential connection to previous arrests."
+      }
+    },
+    {
+      "id": "crim-2",
+      "category": "Criminal",
+      "source": "National Post",
+      "title": "Veteran Officer Discusses Corruption Within Canadian Policing",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/a-veteran-cop-explains-whats-really-happening-inside-canadian-policing",
+      "summary": "A podcast features a veteran police officer, Hank Idsinga, discussing an expose on corruption involving Toronto officers. This commentary offers an insider's perspective on integrity challenges within Canadian law enforcement, touching upon the systemic issues that contribute to misconduct and efforts to address them, impacting public trust in the justice system.",
+      "graph": ["Police Corruption", "Law Enforcement Integrity", "Criminal Justice System", "Public Trust", "Police Oversight"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Calls for systemic police reform, increased civilian oversight, and accountability measures to address corruption, often linking individual misconduct to broader institutional issues and power dynamics." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines internal police investigations, disciplinary processes, and the legal challenges in prosecuting officers for corruption, focusing on maintaining the integrity and impartiality of law enforcement." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of upholding law and order and maintaining the credibility of police forces, advocating for swift and decisive action against corrupt officers to preserve public trust and the effectiveness of law enforcement." }
+        },
+        "neutral": "A veteran police officer provides insight into the issue of corruption within Canadian policing, specifically addressing recent exposes concerning Toronto officers, and discussing its implications for law enforcement integrity."
+      }
+    },
+    {
+      "id": "crim-3",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Hamilton Man Charged in 1992 Rochester Cold Case Murder",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/world/hamilton-man-court-rochester-cold-case-murder",
+      "summary": "A Hamilton man is scheduled to appear in court in connection with a 1992 cold case murder in Rochester, New York. This development highlights the persistent efforts of law enforcement in solving long-unresolved cases, particularly those involving cross-border cooperation in criminal investigations, and brings closure closer for victims' families.",
+      "graph": ["Cold Case", "Murder Investigation", "Criminal Justice", "International Crime", "Law Enforcement"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May consider the socioeconomic factors that contribute to crime rates, while still affirming the need for justice and rehabilitation, and potentially advocating for better support for victims' families." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the meticulous investigative work, forensic advancements, and legal procedures involved in reactivating and prosecuting cold cases, especially when involving international jurisdictions." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of law enforcement's dedication to justice, the pursuit of criminals regardless of elapsed time or borders, and the need for strong penalties to ensure public safety and deter future offenses." }
+        },
+        "neutral": "A Hamilton resident faces court proceedings for a 1992 cold case murder in Rochester, demonstrating sustained law enforcement efforts in pursuing justice for historical crimes across international borders."
+      }
+    },
+    {
+      "id": "crim-4",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Toronto Police Identify Victims in Decades-Old Cold Case Murders",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/toronto-cops-id-women-murdered-cold-cases",
+      "summary": "Toronto police have successfully identified victims in two cold case murders dating back to 1936 and 2004, including an Indigenous woman who died in a car fire on Hwy. 401. This significant breakthrough highlights advancements in forensic science and investigative techniques, providing crucial steps toward justice for long-unidentified victims and their families, and addressing historical injustices for marginalized communities.",
+      "graph": ["Cold Case", "Victim Identification", "Criminal Investigation", "Forensic Science", "Indigenous Victims"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Welcomes the identification as a step towards justice, particularly for the Indigenous woman, and advocates for continued efforts to resolve cases involving marginalized populations, emphasizing systemic issues in past investigations." },
+          "center": { "label": "Procedural Context", "synthesis": "Details the application of advanced investigative methods and forensic technology in identifying victims from long-unsolved cases, outlining the meticulous process involved in such breakthroughs." },
+          "right": { "label": "Conservative Context", "synthesis": "Commends law enforcement for its perseverance and effective use of modern techniques to solve historical crimes, reinforcing the importance of bringing perpetrators to justice regardless of time elapsed." }
+        },
+        "neutral": "Toronto police have made significant progress in two cold case murders from 1936 and 2004, including the identification of an Indigenous woman, demonstrating breakthroughs in long-unresolved criminal investigations."
+      }
+    },
+    {
+      "id": "crim-5",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Opinion: Toronto Faces Highest Antisemitic Hate Crime Rates",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/opinion/columnists/toronto-worst-place-antisemitic-hate-crime",
+      "summary": "A column by Kinsella identifies Toronto as having the highest rate of antisemitic hate crimes, citing statistics and expert analyses that warn of escalating violence. The author expresses deep concern over the rising trend and the potential for a fatality, urging immediate action. This addresses a critical issue of public safety, social cohesion, and the enforcement of hate crime legislation within the criminal justice system.",
+      "graph": ["Hate Crime", "Antisemitism", "Public Safety", "Criminal Justice", "Social Cohesion"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Calls for comprehensive anti-hate initiatives, education, and community engagement to address the root causes of antisemitism, alongside vigorous prosecution of hate crimes and support for affected communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the collection and reporting of hate crime statistics, the effectiveness of current hate crime laws, and the procedural challenges faced by law enforcement in investigating and prosecuting such offenses." },
+          "right": { "label": "Conservative Context", "synthesis": "Demands stronger law enforcement response, tougher penalties for hate crimes, and a clear condemnation of antisemitism, emphasizing public order and the protection of minority groups from targeted violence." }
+        },
+        "neutral": "This opinion piece highlights Toronto's concerning statistics regarding antisemitic hate crimes, warning of escalating threats and emphasizing the urgent need for intervention to address public safety and targeted violence."
       }
     }
   ],
