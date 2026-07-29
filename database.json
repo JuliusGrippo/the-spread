@@ -1,333 +1,371 @@
 {
   "federalism": [
     {
-      "id": "e3c1a2d7f4b8c9a0d1e2f3a4b5c6d7e8",
+      "id": "7b0d8f0a-e3c1-4b1f-9d2a-8c7e4d6f21a0",
+      "category": "Federalism",
+      "source": "rabble.ca & cbc.ca",
+      "title": "Shopify CEO's Proposal for Wealth-Based Weighted Voting Sparks Democratic Debate",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/shopify-ceo-endorses-idea-to-give-more-votes-to-wealthy-canadians-9.7286688?cmp=rss",
+      "summary": "Shopify CEO Tobi Lütke sparked controversy by endorsing a proposal to base voting rights on income tax paid, suggesting zero votes for those paying no income tax and up to five votes for high-income earners. He also advocated stripping voting rights from retirees with pensions, arguing they are 'dependents.' This proposal has drawn widespread criticism for being antithetical to democratic principles of one-person, one-vote.",
+      "graph": ["Voting Rights", "Democratic Reform", "Wealth Inequality", "Political Influence"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 20, "right": 20 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints vehemently oppose this proposal, viewing it as an assault on fundamental democratic equality and a move to entrench power in the hands of the wealthy, undermining the principle of universal suffrage. It is seen as a regressive step that would exacerbate societal divisions and disempower vulnerable populations." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis highlights the legal and constitutional challenges such a proposal would face under the Charter of Rights and Freedoms, particularly regarding voting rights (Section 3). It would require a profound re-evaluation of Canada's democratic framework and societal contract, contrasting sharply with current electoral norms." },
+          "right": { "label": "Conservative Context", "synthesis": "Some conservative or libertarian perspectives might argue, theoretically, for a link between contribution to the public purse and representation, seeing it as a way to ensure fiscal responsibility or give greater weight to those deemed to have a larger 'stake' in the economy. However, even within conservative thought, outright disenfranchisement based on wealth is a fringe view that would conflict with established democratic principles." }
+        },
+        "neutral": "The controversial proposal by Shopify CEO Tobi Lütke to implement a wealth-based weighted voting system in Canada challenges the fundamental democratic principle of universal suffrage, drawing significant criticism for its potential constitutional and societal implications."
+      }
+    },
+    {
+      "id": "2c5e7a9b-0d1f-4f3e-8a7c-6b5d4e3a2b1f",
       "category": "Federalism",
       "source": "rabble.ca",
-      "title": "Basic Income and Solving Socio-Economic Challenges",
+      "title": "Prime Minister Carney's CEO Summit with Global Investment Firms Draws Progressive Scrutiny",
       "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/economy/basic-income-and-solving-the-polycrisis/",
-      "summary": "The article, an opinion piece from a progressive outlet, advocates for Universal Basic Income (UBI) as a solution to a range of societal challenges, referred to as a \"polycrisis.\" It posits that UBI could address economic insecurity and related social issues, implying a significant federal policy intervention or coordinated provincial action.",
-      "graph": ["Universal Basic Income", "Social Policy", "Economic Policy", "Federal-Provincial Relations"],
+      "url": "https://rabble.ca/political-action/confront-carneys-ceo-summit/",
+      "summary": "Prime Minister Mark Carney is set to host a summit in Toronto with major international investment firms, including Saudi Arabia's Public Investment Fund, Blackstone, and Singapore's GIC. The summit's agenda and the implications of such concentrated private sector influence on national policy are drawing attention.",
+      "graph": ["Economic Policy", "International Investment", "Federal Government", "Corporate Influence"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 55, "center": 30, "right": 15 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "UBI is seen as a transformative tool for social justice, poverty reduction, and economic equity, addressing systemic inequalities and providing a safety net against future crises. It empowers individuals and stabilizes communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Views UBI as a potential tool for modernizing social welfare, warranting pilot programs and careful study of its economic impacts, administrative efficiency, and long-term fiscal sustainability. Requires intergovernmental collaboration." },
-          "right": { "label": "Conservative Context", "synthesis": "Often skeptical of UBI due to concerns about its cost, potential disincentives to work, and expansion of state intervention in the economy. Prefers market-based solutions, targeted assistance, or provincial responsibility." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques from the left focus on the potential for concentrated wealth and foreign interests to unduly influence Canadian economic and social policy, raising concerns about corporate power, accountability, and the prioritization of profit over public welfare. There are fears of 'backroom deals' bypassing democratic processes." },
+          "center": { "label": "Procedural Context", "synthesis": "A procedural view would emphasize the federal government's role in fostering economic development and attracting foreign investment. The summit would be seen as a platform for dialogue between political leaders and global economic players, with an expectation of transparency regarding outcomes and policy implications." },
+          "right": { "label": "Conservative Context", "synthesis": "Right-leaning perspectives might laud the initiative as a necessary step to attract capital, stimulate the economy, and promote Canada on the global stage. The focus would be on job creation, economic growth, and the benefits of international partnerships, with less emphasis on the political influence of the wealthy." }
         },
-        "neutral": "The concept of Universal Basic Income is presented as a potential systemic response to diverse socio-economic pressures, with proponents highlighting its capacity to provide foundational economic security."
+        "neutral": "Prime Minister Mark Carney's upcoming summit with significant international investment firms in Toronto is a federal initiative aimed at economic engagement, though it raises questions about the balance between attracting capital and maintaining democratic accountability."
       }
     },
     {
-      "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+      "id": "8e3f2d1c-9b0a-4c5d-7e6f-1a2b3c4d5e6f",
+      "category": "Federalism",
+      "source": "thenarwhal.ca",
+      "title": "LNG Canada Secretly Removed 'No Routine Flaring' Commitments, Documents Reveal",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/lng-canada-dropped-flaring-commitments-docs/?utm_source=rss",
+      "summary": "Internal documents show that LNG Canada dropped its commitments to operate 'without routine flaring' from regulatory reports submitted to the B.C. energy regulator shortly before the facility launched. This occurred despite initial assurances, leading to significant flaring events and raising questions about environmental oversight and the credibility of 'lowest-carbon LNG' claims.",
+      "graph": ["Environmental Regulation", "Energy Policy", "Provincial-Federal Jurisdiction", "Corporate Accountability"],
+      "spectrum": {
+        "baseline": { "left": 70, "center": 20, "right": 10 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "This revelation highlights a severe failure of environmental regulation and corporate accountability. Progressive voices would argue it demonstrates the lax enforcement of environmental standards in favour of industry, leading to increased emissions and community impact, and calls for stronger federal and provincial oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the regulatory process, the discrepancy between initial commitments and operational reality, and the role of the BC Energy Regulator. It raises questions about the effectiveness of environmental assessment processes and the need for greater transparency and stricter adherence to permit conditions by industrial projects." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the environmental concern, conservative views might frame flaring as an unavoidable part of commissioning a complex facility or emphasize the economic benefits of the LNG project. They might call for practical, less restrictive regulations that don't hinder large-scale resource development, while still aiming for environmental improvement over time." }
+        },
+        "neutral": "Documents reveal LNG Canada removed its commitment to operate without routine flaring from regulatory plans before launch, leading to significant emissions and raising concerns about environmental integrity and regulatory effectiveness."
+      }
+    },
+    {
+      "id": "1f2e3d4c-5a6b-7c8d-9e0f-a1b2c3d4e5f6",
       "category": "Federalism",
       "source": "cbc.ca",
-      "title": "Proposed Alberta Pipeline Threatens Endangered Killer Whales Amid Federal Species Protection Act Review",
+      "title": "Federal Government Allocates Nearly $2 Billion to Modernize Via Rail's Fleet with Hybrid Locomotives",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/southern-resident-killer-whales-alberta-bc-oil-pipeline-9.7282483?cmp=rss",
-      "summary": "Environmental groups express alarm over Alberta's proposed new oil pipeline route to the B.C. coast, citing existential risks to the endangered southern resident killer whales from increased tanker traffic and potential spills. The article highlights that the federal Carney government is considering amendments to the Species At Risk Act (SARA) that could allow cabinet to exempt certain projects from critical \"jeopardy tests,\" raising questions about federal environmental protection versus provincial resource development interests.",
-      "graph": ["Environmental Protection", "Resource Development", "Federal Environmental Policy", "Species At Risk Act", "Intergovernmental Conflict", "Marine Conservation"],
+      "url": "https://www.cbc.ca/news/politics/via-rail-newbattery-diesel-locomotives-9.7288814?cmp=rss",
+      "summary": "The federal government has announced an investment of nearly $2 billion to acquire 45 new hybrid battery-diesel passenger locomotives for Via Rail. This initiative aims to modernize the aging fleet, improve service, and lay the groundwork for future zero-emission propulsion, with 36 locomotives to be assembled in Montréal and a new maintenance facility also planned.",
+      "graph": ["Public Transit", "Infrastructure Investment", "Green Technology", "Economic Stimulus", "Federal Funding"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 45, "right": 15 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the imperative of environmental protection and species preservation over industrial expansion, advocating for stronger federal oversight and rejecting any weakening of environmental legislation like SARA. Highlights indigenous rights and long-term ecological stewardship." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on balancing economic development with environmental responsibilities. Calls for thorough impact assessments, robust mitigation strategies, and transparent decision-making processes under SARA, while acknowledging both provincial resource jurisdiction and federal environmental duties." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes economic development, energy security, and provincial jurisdiction over resource projects. Argues for streamlining regulatory processes and allowing cabinet discretion to balance environmental concerns with national economic interests and job creation." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives applaud this investment as a crucial step towards sustainable transportation, reduced carbon emissions, and accessible public transit. They would emphasize job creation in green industries and the long-term benefits of robust national infrastructure." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis highlights the federal government's commitment to modernizing national assets and improving public services. It points to the economic benefits from domestic assembly and facility construction, as well as the strategic move towards more environmentally friendly transportation options, fulfilling budgetary commitments." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might question the scale of the spending, scrutinizing the cost-effectiveness and efficiency of public sector projects. While acknowledging the need for infrastructure, they might advocate for greater private sector involvement or alternative, less costly solutions, emphasizing fiscal prudence." }
         },
-        "neutral": "A proposed Alberta pipeline faces opposition due to environmental concerns for endangered marine life, while the federal government reviews legislation that could alter the project approval process for species at risk."
+        "neutral": "The federal government is investing nearly $2 billion to upgrade Via Rail's passenger fleet with hybrid locomotives, aiming for modernization, reduced emissions, and economic benefits through domestic assembly and new facility construction."
       }
     },
     {
-      "id": "f5e4d3c2b1a0f9e8d7c6b5a4f3e2d1c0",
+      "id": "3e2d1c0b-a9b8-7c6d-5e4f-3a2b1c0d9e8f",
       "category": "Federalism",
       "source": "cbc.ca",
-      "title": "Public Safety Minister Pledges Investigation into Canadian NATO Intern's Espionage Charges",
+      "title": "Security Costs for Prince Harry's Canadian Visits Revealed as Highest Among IPPs",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canadian-nato-intern-spying-charges-public-safety-minister-gary-anandasangaree-9.7286749?cmp=rss",
-      "summary": "Canada's Public Safety Minister, Gary Anandasangaree, announced a commitment to investigate the arrest of a Canadian national of Chinese origin on espionage charges in Belgium, where she worked as a NATO intern. The allegations, deemed \"quite serious,\" will prompt an examination of Canadian security screening processes and whether the individual had any involvement with Canadian agencies, highlighting a national security concern with international dimensions.",
-      "graph": ["National Security", "International Relations", "Intelligence Operations", "Security Screening", "Diplomacy"],
+      "url": "https://www.cbc.ca/news/politics/prince-harry-rcmp-security-9.7287916?cmp=rss",
+      "summary": "An RCMP document, released through access to information, reveals that Canadian taxpayers spent at least $539,575 on security for Prince Harry during his visits to Canada between 2014/15 and 2019/20, making him the most expensive internationally protected person (IPP) to secure during that period. This figure does not include basic officer salaries.",
+      "graph": ["RCMP", "Government Spending", "International Relations", "Royal Family", "Access to Information"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes protecting civil liberties during investigations, ensuring due process, and examining potential biases in national security or counter-intelligence operations. May call for transparency regarding the scope and nature of the alleged espionage." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the methodical investigation, diplomatic protocols, and robust internal security reviews to uphold national interests and international alliances. Stresses adherence to legal procedures and fact-finding." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes aggressive action against foreign interference and espionage, advocating for stricter security measures, accountability, and strong protection of national interests and allied intelligence." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive criticisms would likely focus on the allocation of significant taxpayer funds for royal security, especially when compared to domestic social needs. It may be viewed as an example of misplaced priorities or excessive deference to monarchical figures, questioning the ongoing relevance of such costs." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral stance would explain the RCMP's statutory obligations under international conventions to provide security for IPPs, regardless of the nature of their visit. The report highlights the operational costs involved in such protection and the transparency efforts of the access to information process, irrespective of public opinion on the monarchy." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might defend the spending as a necessary part of Canada's international obligations and its relationship with the Commonwealth, upholding tradition and ensuring the safety of a prominent figure. They might also emphasize the need for robust security protocols for high-profile individuals." }
         },
-        "neutral": "The Canadian government has initiated an investigation into the charges of espionage against a Canadian citizen who served as a NATO intern, with particular attention to Canadian security protocols."
+        "neutral": "Canadian taxpayers incurred over half a million dollars in security costs for Prince Harry's visits, making him the most expensive internationally protected person in Canada for a five-year period, as revealed by an RCMP document obtained via access to information."
       }
     },
     {
-      "id": "c8b7a6f5e4d3c2b1a0c9b8a7f6e5d4c3",
+      "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
       "category": "Federalism",
-      "source": "globalnews.ca",
-      "title": "Canadians Support Retaliatory Measures Against Upcoming U.S. Tariffs",
+      "source": "cbc.ca",
+      "title": "Federal Public Service Sees 10,000 Early Retirement Applications Amid Workforce Reduction Goals",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11995069/canadians-support-retaliation-us-tariffs/",
-      "summary": "A recent poll indicates that most Canadians support the federal government taking retaliatory measures against impending steep 50 percent tariffs from the U.S. on a wide range of Canadian goods. This reflects public sentiment for a firm response to protect Canadian economic interests in trade disputes with its largest trading partner, implicating federal trade policy and diplomatic strategy.",
-      "graph": ["International Trade", "Trade Policy", "Canada-US Relations", "Economic Nationalism", "Public Opinion"],
+      "url": "https://www.cbc.ca/news/canada/ottawa/canada-federal-public-service-cuts-early-retirement-9.7288822?cmp=rss",
+      "summary": "Approximately 10,000 federal public servants applied for the government's early retirement incentive program, part of Prime Minister Mark Carney’s plan to cut 16,000 jobs from the public service over three years. The program, which cost $1.5 billion over five years, aims to save $82 million annually from pension contributions, though unions have raised complaints.",
+      "graph": ["Public Service", "Fiscal Policy", "Workforce Adjustment", "Government Spending", "Union Relations"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 40, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports protecting domestic industries and jobs from foreign economic pressures, even if it means reciprocal tariffs. Advocates for fair trade practices and potentially diversifying trade relationships beyond the U.S." },
-          "center": { "label": "Procedural Context", "synthesis": "Views trade disputes pragmatically, supporting measured retaliation as a negotiation tactic to de-escalate tensions and protect key economic sectors, while seeking diplomatic resolutions to maintain stable trade relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes national sovereignty and economic self-interest, advocating for strong, decisive action to defend Canadian markets and producers. May align with a more protectionist stance or a focus on national industrial strength." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives express concern over the impact of these cuts on government services and employee morale. Unions' complaints highlight potential adverse effects on workers and argue that such measures undermine the stability and capacity of the public service, potentially affecting service delivery to Canadians." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the government's budgetary objectives to reduce spending and streamline the public service. The program is an administrative mechanism to achieve these goals, with specific eligibility criteria and financial projections for both costs and savings, while acknowledging ongoing discussions with public sector unions." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would generally support efforts to reduce the size and cost of the public service, viewing it as essential for fiscal responsibility and efficiency. They would likely welcome the number of early retirement applications as progress towards achieving budget targets and reducing the burden on taxpayers." }
         },
-        "neutral": "Polling data suggests a majority of Canadians endorse retaliatory tariffs in response to planned U.S. tariffs, signaling public support for assertive federal trade policy."
+        "neutral": "The federal government's early retirement incentive program attracted 10,000 applicants, contributing to its goal of reducing the public service by 16,000 jobs, a move met with budgetary considerations and union concerns."
       }
     },
     {
-      "id": "b0a98765e4d3c2b1a0d9c8b7a6f5e4d3",
+      "id": "b2c3d4e5-f6a7-b8c9-d0e1-f2a3b4c5d6e7",
       "category": "Federalism",
+      "source": "cbc.ca & globalnews.ca & theglobeandmail.com",
+      "title": "House Committee to Examine Gordie Howe Bridge Revenue-Sharing Deal Amid Controversy",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/windsor/house-of-commons-ottawa-gordie-howe-bridge-revenue-sharing-united-states-canada-9.7288572?cmp=rss",
+      "summary": "A House of Commons committee is set to hold a special meeting to discuss the Gordie Howe International Bridge revenue-sharing agreement with the U.S. Questions have arisen after reports indicated Canada would share half of net toll revenues for 15 years, a change from the original 2012 deal with Michigan, which Prime Minister Mark Carney initially 'imperfectly' described.",
+      "graph": ["International Infrastructure", "Revenue Sharing", "Parliamentary Oversight", "Canada-US Relations", "Trade"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 50, "right": 20 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques would focus on the transparency of international agreements and accountability for changes that may disadvantage Canadian taxpayers. Concerns would be raised about federal government's handling of the deal and potential long-term financial implications for Canada." },
+          "center": { "label": "Procedural Context", "synthesis": "The committee meeting represents parliamentary due diligence and oversight of significant international agreements. It is an opportunity for MPs to scrutinize the updated revenue-sharing terms, understand the rationale for changes, and ensure the deal serves Canadian interests, clarifying any previous miscommunications." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative parties would likely emphasize the need for fiscal prudence and question why the terms changed to potentially reduce Canada's revenue. They would seek to hold the government accountable for perceived concessions to the U.S. and demand a clear justification for the new arrangement." }
+        },
+        "neutral": "A House of Commons committee will review the Gordie Howe International Bridge revenue-sharing deal with the U.S., following concerns over altered terms and initial explanations, highlighting parliamentary scrutiny of international infrastructure agreements."
+      }
+    },
+    {
+      "id": "c3d4e5f6-a7b8-c9d0-e1f2-a3b4c5d6e7f8",
+      "category": "Federalism",
+      "source": "cbc.ca & globalnews.ca",
+      "title": "Ontario Reconsiders High-Speed Rail Support After Federal Rejection of Billy Bishop Airport Expansion",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/billy-bishop-jets-alto-high-speed-rail-9.7287885?cmp=rss",
+      "summary": "Ontario is reportedly reconsidering its support for the federal Alto high-speed rail project after Ottawa rejected plans to allow commercial jets at Toronto's Billy Bishop Airport. Ontario's Transport Minister criticized the federal government for ceding to 'fringe groups,' highlighting a growing federal-provincial rift over major infrastructure and development projects.",
+      "graph": ["Federal-Provincial Relations", "Infrastructure Development", "Airport Expansion", "High-Speed Rail", "Policy Conflict"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 35, "right": 25 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views might side with the federal decision on Billy Bishop if it protects local communities or environmental interests, but lament the inter-governmental squabble delaying high-speed rail, which is seen as vital for sustainable urban development. The focus would be on collaborative, environmentally sound solutions rather than political leverage." },
+          "center": { "label": "Procedural Context", "synthesis": "This situation exemplifies the complexities of federal-provincial jurisdiction and project approvals, where federal decisions on one project can impact provincial cooperation on another. It highlights the need for coordinated policy and planning, even when different levels of government have differing priorities or electoral considerations." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives from Ontario would likely criticize federal interference in provincial development priorities and the perceived appeasement of 'fringe groups.' They would advocate for provincial autonomy in infrastructure decisions and question the federal government's ability to deliver large-scale projects efficiently." }
+        },
+        "neutral": "A dispute between the Ontario and federal governments has emerged, with Ontario threatening to withdraw support for the federal high-speed rail project following Ottawa's rejection of the Billy Bishop Airport expansion, revealing friction over major infrastructure initiatives."
+      }
+    },
+    {
+      "id": "d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8a9",
+      "category": "Federalism",
+      "source": "cbc.ca & theglobeandmail.com & globalnews.ca",
+      "title": "Trade Minister LeBlanc Engages in Washington Amid Trump's Doubts on CUSMA and Tariff Threats",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/trump-dont-care-cusma-leblanc-9.7287331?cmp=rss",
+      "summary": "Canada-U.S. Trade Minister Dominic LeBlanc is in Washington for trade talks as U.S. President Donald Trump expresses indifference towards the Canada-U.S.-Mexico Agreement (CUSMA) and reiterates threats of imposing 50 percent tariffs on certain Canadian goods, including over wildfire smoke. Canada seeks a broader trade agreement and the lifting of tariffs on critical sectors.",
+      "graph": ["International Trade", "Canada-US Relations", "Tariffs", "CUSMA", "Foreign Policy"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would emphasize the vulnerability of Canada's economy to U.S. protectionism and the need for diversified trade relations beyond the U.S. They might criticize the perceived lack of a robust strategy to counter aggressive U.S. trade tactics and advocate for stronger protections for Canadian industries and workers." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis describes the ongoing diplomatic efforts to navigate complex trade relations with the U.S. and mitigate economic risks from potential tariffs. It highlights the federal government's challenge in balancing national economic interests with the unpredictable nature of U.S. trade policy and rhetoric." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might stress the importance of a strong, stable trade relationship with the U.S. and criticize any perceived weakness in Canada's negotiating position. They may argue for more assertive or direct engagement to protect Canadian industries from punitive tariffs and ensure market access." }
+        },
+        "neutral": "Canadian Trade Minister Dominic LeBlanc is conducting trade talks in Washington to address CUSMA concerns and tariff threats from President Trump, highlighting Canada's efforts to stabilize economic relations with the U.S. amid rising protectionism."
+      }
+    }
+  ],
+  "charter": [
+    {
+      "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8a9b0",
+      "category": "Charter",
       "source": "nationalpost.com",
-      "title": "Critique of Federal Council on Antisemitism's Ineffectiveness Amid Rising Incidents",
+      "title": "B.C. Woman Chooses MAID After Young-Onset Alzheimer’s Diagnosis, Highlighting Rights Debates",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/carneys-antisemitism-council-fiddles-while-jewish-businesses-burn",
-      "summary": "An opinion piece criticizes the federal government's (specifically, Carney's) Antisemitism Council for perceived inaction and ineffectiveness in addressing a rise in antisemitic incidents and attacks on Jewish businesses in Canada. The author argues that despite promises of action, the situation has not improved, raising questions about the government's approach to combating hate and protecting vulnerable communities.",
-      "graph": ["Antisemitism", "Federal Policy", "Government Accountability", "Social Cohesion", "Hate Crime Response"],
+      "url": "https://nationalpost.com/news/rebecca-luna-maid-young-onset-alzheimers",
+      "summary": "Rebecca Luna, a 49-year-old B.C. mother diagnosed with young-onset Alzheimer's, chose Medical Assistance in Dying (MAID). She stated her desire to die before losing memories of her family due to her rapid cognitive decline, reigniting discussions around eligibility criteria, personal autonomy, and the scope of MAID provisions in Canada.",
+      "graph": ["MAID", "Right to Die", "Personal Autonomy", "Healthcare Ethics", "Dementia"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 30, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would emphasize the importance of comprehensive anti-hate strategies, including addressing systemic discrimination, promoting inclusivity, and supporting targeted community initiatives. Might critique the council for lacking sufficient community representation or structural power." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical efficacy of government advisory bodies, advocating for clear mandates, measurable outcomes, and efficient coordination across departments to combat antisemitism while respecting freedom of expression." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes government bureaucracy and perceived slow response, advocating for direct, robust enforcement of laws against hate crimes, protection of property, and potentially questioning the broader effectiveness of symbolic councils without tangible security actions." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive arguments support expanded access to MAID as an affirmation of individual autonomy and the right to choose one's end-of-life care, especially in cases of degenerative conditions. They would advocate for compassionate choices, emphasizing the right to a dignified death when facing irreversible suffering or loss of cognitive function." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral stance examines the legal framework of MAID in Canada, focusing on the strict criteria for eligibility and the rigorous assessment process. It highlights the ongoing legislative and judicial evolution of MAID, particularly concerning conditions that affect cognitive capacity and the balance between patient wishes and safeguards." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives often raise ethical concerns about the sanctity of life, the potential for 'slippery slopes' in MAID expansion, and the adequacy of safeguards. They might advocate for more stringent criteria, emphasizing palliative care alternatives and expressing caution about extending MAID to conditions where consent over time might become ambiguous." }
         },
-        "neutral": "An opinion piece questions the effectiveness of a federal council established to combat antisemitism, citing ongoing incidents and a perceived lack of substantive change despite prior government commitments."
+        "neutral": "A 49-year-old B.C. woman with early-onset Alzheimer's chose MAID, prompting renewed debate on the ethical and legal boundaries of assisted dying, particularly concerning cognitive decline and individual autonomy."
       }
     },
     {
-      "id": "1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a",
-      "category": "Federalism",
-      "source": "torontosun.com",
-      "title": "Former U.S. President Mocks Canada's Wildfire Response and Cross-Border Smoke Impact",
+      "id": "0f1e2d3c-4b5a-6c7d-8e9f-0a1b2c3d4e5f",
+      "category": "Charter",
+      "source": "slaw.ca",
+      "title": "Alberta's 'Regulated Professions Neutrality Act' Raises Charter Concerns Over Professional Conduct Regulation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/trump-mocks-canadas-handling-wildfires",
-      "summary": "Former U.S. President Donald Trump publicly mocked Canada's management of wildfires, which had caused significant smoke drift into American cities, by jokingly proposing a \"massive air filter\" along the border. This commentary, while satirical, highlights a cross-border environmental issue and political dimension to Canadian natural disaster response, bringing it into the realm of international perception and federal governance.",
-      "graph": ["International Relations", "Environmental Governance", "Natural Disasters", "Canada-US Relations", "Political Discourse"],
+      "url": "https://www.slaw.ca/2026/07/29/again-why-the-big-picture-of-the-alberta-regulated-professions-neutrality-act/",
+      "summary": "Alberta's new Regulated Professions Neutrality Act prohibits professional regulators from disciplining members for 'expressive conduct' occurring outside professional practice, with certain exceptions. This legislation has drawn criticism for assuming a clear distinction between professional and extra-professional conduct, potentially limiting the ability of self-regulating bodies to maintain professional standards and public trust, raising questions about freedom of expression versus professional responsibility under the Charter.",
+      "graph": ["Freedom of Expression", "Professional Regulation", "Charter Rights", "Provincial Legislation", "Public Trust"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 50, "center": 30, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would likely frame the issue within the context of climate change and shared environmental responsibilities, advocating for international cooperation on climate action and natural disaster mitigation rather than nationalistic mockery." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the comments as political rhetoric, focusing on the need for effective domestic wildfire management strategies and maintaining constructive diplomatic channels with the U.S. on shared environmental challenges." },
-          "right": { "label": "Conservative Context", "synthesis": "Might interpret Trump's comments as highlighting a perceived weakness or inadequacy in Canada's federal response to a national crisis, potentially using it to advocate for stronger national capacity or question current environmental policies." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would criticize the Act for potentially undermining the ability of professional bodies to uphold ethical standards and protect the public. They might argue that a professional's 'off-duty' conduct can still impact public trust and reflect on their profession, thus justifying regulatory oversight, and that the Act could enable discriminatory or harmful speech under the guise of free expression." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the legal complexities of drawing a line between personal expression and professional conduct. It considers the Act's attempt to balance Charter-protected freedom of expression with the public interest in regulated professions, noting the potential for legal challenges regarding the scope and exceptions of the prohibition." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative or libertarian perspectives would likely support the Act as a defense of individual freedom of expression, limiting overreach by professional bodies into members' private lives. They might argue that professionals should not face discipline for personal opinions outside of their direct professional duties, unless there is direct harm or criminal conduct." }
         },
-        "neutral": "A former U.S. President made satirical remarks regarding Canada's wildfire management and its cross-border smoke impact, drawing attention to the international implications of environmental events."
-      }
-    },
-    {
-      "id": "7g6h5j4k3l2m1n0p9q8r7s6t5u4v3w2x",
-      "category": "Federalism",
-      "source": "thehub.ca",
-      "title": "Oilsands Emissions Debate: Pipeline Cancellations and Regional Alienation",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/28/canadas-oilsands-produce-0-15-percent-of-global-emissions-cancelling-a-pipeline-wont-clear-the-smoke/",
-      "summary": "An opinion piece argues that Canadian oilsands contribute a negligible 0.15% to global emissions, asserting that cancelling new pipeline projects would not significantly impact climate change but rather fuel regional alienation. It criticizes a perceived \"moral scrutiny\" on the oilsands, suggesting a double standard compared to other high-emission sectors, and highlights public support for oil and gas exports. This frames the issue as a federal-provincial economic and environmental policy conflict with national unity implications.",
-      "graph": ["Climate Policy", "Energy Sector", "Federal-Provincial Relations", "Economic Impact", "Environmental Policy", "Regional Disparity"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the cumulative impact of emissions, the need for a just transition away from fossil fuels, and the importance of federal leadership in meeting climate targets. Criticizes arguments that minimize Canada's responsibility for global emissions." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on evidence-based climate policies, balancing economic interests with environmental goals. Advocates for pragmatic solutions, including carbon pricing and technological innovation, while managing inter-provincial resource conflicts." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes economic prosperity, provincial resource jurisdiction, and energy independence. Views pipeline cancellations as detrimental to the national economy and as politically motivated, contributing to Western alienation. Questions the efficacy of domestic policies on global emissions." }
-        },
-        "neutral": "An opinion article contends that Canadian oilsands emissions constitute a minor fraction of global output, arguing that pipeline cancellations are ineffective for climate goals and exacerbate inter-provincial tensions over resource policy."
-      }
-    },
-    {
-      "id": "h9i8j7k6l5m4n3o2p1q0r9s8t7u6v5w4",
-      "category": "Federalism",
-      "source": "thehub.ca",
-      "title": "Federal Housing Target Missed as Rental Dominance Shifts Ownership Landscape",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/28/canadian-housing-construction-drops-well-below-half-of-carney-governments-500000-target-apartments-dominate-new-builds/",
-      "summary": "Canada Mortgage and Housing Corporation (CMHC) data reveals a significant drop in housing construction, falling below half of the federal Carney government's target of 500,000 units per year. The report indicates a growing trend towards purpose-built rentals over ownership units, leading to concerns about declining homeownership opportunities for young Canadians. This highlights a critical federal policy challenge in addressing housing affordability and supply across the country.",
-      "graph": ["Housing Policy", "Federal Targets", "Urban Development", "Economic Policy", "Affordability Crisis", "Rental Market"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for stronger federal intervention in housing, including increased public and co-op housing, stricter rent controls, and policies that prioritize affordability and reduce market speculation, seeing housing as a fundamental right." },
-          "center": { "label": "Procedural Context", "synthesis": "Calls for comprehensive, multi-pronged strategies involving all levels of government and the private sector to boost housing supply and address affordability. Emphasizes efficient regulatory processes, infrastructure investment, and diverse housing options." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes federal targets as unrealistic without addressing underlying market distortions, regulatory burdens, and municipal zoning issues. Advocates for less government intervention, faster approvals for private developers, and policies that stimulate market supply." }
-        },
-        "neutral": "Recent data indicates Canadian housing construction is significantly below the federal government's annual target, with new builds predominantly consisting of rental units rather than ownership homes, raising concerns about housing supply and affordability."
+        "neutral": "Alberta's Regulated Professions Neutrality Act limits professional bodies' ability to discipline members for off-duty expressive conduct, sparking debate on balancing freedom of expression with professional accountability and public trust."
       }
     }
   ],
-  "charter": [],
-  "indigenous": [
-    {
-      "id": "i1j2k3l4m5n6o7p8q9r0s1t2u3v4w5x6",
-      "category": "Indigenous",
-      "source": "Slaw",
-      "title": "Queen's University Library Introduces Research Guide for Indigenous Legal Orders",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/07/28/researching-indigenous-legal-orders/",
-      "summary": "Queen's University Library has launched a new chapter, \"An Introduction to Researching Indigenous Legal Orders,\" within its Canadian Legal Research Manual. This resource, primarily aimed at non-Indigenous law students, provides an overview of terminology, sources, ethical considerations, and limitations in researching Indigenous law, signifying a growing institutional effort to integrate and understand Indigenous legal systems within Canadian legal education.",
-      "graph": ["Indigenous Law", "Legal Education", "Reconciliation", "Legal Pluralism", "Indigenous Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Praises initiatives that elevate Indigenous legal orders as essential components of Canadian law and reconciliation, advocating for deeper integration, Indigenous-led curriculum development, and decolonization of legal education." },
-          "center": { "label": "Procedural Context", "synthesis": "Supports the academic and practical importance of understanding Indigenous legal orders as part of a comprehensive legal framework, promoting legal pluralism and cross-cultural legal literacy in a structured, accessible manner." },
-          "right": { "label": "Conservative Context", "synthesis": "May acknowledge the historical context but emphasize that the primary legal framework remains Canadian common and civil law, with Indigenous legal orders to be understood within that context or as distinct systems. Focus might be on clarity and integration principles." }
-        },
-        "neutral": "A new academic resource has been developed to guide researchers, particularly non-Indigenous law students, in understanding and navigating Indigenous legal orders within the Canadian legal landscape."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "c1r2i3m4i5n6a7l8s9y0s1t2e3m4s5x6",
+      "id": "5f6e7d8c-9b0a-1c2d-3e4f-5a6b7c8d9e0f",
       "category": "Criminal",
       "source": "nationalpost.com",
-      "title": "Parole Board Considers Systemic Racism in Granting Release to Armed Robber",
+      "title": "Convicted Child Rapist and Killer Granted Expanded Parole Privileges",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/parole-board-considered-casual-and-systemic-racism-while-freeing-armed-robber",
-      "summary": "The Parole Board of Canada, in a decision to release an armed robber, explicitly considered factors of \"casual and systemic racism\" impacting the individual, linking their substance abuse, poor coping mechanisms, and emotional regulation to experienced trauma. This decision highlights the ongoing debate and evolving considerations within Canada's criminal justice system regarding the influence of systemic factors, particularly racism, on criminal behavior and rehabilitation.",
-      "graph": ["Parole Decisions", "Systemic Racism", "Criminal Justice Reform", "Rehabilitation", "Sentencing Disparity"],
+      "url": "https://nationalpost.com/news/rapist-and-killer-of-12-year-old-girl-granted-leave-privileges-in-parole-extension",
+      "summary": "Douglas Worth, convicted of raping and killing a 12-year-old girl and dismembering her body, has been granted expanded leave privileges by the Parole Board of Canada. The board also determined that Worth no longer needs to follow a treatment plan for sexual deviancy, violence, and mental health, a decision that is likely to raise significant public safety concerns.",
+      "graph": ["Parole Board", "Criminal Justice", "Public Safety", "Sexual Violence", "Corrections"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 15, "center": 35, "right": 50 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Commends the parole board for addressing systemic racism and its impact on offenders, advocating for trauma-informed approaches and restorative justice principles to address root causes of crime and promote equitable outcomes." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the balance between public safety and rehabilitation, emphasizing that while systemic factors should be considered, individual accountability and risk assessment remain paramount in parole decisions. Seeks clarity and consistency in application." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes the inclusion of \"systemic racism\" as a mitigating factor in serious crime, arguing that it may undermine public safety, accountability, and the deterrent effect of sentencing. Advocates for stricter adherence to punitive measures and victim protection." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views might focus on the rehabilitative aspects of the correctional system and the expert assessment process of the Parole Board, even for serious offenders. They would emphasize the goal of reintegration, provided that rigorous risk assessments and support systems are in place, while acknowledging public concern." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would detail the Parole Board's mandate to assess risk and make decisions based on legal criteria and evidence of an offender's progress and potential for safe reintegration. It would highlight the independent nature of such decisions, separate from public emotion, while recognizing the profound impact on victims and public confidence in the justice system." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely express outrage and severe concern regarding public safety, questioning the judgment of the Parole Board. They would advocate for stricter parole conditions, prioritizing victim protection and punishment, and maintaining that such dangerous offenders should not be granted increased freedoms." }
         },
-        "neutral": "The Parole Board of Canada cited \"casual and systemic racism\" as a factor influencing an armed robber's circumstances when granting release, prompting discussion on its role in criminal justice decisions."
+        "neutral": "The Parole Board of Canada has granted expanded leave privileges to Douglas Worth, a convicted child rapist and killer, and ended his mandatory treatment plan, a decision expected to generate significant public safety concerns."
       }
     },
     {
-      "id": "p1o2l3i4c5e6j7u8s9t0i1c2e3i4n5v6e",
+      "id": "6e7d8c9b-0a1c-2d3e-4f5a-6b7c8d9e0f10",
       "category": "Criminal",
       "source": "torontosun.com",
-      "title": "Toronto Police Release New Evidence in Unsolved 2022 Murder Investigation",
+      "title": "Two Men Charged with Trafficking Youth for Sex and Drugs in Hamilton, Toronto",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/cops-killer-mysterious-2022-unsolved-murder",
-      "summary": "Toronto Police Service is intensifying its investigation into a mysterious 2022 unsolved murder by releasing new security footage and an artist's rendering of the suspect. This active police effort aims to generate new leads and apprehend the killer, illustrating ongoing law enforcement efforts in cold cases.",
-      "graph": ["Murder Investigation", "Unsolved Crime", "Law Enforcement", "Public Safety", "Forensics"],
+      "url": "https://torontosun.com/news/local-news/two-men-trafficking-drugs-youth-sex-hamilton-toronto",
+      "summary": "Two men have been accused of trafficking youth for sex in the Hamilton and Toronto areas, facing additional charges for trafficking various illicit drugs including cocaine, methamphetamine, and opioids. This case highlights ongoing efforts by law enforcement to combat human and drug trafficking networks targeting vulnerable populations.",
+      "graph": ["Human Trafficking", "Drug Trafficking", "Youth Victims", "Organized Crime", "Law Enforcement"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 50, "center": 30, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the need for adequate resources for police investigations, especially for marginalized communities, and also highlight the importance of community trust and cooperation in solving crimes, while maintaining oversight of police practices." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of law enforcement, supporting comprehensive investigative techniques and community engagement to ensure public safety and bring perpetrators to justice through due process." },
-          "right": { "label": "Conservative Context", "synthesis": "Praises proactive policing and robust investigative efforts to solve violent crimes, advocating for strong law and order measures and holding criminals accountable to ensure community safety." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would emphasize the systemic vulnerabilities that lead youth to become victims of trafficking, calling for increased social supports, harm reduction strategies, and preventative measures. They would advocate for a victim-centred approach in prosecution and rehabilitation services." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the law enforcement response to serious criminal activity, including the investigation, charges, and judicial process. It highlights the complexities of prosecuting intertwined sex and drug trafficking cases and the legal mechanisms in place to protect vulnerable victims." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would emphasize the need for stringent law enforcement, severe penalties for traffickers, and robust measures to combat organized crime. They would call for a strong justice system to protect children and deter such heinous crimes." }
         },
-        "neutral": "Toronto Police have released new security footage and a suspect rendering to advance their investigation into a 2022 unsolved murder, seeking public assistance in the case."
+        "neutral": "Two individuals face charges for alleged sex and drug trafficking involving youth across Hamilton and Toronto, underscoring law enforcement's battle against interconnected criminal networks and the exploitation of vulnerable populations."
       }
     },
     {
-      "id": "d1a2d3s4c5h6i7l8d9e0n1d2a3n4g5e6r",
+      "id": "7d8c9b0a-1c2d-3e4f-5a6b-7c8d9e0f1011",
       "category": "Criminal",
       "source": "torontosun.com",
-      "title": "Canadian Father Charged After Allegedly Threatening to Harm Daughter During U.S. Trip",
+      "title": "Two Fatalities Reported in Stoney Creek Residential Shooting",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/canadian-dad-cops-kill-child-overseas",
-      "summary": "A Canadian father is facing charges after allegedly making statements to police during a U.S. trip that it \"would've been easier\" to kill his child overseas. The incident, which escalated during a vacation, led to legal action. This report details a severe criminal case involving child endangerment and potentially cross-border legal complexities.",
-      "graph": ["Child Endangerment", "Criminal Charges", "International Crime", "Parental Violence", "Law Enforcement"],
+      "url": "https://torontosun.com/news/local-news/two-dead-stoney-creek-shooting",
+      "summary": "Two males were killed in a shooting incident that occurred in a residential complex in Stoney Creek early Wednesday morning. Police are investigating the circumstances surrounding the double homicide, which has raised concerns within the local community regarding public safety.",
+      "graph": ["Homicide", "Gun Violence", "Police Investigation", "Community Safety"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 50, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the systemic support needed for mental health, family crisis intervention, and child protection services. Advocates for a deeper understanding of underlying factors leading to such statements and actions." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the legal process, ensuring due process for the accused, thorough investigation, and protection of the child's welfare, potentially involving international legal cooperation." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for strict punishment for alleged crimes against children and clear accountability for violent threats. Emphasizes swift and decisive legal action to protect vulnerable individuals." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive commentary might link the shooting to broader issues of social inequality, access to resources, and systemic violence. They would advocate for community-based crime prevention, mental health support, and addressing root causes of violence rather than solely punitive measures." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the police investigation, the gathering of evidence, and the legal process to identify and apprehend suspects. It highlights the impact of violent crime on the immediate community and the operational response of law enforcement." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would typically call for stronger police presence, tougher penalties for violent offenders, and stricter gun control enforcement (or focus on criminal misuse of firearms). The emphasis would be on law and order to ensure public safety and deter criminal activity." }
         },
-        "neutral": "A Canadian father faces charges following statements made to police during a U.S. vacation, implying intent to harm his child, which has resulted in an ongoing criminal case."
+        "neutral": "Two men were killed in a residential shooting in Stoney Creek, prompting a police homicide investigation and raising local public safety concerns."
       }
     },
     {
-      "id": "m1e2n3t4a5l6h7e8a9l0t1h2j3u4s5t6i",
+      "id": "8c9b0a1c-2d3e-4f5a-6b7c-8d9e0f101112",
       "category": "Criminal",
       "source": "torontosun.com",
-      "title": "Postpartum Depression Cited as Defense in Case of Mother Accused of Child Killings",
+      "title": "New AI System Deployed by Bell Canada to Combat Phone Scams Targeting Canadians",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/lindsay-clancy-falling-pieces-days-before-killing-kids",
-      "summary": "This article discusses the defense strategy for Lindsay Clancy, who has pleaded not guilty to the killings of her children, arguing that severe postpartum depression rendered her not criminally responsible. This case highlights the intersection of mental health, maternal health, and the criminal justice system, particularly concerning legal defenses based on psychological conditions.",
-      "graph": ["Criminal Defense", "Postpartum Depression", "Mental Health", "Not Criminally Responsible", "Child Homicide"],
+      "url": "https://torontosun.com/news/national/new-ai-system-targets-phone-scammers",
+      "summary": "Bell Canada has implemented a new AI-powered system designed to detect and block phone scammers by identifying fake caller IDs on mobile networks across the country. This technology aims to protect Canadians from a growing wave of fraudulent calls, enhancing consumer protection and combating financial crime.",
+      "graph": ["Cybersecurity", "Fraud Prevention", "Artificial Intelligence", "Telecommunications", "Consumer Protection"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 60, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for greater understanding, resources, and legal accommodations for mental health conditions, particularly postpartum depression, within the criminal justice system, emphasizing compassionate and evidence-based approaches to justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and scientific evaluation of mental health defenses, requiring rigorous medical evidence and expert testimony to determine criminal responsibility while upholding judicial standards for public safety." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes accountability for severe crimes, particularly against children, and may express skepticism about mental health defenses that could mitigate responsibility, prioritizing justice for victims and upholding the sanctity of life." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views might emphasize the need for broad, accessible technological solutions to protect all citizens, especially vulnerable populations, from scams. They would also advocate for data privacy safeguards within AI systems and ensure equitable access to such protections." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis highlights the role of telecommunications companies in safeguarding their networks and customers. It focuses on the technical implementation of AI for fraud detection as a practical measure to combat criminal activity, emphasizing the collaborative effort between private industry and the broader goal of public security." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would generally support technological innovations that enhance security and protect citizens from crime, particularly financial fraud. They might emphasize the role of private companies in leading such solutions and the importance of individual responsibility in avoiding scams, alongside technological safeguards." }
         },
-        "neutral": "In a criminal case, a mother accused of killing her children is pursuing a defense of not criminally responsible due to severe postpartum depression, bringing mental health considerations to the forefront of the legal proceedings."
+        "neutral": "Bell Canada has introduced a new AI system to combat phone scams by detecting fake caller IDs, aiming to enhance protection for Canadians against widespread financial fraud."
       }
     },
     {
-      "id": "b1a2i3l4c5o6m7p8l9i0a1n2c3e4p5s6",
+      "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8a9b1",
       "category": "Criminal",
-      "source": "torontosun.com",
-      "title": "Man on Bail Flees Police, Strikes Cruiser in Owen Sound Incident",
+      "source": "thehub.ca",
+      "title": "Spike in Anti-Semitic Attacks Signals 'New Normal' in Canada, Raises Public Safety Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/provincial/owen-sound-man-flees-truck-strikes-cruiser",
-      "summary": "An individual currently on bail in Owen Sound fled from police in a pickup truck, striking a police cruiser and narrowly missing officers during an attempted arrest. This incident constitutes multiple criminal offenses, including flight from police, dangerous operation of a vehicle, and potentially assault with a weapon, underscoring challenges in bail compliance and public safety.",
-      "graph": ["Police Pursuit", "Bail Conditions", "Criminal Offenses", "Law Enforcement Safety", "Public Safety"],
+      "url": "https://thehub.ca/2026/07/28/jews-being-attacked-is-canadas-new-normal/",
+      "summary": "Recent incidents of violence and harassment targeting Jewish individuals and businesses in Canada, including a shooting at a Toronto Jewish business and attacks on Hasidic Jews in Montreal, indicate a 'new normal' of rising anti-Semitism. This trend is sparking alarm regarding public safety and the prevalence of hate-motivated crimes, prompting calls for greater action and awareness.",
+      "graph": ["Hate Crime", "Anti-Semitism", "Public Safety", "Community Impact", "Law Enforcement"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 60, "center": 25, "right": 15 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the factors leading to the individual being on bail for previous offenses, advocating for systemic reforms that address underlying causes of repeat offending and ensure effective community support rather than solely focusing on punitive bail conditions." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the enforcement of judicial orders and public safety protocols during police operations. Emphasizes the legal consequences of breaching bail and evading arrest, while also considering appropriate use-of-force." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for stricter bail conditions and greater accountability for individuals who breach them or evade law enforcement, advocating for robust policing and judicial measures to deter such dangerous behavior and protect officers." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would emphasize the urgent need to address systemic hate and discrimination, advocating for robust anti-racism initiatives, increased community protection, and tackling the root causes of prejudice. They would call for strong condemnation from all levels of government and society." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the legal definition and prosecution of hate crimes, the role of law enforcement in protecting communities, and the importance of data collection and reporting to track and understand such trends. It highlights the need for effective judicial responses and community support mechanisms." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would stress the importance of law and order, advocating for immediate and decisive action by police and prosecutors against perpetrators of hate crimes. They would emphasize the protection of religious freedoms and the severity of anti-Semitic acts as a threat to national values, calling for zero tolerance." }
         },
-        "neutral": "An individual on bail in Owen Sound initiated a police chase, struck a patrol vehicle, and evaded officers during an attempted arrest, leading to new criminal charges."
+        "neutral": "A documented rise in anti-Semitic attacks across Canada, including shootings and assaults, is being characterized as a 'new normal,' intensifying concerns over public safety and the effectiveness of measures against hate-motivated crime."
       }
     }
   ],
   "immigration": [
     {
-      "id": "i1n2d3i4a5n6s7t8u9d0e1n2t3f4r5a6u",
+      "id": "9b0a1c2d-3e4f-5a6b-7c8d-9e0f10111213",
+      "category": "Immigration",
+      "source": "cbc.ca & globalnews.ca",
+      "title": "Federal Government Removes Daily Cap on Online Passport Renewals for Eligible Canadians",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/online-passport-renewal-canada-9.7287458?cmp=rss",
+      "summary": "The federal government has lifted the daily cap on online passport renewals for eligible Canadians (aged 16+ whose passports are expiring within six months or have already expired). Immigration Minister Lena Diab stated the system is ready for the increased volume, aiming to streamline the process and address previous backlogs, with future considerations for children and overseas applicants.",
+      "graph": ["Passport Services", "Digital Government", "Public Services", "Immigration Policy", "Service Delivery"],
+      "spectrum": {
+        "baseline": { "left": 40, "center": 40, "right": 20 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would welcome the increased accessibility of online services as a step towards modernizing government functions and reducing barriers for citizens. They might also emphasize the importance of digital inclusion, ensuring that those without internet access or digital literacy still have convenient alternatives." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the government's efforts to improve service efficiency and address past operational challenges (like backlogs). It examines the practical implications of expanding online access, including system readiness and the phased approach to broader eligibility, and the administrative changes involved." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would generally support efficiency and modernization in government services, provided it is fiscally responsible and secure. They might scrutinize the cost-effectiveness of the digital infrastructure and potential security risks, while advocating for taxpayers' money to be spent wisely on essential services." }
+        },
+        "neutral": "The federal government has removed the daily limit on online passport renewals for eligible Canadians, a move by Immigration Minister Lena Diab to enhance service efficiency and address backlogs, with future expansion possible."
+      }
+    },
+    {
+      "id": "0a1b2c3d-4e5f-6a7b-8c9d-e0f101112131",
       "category": "Immigration",
       "source": "theglobeandmail.com",
-      "title": "Indian Students Exploit Marriage-of-Convenience Schemes for Canadian Spouse Work Permits",
+      "title": "Canadian Immigration Department Refused Over 20,000 World Cup Fan Visas",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-indian-students-marriages-of-convenience-spouse-work-permits/",
-      "summary": "Canada's High Commission in New Delhi alerted immigration officials to a trend among Indian students arranging marriages of convenience to obtain spouse work permits for Canada. This highlights a significant vulnerability in Canada's immigration system to fraudulent applications, prompting concerns about program integrity and potential exploitation.",
-      "graph": ["Immigration Fraud", "Spouse Sponsorship", "International Students", "Work Permits", "Immigration Policy Integrity"],
+      "url": "https://www.theglobeandmail.com/politics/article-fifa-world-cup-immigration-visa-refusal/",
+      "summary": "Canada's immigration department denied more than 20,000 visa applications from international fans wishing to attend the World Cup, including a significant number from Ghana, whose team opened the tournament in Toronto. This reveals the federal government's stringent visa policies even for major international events.",
+      "graph": ["Visa Policy", "International Events", "Immigration Control", "Foreign Nationals", "Economic Impact"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for ensuring equitable access to immigration pathways while identifying and addressing systemic vulnerabilities. Might emphasize the need for robust support systems for international students and scrutiny of exploitative practices by third-party actors." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on maintaining the integrity of Canada's immigration programs through enhanced verification processes and targeted enforcement, without unduly penalizing legitimate applicants. Seeks balance between openness and security." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for stricter enforcement against immigration fraud, more stringent vetting of applicants and sponsors, and potentially tighter controls on international student and spouse permit programs to prevent abuse and protect national borders." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques would question the equity and inclusiveness of Canada's visa system, particularly for visitors from certain regions, arguing that it may perpetuate biases or hinder international cultural exchange and economic benefits from tourism. They would call for more flexible and humane immigration policies." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the immigration department's standard operating procedures for visa applications, which involve assessing factors like genuine intent to visit and risk of overstay. It highlights the balance between facilitating international events and maintaining border integrity, without commenting on the specific policy's fairness." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would likely support strict visa policies as a measure to protect national security and control immigration. They would prioritize border integrity and adherence to established immigration rules, even if it means fewer attendees for international events, emphasizing the prevention of illegal immigration or overstays." }
         },
-        "neutral": "Canadian immigration officials have been warned about organized marriages of convenience among Indian students seeking spouse work permits, indicating a challenge to the integrity of Canada's immigration system."
+        "neutral": "Canada's immigration department rejected over 20,000 World Cup fan visa applications, including many from Ghana, indicating a cautious approach to international visitor entry despite major event hosting."
       }
     },
     {
-      "id": "h1a2i3t4i5a6n7a8s9y0l1u2m3s4e5e6k",
-      "category": "Immigration",
-      "source": "globalnews.ca",
-      "title": "Canada Anticipates Influx of Haitian Asylum Seekers as U.S. Temporary Protection Status Expires",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/11996028/haitian-asylum-seekers-canada-u-s-protections-end/",
-      "summary": "Canadian advocates are preparing for a potential increase in Haitian asylum seekers as the U.S. Temporary Protected Status (TPS) for Haitians expired. The end of TPS, which allowed Haitians to live and work legally in the U.S. on a temporary basis, is expected to prompt many to seek refuge in Canada, posing a challenge to Canadian immigration and border resources.",
-      "graph": ["Asylum Seekers", "Refugee Policy", "Canada-US Border", "International Migration", "Temporary Protected Status"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for humanitarian approaches to asylum claims, emphasizing Canada's moral obligation to provide refuge to those fleeing instability and advocating for expedited processing and adequate settlement support services." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on orderly processing of asylum claims, ensuring adherence to international and domestic laws, while managing border resources and maintaining diplomatic dialogue with the U.S. to address irregular migration patterns." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for stricter border controls and more rigorous screening of asylum claims to prevent irregular crossings and manage the flow of migrants. May question the sustainability of current refugee policies and the economic burden on taxpayers." }
-        },
-        "neutral": "Anticipation of a potential increase in Haitian asylum seekers is growing in Canada following the expiration of U.S. Temporary Protected Status for Haitian nationals, posing new pressures on Canada's immigration system."
-      }
-    },
-    {
-      "id": "p1o2p3u4l5a6t7i8o9n0d1e2c3l4i5n6e",
+      "id": "b0a1c2d3-e4f5-6a7b-8c9d-e0f101112132",
       "category": "Immigration",
       "source": "nationalpost.com",
-      "title": "Opinion: Immigration Insufficient to Address Canada's Long-Term Population Decline",
+      "title": "New Research Indicates Immigrants to Canada Rapidly Adopting Lower Canadian Fertility Rates",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/joel-kotkin-immigration-alone-wont-solve-canadas-population-decline",
-      "summary": "An opinion piece argues that relying solely on immigration will not effectively solve Canada's population decline or its underlying demographic challenges. The author suggests that a sustainable solution requires fostering a hopeful future for young Canadians, implying a need for domestic policies that encourage higher birth rates and improve living conditions. This sparks a debate on Canada's long-term demographic strategy and the role of immigration versus domestic policy.",
-      "graph": ["Demographic Policy", "Immigration Strategy", "Population Growth", "Economic Future", "Social Policy"],
+      "url": "https://nationalpost.com/news/canada/immigration-falling-fertility-rates-canada",
+      "summary": "New research suggests that the fertility rates of immigrants to Canada are converging with those of native-born Canadians, which are among the lowest globally. While immigrants initially have higher fertility, the gap is shrinking, indicating a rapid adoption of Canadian demographic trends and potentially impacting long-term population growth projections.",
+      "graph": ["Immigration", "Demographics", "Fertility Rates", "Population Growth", "Social Integration"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 50, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While generally supportive of immigration's role in population growth and diversity, would advocate for robust social programs, affordable childcare, and economic policies that support families and young people to encourage domestic population growth." },
-          "center": { "label": "Procedural Context", "synthesis": "Seeks a balanced approach to population strategy, integrating skilled immigration with policies that support families, address cost of living, and ensure a strong economy for future generations, requiring federal and provincial coordination." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of national identity and cultural cohesion alongside economic considerations. May advocate for policies that prioritize domestic population growth and question the social or economic sustainability of high immigration levels without addressing internal issues." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views might interpret this as successful integration, where immigrants adapt to broader societal norms, including family planning choices influenced by economic factors and access to education/healthcare. They may advocate for policies that support families, immigrant women's rights, and reproductive health choices." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the demographic trends and the sociological factors influencing fertility rates among immigrant populations and the general Canadian populace. It highlights the statistical convergence and its implications for future population projections, workforce planning, and social service demand, noting the complex interplay of cultural and economic factors." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might express concern over declining fertility rates, including among immigrants, as a challenge to long-term economic stability and national identity. They may advocate for pro-natalist policies or adjustments to immigration levels to counteract demographic shifts and ensure sufficient population growth." }
         },
-        "neutral": "An opinion article posits that immigration alone cannot resolve Canada's long-term population decline, advocating for domestic policies that create a more favorable environment for young Canadians to ensure future demographic stability."
+        "neutral": "Research shows immigrants in Canada are quickly adopting the country's low fertility rates, narrowing the demographic gap with native-born Canadians and signaling a broader trend in national population dynamics."
       }
     }
   ]
