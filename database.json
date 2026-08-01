@@ -1,315 +1,297 @@
 {
   "federalism": [
     {
-      "id": "fed-crawford-nickel",
+      "id": "2b6b5d92a7e7486e9e4f164b4c73f3b1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Government Approves Ontario's Crawford Nickel Project Amid Environmental Concerns",
+      "title": "Canada's National Food Security Strategy to Boost Domestic Processing",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-food-processing-national-food-strategy-carney-9.7292819?cmp=rss",
+      "summary": "The federal government's national food security strategy pledges hundreds of millions to scale up Canada's food processing industry. This initiative aims to add billions to the economy and strengthen food sovereignty by processing more agricultural products domestically, rather than exporting raw goods and re-importing them. Proponents highlight potential annual GDP growth of up to $25 billion from investments in plant-based ingredient manufacturing and food processing.",
+      "graph": ["Food Security", "Economic Policy", "Agriculture", "National Strategy", "Investment"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports government intervention to protect national industries, enhance food security, and create jobs, aligning with broader economic planning and social welfare objectives." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the strategy as a pragmatic economic development plan balancing national interests with market dynamics, emphasizing job creation, and responsible resource management through federal policy frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about government spending and potential market interference, but supports the overarching goal of domestic economic growth, reduced reliance on foreign processing, and national self-sufficiency if implemented efficiently." }
+        },
+        "neutral": "The federal government is implementing a national food security strategy to stimulate domestic food processing, aiming for economic growth and enhanced sovereignty."
+      }
+    },
+    {
+      "id": "e0d9b6f8a4c172e5f38d4a7b2c0198d0",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Canada and Allies Issue Alert on North Korean IT Worker Scheme Funding WMDs",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-allies-north-korean-it-workers-9.7292580?cmp=rss",
+      "summary": "Canada, in conjunction with nine allied nations including the U.S. and U.K., has issued a joint alert detailing North Korea's ongoing scheme to deploy remote IT workers globally. These workers reportedly defraud businesses by falsifying identities to secure contracts, with revenues funneled back to North Korean agencies to finance its nuclear weapons program. The alert urges countries and companies to implement stronger countermeasures and improve understanding of this illicit network.",
+      "graph": ["National Security", "Foreign Policy", "Cybercrime", "North Korea", "International Sanctions"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes international cooperation to counter illicit state activities, advocating for robust enforcement of sanctions and addressing the human rights implications of forced labor." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the importance of multilateral efforts and intelligence sharing to combat state-sponsored financial crime and weapons proliferation, upholding international legal frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes national security and the protection of domestic businesses from foreign threats, supporting strong alliances and decisive action against hostile state actors engaged in illicit financing." }
+        },
+        "neutral": "Canada and its allies have released a joint alert addressing North Korea's persistent use of remote IT workers to fund its weapons of mass destruction program through fraudulent means, urging global countermeasures."
+      }
+    },
+    {
+      "id": "f5e9d0c1b3a876d2e4f019c8b7a654d3",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Federal Approval Granted for Crawford Nickel Project in Northern Ontario",
       "citation": "June 2026 Tracking Window",
       "url": "https://www.cbc.ca/news/politics/crawford-nickel-project-approved-9.7292147?cmp=rss",
-      "summary": "The federal government has approved the Crawford Nickel Project, an open-pit nickel-cobalt mine in Northern Ontario, projecting $5 billion in investment and 5,000 construction jobs. This marks the first mine approved under Prime Minister Carney's new impact assessment process. Approval was granted by Environment Minister Julie Dabrusin despite findings of negative impacts on fish and bird habitats, water quality, and Indigenous people, as well as Canada's climate goals. The decision is justified by potential economic benefits, with legally binding conditions attached to mitigate adverse effects, particularly for Indigenous communities.",
-      "graph": ["Resource Development", "Environmental Assessment", "Federal-Provincial Relations", "Indigenous Impact", "Economic Policy"],
+      "summary": "The federal government has approved the Crawford Nickel Project in Northern Ontario, an open-pit nickel-cobalt mine projected to attract $5 billion in investment and create 5,000 construction jobs, plus 1,300 operational jobs. This is the first mine approved under Prime Minister Mark Carney's new impact assessment process, despite an assessment identifying negative impacts on fish and bird habitats, water quality, and Indigenous communities. The approval includes legally binding conditions to mitigate these adverse effects.",
+      "graph": ["Resource Development", "Environmental Impact", "Indigenous Relations", "Economic Growth", "Regulatory Approval"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Environmental groups and some Indigenous advocates may criticize the approval for prioritizing economic gains over significant environmental and social impacts, potentially advocating for stronger environmental protections and Indigenous rights." },
-          "center": { "label": "Procedural Context", "synthesis": "The approval demonstrates the federal government's attempt to balance economic development with environmental stewardship and Indigenous engagement within the framework of its new impact assessment process, applying conditions to manage identified risks." },
-          "right": { "label": "Conservative Context", "synthesis": "Proponents of resource development and economic growth will largely support the decision, viewing it as a necessary step for job creation and critical mineral supply, despite environmental trade-offs, emphasizing the economic benefits for the region and nation." }
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes the approval despite acknowledged negative environmental and Indigenous impacts, advocating for stronger protections and Indigenous rights over economic development, and questioning the adequacy of mitigation measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the decision as a balancing act between significant economic benefits and environmental/social responsibilities, managed through regulatory processes and legally binding conditions." },
+          "right": { "label": "Conservative Context", "synthesis": "Applauds the government for prioritizing economic development, investment, and job creation in the critical minerals sector, viewing environmental and Indigenous concerns as manageable through regulatory compliance." }
         },
-        "neutral": "The federal approval of the Crawford Nickel Project highlights the complex interplay between economic development, environmental protection, and Indigenous rights, with the government balancing projected economic benefits against identified adverse impacts through conditional approval."
+        "neutral": "The federal government approved the Crawford Nickel Project in Ontario, a significant mining venture projected to boost the economy, while imposing conditions to address identified environmental and Indigenous community impacts."
       }
     },
     {
-      "id": "fed-rcmp-negotiations",
+      "id": "d3c0b1a2e4f587691230d5c4b6a7e8f9",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Provincial Premiers Urge Federal Government for Immediate RCMP Contract Policing Negotiations",
+      "title": "Bank of Canada Governor Defends Use of Replacement Workers During Strike",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/rcmp-reform-premiers-police-9.7289407?cmp=rss",
-      "summary": "Canadian provincial and territorial premiers have issued a joint communiqué calling on the federal government for urgent negotiations regarding the future of RCMP contract policing. With current agreements expiring in 2032, premiers cite challenges like staffing shortages, rising costs, and governance concerns, emphasizing the need for clarity on whether the RCMP will continue in day-to-day policing or shift focus solely to federal crimes. Alberta is notably exploring options for its own provincial police service.",
-      "graph": ["Intergovernmental Relations", "Policing Reform", "Fiscal Federalism", "Public Safety", "Provincial Autonomy"],
+      "url": "https://www.cbc.ca/news/politics/bank-of-canada-governor-defends-replacement-workers-9.7292965?cmp=rss",
+      "summary": "Bank of Canada Governor Tiff Macklem has defended the central bank's use of replacement workers during a strike by security officers, despite two rulings from the Canada Industrial Relations Board (CIRB) that deemed it a contravention of the Canada Labour Code. Macklem argues that exceptions to the ban on replacement workers should apply when essential security of personnel and facilities is threatened, seeking clarity on these provisions. The Public Service Alliance of Canada (PSAC) has called for an end to replacement workers and a return to fair bargaining.",
+      "graph": ["Labor Relations", "Public Sector", "Regulatory Compliance", "Strike", "Security"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the need for modernized, community-centred policing models and advocate for greater accountability and local control over policing services, potentially supporting provinces seeking alternatives to the RCMP." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural necessity of timely negotiations to ensure continuity and stability in policing services across Canada, addressing budgetary and operational concerns while adapting to evolving needs and federal priorities." },
-          "right": { "label": "Conservative Context", "synthesis": "Often supports provincial autonomy and fiscal responsibility, advocating for provincial control over policing and scrutinizing federal spending, potentially aligning with calls for provinces like Alberta to establish their own police forces." }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the Bank of Canada's actions as undermining labor rights and circumventing new legislation banning replacement workers, advocating for workers' right to strike and fair collective bargaining." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and procedural aspects of the dispute, questioning the Bank's interpretation of labor code exceptions and emphasizing adherence to CIRB rulings while balancing institutional security needs." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the Bank of Canada's stance on maintaining essential services and security, potentially viewing the ban on replacement workers as an impediment to critical operations and management's prerogative." }
         },
-        "neutral": "Provincial and territorial premiers are demanding prompt federal engagement on the future of RCMP contract policing, seeking clarity and new agreements to address operational, fiscal, and governance challenges ahead of the 2032 contract expiry."
+        "neutral": "The Bank of Canada Governor defended the institution's use of replacement workers during a security officer strike, citing security concerns, despite Canada Industrial Relations Board rulings of non-compliance with the Canada Labour Code."
       }
     },
     {
-      "id": "fed-us-tariffs",
+      "id": "a9b8c7d6e5f43210123456789abcdef",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Ontario Representative Suggests US Tariff Threats Indicate Effectiveness of Canadian Retaliation",
+      "title": "Mackenzie Valley Highway Construction Delayed by N.W.T. Wildfires",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/us-tariffs-cars-alcohol-ban-bourbon-wine-9.7291499?cmp=rss",
-      "summary": "US President Donald Trump has threatened 50% tariffs on hundreds of Canadian goods, citing Canada's retaliatory trade actions as a reason. David Paterson, Ontario's representative in Washington, stated this indicates the US administration is acknowledging the economic impact of Canadian tariffs, particularly a 22% drop in US auto exports to Canada. Trade talks between the two nations have reportedly intensified, with Canada maintaining tariffs on certain US goods like cars and steel.",
-      "graph": ["International Trade", "Economic Policy", "Diplomacy", "Federal-Provincial Relations", "Retaliatory Tariffs"],
+      "url": "https://www.cbc.ca/news/canada/north/ottawa-says-construction-on-mackenzie-valley-highway-cant-start-until-wildfires-are-under-control-9.7287609?cmp=rss",
+      "summary": "The federal government has postponed the commencement of construction on the Mackenzie Valley Highway in the Northwest Territories, citing severe and uncontrolled wildfires in the region. Prime Minister Mark Carney had earlier pledged for construction to begin this summer on the strategic all-season gravel road, which aims to lower living costs and assert Arctic sovereignty. Major sections of the project are now slated for late 2027, pending environmental assessments and route finalization.",
+      "graph": ["Infrastructure", "Arctic Sovereignty", "Emergency Management", "Regional Development", "Wildfires"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May critique the instability of protectionist trade policies and advocate for international cooperation and fair trade practices that protect Canadian workers and industries from external economic pressures." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the strategic implications of trade disputes and retaliatory measures, emphasizing diplomatic efforts to de-escalate tensions and secure favorable terms for Canadian exports, ensuring stability for affected sectors." },
-          "right": { "label": "Conservative Context", "synthesis": "Could advocate for strong national economic defence and diversification away from reliance on potentially volatile trade partners, while also emphasizing the impact of tariffs on specific industries and the need for clear market access." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports prioritizing public safety and environmental considerations over development timelines, highlighting the increasing impact of climate change on infrastructure projects and the need for adaptive planning." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the delay as a necessary and prudent decision for public safety and logistical reasons, demonstrating responsible project management in the face of unforeseen natural disasters." },
+          "right": { "label": "Conservative Context", "synthesis": "May criticize the delay as an impediment to vital economic development and strategic infrastructure, questioning the efficiency of project execution and advocating for faster mitigation of obstacles." }
         },
-        "neutral": "New US tariff threats are perceived by Ontario's representative in Washington as a sign that Canada's retaliatory trade measures are affecting the US economy, leading to intensified bilateral trade negotiations."
+        "neutral": "Construction of the Mackenzie Valley Highway, a major federal infrastructure project in the Northwest Territories, has been postponed by the federal government until regional wildfires are brought under control, citing public safety concerns."
       }
     },
     {
-      "id": "fed-goeu-program",
+      "id": "c7e8d9f0a1b234c567890123456789ab",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal and Ontario Governments Jointly Fund $5M Program to Diversify Exports to Europe",
+      "source": "The Globe and Mail",
+      "title": "Ottawa-Beijing Relations Strained by NATO Spying Allegations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/toronto/go-eu-program-ontario-canada-announcement-9.7290789?cmp=rss",
-      "summary": "The federal government, through FedDev Ontario, and the Ontario provincial government are jointly funding a $5 million 'GoEU' program. Administered by the Toronto Business Development Centre, this initiative aims to help up to 70 Ontario businesses, particularly those impacted by US tariffs in sectors like automotive and steel, expand their export opportunities in European markets. This collaboration is a direct response to recent 50% tariffs imposed by the US, highlighting Canada's strategy to diversify its trade relationships.",
-      "graph": ["Economic Development", "Trade Diversification", "Federal-Provincial Cooperation", "International Trade", "Small Business Support"],
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-ottawa-beijing-relations-face-strain-over-allegations/",
+      "summary": "Relations between Canada and China are facing increased strain due to allegations of NATO spying, stemming from the arrest of a Canadian NATO intern with a prior history of fraud. This development, which suggests potential Chinese intelligence activities within a critical international security alliance, carries significant implications for Canada's foreign policy, national security, and diplomatic interactions with both China and NATO partners.",
+      "graph": ["International Relations", "National Security", "Espionage", "China", "NATO"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports government intervention to protect and grow Canadian businesses, especially in the face of external economic threats, and may call for further investment in resilient, diversified economic strategies." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the program as a pragmatic and collaborative effort between federal and provincial levels to mitigate economic risks from trade disputes and foster new international market opportunities for Canadian enterprises." },
-          "right": { "label": "Conservative Context", "synthesis": "While supporting trade diversification, may question the efficiency of government-funded programs and emphasize the role of free markets, though acknowledges the necessity of responding to protectionist trade actions from other nations." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for a balanced diplomatic approach, emphasizing international law and human rights, while advocating for thorough investigations into foreign interference without necessarily escalating geopolitical tensions." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the diplomatic and security ramifications, stressing the need for robust intelligence countermeasures, internal security reforms, and coordinated international responses to protect national interests and alliances." },
+          "right": { "label": "Conservative Context", "synthesis": "Demands a strong and decisive response to foreign espionage and interference, prioritizing national security and criticizing any perceived weakness in dealing with adversarial states and protecting sensitive information." }
         },
-        "neutral": "A new $5 million joint federal-Ontario program, 'GoEU,' will support Ontario businesses in diversifying exports to European markets, aiming to mitigate the impact of recent US tariff threats through strategic trade diversification efforts."
+        "neutral": "Ottawa-Beijing relations are experiencing heightened tension following allegations of NATO spying, linked to a Canadian NATO intern with a prior fraud history, prompting concerns over national security."
       }
     },
     {
-      "id": "fed-bc-port-expansion",
+      "id": "e6f7a8b9c0d123e4567890f1a2b3c4d5",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Prime Minister Carney Endorses Vancouver Port Expansion for Export Growth and Economic Independence",
+      "title": "Canada's Critical Infrastructure Vulnerable Amid U.S. Water System Cyberattacks",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12003754/carney-port-of-vancouver-expansion-plans/",
-      "summary": "Prime Minister Mark Carney has voiced support for the Port of Vancouver's Roberts Bank Terminal 2 expansion project. He emphasized its necessity for boosting Canada's export capacity and enhancing the nation's economic independence, particularly in light of global trade dynamics.",
-      "graph": ["Infrastructure", "Economic Policy", "International Trade", "Federal Initiatives"],
+      "url": "https://globalnews.ca/news/12005133/cyberattacks-water-systems-us-canada-iran-explained/",
+      "summary": "As U.S. officials investigate a wave of cyberattacks on water and wastewater systems across several states, with suspected Iranian involvement, the Canadian Centre for Cyber Security has reiterated warnings about Canada's own critical infrastructure vulnerabilities. These attacks target programmable logic controllers (PLCs), capable of disrupting operations and creating unsafe conditions. Canadian authorities urge facility operators to disconnect vulnerable equipment from the internet to prevent similar incidents, highlighting the cross-border nature of such threats.",
+      "graph": ["Cybersecurity", "Critical Infrastructure", "National Security", "International Threats", "Water Systems"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for robust environmental and social impact assessments to ensure such large-scale infrastructure projects align with sustainability goals and benefit local communities and Indigenous groups." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the strategic importance of critical infrastructure development for national economic resilience and global competitiveness, supporting projects that streamline trade and create long-term economic advantages." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports infrastructure projects that facilitate trade and reduce regulatory burdens, viewing them as essential for economic growth, market access, and strengthening Canada's independent position in global commerce." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust public investment in cybersecurity infrastructure for essential services, emphasizing international cooperation to address state-sponsored cyber threats and protect public utilities." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the importance of national cybersecurity strategies, inter-agency cooperation, and proactive measures to protect critical infrastructure, balancing security imperatives with operational efficiency." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the urgent need for heightened national security defenses against foreign adversaries, calling for aggressive measures to deter and respond to cyber warfare targeting critical utilities." }
         },
-        "neutral": "Prime Minister Carney has endorsed the Port of Vancouver's Roberts Bank Terminal 2 expansion, asserting its crucial role in increasing Canadian exports and fostering national economic independence."
+        "neutral": "U.S. officials are investigating widespread cyberattacks on water systems, potentially linked to Iran, prompting warnings from Canadian cybersecurity authorities about similar vulnerabilities in Canada's critical infrastructure."
       }
     },
     {
-      "id": "fed-export-office",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "Canada Establishes New Strategic Export Office Amid Looming US Tariff Threats",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12002946/canada-strategic-exports-office/",
-      "summary": "In response to potential new tariffs from the US, Canada is establishing a new federal strategic exports office. This office will function as a federal arm designed to enhance coordination among Canadian businesses and government officials, aiming to diversify export markets and bolster Canada's international trade strategy against protectionist measures.",
-      "graph": ["International Trade", "Economic Strategy", "Federal Government", "Trade Diversification", "Protectionism"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for comprehensive, long-term trade strategies that prioritize ethical sourcing and sustainable economic development, ensuring Canadian businesses are supported in navigating complex global markets." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the new office as a pragmatic federal response to protect Canadian economic interests and facilitate market diversification, adapting to evolving international trade challenges with coordinated government and business efforts." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports initiatives that promote export growth and reduce reliance on single markets, but may scrutinize the size and scope of new government offices, advocating for market-driven solutions where possible." }
-        },
-        "neutral": "Canada is creating a new federal strategic exports office to improve coordination for businesses and government officials in diversifying export markets, in anticipation of further US tariff threats."
-      }
-    },
-    {
-      "id": "fed-russia-china-alliance",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Opinion: National Security Must Guide Canada's Response to Russia-China Alliance, Not Trade Interests",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/opinion-canada-cannot-trade-away-the-danger-of-a-russia-china-alliance",
-      "summary": "An opinion piece argues that Canada must prioritize national security over increased economic engagement when dealing with the perceived danger of a Russia-China alliance. It posits that Canada's foreign policy should not compromise its strategic interests for short-term trade benefits.",
-      "graph": ["Foreign Policy", "National Security", "Geopolitics", "Economic Relations", "Diplomacy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for a nuanced foreign policy that balances human rights, international law, and global cooperation, while cautiously assessing geopolitical risks and avoiding purely transactional approaches to trade." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the geopolitical complexities of the Russia-China alliance and its implications for Canada's security and economic interests, urging a balanced approach that considers both diplomatic and strategic responses." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes a robust national security posture and warns against economic dependencies on adversarial states, advocating for strategic alliances and trade relationships that align with core national values and security interests." }
-        },
-    "neutral": "An opinion piece asserts that Canada's foreign policy must prioritize national security and strategic alignment over economic engagement when confronting the challenges posed by a Russia-China alliance."
-      }
-    },
-    {
-      "id": "fed-alberta-capital-gains",
+      "id": "f8e7d6c5b4a321e0f987654321fedcba",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Opinion: Eliminating Capital Gains Tax Advocated to Restore Alberta's Economic Advantage",
+      "title": "Analysis of Federal Government Travel and Hospitality Expenses",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/07/30/how-eliminating-the-capital-gains-tax-can-restore-the-alberta-advantage/",
-      "summary": "An opinion piece advocates for the elimination of capital gains tax in Alberta to restore the 'Alberta Advantage,' a philosophy rooted in private enterprise and resource development. The author argues that taxing capital gains discourages investment, creating a 'lock-in effect' that reduces available capital for new projects and job creation. The piece highlights other jurisdictions that have low or no capital gains tax as examples.",
-      "graph": ["Fiscal Policy", "Provincial Taxation", "Economic Competitiveness", "Investment Incentives", "Federal-Provincial Taxation"],
+      "url": "https://thehub.ca/2026/07/31/your-tax-dollars-at-work-15/",
+      "summary": "A column titled 'Your tax dollars at work' scrutinizes recent federal government expenditures derived from proactive disclosure records. It highlights specific examples of high-cost diplomatic hospitality, such as a $2,704 catered lunch for 11 by Canada's UN Ambassador in New York, and expensive international travel for senior officials. The piece contrasts these with more modest expenses, raising questions about administrative efficiency, fiscal responsibility, and the use of taxpayer funds within various public service operations.",
+      "graph": ["Government Spending", "Public Accountability", "Fiscal Policy", "Diplomacy", "Administrative Efficiency"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May raise concerns about the regressive nature of tax cuts that primarily benefit high-income earners and investors, advocating for progressive taxation and public investment to support broader social welfare." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic impacts of various tax policies on provincial competitiveness and investment, considering both potential benefits and risks to public revenue and social equity." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports tax cuts and deregulation to stimulate private investment, economic growth, and job creation, viewing capital gains tax as a barrier to wealth generation and entrepreneurial activity." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for greater transparency and accountability in government spending, advocating for efficient use of public funds to maximize social benefits and minimize waste, ensuring resources align with public needs." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the mechanisms of public disclosure and oversight, emphasizing the importance of prudent financial management within government agencies and diplomatic missions to maintain public trust." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern over perceived wasteful government spending and calls for stringent fiscal discipline, criticizing lavish expenses by officials and advocating for reduced public sector costs." }
         },
-        "neutral": "An opinion article proposes eliminating the capital gains tax in Alberta to revive its economic advantage by stimulating investment, addressing concerns that current taxation discourages capital deployment and job creation."
+        "neutral": "A column details various Canadian government expenditures revealed through proactive disclosure, scrutinizing high-cost diplomatic lunches and official travel expenses, and highlighting issues of administrative efficiency."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-scc-judicial-review",
+      "id": "c1b0a3d2e5f487960123456789abcdef",
       "category": "Charter",
       "source": "CBC News",
-      "title": "Supreme Court Affirms Judicial Review of Ethics Commissioner Decisions, Overturning Act's Limitation",
+      "title": "Shen Yun Organizers Sue National Arts Centre Over Performance Ban",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/ethics-conflict-commissioner-court-democracy-watch-9.7290601?cmp=rss",
-      "summary": "The Supreme Court of Canada has unanimously ruled that decisions by the conflict of interest and ethics commissioner are subject to judicial review on both questions of fact and law. This decision effectively nullifies Section 66 of the Conflict of Interest Act, which sought to limit judicial oversight. The ruling stems from Democracy Watch's challenge to the commissioner's exoneration of former Prime Minister Justin Trudeau in the WE Charity scandal. The Court affirmed that the authority to review delegated power for legality is constitutionally guaranteed for all administrative decisions.",
-      "graph": ["Judicial Review", "Administrative Law", "Government Accountability", "Rule of Law", "Ethics Commissioner"],
+      "url": "https://www.cbc.ca/news/canada/ottawa/shen-yun-nac-court-9.7292320?cmp=rss",
+      "summary": "The Falun Dafa Association of Ottawa, organizers of the Shen Yun performance, has filed a judicial review application against the National Arts Centre (NAC) in Federal Court. They allege the NAC improperly denied them performance space for 2026 and beyond, ending a two-decade relationship. The suit questions whether the NAC's decision, which followed internal discussions about alleged mistreatment of performers and contractual breaches, was influenced by meetings between NAC representatives and Chinese officials.",
+      "graph": ["Freedom of Expression", "Artistic Freedom", "Judicial Review", "Crown Corporation", "Cultural Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of robust oversight of government officials and administrative bodies, viewing expanded judicial review as a critical mechanism for public accountability and ensuring democratic principles." },
-          "center": { "label": "Procedural Context", "synthesis": "The ruling clarifies and reaffirms the constitutional principle of judicial review as a fundamental aspect of Canada's legal system, ensuring that all delegated powers are subject to court scrutiny for legality and proper exercise." },
-          "right": { "label": "Conservative Context", "synthesis": "While generally supportive of limiting government overreach, some may express concerns about potential judicial activism or delays in administrative processes, though the upholding of accountability principles is broadly accepted." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of artistic freedom and non-discrimination, potentially supporting Shen Yun's right to perform and questioning any external political influence or corporate censorship on a public institution." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on due process, administrative law, and the contractual obligations of a Crown corporation, seeking a fair resolution based on legal merit and transparency, while balancing various public interests." },
+          "right": { "label": "Conservative Context", "synthesis": "May align with concerns about free speech and potential foreign interference in Canadian institutions, supporting the right of Falun Dafa to present its art without undue political influence, while acknowledging the NAC's right to manage its venues responsibly." }
         },
-        "neutral": "The Supreme Court of Canada has affirmed the constitutional right to judicial review of all administrative decisions, including those of the ethics commissioner, thereby striking down limitations in the Conflict of Interest Act and reinforcing governmental accountability."
+        "neutral": "The Falun Dafa Association of Ottawa has initiated a judicial review against the National Arts Centre, alleging improper denial of performance space for Shen Yun and questioning potential foreign influence in the NAC's decision to sever ties after two decades."
       }
     },
     {
-      "id": "charter-shen-yun-nac",
+      "id": "e9f0d1c2b3a456e7890123456789abcd",
       "category": "Charter",
-      "source": "Global News",
-      "title": "Lawsuit Alleges Foreign Interference in National Arts Centre's Cancellation of Shen Yun Performance",
+      "source": "National Post",
+      "title": "Controversial 'Nakba' Exhibit Prompts Resignation Consideration at Canadian Museum for Human Rights",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12002901/group-sues-national-arts-centre-over-shen-yun-cancellation-raises-foreign-interference-concerns/",
-      "summary": "A lawsuit has been filed against the National Arts Centre (NAC) following the cancellation of a Shen Yun performance. The group behind Shen Yun alleges that the cancellation was influenced by foreign interference, specifically noting engagements between NAC officials and the Chinese ambassador. This raises concerns about freedom of expression and the potential for external influence on Canadian cultural institutions.",
-      "graph": ["Freedom of Expression", "Foreign Interference", "Cultural Policy", "Administrative Decision-making", "Crown Corporations"],
+      "url": "https://nationalpost.com/news/canada/gail-asper-canadian-museum-of-human-rights-nakba-exhibit",
+      "summary": "Gail Asper, a co-founder of the Canadian Museum for Human Rights (CMHR), is reportedly considering stepping down from her honorary board position due to a controversial 'Nakba' exhibit. The exhibit has sparked significant debate, raising questions about the museum's curatorial independence, its mandate in presenting sensitive historical narratives, and its role in balancing diverse community perspectives on human rights issues. This internal conflict highlights the challenges public institutions face in navigating freedom of expression and cultural sensitivity.",
+      "graph": ["Human Rights", "Freedom of Expression", "Cultural Sensitivity", "Public Institutions", "Historical Narrative"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for artistic freedom and protection against censorship, particularly from foreign governments, emphasizing the importance of cultural diversity and open expression in public institutions." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and policy implications of alleged foreign interference in Canadian cultural institutions, focusing on the due process of administrative decisions and the constitutional rights to freedom of expression." },
-          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about national sovereignty and the integrity of Canadian institutions against foreign influence, while also potentially scrutinizing the operational decisions and independence of publicly funded bodies like the NAC." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports the museum's autonomy in presenting diverse and challenging historical narratives, emphasizing the importance of freedom of expression and confronting difficult truths, even if controversial." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the governance and mandate of a national human rights institution, debating how it should balance artistic freedom, historical accuracy, and community sensitivity while maintaining its integrity." },
+          "right": { "label": "Conservative Context", "synthesis": "May criticize the exhibit for being divisive or politically biased, advocating for a balanced presentation of historical events and expressing concern about how public institutions address highly sensitive geopolitical topics." }
         },
-        "neutral": "A lawsuit against the National Arts Centre, citing alleged foreign interference by the Chinese ambassador in the cancellation of a Shen Yun performance, brings questions of freedom of expression and institutional integrity to the forefront."
+        "neutral": "A co-founder of the Canadian Museum for Human Rights, Gail Asper, is contemplating resignation from her honorary board role amidst controversy surrounding a 'Nakba' exhibit, sparking debate over the museum's curatorial approach to sensitive historical narratives."
+      }
+    },
+    {
+      "id": "f0e1d2c3b4a567e890123456789abcde",
+      "category": "Charter",
+      "source": "The Hub",
+      "title": "Concerns Over Employment Discrimination for Jewish Canadians Linked to Israel Association",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/31/rejection-should-not-drive-jews-out-of-canada-when-there-is-work-to-be-done/",
+      "summary": "An opinion piece addresses the growing apprehension among Jewish Canadians regarding potential professional and social exclusion due to their perceived association with Israel, leading some to consider emigration. The author points to federal advisory council appointments of individuals with 'problematic track records' on Israel, suggesting a systemic bias that could impact employment opportunities beyond overt antisemitic incidents. The article calls for rigorous investigation into job outcomes for Canadians identified with Israel, emphasizing equality rights.",
+      "graph": ["Antisemitism", "Discrimination", "Equality Rights", "Employment Equity", "Public Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Calls for addressing all forms of discrimination, including antisemitism, while advocating for inclusive policies and robust mechanisms to ensure equitable access to opportunities, focusing on systemic issues and intersectionality." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the importance of upholding Charter rights related to equality and non-discrimination in all aspects of life, including employment, and calls for objective assessment of potential biases in public and professional spheres." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern for individual freedoms and the right to professional advancement free from political or ideological litmus tests, criticizing governmental actions that might exacerbate perceived discrimination." }
+        },
+        "neutral": "An article examines concerns among Jewish Canadians about potential professional and social exclusion due due to perceived ties to Israel, linking these fears to governmental appointments and the need for addressing antisemitism."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "indig-crawford-nickel-impact",
-      "category": "Indigenous",
-      "source": "CBC News",
-      "title": "Federal Approval of Crawford Nickel Project Includes Conditions to Mitigate Adverse Impacts on Indigenous Communities",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/crawford-nickel-project-approved-9.7292147?cmp=rss",
-      "summary": "The federal government approved the Crawford Nickel Project, an Ontario mining initiative, despite an impact assessment identifying negative effects on Indigenous people. Environment Minister Julie Dabrusin's decision included legally binding conditions requiring the project proponent, Canada Nickel, to take specific steps to reduce adverse impacts on Indigenous communities. These measures aim to lessen negative effects on health, socio-economic conditions, physical and cultural heritage, and traditional land use.",
-      "graph": ["Indigenous Rights", "Resource Development", "Environmental Justice", "Impact Assessment", "Consultation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the inherent conflict between resource extraction and Indigenous rights, advocating for stronger recognition of Indigenous self-determination, free, prior, and informed consent, and robust environmental protections." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and procedural requirements for impact assessments and the implementation of mitigation measures to address adverse effects on Indigenous communities, aiming for a balanced outcome." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports resource development as a path to economic prosperity, while acknowledging the need for Indigenous engagement and benefit-sharing, often emphasizing job creation and economic opportunities for all stakeholders." }
-        },
-        "neutral": "Federal approval of the Crawford Nickel Project mandates legally binding conditions to mitigate the project's identified negative impacts on Indigenous communities, covering health, heritage, and traditional land use."
-      }
-    },
-    {
-      "id": "indig-kamloops-teacher-free-speech",
+      "id": "a1b2c3d4e5f678901234567890abcdef",
       "category": "Indigenous",
       "source": "National Post",
-      "title": "Opinion: Teacher Fired Over Kamloops Residential School Comments Seeks Judicial Review",
+      "title": "Opinion Piece Criticizes B.C. Plan to Transfer Public Land to Indigenous Groups",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/michael-higgins-teacher-fired-for-speaking-truth-on-kamloops-gets-day-in-court",
-      "summary": "An opinion piece discusses a teacher, Jim McMurtry, who was fired for expressing views related to the Kamloops residential school. The teacher is now seeking a day in court, framing the issue as a matter of free speech versus employment consequences in a highly sensitive national context concerning Indigenous issues and historical narratives.",
-      "graph": ["Indigenous Issues", "Freedom of Speech", "Employment Law", "Residential Schools", "Historical Truths"],
+      "url": "https://nationalpost.com/opinion/caroline-elliott-b-c-s-odious-plan-to-give-public-property-in-victoria-to-indigenous-groups",
+      "summary": "An opinion column by Caroline Elliott strongly criticizes the British Columbia government's initiative to transfer public property in Victoria to Indigenous groups. The author describes the plan as 'odious' and expresses concern that it will negatively impact the aesthetic and character of the provincial capital. The article reflects a perspective resistant to land transfers as a component of reconciliation efforts, questioning the broad implications and perceived justification of such policies.",
+      "graph": ["Indigenous Rights", "Land Claims", "Reconciliation", "Provincial Policy", "Public Land"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the profound impact of residential schools on Indigenous communities and the importance of respectful discourse and reconciliation, potentially supporting the employer's stance in protecting sensitive historical narratives." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal contest between an individual's right to freedom of expression and an employer's right to maintain a workplace environment consistent with institutional values, particularly in sensitive public discussions." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for free speech and open inquiry, questioning limitations on expression, particularly when they involve questioning official narratives, and emphasizes individual liberties over institutional sensitivity." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports land transfers and reconciliation efforts as critical steps towards justice and self-determination for Indigenous peoples, viewing resistance as a hindrance to decolonization and historical redress." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the policy of land transfers within the broader context of reconciliation, evaluating the balance between Indigenous rights, public interest, and the fiscal implications for the province, seeking evidence-based outcomes." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses strong opposition to the transfer of public property, viewing it as an overreach of government, a misuse of public assets, and potentially damaging to the character of the provincial capital, questioning the scope of reconciliation initiatives." }
         },
-        "neutral": "An opinion article highlights a teacher's legal challenge against his firing for comments on the Kamloops residential school, raising questions about the balance between freedom of expression and employment responsibilities in sensitive Indigenous contexts."
+        "neutral": "An opinion piece criticizes British Columbia's proposal to transfer public property in Victoria to Indigenous groups, arguing against the policy's impact on the provincial capital."
       }
     }
   ],
   "criminal": [
     {
-      "id": "crim-wrongful-conviction-username",
+      "id": "b2c3d4e5f6a78901234567890abcdef1",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Man Wrongfully Imprisoned Due to Police Error in Online Username Identification",
+      "source": "The Globe and Mail",
+      "title": "NATO Intern with Fraud History Arrested Amid Spying Allegations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/his-online-username-was-one-character-different-from-an-alleged-predator-he-went-to-jail-for-it",
-      "summary": "Brandon Klayme of Dartmouth, N.S., spent 18 months in jail for a sex crime he did not commit, a result of police mistakenly identifying his online username as one character different from an actual alleged predator. This case highlights critical flaws in police investigative procedures and the potential for wrongful conviction based on digital identification errors.",
-      "graph": ["Wrongful Conviction", "Police Misconduct", "Digital Evidence", "Criminal Justice System", "Due Process"],
+      "url": "https://www.theglobeandmail.com/politics/article-arrested-nato-intern-fraud-history-ordered-to-take-ethics-course/",
+      "summary": "Claire (Biwei) Zhang, a Canadian NATO intern who was recently arrested amidst broader allegations of NATO spying, has a documented history of fraud and ethics violations. Public records show she acted dishonestly in previous attempts to secure a position with the Canada Border Services Agency (CBSA) and was mandated to take an ethics course. This revelation raises significant concerns about her vetting process and potential national security vulnerabilities within a sensitive international organization.",
+      "graph": ["Fraud", "Ethics Violation", "National Security", "Public Service", "Espionage"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for stricter police accountability, enhanced safeguards against wrongful convictions, and reform of investigative practices, particularly concerning digital evidence, to protect civil liberties and ensure justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the procedural breakdown in police investigation and identification that led to wrongful imprisonment, emphasizing the need for rigorous protocols and improved training in handling digital evidence within the justice system." },
-          "right": { "label": "Conservative Context", "synthesis": "While supporting law enforcement, calls for accountability for errors that undermine public trust in the justice system, and may highlight the need for technological precision in policing while protecting individual rights." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes systemic failures in vetting and accountability within public institutions, questioning how someone with a fraud history could attain a sensitive NATO internship and calling for greater institutional oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural breakdown in security clearances and the importance of ethical conduct in public service, highlighting the need for rigorous oversight to prevent such incidents and maintain public trust." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern over national security vulnerabilities and potential foreign interference, advocating for stricter vetting, accountability for those who facilitated her placement, and severe penalties for fraud and espionage." }
         },
-        "neutral": "A man was wrongfully imprisoned for 18 months due to a police error in identifying his online username, underscoring critical issues in digital evidence handling and the prevention of wrongful convictions within the criminal justice system."
+        "neutral": "A NATO intern, Claire (Biwei) Zhang, recently arrested, has a past record of fraud and ethics breaches, including dishonest applications for a CBSA role, raising concerns about vetting procedures and potential security implications."
       }
     },
     {
-      "id": "crim-military-sexual-assault",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Naval Sailor Convicted for Sexual Assaults on Male and Female Comrades",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/female-sailor-sexually-ravaged-male-female-navy-comrades",
-      "summary": "A Canadian naval sailor has been convicted at court-martial for sexually assaulting male and female comrades. Superiors described the individual as a 'cancer on the ship,' highlighting a pattern of targeting and taking advantage of new recruits who were less likely to report the incidents. This case underscores ongoing issues of sexual misconduct within the military justice system.",
-      "graph": ["Military Justice", "Sexual Assault", "Workplace Harassment", "Accountability", "Armed Forces"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive reforms within the military justice system to better protect victims, prevent sexual misconduct, and ensure accountability for offenders, addressing systemic issues and cultural norms." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the application of military law in cases of sexual assault, the court-martial process, and the efforts to address and prevent sexual misconduct within the Canadian Armed Forces." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes discipline and order within the military, supporting strict enforcement of codes of conduct and accountability for misconduct, while also recognizing the need to maintain trust and morale within the ranks." }
-        },
-        "neutral": "A Canadian naval sailor was convicted at court-martial for sexually assaulting multiple comrades, drawing attention to ongoing issues of sexual misconduct and accountability within the military justice system."
-      }
-    },
-    {
-      "id": "crim-antisemitism-bakery-attacks",
+      "id": "d4e5f6a7b8c90123456789abcdef234",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Opinion: Urgent Call for United Canadian Front Against Antisemitism Following Bakery Attacks",
+      "title": "Toronto Police Officers Guilty of Misconduct for Podcast Comments",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/avi-benlolo-jewish-bakery-shootings-show-how-much-we-need-all-canadians-to-fight-antisemitism",
-      "summary": "An opinion piece calls for all Canadians to actively combat antisemitism, prompted by recent attacks on Jewish bakeries. The author argues that despite past support from Jewish communities for other refugee groups, it is now the Jewish community that requires widespread support to fight escalating hate-motivated incidents.",
-      "graph": ["Hate Crimes", "Antisemitism", "Public Safety", "Community Solidarity", "Social Cohesion"],
+      "url": "https://nationalpost.com/news/canada/toronto-police-officers-misconduct-podcast",
+      "summary": "Five Toronto police officers have been found guilty of misconduct for inappropriate comments made on a Muslim outreach podcast. Specifically, on one episode, the uniformed officers were found to have praised the October 7 events as a catalyst for conversions to Islam and to have downplayed support for Hamas at anti-Israel rallies. This ruling highlights concerns regarding professional conduct, the impartiality expected of law enforcement, and the maintenance of public trust, particularly within diverse communities.",
+      "graph": ["Police Misconduct", "Professional Ethics", "Public Trust", "Freedom of Speech", "Community Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for inclusive societal efforts to combat all forms of hate and discrimination, advocating for government action, educational initiatives, and community support to protect vulnerable groups." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the rise of hate-motivated incidents and the importance of legal frameworks and law enforcement responses to ensure public safety and protect communities from targeted violence." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for decisive action against hate crimes and threats to national security, stressing individual responsibility and strong governmental enforcement to protect all citizens, while upholding principles of national unity." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for strong accountability for police officers who express biased or inappropriate views, emphasizing the need for cultural sensitivity and anti-discrimination training within law enforcement to ensure equitable policing." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on upholding professional standards and codes of conduct for police officers, balancing free speech rights with the imperative for impartiality and maintaining public confidence in law enforcement institutions." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concerns about potential restrictions on free speech for police officers or argue their comments were misinterpreted, while still acknowledging the necessity for appropriate professional conduct within the force." }
         },
-        "neutral": "An opinion article urges all Canadians to unite against antisemitism, prompted by recent attacks on Jewish bakeries, highlighting the critical need for broader societal and governmental action against hate-motivated incidents."
-      }
-    },
-    {
-      "id": "crim-antisemitic-terror-offence",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Opinion: Canada Must Adopt Offensive Strategy Against Antisemitic Terror",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/we-need-resolve-not-sympathy-why-canada-must-go-on-the-offence-against-antisemitic-terror",
-      "summary": "An opinion piece advocates for Canada to move beyond sympathy and adopt a proactive 'offence' strategy against antisemitic terror. The discussion with Rob Breakenridge underscores the increasing prevalence of antisemitic acts both domestically and internationally, calling for resolute action rather than mere expressions of concern.",
-      "graph": ["Antisemitism", "Terrorism", "National Security", "Law Enforcement", "Hate Crimes Policy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes addressing the root causes of hate and extremism through social programs, education, and community engagement, alongside targeted law enforcement against perpetrators, ensuring civil liberties are upheld." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and security challenges of combating antisemitic terror, focusing on intelligence gathering, preventative measures, and prosecutorial strategies while maintaining balance with civil rights." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for strong, decisive government and law enforcement action against antisemitic threats, viewing it as a national security imperative to protect citizens and societal values, prioritizing proactive measures." }
-        },
-        "neutral": "An opinion piece calls for Canada to implement a proactive 'offence' strategy against antisemitic terror, advocating for resolute national security and law enforcement measures to counter increasing antisemitic acts."
+        "neutral": "Five Toronto police officers were found guilty of misconduct for comments made on a Muslim outreach podcast, which included praising the October 7 events and downplaying Hamas support at rallies, raising questions about police impartiality."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "e5f6a7b8c9d0123456789abcdef0123",
+      "category": "Immigration",
+      "source": "The Hub",
+      "title": "Immigrants Adopting Canada's Low Fertility Rates, Challenging Demographic Strategy",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/07/31/immigrants-adopting-canadas-record-low-fertility-patterns-western-researchers-find/",
+      "summary": "New research from Western University indicates that immigrants to Canada are rapidly adopting the country's record-low fertility patterns. Even groups historically known for higher fertility, such as refugees, are now falling below the 2.1 replacement rate. This trend challenges the long-held assumption that immigration alone can effectively offset Canada's population aging and declining birth rates, suggesting that current immigration policies may only offer a short-term solution to demographic challenges.",
+      "graph": ["Demographics", "Immigration Policy", "Fertility Rates", "Population Aging", "Social Integration"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive social supports (e.g., childcare, parental leave, affordable housing) to enable families to have more children, recognizing broader societal factors influencing fertility choices for all residents." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes demographic data and its implications for long-term population planning and economic stability, suggesting a need for a multi-faceted approach that considers both immigration and domestic birth rate policies." },
+          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the sustainability of current immigration levels if they do not sufficiently counter population aging, potentially advocating for policies that encourage higher birth rates among both native-born and immigrant populations or a re-evaluation of immigration targets based on demographic impact." }
+        },
+        "neutral": "Western University researchers report that immigrants in Canada are quickly adopting the nation's low fertility patterns, suggesting that current immigration strategies may not sufficiently counteract population aging alone."
+      }
+    }
+  ]
 }
