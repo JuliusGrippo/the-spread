@@ -1,217 +1,198 @@
 {
   "federalism": [
     {
-      "id": "fed-1",
+      "id": "fed-172b8d4e",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "On Ukraine's front lines, female soldiers testing Canadian-designed body armour",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/world/ukraine-body-armour-designed-for-women-9.7292202?cmp=rss",
-      "summary": "Ukrainian female soldiers are testing new body armour designed by Canadian companies (NP Aerospace and Logistik Unicorp) that is specifically shaped for women. This initiative addresses the inadequacy of standard male-designed ballistic plates, which many of Ukraine's over 10,000 female combatants currently wear, compromising their protection and comfort. The UK also donated 2,000 sets of this female-specific body armour to Ukraine, highlighting Canada's contribution to international defence and gender-inclusive military equipment.",
-      "graph": ["Canadian Defence Industry", "Military Aid", "Ukraine War", "Gender Equality in Military", "International Relations"],
+      "title": "Federal Government Considers Section 107 Intervention in WestJet Labour Dispute",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/federal-government-westjet-strike-carney-section-107-labour-contract-dispute-9.7294451?cmp=rss",
+      "summary": "The federal government is assessing its options, including invoking Section 107 of the Canada Labour Code, to end the ongoing WestJet flight attendant strike. This marks the third consecutive summer the government has faced airline labour disruptions. Past interventions have led to criticism from unions, who argue such actions undermine collective bargaining, with one instance in 2023 seeing a union defy a Labour Board order before a deal was reached.",
+      "graph": ["Federal Labour Law", "Industrial Disputes", "Government Intervention", "Section 107", "Airline Industry", "Collective Bargaining"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of gender-specific equipment for inclusivity and effectiveness in military roles, advocating for Canadian government support for such advancements and ethical considerations in military aid." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on Canada's role as a supplier of advanced defence technology and its contribution to international security efforts, particularly in supporting Ukraine. Notes the practical improvements in soldier safety and operational efficiency." },
-          "right": { "label": "Conservative Context", "synthesis": "Might focus on the efficiency and innovation of Canadian defence companies, the strategic alignment with allies (like the UK) in supporting Ukraine, and the practical military benefits of improved, specialized equipment." }
+          "left": { "label": "Progressive Context", "synthesis": "From a progressive perspective, federal intervention using Section 107 is viewed critically as it can undermine workers' right to strike and collective bargaining power, potentially favouring corporate interests over labour rights. This approach may be seen as a governmental overreach that disrupts the balance of power in labour negotiations, eroding the effectiveness of unions." },
+          "center": { "label": "Procedural Context", "synthesis": "Procedurally, the federal government's consideration of Section 107 is a statutory power designed to restore industrial peace, particularly in sectors deemed essential or of national interest like airlines. The challenge lies in balancing the government's mandate to ensure public services with the established framework for collective bargaining, including conciliation, mediation, and arbitration, before direct intervention." },
+          "right": { "label": "Conservative Context", "synthesis": "From a conservative or market-oriented viewpoint, federal intervention, if deemed necessary to protect the economy or critical infrastructure, might be supported to minimize disruption. However, there could also be concern about government overreach into private sector labour relations, potentially distorting market forces or setting precedents that reduce corporate autonomy in managing labour costs and disputes. The focus would be on minimizing economic impact and ensuring free market principles where possible." }
         },
-        "neutral": "This development concerns the provision of Canadian-designed, female-specific body armour to Ukrainian soldiers, enhancing their protection and operational capability, reflecting Canada's role in international military support."
+        "neutral": "The federal government is evaluating its legal mechanisms, including Section 107 of the Canada Labour Code, to address the WestJet strike amidst public pressure and union concerns regarding the impact on collective bargaining."
       }
     },
     {
-      "id": "fed-2",
+      "id": "fed-9f7a5b3c",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada's New Submarine Fleet: Strategic Roles and International Deployment",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-new-submarines-use-9.7293006?cmp=rss",
-      "summary": "Canada's upcoming fleet of up to a dozen diesel-electric 212CD submarines, chosen from Germany's ThyssenKrupp Marine Systems, will serve both domestic and international strategic roles. Beyond patrolling Canada's extensive coastlines and Arctic waters, these submarines are intended for deployment in global hot spots like the Taiwan Strait and the South China Sea. Their long endurance and stealth capabilities will also protect critical underwater infrastructure, such as fibre-optic cables, and assert Canadian sovereignty over disputed Arctic seabed claims.",
-      "graph": ["National Defence", "Military Procurement", "Arctic Sovereignty", "International Security", "Naval Strategy", "Critical Infrastructure Protection"],
+      "title": "Saskatchewan Senator Todd Lewis, Advocate for Agriculture, Dies at 65",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/senator-todd-lewis-dies-9.7294433?cmp=rss",
+      "summary": "Senator Todd Lewis, a Saskatchewan farmer and prominent advocate for the Canadian agricultural sector and rural communities, has died at the age of 65. Appointed to the Senate in February 2025 by former Prime Minister Justin Trudeau, Lewis was widely recognized for his over four decades of public service, including five years as president of the Agricultural Producers Association of Saskatchewan. Condolences were offered by Prime Minister Mark Carney and Saskatchewan Premier Scott Moe.",
+      "graph": ["Senate of Canada", "Federal Appointment", "Agricultural Advocacy", "Saskatchewan Politics", "Rural Representation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May question the significant expenditure on submarines, advocating for defence spending to be balanced with social programs or diplomatic solutions. Could also raise environmental concerns related to Arctic military presence and international tensions." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the rationale for the submarine acquisition based on strategic defense needs, coastal protection, and international commitments. Emphasizes the technical capabilities and operational scope of the new fleet for deterrence and surveillance." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports robust defence spending and modernizing military assets to protect national interests, especially in the Arctic and against geopolitical threats. Highlights the strategic necessity and the benefits of strengthening Canada's global military presence." }
+          "left": { "label": "Progressive Context", "synthesis": "A progressive lens would emphasize Senator Lewis's role in advocating for community interests, particularly within the agricultural sector, and highlight the importance of diverse representation in federal institutions like the Senate. His work could be seen as contributing to social and economic justice for rural populations." },
+          "center": { "label": "Procedural Context", "synthesis": "From a procedural viewpoint, the passing of a sitting Senator creates a vacancy within Canada's bicameral federal legislature. The process of senatorial appointments and the role of the Senate in representing regional and minority interests are central. His legacy is viewed through his contributions to legislative discourse and agricultural policy." },
+          "right": { "label": "Conservative Context", "synthesis": "A conservative perspective might praise Senator Lewis's grounding in practical agricultural experience and his dedication to rural economic prosperity. His advocacy could be framed as promoting free enterprise within the farming sector and ensuring that federal policies support provincial economic engines without undue intervention." }
         },
-        "neutral": "The article details the multi-faceted strategic application of Canada's future submarine fleet, ranging from domestic coastal and Arctic surveillance to international presence and the safeguarding of undersea infrastructure."
+        "neutral": "The death of Senator Todd Lewis marks the loss of a federal parliamentarian known for his extensive advocacy for Canadian agriculture and rural communities, prompting reflections on his public service and contributions to the Senate."
       }
     },
     {
-      "id": "fed-3",
+      "id": "fed-8e3d2c1a",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Canadian Diplomacy Shifts to Prioritize Commercial Interests Under Carney Administration",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/opinion/article-canada-diplomats-mission-carney-anand-ambassadors/",
+      "summary": "Under Prime Minister Mark Carney and Minister Anand, Canadian diplomatic efforts are undergoing a significant shift, increasingly prioritizing commercial interests abroad. This new focus has drawn criticism from those accustomed to traditional diplomatic approaches, suggesting a potential reorientation of Canada's foreign policy objectives towards economic advantage.",
+      "graph": ["Foreign Policy", "Trade Diplomacy", "International Relations", "Economic Strategy", "Diplomatic Shift"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might critique this shift as potentially subordinating human rights, environmental concerns, or multilateral cooperation to purely economic gains. There could be concerns that prioritizing commercial interests might lead to engagement with regimes that do not align with Canadian values, or that it neglects the 'soft power' aspects of diplomacy." },
+          "center": { "label": "Procedural Context", "synthesis": "From a neutral, procedural standpoint, this represents a strategic re-evaluation of Canada's diplomatic toolkit and objectives. It involves reallocating resources and recalibrating ambassadorial roles to align with national economic priorities, a common practice for many trading nations. The effectiveness of this shift will be measured by its tangible economic outcomes and its impact on Canada's global standing." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would largely welcome a foreign policy focused on advancing Canada's commercial and economic interests, viewing it as a pragmatic approach to strengthening national prosperity. This shift aligns with principles of economic competitiveness and prioritizing tangible benefits for Canadian businesses and the economy." }
+        },
+        "neutral": "Canada's diplomatic corps is being reoriented by the Carney administration to focus more heavily on commercial interests, reflecting a strategic shift in foreign policy priorities."
+      }
+    },
+    {
+      "id": "fed-6c5d4e3b",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Conservatives Call for Kata'ib Hezbollah Terrorist Designation by Ottawa",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12006484/conservatives-hezbollah-terrorist/",
-      "summary": "The Conservative party is publicly urging the Canadian federal government to officially designate Kata'ib Hezbollah, an Iran-backed militant group, as a terrorist entity. This call is based on U.S. allegations linking the group to potential attacks in Canada, signaling a push for a stronger stance on national security and counter-terrorism measures by the federal administration.",
-      "graph": ["National Security", "Terrorism", "Foreign Policy", "Conservative Party", "Government Policy", "Iran-backed Groups"],
+      "title": "Analysis of Prime Minister Carney's Strategic By-Election Scheduling in Federal Ridings",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12006327/analysis-four-vacant-ridings-why-only-three-byelections/",
+      "summary": "An analysis reveals Prime Minister Mark Carney strategically called only three of four vacant federal byelections, notably delaying one in Quebec. This decision provided a significant financial advantage to the Liberal Party over the Bloc Québécois in the competitive Chicoutimi-Le Fjord riding by preventing the Bloc from transferring campaign funds from their safe seat to the contested one, manipulating electoral finance rules to benefit the governing party.",
+      "graph": ["Federal Elections", "By-Elections", "Electoral Strategy", "Campaign Finance", "Political Parties", "Quebec Politics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for a cautious approach, considering potential geopolitical ramifications and ensuring designations are based on robust, publicly available evidence and due process, while also condemning terrorism." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of listing a terrorist entity, the intelligence assessment required by federal agencies, and the legal framework for such national security decisions." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the designation as a necessary measure to protect Canadian security, align with allies (U.S.), and demonstrate a firm stance against state-sponsored terrorism and domestic threats." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might criticize this as a cynical manipulation of democratic processes and electoral finance rules to gain partisan advantage, potentially undermining the fairness of elections. Such tactics can be seen as prioritizing party self-interest over equitable democratic participation and weakening the ability of opposition parties to compete effectively." },
+          "center": { "label": "Procedural Context", "synthesis": "From a procedural standpoint, the Prime Minister has the legal discretion to set by-election dates within a specified timeframe. This analysis highlights how this discretionary power can be utilized for strategic partisan advantage within the existing electoral finance framework, underscoring the interplay between political calculations and statutory compliance." },
+          "right": { "label": "Conservative Context", "synthesis": "While a conservative viewpoint might acknowledge the strategic political play as a legitimate, albeit aggressive, use of executive power, there could also be concerns about the integrity of the electoral system if rules allow for such significant financial disparities based on timing. A focus on fiscal prudence might also question the efficiency of delaying elections." }
         },
-        "neutral": "The Conservative opposition has called on the federal government to officially list Kata'ib Hezbollah as a terrorist entity, citing U.S. intelligence regarding its alleged links to Canadian attacks, posing a national security policy challenge."
+        "neutral": "Prime Minister Carney's decision to call three of four federal by-elections is analyzed as a strategic move to leverage electoral finance rules, granting the Liberal Party a financial advantage in a key Quebec riding."
       }
     },
     {
-      "id": "fed-4",
+      "id": "fed-5a2d7c9b",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Critique of Canadian Infrastructure Project Development and Inter-governmental Coordination",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/doug-ford-mark-carney-billy-bishop-alto-rail",
-      "summary": "An opinion piece criticizes the current process of Canadian infrastructure development, highlighting concerns that major projects like airport expansions and high-speed rail are subject to political bartering between federal and provincial levels (e.g., Doug Ford and Mark Carney). The author argues this approach demonstrates a lack of coherent national strategy and threatens the efficient execution of critical public works, impacting federal-provincial relations.",
-      "graph": ["Infrastructure Policy", "Federal-Provincial Relations", "Public Works", "Political Governance", "Economic Development", "Policy Inefficiency"],
+      "title": "WestJet Flight Attendants Reach Tentative Agreement, Ending Strike",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/westjet-strike-ends-with-tentative-agreement",
+      "summary": "WestJet and the Canadian Union of Public Employees (CUPE) have reached a tentative agreement, effectively ending the flight attendant strike that had disrupted summer travel for thousands of Canadians. The agreement represents a resolution to a labour dispute that had earlier seen the federal government considering intervention under the Canada Labour Code.",
+      "graph": ["Labour Relations", "Airline Industry", "Collective Agreement", "Federal Jurisdiction", "Work Stoppage"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for more centralized or coordinated planning with strong federal oversight to ensure equitable distribution, public benefit, and efficient completion of projects, potentially criticizing market-driven or privatized approaches." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the complexities of multi-jurisdictional infrastructure projects, focusing on the need for clearer accountability, efficient planning, and transparent decision-making processes across government levels." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes government inefficiency, bureaucratic hurdles, and political interference in large-scale projects, suggesting that streamlined processes or greater private sector involvement might be more effective. Emphasizes fiscal responsibility." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would view the tentative agreement as a victory for collective bargaining, affirming workers' rights to achieve better conditions through union action, especially after initial concerns about potential federal intervention undermining their leverage." },
+          "center": { "label": "Procedural Context", "synthesis": "The resolution of the WestJet strike through a tentative agreement signifies the effective, albeit lengthy, functioning of the collective bargaining process under federal labour jurisdiction. It demonstrates that parties can reach consensus without direct government imposition, aligning with the principles of industrial self-governance." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely welcome the swift resolution of the strike as beneficial for economic stability and consumer confidence, reducing disruptions to the airline industry. The outcome, if market-driven, aligns with principles of private sector negotiation rather than government intervention." }
         },
-        "neutral": "The article provides an opinionated analysis of Canadian infrastructure project management, arguing that the negotiation and political trade-offs between federal and provincial governments hinder effective and timely construction of critical public works."
+        "neutral": "A tentative agreement has been reached between WestJet and its flight attendants, concluding a labour dispute that had previously prompted considerations of federal intervention to mitigate travel disruptions."
       }
     },
     {
-      "id": "fed-5",
+      "id": "fed-1d3e5f7a",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Opposition Leader Calls for Designation of Iran-backed Group as Terrorist Entity",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/poilievre-asks-public-safety-minister-to-declare-iran-backed-group-linked-to-synagogue-attack-a-terrorist-entity",
-      "summary": "Conservative Leader Pierre Poilievre has formally requested that the Public Safety Minister declare an unnamed Iran-backed group, allegedly linked to recent synagogue attacks in Canada, as a terrorist entity. Poilievre's letter emphasizes the growing fear among Jewish Canadians due to targeted acts of violence and vandalism, urging the federal government to take decisive action under national security legislation.",
-      "graph": ["National Security", "Terrorism", "Foreign Policy", "Conservative Party", "Public Safety", "Antisemitism", "Hate Crimes"],
+      "title": "Opinion: Ontario Premier Urged to Oppose Federal High-Speed Rail Project Due to Cost and Property Impacts",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/noah-jarvis-doug-ford-should-block-the-liberal-high-speed-rail-boondoggle",
+      "summary": "An opinion piece argues that Ontario Premier Doug Ford should actively block a federal Liberal-led high-speed rail project. The criticism centers on the project's estimated $90 billion cost, which is deemed likely to escalate, and the extensive private property expropriations that would be necessary, deeming the project economically unsound and an infringement on property rights. This highlights a provincial-federal tension over infrastructure development.",
+      "graph": ["Federal-Provincial Relations", "Infrastructure Policy", "High-Speed Rail", "Fiscal Policy", "Property Rights", "Ontario Politics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the need for thorough investigation and evidence-based designation, while also addressing the root causes of hate crimes and supporting targeted communities through comprehensive social policies." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the role of the Public Safety Minister in assessing security threats and applying legal frameworks for terrorist designations, balancing national security concerns with civil liberties and due process." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for swift action to combat terrorism and protect vulnerable communities, supporting aggressive measures against groups threatening Canadian security, particularly when linked to foreign entities, and emphasizing law and order." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might advocate for ambitious public infrastructure projects like high-speed rail for environmental benefits, regional development, and equitable access to transportation, but would scrutinize the process of expropriation to ensure fair compensation and community engagement. Concerns about cost overruns would be balanced against long-term public good." },
+          "center": { "label": "Procedural Context", "synthesis": "This represents a clash between federal and provincial jurisdiction over large-scale infrastructure and land use. The federal government proposes, while the province controls significant regulatory and land acquisition powers. The debate involves cost-benefit analysis, environmental assessments, and adherence to legal frameworks for expropriation, highlighting the complex negotiation required for inter-jurisdictional projects." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives, particularly those emphasizing fiscal conservatism and property rights, would strongly oppose a project of this nature due to its exorbitant projected costs, likely cost overruns, and the significant infringement on private property through expropriation. They would advocate for market-driven solutions or more modest, fiscally responsible infrastructure investments." }
         },
-        "neutral": "Conservative Leader Pierre Poilievre has formally requested the Public Safety Minister to designate an Iran-backed group, which he links to synagogue attacks in Canada, as a terrorist entity, citing concerns for Jewish Canadians' safety and national security."
+        "neutral": "An opinion piece calls for Ontario Premier Doug Ford to halt a federal high-speed rail initiative, citing concerns over its $90 billion cost, potential for escalation, and the necessity for extensive private property expropriation."
       }
     },
     {
-      "id": "fed-6",
+      "id": "fed-8g7h6i5j",
       "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "WestJet Flight Attendants Strike Disrupts Services, Airline Suspends Flights",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://torontosun.com/uncategorized/what-to-do-if-your-westjet-flight-is-disrupted-by-the-strike",
-      "summary": "WestJet flight attendants have initiated a strike, leading the airline to suspend all its flights. The article provides information to customers affected by these disruptions, noting WestJet's commitment to mitigating the impact through flexible options, while union negotiations continue to seek a resolution in this federally regulated sector. The strike highlights challenges in labour relations impacting national transportation infrastructure.",
-      "graph": ["Labour Dispute", "Airline Industry", "Flight Disruptions", "Federal Regulation", "Economic Impact", "Union Negotiations"],
+      "source": "The Hub",
+      "title": "Critique of Canada-B.C. Agreement as Federal-Enabled \"Toll Booth\" on Alberta Oil Pipeline",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/03/only-ottawa-could-build-b-c-s-toll-booth-on-alberta-oil/",
+      "summary": "An article critiques the Canada-British Columbia Cooperative Prosperity Agreement, arguing that federal involvement enabled B.C. to create an illegitimate 'transit tariff' or 'toll booth' on Alberta oil flowing through a new pipeline. The agreement's commitment to a revenue framework for B.C., despite the province not owning the resource, is seen as a form of extortion that undermines Alberta's resource jurisdiction and inter-provincial trade principles.",
+      "graph": ["Federal-Provincial Relations", "Resource Policy", "Inter-Provincial Trade", "Energy Infrastructure", "Fiscal Federalism", "Alberta Economy", "British Columbia Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports workers' rights to strike for better conditions, may criticize corporate management for failing to meet demands, and calls for fair negotiation and protecting passenger rights during disruptions." },
-          "center": "Focuses on the economic and operational impact of the strike, the ongoing negotiations between labour and management, and potential federal government roles in mediation or resolution to restore essential services.",
-          "right": { "label": "Conservative Context", "synthesis": "May express concern over the economic disruption and inconvenience to travellers, advocate for swift resolution to restore service, and emphasize the balance between union rights and business continuity/customer service." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might view B.C.'s demand for 'economic upside' as a means to ensure provincial benefits from resource transit, potentially funding environmental protection or social programs, especially if the project has local impacts. However, some might also critique the federal role in mediating what could be seen as an unjust tariff on another province's resource." },
+          "center": { "label": "Procedural Context", "synthesis": "This situation highlights complex constitutional divisions of power regarding natural resources and inter-provincial trade. The federal government's role in facilitating an agreement that includes a revenue share for a non-resource-owning province raises questions about the definition of 'economic upside' and its consistency with established principles of fiscal federalism and resource royalties." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives, particularly from Alberta, would strongly condemn this arrangement as an unconstitutional 'toll booth' on provincial resources, violating principles of free trade within Canada and provincial resource ownership. They would view it as federal overreach enabling provincial protectionism, hindering national economic development, and setting a dangerous precedent for future infrastructure projects." }
         },
-        "neutral": "WestJet has suspended all flights due to a strike by its flight attendants, leading to significant travel disruptions and an ongoing effort by the airline to manage customer impact and reach a resolution with the union in this federally regulated industry."
-      }
-    },
-    {
-      "id": "fed-7",
-      "category": "Federalism",
-      "source": "Slaw",
-      "title": "Supreme Court Clarifies Judicial Review of Delegated Powers",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/02/summaries-sunday-supreme-one-liners-44/",
-      "summary": "The Supreme Court of Canada, in _Democracy Watch v. Canada (Attorney General), 2026 SCC 28_, issued clarifications regarding the courts' jurisdiction to review the legality of the exercise of delegated powers. This decision is significant for defining the scope of judicial oversight over governmental actions derived from legislative authority, impacting the balance of power within the federal system.",
-      "graph": ["Constitutional Law", "Judicial Review", "Delegated Powers", "Supreme Court of Canada", "Administrative Law", "Government Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for robust judicial review to ensure government adherence to democratic principles and prevent overreach, protecting citizens from arbitrary power and promoting transparency." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the precise legal interpretation of constitutional powers, the separation of powers between branches of government, and the procedural integrity of governmental decision-making under delegated authority." },
-          "right": { "label": "Conservative Context", "synthesis": "Might emphasize the importance of limiting judicial activism and respecting the legislative intent behind delegated powers, ensuring efficient governance without undue court interference in executive functions." }
-        },
-        "neutral": "The Supreme Court of Canada's decision in _Democracy Watch v. Canada (Attorney General)_ provides clarification on the extent of courts' jurisdiction in reviewing the legality of delegated power exercises by the federal government, defining boundaries of judicial oversight."
+        "neutral": "A recent agreement between the federal government and British Columbia regarding a new oil pipeline has been criticized for establishing a revenue sharing mechanism for B.C., which opponents argue constitutes an illegitimate transit tariff on Alberta's resources."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-1",
+      "id": "char-2f4e6d8c",
       "category": "Charter",
-      "source": "Slaw",
-      "title": "Quebec Court of Appeal Rules on Right to Reasonable Trial Delay in Civil Contempt Cases",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/02/summaries-sunday-soquij-638/",
-      "summary": "The Quebec Court of Appeal, in _Ville de Montr\u00e9al c. Gestion Tasa inc._, ruled that while the right to be tried within a reasonable time under Section 11(b) of the Canadian Charter of Rights and Freedoms applies to individuals accused of civil contempt of court, the specific analytical framework established in _R. v. Jordan_ (2016 SCC 27) for criminal cases cannot be directly applied to civil matters. The court instead applied the criteria from _R. v. Morin_ (1992 SCC 27), overturning a lower court's decision to stay proceedings based on an unreasonable delay.",
-      "graph": ["Charter of Rights", "Civil Contempt", "Reasonable Delay", "Judicial Procedure", "Quebec Law", "Section 11(b)", "Access to Justice"],
+      "source": "Legal Post Blog (via Slaw.ca)",
+      "title": "Ontario Court Awards $400,000 for Intimate Partner Violence, Citing New Civil Wrong Recognized by SCC",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://financialpost.com/legal-post/ontario-woman-awarded-over-husbands-abuse-legal-first",
+      "summary": "An Ontario Superior Court of Justice has awarded a woman $400,000 in damages for intimate partner violence endured over a 54-year marriage. This landmark civil award is the first of its kind since a Supreme Court of Canada ruling in May legally recognized intimate partner violence as a distinct civil wrong, providing a new avenue for victims to seek redress and reflecting evolving legal interpretations of personal safety and dignity.",
+      "graph": ["Civil Law", "Intimate Partner Violence", "Supreme Court of Canada", "Tort Law", "Women's Rights", "Access to Justice", "Equality Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of protecting individual rights against undue delays, even in civil contexts, to ensure fair legal processes and equitable access to justice for all citizens." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial interpretation of Charter rights, highlighting the distinctions between criminal and civil procedural requirements, and the evolution of legal frameworks for addressing trial delays." },
-          "right": { "label": "Conservative Context", "synthesis": "May highlight the need for efficient judicial administration and the prevention of abuse of process, while ensuring that the application of Charter rights does not unduly impede civil enforcement and public interest." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would hail this decision as a crucial advancement for victims' rights and gender equality, recognizing systemic violence within relationships and providing substantive legal recourse. It reflects an evolving understanding of harm and justice, challenging traditional notions of privacy that often shielded abusers, aligning with Charter values of equality and security of the person." },
+          "center": { "label": "Procedural Context", "synthesis": "This ruling exemplifies the common law's adaptability in response to higher court precedent (SCC) and societal needs. The recognition of intimate partner violence as a new civil tort expands the scope of judicial remedies available to individuals, demonstrating the judiciary's role in evolving legal frameworks to address societal harms, implicitly reinforcing Charter protections." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives might acknowledge the need to address serious harm like intimate partner violence, while perhaps expressing caution about expanding civil liability or the potential for legal overreach into private domestic affairs. The focus would be on due process, individual responsibility, and ensuring that any legal expansion is clearly defined and does not open the door to frivolous claims, while upholding the sanctity of family structures." }
         },
-        "neutral": "The Quebec Court of Appeal has clarified that the _Jordan_ framework for unreasonable trial delay does not apply to civil contempt cases, instead referencing _Morin_, confirming Section 11(b) of the Charter still protects the right to a reasonable trial time in such proceedings."
+        "neutral": "An Ontario court has issued a civil damage award of $400,000 for intimate partner violence, establishing a legal precedent following a recent Supreme Court of Canada decision that recognized such violence as a new civil tort."
       }
     }
   ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "crim-1",
+      "id": "crim-3b2a1c4d",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Montreal Jewish Community Fears Intensify Following Apparent Arson Attack",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/terry-newman-apparent-arson-attack-triggers-more-fear-for-a-montreal-jewish-neighbourhood",
-      "summary": "An opinion column details the heightened fear within Montreal's Jewish community following an apparent arson attack on the Nöam kosher restaurant. The author reflects on the sombre mood and the broader implications of such incidents, which are perceived as hate crimes, for community safety, inter-group relations, and the need for robust criminal investigation.",
-      "graph": ["Hate Crime", "Arson", "Community Safety", "Antisemitism", "Criminal Investigation", "Montreal", "Public Fear"],
+      "title": "U.S. Officials Call for Canadian Action After Suspected Arson at Montreal Kosher Restaurant",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/u-s-officials-montreal-kosher-restaurant-suspected-arson",
+      "summary": "U.S. officials, including Congressman Paul Schneider, have publicly urged Canada to take decisive action following a suspected arson attack on a Montreal kosher restaurant. This incident, decried as a heinous attack on a Jewish-owned business, highlights international concern over rising antisemitism and hate-motivated crimes in Canada, placing diplomatic pressure on Canadian authorities to address domestic public safety and hate crime enforcement.",
+      "graph": ["Hate Crime", "Arson", "Antisemitism", "Public Safety", "International Relations", "Criminal Investigation", "Montreal Police"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would emphasize the systemic issues contributing to hate crimes, advocating for robust police response, and comprehensive community support initiatives to counter discrimination and fear, alongside addressing root causes." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual investigation of the arson, the impact on public safety, and the importance of due process in determining motives and culpability through law enforcement procedures." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the need for strong law enforcement and severe penalties for hate crimes, advocating for firm action against perpetrators and protection of targeted communities to maintain social order and security." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would emphasize the need for robust police investigation and prosecution of hate crimes, calling for systemic responses to address the root causes of antisemitism and protect vulnerable communities. The international pressure might be seen as a necessary wake-up call for Canada to uphold its commitment to diversity and inclusion." },
+          "center": { "label": "Procedural Context", "synthesis": "This involves a criminal investigation into a suspected arson, potentially a hate crime, requiring adherence to Canadian criminal law and police procedures. The diplomatic aspect adds a layer of inter-governmental communication and accountability, requiring Canadian federal and provincial authorities to demonstrate effective law enforcement and public safety measures in response to international concerns." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely focus on maintaining law and order, ensuring swift and firm prosecution of individuals responsible for hate-motivated violence. While acknowledging the importance of international relations, the emphasis would be on Canadian sovereignty in law enforcement and demonstrating national capacity to protect citizens and property." }
         },
-        "neutral": "An opinion piece discusses the increased fear in Montreal's Jewish community after an apparent arson attack on a kosher restaurant, prompting concerns about hate-motivated violence and community security, awaiting criminal investigation findings."
+        "neutral": "U.S. officials have urged Canadian authorities to respond effectively to a suspected arson at a Montreal kosher restaurant, intensifying international focus on Canada's handling of hate-motivated crimes targeting Jewish businesses."
       }
     },
     {
-      "id": "crim-2",
+      "id": "crim-5e4d3c2b",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Commentary Urges Caution Against Fear-Mongering After Montreal Restaurant Arson",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/beryl-p-wajsman-a-jewish-restaurant-has-burned-it-is-not-time-to-succumb-to-the-industry-of-fear",
-      "summary": "An opinion piece argues against immediate fear and premature conclusions regarding the arson at Nöam kosher restaurant in Montreal. The author stresses the importance of allowing criminal investigators to complete their work before making definitive judgments about the incident's nature, advocating for a measured response over succumbing to an 'industry of fear,' while acknowledging the seriousness of the crime.",
-      "graph": ["Arson", "Criminal Investigation", "Public Opinion", "Community Response", "Media Scrutiny", "Bias", "Due Process"],
+      "source": "The Hub",
+      "title": "Commentary Highlights Widespread and Unchecked Antisemitism in Canada Amidst Recent Attacks",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/03/jew-hatred-in-canada-is-widespread-and-unchecked/",
+      "summary": "A commentary argues that antisemitism in Canada is widespread and unaddressed, evidenced by recent violent incidents like shootings at Jewish-owned businesses and a terrorism charge against an anti-Israel demonstrator. The piece criticizes politicians for denouncing hatred without implementing effective measures, suggesting a normalization of antisemitic sentiments and calling for a serious national response to protect the Jewish community.",
+      "graph": ["Hate Crime", "Antisemitism", "Terrorism", "Public Safety", "Law Enforcement", "Political Accountability", "Community Protection"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May align with calls for measured responses, emphasizing the importance of not generalizing or blaming entire communities, and focusing on supporting victims while awaiting factual criminal evidence." },
-          "center": { "label": "Procedural Context", "synthesis": "Underscores the principles of due process and relying on official police investigations for facts, cautioning against speculation and emotional reactions in the aftermath of a potentially sensitive criminal incident." },
-          "right": { "label": "Conservative Context", "synthesis": "Could emphasize the need for law and order and swift justice, but also echo the sentiment of not allowing fear to paralyze the community, while expecting thorough, unbiased investigation by authorities." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely agree with the alarm over rising antisemitism and advocate for comprehensive anti-hate strategies, including education, community support, and robust prosecution of hate crimes. They might also emphasize the need to distinguish between legitimate criticism of foreign policy and antisemitism, while ensuring freedom of expression does not incite violence." },
+          "center": { "label": "Procedural Context", "synthesis": "This commentary underscores failures in law enforcement and political leadership to effectively address criminal acts motivated by hatred. It implicates the criminal justice system's capacity to investigate and prosecute hate crimes and terrorism-related charges, while also questioning the efficacy of political responses in upholding public safety and societal cohesion in adherence to legal norms." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would strongly condemn antisemitism and emphasize the importance of upholding law and order, swiftly prosecuting hate crimes, and ensuring public safety for all communities. They might criticize political inaction as a failure of governance and advocate for stronger measures against radical ideologies, while also potentially drawing connections to broader concerns about national security." }
         },
-        "neutral": "A commentary advises against succumbing to fear and rushing to judgment following the arson of a Jewish restaurant in Montreal, stressing the importance of awaiting the official findings of the criminal investigation."
-      }
-    },
-    {
-      "id": "crim-3",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Homicide and Stabbing Suspects Sought in Hamilton and Mississauga",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://torontosun.com/news/crime/hamilton-cops-looking-for-homicide-suspect-man-sought-in-mississauga-stabbing",
-      "summary": "Police in Hamilton are actively searching for a suspect in connection with a homicide stemming from an assault in May, while authorities in Mississauga are seeking a man involved in a recent stabbing incident. These reports highlight ongoing criminal investigations into violent offenses in Ontario, with law enforcement seeking public assistance.",
-      "graph": ["Homicide Investigation", "Stabbing Incident", "Law Enforcement", "Violent Crime", "Ontario", "Police Search"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May discuss the societal factors contributing to violence, advocating for preventative measures, community support, and addressing root causes of crime alongside police action." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports the police investigations factually, focusing on the pursuit of suspects, the collection of evidence, and the need for public cooperation in law enforcement efforts to ensure justice." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of effective policing, swift apprehension of criminals, and maintaining public safety through robust law enforcement presence and decisive action against violent offenders." }
-        },
-        "neutral": "Law enforcement agencies are actively investigating a homicide in Hamilton, linked to a May assault, and a stabbing in Mississauga, with suspects currently being sought in both violent incidents across Ontario."
+        "neutral": "A recent commentary asserts that antisemitism is prevalent and inadequately addressed in Canada, citing specific violent incidents and charges, and calling for more decisive action from political and law enforcement bodies."
       }
     }
   ],
