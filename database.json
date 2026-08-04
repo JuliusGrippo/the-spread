@@ -1,200 +1,238 @@
 {
   "federalism": [
     {
-      "id": "fed-172b8d4e",
+      "id": "federalism-1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Government Considers Section 107 Intervention in WestJet Labour Dispute",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/federal-government-westjet-strike-carney-section-107-labour-contract-dispute-9.7294451?cmp=rss",
-      "summary": "The federal government is assessing its options, including invoking Section 107 of the Canada Labour Code, to end the ongoing WestJet flight attendant strike. This marks the third consecutive summer the government has faced airline labour disruptions. Past interventions have led to criticism from unions, who argue such actions undermine collective bargaining, with one instance in 2023 seeing a union defy a Labour Board order before a deal was reached.",
-      "graph": ["Federal Labour Law", "Industrial Disputes", "Government Intervention", "Section 107", "Airline Industry", "Collective Bargaining"],
+      "title": "MPs Split on Hybrid Parliament Rules Continuation",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/mp-divided-hybrid-parliament-9.7295589?cmp=rss",
+      "summary": "Canadian Members of Parliament are divided over the continuation of hybrid parliamentary rules, which allow remote voting and committee attendance, six years after their introduction during the pandemic. While some public service unions advocate for retaining flexibility, Conservative MPs argue for a full return to in-person sittings to align with other Western democracies.",
+      "graph": ["Parliamentary Procedure", "Hybrid Parliament", "Remote Work", "Federal Governance", "House of Commons", "COVID-19 Legacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "From a progressive perspective, federal intervention using Section 107 is viewed critically as it can undermine workers' right to strike and collective bargaining power, potentially favouring corporate interests over labour rights. This approach may be seen as a governmental overreach that disrupts the balance of power in labour negotiations, eroding the effectiveness of unions." },
-          "center": { "label": "Procedural Context", "synthesis": "Procedurally, the federal government's consideration of Section 107 is a statutory power designed to restore industrial peace, particularly in sectors deemed essential or of national interest like airlines. The challenge lies in balancing the government's mandate to ensure public services with the established framework for collective bargaining, including conciliation, mediation, and arbitration, before direct intervention." },
-          "right": { "label": "Conservative Context", "synthesis": "From a conservative or market-oriented viewpoint, federal intervention, if deemed necessary to protect the economy or critical infrastructure, might be supported to minimize disruption. However, there could also be concern about government overreach into private sector labour relations, potentially distorting market forces or setting precedents that reduce corporate autonomy in managing labour costs and disputes. The focus would be on minimizing economic impact and ensuring free market principles where possible." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for retaining hybrid parliamentary options to promote accessibility for MPs, enabling better representation of distant ridings and fostering more diverse participation, aligning with modern flexible work trends." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the efficacy and implications of hybrid sittings on parliamentary debate, decision-making, and public accountability, seeking a pragmatic balance between traditional legislative functions and technological advancements." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of in-person parliamentary attendance for maintaining legislative integrity, fostering robust debate, and ensuring full accountability, advocating for a return to traditional practices to uphold institutional dignity." }
         },
-        "neutral": "The federal government is evaluating its legal mechanisms, including Section 107 of the Canada Labour Code, to address the WestJet strike amidst public pressure and union concerns regarding the impact on collective bargaining."
+        "neutral": "Canadian Members of Parliament are debating whether to maintain hybrid sitting rules, allowing remote participation and voting, a practice initiated during the pandemic, with opinions divided on its long-term impact on parliamentary function."
       }
     },
     {
-      "id": "fed-9f7a5b3c",
+      "id": "federalism-2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Saskatchewan Senator Todd Lewis, Advocate for Agriculture, Dies at 65",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/senator-todd-lewis-dies-9.7294433?cmp=rss",
-      "summary": "Senator Todd Lewis, a Saskatchewan farmer and prominent advocate for the Canadian agricultural sector and rural communities, has died at the age of 65. Appointed to the Senate in February 2025 by former Prime Minister Justin Trudeau, Lewis was widely recognized for his over four decades of public service, including five years as president of the Agricultural Producers Association of Saskatchewan. Condolences were offered by Prime Minister Mark Carney and Saskatchewan Premier Scott Moe.",
-      "graph": ["Senate of Canada", "Federal Appointment", "Agricultural Advocacy", "Saskatchewan Politics", "Rural Representation"],
+      "title": "CSIS Warns of Foreign Interference in Alberta Referendum on National Unity",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/edmonton/nenshi-briefing-csis-interference-alberta-referendum-9.7295401?cmp=rss",
+      "summary": "The Canadian Security Intelligence Service (CSIS) has notified Alberta NDP Leader Naheed Nenshi that the province's upcoming referendum on national unity is a potential target for foreign interference. CSIS is actively monitoring for risks, including the spread of misinformation and disinformation, following Nenshi's concerns over external comments on Alberta separatism and a privacy breach of voter data.",
+      "graph": ["Foreign Interference", "Alberta Referendum", "National Unity", "CSIS", "Provincial Politics", "Federal-Provincial Relations", "Disinformation", "Voter Privacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "A progressive lens would emphasize Senator Lewis's role in advocating for community interests, particularly within the agricultural sector, and highlight the importance of diverse representation in federal institutions like the Senate. His work could be seen as contributing to social and economic justice for rural populations." },
-          "center": { "label": "Procedural Context", "synthesis": "From a procedural viewpoint, the passing of a sitting Senator creates a vacancy within Canada's bicameral federal legislature. The process of senatorial appointments and the role of the Senate in representing regional and minority interests are central. His legacy is viewed through his contributions to legislative discourse and agricultural policy." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative perspective might praise Senator Lewis's grounding in practical agricultural experience and his dedication to rural economic prosperity. His advocacy could be framed as promoting free enterprise within the farming sector and ensuring that federal policies support provincial economic engines without undue intervention." }
+          "left": { "label": "Progressive Context", "synthesis": "Underscores the critical need for federal intelligence agencies to protect democratic processes from external manipulation, especially on divisive issues, and advocates for robust measures to counter disinformation and safeguard electoral integrity." },
+          "center": "Analysis focuses on the institutional role of CSIS in national security and democratic protection, highlighting the importance of early warnings and monitoring mechanisms for potential foreign exploitation of political events.",
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the threat of foreign interference, some may scrutinize the intelligence agency's warnings for potential political implications or overreach, emphasizing provincial autonomy in conducting referenda and questioning the scope of 'interference'." }
         },
-        "neutral": "The death of Senator Todd Lewis marks the loss of a federal parliamentarian known for his extensive advocacy for Canadian agriculture and rural communities, prompting reflections on his public service and contributions to the Senate."
+        "neutral": "CSIS has alerted the Alberta NDP leader that the provincial referendum on national unity could be vulnerable to foreign interference, including mis- and disinformation, prompting monitoring efforts by the intelligence agency."
       }
     },
     {
-      "id": "fed-8e3d2c1a",
+      "id": "federalism-3",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "New Foreign Influence Office Prioritizes Transparency, Not Direct Interference Prevention, Commissioner States",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-foreign-influence-interference-9.7295362?cmp=rss",
+      "summary": "Canada's first foreign influence commissioner, Anton Boegman, clarified that the newly launched foreign influence office and registry will primarily enhance transparency by requiring registration of individuals acting on behalf of foreign governments to influence Canadian politics. It is not designed to prevent covert foreign interference, which remains the purview of the RCMP and national security agencies.",
+      "graph": ["Foreign Influence Registry", "Transparency", "Government Regulation", "National Security", "Canadian Politics", "Bill C-70", "Public Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Argues for more comprehensive and proactive government strategies to combat foreign interference, potentially critiquing the registry's limitations and stressing the need for stronger protections for democratic institutions and at-risk communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the implementation of new legislation (Bill C-70) and the operational scope of the foreign influence registry, focusing on its role in providing public information and differentiating between overt influence and covert interference." },
+          "right": { "label": "Conservative Context", "synthesis": "May express skepticism regarding the registry's ability to deter genuine foreign interference, potentially raising concerns about bureaucratic burden or the potential for overreach into legitimate advocacy, while emphasizing the need for robust security enforcement." }
+        },
+        "neutral": "Canada's new foreign influence commissioner clarified that the recently launched foreign influence office and registry are primarily designed to increase transparency regarding foreign influence activities, rather than directly prevent covert foreign interference, which remains a national security domain."
+      }
+    },
+    {
+      "id": "federalism-4",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Independent Alberta's Oil Exports to U.S. Would Rely on Other Canadian Provinces' Pipelines",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-oil-separation-pipelines-provinces-9.7293090?cmp=rss",
+      "summary": "An analysis suggests that an independent Alberta's oil and natural gas exports to the United States would largely remain dependent on pipelines traversing other Canadian provinces. This reality challenges separatist arguments for direct trade and highlights the complex, uncertain nature of negotiating new transit and trade agreements if Alberta were to separate from Canada.",
+      "graph": ["Alberta Separation", "Oil Exports", "Pipelines", "Interprovincial Trade", "Energy Policy", "Canadian Economy", "Federal-Provincial Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Reinforces the economic interdependence within Canada, highlighting the logistical and environmental complexities of oil transport, and emphasizing the shared responsibility for national infrastructure and climate policy." },
+          "center": { "label": "Procedural Context", "synthesis": "Provides an objective assessment of the infrastructure realities and the legal and commercial challenges involved in energy trade post-separation, focusing on the need for complex bilateral and international agreements." },
+          "right": { "label": "Conservative Context", "synthesis": "For proponents of Alberta independence, this presents a significant challenge to their economic platform, requiring detailed plans for securing transit. For federalist conservatives, it underscores the economic benefits and efficiencies of Canadian unity." }
+        },
+        "neutral": "Analysis indicates that a hypothetically independent Alberta's oil and natural gas exports to the U.S. would primarily continue through pipelines in other Canadian provinces, necessitating complex trade and transshipment agreements with Canada."
+      }
+    },
+    {
+      "id": "federalism-5",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Canadian Diplomacy Shifts to Prioritize Commercial Interests Under Carney Administration",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/opinion/article-canada-diplomats-mission-carney-anand-ambassadors/",
-      "summary": "Under Prime Minister Mark Carney and Minister Anand, Canadian diplomatic efforts are undergoing a significant shift, increasingly prioritizing commercial interests abroad. This new focus has drawn criticism from those accustomed to traditional diplomatic approaches, suggesting a potential reorientation of Canada's foreign policy objectives towards economic advantage.",
-      "graph": ["Foreign Policy", "Trade Diplomacy", "International Relations", "Economic Strategy", "Diplomatic Shift"],
+      "title": "Carney Reportedly Eyes Outsiders for Canada\u2019s Beijing Embassy Head",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-carney-looks-to-influential-outsiders-to-head-canadas-embassy-in/",
+      "summary": "Prime Minister Mark Carney is reportedly considering prominent non-career diplomats, including former Liberal cabinet minister Martin Cauchon, to serve as Canada's ambassador to Beijing. This move suggests a strategic shift towards appointing politically influential figures to manage Canada's complex and critical relationship with China.",
+      "graph": ["Foreign Policy", "Diplomatic Appointments", "Canada-China Relations", "Federal Government", "International Relations", "Mark Carney", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might critique this shift as potentially subordinating human rights, environmental concerns, or multilateral cooperation to purely economic gains. There could be concerns that prioritizing commercial interests might lead to engagement with regimes that do not align with Canadian values, or that it neglects the 'soft power' aspects of diplomacy." },
-          "center": { "label": "Procedural Context", "synthesis": "From a neutral, procedural standpoint, this represents a strategic re-evaluation of Canada's diplomatic toolkit and objectives. It involves reallocating resources and recalibrating ambassadorial roles to align with national economic priorities, a common practice for many trading nations. The effectiveness of this shift will be measured by its tangible economic outcomes and its impact on Canada's global standing." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would largely welcome a foreign policy focused on advancing Canada's commercial and economic interests, viewing it as a pragmatic approach to strengthening national prosperity. This shift aligns with principles of economic competitiveness and prioritizing tangible benefits for Canadian businesses and the economy." }
+          "left": { "label": "Progressive Context", "synthesis": "May raise concerns about the politicization of diplomatic roles and the potential sidelining of experienced career foreign service officers, advocating for appointments based on expertise rather than political affiliation." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the strategic considerations behind high-level diplomatic appointments, analyzing the qualifications and advantages of both career diplomats and political appointees in managing complex international relations." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the appointment of strong, politically savvy leaders to critical diplomatic posts like Beijing, believing that such individuals possess the necessary leverage and influence to effectively advance Canadian interests on the international stage." }
         },
-        "neutral": "Canada's diplomatic corps is being reoriented by the Carney administration to focus more heavily on commercial interests, reflecting a strategic shift in foreign policy priorities."
+        "neutral": "Prime Minister Mark Carney is reportedly considering appointing high-profile individuals from outside traditional diplomatic ranks, such as former Liberal cabinet minister Martin Cauchon, to lead Canada's embassy in Beijing."
       }
     },
     {
-      "id": "fed-6c5d4e3b",
+      "id": "federalism-6",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Analysis of Prime Minister Carney's Strategic By-Election Scheduling in Federal Ridings",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12006327/analysis-four-vacant-ridings-why-only-three-byelections/",
-      "summary": "An analysis reveals Prime Minister Mark Carney strategically called only three of four vacant federal byelections, notably delaying one in Quebec. This decision provided a significant financial advantage to the Liberal Party over the Bloc Québécois in the competitive Chicoutimi-Le Fjord riding by preventing the Bloc from transferring campaign funds from their safe seat to the contested one, manipulating electoral finance rules to benefit the governing party.",
-      "graph": ["Federal Elections", "By-Elections", "Electoral Strategy", "Campaign Finance", "Political Parties", "Quebec Politics"],
+      "title": "U.S. State Department to Close Consulate in Winnipeg, Canada",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12008187/us-state-department-closing-consulates/",
+      "summary": "The U.S. State Department has announced plans to close several consulates worldwide, including its post in Winnipeg, Canada. This decision will reduce the direct U.S. diplomatic presence in certain international cities, potentially affecting bilateral services and local engagement.",
+      "graph": ["International Relations", "U.S.-Canada Relations", "Diplomacy", "Consulate Closure", "Federal Foreign Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might criticize this as a cynical manipulation of democratic processes and electoral finance rules to gain partisan advantage, potentially undermining the fairness of elections. Such tactics can be seen as prioritizing party self-interest over equitable democratic participation and weakening the ability of opposition parties to compete effectively." },
-          "center": { "label": "Procedural Context", "synthesis": "From a procedural standpoint, the Prime Minister has the legal discretion to set by-election dates within a specified timeframe. This analysis highlights how this discretionary power can be utilized for strategic partisan advantage within the existing electoral finance framework, underscoring the interplay between political calculations and statutory compliance." },
-          "right": { "label": "Conservative Context", "synthesis": "While a conservative viewpoint might acknowledge the strategic political play as a legitimate, albeit aggressive, use of executive power, there could also be concerns about the integrity of the electoral system if rules allow for such significant financial disparities based on timing. A focus on fiscal prudence might also question the efficiency of delaying elections." }
+          "left": { "label": "Progressive Context", "synthesis": "Expresses concern about the potential weakening of bilateral ties and the impact on citizens requiring consular services, advocating for strong diplomatic engagement to address shared challenges." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the factual decision by the U.S. government, examining the logistical implications of a reduced diplomatic footprint and its potential administrative consequences for both Canadian and U.S. citizens." },
+          "right": { "label": "Conservative Context", "synthesis": "May view the closure as a strategic repositioning or a cost-saving measure by the U.S. government, suggesting that diplomatic effectiveness is not solely dependent on physical presence but also on broader policy alignment." }
         },
-        "neutral": "Prime Minister Carney's decision to call three of four federal by-elections is analyzed as a strategic move to leverage electoral finance rules, granting the Liberal Party a financial advantage in a key Quebec riding."
+        "neutral": "The U.S. State Department is set to close several international consulates, including one in Winnipeg, Canada, a move that will diminish its direct diplomatic presence in those regions."
       }
     },
     {
-      "id": "fed-5a2d7c9b",
+      "id": "federalism-7",
       "category": "Federalism",
       "source": "National Post",
-      "title": "WestJet Flight Attendants Reach Tentative Agreement, Ending Strike",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/westjet-strike-ends-with-tentative-agreement",
-      "summary": "WestJet and the Canadian Union of Public Employees (CUPE) have reached a tentative agreement, effectively ending the flight attendant strike that had disrupted summer travel for thousands of Canadians. The agreement represents a resolution to a labour dispute that had earlier seen the federal government considering intervention under the Canada Labour Code.",
-      "graph": ["Labour Relations", "Airline Industry", "Collective Agreement", "Federal Jurisdiction", "Work Stoppage"],
+      "title": "Trump Hints at Punitive Action Against Canada Over Wildfire Smoke",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/trump-hints-at-punishment-for-canada-over-wildfire-smoke",
+      "summary": "Former U.S. President Donald Trump has indicated that he may impose additional tariffs or other forms of 'punishment' on Canada in response to wildfire smoke drifting across the border into the United States. This rhetoric foreshadows potential trade and environmental tensions in future U.S.-Canada relations.",
+      "graph": ["U.S.-Canada Relations", "Trade Tariffs", "Environmental Issues", "Wildfires", "International Diplomacy", "Donald Trump"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would view the tentative agreement as a victory for collective bargaining, affirming workers' rights to achieve better conditions through union action, especially after initial concerns about potential federal intervention undermining their leverage." },
-          "center": { "label": "Procedural Context", "synthesis": "The resolution of the WestJet strike through a tentative agreement signifies the effective, albeit lengthy, functioning of the collective bargaining process under federal labour jurisdiction. It demonstrates that parties can reach consensus without direct government imposition, aligning with the principles of industrial self-governance." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely welcome the swift resolution of the strike as beneficial for economic stability and consumer confidence, reducing disruptions to the airline industry. The outcome, if market-driven, aligns with principles of private sector negotiation rather than government intervention." }
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes the instrumentalization of shared environmental challenges for protectionist trade measures, advocating for international cooperation on climate and environmental issues rather than punitive unilateral actions." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic implications of such threats on bilateral relations and trade agreements, considering the economic and political fallout if such measures were to be implemented." },
+          "right": { "label": "Conservative Context", "synthesis": "May interpret Trump's comments as asserting U.S. national interests, even if through unconventional means, potentially highlighting concerns about cross-border environmental impacts and advocating for stronger domestic management of natural resources." }
         },
-        "neutral": "A tentative agreement has been reached between WestJet and its flight attendants, concluding a labour dispute that had previously prompted considerations of federal intervention to mitigate travel disruptions."
-      }
-    },
-    {
-      "id": "fed-1d3e5f7a",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Opinion: Ontario Premier Urged to Oppose Federal High-Speed Rail Project Due to Cost and Property Impacts",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/noah-jarvis-doug-ford-should-block-the-liberal-high-speed-rail-boondoggle",
-      "summary": "An opinion piece argues that Ontario Premier Doug Ford should actively block a federal Liberal-led high-speed rail project. The criticism centers on the project's estimated $90 billion cost, which is deemed likely to escalate, and the extensive private property expropriations that would be necessary, deeming the project economically unsound and an infringement on property rights. This highlights a provincial-federal tension over infrastructure development.",
-      "graph": ["Federal-Provincial Relations", "Infrastructure Policy", "High-Speed Rail", "Fiscal Policy", "Property Rights", "Ontario Politics"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might advocate for ambitious public infrastructure projects like high-speed rail for environmental benefits, regional development, and equitable access to transportation, but would scrutinize the process of expropriation to ensure fair compensation and community engagement. Concerns about cost overruns would be balanced against long-term public good." },
-          "center": { "label": "Procedural Context", "synthesis": "This represents a clash between federal and provincial jurisdiction over large-scale infrastructure and land use. The federal government proposes, while the province controls significant regulatory and land acquisition powers. The debate involves cost-benefit analysis, environmental assessments, and adherence to legal frameworks for expropriation, highlighting the complex negotiation required for inter-jurisdictional projects." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives, particularly those emphasizing fiscal conservatism and property rights, would strongly oppose a project of this nature due to its exorbitant projected costs, likely cost overruns, and the significant infringement on private property through expropriation. They would advocate for market-driven solutions or more modest, fiscally responsible infrastructure investments." }
-        },
-        "neutral": "An opinion piece calls for Ontario Premier Doug Ford to halt a federal high-speed rail initiative, citing concerns over its $90 billion cost, potential for escalation, and the necessity for extensive private property expropriation."
-      }
-    },
-    {
-      "id": "fed-8g7h6i5j",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Critique of Canada-B.C. Agreement as Federal-Enabled \"Toll Booth\" on Alberta Oil Pipeline",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/03/only-ottawa-could-build-b-c-s-toll-booth-on-alberta-oil/",
-      "summary": "An article critiques the Canada-British Columbia Cooperative Prosperity Agreement, arguing that federal involvement enabled B.C. to create an illegitimate 'transit tariff' or 'toll booth' on Alberta oil flowing through a new pipeline. The agreement's commitment to a revenue framework for B.C., despite the province not owning the resource, is seen as a form of extortion that undermines Alberta's resource jurisdiction and inter-provincial trade principles.",
-      "graph": ["Federal-Provincial Relations", "Resource Policy", "Inter-Provincial Trade", "Energy Infrastructure", "Fiscal Federalism", "Alberta Economy", "British Columbia Policy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might view B.C.'s demand for 'economic upside' as a means to ensure provincial benefits from resource transit, potentially funding environmental protection or social programs, especially if the project has local impacts. However, some might also critique the federal role in mediating what could be seen as an unjust tariff on another province's resource." },
-          "center": { "label": "Procedural Context", "synthesis": "This situation highlights complex constitutional divisions of power regarding natural resources and inter-provincial trade. The federal government's role in facilitating an agreement that includes a revenue share for a non-resource-owning province raises questions about the definition of 'economic upside' and its consistency with established principles of fiscal federalism and resource royalties." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives, particularly from Alberta, would strongly condemn this arrangement as an unconstitutional 'toll booth' on provincial resources, violating principles of free trade within Canada and provincial resource ownership. They would view it as federal overreach enabling provincial protectionism, hindering national economic development, and setting a dangerous precedent for future infrastructure projects." }
-        },
-        "neutral": "A recent agreement between the federal government and British Columbia regarding a new oil pipeline has been criticized for establishing a revenue sharing mechanism for B.C., which opponents argue constitutes an illegitimate transit tariff on Alberta's resources."
+        "neutral": "Former U.S. President Donald Trump has hinted at imposing tariffs or other penalties on Canada, attributing his stance to the issue of wildfire smoke crossing the border into the United States."
       }
     }
   ],
-  "charter": [
-    {
-      "id": "char-2f4e6d8c",
-      "category": "Charter",
-      "source": "Legal Post Blog (via Slaw.ca)",
-      "title": "Ontario Court Awards $400,000 for Intimate Partner Violence, Citing New Civil Wrong Recognized by SCC",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://financialpost.com/legal-post/ontario-woman-awarded-over-husbands-abuse-legal-first",
-      "summary": "An Ontario Superior Court of Justice has awarded a woman $400,000 in damages for intimate partner violence endured over a 54-year marriage. This landmark civil award is the first of its kind since a Supreme Court of Canada ruling in May legally recognized intimate partner violence as a distinct civil wrong, providing a new avenue for victims to seek redress and reflecting evolving legal interpretations of personal safety and dignity.",
-      "graph": ["Civil Law", "Intimate Partner Violence", "Supreme Court of Canada", "Tort Law", "Women's Rights", "Access to Justice", "Equality Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would hail this decision as a crucial advancement for victims' rights and gender equality, recognizing systemic violence within relationships and providing substantive legal recourse. It reflects an evolving understanding of harm and justice, challenging traditional notions of privacy that often shielded abusers, aligning with Charter values of equality and security of the person." },
-          "center": { "label": "Procedural Context", "synthesis": "This ruling exemplifies the common law's adaptability in response to higher court precedent (SCC) and societal needs. The recognition of intimate partner violence as a new civil tort expands the scope of judicial remedies available to individuals, demonstrating the judiciary's role in evolving legal frameworks to address societal harms, implicitly reinforcing Charter protections." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives might acknowledge the need to address serious harm like intimate partner violence, while perhaps expressing caution about expanding civil liability or the potential for legal overreach into private domestic affairs. The focus would be on due process, individual responsibility, and ensuring that any legal expansion is clearly defined and does not open the door to frivolous claims, while upholding the sanctity of family structures." }
-        },
-        "neutral": "An Ontario court has issued a civil damage award of $400,000 for intimate partner violence, establishing a legal precedent following a recent Supreme Court of Canada decision that recognized such violence as a new civil tort."
-      }
-    }
-  ],
+  "charter": [],
   "indigenous": [],
   "criminal": [
     {
-      "id": "crim-3b2a1c4d",
+      "id": "criminal-1",
       "category": "Criminal",
       "source": "National Post",
-      "title": "U.S. Officials Call for Canadian Action After Suspected Arson at Montreal Kosher Restaurant",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/u-s-officials-montreal-kosher-restaurant-suspected-arson",
-      "summary": "U.S. officials, including Congressman Paul Schneider, have publicly urged Canada to take decisive action following a suspected arson attack on a Montreal kosher restaurant. This incident, decried as a heinous attack on a Jewish-owned business, highlights international concern over rising antisemitism and hate-motivated crimes in Canada, placing diplomatic pressure on Canadian authorities to address domestic public safety and hate crime enforcement.",
-      "graph": ["Hate Crime", "Arson", "Antisemitism", "Public Safety", "International Relations", "Criminal Investigation", "Montreal Police"],
+      "title": "MLS Investigates Allegations of Antisemitic Chants Against Israeli Player in Montreal",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/mls-montreal-antisemitism-discrimination-investigation-dor-turgeman",
+      "summary": "Major League Soccer (MLS) has launched an investigation into reports of antisemitic and discriminatory chants directed at Israeli player Dor Turgeman by CF Montr\u00e9al fans during a recent match. The incident highlights concerns about hate speech and discrimination within public sporting events, potentially leading to sanctions under league rules and raising broader questions about public order.",
+      "graph": ["Antisemitism", "Discrimination", "Hate Speech", "Sports", "Montreal", "Public Order", "Investigation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would emphasize the need for robust police investigation and prosecution of hate crimes, calling for systemic responses to address the root causes of antisemitism and protect vulnerable communities. The international pressure might be seen as a necessary wake-up call for Canada to uphold its commitment to diversity and inclusion." },
-          "center": { "label": "Procedural Context", "synthesis": "This involves a criminal investigation into a suspected arson, potentially a hate crime, requiring adherence to Canadian criminal law and police procedures. The diplomatic aspect adds a layer of inter-governmental communication and accountability, requiring Canadian federal and provincial authorities to demonstrate effective law enforcement and public safety measures in response to international concerns." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely focus on maintaining law and order, ensuring swift and firm prosecution of individuals responsible for hate-motivated violence. While acknowledging the importance of international relations, the emphasis would be on Canadian sovereignty in law enforcement and demonstrating national capacity to protect citizens and property." }
+          "left": { "label": "Progressive Context", "synthesis": "Condemns all forms of hate speech and discrimination in public spaces, emphasizing the need for robust anti-racism education and policies in sports to foster inclusive environments and protect minority groups." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the league's investigative process, the adherence to codes of conduct, and the legal frameworks concerning hate speech, aiming for a fair resolution that upholds sporting integrity and public safety." },
+          "right": { "label": "Conservative Context", "synthesis": "While unequivocally denouncing antisemitism, some may emphasize individual accountability for such actions rather than collective blame, or debate the scope of organizational intervention in fan expressions, balancing free speech with anti-discrimination efforts." }
         },
-        "neutral": "U.S. officials have urged Canadian authorities to respond effectively to a suspected arson at a Montreal kosher restaurant, intensifying international focus on Canada's handling of hate-motivated crimes targeting Jewish businesses."
+        "neutral": "Major League Soccer is investigating reports of antisemitic and discriminatory chants allegedly directed at Israeli player Dor Turgeman by fans during a CF Montr\u00e9al game, raising concerns about hate speech at public sporting events."
       }
     },
     {
-      "id": "crim-5e4d3c2b",
+      "id": "criminal-2",
       "category": "Criminal",
-      "source": "The Hub",
-      "title": "Commentary Highlights Widespread and Unchecked Antisemitism in Canada Amidst Recent Attacks",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/03/jew-hatred-in-canada-is-widespread-and-unchecked/",
-      "summary": "A commentary argues that antisemitism in Canada is widespread and unaddressed, evidenced by recent violent incidents like shootings at Jewish-owned businesses and a terrorism charge against an anti-Israel demonstrator. The piece criticizes politicians for denouncing hatred without implementing effective measures, suggesting a normalization of antisemitic sentiments and calling for a serious national response to protect the Jewish community.",
-      "graph": ["Hate Crime", "Antisemitism", "Terrorism", "Public Safety", "Law Enforcement", "Political Accountability", "Community Protection"],
+      "source": "Slaw",
+      "title": "Methodological Nuances in Quantifying Unrepresented Accused in Ontario Courts",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/04/it-depends-on-how-you-ask-the-question-the-true-number-of-unrepresented-accused-in-the-ontario-court-of-justice/",
+      "summary": "A research paper analyzes data from the Ontario Court of Justice (2011-2022) demonstrating that the reported number of unrepresented accused persons varies significantly based on how the data is analyzed (e.g., per appearance vs. per disposed case). It introduces a 'representation pathways' methodology to offer a more precise understanding of legal representation within the provincial criminal court system, highlighting implications for access to justice and court efficiency.",
+      "graph": ["Access to Justice", "Legal Representation", "Ontario Court of Justice", "Criminal Justice System", "Court Data Analysis", "Duty Counsel", "Judicial Efficiency"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely agree with the alarm over rising antisemitism and advocate for comprehensive anti-hate strategies, including education, community support, and robust prosecution of hate crimes. They might also emphasize the need to distinguish between legitimate criticism of foreign policy and antisemitism, while ensuring freedom of expression does not incite violence." },
-          "center": { "label": "Procedural Context", "synthesis": "This commentary underscores failures in law enforcement and political leadership to effectively address criminal acts motivated by hatred. It implicates the criminal justice system's capacity to investigate and prosecute hate crimes and terrorism-related charges, while also questioning the efficacy of political responses in upholding public safety and societal cohesion in adherence to legal norms." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would strongly condemn antisemitism and emphasize the importance of upholding law and order, swiftly prosecuting hate crimes, and ensuring public safety for all communities. They might criticize political inaction as a failure of governance and advocate for stronger measures against radical ideologies, while also potentially drawing connections to broader concerns about national security." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes that accurate data is crucial for advocating for enhanced legal aid and public defense services to address systemic barriers to justice, ensuring equitable representation for all accused, particularly marginalized groups." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the methodological rigor and implications for empirical research in judicial administration, underscoring the importance of nuanced data interpretation for evidence-based policy making in the criminal justice system." },
+          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the importance of fair trials and legal representation while considering the efficiency and cost-effectiveness of the justice system. May encourage reforms that balance access to justice with fiscal responsibility and streamlined processes." }
         },
-        "neutral": "A recent commentary asserts that antisemitism is prevalent and inadequately addressed in Canada, citing specific violent incidents and charges, and calling for more decisive action from political and law enforcement bodies."
+        "neutral": "A research paper reveals that the perceived rate of unrepresented accused in the Ontario Court of Justice is highly dependent on the analytical methodology, advocating for a new 'representation pathways' approach for a more accurate assessment of legal access."
+      }
+    },
+    {
+      "id": "criminal-3",
+      "category": "Criminal",
+      "source": "ABlawg",
+      "title": "Underscore Error Leads to Wrongful Conviction in Digital Evidence Case",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://ablawg.ca/2026/08/04/how-an-underscore-sent-an-innocent-man-to-jail/?utm_source=rss&utm_medium=rss&utm_campaign=how-an-underscore-sent-an-innocent-man-to-jail",
+      "summary": "An article exposes the wrongful conviction and 18-month imprisonment of Brandon Klayme, a Canadian man, due to a single underscore error in a social media username during a police investigation involving digital evidence. The Nova Scotia Court of Appeal ultimately overturned the conviction, declaring Klayme 'actually innocent' and highlighting severe institutional failures across police, prosecution, and defense in handling digital evidence.",
+      "graph": ["Wrongful Conviction", "Digital Evidence", "Police Error", "Justice System Failure", "Nova Scotia Court of Appeal", "Forensic Investigation", "Procedural Justice"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes systemic failures within the criminal justice system, highlighting the vulnerability of individuals to technological errors and advocating for comprehensive reforms, enhanced oversight, and robust safeguards against wrongful convictions." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the breakdown in investigative and judicial processes, underscoring the critical need for meticulous handling of digital evidence, thorough cross-examination, and the vital role of appellate courts in correcting miscarriages of justice." },
+          "right": { "label": "Conservative Context", "synthesis": "While condemning wrongful convictions, this perspective focuses on accountability at all levels of the justice system (police, prosecutors, defense, judiciary) to ensure strict adherence to protocols and prevent future errors through improved training and oversight." }
+        },
+        "neutral": "A case study reveals a Canadian man's wrongful conviction and imprisonment for 18 months, attributed to a critical error involving a single underscore in digital evidence, which was later rectified by the Nova Scotia Court of Appeal, exposing institutional justice system failures."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "immigration-1",
+      "category": "Immigration",
+      "source": "The Narwhal",
+      "title": "Migrant Farm Workers Rally for Improved Protections Amid Extreme Heat in Ontario",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/migrant-workers-rally/?utm_source=rss",
+      "summary": "Approximately 50 migrant farm workers and their advocates rallied in Toronto, demanding enhanced protections and access to healthcare, particularly given instances of working through extreme heat. They criticized the Temporary Foreign Worker Program for allegedly failing to safeguard workers, citing reports of several deaths and inadequate access to basic amenities like water, shade, and proper cooling facilities.",
+      "graph": ["Migrant Workers", "Labour Rights", "Temporary Foreign Worker Program", "Workplace Safety", "Healthcare Access", "Extreme Heat", "Ontario", "Human Rights"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Highlights systemic exploitation within the Temporary Foreign Worker Program, advocating for stronger government regulation, unionization rights, and humanitarian protections for vulnerable migrant labourers, emphasizing their essential role in the economy." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the demands of the rally, the allegations of unsafe working conditions, and the calls for investigation and policy review to ensure that existing labour laws and human rights standards are adequately applied and enforced for temporary foreign workers." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the need for worker safety, this perspective might emphasize the economic necessity of the Temporary Foreign Worker Program for agricultural output, cautioning against excessive regulatory burdens that could impact industry viability, and prioritizing efficient program administration." }
+        },
+        "neutral": "Migrant farm workers and allies protested in Toronto, advocating for better protections and healthcare, especially regarding extreme heat working conditions, and criticizing the Temporary Foreign Worker Program for alleged failures in safeguarding laborers."
+      }
+    },
+    {
+      "id": "immigration-2",
+      "category": "Immigration",
+      "source": "National Post",
+      "title": "Haitian Migrants Consider Canada as U.S. Temporary Protected Status Ends",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/haitians-eye-canada-as-u-s-temporary-protected-status-ends",
+      "summary": "With the cessation of Temporary Protected Status (TPS) for Haitians in the United States, activists and immigration lawyers report a growing number of former TPS holders exploring migration to Canada. This trend anticipates a potential increase in asylum claims and other forms of immigration applications at the Canadian border, posing new challenges for Canadian immigration and border services.",
+      "graph": ["Haitian Migrants", "Temporary Protected Status (TPS)", "Asylum Seekers", "U.S. Immigration Policy", "Canadian Immigration", "Border Migration", "Humanitarian Aid"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for humanitarian reception of asylum seekers, urging Canada to expand support for those displaced by U.S. policy changes and to ensure fair and efficient processing of their claims, recognizing the ethical imperative to provide refuge." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the demographic and policy implications of shifting migration patterns, focusing on the administrative capacities of Canada's immigration system and the need for organized responses to potential increases in border crossings and asylum requests." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about the capacity and integrity of Canada's immigration and border security systems, advocating for stricter border controls, managed immigration intake, and careful assessment of claims to prevent undue strain on public resources." }
+        },
+        "neutral": "As the United States discontinues Temporary Protected Status for Haitians, many affected individuals are reportedly considering migrating to Canada, potentially leading to an increase in asylum and immigration applications at the Canadian border."
+      }
+    }
+  ]
 }
