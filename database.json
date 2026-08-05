@@ -1,237 +1,314 @@
 {
   "federalism": [
     {
-      "id": "federalism-1",
+      "id": "alberta-data-centres-propaganda-feds",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "MPs Split on Hybrid Parliament Rules Continuation",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/mp-divided-hybrid-parliament-9.7295589?cmp=rss",
-      "summary": "Canadian Members of Parliament are divided over the continuation of hybrid parliamentary rules, which allow remote voting and committee attendance, six years after their introduction during the pandemic. While some public service unions advocate for retaining flexibility, Conservative MPs argue for a full return to in-person sittings to align with other Western democracies.",
-      "graph": ["Parliamentary Procedure", "Hybrid Parliament", "Remote Work", "Federal Governance", "House of Commons", "COVID-19 Legacy"],
+      "source": "rabble.ca",
+      "title": "Alberta Government Promotes Data Centre Development as 'Digital Refineries'",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://rabble.ca/politics/canadian-politics/alberta-government-پublishes-pro-data-centre-propaganda/",
+      "summary": "The Alberta government is actively promoting the development of hyperscale AI data centres within the province, framing them as 'digital refineries' to encourage public support and investment, highlighting a provincial economic development strategy that may have broader intergovernmental implications regarding energy and technology infrastructure.",
+      "graph": ["Provincial Policy", "Economic Development", "AI Infrastructure", "Environmental Impact"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for retaining hybrid parliamentary options to promote accessibility for MPs, enabling better representation of distant ridings and fostering more diverse participation, aligning with modern flexible work trends." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the efficacy and implications of hybrid sittings on parliamentary debate, decision-making, and public accountability, seeking a pragmatic balance between traditional legislative functions and technological advancements." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of in-person parliamentary attendance for maintaining legislative integrity, fostering robust debate, and ensuring full accountability, advocating for a return to traditional practices to uphold institutional dignity." }
+          "left": { "label": "Progressive Context", "synthesis": "Critics on the left often view such provincial promotions as 'propaganda' that downplays potential environmental and social costs associated with energy-intensive data centres, aligning with concerns about corporate influence and resource exploitation." },
+          "center": { "label": "Procedural Context", "synthesis": "From a neutral perspective, this represents a provincial government's strategic effort to attract investment and diversify its economy through technology, emphasizing policy objectives and the administrative processes for industrial development." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints typically support provincial initiatives to foster economic growth and technological infrastructure, viewing data centres as a key component of a modern, competitive economy with a focus on job creation and investment." }
         },
-        "neutral": "Canadian Members of Parliament are debating whether to maintain hybrid sitting rules, allowing remote participation and voting, a practice initiated during the pandemic, with opinions divided on its long-term impact on parliamentary function."
+        "neutral": "The Alberta government is engaged in public relations to promote the development of large-scale AI data centres within its borders, using the 'digital refineries' analogy to build support for provincial economic growth initiatives."
       }
     },
     {
-      "id": "federalism-2",
+      "id": "pipeline-cost-national-interest-feds",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "CSIS Warns of Foreign Interference in Alberta Referendum on National Unity",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/edmonton/nenshi-briefing-csis-interference-alberta-referendum-9.7295401?cmp=rss",
-      "summary": "The Canadian Security Intelligence Service (CSIS) has notified Alberta NDP Leader Naheed Nenshi that the province's upcoming referendum on national unity is a potential target for foreign interference. CSIS is actively monitoring for risks, including the spread of misinformation and disinformation, following Nenshi's concerns over external comments on Alberta separatism and a privacy breach of voter data.",
-      "graph": ["Foreign Interference", "Alberta Referendum", "National Unity", "CSIS", "Provincial Politics", "Federal-Provincial Relations", "Disinformation", "Voter Privacy"],
+      "source": "thenarwhal.ca",
+      "title": "Pipeline Support High, but Taxpayer Funding Raises Fiscal Federalism Questions",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/canadian-pipeline-cost-alberta-west-coast/?utm_source=rss",
+      "summary": "Despite public polling indicating majority Canadian support for new pipelines, primarily for economic diversification, there is widespread reluctance to bear the substantial construction costs. A proposed West Coast pipeline, involving the Alberta and federal governments as potential majority owners, highlights significant fiscal federalism challenges and debates over public funding for large-scale energy infrastructure projects.",
+      "graph": ["Energy Policy", "Infrastructure Funding", "Federal-Provincial Relations", "Public Opinion", "Fiscal Federalism"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Underscores the critical need for federal intelligence agencies to protect democratic processes from external manipulation, especially on divisive issues, and advocates for robust measures to counter disinformation and safeguard electoral integrity." },
-          "center": "Analysis focuses on the institutional role of CSIS in national security and democratic protection, highlighting the importance of early warnings and monitoring mechanisms for potential foreign exploitation of political events.",
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the threat of foreign interference, some may scrutinize the intelligence agency's warnings for potential political implications or overreach, emphasizing provincial autonomy in conducting referenda and questioning the scope of 'interference'." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques emphasize the environmental costs and financial risks to taxpayers of new fossil fuel infrastructure, questioning the long-term economic viability and public subsidies in the context of climate action." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the complex economic calculations, the dynamics of public opinion, and the roles of federal and provincial governments in funding major infrastructure, identifying the policy dilemma and financial implications for taxpayers." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives advocate for new pipelines to enhance energy independence, market access, and job creation, often viewing public investment as a necessary measure for national economic benefit and challenging environmental opposition as an impediment to growth." }
         },
-        "neutral": "CSIS has alerted the Alberta NDP leader that the provincial referendum on national unity could be vulnerable to foreign interference, including mis- and disinformation, prompting monitoring efforts by the intelligence agency."
+        "neutral": "Public support for new pipelines is high due to perceived economic benefits, yet the substantial construction costs lead to debates about potential government ownership and taxpayer burden, as illustrated by the Alberta government's proposal for a West Coast pipeline with federal partnership."
       }
     },
     {
-      "id": "federalism-3",
+      "id": "todd-lewis-sask-senator-tribute-feds",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "New Foreign Influence Office Prioritizes Transparency, Not Direct Interference Prevention, Commissioner States",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-foreign-influence-interference-9.7295362?cmp=rss",
-      "summary": "Canada's first foreign influence commissioner, Anton Boegman, clarified that the newly launched foreign influence office and registry will primarily enhance transparency by requiring registration of individuals acting on behalf of foreign governments to influence Canadian politics. It is not designed to prevent covert foreign interference, which remains the purview of the RCMP and national security agencies.",
-      "graph": ["Foreign Influence Registry", "Transparency", "Government Regulation", "National Security", "Canadian Politics", "Bill C-70", "Public Policy"],
+      "source": "cbc.ca",
+      "title": "Tributes Pour in for Deceased Saskatchewan Senator Todd Lewis, Agricultural Advocate",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/friends-reflect-on-death-of-canadian-senator-todd-lewis-9.7296862?cmp=rss",
+      "summary": "Tributes are being paid to the late Senator Todd Lewis of Saskatchewan, a prominent farmer and advocate for the Canadian agricultural sector, who passed away at 65. He is remembered for his impactful leadership, mentorship, and dedication to the 'greater good' in both provincial and national agricultural policy, highlighting the role of federal representatives in specific industry advocacy.",
+      "graph": ["Federal Politics", "Agriculture Policy", "Public Service", "Saskatchewan"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Argues for more comprehensive and proactive government strategies to combat foreign interference, potentially critiquing the registry's limitations and stressing the need for stronger protections for democratic institutions and at-risk communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the implementation of new legislation (Bill C-70) and the operational scope of the foreign influence registry, focusing on its role in providing public information and differentiating between overt influence and covert interference." },
-          "right": { "label": "Conservative Context", "synthesis": "May express skepticism regarding the registry's ability to deter genuine foreign interference, potentially raising concerns about bureaucratic burden or the potential for overreach into legitimate advocacy, while emphasizing the need for robust security enforcement." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices praise Lewis's contributions to public service and community, especially his advocacy for farmers, underscoring the importance of grassroots representation and support for agricultural workers and rural development." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral observers acknowledge Lewis's significant role in the Senate and his impact on Canadian agriculture, emphasizing his dedication to public service and his ability to bridge provincial and national interests effectively through political channels." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives celebrate Lewis's work as a champion for the agricultural sector and rural communities, upholding the values of individual enterprise, industry representation, and practical contributions to the economy and federal governance." }
         },
-        "neutral": "Canada's new foreign influence commissioner clarified that the recently launched foreign influence office and registry are primarily designed to increase transparency regarding foreign influence activities, rather than directly prevent covert foreign interference, which remains a national security domain."
+        "neutral": "Saskatchewan Senator Todd Lewis, a respected agricultural advocate, has passed away at 65, remembered by friends and political leaders for his impactful leadership and dedication to the agricultural sector at both provincial and national levels."
       }
     },
     {
-      "id": "federalism-4",
+      "id": "green-party-leadership-race-feds",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Independent Alberta's Oil Exports to U.S. Would Rely on Other Canadian Provinces' Pipelines",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-oil-separation-pipelines-provinces-9.7293090?cmp=rss",
-      "summary": "An analysis suggests that an independent Alberta's oil and natural gas exports to the United States would largely remain dependent on pipelines traversing other Canadian provinces. This reality challenges separatist arguments for direct trade and highlights the complex, uncertain nature of negotiating new transit and trade agreements if Alberta were to separate from Canada.",
-      "graph": ["Alberta Separation", "Oil Exports", "Pipelines", "Interprovincial Trade", "Energy Policy", "Canadian Economy", "Federal-Provincial Relations"],
+      "source": "cbc.ca",
+      "title": "Federal Green Party Announces Two Candidates for Leadership Race",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/former-green-mp-mike-morrice-run-federal-party-leadership-9.7296529?cmp=rss",
+      "summary": "The Green Party of Canada has announced former MP Mike Morrice and teacher Nira Dookeran as the two approved candidates for its leadership race. The new leader is expected to be chosen in November, following Elizabeth May's earlier announcement to step down.",
+      "graph": ["Federal Politics", "Green Party", "Leadership Race", "Electoral Process"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Reinforces the economic interdependence within Canada, highlighting the logistical and environmental complexities of oil transport, and emphasizing the shared responsibility for national infrastructure and climate policy." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides an objective assessment of the infrastructure realities and the legal and commercial challenges involved in energy trade post-separation, focusing on the need for complex bilateral and international agreements." },
-          "right": { "label": "Conservative Context", "synthesis": "For proponents of Alberta independence, this presents a significant challenge to their economic platform, requiring detailed plans for securing transit. For federalist conservatives, it underscores the economic benefits and efficiencies of Canadian unity." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses focus on the opportunity for the Green Party to renew its leadership and strengthen its environmental and social justice platforms, seeking to broaden its appeal and influence in federal politics." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral reporting focuses on the procedural aspects of the Green Party's leadership contest, including candidate qualifications and election timelines, emphasizing the democratic process within a federal political party." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints often frame the leadership race as an internal party matter, potentially highlighting the Green Party's ongoing challenges in federal politics and its electoral viability from a perspective often skeptical of Green policies." }
         },
-        "neutral": "Analysis indicates that a hypothetically independent Alberta's oil and natural gas exports to the U.S. would primarily continue through pipelines in other Canadian provinces, necessitating complex trade and transshipment agreements with Canada."
+        "neutral": "The federal Green Party has officially launched its leadership contest with former MP Mike Morrice and Nira Dookeran confirmed as the two candidates vying to replace current leader Elizabeth May, with results anticipated in November."
       }
     },
     {
-      "id": "federalism-5",
+      "id": "un-sikh-activist-protection-feds",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Carney Reportedly Eyes Outsiders for Canada\u2019s Beijing Embassy Head",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-looks-to-influential-outsiders-to-head-canadas-embassy-in/",
-      "summary": "Prime Minister Mark Carney is reportedly considering prominent non-career diplomats, including former Liberal cabinet minister Martin Cauchon, to serve as Canada's ambassador to Beijing. This move suggests a strategic shift towards appointing politically influential figures to manage Canada's complex and critical relationship with China.",
-      "graph": ["Foreign Policy", "Diplomatic Appointments", "Canada-China Relations", "Federal Government", "International Relations", "Mark Carney", "Diplomacy"],
+      "source": "cbc.ca",
+      "title": "UN Investigators Urge Canada to Enhance Protection for Threatened Sikh Activist",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/moninder-singh-khalistani-sikh-separatism-threat-un-9.7296045?cmp=rss",
+      "summary": "Five UN special rapporteurs have formally requested that Canada enhance protection for Sikh activist Moninder Singh and his family, who have received multiple 'duty to warn' letters from police regarding assassination threats. The UN highlights concerns about transnational repression by Indian authorities against Sikh activists in Canada, raising questions about Canada's national security, foreign relations, and protection of its citizens.",
+      "graph": ["National Security", "Human Rights", "International Relations", "Sikh Community", "Transnational Repression"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May raise concerns about the politicization of diplomatic roles and the potential sidelining of experienced career foreign service officers, advocating for appointments based on expertise rather than political affiliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the strategic considerations behind high-level diplomatic appointments, analyzing the qualifications and advantages of both career diplomats and political appointees in managing complex international relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the appointment of strong, politically savvy leaders to critical diplomatic posts like Beijing, believing that such individuals possess the necessary leverage and influence to effectively advance Canadian interests on the international stage." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices emphasize the imperative for Canada to uphold human rights and protect minority activists from foreign interference, viewing the UN's intervention as a necessary call for justice and state accountability to its citizens." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the diplomatic and security challenges faced by the Canadian government in responding to foreign interference and protecting citizens, emphasizing the procedural complexities of international relations and national security protocols." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative views often express concerns about the implications of foreign state activities on Canadian soil, possibly questioning the federal government's efficacy in protecting national sovereignty and citizens, while also being critical of separatist movements' goals." }
         },
-        "neutral": "Prime Minister Mark Carney is reportedly considering appointing high-profile individuals from outside traditional diplomatic ranks, such as former Liberal cabinet minister Martin Cauchon, to lead Canada's embassy in Beijing."
+        "neutral": "UN investigators have urged the Canadian government to increase protection for Sikh activist Moninder Singh and his family due to credible assassination threats, linking these concerns to alleged transnational repression by Indian authorities and raising national security and foreign relations questions."
       }
     },
     {
-      "id": "federalism-6",
+      "id": "carney-pipeline-national-interest-feds",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "U.S. State Department to Close Consulate in Winnipeg, Canada",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12008187/us-state-department-closing-consulates/",
-      "summary": "The U.S. State Department has announced plans to close several consulates worldwide, including its post in Winnipeg, Canada. This decision will reduce the direct U.S. diplomatic presence in certain international cities, potentially affecting bilateral services and local engagement.",
-      "graph": ["International Relations", "U.S.-Canada Relations", "Diplomacy", "Consulate Closure", "Federal Foreign Policy"],
+      "source": "cbc.ca",
+      "title": "Carney Government Advances West Coast Pipeline as 'National Interest Project'",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-moves-to-list-alberta-pipeline-national-interest-9.7295932?cmp=rss",
+      "summary": "The federal government, under Prime Minister Mark Carney, has initiated a 30-day notice period to potentially designate a proposed Alberta West Coast oil pipeline as a 'national interest project' under Bill C-5. This designation could fast-track its approval process, drawing criticism from environmental groups who advocate for due oversight and raising significant inter-provincial and federal policy debates.",
+      "graph": ["Energy Infrastructure", "Federal Legislation", "Environmental Assessment", "Federal-Provincial Relations", "Economic Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses concern about the potential weakening of bilateral ties and the impact on citizens requiring consular services, advocating for strong diplomatic engagement to address shared challenges." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the factual decision by the U.S. government, examining the logistical implications of a reduced diplomatic footprint and its potential administrative consequences for both Canadian and U.S. citizens." },
-          "right": { "label": "Conservative Context", "synthesis": "May view the closure as a strategic repositioning or a cost-saving measure by the U.S. government, suggesting that diplomatic effectiveness is not solely dependent on physical presence but also on broader policy alignment." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive groups strongly oppose the designation, arguing it undermines environmental protection and democratic oversight for fossil fuel expansion, directly contradicting climate goals and prioritizing economic interests over ecological sustainability." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral observers report on the federal government's utilization of existing legislation (Bill C-5) to expedite a major infrastructure project, balancing stated economic development goals with procedural requirements and the mechanism for public consultation." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives support the federal government's move to fast-track the pipeline, viewing it as essential for national energy security, economic growth, and market diversification, often criticizing environmental opposition as hindering vital progress." }
         },
-        "neutral": "The U.S. State Department is set to close several international consulates, including one in Winnipeg, Canada, a move that will diminish its direct diplomatic presence in those regions."
+        "neutral": "The Carney government is advancing a process to designate Alberta's proposed West Coast oil pipeline as a 'national interest project,' which would accelerate its approval under Bill C-5, generating both economic support and environmental opposition."
       }
     },
     {
-      "id": "federalism-7",
+      "id": "canada-us-trade-talks-tariffs-feds",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Trump Hints at Punitive Action Against Canada Over Wildfire Smoke",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/trump-hints-at-punishment-for-canada-over-wildfire-smoke",
-      "summary": "Former U.S. President Donald Trump has indicated that he may impose additional tariffs or other forms of 'punishment' on Canada in response to wildfire smoke drifting across the border into the United States. This rhetoric foreshadows potential trade and environmental tensions in future U.S.-Canada relations.",
-      "graph": ["U.S.-Canada Relations", "Trade Tariffs", "Environmental Issues", "Wildfires", "International Diplomacy", "Donald Trump"],
+      "source": "cbc.ca",
+      "title": "Canada-U.S. Trade Minister in Washington to 'Intensify' Tariff Talks",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/leblanc-august-meetings-tariffs-9.7295896?cmp=rss",
+      "summary": "Canada-U.S. Trade Minister Dominic LeBlanc is in Washington for renewed trade talks aimed at averting a looming August 19 deadline for new U.S. tariffs on Canadian exports. These intensified discussions, following talks between Prime Minister Carney and President Trump, seek to resolve trade irritants and explore possibilities for a renewed North American free trade agreement, highlighting federal government's international economic policy efforts.",
+      "graph": ["International Trade", "Diplomacy", "Tariffs", "Economic Policy", "Bilateral Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the instrumentalization of shared environmental challenges for protectionist trade measures, advocating for international cooperation on climate and environmental issues rather than punitive unilateral actions." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic implications of such threats on bilateral relations and trade agreements, considering the economic and political fallout if such measures were to be implemented." },
-          "right": { "label": "Conservative Context", "synthesis": "May interpret Trump's comments as asserting U.S. national interests, even if through unconventional means, potentially highlighting concerns about cross-border environmental impacts and advocating for stronger domestic management of natural resources." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints emphasize the need for fair trade practices and protection of Canadian industries and workers, potentially criticizing U.S. tariff threats as protectionist and highlighting the federal government's role in defending national economic interests." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the diplomatic efforts and negotiation strategies employed by the Canadian government to resolve trade disputes and maintain stable international economic relations, underscoring the complexity of bilateral trade agreements." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives advocate for free trade and reducing barriers to market access, viewing the tariff threats as a challenge to Canadian sovereignty and economic prosperity, and urging robust federal action to secure favourable trade terms." }
         },
-        "neutral": "Former U.S. President Donald Trump has hinted at imposing tariffs or other penalties on Canada, attributing his stance to the issue of wildfire smoke crossing the border into the United States."
+        "neutral": "Canada's Trade Minister is engaged in high-level talks in Washington to address impending U.S. tariffs on Canadian goods and to advance broader trade discussions, following an agreement between Prime Minister Carney and President Trump to intensify negotiations."
+      }
+    },
+    {
+      "id": "ford-threatens-alto-rail-feds",
+      "category": "Federalism",
+      "source": "thehub.ca",
+      "title": "Ontario Threatens to Withdraw Alto Rail Support After Federal Airport Blockade",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/04/ford-threatens-to-pull-ontarios-support-for-alto-rail-project-after-ottawa-blocks-billy-bishop-expansion/",
+      "summary": "Ontario Premier Doug Ford has threatened to withdraw provincial support for Alto, the federal government's high-speed rail project, in retaliation for Ottawa's decision to block the expansion of Toronto's Billy Bishop Island airport. This escalating dispute underscores significant federal-provincial tensions over major infrastructure development, regulatory processes, and the balance of power in national-building initiatives.",
+      "graph": ["Federal-Provincial Relations", "Infrastructure Projects", "Regulatory Policy", "Intergovernmental Dispute", "Transportation"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques might view the federal government's decision on Billy Bishop as an example of excessive proceduralism hindering urban development, while possibly supporting high-speed rail for climate goals, seeing Ford's move as political leverage." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the inter-governmental dispute over infrastructure projects, highlighting the political dynamics and regulatory challenges that can impede national development initiatives and lead to provincial-federal stalemates." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints support provincial autonomy in infrastructure decisions and criticize federal overreach or indecision, viewing Ford's stance as a necessary defense of provincial interests and a push for efficient project approvals and economic growth." }
+        },
+        "neutral": "A significant inter-governmental conflict has emerged, with Ontario Premier Doug Ford threatening to retract provincial support for the federal Alto high-speed rail project in response to Ottawa's blockade of the Billy Bishop Island airport expansion, revealing deep tensions over major infrastructure approvals."
       }
     }
   ],
-  "charter": [],
+  "charter": [
+    {
+      "id": "caf-chaplains-religious-freedom-charter",
+      "category": "Charter",
+      "source": "nationalpost.com",
+      "title": "Opinion: Forcing Religious Neutrality on CAF Chaplains Undermines Spiritual Support",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/brian-dijkema-forcing-religious-neutrality-on-caf-chaplains-robs-troops-of-support",
+      "summary": "An opinion piece argues that Canadian Armed Forces (CAF) policy requiring chaplains to deliver generic 'spiritual reflections' rather than specific denominational prayers infringes on the religious freedom of both chaplains and troops. The author contends that this 'religious neutrality' deprives service members of meaningful spiritual support, implicating Charter Section 2(a) freedom of conscience and religion.",
+      "graph": ["Freedom of Religion", "Canadian Armed Forces", "Religious Neutrality", "Public Institutions", "Chaplaincy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might see the policy as an attempt to ensure inclusivity and avoid imposing specific religious views within a diverse military, while acknowledging the importance of spiritual support in various forms, or critique any state-sponsored religious activity." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the institutional challenges of balancing governmental neutrality, individual religious freedom within a diverse military, and the practical provision of spiritual care, considering the legal and policy implications of these competing values." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives strongly advocate for the protection of traditional religious practices and freedom of conscience within federal institutions like the CAF, criticizing policies that diminish specific religious expression as an overreach of secularism." }
+        },
+        "neutral": "An opinion piece addresses the Canadian Armed Forces' policy on chaplain services, contending that a mandate for 'religious neutrality' limits specific denominational prayers, thereby potentially impacting the religious freedom and spiritual support available to service members, invoking Charter concerns."
+      }
+    },
+    {
+      "id": "one-person-one-vote-debate-charter",
+      "category": "Charter",
+      "source": "thehub.ca",
+      "title": "Debate over 'One Person, One Vote' Principle Continues in Canada, Referencing Charter",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/04/one-person-one-vote-its-still-an-open-debate-in-canada/",
+      "summary": "This commentary examines Shopify CEO Tobi Lütke's controversial endorsement of a voting system where vote weight is tied to income tax paid. The article discusses historical arguments for weighted voting, contrasts it with the modern 'one person, one vote' principle, and reviews the Canadian context, including the Charter's influence on voting rights and Supreme Court decisions like *Sauvé*, which established prisoners' voting rights.",
+      "graph": ["Voting Rights", "Electoral System", "Constitutional Law", "Democracy", "Supreme Court"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses vehemently oppose weighted voting, seeing it as an attack on fundamental democratic equality and Charter rights, reinforcing class divisions. They uphold 'one person, one vote' as essential for social justice and inclusive governance." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral observers explore the historical and philosophical debates surrounding voting systems, including arguments for and against 'one person, one vote,' and analyze how the Canadian Charter of Rights and Freedoms has shaped contemporary electoral principles through judicial review." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may express concern about the financial burden of government on taxpayers who contribute disproportionately or highlight historical arguments for property-based voting, while acknowledging the current democratic standard and being critical of judicial activism in expanding voting rights." }
+        },
+        "neutral": "A commentary discusses the concept of weighted voting based on income tax, initiated by a public endorsement, and analyzes its historical context against the established Canadian democratic principle of 'one person, one vote,' referencing the Charter's impact and Supreme Court rulings on voting rights."
+      }
+    },
+    {
+      "id": "ramsdent-v-peterborough-charter",
+      "category": "Charter",
+      "source": "www.slaw.ca",
+      "title": "SCC Case: Postering Ban vs. Freedom of Expression (Ramsden v. Peterborough)",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/05/wednesday-whats-hot-on-canlii-july-2026/",
+      "summary": "The Supreme Court of Canada case *Ramsden v. Peterborough (City)* (1993 CanLII 60 (SCC)) concerned the constitutional validity of a municipal by-law that prohibited all postering on public property. The Court examined whether this absolute ban infringed on the Charter's guarantee of freedom of expression (s. 2(b)) and if such an infringement could be justified under Section 1 of the Charter.",
+      "graph": ["Freedom of Expression", "Municipal By-laws", "Constitutional Law", "Supreme Court of Canada", "Public Property"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive interpretations support the protection of freedom of expression, especially for public and political discourse, viewing municipal restrictions as potentially limiting democratic participation and marginalizing voices." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral legal analysis focuses on the judicial balancing act between municipal regulatory interests (such as public safety and aesthetics) and Charter-protected rights (freedom of expression), emphasizing the legal principles of proportionality and justification under Section 1." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may emphasize the importance of municipal authority to regulate public spaces and maintain order, potentially viewing excessive postering as a nuisance or public safety concern, and expressing caution about broad interpretations of Charter rights impacting local governance." }
+        },
+        "neutral": "The Supreme Court of Canada in *Ramsden v. Peterborough (City)* assessed a municipal by-law banning public postering against the Charter's freedom of expression, ruling on the balance between civic regulation and constitutional rights and the scope of Section 2(b)."
+      }
+    }
+  ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "criminal-1",
+      "id": "toronto-bakeries-hate-crime-criminal",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "MLS Investigates Allegations of Antisemitic Chants Against Israeli Player in Montreal",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/mls-montreal-antisemitism-discrimination-investigation-dor-turgeman",
-      "summary": "Major League Soccer (MLS) has launched an investigation into reports of antisemitic and discriminatory chants directed at Israeli player Dor Turgeman by CF Montr\u00e9al fans during a recent match. The incident highlights concerns about hate speech and discrimination within public sporting events, potentially leading to sanctions under league rules and raising broader questions about public order.",
-      "graph": ["Antisemitism", "Discrimination", "Hate Speech", "Sports", "Montreal", "Public Order", "Investigation"],
+      "source": "thehub.ca",
+      "title": "Toronto Police Link Same SUV to Weekend Attacks on Jewish-Owned Bakeries Amid Rising Antisemitism",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/04/toronto-police-link-same-suv-to-weekend-attacks-on-two-jewish-owned-bakeries/",
+      "summary": "Toronto police are investigating attacks on two Jewish-owned bakeries, believed to be connected by the same suspect vehicle, and are linking them to a pattern of antisemitic incidents, including recent shootings and a terrorism charge related to anti-Israel rallies. Experts warn of rising Jew-hatred and potential foreign-linked networks like those connected to Iran operating in Canada.",
+      "graph": ["Hate Crime", "Antisemitism", "Terrorism", "National Security", "Law Enforcement"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Condemns all forms of hate speech and discrimination in public spaces, emphasizing the need for robust anti-racism education and policies in sports to foster inclusive environments and protect minority groups." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the league's investigative process, the adherence to codes of conduct, and the legal frameworks concerning hate speech, aiming for a fair resolution that upholds sporting integrity and public safety." },
-          "right": { "label": "Conservative Context", "synthesis": "While unequivocally denouncing antisemitism, some may emphasize individual accountability for such actions rather than collective blame, or debate the scope of organizational intervention in fan expressions, balancing free speech with anti-discrimination efforts." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints emphasize the need for robust anti-hate legislation and strong community support for targeted groups, while addressing root causes of extremism and social inequality, and acknowledging the complexities of geopolitical conflicts influencing domestic tensions." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on law enforcement's efforts to investigate and prosecute hate crimes and potential terrorism, stressing the importance of protecting all communities and maintaining public safety through diligent legal channels and collaborative intelligence." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives highlight the threat of radical Islamism and foreign influence on Canadian soil, advocating for stronger national security measures and unequivocal condemnation of antisemitism, while often criticizing perceived governmental leniency or inaction." }
         },
-        "neutral": "Major League Soccer is investigating reports of antisemitic and discriminatory chants allegedly directed at Israeli player Dor Turgeman by fans during a CF Montr\u00e9al game, raising concerns about hate speech at public sporting events."
+        "neutral": "Toronto police are investigating a series of attacks on Jewish-owned businesses, linking them to a broader pattern of antisemitic incidents, including potential foreign-linked threats and domestic extremism, prompting calls for increased security and decisive action against hate."
       }
     },
     {
-      "id": "criminal-2",
+      "id": "edmonton-police-mckee-canlii-criminal",
       "category": "Criminal",
-      "source": "Slaw",
-      "title": "Methodological Nuances in Quantifying Unrepresented Accused in Ontario Courts",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/04/it-depends-on-how-you-ask-the-question-the-true-number-of-unrepresented-accused-in-the-ontario-court-of-justice/",
-      "summary": "A research paper analyzes data from the Ontario Court of Justice (2011-2022) demonstrating that the reported number of unrepresented accused persons varies significantly based on how the data is analyzed (e.g., per appearance vs. per disposed case). It introduces a 'representation pathways' methodology to offer a more precise understanding of legal representation within the provincial criminal court system, highlighting implications for access to justice and court efficiency.",
-      "graph": ["Access to Justice", "Legal Representation", "Ontario Court of Justice", "Criminal Justice System", "Court Data Analysis", "Duty Counsel", "Judicial Efficiency"],
+      "source": "www.slaw.ca",
+      "title": "SCC to Rule on Disclosure of Expunged Police Disciplinary Records in Criminal Trials",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/05/wednesday-whats-hot-on-canlii-july-2026/",
+      "summary": "The Supreme Court of Canada case *Edmonton (Police Service) v. McKee* (2026 SCC 24) addresses the critical issue of disclosing administratively expunged police disciplinary records in criminal proceedings. The central question is whether such records, despite being officially removed from a detective's disciplinary file, must be disclosed to the defense if deemed serious and credibility-relevant by the Crown.",
+      "graph": ["Police Accountability", "Disclosure", "Criminal Procedure", "Credibility", "Supreme Court of Canada"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes that accurate data is crucial for advocating for enhanced legal aid and public defense services to address systemic barriers to justice, ensuring equitable representation for all accused, particularly marginalized groups." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the methodological rigor and implications for empirical research in judicial administration, underscoring the importance of nuanced data interpretation for evidence-based policy making in the criminal justice system." },
-          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the importance of fair trials and legal representation while considering the efficiency and cost-effectiveness of the justice system. May encourage reforms that balance access to justice with fiscal responsibility and streamlined processes." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints prioritize the rights of the accused to a fair trial and full disclosure, arguing that expunged records relevant to officer credibility should always be accessible to ensure transparency and prevent wrongful convictions and police impunity." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral legal analysis navigates the legal principles surrounding police accountability, privacy, disclosure obligations, and the administration of justice, seeking a balance that upholds both the integrity of law enforcement and the fairness of criminal proceedings." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may emphasize the need to protect police officers' privacy and career progression from past, expunged disciplinary actions, arguing that administrative expungement should limit disclosure unless absolutely critical, to maintain police morale and trust in internal processes." }
         },
-        "neutral": "A research paper reveals that the perceived rate of unrepresented accused in the Ontario Court of Justice is highly dependent on the analytical methodology, advocating for a new 'representation pathways' approach for a more accurate assessment of legal access."
+        "neutral": "The Supreme Court case *Edmonton (Police Service) v. McKee* concerns whether police disciplinary records, even after administrative expungement, must be disclosed to the defense in a criminal trial if they are deemed relevant to an officer's credibility."
       }
     },
     {
-      "id": "criminal-3",
+      "id": "canada-financial-crimes-agency-criminal",
       "category": "Criminal",
-      "source": "ABlawg",
+      "source": "www.slaw.ca",
+      "title": "Canada Proposes New Federal Financial Crimes Agency to Combat Fraud",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/05/canadas-proposed-financial-crimes-agency-its-about-time/",
+      "summary": "Canada is proposing to establish a new federal Financial Crimes Agency (Bill C-29) to centralize and enhance investigations into serious and complex financial crimes like money laundering and fraud. This initiative aims to improve the recovery of crime proceeds and align Canada with international best practices, addressing criticisms of the country's past efforts in combating financial illicit activities.",
+      "graph": ["Financial Crime", "Law Enforcement", "Legislation", "Money Laundering", "Fraud"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices support enhanced government oversight and enforcement to combat financial crime, particularly to protect vulnerable individuals and ensure economic justice, advocating for robust public funding and regulatory power to achieve these goals." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis views the creation of a specialized federal agency as a necessary, pragmatic step to modernize Canada's financial crime enforcement, improve inter-agency cooperation, and address a complex, multi-trillion-dollar global problem effectively." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints may support the agency as a means to protect market integrity and investor confidence, but could also raise concerns about potential government overreach, regulatory burden on businesses, or the efficiency of public spending on such initiatives." }
+        },
+        "neutral": "Canada is advancing Bill C-29 to establish a federal Financial Crimes Agency, aimed at enhancing the investigation and recovery of proceeds from serious financial crimes like money laundering and fraud, to centralize national efforts and improve international cooperation."
+      }
+    },
+    {
+      "id": "underscore-wrongful-conviction-criminal",
+      "category": "Criminal",
+      "source": "ablawg.ca",
       "title": "Underscore Error Leads to Wrongful Conviction in Digital Evidence Case",
-      "citation": "August 2026 Tracking Window",
+      "citation": "June 2026 Tracking Window",
       "url": "https://ablawg.ca/2026/08/04/how-an-underscore-sent-an-innocent-man-to-jail/?utm_source=rss&utm_medium=rss&utm_campaign=how-an-underscore-sent-an-innocent-man-to-jail",
-      "summary": "An article exposes the wrongful conviction and 18-month imprisonment of Brandon Klayme, a Canadian man, due to a single underscore error in a social media username during a police investigation involving digital evidence. The Nova Scotia Court of Appeal ultimately overturned the conviction, declaring Klayme 'actually innocent' and highlighting severe institutional failures across police, prosecution, and defense in handling digital evidence.",
-      "graph": ["Wrongful Conviction", "Digital Evidence", "Police Error", "Justice System Failure", "Nova Scotia Court of Appeal", "Forensic Investigation", "Procedural Justice"],
+      "summary": "This article details the wrongful conviction and imprisonment of Brandon Klayme for child sexual offenses, a result of a single underscore difference in a social media username that led investigators to the wrong individual. The case highlights systemic failures within the police, Crown, defense, and trial court in handling digital evidence and ensuring justice.",
+      "graph": ["Wrongful Conviction", "Digital Evidence", "Criminal Justice System", "Police Misconduct", "Judicial Error"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes systemic failures within the criminal justice system, highlighting the vulnerability of individuals to technological errors and advocating for comprehensive reforms, enhanced oversight, and robust safeguards against wrongful convictions." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the breakdown in investigative and judicial processes, underscoring the critical need for meticulous handling of digital evidence, thorough cross-examination, and the vital role of appellate courts in correcting miscarriages of justice." },
-          "right": { "label": "Conservative Context", "synthesis": "While condemning wrongful convictions, this perspective focuses on accountability at all levels of the justice system (police, prosecutors, defense, judiciary) to ensure strict adherence to protocols and prevent future errors through improved training and oversight." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses call for systemic reforms in the criminal justice system to prevent wrongful convictions, emphasizing the vulnerability of individuals, the dangers of overreliance on digital evidence without critical analysis, and the need for greater oversight of police and prosecutorial conduct." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the procedural breakdown in the criminal investigation and judicial process that led to a wrongful conviction, stressing the critical importance of accuracy in evidence handling and the roles of all parties in upholding justice and due process." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints, while condemning the wrongful conviction, might emphasize the importance of individual accountability within law enforcement and legal professions, rather than broad systemic critiques, and advocate for stricter protocols in digital forensics and evidence validation." }
         },
-        "neutral": "A case study reveals a Canadian man's wrongful conviction and imprisonment for 18 months, attributed to a critical error involving a single underscore in digital evidence, which was later rectified by the Nova Scotia Court of Appeal, exposing institutional justice system failures."
+        "neutral": "A detailed case study reveals the wrongful conviction and imprisonment of Brandon Klayme, attributed to a critical error in digital evidence — specifically, a misidentified social media username — exposing systemic failures in the investigative and judicial processes."
       }
     }
   ],
   "immigration": [
     {
-      "id": "immigration-1",
+      "id": "stockwell-day-warns-immigration",
       "category": "Immigration",
-      "source": "The Narwhal",
-      "title": "Migrant Farm Workers Rally for Improved Protections Amid Extreme Heat in Ontario",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/migrant-workers-rally/?utm_source=rss",
-      "summary": "Approximately 50 migrant farm workers and their advocates rallied in Toronto, demanding enhanced protections and access to healthcare, particularly given instances of working through extreme heat. They criticized the Temporary Foreign Worker Program for allegedly failing to safeguard workers, citing reports of several deaths and inadequate access to basic amenities like water, shade, and proper cooling facilities.",
-      "graph": ["Migrant Workers", "Labour Rights", "Temporary Foreign Worker Program", "Workplace Safety", "Healthcare Access", "Extreme Heat", "Ontario", "Human Rights"],
+      "source": "torontosun.com",
+      "title": "Stockwell Day Warns of Mass Migration, Unmanaged Immigration for Canada",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/national/stockwell-day-mass-migration-unmanaged-immigration-ceuta-invasion",
+      "summary": "Former Public Safety Minister Stockwell Day has issued a warning regarding the potential for mass migration and unmanaged immigration in Canada, citing international events as a precursor. He urges Canadians to signal to their elected officials that the country should not be perceived as 'wide open' to uncontrolled immigration, advocating for more stringent immigration policies.",
+      "graph": ["Immigration Policy", "Border Security", "Mass Migration", "National Sovereignty", "Public Safety"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights systemic exploitation within the Temporary Foreign Worker Program, advocating for stronger government regulation, unionization rights, and humanitarian protections for vulnerable migrant labourers, emphasizing their essential role in the economy." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the demands of the rally, the allegations of unsafe working conditions, and the calls for investigation and policy review to ensure that existing labour laws and human rights standards are adequately applied and enforced for temporary foreign workers." },
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the need for worker safety, this perspective might emphasize the economic necessity of the Temporary Foreign Worker Program for agricultural output, cautioning against excessive regulatory burdens that could impact industry viability, and prioritizing efficient program administration." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques often view such rhetoric as fear-mongering, advocating for humane and orderly immigration processes that uphold international obligations and recognize the economic and cultural benefits of diversity, while opposing restrictive policies." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses report on calls for stricter immigration policies and border management, analyzing the public debate and policy considerations surrounding immigration levels, national security, and potential economic and social impacts in Canada." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints strongly advocate for controlled borders, reduced immigration levels, and robust national security, viewing 'mass migration' as a potential threat to national sovereignty, cultural cohesion, and public resources, supporting more restrictive and managed immigration policies." }
         },
-        "neutral": "Migrant farm workers and allies protested in Toronto, advocating for better protections and healthcare, especially regarding extreme heat working conditions, and criticizing the Temporary Foreign Worker Program for alleged failures in safeguarding laborers."
-      }
-    },
-    {
-      "id": "immigration-2",
-      "category": "Immigration",
-      "source": "National Post",
-      "title": "Haitian Migrants Consider Canada as U.S. Temporary Protected Status Ends",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/haitians-eye-canada-as-u-s-temporary-protected-status-ends",
-      "summary": "With the cessation of Temporary Protected Status (TPS) for Haitians in the United States, activists and immigration lawyers report a growing number of former TPS holders exploring migration to Canada. This trend anticipates a potential increase in asylum claims and other forms of immigration applications at the Canadian border, posing new challenges for Canadian immigration and border services.",
-      "graph": ["Haitian Migrants", "Temporary Protected Status (TPS)", "Asylum Seekers", "U.S. Immigration Policy", "Canadian Immigration", "Border Migration", "Humanitarian Aid"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for humanitarian reception of asylum seekers, urging Canada to expand support for those displaced by U.S. policy changes and to ensure fair and efficient processing of their claims, recognizing the ethical imperative to provide refuge." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the demographic and policy implications of shifting migration patterns, focusing on the administrative capacities of Canada's immigration system and the need for organized responses to potential increases in border crossings and asylum requests." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about the capacity and integrity of Canada's immigration and border security systems, advocating for stricter border controls, managed immigration intake, and careful assessment of claims to prevent undue strain on public resources." }
-        },
-        "neutral": "As the United States discontinues Temporary Protected Status for Haitians, many affected individuals are reportedly considering migrating to Canada, potentially leading to an increase in asylum and immigration applications at the Canadian border."
+        "neutral": "Former Public Safety Minister Stockwell Day has issued a public warning about the risks of mass migration and uncontrolled immigration for Canada, urging government action in response to global migration pressures and advocating for clearer, stricter immigration policies."
       }
     }
   ]
