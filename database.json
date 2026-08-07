@@ -1,314 +1,315 @@
 {
   "federalism": [
     {
-      "id": "alberta-data-centres-propaganda-feds",
+      "id": "e331d9c02111d8d3f3f01b3b1850130d",
       "category": "Federalism",
       "source": "rabble.ca",
-      "title": "Alberta Government Promotes Data Centre Development as 'Digital Refineries'",
+      "title": "Ontario Hospitals Face $2.2 Billion Funding Deficit Amidst Staff Cuts",
       "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/politics/canadian-politics/alberta-government-پublishes-pro-data-centre-propaganda/",
-      "summary": "The Alberta government is actively promoting the development of hyperscale AI data centres within the province, framing them as 'digital refineries' to encourage public support and investment, highlighting a provincial economic development strategy that may have broader intergovernmental implications regarding energy and technology infrastructure.",
-      "graph": ["Provincial Policy", "Economic Development", "AI Infrastructure", "Environmental Impact"],
+      "url": "https://rabble.ca/health/ontario-hospitals-have-lost-2-2bn-in-day-to-day-funds/",
+      "summary": "Reports indicate that Ontario hospitals have incurred a $2.2 billion deficit in day-to-day operational funds. Union workers assert that job cuts have intensified the 'hallway medicine' issue, directly contradicting Premier Doug Ford's promise to resolve the problem. This highlights a significant provincial fiscal challenge impacting public healthcare delivery.",
+      "graph": ["Healthcare Funding", "Provincial Policy", "Public Services", "Ontario"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critics on the left often view such provincial promotions as 'propaganda' that downplays potential environmental and social costs associated with energy-intensive data centres, aligning with concerns about corporate influence and resource exploitation." },
-          "center": { "label": "Procedural Context", "synthesis": "From a neutral perspective, this represents a provincial government's strategic effort to attract investment and diversify its economy through technology, emphasizing policy objectives and the administrative processes for industrial development." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints typically support provincial initiatives to foster economic growth and technological infrastructure, viewing data centres as a key component of a modern, competitive economy with a focus on job creation and investment." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the negative impact of reduced funding and job cuts on public healthcare services in Ontario, aligning with a critique of austerity measures and advocating for stronger public investment to address social needs and ensure equitable access to care." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual report of significant funding shortfalls in Ontario hospitals and the observable consequences like 'hallway medicine,' presenting data on provincial fiscal management and public service outcomes." },
+          "right": { "label": "Conservative Context", "synthesis": "Could argue for greater provincial autonomy in healthcare management or question the efficiency of current spending, potentially suggesting private sector involvement or different resource allocation to address budget deficits without necessarily increasing public spending." }
         },
-        "neutral": "The Alberta government is engaged in public relations to promote the development of large-scale AI data centres within its borders, using the 'digital refineries' analogy to build support for provincial economic growth initiatives."
+        "neutral": "Ontario hospitals face a substantial $2.2 billion funding deficit, leading to concerns about service quality and the effectiveness of current provincial healthcare policies."
       }
     },
     {
-      "id": "pipeline-cost-national-interest-feds",
+      "id": "a9010090887ee261e434771508f7ce08",
       "category": "Federalism",
-      "source": "thenarwhal.ca",
-      "title": "Pipeline Support High, but Taxpayer Funding Raises Fiscal Federalism Questions",
+      "source": "rabble.ca",
+      "title": "Carney's Military Spending Under Scrutiny for Impact on National Dreams",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/canadian-pipeline-cost-alberta-west-coast/?utm_source=rss",
-      "summary": "Despite public polling indicating majority Canadian support for new pipelines, primarily for economic diversification, there is widespread reluctance to bear the substantial construction costs. A proposed West Coast pipeline, involving the Alberta and federal governments as potential majority owners, highlights significant fiscal federalism challenges and debates over public funding for large-scale energy infrastructure projects.",
-      "graph": ["Energy Policy", "Infrastructure Funding", "Federal-Provincial Relations", "Public Opinion", "Fiscal Federalism"],
+      "url": "https://rabble.ca/columnists/carneys-military-spending-is-shrinking-our-dreams-as-a-nation/",
+      "summary": "An opinion piece asserts that Prime Minister Mark Carney's increased military spending is detracting from Canada's potential achievements in other areas. It highlights that Canada is already the sixth-largest military spender in NATO, questioning the allocation of resources towards defense at the expense of other national priorities.",
+      "graph": ["Military Spending", "Federal Budget", "National Priorities", "Foreign Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques emphasize the environmental costs and financial risks to taxpayers of new fossil fuel infrastructure, questioning the long-term economic viability and public subsidies in the context of climate action." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the complex economic calculations, the dynamics of public opinion, and the roles of federal and provincial governments in funding major infrastructure, identifying the policy dilemma and financial implications for taxpayers." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives advocate for new pipelines to enhance energy independence, market access, and job creation, often viewing public investment as a necessary measure for national economic benefit and challenging environmental opposition as an impediment to growth." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques increased military spending as a misallocation of public funds, arguing it detracts from social programs, environmental initiatives, and other domestic investments that could benefit Canadians more directly, aligning with a peace-oriented and socially conscious foreign policy." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the factual increase in Canada's military budget under Prime Minister Carney and its ranking within NATO, discussing the economic implications of such allocations and their potential trade-offs against other government spending areas." },
+          "right": { "label": "Conservative Context", "synthesis": "May support increased military spending for national security and international obligations, viewing it as a necessary investment for geopolitical standing or defense capabilities, potentially advocating for efficiency within the military budget rather than reallocating funds to other sectors." }
         },
-        "neutral": "Public support for new pipelines is high due to perceived economic benefits, yet the substantial construction costs lead to debates about potential government ownership and taxpayer burden, as illustrated by the Alberta government's proposal for a West Coast pipeline with federal partnership."
+        "neutral": "Federal military spending under Prime Minister Carney has increased, prompting debate over national priorities and resource allocation given Canada's existing defense commitments."
       }
     },
     {
-      "id": "todd-lewis-sask-senator-tribute-feds",
+      "id": "21727651a1460395781a7d6569123c5e",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "Tributes Pour in for Deceased Saskatchewan Senator Todd Lewis, Agricultural Advocate",
+      "source": "The Narwhal",
+      "title": "Doug Ford Proposes New Canadian Pipeline After Michigan Halts Enbridge Line 5 Tunnel Project",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/friends-reflect-on-death-of-canadian-senator-todd-lewis-9.7296862?cmp=rss",
-      "summary": "Tributes are being paid to the late Senator Todd Lewis of Saskatchewan, a prominent farmer and advocate for the Canadian agricultural sector, who passed away at 65. He is remembered for his impactful leadership, mentorship, and dedication to the 'greater good' in both provincial and national agricultural policy, highlighting the role of federal representatives in specific industry advocacy.",
-      "graph": ["Federal Politics", "Agriculture Policy", "Public Service", "Saskatchewan"],
+      "url": "https://thenarwhal.ca/doug-ford-line-5-new-pipeline/?utm_source=rss",
+      "summary": "Following a Michigan Supreme Court decision that halted Enbridge’s plan to tunnel a section of its Line 5 pipeline under the Great Lakes, Ontario Premier Doug Ford has proposed building a new all-Canadian pipeline, the 'Northern Shield Energy Corridor.' Ford cites the need for energy independence, despite Ontario's growing reliance on American natural gas, raising federal-provincial energy policy and international trade considerations.",
+      "graph": ["Energy Infrastructure", "Inter-provincial Trade", "International Relations", "Environmental Law", "Pipeline Projects", "Michigan Supreme Court"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive voices praise Lewis's contributions to public service and community, especially his advocacy for farmers, underscoring the importance of grassroots representation and support for agricultural workers and rural development." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral observers acknowledge Lewis's significant role in the Senate and his impact on Canadian agriculture, emphasizing his dedication to public service and his ability to bridge provincial and national interests effectively through political channels." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives celebrate Lewis's work as a champion for the agricultural sector and rural communities, upholding the values of individual enterprise, industry representation, and practical contributions to the economy and federal governance." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights environmental risks associated with Line 5 and Ford's new pipeline proposal, emphasizing the need for robust environmental assessments and a shift away from fossil fuel dependency towards sustainable energy, often aligning with Indigenous rights concerns regarding land and water." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the Michigan Supreme Court's decision to vacate Line 5 tunnel approval, prompting Ontario Premier Doug Ford's proposal for a new domestic pipeline, outlining the legal and political developments in cross-border and inter-provincial energy policy." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports Ford's push for a Canadian pipeline to ensure energy security and reduce reliance on foreign decisions, advocating for the economic benefits of resource development and often prioritizing infrastructure projects for job creation and national supply." }
         },
-        "neutral": "Saskatchewan Senator Todd Lewis, a respected agricultural advocate, has passed away at 65, remembered by friends and political leaders for his impactful leadership and dedication to the agricultural sector at both provincial and national levels."
+        "neutral": "The Michigan Supreme Court's recent decision to halt the Enbridge Line 5 tunnel project has spurred Ontario Premier Doug Ford to advocate for an all-Canadian pipeline to secure the province's energy supply, raising questions about energy independence and environmental assessment processes."
       }
     },
     {
-      "id": "green-party-leadership-race-feds",
+      "id": "237c95b6c310f8a846f34e32049c6934",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "Federal Green Party Announces Two Candidates for Leadership Race",
+      "source": "CBC News",
+      "title": "Canada's Unemployment Rate Hits Two-Year Low as 75,000 Jobs Added in July",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/former-green-mp-mike-morrice-run-federal-party-leadership-9.7296529?cmp=rss",
-      "summary": "The Green Party of Canada has announced former MP Mike Morrice and teacher Nira Dookeran as the two approved candidates for its leadership race. The new leader is expected to be chosen in November, following Elizabeth May's earlier announcement to step down.",
-      "graph": ["Federal Politics", "Green Party", "Leadership Race", "Electoral Process"],
+      "url": "https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225?cmp=rss",
+      "summary": "Statistics Canada reports a significant boost in the Canadian economy, with 75,000 new jobs added in July, pushing the unemployment rate down to 6.4 percent—its lowest level in two years. Job gains were distributed across full-time and part-time work, with notable increases in Ontario and British Columbia, particularly in wholesale and retail trade.",
+      "graph": ["Employment Statistics", "Economic Growth", "Labour Market", "Unemployment Rate"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses focus on the opportunity for the Green Party to renew its leadership and strengthen its environmental and social justice platforms, seeking to broaden its appeal and influence in federal politics." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral reporting focuses on the procedural aspects of the Green Party's leadership contest, including candidate qualifications and election timelines, emphasizing the democratic process within a federal political party." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints often frame the leadership race as an internal party matter, potentially highlighting the Green Party's ongoing challenges in federal politics and its electoral viability from a perspective often skeptical of Green policies." }
+          "left": { "label": "Progressive Context", "synthesis": "Welcomes job growth as a positive sign for worker stability but may emphasize the need for continued investment in high-quality, full-time positions and social safety nets, while monitoring wage growth for equitable distribution of economic benefits." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the official Statistics Canada data on job creation and unemployment rates, offering a neutral factual account of the Canadian labour market's performance in July, including sectoral and provincial breakdowns, and expert interpretations." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the robust job growth and low unemployment rate as indicators of a strong and growing economy, attributing success to sound economic policies and potentially advocating for further deregulation or tax cuts to stimulate more private sector growth." }
         },
-        "neutral": "The federal Green Party has officially launched its leadership contest with former MP Mike Morrice and Nira Dookeran confirmed as the two candidates vying to replace current leader Elizabeth May, with results anticipated in November."
+        "neutral": "Canada experienced substantial job growth in July, adding 75,000 positions, which drove the unemployment rate down to a two-year low of 6.4 percent, with gains seen across various sectors and provinces."
       }
     },
     {
-      "id": "un-sikh-activist-protection-feds",
+      "id": "b3e04e0e62d477a3d906180c54157778",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "UN Investigators Urge Canada to Enhance Protection for Threatened Sikh Activist",
+      "source": "CBC News",
+      "title": "Canadians' Climate Change Concerns Rebound Amid Wildfire Season",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/moninder-singh-khalistani-sikh-separatism-threat-un-9.7296045?cmp=rss",
-      "summary": "Five UN special rapporteurs have formally requested that Canada enhance protection for Sikh activist Moninder Singh and his family, who have received multiple 'duty to warn' letters from police regarding assassination threats. The UN highlights concerns about transnational repression by Indian authorities against Sikh activists in Canada, raising questions about Canada's national security, foreign relations, and protection of its citizens.",
-      "graph": ["National Security", "Human Rights", "International Relations", "Sikh Community", "Transnational Repression"],
+      "url": "https://www.cbc.ca/news/politics/climate-change-polling-wildfires-pipeline-9.7298966?cmp=rss",
+      "summary": "Recent polling from Angus Reid Institute and Abacus Data indicates a 50 percent increase in Canadians identifying climate change as a top priority between March and July. This resurgence in public concern is strongly linked to the widespread wildfires and intense heatwaves experienced across the country this summer, influencing public policy discussions.",
+      "graph": ["Climate Change", "Public Opinion", "Wildfires", "Environmental Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive voices emphasize the imperative for Canada to uphold human rights and protect minority activists from foreign interference, viewing the UN's intervention as a necessary call for justice and state accountability to its citizens." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the diplomatic and security challenges faced by the Canadian government in responding to foreign interference and protecting citizens, emphasizing the procedural complexities of international relations and national security protocols." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative views often express concerns about the implications of foreign state activities on Canadian soil, possibly questioning the federal government's efficacy in protecting national sovereignty and citizens, while also being critical of separatist movements' goals." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the urgency of climate action, viewing the increased public concern as a mandate for stronger government intervention and investment in renewable energy and ecological protection, and critiquing past policy inertia." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on polling data showing a measurable increase in public concern about climate change, correlating this trend with recent environmental events like wildfires and heatwaves, and discusses how this issue is competing with other public priorities." },
+          "right": { "label": "Conservative Context", "synthesis": "May acknowledge public concern but advocate for market-based solutions, technological innovation, or adaptive strategies to climate change, while cautioning against policies that could negatively impact economic growth or individual freedoms." }
         },
-        "neutral": "UN investigators have urged the Canadian government to increase protection for Sikh activist Moninder Singh and his family due to credible assassination threats, linking these concerns to alleged transnational repression by Indian authorities and raising national security and foreign relations questions."
+        "neutral": "Public concern regarding climate change has notably increased among Canadians this summer, with recent polling data reflecting a strong correlation between this heightened concern and the widespread experience of wildfires and heatwaves."
       }
     },
     {
-      "id": "carney-pipeline-national-interest-feds",
+      "id": "e427a20c3548edb2f0a14947926b47c0",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "Carney Government Advances West Coast Pipeline as 'National Interest Project'",
+      "source": "CBC News",
+      "title": "Canada Assures UN of 'Robust Action' Against Threats to Sikh Activist",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-moves-to-list-alberta-pipeline-national-interest-9.7295932?cmp=rss",
-      "summary": "The federal government, under Prime Minister Mark Carney, has initiated a 30-day notice period to potentially designate a proposed Alberta West Coast oil pipeline as a 'national interest project' under Bill C-5. This designation could fast-track its approval process, drawing criticism from environmental groups who advocate for due oversight and raising significant inter-provincial and federal policy debates.",
-      "graph": ["Energy Infrastructure", "Federal Legislation", "Environmental Assessment", "Federal-Provincial Relations", "Economic Policy"],
+      "url": "https://www.cbc.ca/news/politics/canada-writes-un-sikh-threats-9.7298499?cmp=rss",
+      "summary": "The federal government has informed the United Nations that it is undertaking 'robust action' to detect, disrupt, and deter credible threats by foreign actors against B.C.-based Sikh activist Moninder Singh. This assurance follows UN investigators urging Canada to enhance protections, highlighting ongoing concerns about foreign interference and transnational repression, including implications from the Hardeep Singh Nijjar assassination case.",
+      "graph": ["National Security", "Foreign Interference", "Sikh Community", "Human Rights", "Diplomacy", "UN"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive groups strongly oppose the designation, arguing it undermines environmental protection and democratic oversight for fossil fuel expansion, directly contradicting climate goals and prioritizing economic interests over ecological sustainability." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral observers report on the federal government's utilization of existing legislation (Bill C-5) to expedite a major infrastructure project, balancing stated economic development goals with procedural requirements and the mechanism for public consultation." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives support the federal government's move to fast-track the pipeline, viewing it as essential for national energy security, economic growth, and market diversification, often criticizing environmental opposition as hindering vital progress." }
+          "left": { "label": "Progressive Context", "synthesis": "Underscores the critical importance of protecting human rights and freedom of expression for activists in Canada, calling for transparent and vigorous investigations into foreign interference, and advocating for stronger measures to safeguard vulnerable communities from transnational repression." },
+          "center": { "label": "Procedural Context", "synthesis": "Details Canada's official communication to the UN regarding its commitment to protecting Sikh activist Moninder Singh from foreign threats, acknowledging the broader context of transnational repression and ongoing investigations into the assassination of Hardeep Singh Nijjar." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for robust national security measures to counter foreign interference and protect Canadian sovereignty, while also potentially calling for a firm diplomatic stance against countries implicated in such threats, ensuring Canada's interests are prioritized." }
         },
-        "neutral": "The Carney government is advancing a process to designate Alberta's proposed West Coast oil pipeline as a 'national interest project,' which would accelerate its approval under Bill C-5, generating both economic support and environmental opposition."
+        "neutral": "The Canadian government has assured the United Nations that it is implementing 'robust action' to counter foreign threats against Sikh activist Moninder Singh in B.C., a response prompted by UN concerns and set against the backdrop of the Hardeep Singh Nijjar assassination case."
       }
     },
     {
-      "id": "canada-us-trade-talks-tariffs-feds",
+      "id": "673f32446ee952b12dfd4621c107293a",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "Canada-U.S. Trade Minister in Washington to 'Intensify' Tariff Talks",
+      "source": "CBC News",
+      "title": "Trump Calls Canadian Leadership 'Nasty' Amid Tariff Threats",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/leblanc-august-meetings-tariffs-9.7295896?cmp=rss",
-      "summary": "Canada-U.S. Trade Minister Dominic LeBlanc is in Washington for renewed trade talks aimed at averting a looming August 19 deadline for new U.S. tariffs on Canadian exports. These intensified discussions, following talks between Prime Minister Carney and President Trump, seek to resolve trade irritants and explore possibilities for a renewed North American free trade agreement, highlighting federal government's international economic policy efforts.",
-      "graph": ["International Trade", "Diplomacy", "Tariffs", "Economic Policy", "Bilateral Relations"],
+      "url": "https://www.cbc.ca/news/politics/trump-canada-nasty-las-vegas-9.7298087?cmp=rss",
+      "summary": "During a speech in Las Vegas, U.S. President Donald Trump repeatedly described Canada and its leadership as 'nasty,' just weeks before a proposed August 19 deadline for new 50 percent tariffs on Canadian exports. Prime Minister Mark Carney responded by characterizing the situation as a 'tough negotiation,' affirming Canada's resolve to defend its workers and businesses.",
+      "graph": ["Canada-US Relations", "Trade Tariffs", "Diplomacy", "International Trade", "Political Rhetoric"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints emphasize the need for fair trade practices and protection of Canadian industries and workers, potentially criticizing U.S. tariff threats as protectionist and highlighting the federal government's role in defending national economic interests." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the diplomatic efforts and negotiation strategies employed by the Canadian government to resolve trade disputes and maintain stable international economic relations, underscoring the complexity of bilateral trade agreements." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives advocate for free trade and reducing barriers to market access, viewing the tariff threats as a challenge to Canadian sovereignty and economic prosperity, and urging robust federal action to secure favourable trade terms." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques Trump's aggressive rhetoric as detrimental to international cooperation and fair trade, emphasizing the need for Canada to uphold its values and protect workers from protectionist policies through multilateral engagement and strategic alliances." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on U.S. President Trump's public denigration of Canadian leadership and impending tariffs, juxtaposed with Prime Minister Carney's diplomatic response, framing the situation as a complex bilateral negotiation with economic and political implications." },
+          "right": { "label": "Conservative Context", "synthesis": "May advocate for a firm stance in trade negotiations with the U.S., emphasizing national economic interests and potentially supporting retaliatory measures if tariffs are imposed, while portraying Canada's leadership as appropriately defending the country's position." }
         },
-        "neutral": "Canada's Trade Minister is engaged in high-level talks in Washington to address impending U.S. tariffs on Canadian goods and to advance broader trade discussions, following an agreement between Prime Minister Carney and President Trump to intensify negotiations."
+        "neutral": "U.S. President Donald Trump's 'nasty' remarks about Canadian leadership and the threat of new tariffs by August 19 reflect escalating trade tensions, to which Prime Minister Mark Carney responded by characterizing it as a 'tough negotiation' where Canada will defend its economic interests."
       }
     },
     {
-      "id": "ford-threatens-alto-rail-feds",
+      "id": "e44d5671d1e43e742a17058d88e07a33",
       "category": "Federalism",
-      "source": "thehub.ca",
-      "title": "Ontario Threatens to Withdraw Alto Rail Support After Federal Airport Blockade",
+      "source": "The Globe and Mail",
+      "title": "Freeland Warns China's New Law Holds 'Dark Kinship' with Putin's Invasion Justifications",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/04/ford-threatens-to-pull-ontarios-support-for-alto-rail-project-after-ottawa-blocks-billy-bishop-expansion/",
-      "summary": "Ontario Premier Doug Ford has threatened to withdraw provincial support for Alto, the federal government's high-speed rail project, in retaliation for Ottawa's decision to block the expansion of Toronto's Billy Bishop Island airport. This escalating dispute underscores significant federal-provincial tensions over major infrastructure development, regulatory processes, and the balance of power in national-building initiatives.",
-      "graph": ["Federal-Provincial Relations", "Infrastructure Projects", "Regulatory Policy", "Intergovernmental Dispute", "Transportation"],
+      "url": "https://www.theglobeandmail.com/politics/article-freeland-taiwan-chinese-law-dark-kinship-putin-invasion-rationale/",
+      "summary": "During a visit to Taiwan, former Deputy Prime Minister Chrystia Freeland cautioned that China's new ethnic unity law bears a 'dark kinship' to Vladimir Putin's rationale for invading Ukraine. She called upon democratic countries to unite and push back against China's actions, underscoring broader concerns about international law and human rights.",
+      "graph": ["Foreign Policy", "China-Taiwan Relations", "International Law", "Human Rights", "Democracy", "Chrystia Freeland"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques might view the federal government's decision on Billy Bishop as an example of excessive proceduralism hindering urban development, while possibly supporting high-speed rail for climate goals, seeing Ford's move as political leverage." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the inter-governmental dispute over infrastructure projects, highlighting the political dynamics and regulatory challenges that can impede national development initiatives and lead to provincial-federal stalemates." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints support provincial autonomy in infrastructure decisions and criticize federal overreach or indecision, viewing Ford's stance as a necessary defense of provincial interests and a push for efficient project approvals and economic growth." }
+          "left": { "label": "Progressive Context", "synthesis": "Views Freeland's statement as a necessary call to action for democratic countries to unite against authoritarianism and protect human rights, advocating for strong diplomatic and economic pressure on China to prevent potential aggressions." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on Chrystia Freeland's diplomatic statements in Taiwan, drawing parallels between a new Chinese law and Russia's invasion of Ukraine, and detailing the call for international solidarity among democracies to challenge potentially aggressive policies." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports strong geopolitical alignment with democratic allies to counter the influence of authoritarian regimes, emphasizing national security and economic interests in pushing back against China, potentially through strategic alliances and trade diversification." }
         },
-        "neutral": "A significant inter-governmental conflict has emerged, with Ontario Premier Doug Ford threatening to retract provincial support for the federal Alto high-speed rail project in response to Ottawa's blockade of the Billy Bishop Island airport expansion, revealing deep tensions over major infrastructure approvals."
+        "neutral": "Former Deputy Prime Minister Chrystia Freeland, speaking in Taiwan, drew a parallel between China's new ethnic unity law and Russia's justification for the invasion of Ukraine, urging democratic nations to challenge Beijing's actions."
+      }
+    },
+    {
+      "id": "673f32446ee952b12dfd4621c107293a_2",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Texas's Economy Matches Canada's, Highlighting Ottawa's Outdated U.S. Diplomatic Strategy",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/06/texass-economy-alone-now-matches-canadas-ottawas-u-s-strategy-hasnt-caught-up/",
+      "summary": "An editorial argues that Canada's diplomatic strategy towards the U.S. is critically outdated, focusing too heavily on Washington while economic and political power has increasingly shifted to state capitals. It advocates for Ottawa to proactively cultivate relationships with governors and state officials, citing the fact that Texas's economy now rivals Canada's entire GDP and Ontario's declining economic standing as key evidence.",
+      "graph": ["Canada-US Relations", "Economic Diplomacy", "Foreign Policy", "Trade Strategy", "Subnational Diplomacy", "Texas Economy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of a coordinated national strategy while also acknowledging the value of subnational engagement, advocating for a holistic approach that protects Canadian interests and promotes progressive trade and environmental policies with U.S. states." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on an editorial critiquing Canada's U.S. diplomatic strategy, detailing the argument for greater engagement with state-level governments due to shifts in economic power, and presenting the proposed policy adjustments." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for a more pragmatic and decentralized approach to U.S. relations, arguing that Canada must adapt its diplomatic efforts to reflect the economic power of individual states. This view prioritizes direct economic ties and influence at the subnational level to advance Canadian prosperity." }
+        },
+        "neutral": "An editorial asserts that Canada's U.S. diplomatic strategy is lagging, advocating for a shift in focus from Washington to state capitals, given the growing economic power of states like Texas, which now rivals Canada's entire economy."
       }
     }
   ],
   "charter": [
     {
-      "id": "caf-chaplains-religious-freedom-charter",
+      "id": "e4210d7d2df40b79366e6b010b9f33ae",
       "category": "Charter",
-      "source": "nationalpost.com",
-      "title": "Opinion: Forcing Religious Neutrality on CAF Chaplains Undermines Spiritual Support",
+      "source": "National Post",
+      "title": "Nova Scotia Judge Rules Homeless Man's Tent Qualifies as 'Accommodation' for Income Assistance",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/brian-dijkema-forcing-religious-neutrality-on-caf-chaplains-robs-troops-of-support",
-      "summary": "An opinion piece argues that Canadian Armed Forces (CAF) policy requiring chaplains to deliver generic 'spiritual reflections' rather than specific denominational prayers infringes on the religious freedom of both chaplains and troops. The author contends that this 'religious neutrality' deprives service members of meaningful spiritual support, implicating Charter Section 2(a) freedom of conscience and religion.",
-      "graph": ["Freedom of Religion", "Canadian Armed Forces", "Religious Neutrality", "Public Institutions", "Chaplaincy"],
+      "url": "https://nationalpost.com/news/nova-scotia-judge-homeless-tent-met-income-assistance-requirements",
+      "summary": "A Nova Scotia judge has issued a ruling determining that a homeless man's tent meets the definition of 'accommodation' for the purposes of qualifying for enhanced income assistance. This decision broadens the interpretation of existing legislation to better reflect the living realities of individuals experiencing homelessness.",
+      "graph": ["Homelessness", "Income Assistance", "Judicial Interpretation", "Social Policy", "Nova Scotia", "Accommodation Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might see the policy as an attempt to ensure inclusivity and avoid imposing specific religious views within a diverse military, while acknowledging the importance of spiritual support in various forms, or critique any state-sponsored religious activity." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the institutional challenges of balancing governmental neutrality, individual religious freedom within a diverse military, and the practical provision of spiritual care, considering the legal and policy implications of these competing values." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives strongly advocate for the protection of traditional religious practices and freedom of conscience within federal institutions like the CAF, criticizing policies that diminish specific religious expression as an overreach of secularism." }
+          "left": { "label": "Progressive Context", "synthesis": "Applauds the judge's compassionate and expansive interpretation, seeing it as a vital step towards recognizing the human rights of homeless individuals and advocating for more inclusive social policies and adequate support for vulnerable populations." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the Nova Scotia judicial decision interpreting 'accommodation' to include a tent for enhanced income assistance eligibility, detailing the legal reasoning and its implications for provincial social assistance programs." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the individual's circumstances, may raise concerns about the precedent set for public assistance criteria and the fiscal implications for provincial budgets, possibly advocating for alternative solutions to homelessness that don't broaden definitions of existing programs." }
         },
-        "neutral": "An opinion piece addresses the Canadian Armed Forces' policy on chaplain services, contending that a mandate for 'religious neutrality' limits specific denominational prayers, thereby potentially impacting the religious freedom and spiritual support available to service members, invoking Charter concerns."
+        "neutral": "A Nova Scotia judge determined that a homeless man's tent satisfies the definition of 'accommodation' for enhanced income assistance eligibility, a ruling that reinterprets provincial regulations to support individuals experiencing homelessness."
       }
     },
     {
-      "id": "one-person-one-vote-debate-charter",
+      "id": "421ff0e657c74230d7b21e86082216fb",
       "category": "Charter",
-      "source": "thehub.ca",
-      "title": "Debate over 'One Person, One Vote' Principle Continues in Canada, Referencing Charter",
+      "source": "National Post",
+      "title": "Opinion: Freedom of Speech vs. Hostile Environment in Anti-Zionist Doctor Case",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/04/one-person-one-vote-its-still-an-open-debate-in-canada/",
-      "summary": "This commentary examines Shopify CEO Tobi Lütke's controversial endorsement of a voting system where vote weight is tied to income tax paid. The article discusses historical arguments for weighted voting, contrasts it with the modern 'one person, one vote' principle, and reviews the Canadian context, including the Charter's influence on voting rights and Supreme Court decisions like *Sauvé*, which established prisoners' voting rights.",
-      "graph": ["Voting Rights", "Electoral System", "Constitutional Law", "Democracy", "Supreme Court"],
+      "url": "https://nationalpost.com/opinion/terry-newman-the-anti-zionist-doctor-who-didnt-know-what-shed-done-wrong",
+      "summary": "An opinion column critically examines an 'anti-Zionist' doctor's conduct within a historically Jewish hospital, arguing that her actions fostered a hostile environment despite claims of ignorance regarding the impact. The piece contrasts this with media narratives, delving into the complexities of freedom of expression versus creating safe and inclusive professional spaces.",
+      "graph": ["Antisemitism", "Freedom of Expression", "Workplace Environment", "Equality Rights", "Professional Conduct"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses vehemently oppose weighted voting, seeing it as an attack on fundamental democratic equality and Charter rights, reinforcing class divisions. They uphold 'one person, one vote' as essential for social justice and inclusive governance." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral observers explore the historical and philosophical debates surrounding voting systems, including arguments for and against 'one person, one vote,' and analyze how the Canadian Charter of Rights and Freedoms has shaped contemporary electoral principles through judicial review." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may express concern about the financial burden of government on taxpayers who contribute disproportionately or highlight historical arguments for property-based voting, while acknowledging the current democratic standard and being critical of judicial activism in expanding voting rights." }
+          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of freedom of speech while acknowledging the need to prevent hate speech and discrimination, and might caution against conflating criticism of a political ideology (Zionism) with antisemitism, stressing the nuances of such distinctions in professional settings." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the tension between freedom of expression and the creation of a hostile environment, particularly concerning expressions related to geopolitical conflicts, in a professional setting like a hospital, discussing the parameters of acceptable discourse and institutional responsibilities." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly condemns actions perceived as antisemitic, emphasizing the necessity of protecting Jewish individuals from harassment and discrimination, and critiques any narrative that victimizes those who create hostile environments under the guise of free speech." }
         },
-        "neutral": "A commentary discusses the concept of weighted voting based on income tax, initiated by a public endorsement, and analyzes its historical context against the established Canadian democratic principle of 'one person, one vote,' referencing the Charter's impact and Supreme Court rulings on voting rights."
+        "neutral": "An opinion piece examines a controversy involving an 'anti-Zionist' doctor in a Jewish hospital, prompting discussion on the balance between freedom of expression and fostering an inclusive, non-hostile professional environment, particularly concerning sensitive geopolitical issues."
       }
     },
     {
-      "id": "ramsdent-v-peterborough-charter",
+      "id": "e6f49733075254929c5096538d58c0c1",
       "category": "Charter",
-      "source": "www.slaw.ca",
-      "title": "SCC Case: Postering Ban vs. Freedom of Expression (Ramsden v. Peterborough)",
+      "source": "The Hub",
+      "title": "Government Survey Finds Antisemitism 'Normalized' on Canadian University Campuses",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/05/wednesday-whats-hot-on-canlii-july-2026/",
-      "summary": "The Supreme Court of Canada case *Ramsden v. Peterborough (City)* (1993 CanLII 60 (SCC)) concerned the constitutional validity of a municipal by-law that prohibited all postering on public property. The Court examined whether this absolute ban infringed on the Charter's guarantee of freedom of expression (s. 2(b)) and if such an infringement could be justified under Section 1 of the Charter.",
-      "graph": ["Freedom of Expression", "Municipal By-laws", "Constitutional Law", "Supreme Court of Canada", "Public Property"],
+      "url": "https://thehub.ca/2026/08/06/antisemitism-normalized-on-canadian-campuses-government-survey-finds-professors-blamed-in-1-in-5-incidents/",
+      "summary": "A national survey commissioned by the federal government reveals that antisemitism is a pervasive and 'normalized' feature of Canadian university life, with 95.7 percent of Jewish students reporting experiencing or witnessing incidents in the past year. The report also highlights that professors were cited as the source of antisemitism in one in five incidents, raising significant concerns about equality rights and institutional responsibility on campuses.",
+      "graph": ["Antisemitism", "University Campuses", "Equality Rights", "Discrimination", "Hate Speech", "Education Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive interpretations support the protection of freedom of expression, especially for public and political discourse, viewing municipal restrictions as potentially limiting democratic participation and marginalizing voices." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral legal analysis focuses on the judicial balancing act between municipal regulatory interests (such as public safety and aesthetics) and Charter-protected rights (freedom of expression), emphasizing the legal principles of proportionality and justification under Section 1." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may emphasize the importance of municipal authority to regulate public spaces and maintain order, potentially viewing excessive postering as a nuisance or public safety concern, and expressing caution about broad interpretations of Charter rights impacting local governance." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for robust institutional responses to antisemitism, emphasizing the need for comprehensive anti-discrimination policies, inclusive education, and protection for marginalized students, while also fostering an environment for critical discourse that is free from hate." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the findings of a national government survey indicating the widespread normalization of antisemitism on Canadian university campuses, detailing the prevalence of incidents and the involvement of faculty members, presenting a neutral overview of the study's conclusions." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses strong condemnation of antisemitism on campuses, advocating for decisive action against faculty members and students involved in such incidents, and emphasizing the importance of freedom from harassment and the protection of Jewish students' safety and dignity." }
         },
-        "neutral": "The Supreme Court of Canada in *Ramsden v. Peterborough (City)* assessed a municipal by-law banning public postering against the Charter's freedom of expression, ruling on the balance between civic regulation and constitutional rights and the scope of Section 2(b)."
+        "neutral": "A government-commissioned survey indicates that antisemitism is a pervasive and normalized issue on Canadian university campuses, with a high percentage of Jewish students reporting incidents and faculty members identified as sources in a significant number of cases."
       }
     }
   ],
-  "indigenous": [],
+  "indigenous": [
+    {
+      "id": "d0498b251ce7c8ce632616f0d1487c67",
+      "category": "Indigenous",
+      "source": "The Narwhal",
+      "title": "Interior Salish Culture Camps Persevere Amidst B.C. Wildfire Season",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/indigenous-culture-camps-bc/?utm_source=rss",
+      "summary": "Amidst the provincial wildfire season in British Columbia, Interior Salish culture camps are continuing, providing 'a safe haven' for Líl̓wat youth. These camps focus on revitalizing cultural practices, facilitating land-based healing and learning, and asserting Indigenous peoples' inherent right to be on their traditional territories despite environmental challenges.",
+      "graph": ["Indigenous Culture", "Land-Based Learning", "Youth Programs", "Wildfires", "Cultural Revitalization", "British Columbia"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Celebrates the resilience and importance of Indigenous culture camps for intergenerational knowledge transfer and community well-being, especially in the face of environmental challenges exacerbated by climate change, advocating for greater support for Indigenous-led initiatives and land rights." },
+          "center": { "label": "Procedural Context", "synthesis": "Documents the operation of Interior Salish culture camps during B.C.'s wildfire season, highlighting their role in cultural revitalization and youth engagement, and noting the practical challenges and adaptations required due to environmental conditions." },
+          "right": { "label": "Conservative Context", "synthesis": "Could acknowledge the cultural significance while potentially emphasizing the need for safety protocols and efficient resource management in wildfire-affected areas, perhaps suggesting partnerships that could enhance camp security or sustainability while respecting traditional practices." }
+        },
+        "neutral": "Interior Salish culture camps continue in British Columbia amidst provincial wildfires, providing vital land-based cultural education and community support for Indigenous youth, while navigating the practical challenges posed by environmental emergencies."
+      }
+    }
+  ],
   "criminal": [
     {
-      "id": "toronto-bakeries-hate-crime-criminal",
+      "id": "cd0b4ed63a4365b211d1c32729c3d43b",
       "category": "Criminal",
-      "source": "thehub.ca",
-      "title": "Toronto Police Link Same SUV to Weekend Attacks on Jewish-Owned Bakeries Amid Rising Antisemitism",
+      "source": "National Post",
+      "title": "Opinion: Police Should Focus on 'Actual Crimes,' Not Social Media Oversight",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/04/toronto-police-link-same-suv-to-weekend-attacks-on-two-jewish-owned-bakeries/",
-      "summary": "Toronto police are investigating attacks on two Jewish-owned bakeries, believed to be connected by the same suspect vehicle, and are linking them to a pattern of antisemitic incidents, including recent shootings and a terrorism charge related to anti-Israel rallies. Experts warn of rising Jew-hatred and potential foreign-linked networks like those connected to Iran operating in Canada.",
-      "graph": ["Hate Crime", "Antisemitism", "Terrorism", "National Security", "Law Enforcement"],
+      "url": "https://nationalpost.com/opinion/cops-have-better-things-to-do-than-police-social-media",
+      "summary": "An opinion piece by Rob Breakenridge argues that police forces, specifically in Edmonton, should reallocate resources from policing social media to investigating 'actual crimes.' The column contends that law enforcement's involvement in online speech constitutes a misuse of resources and distracts from core public safety responsibilities.",
+      "graph": ["Policing", "Freedom of Speech", "Law Enforcement Priorities", "Social Media Regulation", "Criminal Justice"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints emphasize the need for robust anti-hate legislation and strong community support for targeted groups, while addressing root causes of extremism and social inequality, and acknowledging the complexities of geopolitical conflicts influencing domestic tensions." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on law enforcement's efforts to investigate and prosecute hate crimes and potential terrorism, stressing the importance of protecting all communities and maintaining public safety through diligent legal channels and collaborative intelligence." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives highlight the threat of radical Islamism and foreign influence on Canadian soil, advocating for stronger national security measures and unequivocal condemnation of antisemitism, while often criticizing perceived governmental leniency or inaction." }
+          "left": { "label": "Progressive Context", "synthesis": "May support careful consideration of police resources, but also emphasize the importance of addressing online hate speech and harassment, particularly its potential to translate into real-world harm, advocating for a balanced approach that protects vulnerable groups." },
+          "center": { "label": "Procedural Context", "synthesis": "Discusses the debate surrounding police resource allocation between traditional crime investigation and monitoring online speech, considering the legal frameworks for online expression and the practical challenges faced by law enforcement in defining their scope of intervention." },
+          "right": { "label": "Conservative Context", "synthesis": "Argues strongly for police to focus exclusively on tangible crimes, viewing the policing of online speech as a potential overreach, a threat to freedom of expression, and an inefficient use of public safety resources, prioritizing individual liberty over regulating discourse." }
         },
-        "neutral": "Toronto police are investigating a series of attacks on Jewish-owned businesses, linking them to a broader pattern of antisemitic incidents, including potential foreign-linked threats and domestic extremism, prompting calls for increased security and decisive action against hate."
+        "neutral": "An opinion piece contends that police resources should be directed toward investigating traditional crimes rather than policing social media content, raising questions about the appropriate scope of law enforcement in regulating online speech."
       }
     },
     {
-      "id": "edmonton-police-mckee-canlii-criminal",
+      "id": "5f3a0937a0914a29a0f44357c301c278",
       "category": "Criminal",
-      "source": "www.slaw.ca",
-      "title": "SCC to Rule on Disclosure of Expunged Police Disciplinary Records in Criminal Trials",
+      "source": "National Post",
+      "title": "Ontario Killer's Community Monitoring Reduced Despite Cannabis-Psychosis Link Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/05/wednesday-whats-hot-on-canlii-july-2026/",
-      "summary": "The Supreme Court of Canada case *Edmonton (Police Service) v. McKee* (2026 SCC 24) addresses the critical issue of disclosing administratively expunged police disciplinary records in criminal proceedings. The central question is whether such records, despite being officially removed from a detective's disciplinary file, must be disclosed to the defense if deemed serious and credibility-relevant by the Crown.",
-      "graph": ["Police Accountability", "Disclosure", "Criminal Procedure", "Credibility", "Supreme Court of Canada"],
+      "url": "https://nationalpost.com/news/canada/ontario-killer-to-be-less-frequently-monitored-in-community-despite-concerns-about-cannabis-use-linked-to-psychosis",
+      "summary": "An Ontario review board has decided to decrease the frequency of community monitoring for an individual found not criminally responsible for killing, despite documented concerns about his cannabis use being linked to psychosis. This decision raises public safety questions and highlights the complex challenges of managing mental health and substance use within the criminal justice system.",
+      "graph": ["Criminal Justice", "Mental Health Law", "Not Criminally Responsible", "Public Safety", "Cannabis and Psychosis", "Community Monitoring"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints prioritize the rights of the accused to a fair trial and full disclosure, arguing that expunged records relevant to officer credibility should always be accessible to ensure transparency and prevent wrongful convictions and police impunity." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral legal analysis navigates the legal principles surrounding police accountability, privacy, disclosure obligations, and the administration of justice, seeking a balance that upholds both the integrity of law enforcement and the fairness of criminal proceedings." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may emphasize the need to protect police officers' privacy and career progression from past, expunged disciplinary actions, arguing that administrative expungement should limit disclosure unless absolutely critical, to maintain police morale and trust in internal processes." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of rehabilitation and community reintegration for individuals found Not Criminally Responsible, advocating for robust mental health support and treatment programs, while also calling for careful consideration of public safety and harm reduction strategies." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on an Ontario review board's decision to lessen community monitoring for an individual found Not Criminally Responsible, detailing the legal and medical considerations, and the inherent tension between patient autonomy, therapeutic benefit, and public protection." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concern for public safety and potential risks posed by reduced monitoring of a violent offender, particularly given the noted link between cannabis use and psychosis, advocating for a more stringent approach to community supervision and risk assessment." }
         },
-        "neutral": "The Supreme Court case *Edmonton (Police Service) v. McKee* concerns whether police disciplinary records, even after administrative expungement, must be disclosed to the defense in a criminal trial if they are deemed relevant to an officer's credibility."
-      }
-    },
-    {
-      "id": "canada-financial-crimes-agency-criminal",
-      "category": "Criminal",
-      "source": "www.slaw.ca",
-      "title": "Canada Proposes New Federal Financial Crimes Agency to Combat Fraud",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/05/canadas-proposed-financial-crimes-agency-its-about-time/",
-      "summary": "Canada is proposing to establish a new federal Financial Crimes Agency (Bill C-29) to centralize and enhance investigations into serious and complex financial crimes like money laundering and fraud. This initiative aims to improve the recovery of crime proceeds and align Canada with international best practices, addressing criticisms of the country's past efforts in combating financial illicit activities.",
-      "graph": ["Financial Crime", "Law Enforcement", "Legislation", "Money Laundering", "Fraud"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive voices support enhanced government oversight and enforcement to combat financial crime, particularly to protect vulnerable individuals and ensure economic justice, advocating for robust public funding and regulatory power to achieve these goals." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis views the creation of a specialized federal agency as a necessary, pragmatic step to modernize Canada's financial crime enforcement, improve inter-agency cooperation, and address a complex, multi-trillion-dollar global problem effectively." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints may support the agency as a means to protect market integrity and investor confidence, but could also raise concerns about potential government overreach, regulatory burden on businesses, or the efficiency of public spending on such initiatives." }
-        },
-        "neutral": "Canada is advancing Bill C-29 to establish a federal Financial Crimes Agency, aimed at enhancing the investigation and recovery of proceeds from serious financial crimes like money laundering and fraud, to centralize national efforts and improve international cooperation."
-      }
-    },
-    {
-      "id": "underscore-wrongful-conviction-criminal",
-      "category": "Criminal",
-      "source": "ablawg.ca",
-      "title": "Underscore Error Leads to Wrongful Conviction in Digital Evidence Case",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://ablawg.ca/2026/08/04/how-an-underscore-sent-an-innocent-man-to-jail/?utm_source=rss&utm_medium=rss&utm_campaign=how-an-underscore-sent-an-innocent-man-to-jail",
-      "summary": "This article details the wrongful conviction and imprisonment of Brandon Klayme for child sexual offenses, a result of a single underscore difference in a social media username that led investigators to the wrong individual. The case highlights systemic failures within the police, Crown, defense, and trial court in handling digital evidence and ensuring justice.",
-      "graph": ["Wrongful Conviction", "Digital Evidence", "Criminal Justice System", "Police Misconduct", "Judicial Error"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses call for systemic reforms in the criminal justice system to prevent wrongful convictions, emphasizing the vulnerability of individuals, the dangers of overreliance on digital evidence without critical analysis, and the need for greater oversight of police and prosecutorial conduct." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the procedural breakdown in the criminal investigation and judicial process that led to a wrongful conviction, stressing the critical importance of accuracy in evidence handling and the roles of all parties in upholding justice and due process." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints, while condemning the wrongful conviction, might emphasize the importance of individual accountability within law enforcement and legal professions, rather than broad systemic critiques, and advocate for stricter protocols in digital forensics and evidence validation." }
-        },
-        "neutral": "A detailed case study reveals the wrongful conviction and imprisonment of Brandon Klayme, attributed to a critical error in digital evidence — specifically, a misidentified social media username — exposing systemic failures in the investigative and judicial processes."
+        "neutral": "An Ontario review board has reduced the community monitoring frequency for a killer found not criminally responsible, despite documented concerns linking his cannabis use to psychosis, prompting public safety discussions regarding mental health and criminal justice."
       }
     }
   ],
   "immigration": [
     {
-      "id": "stockwell-day-warns-immigration",
+      "id": "c1f6d3a0429141f1752b04c8f5531d2e",
       "category": "Immigration",
-      "source": "torontosun.com",
-      "title": "Stockwell Day Warns of Mass Migration, Unmanaged Immigration for Canada",
+      "source": "The Globe and Mail",
+      "title": "Border Agency Chartered Luxury Private Jets for Foreign National Deportations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/stockwell-day-mass-migration-unmanaged-immigration-ceuta-invasion",
-      "summary": "Former Public Safety Minister Stockwell Day has issued a warning regarding the potential for mass migration and unmanaged immigration in Canada, citing international events as a precursor. He urges Canadians to signal to their elected officials that the country should not be perceived as 'wide open' to uncontrolled immigration, advocating for more stringent immigration policies.",
-      "graph": ["Immigration Policy", "Border Security", "Mass Migration", "National Sovereignty", "Public Safety"],
+      "url": "https://www.theglobeandmail.com/politics/article-border-agency-chartered-luxury-private-jets-to-deport-foreign/",
+      "summary": "The Canada Border Services Agency (CBSA) has reportedly spent nearly $1 million chartering luxury private jets for the deportation of foreign nationals and their transfer to detention centers within Canada. This expenditure raises questions about the cost-effectiveness, transparency, and ethical implications of government practices in immigration enforcement.",
+      "graph": ["CBSA", "Deportation", "Government Spending", "Immigration Enforcement", "Private Jets"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques often view such rhetoric as fear-mongering, advocating for humane and orderly immigration processes that uphold international obligations and recognize the economic and cultural benefits of diversity, while opposing restrictive policies." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses report on calls for stricter immigration policies and border management, analyzing the public debate and policy considerations surrounding immigration levels, national security, and potential economic and social impacts in Canada." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints strongly advocate for controlled borders, reduced immigration levels, and robust national security, viewing 'mass migration' as a potential threat to national sovereignty, cultural cohesion, and public resources, supporting more restrictive and managed immigration policies." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques the use of luxury private jets for deportations as excessive and potentially inhumane, calling for greater accountability in government spending and a review of deportation practices to ensure they are ethical, cost-effective, and respectful of migrants' rights." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the Canada Border Services Agency's expenditure of nearly $1 million on private jet charters for the deportation and transport of foreign nationals, detailing the financial outlay and presenting the information neutrally for public scrutiny." },
+          "right": { "label": "Conservative Context", "synthesis": "May question the efficiency of the spending but support the necessity of effective deportation measures for border security, possibly arguing that the cost is justified if it ensures the swift and secure removal of individuals who are inadmissible to Canada." }
         },
-        "neutral": "Former Public Safety Minister Stockwell Day has issued a public warning about the risks of mass migration and uncontrolled immigration for Canada, urging government action in response to global migration pressures and advocating for clearer, stricter immigration policies."
+        "neutral": "The Canada Border Services Agency expended close to $1 million on chartered private jets for the deportation and internal transport of foreign nationals, prompting scrutiny of government spending and operational choices in immigration enforcement."
       }
     }
   ]
