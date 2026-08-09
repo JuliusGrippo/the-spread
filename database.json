@@ -1,507 +1,141 @@
 {
   "federalism": [
     {
-      "id": "70d2d3a6-b51e-451f-b51f-d2325c814143",
+      "id": "federalism-trade-relations-trump",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada & U.S. Monitor Chinese Research Vessels in Arctic Waters Amid Security Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/china-canada-us-arctic-research-ships-snow-dragons-9.7299939?cmp=rss",
-      "summary": "Canadian and U.S. forces are actively shadowing two Chinese icebreakers, Xue Long and Xue Long 2, operating in Arctic waters off Alaska. Defence experts express growing concern that these 'scientific missions' could be gathering critical undersea data, potentially for tracking submarines or mapping subsea cable networks, thereby challenging Canada's current military capabilities in the region.",
-      "graph": [
-        "Arctic Sovereignty",
-        "National Security",
-        "International Relations",
-        "Defence Policy",
-        "Geopolitics",
-        "Chinese Influence"
-      ],
+      "source": "National Post",
+      "title": "Commentary on Canada-U.S. Trade Relations and Political Discourse",
+      "citation": "April 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/letters-lets-end-this-schoolyard-fight-with-trump",
+      "summary": "This opinion piece, originating as a reader's letter, critiques the 'rank childishness' of the trade 'squabble' between Canada and the U.S., specifically referencing former President Trump. It calls for a more mature approach to international relations and bilateral trade, implying that current political friction negatively impacts Canada's national interests and economic stability.",
+      "graph": ["Canada-U.S. Relations", "Trade Policy", "International Diplomacy", "Political Rhetoric", "Federal Policy Debate"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 25, "center": 40, "right": 35 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Concern for escalating geopolitical tensions in the Arctic, potentially impacting environmental diplomacy and Indigenous rights in the region. Emphasizes international cooperation for peaceful scientific research while upholding sovereignty."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focus on the legal frameworks of Exclusive Economic Zones (EEZ) and international maritime law governing scientific research and surveillance. Emphasizes diplomatic and intelligence-gathering efforts to ensure compliance and protect national interests within established norms."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Highlights the imperative of national sovereignty and strengthening military capabilities to counter foreign intrusions. Views Chinese presence as a direct challenge requiring robust defence spending and a strong alliance with the U.S. to protect strategic Arctic resources and security."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Might argue for a Canadian foreign policy that diversifies trade away from volatile U.S. relations, or that critical engagement on values (e.g., climate, human rights) is more important than avoiding 'squabbles' at all costs." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for stable diplomatic and trade relations for economic predictability. Advocates for pragmatic solutions, de-escalation of rhetoric, and maintaining strong cross-border economic ties through clear policy frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "While critical of the 'schoolyard fight,' a right-leaning perspective would underscore national sovereignty and economic self-interest in trade disputes, advocating for Canada to assert its position effectively or criticizing the current government's handling of the relationship." }
         },
-        "neutral": "The monitoring of Chinese icebreakers by Canadian and U.S. forces in the Arctic underscores growing concerns over dual-use scientific activities, raising questions about national security, resource control, and adherence to international maritime law in strategically vital northern waters."
+        "neutral": "The commentary highlights public frustration with the perceived immaturity in Canada-U.S. trade and political discourse, urging a more constructive and pragmatic approach to bilateral relations."
       }
     },
     {
-      "id": "8c6a0c20-631f-48e0-bb70-84334f5904ef",
+      "id": "federalism-us-customs-impact",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Chief Science Adviser Advocates for Federal Review of Canada's COVID-19 Pandemic Response",
+      "source": "National Post",
+      "title": "U.S. Customs Rules Under Trump Administration Threaten Canadian Export Sector",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/covid-19-response-canada-reflect-inquiry-dean-allison-chief-science-adviser-mona-nemer-9.7300026?cmp=rss",
-      "summary": "Canada's chief science adviser, Mona Nemer, recommends the federal government undertake an apolitical and focused review of its COVID-19 pandemic response. The goal is to learn from diverse public experiences and prepare for future health crises, amidst calls from some Conservative MPs for inquiries focusing on vaccine-related injuries and public trust.",
-      "graph": [
-        "Public Health Policy",
-        "Government Accountability",
-        "Pandemic Preparedness",
-        "Science Advisory",
-        "Federal Governance"
-      ],
+      "url": "https://nationalpost.com/news/trumps-new-u-s-customs-rules-could-upend-canadian-exports",
+      "summary": "A new executive order by U.S. President Donald Trump, designed to tighten customs enforcement and combat trade fraud, is anticipated to pose significant challenges to Canadian exports. These regulations could introduce new complexities and trade barriers, potentially disrupting cross-border supply chains and negatively impacting Canadian industries reliant on access to the U.S. market, necessitating a proactive federal government response.",
+      "graph": ["International Trade", "Customs Regulations", "Canadian Economy", "U.S. Trade Policy", "Export Impact", "Federal Trade Strategy"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 20, "center": 40, "right": 40 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Emphasizes the importance of an equitable, transparent review that addresses systemic vulnerabilities exposed by the pandemic, focusing on social determinants of health and broad public engagement, rather than partisan blame."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Advocates for a structured, evidence-based inquiry focused on policy and operational improvements, maintaining respect for scientific advice and public input. Stresses the necessity of an apolitical process to build consensus for future responses."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Calls for accountability for government overreach and economic impacts, questioning the efficacy of certain measures and seeking to restore individual freedoms. Supports inquiries that address public discontent and economic disruption, potentially including specific focus on vaccine mandates and injuries."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for Canada to lessen its economic dependence on the U.S. by diversifying trade relationships and investing in domestic industrial resilience. Could also highlight the impact of protectionist policies on global economic equity." },
+          "center": { "label": "Procedural Context", "synthesis": "Stresses the importance of diplomatic engagement between the Canadian federal government and U.S. authorities to understand and mitigate the impact of new rules. Focuses on pragmatic negotiations to secure Canadian interests and ensure stable trade flows." },
+          "right": { "label": "Conservative Context", "synthesis": "Calls for the Canadian government to strongly defend Canadian economic interests, potentially through retaliatory measures or by enhancing domestic competitiveness. May criticize past Canadian trade policies for not adequately preparing for such U.S. actions." }
         },
-        "neutral": "Canada's Chief Science Adviser has called for a non-partisan federal review of the COVID-19 response to enhance future pandemic preparedness, highlighting the need to understand varied public sentiments and improve governance mechanisms."
+        "neutral": "New U.S. customs rules, implemented to curb trade fraud under President Trump, are projected to significantly impact Canadian exports, prompting a need for strategic federal government action to safeguard domestic industries and cross-border trade."
       }
     },
     {
-      "id": "c1619e83-7d5a-4e2b-8b5e-141203b57368",
+      "id": "federalism-labour-tariffs-letters",
       "category": "Federalism",
-      "source": "CBC News / Global News",
-      "title": "Canada Considers Concessions on Alcohol, Dairy, and Auto Tariffs to Avert New U.S. Tariffs",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-u-s-booze-bans-trade-negotiations-9.7299529?cmp=rss",
-      "summary": "Ahead of a looming August 19th deadline for new 50% tariffs threatened by U.S. President Trump, Canada is reportedly prepared to make concessions, including ending provincial bans on American alcohol sales and making changes to dairy import quotas, to secure tariff relief and resume CUSMA talks. Dairy farmers, however, are warning the federal government against further concessions that could undermine supply management.",
-      "graph": [
-        "International Trade",
-        "Canada-U.S. Relations",
-        "Tariff Negotiations",
-        "Supply Management",
-        "Provincial Jurisdiction",
-        "Economic Policy"
-      ],
+      "source": "Toronto Sun",
+      "title": "Reader Commentary on U.S. Tariffs, Minimum Wage, and International Labor Standards",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://torontosun.com/opinion/letters/letters-to-the-editor-aug-9-2026",
+      "summary": "A letter to the editor criticizes former U.S. President Trump's new tariffs, which target 'forced labour,' by pointing out perceived hypocrisy given the low federal minimum wage in the U.S. This commentary touches on the ethical dimensions of international trade, the enforcement of labor standards, and the broader impacts of U.S. policy on global economic practices, reflecting public opinion on federal and international economic issues.",
+      "graph": ["International Trade", "Labor Standards", "U.S. Policy Impact", "Tariffs", "Federal Economic Policy", "Public Opinion"],
       "spectrum": {
-        "baseline": {
-          "left": 30,
-          "center": 40,
-          "right": 30
-        },
+        "baseline": { "left": 35, "center": 30, "right": 35 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Emphasizes protecting Canadian industries and workers from aggressive U.S. trade tactics, advocating for fair trade practices and support for sectors like dairy and local alcohol producers, while seeking diplomatic solutions."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on balancing national economic interests with international trade agreements and diplomatic relations. Highlights the complexity of multi-sector negotiations and the need for pragmatic solutions to avoid escalating trade disputes."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Advocates for strong defence of Canadian economic sovereignty and challenging protectionist foreign policies. May prioritize national industry protection (e.g., dairy) but also push for greater market liberalization in other sectors to boost economic competitiveness."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of ethical international trade practices, robust labor protections, and fair wages. Advocates for policies that prevent the exploitation of workers globally and critique corporate practices that undermine living standards." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical implementation and consistency of trade policies and tariffs, evaluating their effectiveness in achieving stated goals like combating forced labor, while balancing national economic interests with international obligations." },
+          "right": { "label": "Conservative Context", "synthesis": "May support tariffs as a tool to protect domestic industries or address unfair trade practices such as forced labor, but could also critique such policies for being overly broad or inconsistent, potentially leading to unintended economic consequences or challenging national sovereignty." }
         },
-        "neutral": "Canada is engaged in sensitive trade negotiations with the U.S. to avert new tariffs, potentially offering concessions on alcohol sales and dairy quotas, which are complicated by provincial jurisdiction and domestic industry concerns regarding supply management."
-      }
-    },
-    {
-      "id": "9d419515-3b91-4d37-9751-a957a0529d3c",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Ontario Premier Ford Urges Federal Government to Extend Gas Excise Tax Holiday",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/ford-carney-excise-tax-holiday-extension-9.7299542?cmp=rss",
-      "summary": "Ontario Premier Doug Ford has formally requested Prime Minister Mark Carney extend the federal gas excise tax holiday, set to expire in September, until at least January 1, 2027. Ford, who made provincial fuel tax cuts permanent, argues the extension is crucial for Canadians facing rising costs and potential new U.S. tariffs. This move highlights ongoing federal-provincial disagreements on fiscal policy and affordability measures.",
-      "graph": [
-        "Fiscal Federalism",
-        "Tax Policy",
-        "Cost of Living",
-        "Provincial Politics",
-        "Energy Policy"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 30,
-          "center": 35,
-          "right": 35
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "While acknowledging affordability concerns, questions the long-term environmental impact of extending fuel tax holidays and advocates for targeted support for vulnerable populations rather than broad-based tax cuts that might benefit corporations more."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Analyzes the fiscal implications of extending tax holidays versus federal revenue generation, considering the impact on national budgets and the coordination challenges of intergovernmental fiscal policy. Focuses on data-driven assessments of economic impact."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly supports permanent tax reductions on fuel as a measure to reduce the cost of living for Canadians, aligning with principles of lower taxation and reduced government intervention in the economy. Criticizes federal carbon pricing and other environmental regulations seen as increasing costs."
-          }
-        },
-        "neutral": "Ontario Premier Doug Ford has requested the federal government extend its temporary fuel excise tax holiday, drawing attention to cross-jurisdictional tax policy and public affordability challenges amidst broader economic pressures."
-      }
-    },
-    {
-      "id": "2f4e3c98-23c8-47e1-85e3-467a91a92e40",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Eighth Federal By-Election Imminent Following Conservative MP Larry Brock's Resignation",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/eighth-federal-byelection-larry-brock-upcoming-exit-9.7299743?cmp=rss",
-      "summary": "Conservative MP Larry Brock's upcoming resignation to join the Crown attorney's office in Brantford, Ontario, will necessitate an eighth federal by-election between August 31 and mid-April. This is the third Conservative MP resignation this summer, impacting the parliamentary landscape and election schedule.",
-      "graph": [
-        "Electoral Process",
-        "Parliamentary Procedure",
-        "Political Representation",
-        "Federal Politics"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Highlights the democratic process of filling vacant seats, potentially examining opportunities for new voices and diverse representation in Parliament. Might critique the reasons for MPs' departures in the context of political climate."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the constitutional and procedural requirements for calling and holding by-elections, ensuring fair and timely democratic representation. Analyzes the impact of multiple vacancies on parliamentary dynamics."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Examines the implications of these resignations for the Conservative party's standing and future electoral strategies. May interpret the departures as reflecting broader political dissatisfaction or strategic maneuvering."
-          }
-        },
-        "neutral": "The impending resignation of Conservative MP Larry Brock will trigger an eighth federal by-election, underscoring the ongoing parliamentary processes for maintaining political representation following departures from the House of Commons."
-      }
-    },
-    {
-      "id": "e2d83a4f-9a00-4b3f-8c3e-8f2c7a1a0d33",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada Sells Retired Hercules Military Aircraft for Conversion into Wildfire Waterbombers",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/hercules-military-aircraft-waterbombers-9.7299899?cmp=rss",
-      "summary": "The Canadian government is selling ten retired CC-130H Hercules transport aircraft to Coulson Aviation, a B.C.-based aerospace company, which will convert them into firefighting waterbombers. This divestment aims to address the global shortage of aerial firefighting capacity amid increasingly severe wildfire seasons, with the first converted aircraft potentially ready by next year.",
-      "graph": [
-        "Defence Procurement",
-        "Public Safety",
-        "Wildfire Management",
-        "Aerospace Industry",
-        "Government Asset Management"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Praises government action to address climate change impacts like wildfires by repurposing military assets, while advocating for increased investment in proactive climate adaptation and community resilience, particularly in vulnerable regions."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Highlights the efficiency of repurposing existing assets for new public safety roles and the benefits of public-private partnerships in addressing national challenges. Focuses on the logistical and contractual aspects of the sale and conversion."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Supports the efficient divestment of old military assets and market-based solutions for public services. May critique past government spending on new procurements and emphasize the importance of strong national defence capabilities and economic opportunities for Canadian companies."
-          }
-        },
-        "neutral": "Canada's federal government is selling ten retired Hercules aircraft to be converted into waterbombers for wildfire suppression, a strategic move to enhance firefighting capacity and repurpose military assets for critical public safety needs."
-      }
-    },
-    {
-      "id": "8f2d5e1b-4f93-4a6c-b2c7-7e9b0d1c8f42",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Jean-Philippe Arseneau Appointed as New Chief of Staff to Finance Minister Champagne",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-finance-minister-francois-philippe-champagne-chief-of-staff/",
-      "summary": "Finance Minister François-Philippe Champagne has appointed Jean-Philippe Arseneau as his new chief of staff. Arseneau returns to Parliament Hill after an eight-year tenure in the private sector, bringing experience back to a key ministerial office.",
-      "graph": [
-        "Government Appointments",
-        "Political Staffing",
-        "Public Administration",
-        "Finance Policy"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Focuses on potential policy directions under the new chief of staff, examining their background for alignment with social and economic justice priorities. May raise questions about private sector influence in government."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Analyzes the implications of the appointment for the functioning of the Finance Ministry, emphasizing the role of experienced personnel in effective governance and policy implementation. Views it as a routine administrative transition."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Scrutinizes the appointment for signs of political patronage or specific ideological leanings. May question the balance between private sector experience and public service commitment, and its potential impact on fiscal policy direction."
-          }
-        },
-        "neutral": "Finance Minister François-Philippe Champagne has named Jean-Philippe Arseneau as his chief of staff, a standard political appointment bringing an individual with prior government and private sector experience to a senior administrative role."
-      }
-    },
-    {
-      "id": "3b2c1d0a-8a7f-4e6c-a9b0-1f2e3d4c5b6a",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Barriers Persist for Interprovincial Sales of Canadian Wine",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/07/canadas-got-great-wine-it-shouldnt-be-this-hard-to-get-our-hands-on-it/",
-      "summary": "Despite a thriving domestic wine industry, Canadian consumers face significant challenges in accessing wines produced in other provinces due to persistent interprovincial trade barriers. The article highlights the frustration of winemakers and sommeliers who advocate for easier cross-border sales within Canada, contrasting with the easier import of foreign wines. This points to ongoing issues in internal trade policy and federal-provincial jurisdiction over alcohol regulation.",
-      "graph": [
-        "Interprovincial Trade",
-        "Economic Federalism",
-        "Alcohol Regulation",
-        "Domestic Industry",
-        "Consumer Access"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 30,
-          "center": 35,
-          "right": 35
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Supports removing interprovincial barriers to foster local economies and ensure equitable access for Canadian producers, while also considering fair labor practices and environmental sustainability within the wine industry."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Analyzes the complex web of provincial liquor board regulations and federal trade agreements. Seeks administrative and legislative reforms to streamline interprovincial commerce while respecting provincial autonomy and public health objectives."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly advocates for eliminating all interprovincial trade barriers as a fundamental principle of a free internal market, promoting economic efficiency, consumer choice, and the growth of Canadian businesses by reducing regulatory burdens."
-          }
-        },
-        "neutral": "The article discusses the persistent difficulties in interprovincial wine sales within Canada, underscoring the impact of regulatory barriers on the domestic wine industry and calling for reforms to ease internal trade."
-      }
-    },
-    {
-      "id": "f5e9d8c7-a4b3-4f0e-9c1d-2b3a4c5d6e7f",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Federal Government Spending Scrutinized via Proactive Disclosure Records",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/07/your-tax-dollars-at-work-16/",
-      "summary": "A regular column, 'Your tax dollars at work,' scrutinizes the federal government's proactive disclosure records, detailing various expenditures including hospitality, travel, and operational costs. Recent disclosures highlighted expenses from a UN ambassador's catered dinner to Defence Minister's travel, aiming to provide transparency on how public funds are utilized.",
-      "graph": [
-        "Government Spending",
-        "Public Accountability",
-        "Transparency",
-        "Public Finance",
-        "Federal Administration"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 30,
-          "center": 35,
-          "right": 35
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Advocates for robust public scrutiny of government spending to ensure funds are allocated equitably and efficiently towards public good programs, and to prevent waste or misuse. Emphasizes accountability for taxpayers and alignment with social priorities."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the mechanisms and standards of proactive disclosure, ensuring compliance with transparency policies and facilitating public oversight. Analyzes spending patterns for administrative efficiency and adherence to budgetary rules."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Demands strict fiscal discipline and significant reductions in government spending, criticizing any perceived extravagance or inefficiency. Uses disclosed expenditures to highlight opportunities for tax cuts and smaller government."
-          }
-        },
-        "neutral": "Regular analysis of federal proactive disclosure records provides public insight into government expenditures, covering diverse areas from diplomatic hospitality to official travel, aiming to foster transparency in public finance."
+        "neutral": "A reader's letter critically examines U.S. tariff policies ostensibly combating 'forced labor' in light of the domestic federal minimum wage, fostering discussion on the ethical consistency of international trade regulations and labor standards."
       }
     }
   ],
   "charter": [
     {
-      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "id": "charter-quebec-2slgbtq-hate",
       "category": "Charter",
-      "source": "National Post (Colby Cosh Opinion)",
-      "title": "Supreme Court to Address Crown Oath vs. Sikh Faith in Charter Challenge",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/colby-cosh-supreme-court-to-decide-which-comes-first-crown-oath-or-sikh-faith",
-      "summary": "The Supreme Court of Canada will hear a case examining the potential conflict between the oath of allegiance to the Crown and the principles of Sikh faith, specifically concerning public office holders. This case will delve into the scope of religious freedom under Section 2(a) of the Charter of Rights and Freedoms and its interaction with state duties and secularism.",
-      "graph": [
-        "Religious Freedom",
-        "Charter Rights",
-        "Supreme Court of Canada",
-        "Oath of Allegiance",
-        "Sikh Faith",
-        "Secularism"
-      ],
+      "source": "CBC News",
+      "title": "Quebec 2SLGBTQ+ Political Candidates Report Escalating Online Hate and Threats",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/montreal/2slgbtq-political-candidates-quebec-9.7300655?cmp=rss",
+      "summary": "Political candidates identifying as 2SLGBTQ+ in Quebec are experiencing a significant increase in online hate messages and threats during the provincial election campaign. This rise in hostility is reported across various political parties, raising concerns that such targeted harassment deters individuals from diverse backgrounds from participating in politics and undermines democratic inclusivity. Incidents include explicit homophobic and transphobic language, with some escalating to threats of physical harm.",
+      "graph": ["Hate Speech", "Online Harassment", "Political Participation", "2SLGBTQ+ Rights", "Quebec Provincial Election", "Equality Rights", "Freedom of Expression"],
       "spectrum": {
-        "baseline": {
-          "left": 40,
-          "center": 30,
-          "right": 30
-        },
+        "baseline": { "left": 40, "center": 30, "right": 30 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Emphasizes the protection of religious minorities and the expansive interpretation of religious freedom under the Charter, ensuring individuals can uphold their faith without undue burden when serving in public capacities, promoting inclusive public service."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on judicial interpretation of Charter Section 2(a), balancing religious freedom with the obligations of public office and the principle of state neutrality. Seeks a legal framework that accommodates diverse beliefs while maintaining institutional integrity."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Prioritizes the tradition and significance of the Crown oath as a symbol of loyalty to the state and its institutions. May emphasize the importance of a common civic identity and the limitations of religious accommodation in public service to maintain secular governance."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the systemic barriers and discrimination faced by 2SLGBTQ+ individuals in political spheres. Advocates for robust hate speech laws, digital platform accountability, and educational initiatives to foster inclusive democratic participation and protect equality rights." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and administrative challenges of balancing freedom of expression with protection from hate speech and threats. Calls for clear guidelines, effective enforcement by authorities and social media platforms, and non-partisan efforts to ensure safe political discourse." },
+          "right": { "label": "Conservative Context", "synthesis": "While condemning direct threats, some might emphasize broad interpretations of freedom of speech, questioning the extent to which online criticism, even if offensive, should be legally restricted. Focus might be on personal resilience or the need for vigorous debate in politics." }
         },
-        "neutral": "The Supreme Court of Canada is poised to rule on a case involving the balance between the oath to the Crown and Sikh religious principles, a decision that will clarify the scope of religious freedom under the Charter in the context of public service."
+        "neutral": "A significant rise in online hate and threats targeting 2SLGBTQ+ political candidates in Quebec during the provincial election highlights ongoing challenges to democratic inclusivity and the protection of equality rights under the Charter."
       }
     },
     {
-      "id": "e3e8f9d0-c1d2-4b3c-9a0f-1e2d3c4b5a6b",
+      "id": "charter-campus-antisemitism-oversight",
       "category": "Charter",
-      "source": "The Hub (Editorial Board)",
-      "title": "Critique of Canadian Firms' DEI Policies and Identity-Based Hiring Incentives",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/07/88-percent-of-canadas-biggest-firms-run-the-incentives-that-produced-the-arday-fraud/",
-      "summary": "An editorial critiques the widespread adoption of Diversity, Equity, and Inclusion (DEI) incentive structures within 88% of Canada's largest firms and public sector. Citing the UK's Jason Arday plagiarism scandal as a cautionary tale, the piece argues these policies reward identity over merit, potentially creating conditions that undermine academic and professional standards and raise questions about equitable opportunity and meritocracy, implicating principles foundational to the Charter's equality rights (Section 15).",
-      "graph": [
-        "Diversity Equity Inclusion",
-        "Hiring Practices",
-        "Meritocracy",
-        "Corporate Governance",
-        "Public Sector Policy",
-        "Equality Rights",
-        "Charter Implications"
-      ],
+      "source": "The Hub",
+      "title": "Federal Survey Reveals Pervasive Campus Antisemitism, Calls for External University Oversight",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/09/95-7-of-jewish-post-secondary-students-in-canada-dealt-with-antisemitism-last-year-canadian-universities-have-forfeited-the-right-to-police-themselves/",
+      "summary": "A federally commissioned survey reveals that nearly all Jewish post-secondary students in Canada experienced or witnessed antisemitism last year, with faculty and staff implicated in a substantial number of incidents. The article argues that Canadian universities have demonstrably failed in self-regulating antisemitism, citing low satisfaction with institutional responses and a sense of 'institutional betrayal.' It advocates for direct governmental intervention and external oversight, potentially linking public funding to university performance in combating antisemitism, drawing parallels to policies in Australia and the U.S., and noting ongoing lawsuits against institutions like McGill University.",
+      "graph": ["Antisemitism", "Campus Environment", "Freedom of Expression", "Hate Speech", "University Governance", "Minority Rights", "Human Rights Law", "Educational Policy"],
       "spectrum": {
-        "baseline": {
-          "left": 20,
-          "center": 30,
-          "right": 50
-        },
+        "baseline": { "left": 20, "center": 30, "right": 50 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Supports DEI initiatives as essential for addressing systemic inequities and promoting substantive equality, viewing such critiques as efforts to undermine progress towards a more representative and inclusive society. Emphasizes the importance of diverse perspectives and equitable access."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Examines the legal and operational implementation of DEI policies, focusing on their effectiveness, measurable outcomes, and compliance with anti-discrimination laws. Seeks data-driven adjustments to ensure fairness and prevent unintended consequences without inherently opposing DEI goals."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly critiques DEI frameworks, arguing they lead to preferential treatment based on identity rather than individual merit, potentially creating reverse discrimination and undermining institutional integrity. Advocates for merit-based systems and colorblind policies in line with individual equality before the law."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Acknowledges the severity of antisemitism as a form of hate and systemic discrimination. May advocate for comprehensive anti-racism education, inclusive campus policies, and robust internal complaint mechanisms, while potentially expressing caution about government overreach into academic autonomy." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for universities to implement effective and transparent policies and procedures to ensure a safe, inclusive learning environment for all students, consistent with human rights laws and academic freedom principles. Advocates for clear federal/provincial guidelines and independent oversight to ensure accountability." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes university administrations for perceived failures in protecting Jewish students, viewing it as a breakdown of institutional responsibility or a symptom of ideological bias within academia. Advocates for decisive governmental action, including funding conditionalities or legislative mandates, to enforce stricter codes of conduct and accountability for faculty and staff." }
         },
-        "neutral": "An editorial criticizes the prevalence of DEI incentive structures in Canadian firms and public institutions, suggesting they prioritize identity over merit and citing a UK academic scandal as an example, raising a public debate on the nature of equitable hiring and promotion practices."
+        "neutral": "A federal survey reports pervasive antisemitism on Canadian post-secondary campuses, leading to calls for enhanced external government oversight and accountability, including potential funding linkages, given perceived failures in university self-regulation."
       }
     }
   ],
-  "indigenous": [
-    {
-      "id": "0f1e2d3c-4b5a-6c7d-8e9f-a0b1c2d3e4f5",
-      "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Wildfire Evacuation Impacts Okanagan Indian Band, Highlighting Syilx Resilience",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/bc-okanagan-bradley-creek-wildfire/?utm_source=rss",
-      "summary": "A personal account details the rapid evacuation of members of the Okanagan Indian Band due to the Bradley Creek wildfire, which destroyed homes and disrupted community life. The narrative emphasizes the profound impact of the disaster, alongside the resilience drawn from Syilx teachings on grief and belonging, illustrating the distinct cultural and community-level effects of environmental crises on Indigenous peoples.",
-      "graph": [
-        "Indigenous Community",
-        "Wildfire Impact",
-        "Climate Change",
-        "Environmental Justice",
-        "Community Resilience",
-        "Syilx Culture"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 45,
-          "center": 30,
-          "right": 25
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Highlights the disproportionate impact of climate change and environmental disasters on Indigenous communities, advocating for enhanced support, self-determination in land management, and recognition of Indigenous ecological knowledge in climate strategies. Emphasizes the need for systemic change and reconciliation."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the immediate and long-term emergency response, evacuation procedures, and reconstruction efforts. Considers the role of government and emergency services in supporting affected communities, including coordination with Indigenous leadership."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Emphasizes practical disaster relief and community recovery efforts, focusing on property protection and efficient resource deployment. May view the event as a natural disaster requiring effective, localized responses rather than broader systemic or climate policy changes."
-          }
-        },
-        "neutral": "Members of the Okanagan Indian Band experienced significant displacement and loss due to the Bradley Creek wildfire, illustrating the direct impact of environmental disasters on Indigenous communities and highlighting their cultural resilience amidst crisis."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "b3c4d5e6-f7a8-9b0c-1d2e-3f4a5b6c7d8e",
+      "id": "criminal-quebec-family-court-jurisdiction",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Paul Brandt Advocates for Stricter Justice Measures Against Child Predators in Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/longreads/paul-brandt-justice-sex-trafficking",
-      "summary": "Alberta music star Paul Brandt is using his platform to advocate for tougher justice measures for child predators in Canada. He argues that Canada is 'dropping the ball' on this issue, calling for policy changes to enhance protections for children and ensure more severe consequences for offenders, reflecting a public call for reform within the criminal justice system.",
-      "graph": [
-        "Criminal Justice Reform",
-        "Child Protection",
-        "Sex Trafficking",
-        "Sentencing Policy",
-        "Public Advocacy"
-      ],
+      "source": "Slaw",
+      "title": "Quebec Court Rules on Unified Family Court Jurisdiction in Parental Authority Cases",
+      "citation": "July 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/09/summaries-sunday-soquij-639/",
+      "summary": "A Quebec Superior Court decision clarifies jurisdictional boundaries concerning family law matters following the establishment of the Unified Family Court (TUF). The Superior Court can issue safeguarding orders for children born before June 30, 2025, but not for those born after this date, as the TUF holds exclusive jurisdiction for children born to non-married cohabiting parents after that cutoff. The case involves a mother seeking custody and support due to the father's violent behaviour and possession of child pornography, highlighting the complexities of court competence when parents have children born both before and after the TUF's expanded jurisdiction.",
+      "graph": ["Family Law", "Court Jurisdiction", "Quebec Superior Court", "Unified Family Court (TUF)", "Child Custody", "Child Support", "Parental Authority", "Civil Procedure", "Child Pornography Possession"],
       "spectrum": {
-        "baseline": {
-          "left": 25,
-          "center": 35,
-          "right": 40
-        },
+        "baseline": { "left": 30, "center": 50, "right": 20 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Supports comprehensive approaches to child protection that include prevention, victim support, and addressing root causes of crime, in addition to carceral measures. May advocate for restorative justice and rehabilitation alongside punishment."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Examines current criminal code provisions, sentencing guidelines, and judicial discretion regarding child sexual offenses. Considers the efficacy of proposed reforms in deterring crime and ensuring justice, based on legal precedents and evidence-based policy analysis."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Strongly advocates for enhanced penalties, longer sentences, and a firm stance against child predators, emphasizing public safety and deterrence. Calls for policy changes that prioritize victim safety and ensure accountability through punitive measures."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of a child-centered approach in family law, ensuring that jurisdictional complexities do not impede swift and effective protection for children in abusive situations. Could advocate for streamlined, more accessible family courts for all parents." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the proper application and interpretation of civil procedure and jurisdictional rules following the introduction of the Unified Family Court. Emphasizes judicial clarity and consistency in assigning competence to ensure efficient legal processes in complex family cases." },
+          "right": { "label": "Conservative Context", "synthesis": "Might express concerns about government overreach in family matters or the complexity of jurisdictional splits. Could advocate for clear, predictable legal structures that respect parental rights while ensuring child safety, perhaps critiquing the bureaucratic layers." }
         },
-        "neutral": "Alberta music star Paul Brandt is publicly advocating for reforms to Canada's criminal justice system, specifically calling for tougher measures and sentencing for child predators to enhance child protection."
+        "neutral": "A Quebec Superior Court decision delineates the jurisdictional division between the Superior Court and the Unified Family Court (TUF) for family law matters, particularly concerning safeguarding orders and child support for children born before and after the TUF's establishment, in a case involving allegations of parental violence and child pornography."
+      }
+    },
+    {
+      "id": "criminal-mandatory-lawyer-oath-appeal",
+      "category": "Criminal",
+      "source": "Slaw",
+      "title": "Supreme Court Granted Leave to Appeal on Constitutionality of Mandatory New Lawyer Oath",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/09/summaries-sunday-supreme-one-liners-45/",
+      "summary": "The Supreme Court of Canada has granted leave to appeal in a case concerning the constitutionality of a new mandatory lawyer oath in Alberta (His Majesty the King in Right of Alberta v. Wirring). This case will examine the legal validity and implications of requiring lawyers to take a specific oath as a condition of practice, raising questions about freedom of expression, professional autonomy, and potentially religious or conscientious objections.",
+      "graph": ["Constitutional Law", "Legal Professions", "Freedom of Expression", "Professional Regulation", "Alberta Law", "Supreme Court of Canada"],
+      "spectrum": {
+        "baseline": { "left": 35, "center": 40, "right": 25 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May argue the oath could infringe on individual freedoms, including freedom of conscience or belief, for lawyers whose personal or professional ethics conflict with the required statement. Advocates for diverse legal representation and against compelled speech." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial review of the legislative power to impose professional oaths, examining whether the oath serves a legitimate public interest in regulating the legal profession and if it adheres to constitutional limits, including Charter rights and principles of natural justice." },
+          "right": { "label": "Conservative Context", "synthesis": "Might support the state's right to prescribe oaths for professions to ensure fidelity to legal principles, the Crown, or public service, viewing it as a measure to uphold the integrity and foundational values of the legal system. May prioritize order and tradition in professional conduct." }
+        },
+        "neutral": "The Supreme Court of Canada has granted leave to appeal a case challenging the constitutionality of a mandatory new lawyer oath in Alberta, setting the stage for a significant ruling on professional regulation and Charter rights."
       }
     }
   ],
