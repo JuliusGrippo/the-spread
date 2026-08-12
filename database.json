@@ -1,350 +1,256 @@
 {
   "federalism": [
     {
-      "id": "fed-001",
+      "id": "2d8f6b7c-a1d3-4e0f-9f7b-2c0e8a3d5f1b",
+      "category": "Federalism",
+      "source": "The Narwhal",
+      "title": "Alberta Landowners Contest Fracking Water Use Amid Drought Concerns",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/alberta-central-landowners-fracking-water/?utm_source=rss",
+      "summary": "Alberta landowners, particularly ranchers in the Blindman River watershed, are actively opposing the extensive water usage by oil and gas companies for fracking, citing concerns over drought conditions and aquifer depletion. The newly formed Blindman River Watershed Society challenges provincial regulators and companies, emphasizing a perceived lack of trust in provincial monitoring and unfulfilled industry promises regarding water sourcing during high-flow periods.",
+      "graph": ["Environmental Policy", "Resource Management", "Provincial Governance", "Fracking", "Water Rights", "Community Activism", "Alberta"],
+      "spectrum": {
+        "baseline": { "left": 60, "center": 20, "right": 20 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes environmental protection, indigenous rights, community sovereignty over natural resources, and criticizes corporate influence on regulatory bodies. Advocates for stricter environmental regulations and accountability for industrial impact on local ecosystems and livelihoods." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative processes of environmental regulation, the effectiveness of provincial oversight, and the legal frameworks for resource allocation. Highlights the challenges of balancing economic development with environmental stewardship and stakeholder consultation." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes economic development, energy independence, and efficient resource extraction. May view environmental regulations as burdensome to industry and economic growth, advocating for market-driven solutions and minimal government intervention." }
+        },
+        "neutral": "Alberta landowners are challenging the water consumption practices of oil and gas companies for fracking operations, raising concerns about environmental sustainability and the efficacy of provincial regulatory oversight."
+      }
+    },
+    {
+      "id": "8e7c1a2b-3d4f-5e6a-7b8c-9d0e1f2a3b4c",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada-U.S. Trade Minister Engages in Intensive Tariff Negotiations Ahead of Key Deadline",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/dominic-leblanc-greer-washington-meeting-three-9.7302809?cmp=rss",
-      "summary": "Canada-U.S. Trade Minister Dominic LeBlanc is meeting with U.S. Trade Representative Jamieson Greer for the third time in as many weeks in Washington, D.C. The high-stakes discussions aim to avert new 50% U.S. tariffs on Canadian goods, including alcohol and hockey sticks, set for an August 19 deadline. Canada is also seeking relief from existing sectoral tariffs on steel, aluminum, lumber, and autos, and an extension of the Canada-United States-Mexico Agreement (CUSMA) which the Trump administration declined to renew in July. Key trade irritants raised by the U.S. include Canada's retaliatory measures like the removal of U.S. alcohol from provincial shelves and alleged discrimination against U.S. motor vehicles and dairy.",
-      "graph": ["Canada-U.S. Relations", "Trade Policy", "Tariffs", "CUSMA", "Diplomacy", "Economic Policy"],
+      "title": "RCAF's First New Refuelling Jet Delayed Until Late 2027, Impacting Arctic Defence",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/airbus-330-air-tanker-rcaf-fleet-9.7303938?cmp=rss",
+      "summary": "The Royal Canadian Air Force (RCAF) faces a delay in receiving its first new Airbus A330 air tanker, now expected in late 2027. This delay impacts the modernization of the air force's fleet, crucial for refuelling fighter jets and enhancing Canada's continental defence capabilities, particularly in the Arctic. The broader $3.6 billion procurement includes five used and four new A330s, with some used aircraft already in service for transport.",
+      "graph": ["Defence Procurement", "Royal Canadian Air Force", "Arctic Sovereignty", "Military Modernization", "Federal Spending", "Logistics"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 60, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "From a progressive viewpoint, these negotiations underscore the need for Canada to diversify trade relations beyond the U.S. and to protect domestic industries and workers from capricious foreign policy. Emphasis would be on a fair trade agenda that prioritizes social and environmental standards, rather than solely market access. The trade war is seen as damaging to global cooperation." },
-          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis focuses on the procedural aspects of international trade negotiations, highlighting the complex diplomatic efforts to manage bilateral economic disputes. The frequent meetings signal urgency and commitment from both sides to find a resolution, emphasizing the importance of established trade frameworks like CUSMA. The process involves balancing national economic interests with international agreements and political realities." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would emphasize protecting national economic sovereignty and asserting Canadian interests against protectionist measures. Critiques might focus on the federal government's negotiation strategy, advocating for stronger reciprocity or faster resolution to reduce uncertainty for Canadian businesses. The desire for CUSMA renewal aligns with promoting stable market access and reducing government intervention in trade flows." }
+          "left": { "label": "Progressive Context", "synthesis": "May question the allocation of significant defence spending, advocating for greater transparency and oversight. Could raise concerns about the environmental impact of military operations and the broader implications of militarization in the Arctic, preferring diplomatic or non-military solutions." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the logistics, contractual obligations, and operational timelines of defence procurement. Emphasizes the technical requirements for national defence, the efficiency of the acquisition process, and the strategic importance of military capabilities for continental security." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the critical need for a strong military and timely acquisition of defence assets to protect national interests and sovereignty, particularly in strategic regions like the Arctic. May criticize delays as a failure of government efficiency and a threat to national security readiness." }
         },
-        "neutral": "Canadian and U.S. trade officials are engaged in critical negotiations to address escalating tariffs and the potential non-renewal of CUSMA, with a primary goal of resolving trade irritants and securing economic stability ahead of an impending U.S. tariff deadline."
+        "neutral": "The Royal Canadian Air Force's acquisition of new Airbus A330 refuelling jets is experiencing delays, with the first delivery anticipated in late 2027, affecting planned operational enhancements for continental defence."
       }
     },
     {
-      "id": "fed-002",
+      "id": "1f3a5c7d-9b0e-2f4a-6b8c-0d2e4f6a8b0c",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Cabinet Secrecy Battle Looms Over $2.3 Billion Military Satellite Contract Amid Conflict of Interest Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/satellites-carney-military-arctic-telesat-9.7302281?cmp=rss",
-      "summary": "Federal Conservatives are demanding full transparency on a $2.3-billion military satellite contract awarded to Telesat, citing concerns over a potential conflict of interest due to Prime Minister Mark Carney's longstanding friendship with Telesat's CEO, Daniel Goldberg. The opposition is calling for the public disclosure of the contract terms and the decision-making process, including safeguards implemented to screen the Prime Minister from the decision. The government and Telesat maintain the deal was handled rigorously at arm's length. This demand sets the stage for a significant political battle over cabinet confidentiality and document access in Parliament this fall.",
-      "graph": ["Federal Procurement", "Cabinet Secrecy", "Conflict of Interest", "Political Accountability", "Arctic Security", "Military Modernization"],
+      "title": "Canadian Armed Forces Tests Drone Platforms with Manufacturers in Ottawa Valley",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/federal-drone-testing-event-canada-9.7304349?cmp=rss",
+      "summary": "The Canadian Armed Forces is hosting the 'Red Cobalt Uncrewed Systems Accelerator' event in the Ottawa Valley, collaborating with Canadian drone manufacturers to test advanced drone technologies in real-world scenarios. This initiative, held at a NATO test centre, aims to rapidly integrate new uncrewed platforms into military operations, drawing lessons from modern conflicts like the Ukraine war to enhance innovation and defence capabilities.",
+      "graph": ["Defence Technology", "Canadian Armed Forces", "Drone Warfare", "Military Innovation", "NATO", "Federal Procurement"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 25, "center": 50, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely support calls for transparency and accountability in government contracts, especially when large sums of public money are involved and potential conflicts of interest arise. Emphasis would be on ethical governance and ensuring public trust, advocating for robust oversight mechanisms to prevent cronyism and ensure fair processes." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the established legal and parliamentary procedures governing government contracts, cabinet confidentiality, and conflict of interest rules. It would examine whether existing safeguards were properly applied and whether the process adhered to standard procurement practices. The debate would center on the balance between operational secrecy and democratic accountability." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely champion transparency as a core principle of good governance, particularly when questioning the actions of the ruling party. They would focus on the potential for government overreach or lack of fiscal prudence, arguing that public disclosure is essential to ensure taxpayer money is spent wisely and without impropriety, aligning with principles of smaller, more accountable government." }
+          "left": { "label": "Progressive Context", "synthesis": "May raise ethical concerns about autonomous weapons systems, the proliferation of military technology, and potential civilian impact. Could advocate for greater transparency and public debate on military technology procurement and deployment." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the strategic necessity of modernizing defence capabilities, the technical evaluation of new systems, and the efficiency of collaboration between military and industry. Emphasizes the importance of rigorous testing and integration for effective defence operations." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports investment in cutting-edge defence technology to maintain national security and military advantage. Advocates for streamlined procurement processes and close industry partnerships to ensure the armed forces are well-equipped against evolving threats." }
         },
-        "neutral": "A dispute has emerged over a $2.3 billion military satellite contract, with the opposition demanding transparency and details on conflict of interest safeguards due to the Prime Minister's connection to the contracting company's CEO, setting up a clash over cabinet confidentiality."
+        "neutral": "The Canadian Armed Forces is conducting a drone testing event in the Ottawa Valley with domestic manufacturers, aiming to accelerate the adoption of uncrewed systems for modern defence applications."
       }
     },
     {
-      "id": "fed-003",
+      "id": "3c5e7a9b-1d2f-3e4a-5b6c-7d8e9f0a1b2c",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "House of Commons Declares MP Mike Dawson Cannot Refuse Mandated Salary Increase",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/miramichi-mp-mike-dawson-pay-raise-9.7302006?cmp=rss",
-      "summary": "Miramichi-Grand Lake Conservative MP Mike Dawson's attempt to legally refuse an $8,800 annual salary increase has been denied by the House of Commons. In a Federal Court affidavit, House clerk Eric Janse stated that, by law, all Members of Parliament must be paid the amounts prescribed by the Parliament of Canada Act, including annual adjustments linked to private-sector salary hikes. Allowing an MP to decline the raise would be illegal and administratively inconvenient. Dawson, who has been donating his raise to charity, believes it is inappropriate to accept an increase while many Canadians face cost-of-living challenges.",
-      "graph": ["Parliamentary Administration", "MP Salaries", "Public Finance", "Legislative Compliance", "Judicial Review", "Political Ethics"],
+      "title": "CUSMA Breakdown Risks Significant Job Losses and Economic Decline, Report Warns",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/business/trade-renegotiation-impact-report-9.7303374?cmp=rss",
+      "summary": "A report by Oxford Economics for the Canadian American Business Council indicates that a failure to renegotiate the Canada-U.S.-Mexico Agreement (CUSMA) could lead to substantial economic repercussions, including the loss of 102,000 Canadian jobs and a $271 billion CAD hit to Canada's GDP by 2035. The findings underscore the critical importance of a successful trade deal to avoid widespread economic disruption amidst ongoing tariff threats.",
+      "graph": ["Trade Policy", "CUSMA", "Canada-US Relations", "Economic Impact", "Tariffs", "International Trade", "Federal Policy"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 15, "center": 60, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views might sympathize with the MP's motivation to refuse a raise during economic hardship, framing it as a disconnect between political elites and ordinary citizens. However, it also raises questions about systematic wage-setting for public officials and whether such decisions should be more transparent or responsive to public sentiment rather than rigid legal formulas." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis emphasizes the legal and administrative necessity of adhering to established parliamentary statutes regarding MP remuneration. The House of Commons' position underscores the principle of rule of law and the practical challenges of individual exemptions within a standardized legislative framework. The judicial review process will determine the legality of the House's interpretation." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might support the MP's stand against a pay raise during economic difficulties, aligning with fiscal prudence and accountability to taxpayers. Criticism could be directed at the system that automatically grants raises regardless of economic conditions or public sentiment, suggesting a need for greater discretion or a revised formula for public office holder compensation." }
+          "left": { "label": "Progressive Context", "synthesis": "May highlight the vulnerability of workers and communities to international trade disputes, advocating for policies that protect jobs and provide social safety nets. Could also question the equity and environmental impacts of free trade agreements." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic data, report methodologies, and the implications for trade policy and negotiations. Focuses on the objective assessment of economic risks and benefits associated with international trade agreements." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of free trade and stable international agreements for economic growth and business certainty. Calls for decisive government action to secure trade deals and protect industries from foreign tariffs, viewing job losses as a direct consequence of policy failures." }
         },
-        "neutral": "A federal MP's attempt to legally refuse a mandated salary increase has been challenged by the House of Commons, which asserts that parliamentary law requires all MPs to accept their statutory remuneration, setting up a legal contest over legislative compliance and public accountability."
+        "neutral": "An economic report forecasts significant job losses and GDP reduction for Canada if the CUSMA trade agreement is not successfully renegotiated, highlighting the substantial economic risks of a trade breakdown."
       }
     },
     {
-      "id": "fed-004",
+      "id": "4b6d8e0f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Low Attendance at Canada-New England Governors Conference Signals Deepening Cross-Border Trade Tensions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/only-2-eastern-canada-premiers-attend-annual-conference-with-new-england-governors-9.7302803?cmp=rss",
-      "summary": "Only two out of four Eastern Canadian premiers and one out of six New England governors attended the 47th annual conference, reflecting a significant decline in participation. Political scientist Don Desserud attributes the absences to the escalating cross-border trade war between Canada and the U.S., suggesting leaders focused on practical solutions may find such gatherings less relevant in the current climate. Provincial elections and primaries among U.S. governors also contributed to the low attendance, highlighting strained intergovernmental relations in the face of federal trade disputes.",
-      "graph": ["Intergovernmental Relations", "Canada-U.S. Trade", "Regional Diplomacy", "Trade War Impact", "Provincial Autonomy"],
+      "title": "Petition Demands Expulsion of U.S. Ambassador Pete Hoekstra from Canada",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/petition-ambassador-hoekstra-removed-from-canada-9.7303372?cmp=rss",
+      "summary": "A petition signed by nearly 30,000 Canadians is calling for the federal government to declare U.S. Ambassador Pete Hoekstra persona non grata and remove him from Canada. The petition alleges Hoekstra has made statements undermining Canada-U.S. diplomatic relations and intervened in Canadian political discourse, citing comments on Canadian annexation and criticism of federal election campaigns.",
+      "graph": ["Diplomatic Relations", "Canada-US Relations", "Foreign Interference", "Public Petition", "Federal Politics", "Diplomatic Protocol"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 40, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would highlight how the broader trade war disrupts constructive regional cooperation, prioritizing economic nationalism over environmental or social cross-border initiatives. The low attendance might be seen as a failure of collaborative governance, where national-level tensions overshadow local and regional needs, impacting shared issues like climate or labor mobility." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would view the low attendance as a symptom of broader political and economic pressures, including the ongoing U.S.-Canada trade disputes and domestic electoral cycles. It underscores the challenges of maintaining consistent intergovernmental engagement during periods of heightened tension and shifting political priorities, examining the efficacy of such forums in strained diplomatic environments." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might see the low attendance as pragmatic, with premiers prioritizing tangible provincial concerns over symbolic regional conferences, especially when facing a challenging federal trade environment. It could also reflect a skepticism about the effectiveness of such gatherings when national trade policies are dictating economic realities, emphasizing local control and self-interest over broader cross-border integration." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports holding foreign diplomats accountable for interference in domestic politics and upholding national sovereignty. May view the Ambassador's comments as an affront to Canadian self-determination and advocate for a strong, independent foreign policy stance." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the adherence to diplomatic protocols under the Vienna Convention, the legal implications of declaring a diplomat persona non grata, and the procedural steps for handling diplomatic disputes. Focuses on maintaining proper international relations while addressing perceived breaches of conduct." },
+          "right": { "label": "Conservative Context", "synthesis": "May view such petitions as potentially escalating diplomatic tensions unnecessarily. While concerned about foreign interference, some might prioritize maintaining stable relations with key allies, or interpret the Ambassador's comments as less impactful than suggested, focusing on broader economic or security partnerships." }
         },
-        "neutral": "The significantly reduced attendance at the annual conference between Eastern Canadian premiers and New England governors is largely seen as a consequence of the escalating Canada-U.S. trade war and domestic political pressures, signaling a decline in the perceived practicality of such regional diplomatic forums."
+        "neutral": "A petition with over 29,000 signatures advocates for the removal of U.S. Ambassador Pete Hoekstra from Canada, citing concerns over his alleged interference in Canadian political discourse and undermining of diplomatic relations."
       }
     },
     {
-      "id": "fed-005",
+      "id": "5d7f9a1c-3b5e-7d9f-1a2b-3c4d5e6f7a8b",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Government Introduces $100 Million Steel Shipping Rebate Amid U.S. Tariff Pressure",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/steel-rail-marine-rebate-9.7301721?cmp=rss",
-      "summary": "The federal government has launched a $100 million Commodities Sectoral Support Program to subsidize 50% of the costs for transporting Canadian-made steel by rail or water within the country. Announced by Transport Minister Steven MacKinnon, the program is a direct response to the U.S.'s 10-50% tariffs on Canadian steel and aluminum, aiming to strengthen Canada's steel industry and domestic supply chains. The one-year program, or until funding is depleted, allows a maximum rebate of $50 million per producer. Conservative Leader Pierre Poilievre criticized the initiative, suggesting that extending fuel tax holidays and eliminating the industrial carbon tax would be more effective.",
-      "graph": ["Industrial Policy", "Trade Defense", "Economic Support", "Canadian Manufacturing", "Interprovincial Trade", "Fiscal Policy"],
+      "title": "Constitutional Challenge Filed Against Quebec Law Ending Mandatory Oath to King",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-oath-king-challenge-9.7303409?cmp=rss",
+      "summary": "A constitutional lawyer, Lawrence David, has initiated a challenge in Quebec Superior Court against a 2022 provincial law that abolished the mandatory Oath of Allegiance to the King for Quebec National Assembly members. The lawsuit argues that Quebec overstepped its constitutional authority by unilaterally amending the Constitution Act of 1867 and that the law infringes on Section 3 of the Canadian Charter of Rights and Freedoms, which guarantees the right to effective representation.",
+      "graph": ["Constitutional Law", "Quebec Sovereignty", "Provincial Autonomy", "Oath to the Crown", "Canadian Charter", "Federal-Provincial Relations", "Judicial Challenge"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 50, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely support government intervention to protect vital industries and workers from external economic shocks, such as foreign tariffs. This program could be seen as a necessary measure to maintain jobs and industrial capacity, aligning with broader goals of economic fairness and stability, though some might advocate for more fundamental industrial strategy changes." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis examines the government's use of targeted subsidies as a policy tool to counter specific economic challenges like international tariffs. It focuses on the program's design, funding allocation, and the rationale for supporting interprovincial transport. The debate considers the program's efficiency and its temporary nature as a response to ongoing trade negotiations." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative critics might view this program as a form of government intervention that distorts markets and potentially creates inefficiencies. They would likely argue for broader tax relief, such as reducing fuel excise taxes or carbon taxes, as a more effective and less interventionist approach to supporting industry and improving economic competitiveness." }
+          "left": { "label": "Progressive Context", "synthesis": "May support Quebec's move to modernize its parliamentary procedures and reduce colonial ties, viewing the mandatory oath as an outdated symbol. Could argue for greater provincial autonomy in defining its internal governance structures, potentially questioning the relevance of the monarchy." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and constitutional process, examining whether Quebec's legislation adhered to the proper amendment procedures for constitutional provisions. Emphasizes the integrity of the constitutional framework and the balance of powers between federal and provincial jurisdictions, and the protection of Charter rights." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of constitutional tradition and the rule of law, arguing that provincial actions must respect the established federal constitutional framework. May view Quebec's unilateral action as undermining national unity and the symbolic role of the Crown." }
         },
-        "neutral": "Canada's federal government has initiated a $100 million rebate program to cover half of domestic steel transportation costs by rail and water, aiming to bolster the industry against ongoing U.S. tariffs, a move met with opposition criticism regarding its economic efficacy."
+        "neutral": "A legal challenge has been launched in Quebec Superior Court against a provincial law that made the Oath of Allegiance to the King optional for National Assembly members, arguing it exceeds provincial constitutional powers and violates Charter rights."
       }
     },
     {
-      "id": "fed-006",
+      "id": "6e8a0c2d-4b6f-8a0c-2d4e-6f8a0c2d4e6f",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Report Projects Significant Job Losses in Canada and U.S. if CUSMA Trade Agreement Fails",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12016650/canada-jobs-cusma/",
-      "summary": "A new report warns that Canada could face 100,000 job losses and the U.S. 200,000 if the Canada-United States-Mexico Agreement (CUSMA) is not renewed. This comes after the U.S. declared in July that it would not renew the deal in its current form, intensifying pressure on both nations to negotiate a new agreement before a fresh round of U.S. tariffs takes effect. The potential demise of CUSMA poses significant economic risks, underscoring the urgency of ongoing trade talks.",
-      "graph": ["International Trade", "Job Market", "Economic Impact", "CUSMA Renegotiation", "Canada-U.S. Relations", "Economic Forecasting"],
+      "source": "CBC News",
+      "title": "Gordie Howe International Bridge Sees Over 41,000 Crossings into Canada in Opening Days",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/windsor/bridge-numbers-9.7303059?cmp=rss",
+      "summary": "Statistics Canada reports that the newly opened Gordie Howe International Bridge, connecting Windsor, Ontario, and Detroit, Michigan, facilitated over 41,000 inbound crossings into Canada by both Canadian and U.S. residents during its first five days of operation since July 27, 2026. This includes 4,100 commercial transport trucks, indicating a significant immediate impact on cross-border traffic and trade facilitation.",
+      "graph": ["Cross-border Infrastructure", "International Trade", "Economic Activity", "Transportation", "Canada-US Border", "Statistics Canada", "Regional Development"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 10, "center": 70, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would emphasize the vulnerability of workers and communities to trade disruptions and the need for robust social safety nets. They might argue for trade policies that prioritize labor rights and environmental protections alongside economic growth, advocating for a CUSMA renewal that addresses these broader concerns rather than solely focusing on corporate interests." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective highlights the economic modeling and data-driven assessments used to project the consequences of CUSMA's potential failure. It frames the situation as a critical juncture in international trade policy, where the economic stability of two major partners is at stake, necessitating careful negotiation to mitigate adverse impacts on employment and cross-border commerce." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would likely stress the importance of free trade and stable trade agreements for economic prosperity and job creation. They would emphasize the need for a swift and favorable resolution to CUSMA negotiations to avoid economic uncertainty and protect business interests, possibly criticizing government actions or inactions that contributed to the current impasse." }
+          "left": { "label": "Progressive Context", "synthesis": "May highlight the environmental impact of increased cross-border traffic and advocate for sustainable transportation alternatives. Could also focus on labour mobility and the social integration of border communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents factual data on infrastructure utilization and economic flow. Focuses on the efficiency and operational success of major transportation projects and their role in regional and national economic activity." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the economic benefits of enhanced trade infrastructure, improved efficiency for businesses, and strengthening of cross-border commerce. Views the bridge as a vital asset for economic growth and competitiveness." }
         },
-        "neutral": "A report indicates that the non-renewal of the CUSMA trade agreement could lead to substantial job losses in both Canada and the U.S., intensifying the urgency for bilateral negotiations to avert further economic fallout and new tariffs."
+        "neutral": "The Gordie Howe International Bridge recorded over 41,000 vehicle entries into Canada during its initial five days, signifying its rapid integration into cross-border transportation and trade networks."
       }
     },
     {
-      "id": "fed-007",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Federal Tax Code Accused of Disadvantageous Treatment for Young Families Compared to Retirees",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/10/ottawa-hands-retirees-a-tax-break-it-denies-young-families-worth-10200-a-year/",
-      "summary": "An editorial argues that Canada's federal tax code imposes an annual $10,200 penalty on single-earner couples compared to dual-income families, while granting pension income-splitting benefits to retirees over 65. This disparity is highlighted as a significant intergenerational fairness issue, exacerbating affordability challenges for young families and potentially contributing to a 'brain drain' of skilled workers from Canada. The piece advocates for policy reforms to address this taxation imbalance.",
-      "graph": ["Fiscal Policy", "Taxation", "Intergenerational Equity", "Family Policy", "Economic Fairness", "Government Spending"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would critique tax policies that create or exacerbate economic inequalities, particularly those disadvantaging young families. They would advocate for a tax system that supports families at all stages, ensuring adequate social supports and fair distribution of the tax burden, potentially calling for universal programs to ease the financial strain on younger generations." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would examine the mechanics of the federal tax code, assessing the economic rationale and distributional effects of current tax provisions for families and retirees. It would consider the policy objectives behind income splitting for pensions versus its absence for working-age families, evaluating the technical arguments for and against the current structure and potential reform options." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative arguments would align with the call for tax fairness and reducing the burden on working families. They might emphasize that high taxes disincentivize work and family formation, contributing to economic stagnation. Solutions could involve broader tax cuts, simplification of the tax code, and policies that encourage individual responsibility and economic freedom." }
-        },
-        "neutral": "Federal tax policy is criticized for creating a $10,200 annual tax disadvantage for single-earner young families compared to retirees who benefit from pension income splitting, raising concerns about intergenerational fairness and its impact on affordability."
-      }
-    },
-    {
-      "id": "fed-008",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Canada's Nuclear Energy Strategy Under Scrutiny for Perceived Bias Towards CANDU Technology",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/10/canadas-nuclear-strategy-is-really-two-strategies-and-only-one-is-working/",
-      "summary": "An analysis suggests Canada's recently released Nuclear Energy Strategy comprises two conflicting approaches: a technology-neutral framework acknowledging existing strengths (uranium fuel cycle, skilled workforce, regulatory expertise) and a 'champion strategy' favoring the homegrown CANDU heavy-water reactor design. Empirical evidence indicates that the technology-neutral approach has driven recent growth in the sector, while the CANDU-focused strategy may not align with global market realities or provincial risk assessments. The piece argues that federal policy should prioritize leveraging broader industry capabilities rather than focusing on a single technology.",
-      "graph": ["Energy Policy", "Nuclear Power", "Industrial Strategy", "Technology Policy", "Economic Development", "Federal Investment"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would likely emphasize the importance of sustainable energy development and climate action. While supporting nuclear as a low-carbon option, they might critique a strategy that prioritizes specific technologies over broader environmental efficacy or that creates market distortions. Emphasis would be on public good, safety, and a diverse energy mix." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would evaluate the government's nuclear strategy based on its stated objectives, economic rationale, and adherence to evidence-based policy making. It would examine the efficiency of public investments in specific technologies versus a more open market approach, considering the regulatory environment, international standards, and long-term energy security." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would likely advocate for market-driven solutions and minimal government intervention in technology selection. They would critique a 'champion strategy' as potentially inefficient and costly, preferring a framework that allows diverse technologies to compete. Emphasis would be on economic competitiveness, fiscal responsibility, and leveraging proven global technologies over nationalistic preferences." }
-        },
-        "neutral": "Canada's federal nuclear energy strategy is under review, with criticism arising over its dual approach of a technology-neutral framework and a 'champion strategy' for CANDU reactors, as evidence suggests the former has been more effective in driving sector growth."
-      }
-    },
-    {
-      "id": "fed-009",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "The Erosion of the Canadian Dream: Why Hard Work No Longer Guarantees Upward Mobility",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/11/ordinary-hard-work-no-longer-buys-the-canadian-dream-its-time-to-restore-that-promise/",
-      "summary": "An opinion piece argues that the 'Canadian dream,' where ordinary hard work leads to homeownership and financial stability, is eroding, with data showing it now takes 55-60 years for a median-wage earner to climb the wealth distribution. This decline is attributed to decades of restrictive housing policies, leading to soaring prices, and federal immigration policies that have depressed wages by creating an oversupply of labor. The author posits that this trend threatens liberal democracy by undermining the material basis of citizenship, calling for policy reforms to restore the link between labor and wealth accumulation.",
-      "graph": ["Economic Inequality", "Housing Crisis", "Labor Market", "Immigration Policy", "Wealth Distribution", "Social Mobility"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would strongly agree that the Canadian dream is failing, emphasizing systemic issues like wealth inequality, inadequate social housing, and exploitation of labor through certain immigration channels. Solutions would focus on robust social programs, wealth redistribution, stricter housing regulations, and worker protection policies to restore fairness and upward mobility." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would acknowledge the statistical trends demonstrating reduced social mobility and the challenges of affordability, examining the interplay of housing policy, economic growth, and demographic shifts. It would seek to understand the various contributing factors without assigning blame, focusing on data-driven policy solutions that balance economic efficiency with social equity." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might acknowledge the challenge but focus on different causes and solutions, such as overregulation in housing, high taxation, and government spending that discourages personal savings and investment. They might argue for policies that foster economic growth, reduce bureaucracy, and encourage individual initiative as pathways to restoring the 'Canadian dream', while carefully managing immigration's economic impacts." }
-        },
-        "neutral": "The Canadian ideal of upward mobility through hard work is reportedly diminishing, with economic data suggesting a significant increase in the time required for median-wage earners to build wealth, prompting calls for policy reform in housing and immigration to address the growing affordability crisis and wealth disparity."
-      }
-    },
-    {
-      "id": "fed-010",
+      "id": "7f9b1d3e-5a7c-9b1d-3e5f-7a9b1d3e5f7a",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Federal By-Elections in 2026 Anticipated to Cost Over $24 Million",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-federal-by-elections-in-2026-set-to-cost-upwards-of-24-million/",
-      "summary": "Federal by-elections held in 2026 are projected to cost upwards of $24 million, with Elections Canada estimating an average cost of $2 million per single by-election. This figure accounts for various factors influencing the cost of running an electoral contest. The recent spate of MP resignations across different parties has necessitated several such elections, contributing to the overall expenditure.",
-      "graph": ["Electoral Administration", "Public Spending", "Democratic Process", "Government Efficiency", "Fiscal Management"],
+      "title": "Canada Warns U.S. That August 19 Tariffs Could Halt Trade Negotiations",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-mounts-full-court-press-for-us-trade-deal-ahead-of-tariff/",
+      "summary": "Canada's chief trade negotiator, Janice Charette, has reportedly informed U.S. counterparts that the imposition of new 50% tariffs on Canadian goods by August 19 would be a 'cliff' event. Such a move is projected to halt ongoing trade negotiations, provoke public outrage, and compel Ottawa to retaliate, escalating the current trade dispute and further jeopardizing Canada-U.S. economic relations.",
+      "graph": ["Trade Negotiations", "Canada-US Trade", "Tariffs", "Diplomacy", "Federal Policy", "Economic Pressure", "International Relations"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 15, "center": 60, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might frame the costs of by-elections as a necessary investment in democratic representation, emphasizing the importance of filling parliamentary seats promptly. However, they might also advocate for reforms to reduce the frequency of by-elections or explore more cost-effective electoral processes without compromising access or fairness." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the administrative and logistical challenges of conducting by-elections, explaining the cost factors involved. It highlights Elections Canada's role in maintaining the integrity and accessibility of the electoral process, and the non-negotiable expenses associated with ensuring fair and legitimate outcomes, regardless of political shifts." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would likely scrutinize the high costs of by-elections, advocating for greater fiscal prudence and efficiency in government spending. They might call for measures to reduce these costs, potentially questioning the timing or necessity of some elections, and link high expenditures to overall government waste and taxpayer burden." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for trade policies that prioritize fair labor practices, environmental standards, and equitable economic development rather than solely focusing on corporate interests. Could criticize aggressive trade tactics and push for international cooperation over confrontation." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic strategies, negotiation tactics, and the potential legal and economic ramifications of escalating trade disputes. Focuses on the official communications and strategic positioning between governments in international trade matters." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for strong national stance in trade negotiations to protect domestic industries and workers. May support retaliatory measures if tariffs are imposed, advocating for policies that prioritize national economic interests and sovereignty in trade relations." }
         },
-        "neutral": "Federal by-elections in 2026 are forecast to exceed $24 million in total, reflecting an average cost of $2 million per contest and sparking discussion on public expenditure for electoral processes."
+        "neutral": "Canada's top trade negotiator has issued a warning to the U.S. regarding the potential breakdown of trade talks and mandatory Canadian retaliation if new 50% tariffs are enacted on August 19."
+      }
+    },
+    {
+      "id": "9b1d3e5f-7a9b-1d3e-5f7a-9b1d3e5f7a9b",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Federal Government's Red Tape Review Shows Limited Progress in Regulatory Reduction",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/12/canadas-global-investor-conference-is-coming-up-theres-one-pitch-that-will-be-hard-for-carney-to-make/",
+      "summary": "An analysis from The Hub critiques Prime Minister Mark Carney's Red Tape Review initiative, suggesting that a year post-launch, there is little measurable progress in significantly reducing regulatory burdens. The report highlights a lack of transparent performance metrics, a focus on administrative improvements rather than fundamental reform, and a continued increase in new regulations, which may impede Canada's economic growth and deter investor interest.",
+      "graph": ["Regulatory Reform", "Federal Government Efficiency", "Economic Policy", "Red Tape Reduction", "Investment Climate", "Bureaucracy"],
+      "spectrum": {
+        "baseline": { "left": 15, "center": 30, "right": 55 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May argue that some regulations are essential for public good, environmental protection, and social equity, and that 'red tape reduction' can be a code for deregulation that harms vulnerable populations or the environment. Advocates for smart regulation rather than indiscriminate cuts." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative effectiveness of government initiatives, the transparency of reporting, and the methodologies for measuring regulatory impact. Emphasizes the need for data-driven policy and accountability in public administration." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for aggressive reduction of regulatory burdens to stimulate economic growth, attract investment, and enhance business competitiveness. Views excessive regulation as a significant impediment to prosperity and criticizes government inaction or inefficiency in addressing it." }
+        },
+        "neutral": "A report indicates that the federal government's Red Tape Review initiative has shown limited tangible progress in reducing regulatory burdens, raising concerns about its effectiveness in fostering economic growth and improving the investment climate."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-001",
+      "id": "a1c3e5g7-i9k1-m3o5-q7s9-u1w3y5z7x9c0",
       "category": "Charter",
-      "source": "The Narwhal",
-      "title": "B.C. Renters Lack 'Right to Cool' Amid Extreme Heat, Highlighting Provincial Regulatory Gaps",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/bc-renters-extreme-heat-right-to-cool/?utm_source=rss",
-      "summary": "Five years after a deadly heat dome, most B.C. renters still lack a provincial 'right to cool,' making them vulnerable to extreme heat. While B.C.'s Residential Tenancy Act mandates heating, there's no equivalent for cooling, leaving landlords free to prohibit air conditioners, even in newer buildings. Some municipalities like New Westminster are enacting local bylaws, but advocates call for comprehensive provincial legislation, citing the 2021 heat dome deaths, particularly among seniors and low-income individuals, as evidence of a public health and safety crisis.",
-      "graph": ["Tenant Rights", "Climate Change Adaptation", "Public Health", "Provincial Regulation", "Housing Policy", "Right to Life"],
+      "source": "Ablawg",
+      "title": "Federal Court Rules Edmonton Institution for Women Inmate Environment Unsafe Due to Extreme Heat, Citing Charter Concerns",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://ablawg.ca/2026/08/11/federal-court-finds-environment-for-inmates-at-edmonton-institution-for-women-not-safe-and-healthful-due-to-extreme-indoor-temperatures/?utm_source=rss&utm_medium=rss&utm_campaign=federal-court-finds-environment-for-inmates-at-edmonton-institution-for-women-not-safe-and-healthful-due-to-extreme-indoor-temperatures",
+      "summary": "The Federal Court has ruled that the Correctional Service of Canada (CSC) violated its statutory duty to provide a safe and healthful environment for inmates at the Edmonton Institution for Women's Secure Unit due to extreme indoor temperatures. The decision, spurred by the Canadian Association of Elizabeth Fry Societies, ordered CSC to log temperatures and seek authorization for air conditioning, explicitly referencing alleged breaches of Charter sections 7 (life, liberty, and security of the person), 12 (cruel and unusual treatment), and 15 (equality rights) related to the inhumane conditions.",
+      "graph": ["Inmate Rights", "Prison Conditions", "Charter Rights", "Correctional Service", "Judicial Review", "Federal Court", "Women's Justice"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 60, "center": 30, "right": 10 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views emphasize the human right to safe and habitable housing, particularly in the face of climate change. They would advocate for strong provincial intervention to protect vulnerable renters, seeing the 'right to cool' as essential for health equity and social justice. This includes mandating cooling solutions and providing financial support for installations." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the legislative and regulatory mechanisms, examining the current gaps in the Residential Tenancy Act regarding cooling. It would weigh the responsibilities of landlords, tenants, and provincial/municipal governments, considering the practicalities of implementing new regulations, building code updates, and the legal implications of a 'right to cool'." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might prioritize property rights and contractual freedoms, potentially viewing mandatory cooling requirements as an undue burden on landlords or an overreach of government regulation. They might advocate for market-based solutions or tax incentives rather than direct mandates, emphasizing individual responsibility and the economic impacts of new regulations on housing providers." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the systemic issues within correctional facilities, advocating for human dignity, proper living conditions, and robust enforcement of Charter rights for incarcerated individuals. Calls for greater accountability from correctional services and reform of prison systems." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial interpretation of statutory duties and Charter rights, the evidentiary requirements for demonstrating unsafe conditions, and the scope of judicial remedies against government agencies. Emphasizes the role of the courts in upholding the rule of law and protecting fundamental rights." },
+          "right": { "label": "Conservative Context", "synthesis": "May prioritize public safety and the efficient operation of correctional facilities, while acknowledging the need for basic humane conditions. Could express concerns about judicial overreach into administrative functions or the costs associated with facility upgrades, balancing inmate welfare with fiscal responsibility." }
         },
-        "neutral": "British Columbia renters remain exposed to extreme heat due to the absence of a provincial 'right to cool,' leading to calls for legislative action to protect vulnerable populations, as current regulations for cooling devices are left largely to landlord discretion."
-      }
-    },
-    {
-      "id": "charter-002",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Quebec Government Criticized for Neglecting Anglo-Quebecer Rights in Provincial Governance",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/leslie-roberts-quebec-needs-a-government-that-can-be-trusted-to-respect-anglo-rights",
-      "summary": "An opinion piece argues that the Quebec government, particularly the Parti Québécois (PQ), needs to earn the trust of English-speaking Quebecers by consistently respecting their rights. The article implies that current or historical governmental actions have fallen short, creating a perception of neglect towards the Anglo minority. It underscores the importance of a government that serves all its citizens, regardless of linguistic background, to foster social cohesion and protect fundamental linguistic and cultural rights within the province.",
-      "graph": ["Minority Rights", "Language Rights", "Provincial Governance", "Identity Politics", "Social Cohesion", "Quebec Sovereignty"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views would strongly support the protection of minority rights, including linguistic rights, as a cornerstone of an inclusive society. They would advocate for governmental policies that actively promote and uphold the Charter rights of Anglo-Quebecers, seeing neglect as a form of systemic discrimination that undermines social equity and multiculturalism." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would examine the historical and legal framework of language rights in Quebec, including the Charter of Rights and Freedoms and provincial language laws. It would assess claims of neglect against established legal precedents and policy mechanisms designed to protect linguistic minorities, focusing on the practical implementation of governance and service delivery." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might emphasize individual liberties and equality before the law, arguing against policies that differentiate based on language groups unless strictly necessary. While acknowledging the need to respect Anglo rights, they might also stress the importance of provincial autonomy in cultural and linguistic matters, potentially critiquing federal overreach or specific interpretations of Charter applications in Quebec." }
-        },
-        "neutral": "An opinion piece asserts that the Quebec government must actively demonstrate its commitment to respecting the rights of English-speaking Quebecers, highlighting concerns that past and present governance has failed to secure the trust of this linguistic minority."
-      }
-    },
-    {
-      "id": "charter-003",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Alberta's Classification of Anti-Abortion Protests as 'Psychological Hazard' Raises Free Expression Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/jamie-sarkonak-pro-life-protests-the-new-psychological-hazard-in-alberta",
-      "summary": "An opinion piece critiques Alberta's decision to classify anti-abortion protests, particularly those displaying graphic images, as a 'psychological hazard' in workplaces. The author argues that this expands the definition of workplace hazards beyond traditional physical or direct threats, potentially infringing on Charter-protected rights to freedom of expression and assembly. The debate centers on balancing workplace safety and well-being with fundamental freedoms in public spaces, raising questions about the scope of provincial regulatory power.",
-      "graph": ["Freedom of Expression", "Freedom of Assembly", "Workplace Safety", "Abortion Rights", "Provincial Regulation", "Charter Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views would generally prioritize the right to safe access to healthcare services and protection from harassment, supporting measures to limit the disruptive or traumatizing impact of protests. They might argue that classifying such protests as psychological hazards is a legitimate extension of workplace safety to protect employees and clients accessing clinics, balancing it against free expression." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis examines the legal framework for workplace safety and Charter rights, focusing on how a 'psychological hazard' definition is applied to public demonstrations. It would scrutinize the specific regulations, their scope, and whether they constitute a reasonable limit on free expression under Section 1 of the Charter, assessing judicial interpretations of similar cases." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives, particularly those aligned with pro-life positions, would likely strongly oppose such a classification, viewing it as an infringement on fundamental freedoms of expression and assembly. They would argue that it chills legitimate protest and disproportionately targets specific viewpoints, emphasizing the importance of broad protections for public discourse, even on sensitive topics." }
-        },
-        "neutral": "Alberta's classification of anti-abortion protests as a 'psychological hazard' in workplaces is facing criticism for potentially overreaching workplace safety definitions and impinging upon Charter rights to freedom of expression and assembly."
-      }
-    },
-    {
-      "id": "charter-004",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Parti Québécois Leader Advocates for Improved Governance and Rights for Anglo-Quebecers",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/anglo-quebecers-deserve-better-government",
-      "summary": "Paul St-Pierre Plamondon, leader of the Parti Québécois (PQ), expresses his belief that Anglo-Quebecers deserve better government and that the PQ aims to solve Quebec's problems for the benefit of both English and French speakers. This opinion piece suggests a desire by the PQ to broaden its appeal and address concerns previously raised by the Anglo community regarding their rights and representation. It implicitly acknowledges a historical tension and proposes a future where linguistic communities in Quebec are better served by provincial governance.",
-      "graph": ["Minority Rights", "Language Policy", "Provincial Politics", "Political Strategy", "Quebec Identity", "Charter Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views would cautiously welcome any rhetoric from the PQ leader that signals greater inclusivity and respect for minority rights, but would demand concrete policy changes over mere statements. They might emphasize the need for robust protections for linguistic minorities and equitable access to services, regardless of the PQ's traditional sovereignty agenda." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would interpret this as a strategic political maneuver aimed at broadening the PQ's electoral base, recognizing the demographic and political weight of Anglo-Quebecers. It would assess the practical implications of such promises within the context of existing language laws and constitutional frameworks, observing whether these statements translate into tangible policy proposals." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might be skeptical of the PQ's sincerity, viewing it as an attempt to soften its image without fundamentally changing its stance on Quebec sovereignty or language laws. They would demand clear commitments to individual freedoms and economic prosperity that benefit all Quebecers, and potentially call for less government intervention in linguistic matters." }
-        },
-        "neutral": "The leader of the Parti Québécois has stated that Anglo-Quebecers merit improved governance, positioning the party as capable of addressing the province's challenges for the benefit of both French and English-speaking communities."
-      }
-    },
-    {
-      "id": "charter-005",
-      "category": "Charter",
-      "source": "ABlawg",
-      "title": "Supreme Court's 'Democracy Watch' Decision to Reshape Judicial Supervision of Provincial Tribunals",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://ablawg.ca/2026/08/10/democracy-watch-and-its-implications-for-the-practice-of-channeling-limited-judicial-supervision-to-appellate-courts/?utm_source=rss&utm_medium=rss&utm_campaign=democracy-watch-and-its-implications-for-the-practice-of-channeling-limited-judicial-supervision-to-appellate-courts",
-      "summary": "A legal analysis published by ABlawg discusses the implications of the Supreme Court's unanimous decision in 'Democracy Watch v Canada (Attorney General),' which ruled against certain legislative clauses that channelled limited judicial supervision of regulatory tribunals solely to appellate courts while foreclosing judicial review in lower courts. The decision is expected to compel provincial legislatures to revise their architectural design for judicial supervision, potentially leading to more parallel proceedings in both appellate and King's Bench courts, thereby impacting the rule of law and access to justice in administrative matters.",
-      "graph": ["Administrative Law", "Judicial Review", "Rule of Law", "Access to Justice", "Constitutional Law", "Provincial Tribunals"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would applaud the Supreme Court's decision as strengthening access to justice and ensuring greater accountability of administrative bodies, particularly for vulnerable individuals or groups challenging regulatory decisions. It reinforces the role of courts in upholding rights and ensuring governmental adherence to the rule of law, preventing legislative attempts to insulate decision-makers from scrutiny." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the legal precedent set by the Supreme Court regarding the constitutional limits on legislative attempts to restrict judicial review. It examines the technical aspects of administrative law, judicial hierarchy, and the balance of powers, highlighting the need for provincial legislatures to align their statutory appeal mechanisms with constitutional requirements to avoid parallel proceedings and legal uncertainty." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might express concern about potential judicial overreach into legislative design of administrative processes, possibly leading to increased litigation and delays. While supporting rule of law, they might advocate for clear and efficient administrative review processes, questioning whether broader judicial access might undermine the intended efficiency or specialized expertise of regulatory tribunals." }
-        },
-        "neutral": "The Supreme Court's decision in 'Democracy Watch' is poised to necessitate significant revisions to provincial legislative frameworks for judicial oversight of regulatory tribunals, enhancing the scope of judicial review and potentially leading to more complex legal proceedings."
+        "neutral": "The Federal Court found the environment for inmates at the Edmonton Institution for Women's Secure Unit unsafe due to extreme temperatures, ordering corrective measures and citing potential breaches of Charter rights."
       }
     }
   ],
-  "indigenous": [],
+  "indigenous": [
+    {
+      "id": "b2d4f6h8-j0l2-n4p6-r8t0-v2x4z6a8c0e2",
+      "category": "Indigenous",
+      "source": "The Hub",
+      "title": "B.C. First Nations Chiefs Demand Halt to West Coast Pipeline Project Amid Climate and Consultation Concerns",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/11/some-b-c-first-nations-chiefs-demand-carney-smith-halt-west-coast-pipeline-project/",
+      "summary": "The Union of British Columbia Indian Chiefs (UBCIC) has issued a public demand to Prime Minister Mark Carney and Alberta Premier Danielle Smith to halt the proposed West Coast pipeline project. The chiefs argue that expanded fossil fuel infrastructure contributes to the climate crisis, and that the government's consultation process with First Nations on the pipeline has been inadequate, characterizing it as a 'predetermined exercise' that disrespects Indigenous land rights and self-determination.",
+      "graph": ["Indigenous Rights", "Resource Development", "Pipeline Projects", "Climate Change", "First Nations Consultation", "Federal-Provincial Relations", "British Columbia"],
+      "spectrum": {
+        "baseline": { "left": 65, "center": 20, "right": 15 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports Indigenous self-determination, land rights, and environmental justice. Criticizes fossil fuel expansion and inadequate consultation, advocating for Indigenous-led conservation and economic models that respect traditional territories and address climate change." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the legal obligations for Indigenous consultation and consent in resource projects, the balance between economic development and environmental protection, and the efficacy of intergovernmental dialogues. Focuses on due process, treaty rights, and the practical challenges of reconciliation." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the economic benefits of resource development and infrastructure projects for national prosperity. May view opposition as hindering economic growth and question the extent of Indigenous veto power, advocating for efficient project approvals and clear regulatory pathways while respecting consultation requirements." }
+        },
+        "neutral": "First Nations leaders in British Columbia are calling for a halt to the proposed West Coast pipeline, citing concerns about climate change impacts and insufficient consultation processes regarding Indigenous land rights."
+      }
+    }
+  ],
   "criminal": [
     {
-      "id": "crim-001",
+      "id": "c3e5g7i9-k1m3-o5q7-s9u1-w3y5z7x9c0e2",
       "category": "Criminal",
-      "source": "CBC News",
-      "title": "Montreal Man Charged with Death Threats Against Prime Minister Mark Carney and Police",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/montreal-man-charged-threats-carney-9.7301837?cmp=rss",
-      "summary": "Marc-André Porlier, a 51-year-old Montreal man, has been charged by the RCMP with uttering threats to cause death or bodily harm against Prime Minister Mark Carney and all Canadian police officers. The alleged threats were made in an email sent to several unnamed individuals, including a senator. Porlier, who was previously found guilty of arson and mischief in 2017 and was on probation for those crimes, appeared in court on Saturday. The charges have not yet been proven in court.",
-      "graph": ["Uttering Threats", "Political Threats", "Law Enforcement", "Public Safety", "Judicial Process", "Criminal Justice"],
+      "source": "National Post",
+      "title": "Complainant's Lawyer Blames Defence, Decisions for Frank Stronach Sex Assault Mistrial",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/frank-stronach-sex-assault-mistrial-shale-wagman",
+      "summary": "The lawyer representing the complainant in the high-profile Frank Stronach sex assault trial has publicly criticized the defense and judicial decisions that led to a mistrial. The lawyer stated that the mistrial was an inappropriate ruling and accused the defense of obtaining information 'sneakily,' indicating ongoing procedural controversies and disputes over legal conduct in the case.",
+      "graph": ["Criminal Law", "Sex Assault Case", "Mistrial", "Legal Procedure", "Court System", "Legal Ethics"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 40, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would consider the underlying societal factors that may contribute to such threats, potentially linking them to broader issues of social frustration, mental health, or political polarization. While condemning violence, it might also prompt discussion on state responses to extremism and the balance between security measures and civil liberties." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the legal process: the charges laid, the evidence, and the judicial proceedings. It emphasizes the importance of due process, the role of law enforcement in investigating threats against public officials, and the court's responsibility to determine guilt or innocence based on the law and evidence presented." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would emphasize the seriousness of threats against national leaders and law enforcement, advocating for robust security measures and strict enforcement of laws to protect public order and deter such actions. There might be calls for accountability and swift justice, underscoring the importance of maintaining respect for institutions and authority." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights concerns about systemic issues in the justice system that can prolong or complicate cases for complainants, especially in sensitive matters like sexual assault. Advocates for reforms to legal processes to better support victims and ensure equitable outcomes." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the strict adherence to judicial rules, the grounds for mistrial declarations, and the standards of professional conduct for legal counsel. Emphasizes the integrity of the trial process and the need for fair administration of justice." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes due process and the rights of the accused, while also acknowledging the need for efficient judicial proceedings. May scrutinize the conduct of all parties in court, valuing strict legal interpretation and minimizing delays." }
         },
-        "neutral": "A Montreal man has been charged with making death threats via email against Prime Minister Mark Carney and Canadian police officers, marking a significant criminal case involving public officials and national security concerns."
+        "neutral": "The complainant's lawyer in the Frank Stronach sex assault case attributes the declared mistrial to the defence's actions and specific judicial decisions, raising questions about procedural fairness."
       }
     },
     {
-      "id": "crim-002",
+      "id": "d4f6h8j0-l2n4-p6r8-t0v2-x4z6a8c0e2g4",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Halifax Police Charge Man for Bomb Threat Targeting U.S. Consulate",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/halifax-police-charge-man-after-bomb-threat-against-u-s-consulate",
-      "summary": "Halifax police have charged a man following a bomb threat made against the U.S. Consulate. The incident led to immediate road closures around the consulate, followed by additional closures when the suspect was located and taken into custody. This event highlights law enforcement's rapid response to threats against diplomatic missions and the subsequent legal process for ensuring public safety.",
-      "graph": ["Bomb Threat", "Diplomatic Security", "Law Enforcement", "Public Safety", "International Relations", "Criminal Charges"],
+      "source": "Toronto Sun",
+      "title": "Landlord Convicted Following Deadly 2023 Brampton House Fire Caused by Unregistered Apartments and No Smoke Detectors",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/landlord-convicted-charges-2023-house-fire-brampton-mother-child-killed",
+      "summary": "A landlord has been found guilty of charges after a devastating 2023 house fire in Brampton resulted in the deaths of a mother and her child. The conviction stems from the presence of unregistered basement apartments within the property that were found to lack functioning smoke detectors, underscoring severe lapses in building safety compliance and landlord accountability.",
+      "graph": ["Criminal Conviction", "Public Safety", "Landlord Accountability", "Building Codes", "Fatal Fire", "Ontario", "Property Law"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 40, "right": 20 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would emphasize the need for effective public safety measures and police response to protect both citizens and international visitors. They might also consider broader geopolitical tensions that could motivate such threats, advocating for diplomatic solutions and de-escalation of international conflicts that could spill over into domestic security." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the operational efficiency of law enforcement in responding to a security threat against a diplomatic entity. It examines the protocols for public safety, the investigative process leading to charges, and the legal framework for prosecuting threats that have international implications, highlighting the seamless coordination required in such incidents." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would stress the importance of robust security for diplomatic missions and swift action against those who threaten national and international safety. They would support strong police powers and severe penalties for such crimes, underscoring the need to project stability and deter acts of terror or aggression against foreign interests on Canadian soil." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the vulnerability of tenants in unregulated housing and calls for stronger tenant protections, stricter enforcement of building codes, and increased penalties for negligent landlords to prevent such tragedies and ensure housing safety." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal process of investigation, prosecution, and conviction in cases of criminal negligence leading to fatalities. Emphasizes the enforcement of safety regulations and the judicial determination of responsibility." },
+          "right": "Conservative Context", "synthesis": "Emphasizes individual responsibility and the enforcement of existing laws to ensure public safety and property standards. May advocate for clear regulations and efficient legal processes to hold negligent parties accountable, potentially also discussing property rights and burdens on landlords." }
         },
-        "neutral": "Halifax police have charged an individual for making a bomb threat against the U.S. Consulate, prompting significant public safety measures including road closures and demonstrating a coordinated law enforcement response to threats against diplomatic facilities."
-      }
-    },
-    {
-      "id": "crim-003",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Toronto Man Pleads Guilty to Impersonating Pilot for Hundreds of Free Flights",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/toronto-man-guilty-posing-pilot-free-flights",
-      "summary": "A Toronto man, Dallas Pokornik, a former flight attendant, has pleaded guilty to charges related to impersonating a pilot to obtain hundreds of free flights in the U.S. between January 2020 and October 2024. He achieved this by using a fake employee ID card from his former employer. Pokornik faces a potential sentence of up to 20 years in prison. The case highlights serious security vulnerabilities and the criminal implications of identity fraud in the aviation industry.",
-      "graph": ["Fraud", "Impersonation", "Aviation Security", "Criminal Offence", "Sentence", "Public Safety"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views might explore the motivations behind such fraud, potentially linking it to economic desperation or systemic failures in employee verification systems. While condemning the crime, discussions could also include rehabilitation possibilities and the need to address underlying issues that might drive individuals to such actions, alongside strengthening security protocols." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the legal prosecution of identity fraud and security breaches within the aviation sector. It examines the process of investigation, the guilty plea, and the sentencing guidelines for such offenses, emphasizing the need to uphold the integrity of travel security systems and the consequences for criminal misrepresentation." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would emphasize the severity of the security breach and the potential risks to public safety in aviation. They would call for strict enforcement of laws and severe penalties to deter fraud and maintain the integrity of identification and travel systems, advocating for stronger security measures to prevent such impersonations." }
-        },
-        "neutral": "A Toronto man has admitted guilt to impersonating a pilot to unlawfully acquire numerous free flights in the U.S. over several years, a case that underscores significant aviation security risks and could result in a lengthy prison sentence."
+        "neutral": "A landlord has been convicted on charges related to a fatal 2023 house fire in Brampton, where a mother and child died in unregistered basement apartments lacking smoke detectors."
       }
     }
   ],
