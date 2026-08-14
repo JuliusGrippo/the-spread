@@ -1,426 +1,276 @@
 {
   "federalism": [
     {
-      "id": "fed-001",
+      "id": "e4a2d8c3-b7e5-4f08-b11c-2f6a7d8c3b7e",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada-U.S. Trade Negotiations Intensify Ahead of Tariff Deadline",
+      "source": "CBC",
+      "title": "A Canadian payment giant is being sold to U.S. private equity. Is your digital privacy at risk?",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trade-tariff-talks-canada-us-canada-dominic-leblanc-jamieson-greer-9.7305811?cmp=rss",
-      "summary": "Canadian Trade Minister Dominic LeBlanc and U.S. Trade Representative Jamieson Greer are holding urgent meetings in Washington to secure a trade deal before August 19, when the U.S. President has threatened to impose 50 percent duties on various Canadian goods. The intensified discussions follow previous rounds where U.S. offers to lower some sectoral tariffs were deemed insufficient by Canada. Key U.S. demands include preferential access to Canadian critical minerals and coverage for security and energy.",
-      "graph": ["Canada-US Trade", "Tariffs", "International Relations", "Economic Policy"],
+      "url": "https://www.cbc.ca/news/politics/moneris-deal-canadian-digital-sovereignty-9.7304962?cmp=rss",
+      "summary": "Royal Bank of Canada and Bank of Montreal are selling Moneris Solutions Corp. to a U.S. private equity firm, raising concerns among analysts about Canada's digital sovereignty and the potential exposure of Canadian transaction data to foreign governments, especially amidst ongoing trade tensions with the U.S.",
+      "graph": ["Digital Sovereignty", "Data Privacy", "Foreign Investment", "Trade Policy"],
       "spectrum": {
-        "baseline": {
-          "left": 30,
-          "center": 50,
-          "right": 20
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive viewpoints might emphasize protecting Canadian industries and workers from aggressive U.S. trade tactics, advocating for a strong, unified Canadian response against unilateral tariffs and prioritizing domestic economic stability over appeasement."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral analyses focus on the diplomatic process, the technicalities of trade agreements, and the legal implications of tariff imposition. They would observe the negotiation strategies, the balancing of national interests, and the adherence to international trade law."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative perspectives may stress the importance of free markets and reducing trade barriers, potentially criticizing the Canadian government's negotiation tactics for not securing a deal sooner or for measures that could escalate trade disputes, while advocating for stronger alliances with market-oriented partners."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Examines the risks of foreign acquisition of critical digital infrastructure, highlighting potential loss of data control, impacts on privacy, and the broader erosion of national digital sovereignty, advocating for stronger government safeguards." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural and regulatory implications of a major Canadian payment processor's sale to a foreign entity, analyzing the balance between economic investment, national security interests, and the government's role in protecting citizen data." },
+          "right": { "label": "Conservative Context", "synthesis": "Discusses the economic benefits and market efficiencies of foreign private equity investment, while acknowledging the need for transparent regulatory frameworks that ensure competition and secure data, without impeding capital flow." }
         },
-        "neutral": "Ongoing high-stakes trade negotiations between Canada and the U.S. aim to avert significant new tariffs, with Canada expressing dissatisfaction with current U.S. proposals and a deadline approaching rapidly."
+        "neutral": "The sale of Canadian payment processor Moneris to a U.S. private equity firm prompts debate over Canada's digital sovereignty and the potential implications for citizens' data privacy in a cross-border context."
       }
     },
     {
-      "id": "fed-002",
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Public Petition Calls for Expulsion of U.S. Ambassador to Canada",
+      "source": "CBC",
+      "title": "Liberal MP's travel documents show claims he voted on bills while in China are false",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/petition-to-oust-ambassador-hoekstra-reaction-9.7305109?cmp=rss",
-      "summary": "A Calgary woman's online petition calling for the expulsion of U.S. Ambassador Pete Hoekstra has garnered over 70,000 signatures and is set to be presented in the House of Commons. The petition accuses the ambassador of undermining Canada-U.S. diplomatic relations and making inappropriate interventions in Canadian political discourse, including comments on Canada's annexation and criticisms of Canada's responses to U.S. tariffs.",
-      "graph": ["Diplomatic Relations", "National Sovereignty", "Public Opinion", "Canada-US Relations"],
+      "url": "https://www.cbc.ca/news/politics/claims-chen-voted-while-in-china-fact-check-9.7306820?cmp=rss",
+      "summary": "Online claims that Liberal MP Shaun Chen illegally voted on legislation from China were disproven by his travel documents and House of Commons security protocols, which verify an MP's physical presence in Canada for electronic voting.",
+      "graph": ["Parliamentary Procedure", "Electoral Integrity", "National Security", "Misinformation"],
       "spectrum": {
-        "baseline": {
-          "left": 40,
-          "center": 40,
-          "right": 20
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive views would likely support the petition as a demonstration of public sovereignty and democratic engagement, emphasizing the need to challenge diplomatic overreach and protect national integrity from foreign influence. Concerns about ambassadorial rhetoric could be framed as threats to peace and mutual respect."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral analysis would focus on diplomatic protocols, the legalities of declaring a diplomat persona non grata, and the potential implications for ongoing bilateral relations, especially amidst sensitive trade talks. The role of public petitions in parliamentary democracy would also be noted."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative perspectives might prioritize stability in Canada-U.S. relations, potentially viewing the petition as an overreaction that could complicate trade negotiations. While acknowledging sovereignty, some might downplay the ambassador's comments as political rhetoric rather than a direct threat, or focus on the government's responsibility to manage the fallout effectively."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of democratic accountability and transparency, scrutinizing how rapidly false information can spread and the need for robust institutional mechanisms to uphold parliamentary integrity." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the factual verification process and the technical and human safeguards within the House of Commons designed to ensure compliance with voting rules, underscoring the reliability of parliamentary procedures." },
+          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about potential vulnerabilities in parliamentary systems to foreign influence or breaches of protocol, advocating for strict enforcement of rules and robust security measures to protect national decision-making." }
         },
-        "neutral": "A large public petition demands the removal of the U.S. Ambassador to Canada for perceived diplomatic impropriety, raising questions about Canada's national sovereignty and the state of bilateral relations."
+        "neutral": "Allegations that a Liberal MP voted remotely from China were refuted by official travel records and House of Commons security protocols, confirming the MP's presence in Canada during the votes."
       }
     },
     {
-      "id": "fed-003",
+      "id": "f8e7d6c5-b4a3-4d2e-1f0a-9b8c7d6e5f4a",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Newfoundland and Labrador and Quebec Nearing Final Churchill Falls Hydroelectric Agreement",
+      "source": "CBC",
+      "title": "Cultural sector urges Carney to keep tax on large streamers to fund Canadian content",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/new-churchill-falls-deal-between-n-l-and-quebec-being-finalized-sources-9.7305164?cmp=rss",
-      "summary": "Newfoundland and Labrador and Quebec are reportedly finalizing a new agreement for the Churchill Falls hydroelectric project, which would replace the controversial 1969 contract. Sources indicate only a few issues remain unresolved, with an announcement expected early next week. The deal also involves plans for the Gull Island hydroelectric project and follows a previous Memorandum of Understanding that a provincial committee deemed not in the public interest.",
-      "graph": ["Inter-Provincial Relations", "Energy Policy", "Resource Management", "Economic Development"],
+      "url": "https://www.cbc.ca/news/politics/cultural-sector-digital-services-can-con-9.7306045?cmp=rss",
+      "summary": "Numerous Canadian cultural organizations are advocating for Prime Minister Mark Carney to retain the mandated 15% financial contribution from foreign streaming companies for Canadian content, rather than replacing it with discretionary public funding, arguing the latter is less stable.",
+      "graph": ["Cultural Policy", "Digital Services Tax", "Canadian Content", "Media Regulation"],
       "spectrum": {
-        "baseline": {
-          "left": 40,
-          "center": 40,
-          "right": 20
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive views would emphasize ensuring equitable benefits for Newfoundland and Labrador, sustainable resource development, and potential for Indigenous participation in the new project. Scrutiny would be placed on transparency and environmental impacts."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral analysis would focus on the legal and economic intricacies of the renegotiated contract, the governance mechanisms for resource sharing, and the process of inter-provincial negotiation to resolve long-standing disputes."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative perspectives might prioritize economic efficiency, provincial autonomy in resource management, and the overall financial gains for Newfoundland and Labrador. There might be criticism regarding any delays or terms perceived as disadvantageous to provincial economic interests or private sector involvement."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust funding mechanisms to support Canadian cultural industries, emphasizing the role of government-mandated contributions from large foreign platforms to ensure cultural sovereignty and local artistic development." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the policy debate surrounding funding models for Canadian content, balancing regulated industry contributions with direct public funding, and considering the stability and effectiveness of each approach in promoting national culture." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques mandatory contributions as a 'Netflix tax' that burdens consumers or stifles market innovation, advocating for market-driven content creation or less prescriptive government support, focusing on affordability and economic efficiency." }
         },
-        "neutral": "Newfoundland and Labrador and Quebec are close to finalizing a revised Churchill Falls energy deal, replacing a contentious decades-old contract and potentially advancing the Gull Island project."
+        "neutral": "Canadian cultural organizations are urging the government to maintain mandated financial contributions from foreign streaming services for Canadian content, expressing concern that replacing this with public funding would introduce instability."
       }
     },
     {
-      "id": "fed-004",
+      "id": "c7b6a5e4-d3c2-4b1a-0d9e-8f7a6b5c4d3e",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada Rejects Latest U.S. Tariff Proposal Amid Stalled Trade Negotiations",
+      "source": "CBC",
+      "title": "Conservatives, Bloc want probe into Canadian NATO intern spying allegations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-unhappy-u-s-offer-tariffs-9.7304923?cmp=rss",
-      "summary": "As the August 19 U.S. tariff deadline approaches, Canada and the U.S. remain at an impasse in trade negotiations. Canadian officials are reportedly dissatisfied with the latest U.S. proposal, which would only partially lower existing sectoral tariffs. The U.S. is seeking preferential access to Canadian critical minerals, security, and energy in any new deal.",
-      "graph": ["Canada-US Trade", "Tariff Dispute", "International Negotiation", "Economic Sanctions"],
+      "url": "https://www.cbc.ca/news/politics/biwei-zhang-committee-probe-bloc-tories-9.7306294?cmp=rss",
+      "summary": "Conservative and Bloc MPs are demanding an emergency committee meeting to investigate espionage allegations against a former Canadian intern at NATO, questioning Canada's national security screening processes and potential vulnerabilities.",
+      "graph": ["National Security", "Foreign Policy", "Espionage", "Government Accountability"],
       "spectrum": {
-        "baseline": {
-          "left": 30,
-          "center": 50,
-          "right": 20
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive commentators would likely advocate for Canada to resist U.S. pressure to protect domestic industries and workers, and to explore diversified trade relationships rather than ceding to unfavorable terms in critical sectors like minerals and energy."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "A neutral stance would analyze the dynamics of the negotiation, the specific demands and concessions from both sides, and the strategic implications of the looming deadline for the bilateral trade relationship and the CUSMA agreement."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative views might criticize Canada's negotiating position as either too rigid or too weak, emphasizing the economic costs of tariffs and advocating for quick resolution to stabilize markets, potentially even if it involves greater concessions on non-core issues to avoid escalation."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Raises questions about the broader implications of security screening processes, including potential human rights considerations or the risk of disproportionate scrutiny, while emphasizing the need for transparent oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural integrity of Canada's security screening systems, the government's responsibility to investigate serious allegations, and the diplomatic ramifications of potential espionage within an allied institution." },
+          "right": { "label": "Conservative Context", "synthesis": "Underscores the critical importance of national security and the need for rigorous vetting procedures for individuals with access to sensitive information, demanding swift and thorough investigations into any potential security breaches." }
         },
-        "neutral": "Canada and the U.S. are still far from a tariff agreement, with Canada rejecting the latest U.S. offer, intensifying pressure as a critical August 19 deadline looms."
+        "neutral": "Opposition parties are calling for a parliamentary probe into Canada's security screening mechanisms following the arrest of a former Canadian NATO intern by Belgian authorities on espionage charges."
       }
     },
     {
-      "id": "fed-005",
+      "id": "g9h8i7j6-k5l4-4m3n-2o1p-0q9r8s7t6u5v",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Federal Government Delays Implementation of CBSA and RCMP Oversight Law",
+      "source": "CBC",
+      "title": "Defence minister orders review of military language directive",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-ottawa-has-yet-to-implement-2024-law-creating-new-oversight-for-border/",
-      "summary": "A 2024 federal law mandating the creation of an independent commission to review and investigate complaints against Canada Border Services Agency (CBSA) and RCMP employees has not yet been implemented by the Ottawa government. This delay leaves a gap in accountability for federal law enforcement agencies at the border.",
-      "graph": ["Government Accountability", "Federal Agencies", "Legislative Oversight", "Rule of Law"],
+      "url": "https://www.cbc.ca/news/canada/ottawa/defence-department-language-canada-requirement-review-9.7305903?cmp=rss",
+      "summary": "Canada's Defence Minister has ordered a review of a 2025 directive on official languages in military workplaces, following concerns that the policy, which aligned internal language requirements to regional designations, might be eroding French language protection within the Canadian Armed Forces.",
+      "graph": ["Official Languages", "Military Policy", "Federal Administration", "Linguistic Rights"],
       "spectrum": {
-        "baseline": {
-          "left": 45,
-          "center": 40,
-          "right": 15
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive critics would strongly condemn the delay, seeing it as a failure to protect civil liberties and ensure justice for individuals who experience misconduct by border agents. They would demand immediate implementation to enhance transparency and human rights protections."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "A neutral perspective would assess the administrative and logistical challenges cited for the delay, examining the legislative intent behind the oversight body, and the implications of its absence for public trust and adherence to legal frameworks for federal enforcement."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative views might question the necessity or cost of new oversight bodies, or suggest that existing internal mechanisms are sufficient. They might also focus on border security effectiveness, arguing against measures that could impede enforcement operations."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for stronger protections of linguistic minority rights within federal institutions, especially for French, viewing the initial directive as a potential setback for bilingualism and inclusion in the military." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the administrative challenges and operational needs within the military regarding language use, focusing on the review process to balance efficiency with statutory obligations under the Official Languages Act." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the operational efficiency and practicality of military directives, while acknowledging the need to respect official language rights, but potentially questioning the extent of bilingual requirements in all regions." }
         },
-        "neutral": "A federal law passed in 2024 to establish independent oversight for the CBSA and RCMP remains unimplemented, raising concerns about accountability for federal border enforcement."
+        "neutral": "Canada's Defence Minister has initiated a review of a 2025 directive governing language use in military workplaces, addressing concerns about its impact on the protection of French language rights."
       }
     },
     {
-      "id": "fed-006",
+      "id": "p0o9i8u7-y6t5-4r3e-2w1q-0a9s8d7f6g5h",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Government Fails to Meet Legislative Deadline for National Security Law Review",
+      "source": "The Hub",
+      "title": "Canadian families paid over $50,000 in tax on average in 2025, more than on food, shelter, and clothing combined: Study",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12018304/liberals-miss-national-security-review-deadline/",
-      "summary": "The Liberal government has missed the statutory deadline to review Bill C-59, a significant 2024 national security law that introduced new powers for CSIS and the CSE and established civilian oversight. This failure to conduct a timely review raises questions about accountability and the democratic process for examining critical legislation.",
-      "graph": ["National Security Law", "Government Oversight", "Legislative Review", "Accountability"],
+      "url": "https://thehub.ca/2026/08/13/canadian-families-paid-over-50000-in-tax-on-average-in-2025-more-than-on-food-shelter-and-clothing-combined-study/",
+      "summary": "A Fraser Institute study reports that the average Canadian family paid over $50,000 in taxes in 2025, constituting 41.9% of their income—a sum greater than their combined spending on food, shelter, and clothing, indicating a significant increase in tax burden since 1961.",
+      "graph": ["Fiscal Policy", "Taxation", "Household Economics", "Cost of Living"],
       "spectrum": {
-        "baseline": {
-          "left": 45,
-          "center": 40,
-          "right": 15
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive voices would criticize the government for undermining parliamentary oversight and transparency, particularly on legislation granting significant powers to intelligence agencies. They would demand a prompt and thorough review to ensure civil liberties are protected."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral observers would highlight the procedural breakdown in legislative governance and the importance of regular reviews for national security laws to adapt to evolving threats while maintaining checks and balances. The focus would be on systemic issues causing the delay."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative commentators might criticize government inefficiency and mismanagement for missing the deadline. While potentially supporting strong national security measures, they would also call for accountability in governance and adherence to legislative timelines."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the need for robust public services funded through progressive taxation, while acknowledging cost of living pressures and advocating for policies that ensure equitable distribution of wealth and social support for families." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents an economic analysis of the average Canadian family's tax burden, focusing on the statistical trends and the overall impact of various taxes on household budgets, while avoiding prescriptive policy stances." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the excessive tax burden on Canadian families, arguing for significant tax cuts, reduced government spending, and policies that encourage individual wealth retention and economic freedom to alleviate financial pressures." }
         },
-        "neutral": "The Liberal government has failed to meet its legal obligation to review the 2024 national security law (Bill C-59), prompting concerns about oversight of intelligence agencies and adherence to legislative processes."
+        "neutral": "A Fraser Institute study indicates that the average Canadian family's tax bill in 2025 surpassed their combined expenditures on food, shelter, and clothing, representing 41.9% of their income."
       }
     },
     {
-      "id": "fed-007",
+      "id": "zxcvbnm0-lkhg-fdsa-qwer-tyuiopasdfghj",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "U.S. Uses AI to Detect Chinese Tariff Evasion, Alleging Canadian Involvement",
+      "source": "The Hub",
+      "title": "CUSMA collapse could cost Canada 102,000 jobs by 2027, report warns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/world/white-house-trade-ai-tariffs-china",
-      "summary": "The Trump administration is reportedly employing artificial intelligence to identify instances of transshipment, where goods from China are rerouted through other countries to avoid U.S. tariffs, with Canada listed among dozens of nations allegedly facilitating such practices. This initiative highlights intensified U.S. trade enforcement and its implications for Canada's trade relations.",
-      "graph": ["International Trade", "Tariff Enforcement", "AI in Governance", "Canada-US-China Relations"],
+      "url": "https://thehub.ca/2026/08/13/cusma-collapse-could-cost-canada-102000-jobs-by-2027-report-warns/",
+      "summary": "An Oxford Economics report, prepared for the Canadian American Business Council, warns that a collapse of the Canada-U.S.-Mexico Agreement (CUSMA) could lead to 102,000 job losses in Canada by 2027, emphasizing the vulnerability of Canadian industries and the high stakes of ongoing trade negotiations.",
+      "graph": ["Trade Policy", "International Relations", "Economic Impact", "Employment"],
       "spectrum": {
-        "baseline": {
-          "left": 25,
-          "center": 50,
-          "right": 25
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive analyses would scrutinize the broader implications of trade wars and the use of AI in enforcement, potentially raising concerns about data privacy, due process in identifying violations, and the potential for these measures to unfairly impact legitimate trade or smaller businesses."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "A neutral perspective would examine the technical aspects of AI in trade enforcement, the legal framework for identifying and prosecuting tariff evasion, and the procedural challenges and effectiveness of such measures in international commerce."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative commentators would likely support aggressive measures to combat tariff evasion, emphasizing fair trade and national economic protection. They might call for Canada to ensure it is not inadvertently complicit in such schemes, advocating for stricter domestic enforcement."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Stresses the importance of protecting Canadian workers and vulnerable industries from the fallout of trade disputes, advocating for governmental strategies that prioritize employment stability and negotiate aggressively against protectionist threats." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic consequences of trade agreement instability, focusing on data-driven forecasts of job impacts and advocating for pragmatic diplomatic solutions to secure beneficial trade relations and economic continuity." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the critical importance of free trade agreements for economic prosperity and job creation, advocating for policies that minimize barriers to trade and cautioning against government actions that could jeopardize international economic partnerships." }
         },
-        "neutral": "The U.S. is leveraging AI to combat Chinese tariff evasion via transshipment, with Canada identified as a potential transit country, signaling heightened U.S. trade scrutiny."
+        "neutral": "A report projects that the dissolution of the Canada-U.S.-Mexico Agreement (CUSMA) could result in 102,000 job losses in Canada by 2027, emphasizing the economic risks associated with trade instability."
       }
     },
     {
-      "id": "fed-008",
+      "id": "mlkjhgfd-cba9-8765-4321-fedcba987654",
       "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Speculation Rises on Potential Federal Breach of Supply Management Legislation",
+      "source": "The Hub",
+      "title": "What Canada can learn from the world’s leading nations on business formation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/columnists/is-ottawa-about-to-break-its-own-supply-management-law",
-      "summary": "An opinion piece speculates that the federal government may be preparing to circumvent its own supply management laws for the dairy sector, potentially leading to increased payouts to dairy farmers and more milk dumping. The article expresses concern over the government's commitment to its established agricultural policies and the economic consequences.",
-      "graph": ["Agricultural Policy", "Supply Management", "Federal Legislation", "Dairy Industry"],
+      "url": "https://thehub.ca/2026/08/14/what-canada-can-learn-from-the-worlds-leading-nations-on-business-formation/",
+      "summary": "A study reveals a decline in Canadian entrepreneurship, with fewer new businesses being created to replace closures, placing Canada 17th among 22 advanced countries in business entries per capita. The article advocates for policy changes based on international examples to foster entrepreneurship.",
+      "graph": ["Economic Policy", "Entrepreneurship", "Business Growth", "Innovation"],
       "spectrum": {
-        "baseline": {
-          "left": 30,
-          "center": 30,
-          "right": 40
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive viewpoints might highlight the need for supply management to protect small farmers and rural communities, while also calling for reforms to address issues like milk dumping and ensuring food security. Any perceived breach would be seen as undermining sector stability."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "A neutral analysis would focus on the legal interpretations of the supply management act, the economic rationales for potential policy changes, and the process by which the government might modify or interpret existing regulations without legislative amendment."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative perspectives often criticize supply management for its market distortions and high consumer costs. They would likely welcome any move towards market liberalization, but also criticize the government for potential hypocrisy or inefficient use of taxpayer money through compensation schemes."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Argues for government support and strategic investments to foster an inclusive entrepreneurial ecosystem, addressing barriers for diverse founders and ensuring equitable access to resources to stimulate business growth." },
+          "center": { "label": "Procedural Context", "synthesis": "Offers a data-driven analysis of Canada's business formation trends, exploring policy lessons from successful nations to improve the national entrepreneurial landscape and enhance overall economic competitiveness." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for reducing regulatory burdens, implementing competitive taxation, and fostering a free-market environment that incentivizes private sector innovation and capital investment to boost business formation." }
         },
-        "neutral": "Speculation suggests the federal government might bypass its own supply management legislation, potentially impacting the dairy industry with further farmer compensation and milk waste."
+        "neutral": "An analysis highlights Canada's lagging performance in business formation, recommending policy reforms inspired by leading nations to stimulate entrepreneurship and address the decline in new business creation."
       }
     }
   ],
   "charter": [
     {
-      "id": "char-001",
+      "id": "qwertyui-opas-dfgh-jklz-xcvbnm012345",
+      "category": "Charter",
+      "source": "The Globe and Mail",
+      "title": "New organization works to support Black politicians as they face barriers, discrimination",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-black-politicians-organization-marks-incorporation/",
+      "summary": "The Canadian Congress of Black Politicians has officially incorporated as a national organization dedicated to supporting Black politicians who encounter systemic barriers and discrimination in Canadian public life.",
+      "graph": ["Equality Rights", "Systemic Discrimination", "Political Representation", "Anti-Racism"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the ongoing struggle against systemic racism and discrimination in political spheres, advocating for collective action and institutional support to ensure equitable representation and address historical injustices." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of fostering diverse political representation and addressing documented barriers, promoting a fair and inclusive democratic process through non-partisan organizational support." },
+          "right": { "label": "Conservative Context", "synthesis": "Underscores individual merit and equal opportunity, while acknowledging the importance of diverse voices in politics, but potentially cautioning against identity-based political organizations or preferential treatment." }
+        },
+        "neutral": "A new national organization, the Canadian Congress of Black Politicians, has been formed to provide support for Black politicians and address barriers and discrimination in Canadian public life."
+      }
+    },
+    {
+      "id": "abcdefg1-hijk-lmno-pqrs-tuvwxyza2345",
       "category": "Charter",
       "source": "National Post",
-      "title": "Opinion: Edmonton Warned Against UK-Style Hate Speech Reporting, Citing Free Speech Concerns",
+      "title": "Avi Benlolo: Jewish students need to come prepared for antisemitism on campuses this fall",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/collin-may-edmonton-should-not-repeat-u-k-s-hate-speech-reporting-mistakes",
-      "summary": "An opinion piece argues that Edmonton should avoid replicating the UK's approach to hate speech reporting, emphasizing that free speech is fundamental to liberal democracy and that hate speech must meet a criminal threshold for prosecution. The author warns against policies that might stifle legitimate expression.",
-      "graph": ["Freedom of Expression", "Hate Speech Law", "Civil Liberties", "Criminal Code"],
+      "url": "https://nationalpost.com/opinion/avi-benlolo-jewish-students-need-to-come-prepared-for-antisemitism-on-campuses-this-fall",
+      "summary": "An opinion piece advises Jewish students to proactively prepare for potential antisemitism on university campuses this fall, recommending safety plans, awareness of rights, and documentation of troubling incidents, reflecting growing concerns about campus environments.",
+      "graph": ["Religious Freedom", "Hate Speech", "Campus Safety", "Anti-Semitism"],
       "spectrum": {
-        "baseline": {
-          "left": 20,
-          "center": 40,
-          "right": 40
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive analyses would focus on the importance of combating hate speech to protect vulnerable groups and promote equality. They might advocate for broader definitions of hate speech and more accessible reporting mechanisms, viewing unfettered speech as potentially harmful."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral observers would examine the legal definitions of hate speech under the Charter and the Criminal Code, the practical challenges of enforcement, and comparative legal frameworks. They would seek balance between protecting free expression and preventing harm."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative viewpoints often prioritize free speech and criticize expansive definitions of hate speech, arguing that criminal thresholds should be high to prevent censorship and protect individual liberties. They might express concern over government overreach in regulating expression."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the failure of institutions to protect vulnerable minority groups, underscoring the need for comprehensive anti-hate policies and active support systems to ensure safety and inclusion for Jewish students." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on maintaining safe and respectful educational environments, balancing freedom of speech with the prevention of hate, and advocating for clear institutional guidelines and support for students experiencing discrimination." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes individual responsibility for personal safety and advocacy, while criticizing universities for perceived inaction or ideological biases that contribute to unsafe environments for certain student groups, and calling for stronger accountability." }
         },
-        "neutral": "An opinion piece advises Edmonton against adopting broad hate speech reporting policies, emphasizing strong free speech protections under the Charter and limiting prosecutions to criminal hate speech."
+        "neutral": "An opinion columnist suggests that Jewish students should prepare for potential antisemitism on university campuses by creating safety plans and understanding their rights amid rising concerns over campus environments."
       }
     },
     {
-      "id": "char-002",
+      "id": "mnopqrs6-tuvw-xyza-bcde-fghij5678901",
       "category": "Charter",
-      "source": "The Hub",
-      "title": "Edmonton Knife Attack Raises Concerns on Multiculturalism and Antisemitism for Canadian Jews",
+      "source": "National Post",
+      "title": "‘I was told to go die’: What Canadian Jewish students said about the antisemitism they’ve experienced on campus",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/13/an-edmonton-knife-attack-lays-bare-a-bleak-truth-multiculturalism-is-a-myth-if-it-excludes-canadian-jews/",
-      "summary": "A knife attack at Edmonton's Heritage Festival, targeting the Israel Pavilion amidst an anti-Israel protest, has sparked debate about the safety of Jewish Canadians and the principles of multiculturalism. The article critiques the rising hostility and the expectation for Jewish communities to answer for a foreign government's policies, calling for equal participation in public life free from such pressures.",
-      "graph": ["Antisemitism", "Multiculturalism", "Freedom from Discrimination", "Public Safety", "Freedom of Expression"],
+      "url": "https://nationalpost.com/opinion/i-was-told-to-go-die-what-canadian-jewish-students-said-about-the-antisemitism-theyve-experienced-on-campus",
+      "summary": "A federal survey found that 95.7% of Jewish students in Canada experienced or witnessed antisemitism in the past year, leading many to self-censor and nearly a quarter to consider abandoning their studies, with professors implicated in a significant portion of incidents.",
+      "graph": ["Equality Rights", "Hate Speech", "Campus Environment", "Academic Freedom", "Anti-Semitism"],
       "spectrum": {
-        "baseline": {
-          "left": 40,
-          "center": 30,
-          "right": 30
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive interpretations would emphasize the need to address hate-motivated violence and systemic discrimination against Jewish communities, advocating for stronger protections and inclusive multicultural policies that ensure safety and belonging for all groups without requiring political litmus tests."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "A neutral analysis would examine the legal and policy frameworks for multiculturalism, hate crime enforcement, and the protection of freedom of assembly and expression. It would also consider the role of local government and cultural institutions in managing divisive political issues within public spaces."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative viewpoints might stress individual responsibility for actions and condemn political violence, while also defending the right to free expression and assembly. They might criticize what they see as a failure of leadership to uphold civic order or prevent the politicization of cultural events."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Underscores the urgent need for universities to address systemic antisemitism and institutional failures in protecting Jewish students, advocating for comprehensive anti-discrimination measures and support for marginalized communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the findings of a federal survey on antisemitism on campuses as a call for institutional introspection, emphasizing the need for balanced policies that protect free speech while ensuring safe and inclusive educational environments for all students." },
+          "right": { "label": "Conservative Context", "synthesis": "Criticizes the perceived hypocrisy of DEI initiatives that fail to protect Jewish students, highlighting the erosion of intellectual freedom and the prevalence of ideologically driven discrimination on university campuses." }
         },
-        "neutral": "Following a knife attack at a cultural festival, a discussion has emerged regarding the efficacy of Canadian multiculturalism and the need to protect Jewish Canadians from discrimination and political pressure."
+        "neutral": "A federal survey reveals that the vast majority of Jewish students in Canada have experienced or witnessed antisemitism on campus, resulting in widespread self-censorship and concerns about academic well-being, with faculty frequently cited as a source."
       }
     },
     {
-      "id": "char-003",
+      "id": "hijklmn2-opqr-stuv-wxyz-abcde1234567",
       "category": "Charter",
       "source": "The Hub",
-      "title": "Comparative Analysis of Anglosphere Responses to Campus Antisemitism, Highlighting Canada's Approach",
+      "title": "Our DEI-obsessed universities are all about protecting minorities—until it comes to Jews",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/13/5-countries-5-approaches-how-the-anglosphere-is-and-isnt-fighting-antisemitism-on-campus/",
-      "summary": "A recent survey found that 95.7% of Jewish post-secondary students in Canada experienced or witnessed antisemitism on campus in the past year, with 18% of incidents involving faculty. This article compares how Anglosphere countries, including Canada, are tackling campus antisemitism, noting Canada's more 'hands-off' approach compared to the U.S. and Australia's direct government interventions, raising debates about free speech and public funding.",
-      "graph": ["Antisemitism", "Campus Environment", "Freedom of Expression", "Education Policy", "Human Rights"],
+      "url": "https://thehub.ca/2026/08/14/our-dei-obsessed-universities-are-all-about-protecting-minorities-until-it-comes-to-jews/",
+      "summary": "An opinion piece critiques Diversity, Equity, and Inclusion (DEI) initiatives in universities, arguing they selectively protect minorities and fail to address antisemitism effectively. It references a federal survey on Jewish students' experiences and broader criticisms of higher education culture.",
+      "graph": ["Equality Rights", "DEI Policy", "Academic Freedom", "Institutional Bias", "Anti-Semitism"],
       "spectrum": {
-        "baseline": {
-          "left": 45,
-          "center": 35,
-          "right": 20
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive analysis would advocate for stronger institutional and governmental action to protect marginalized students, emphasizing the need to combat all forms of hate speech and discrimination on campus, potentially supporting policies that prioritize student safety and inclusion over absolute free speech in certain contexts."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral academic discourse would analyze the legal boundaries of free speech versus hate speech in a campus setting, the effectiveness of various institutional policies, and the challenges of balancing academic freedom with the creation of a safe and inclusive learning environment."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative perspectives might prioritize freedom of expression and academic debate, cautioning against measures that could lead to censorship or ideological policing on campuses. They might criticize government intervention as overreach, emphasizing the role of universities in fostering open dialogue even on controversial topics."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for the re-evaluation and reinforcement of DEI principles to ensure they are truly inclusive and address all forms of discrimination, including antisemitism, fostering a more equitable and intersectional approach." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the complex challenges of implementing effective DEI policies in universities, balancing the goals of inclusion with the principles of free speech and academic freedom, and addressing the need for institutional consistency." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the current state of DEI in academia, arguing that it creates ideological bias, stifles intellectual diversity, and fails to protect certain minority groups like Jews, calling for a return to universal principles of merit and equality." }
         },
-        "neutral": "A Canadian survey reveals high rates of campus antisemitism, prompting a comparison of Anglosphere nations' varied approaches, from direct government intervention to Canada's more decentralized response, sparking debate on free speech and institutional accountability."
+        "neutral": "An opinion article argues that current Diversity, Equity, and Inclusion (DEI) frameworks in universities are failing to adequately address antisemitism, citing evidence of Jewish students' experiences of discrimination on campus."
       }
     }
   ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "crim-001",
+      "id": "12345678-90ab-cdef-1234-567890abcdef",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Saskatchewan Secures First Conviction Under New Anti-Exploitation Legislation",
+      "title": "After 42 years of trying, Canada loses another bid to deport alleged top Mafia boss in Toronto",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/new-anti-exploitation-crackdown-in-saskatchewan-yields-first-conviction",
-      "summary": "Dyan Jeny Enterprises in Saskatchewan has pleaded guilty and received the first conviction under new anti-exploitation legislation for demanding a $12,000 payment from an employee to maintain their Canadian work permit. This case marks a significant step in the province's efforts to combat worker exploitation.",
-      "graph": ["Worker Exploitation", "Criminal Law", "Saskatchewan Justice", "Labour Rights"],
+      "url": "https://nationalpost.com/news/canada/vincenzo-jimmy-demaria",
+      "summary": "After 42 years, Canadian authorities have again failed in their bid to deport Vincenzo DeMaria, an alleged Mafia boss convicted of second-degree murder, highlighting the enduring legal challenges in removing long-term residents with criminal records.",
+      "graph": ["Organized Crime", "Deportation", "Criminal Justice", "Immigration Law"],
       "spectrum": {
-        "baseline": {
-          "left": 40,
-          "center": 40,
-          "right": 20
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive commentators would laud the conviction as a crucial victory for worker rights and advocate for stronger protections against exploitation, especially for vulnerable temporary foreign workers. They might call for more aggressive enforcement and broader legislative reforms."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral legal analysis would focus on the application of the new anti-exploitation law, the evidentiary standards met for conviction, and the judicial process. It would examine the precedent set by this first conviction and its implications for future cases."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative perspectives would support law and order, condemning criminal exploitation while also potentially scrutinizing the economic impact of such regulations on businesses or the efficiency of the legal system in processing such cases. They might emphasize a balance between worker protection and business freedom."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Examines the legal complexities of long-term residency and deportation, questioning the protracted nature of the state's efforts and the implications for legal rights and due process, even for individuals with criminal histories." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial process and legal precedents involved in deportation cases for individuals with serious criminal convictions, highlighting the balance between public safety concerns and the rights afforded under Canadian law." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses frustration with the failure to deport a convicted criminal, emphasizing public safety concerns and advocating for more stringent immigration and deportation laws to remove dangerous individuals from the country." }
         },
-        "neutral": "Saskatchewan has achieved its first conviction under new anti-exploitation laws, with a company pleading guilty to extorting a worker for their Canadian work permit."
+        "neutral": "Canadian authorities have once again failed in their four-decade effort to deport an alleged Mafia figure convicted of murder, underscoring the complex legal barriers to removing individuals with established ties to Canada despite serious criminal records."
       }
     }
   ],
   "immigration": [
     {
-      "id": "imm-001",
+      "id": "fedcba98-7654-3210-fedc-ba9876543210",
       "category": "Immigration",
-      "source": "National Post",
-      "title": "Ontario Revises Regulations to Bar Undocumented Immigrants from Social Assistance",
+      "source": "The Globe and Mail",
+      "title": "Five years on, Canada, other countries pressed to learn from Afghan resettlement experience",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/ontario-changes-regulations-to-prevent-illegal-migrants-from-collecting-social-assistance",
-      "summary": "The Ontario government has amended its regulations to prevent individuals identified as 'illegal migrants' (likely undocumented immigrants or failed asylum seekers) from receiving provincial social assistance. This policy change responds to public and media attention regarding the eligibility of non-citizens for social welfare programs.",
-      "graph": ["Immigration Policy", "Social Assistance", "Provincial Regulations", "Undocumented Immigrants"],
+      "url": "https://www.theglobeandmail.com/politics/article-canada-other-countries-urged-to-learn-from-afghan-resettlement/",
+      "summary": "A new report urges Canada and other nations to learn critical lessons from the Afghan resettlement experience, particularly regarding the handling and support of locally engaged staff, to improve future international refugee and immigration efforts.",
+      "graph": ["Refugee Policy", "Resettlement", "International Relations", "Humanitarian Aid"],
       "spectrum": {
-        "baseline": {
-          "left": 20,
-          "center": 30,
-          "right": 50
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Progressive critics would argue that denying basic social assistance to vulnerable individuals, regardless of their immigration status, is inhumane and exacerbates poverty. They would advocate for more inclusive social safety nets and humane treatment, emphasizing the right to dignity and protection."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Neutral analysis would focus on the legal definitions of 'illegal migrant' within Canadian law, the jurisdictional division of powers between federal and provincial governments regarding immigration and social welfare, and the administrative implications of verifying status for assistance eligibility."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Conservative viewpoints would strongly support the policy change, emphasizing fiscal responsibility and the principle that social assistance should be reserved for legal residents and citizens. They would argue against extending benefits to those deemed 'illegal' to deter irregular migration and protect taxpayer funds."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for expanded and more compassionate refugee programs, emphasizing the moral obligation to protect and support those displaced by conflict, particularly locally engaged staff, and critiques past shortcomings in humanitarian response." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on evidence-based policy improvements for refugee resettlement, seeking to enhance efficiency, inter-agency coordination, and the long-term integration outcomes for newcomers based on past experiences." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for strategic and controlled immigration policies, ensuring thorough vetting and sustainable resource allocation, while learning from past resettlement challenges to manage future humanitarian intake responsibly." }
         },
-        "neutral": "Ontario has enacted new regulations to block undocumented immigrants from accessing provincial social assistance, a move aligning with calls for stricter eligibility criteria for welfare programs."
+        "neutral": "A report analyzing the Afghan resettlement experience calls for Canada and other countries to implement lessons learned, especially concerning support for locally engaged staff, to enhance future immigration and refugee programs."
       }
     }
   ]
