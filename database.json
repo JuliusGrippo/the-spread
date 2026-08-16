@@ -1,155 +1,79 @@
 {
   "federalism": [
     {
-      "id": "fed-1",
-      "category": "Federalism",
-      "source": "rabble.ca",
-      "title": "Alberta's 'Distinct Legal Tradition' Criticized as 'Péquiste Envy'",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/politics/canadian-politics/getting-lawyers-to-wear-cowboy-hats-for-10-days-every-july-is-the-closest-albertas-going-to-get-to-a-distinct-legal-tradition/",
-      "summary": "An article from rabble.ca critiques the Alberta United Conservative Party's rhetoric regarding a 'distinct legal tradition,' interpreting it as 'péquiste envy' and suggesting it's an attempt to assert a unique identity within Canada without substantive legal basis. The piece argues that such provincial identity politics are superficial and lack genuine foundational support for a separate legal framework.",
-      "graph": ["Provincial Autonomy", "Legal Tradition", "Alberta Politics", "Federal-Provincial Relations"],
-      "spectrum": {
-        "baseline": { "left": 60, "center": 20, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views the Alberta UCP's pursuit of a 'distinct legal tradition' as a performative and superficial exercise, possibly a diversion or a mimicry of Quebec sovereignty rhetoric, lacking real substance and potentially undermining national unity. Critiques the provincial government's priorities." },
-          "center": { "label": "Procedural Context", "synthesis": "Observes the ongoing tension between provincial aspirations for greater autonomy and the established federal legal framework. Notes the use of cultural symbolism in political rhetoric, without taking a definitive stance on the legitimacy of the 'distinct tradition' claim." },
-          "right": { "label": "Conservative Context", "synthesis": "May interpret Alberta's push for a 'distinct legal tradition' as a legitimate expression of provincial sovereignty and a desire to assert local values against federal influence or a uniform national approach. Could see it as a necessary step for regional identity and self-determination." }
-        },
-        "neutral": "The article analyzes the Alberta UCP's efforts to define a 'distinct legal tradition' within Canada, framing it as a political maneuver that evokes comparisons to Quebec's historical pursuit of distinctiveness, raising questions about the substance and implications of such claims for federal-provincial relations."
-      }
-    },
-    {
-      "id": "fed-2",
+      "id": "federalism-1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada-U.S. Tariff Negotiations Stall Ahead of Deadline",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-u-s-trade-talks-booze-bans-9.7307849?cmp=rss",
-      "summary": "Negotiations between Canada and the United States regarding tariffs are at an impasse, with significant disagreements remaining ahead of a U.S. President Donald Trump's deadline. Canadian officials are reportedly losing optimism, as the U.S. has not budged on its offer, which includes only halving sectoral tariffs on autos. Canada is being pressed to make concessions on provincial alcohol bans and dairy import quotas.",
-      "graph": ["International Trade", "Canada-U.S. Relations", "Tariffs", "Trade Negotiations", "Economic Policy"],
+      "title": "US-Canada Trade Tensions: Iowan Farmers Express Concern Over Potential Trump Tariffs on Canadian Goods",
+      "citation": "Recent Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-united-states-iowa-state-fair-trade-deal-9.7308691?cmp=rss",
+      "summary": "The article details concerns among Iowa farmers regarding former U.S. President Donald Trump's potential 50% tariffs on Canadian goods, which could take effect on August 19. Iowa's largest export market is Canada, and farmers fear economic instability and loss of reliable trade partners due to chaotic trade policies. Ongoing negotiations between Canada and the U.S. have yet to yield a resolution, leading to apprehension among agricultural producers in Iowa.",
+      "graph": ["International Trade", "US-Canada Relations", "Agricultural Policy", "Tariffs", "Economic Impact"],
       "spectrum": {
-        "baseline": { "left": 25, "center": 50, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the vulnerability of Canadian industries and workers to U.S. protectionism, potentially calling for stronger government intervention to protect domestic sectors and resist unfair demands. Could highlight the impact on ordinary consumers." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides an objective overview of the bilateral trade negotiations, detailing the points of contention, the respective positions of Canada and the U.S., and the challenges in reaching a resolution before the looming deadline. Focuses on the procedural aspects of trade diplomacy." },
-          "right": { "label": "Conservative Context", "synthesis": "Could critique the Canadian government's negotiation strategy, suggesting a need for a more assertive or strategic approach to protect Canadian economic interests. May also highlight the necessity of free trade principles while acknowledging the challenges posed by protectionist measures." }
+          "left": { "label": "Progressive Context", "synthesis": "Focus on the negative impacts of protectionist trade policies on agricultural communities and international cooperation, emphasizing stable, fair trade relations over unilateral aggressive measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the procedural challenges and economic uncertainties created by political shifts in trade policy, focusing on the current state of negotiations and the practical concerns of affected industries." },
+          "right": { "label": "Conservative Context", "synthesis": "Views such tariffs as a potential tool for national economic interest, even if causing short-term disruption, emphasizing the importance of protecting domestic industries, though acknowledging farmer concerns about market access." }
         },
-        "neutral": "Canada and the U.S. are reportedly far from an agreement on tariff negotiations, with a U.S. deadline approaching and significant differences remaining on issues such as auto tariffs and Canadian concessions on alcohol bans and dairy quotas."
+        "neutral": "The potential imposition of significant U.S. tariffs on Canadian goods threatens Iowa's agricultural economy, with farmers expressing concern over trade instability as bilateral negotiations continue."
       }
     },
     {
-      "id": "fed-3",
+      "id": "federalism-2",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "U.S. Warns Canada Against Retaliatory Measures as Tariff Deadline Nears",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/greer-retaliation-trade-deal-tariffs-9.7307407?cmp=rss",
-      "summary": "U.S. Trade Representative Jamieson Greer stated that the Trump administration will not tolerate any retaliatory measures from Canada if new 50% tariffs on Canadian goods are imposed on August 19. Greer characterized the U.S. actions as protecting domestic supply chains, not a trade war, and compared Canadian retaliatory measures like booze bans to tactics used by China.",
-      "graph": ["International Trade", "Canada-U.S. Relations", "Trade War", "Tariff Threats", "Economic Sanctions"],
+      "source": "National Post",
+      "title": "Opinion: Ontario Line Project Highlights Need for Infrastructure Funding Reform in Canada",
+      "citation": "Recent Tracking Window",
+      "url": "https://nationalpost.com/opinion/chris-selley-ontario-line-should-be-the-beginning-of-the-end-of-canadas-infrastructure-surcharge-nightmare",
+      "summary": "Chris Selley's opinion piece argues that the Ontario Line project should serve as a catalyst for overhauling Canada's approach to infrastructure funding and surcharges. The author critiques existing models, implying a systemic issue in how major public works are financed and delivered, calling for smarter, more efficient strategies across different levels of government to avoid a 'surcharge nightmare' and improve project execution.",
+      "graph": ["Infrastructure Funding", "Public Transit", "Provincial-Federal Relations", "Fiscal Policy", "Project Management"],
       "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Interprets the U.S. position as aggressive protectionism, undermining international trade norms and putting undue pressure on Canada. Calls for a firm Canadian response to protect national sovereignty and workers' rights, potentially through international mechanisms." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the U.S. administration's firm stance against Canadian retaliation in the escalating tariff dispute, detailing USTR Greer's statements regarding the rationale for U.S. tariffs and their intolerance of Canadian countermeasures, framing it within the context of ongoing bilateral trade talks." },
-          "right": { "label": "Conservative Context", "synthesis": "May view the U.S. demands as a strong assertion of national economic interests, perhaps justified by perceived Canadian trade barriers (like dairy quotas). Could advocate for Canada to find a resolution that avoids further escalation and prioritizes market access." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for increased public investment and federal leadership in infrastructure to ensure equitable access and robust public services, criticizing current funding shortfalls or privatization trends." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the efficiency and effectiveness of current project delivery mechanisms and financing models, seeking procedural improvements and evidence-based policy changes to optimize infrastructure spending." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes reducing taxpayer burden, critiquing government inefficiency, and potentially advocating for greater private sector involvement or localized funding models to improve accountability and cost-effectiveness." }
         },
-        "neutral": "The U.S. Trade Representative declared that the Trump administration would not tolerate Canadian retaliation if new tariffs are imposed, framing U.S. actions as domestic supply chain protection and criticizing Canadian countermeasures."
+        "neutral": "An opinion column identifies the Ontario Line project as symptomatic of broader issues in Canadian infrastructure funding and delivery, advocating for reform to current surcharge models and overall project management."
       }
     },
     {
-      "id": "fed-4",
+      "id": "federalism-3",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada Sanctions Iranian Officials Over Strait of Hormuz Navigation Interference",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-new-sanctions-iranians-strait-of-hormuz-9.7307555?cmp=rss",
-      "summary": "Canada has imposed new sanctions on five senior Iranian officials, including members of the Islamic Revolutionary Guard Corps (IRGC), for their alleged involvement in activities that obstruct navigation rights in the Strait of Hormuz. Foreign Affairs Minister Anita Anand emphasized that freedom of navigation is critical for global trade and energy security, urging Iran to de-escalate.",
-      "graph": ["Foreign Policy", "International Security", "Sanctions", "Iran", "Strait of Hormuz"],
+      "source": "Toronto Sun",
+      "title": "Public Opinion: Letters to Editor Critique Liberal Government's Handling of Trade Deals and Election Timing",
+      "citation": "Recent Tracking Window",
+      "url": "https://torontosun.com/opinion/letters/letters-to-the-editor-aug-16-2026",
+      "summary": "A letter to the editor expresses public skepticism regarding the Liberal government's timing of trade agreements, suggesting that a significant deal might be strategically delayed until closer to the next election for political gain. This reflects public discourse and potential partisan views on federal economic policy and governance.",
+      "graph": ["Federal Politics", "Trade Policy", "Election Strategy", "Public Opinion", "Economic Policy"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports diplomatic measures and targeted sanctions against regimes that threaten international peace and human rights, but may also call for broader efforts to de-escalate regional tensions and address root causes of instability." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on Canada's decision to impose sanctions on Iranian officials in response to actions in the Strait of Hormuz, emphasizing the federal government's role in upholding international navigation rights and contributing to global security, as outlined by the Foreign Affairs Minister." },
-          "right": { "label": "Conservative Context", "synthesis": "Commends Canada's firm stance against Iranian aggression and its alignment with international allies to protect vital shipping lanes. May advocate for even stronger punitive measures or greater military presence to deter such threats." }
+          "left": { "label": "Progressive Context", "synthesis": "May view the critique as highlighting government's potential manipulation of economic outcomes for political purposes, potentially indicating a lack of genuine commitment to broad public welfare." },
+          "center": { "label": "Procedural Context", "synthesis": "Interprets the letter as a reflection of political cycles and the interplay between government actions and electoral considerations, a common feature of parliamentary democracy." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the criticism, seeing it as evidence of the Liberal government's self-serving approach, prioritizing political survival over immediate economic relief or efficient policy-making." }
         },
-        "neutral": "Canada has announced new sanctions against five Iranian officials, including IRGC members, citing their actions in the Strait of Hormuz as undermining international peace and freedom of navigation, a move the Foreign Affairs Minister states is crucial for global trade and energy security."
+        "neutral": "A published letter to the editor speculates that the federal Liberal government may be strategically timing a major trade deal to coincide with the next election for political advantage."
       }
     },
     {
-      "id": "fed-5",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Canada and U.S. Discuss Critical Minerals and Defence Priorities",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-canada-and-us-discuss-critical-minerals-and-defence/",
-      "summary": "Discussions between Canada and the U.S. are ongoing, with American demands including a right of first refusal on Canadian critical minerals and the purchase of U.S. F-35 fighter jets. These talks highlight broader bilateral economic and security cooperation and strategic resource considerations.",
-      "graph": ["Bilateral Relations", "Critical Minerals", "Defence Policy", "Canada-U.S. Alliance", "Resource Strategy"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 50, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might express concern over the potential for Canadian resources to be exploited or for defense policy to be unduly influenced by U.S. demands, advocating for policies that prioritize Canadian sovereignty and environmental protection." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the ongoing bilateral discussions between Canada and the U.S. concerning strategic areas such as critical minerals and defense procurement, outlining key U.S. requests and the implications for Canadian foreign and economic policy." },
-          "right": { "label": "Conservative Context", "synthesis": "Views closer integration with the U.S. on critical minerals and defense as a pragmatic and beneficial move for Canadian security and economic prosperity, aligning with shared continental interests and strengthening alliances." }
-        },
-        "neutral": "Canada and the U.S. are engaged in discussions that include American demands for a right of first refusal on Canadian critical minerals and Canada's procurement of F-35 fighter jets, reflecting ongoing bilateral cooperation in economic and defense sectors."
-      }
-    },
-    {
-      "id": "fed-6",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "U.S. Senator Views Tariffs as 'Wake-Up Call' for Canada's Policies",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12022815/senator-says-tariffs-a-wake-up-call-for-canada/",
-      "summary": "U.S. Senator Chuck Grassley commented that President Donald Trump's threat of new tariffs on Canadian goods should serve as a 'wake-up call' for Canada to implement changes. This perspective highlights the U.S. view that current Canadian policies or trade practices necessitate adjustments to avoid punitive measures.",
-      "graph": ["International Trade", "Trade Disputes", "Canada-U.S. Relations", "Economic Pressure", "Bilateral Policy"],
-      "spectrum": {
-        "baseline": { "left": 20, "center": 60, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Sees this statement as further evidence of aggressive U.S. trade tactics, potentially aimed at forcing Canada into unfavourable concessions. Calls for Canada to stand firm and resist external pressure on its sovereign policy choices." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on a U.S. Senator's characterization of potential U.S. tariffs as a 'wake-up call' for Canada, indicating a U.S. desire for Canadian policy changes in response to trade grievances." },
-          "right": { "label": "Conservative Context", "synthesis": "Might agree with the sentiment that Canada needs to re-evaluate its trade policies and practices to alleviate tensions with its largest trading partner, possibly advocating for reforms that align more closely with market liberalization." }
-        },
-        "neutral": "A U.S. Senator stated that President Trump's tariff threats are intended to prompt Canada to make policy changes, underscoring the U.S. administration's intent to use economic pressure to influence Canadian trade practices."
-      }
-    },
-    {
-      "id": "fed-7",
+      "id": "federalism-4",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Ontario's New Data Centre Playbook Prioritizes Higher Power Rates, No Incentives",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/14/ontario-unveils-data-centre-playbook-with-higher-power-rates-and-no-cash-incentives/",
-      "summary": "The Ontario government has introduced a new framework for AI data centers, proposing higher electricity rates for facilities consuming over one megawatt, no direct cash incentives, and a requirement for developers to fund infrastructure upgrades. This policy aims to protect consumers from rising costs but faces criticism for potentially deterring investment in the critical AI sector. The move also highlights municipal concerns about local impacts and the broader provincial approach to economic development.",
-      "graph": ["Provincial Policy", "Economic Development", "AI Infrastructure", "Energy Policy", "Municipal Relations", "Investment Incentives"],
+      "title": "Former CSIS Director Warns of Recurring Chinese Espionage in Canadian NATO Mission",
+      "citation": "Recent Tracking Window",
+      "url": "https://thehub.ca/2026/08/16/its-going-to-happen-again-former-csis-head-on-how-china-snuck-a-spy-into-canadas-nato-mission/",
+      "summary": "Richard Fadden, former CSIS director, discusses the recent arrest of a Canadian intern of Chinese origin for alleged espionage at NATO, highlighting failures in Canada's vetting system. Despite the individual clearing RCMP and CSIS background checks, evidence of prior fraud existed. Fadden emphasizes that such incidents are not surprising given China's tenacious intelligence gathering and warns that they will recur, calling for better inter-departmental database connectivity without creating excessive government control.",
+      "graph": ["National Security", "Espionage", "Foreign Interference", "Vetting Systems", "CSIS Operations", "NATO Security"],
       "spectrum": {
-        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might criticize the policy for potentially shifting costs onto communities or for failing to adequately address environmental concerns associated with data centers. Could advocate for more public investment or regulatory oversight to ensure equitable development." },
-          "center": { "label": "Procedural Context", "synthesis": "Describes Ontario's new framework for AI data centers, which outlines specific financial and infrastructure requirements for developers, noting the province's objective to manage consumer costs and municipal impacts while attracting technological investment." },
-          "right": { "label": "Conservative Context", "synthesis": "Commends the Ontario government's approach of avoiding cash incentives and requiring developers to bear infrastructure costs, aligning with principles of fiscal responsibility and market-driven investment. Supports policies that reduce burdens on taxpayers and promote competitive energy pricing." }
+          "left": { "label": "Progressive Context", "synthesis": "May focus on the need for robust oversight of intelligence agencies and data sharing protocols to prevent civil liberties infringements, while acknowledging the necessity of national security." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the technical and procedural challenges of securing sensitive positions and data in an interconnected world. Calls for systemic improvements in vetting and information sharing within a balanced legal framework." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for stronger, more aggressive counter-intelligence measures and greater accountability for security breaches, often linking such failures to perceived government leniency or bureaucratic inefficiency." }
         },
-        "neutral": "Ontario has released a framework for AI data centers, stipulating higher electricity rates for large facilities and requiring developers to fund infrastructure, a policy intended to manage costs for consumers and address municipal concerns, though it may influence investment."
-      }
-    },
-    {
-      "id": "fed-8",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Canada's Low Business Formation Rate Linked to Flawed Economic Policy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/14/canada-ranks-17th-of-22-advanced-economies-on-business-formation-and-the-leaders-all-followed-the-same-playbook/",
-      "summary": "Canada ranks 17th out of 22 advanced economies in new business formation, a trend that is worsening despite population growth. The article argues that Canada's policy approach, which layers targeted credits onto a weak tax and regulatory framework, contrasts sharply with leading nations (Estonia, Singapore, Ireland) that first established competitive framework conditions before implementing targeted supports. This analysis suggests Canada's current policies deter growth and investment.",
-      "graph": ["Economic Policy", "Business Creation", "Taxation", "Regulation", "International Competitiveness", "Startup Ecosystem"],
-      "spectrum": {
-        "baseline": { "left": 15, "center": 35, "right": 50 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May argue that while business formation is important, the focus should also be on equitable growth, worker protection, and addressing social inequalities, rather than solely on deregulation and tax cuts that could exacerbate wealth disparities." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents an analysis of Canada's relatively low business formation rate compared to other advanced economies, examining the differing policy approaches in leading nations versus Canada's and highlighting the potential economic consequences of these discrepancies." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for a fundamental shift in Canadian economic policy towards lower corporate taxes, lighter regulation, and open markets, arguing these foundational 'framework conditions' are essential for fostering entrepreneurship and competitiveness, rather than relying on targeted subsidies." }
-        },
-        "neutral": "An analysis reveals Canada's low ranking in business formation among advanced economies, attributing it to a policy sequence that prioritizes targeted credits over fundamental reforms to tax and regulatory frameworks, diverging from the successful strategies of leading entrepreneurial nations."
+        "neutral": "A former CSIS director analyzed the case of a Canadian national accused of spying for China at NATO, highlighting lapses in Canada's security vetting process and predicting future espionage attempts by foreign adversaries."
       }
     }
   ],
@@ -158,62 +82,101 @@
       "id": "charter-1",
       "category": "Charter",
       "source": "National Post",
-      "title": "Muslim Association Pledges to Prevent Future 'Jew-Free' Incidents at Youth Events",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/muslim-association-promises-jew-free-incident-will-not-recur-at-future-youth-events",
-      "summary": "The Muslim Association of Canada (MAC) has publicly committed to preventing future 'Jew-free' incidents at its youth events, following an outcry over discriminatory language. The association acknowledged the statement was 'offensive and discriminatory' and affirmed that such exclusion has no place within the Muslim community, indicating a commitment to anti-discrimination policies.",
-      "graph": ["Anti-Discrimination", "Human Rights", "Religious Freedom", "Community Relations", "Youth Events"],
+      "title": "Public Debate on Federal Restrictions on Prayer by Canadian Armed Forces Chaplains",
+      "citation": "Recent Tracking Window",
+      "url": "https://nationalpost.com/opinion/letters-praying-the-feds-see-the-light-about-armed-forces-chaplains",
+      "summary": "Letters to the editor reflect public concern over proposed federal government policies seeking to restrict public prayers by Canadian Armed Forces chaplains. This issue touches on the balance between military secularism, religious freedom (guaranteed under the Charter of Rights and Freedoms), and the role of spiritual services within a pluralistic institution.",
+      "graph": ["Religious Freedom", "Canadian Armed Forces", "Charter Rights", "Government Policy", "Secularism"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of swift and strong action against all forms of discrimination, advocating for inclusive policies and robust educational initiatives to combat antisemitism and other forms of hate, especially in youth programming." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the Muslim Association of Canada's response to an incident of discriminatory language at a youth event, detailing their commitment to ensure such 'Jew-free' statements do not recur and their affirmation of anti-discriminatory principles." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the incident as a concerning instance of antisemitism and emphasizes the need for vigilance against all forms of religious and ethnic discrimination. May underscore the importance of holding organizations accountable for promoting inclusive environments." }
+          "left": { "label": "Progressive Context", "synthesis": "May support measures to ensure inclusivity and secularism within public institutions like the military, potentially viewing unrestricted public prayer as exclusionary or infringing on others' rights to a neutral environment." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and administrative interpretation of religious freedom within institutional contexts, seeking policies that balance individual rights with institutional needs and a diverse workforce." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for the protection of religious expression, viewing restrictions on prayer as an infringement on fundamental Charter rights and potentially an overreach of government authority into personal faith." }
         },
-        "neutral": "The Muslim Association of Canada has vowed to prevent future 'Jew-free' incidents at its youth events, acknowledging the discriminatory nature of the prior statement and committing to uphold inclusive principles within its community."
-      }
-    }
-  ],
-  "indigenous": [],
-  "criminal": [],
-  "immigration": [
-    {
-      "id": "imm-1",
-      "category": "Immigration",
-      "source": "CBC News",
-      "title": "Canada Grapples with Afghanistan's Aftermath Five Years Post-Taliban Takeover",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/afghan-taliban-war-evacuation-women-violence-9.7307900?cmp=rss",
-      "summary": "Five years after the Taliban's takeover of Kabul, Canada continues to grapple with the aftermath, including the resettlement of Afghan refugees and a reassessment of its role in the conflict. The article highlights the ongoing challenges faced by Afghans, particularly the systematic oppression of women and suppression of dissent under the Taliban regime, and the experiences of those who have found refuge in Canada.",
-      "graph": ["Refugee Resettlement", "Afghanistan Crisis", "Canadian Foreign Policy", "Humanitarian Aid", "Immigration Policy"],
-      "spectrum": {
-        "baseline": { "left": 40, "center": 40, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for more comprehensive and accelerated refugee resettlement programs for Afghans, especially women and vulnerable populations, and a critical review of Canada's past interventions and responsibilities in Afghanistan." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides an overview of the ongoing humanitarian and political implications five years after the fall of Kabul, focusing on Canada's role in refugee resettlement efforts and the persistent challenges faced by the Afghan population under Taliban rule, including the systematic erosion of women's rights." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize the practical challenges and costs associated with large-scale refugee resettlement, while acknowledging the humanitarian imperative. Could also call for stricter vetting processes for immigrants." }
-        },
-        "neutral": "Five years after the fall of Kabul, Canada continues to address the humanitarian crisis through refugee resettlement, with ongoing discussions about the systematic oppression of women in Afghanistan and the experiences of Afghan refugees now in Canada."
+        "neutral": "Public correspondence expresses concern regarding federal government initiatives to limit public prayer among Canadian Armed Forces chaplains, raising questions about religious freedom and institutional policy."
       }
     },
     {
-      "id": "imm-2",
-      "category": "Immigration",
-      "source": "Global News",
-      "title": "Afghan Advocates Urge Continued Canadian Attention to Taliban's Five-Year Rule",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12022822/afghanistan-five-years-taliban-rule/",
-      "summary": "On the fifth anniversary of the Taliban's capture of Kabul, Afghan advocates in Canada are urging the Canadian public and government not to overlook the ongoing oppression of women and human rights abuses in Afghanistan. Their call highlights the need for continued attention to the crisis and support for those affected, especially as refugees seek safety and integration in Canada.",
-      "graph": ["Human Rights Advocacy", "Afghan Diaspora", "Immigration Support", "Taliban Regime", "International Awareness"],
+      "id": "charter-2",
+      "category": "Charter",
+      "source": "Slaw",
+      "title": "Quebec Court of Appeal Orders New Trial in Impaired Driving Causing Death Case Due to Legal Errors and Charter Violations",
+      "citation": "Recent Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/16/summaries-sunday-soquij-640/",
+      "summary": "The Quebec Court of Appeal has ordered a new trial in a case involving impaired driving causing death (with faculties impaired and exceeding legal alcohol limits). The appeal court found that the trial judge erred in applying the legal framework for causality and improperly dismissed expert evidence. Crucially, the decision also upheld that constitutional rights, specifically the right to counsel before breathalyzer tests, were violated, though the evidence from the tests was ultimately admissible due to a balancing of factors under Section 24(2) of the Charter.",
+      "graph": ["Criminal Law", "Impaired Driving", "Right to Counsel", "Evidence Admissibility", "Judicial Error", "Quebec Court of Appeal"],
       "spectrum": {
-        "baseline": { "left": 45, "center": 40, "right": 15 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the calls for Canada to increase its humanitarian efforts and immigration pathways for Afghans, especially women, and to actively condemn and work against the human rights violations committed by the Taliban." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the advocacy efforts by Afghan communities in Canada, marking the fifth anniversary of the Taliban's takeover of Kabul, and their appeals to the Canadian government and public to maintain focus on human rights issues and the plight of women in Afghanistan." },
-          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the human rights concerns but may focus on the effectiveness and sustainability of Canadian aid and immigration policies, ensuring resources are used efficiently while prioritizing national security." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of due process and protecting the rights of the accused, including the right to counsel, to ensure fair trials, even in serious criminal cases." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the correct application of legal principles and procedural fairness by the courts, highlighting the judicial process of identifying and correcting errors in legal reasoning and evidence assessment, including Charter-based exclusions." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes public safety and accountability for serious crimes, potentially viewing Charter challenges as technicalities that can impede justice, though acknowledging the necessity of constitutional safeguards." }
         },
-        "neutral": "Afghan advocates in Canada are commemorating five years of Taliban rule by urging continued Canadian attention and action regarding the oppression of women and human rights in Afghanistan, reinforcing the ongoing need for support and awareness."
+        "neutral": "The Quebec Court of Appeal mandated a new trial for an individual convicted of impaired driving causing death, citing errors in the trial judge's causality analysis and improper dismissal of expert testimony, while also addressing the admissibility of evidence despite a Charter breach related to the right to counsel."
       }
     }
-  ]
+  ],
+  "indigenous": [
+    {
+      "id": "indigenous-1",
+      "category": "Indigenous",
+      "source": "National Post",
+      "title": "Opinion: Commentary on Persistent Controversy Surrounding Egerton Ryerson's Legacy and Indigenous Reconciliation",
+      "citation": "Recent Tracking Window",
+      "url": "https://nationalpost.com/opinion/egerton-ryersons-name-is-still-in-the-mud",
+      "summary": "This opinion piece by Jerry Amernic criticizes Victoria University's perceived failure to adequately address the tarnished reputation of Egerton Ryerson, particularly in the context of recent 'woke' cultural shifts. The article implicitly highlights the ongoing debate surrounding historical figures linked to Canada's residential school system, with Ryerson being a central figure in the establishment of Ontario's education system that influenced residential schools. The commentary reflects a resistance to or critique of contemporary efforts to re-evaluate historical legacies in light of Indigenous experiences.",
+      "graph": ["Indigenous Reconciliation", "Historical Revisionism", "Residential Schools", "Public Memory", "Cancel Culture", "Education Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for a thorough re-evaluation of historical figures and institutions tied to colonial harms, supporting name changes and public education on Indigenous histories as part of reconciliation." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the balanced academic and public discourse required to address complex historical legacies, seeking fair processes for acknowledging past wrongs while also recognizing historical contributions." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques what it perceives as 'cancel culture' or an overly aggressive re-writing of history, emphasizing the importance of preserving historical figures' legacies without erasing their positive contributions or succumbing to presentism." }
+        },
+        "neutral": "An opinion piece examines the ongoing debate regarding Egerton Ryerson's historical legacy, arguing that Victoria University has not adequately addressed the reputational damage incurred during contemporary re-evaluations tied to Canada's residential school system."
+      }
+    }
+  ],
+  "criminal": [
+    {
+      "id": "criminal-1",
+      "category": "Criminal",
+      "source": "National Post",
+      "title": "Toronto Police Search for Suspect in Unprovoked Daylight Stabbing at Yonge and Bloor",
+      "citation": "Recent Tracking Window",
+      "url": "https://nationalpost.com/news/canada/heavily-tattooed-man-sought-in-unprovoked-daylight-stabbing-of-stranger-at-yonge-and-bloor",
+      "summary": "Toronto police are actively seeking a suspect described as a heavily tattooed man in connection with an unprovoked daylight stabbing of a stranger at a busy downtown intersection (Yonge and Bloor). The victim sustained serious injuries but is expected to survive the attack, which occurred on a sidewalk, highlighting concerns about public safety in urban areas.",
+      "graph": ["Violent Crime", "Public Safety", "Police Investigation", "Toronto", "Stabbing"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May focus on underlying social determinants of crime, advocating for community-based solutions, mental health support, and addressing root causes rather than solely punitive measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for effective policing, victim support, and a functioning justice system to respond to criminal acts and maintain public order." },
+          "right": { "label": "Conservative Context", "synthesis": "Calls for increased police presence, harsher penalties for violent offenders, and a strong law-and-order approach to deter crime and ensure public safety." }
+        },
+        "neutral": "Toronto authorities are conducting a search for a suspect involved in an unprovoked daylight stabbing of a pedestrian at the Yonge and Bloor intersection."
+      }
+    },
+    {
+      "id": "criminal-2",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Toronto Stabbing Suspect Sought; Separate Charges Laid in St. Catharines Gun Seizure",
+      "citation": "Recent Tracking Window",
+      "url": "https://torontosun.com/news/local-news/suspect-unprovoked-toronto-stabbing-gun-seized-pair-charged-st-catharines",
+      "summary": "This report covers two distinct criminal incidents: Toronto police are searching for a suspect in an unprovoked stabbing where a victim was attacked from behind on a sidewalk. Separately, in St. Catharines, authorities seized a gun and laid charges against two individuals. Both incidents underscore ongoing challenges in urban public safety and law enforcement efforts against violent crime and illegal firearms.",
+      "graph": ["Violent Crime", "Gun Control", "Police Charges", "Public Safety", "Toronto", "St. Catharines"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May highlight the systemic issues contributing to urban violence, such as poverty, lack of opportunity, or mental health crises, alongside concerns about gun proliferation." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual reporting of criminal events and law enforcement responses, emphasizing the investigative process and court proceedings." },
+          "right": { "label": "Conservative Context", "synthesis": "Calls for stronger policing, stricter penalties for violent and weapons-related offenses, and a firm stance against urban crime to restore public order." }
+        },
+        "neutral": "Police are actively seeking a suspect in an unprovoked stabbing in Toronto, while in a separate incident, a firearm was seized and two individuals were charged in St. Catharines."
+      }
+    }
+  ],
+  "immigration": []
 }
