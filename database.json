@@ -1,182 +1,353 @@
 {
   "federalism": [
     {
-      "id": "federalism-1",
+      "id": "fed_1",
+      "category": "Federalism",
+      "source": "The Narwhal",
+      "title": "Federal Policy Debate Ignites Over Oil Company Windfall Profits and Climate Investment",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/canada-oilsands-windfall-profits-iran-war/?utm_source=rss",
+      "summary": "Advocates are pushing for a federal windfall profits tax on Canadian oil companies, whose earnings have surged due to global energy crises. The proposed tax aims to alleviate the cost of living for Canadians and fund decarbonization efforts. This comes as the industry has historically directed profits towards shareholder buybacks rather than significant investments in clean energy or emissions reduction, despite calls from federal ministers. A recent poll indicates strong public support for such a tax.",
+      "graph": ["Windfall Tax", "Oil & Gas Industry", "Climate Policy", "Energy Prices", "Cost of Living", "Federal Revenue", "Corporate Responsibility"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strong advocacy for government intervention to redistribute corporate profits, fund climate initiatives, and address economic inequality. Critiques industry's lack of reinvestment in green technologies." },
+          "center": { "label": "Procedural Context", "synthesis": "Acknowledges public pressure and the policy debate surrounding resource profits, seeking a balance between industry profitability, environmental responsibilities, and public benefit. Focuses on the feasibility and economic impact of such a tax." },
+          "right": { "label": "Conservative Context", "synthesis": "Opposes government-imposed windfall taxes, viewing them as disincentives for investment, harmful to economic growth, and an infringement on corporate autonomy. Emphasizes market forces and industry-led solutions." }
+        },
+        "neutral": "Discussion surrounding the imposition of a federal windfall profits tax on Canadian oil companies, aimed at addressing cost of living and climate change, in light of rising energy prices and industry profit allocation."
+      }
+    },
+    {
+      "id": "fed_2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "US-Canada Trade Tensions: Iowan Farmers Express Concern Over Potential Trump Tariffs on Canadian Goods",
-      "citation": "Recent Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-united-states-iowa-state-fair-trade-deal-9.7308691?cmp=rss",
-      "summary": "The article details concerns among Iowa farmers regarding former U.S. President Donald Trump's potential 50% tariffs on Canadian goods, which could take effect on August 19. Iowa's largest export market is Canada, and farmers fear economic instability and loss of reliable trade partners due to chaotic trade policies. Ongoing negotiations between Canada and the U.S. have yet to yield a resolution, leading to apprehension among agricultural producers in Iowa.",
-      "graph": ["International Trade", "US-Canada Relations", "Agricultural Policy", "Tariffs", "Economic Impact"],
+      "title": "Canada-U.S. Trade Negotiations Face Impasse as New Tariffs Loom and Provinces Resist Concessions",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-trump-tariffs-trade-deal-negotiation-sectoral-relief-lumber-auto-steel-9.7309039?cmp=rss",
+      "summary": "Canadian and U.S. negotiators are at a critical impasse regarding looming 50% U.S. tariffs on Canadian goods, with a deadline approaching. Washington demands the lifting of provincial restrictions on American alcohol, while Ottawa seeks relief from existing tariffs on sectors like steel, aluminum, auto, and lumber. Canadian provinces, particularly Quebec (on dairy) and others (on alcohol), are unwilling to concede without substantial tariff relief, creating a complex federal-provincial challenge for the Canadian government.",
+      "graph": ["Canada-US Trade", "Tariffs", "Trade Negotiations", "Federal-Provincial Relations", "Auto Industry", "Dairy Industry", "Softwood Lumber", "Alcohol Trade"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focus on the negative impacts of protectionist trade policies on agricultural communities and international cooperation, emphasizing stable, fair trade relations over unilateral aggressive measures." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the procedural challenges and economic uncertainties created by political shifts in trade policy, focusing on the current state of negotiations and the practical concerns of affected industries." },
-          "right": { "label": "Conservative Context", "synthesis": "Views such tariffs as a potential tool for national economic interest, even if causing short-term disruption, emphasizing the importance of protecting domestic industries, though acknowledging farmer concerns about market access." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for a firm stance against U.S. protectionism, protection of Canadian workers and industries, while highlighting the internal challenges of federal-provincial coordination on trade." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the diplomatic and economic complexities, the specific points of contention in negotiations, the urgent need to avert tariffs, and the balancing act between national and provincial interests." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques Canadian protectionist measures (e.g., supply management, provincial alcohol monopolies) for hindering trade deals, advocating for concessions to secure broader economic benefits and minimize tariff impact." }
         },
-        "neutral": "The potential imposition of significant U.S. tariffs on Canadian goods threatens Iowa's agricultural economy, with farmers expressing concern over trade instability as bilateral negotiations continue."
+        "neutral": "Ongoing high-stakes trade negotiations between Canada and the U.S. are stalled due to U.S. tariff threats and Canada's challenges in coordinating provincial concessions on sectors like alcohol and dairy."
       }
     },
     {
-      "id": "federalism-2",
+      "id": "fed_3",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Opinion: Ontario Line Project Highlights Need for Infrastructure Funding Reform in Canada",
-      "citation": "Recent Tracking Window",
-      "url": "https://nationalpost.com/opinion/chris-selley-ontario-line-should-be-the-beginning-of-the-end-of-canadas-infrastructure-surcharge-nightmare",
-      "summary": "Chris Selley's opinion piece argues that the Ontario Line project should serve as a catalyst for overhauling Canada's approach to infrastructure funding and surcharges. The author critiques existing models, implying a systemic issue in how major public works are financed and delivered, calling for smarter, more efficient strategies across different levels of government to avoid a 'surcharge nightmare' and improve project execution.",
-      "graph": ["Infrastructure Funding", "Public Transit", "Provincial-Federal Relations", "Fiscal Policy", "Project Management"],
+      "source": "CBC News",
+      "title": "Federal and Provincial Leaders Announce New Churchill Falls Hydroelectric Agreement",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/major-energy-announcement-coming-as-prime-minister-top-officials-from-quebec-travel-to-st-john-s-9.7309135?cmp=rss",
+      "summary": "Prime Minister Mark Carney, alongside the Premiers of Quebec and Newfoundland and Labrador, is set to announce a significant energy agreement in St. John's. Sources indicate the deal involves a new contract for Churchill Falls hydroelectric power, guaranteeing Newfoundland and Labrador increased transmission access (985 megawatts) through Quebec to other markets. The agreement is also expected to boost electricity shares for both provinces, potentially through upgrades to existing and new hydroelectric facilities.",
+      "graph": ["Inter-provincial Agreement", "Energy Security", "Hydroelectric Power", "Churchill Falls", "Economic Development", "Federal-Provincial Collaboration", "Resource Management"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for increased public investment and federal leadership in infrastructure to ensure equitable access and robust public services, criticizing current funding shortfalls or privatization trends." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the efficiency and effectiveness of current project delivery mechanisms and financing models, seeking procedural improvements and evidence-based policy changes to optimize infrastructure spending." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes reducing taxpayer burden, critiquing government inefficiency, and potentially advocating for greater private sector involvement or localized funding models to improve accountability and cost-effectiveness." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes regional equity, potential for green energy expansion, and long-term, mutually beneficial resource development, potentially celebrating a more equitable distribution of power resources." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the collaborative effort between federal and provincial governments to finalize a major energy agreement, detailing the anticipated terms and its implications for energy supply and economic growth in the region." },
+          "right": { "label": "Conservative Context", "synthesis": "Focuses on provincial sovereignty over natural resources, the economic benefits and revenue generation for the provinces, and the strategic importance of energy infrastructure, while scrutinizing the deal's financial specifics." }
         },
-        "neutral": "An opinion column identifies the Ontario Line project as symptomatic of broader issues in Canadian infrastructure funding and delivery, advocating for reform to current surcharge models and overall project management."
+        "neutral": "A multi-party announcement is scheduled for a new energy agreement concerning the Churchill Falls hydroelectric project, set to enhance energy security and economic development for Quebec and Newfoundland and Labrador."
       }
     },
     {
-      "id": "federalism-3",
+      "id": "fed_4",
       "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Public Opinion: Letters to Editor Critique Liberal Government's Handling of Trade Deals and Election Timing",
-      "citation": "Recent Tracking Window",
-      "url": "https://torontosun.com/opinion/letters/letters-to-the-editor-aug-16-2026",
-      "summary": "A letter to the editor expresses public skepticism regarding the Liberal government's timing of trade agreements, suggesting that a significant deal might be strategically delayed until closer to the next election for political gain. This reflects public discourse and potential partisan views on federal economic policy and governance.",
-      "graph": ["Federal Politics", "Trade Policy", "Election Strategy", "Public Opinion", "Economic Policy"],
+      "source": "CBC News",
+      "title": "German Shipbuilder Proposes Canadian Corvette Construction Amid Naval Modernization",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/submarines-germany-canada-corevettes-warships-9.7308142?cmp=rss",
+      "summary": "ThyssenKrupp Marine Systems (TKMS), the German shipbuilder chosen to supply Canada's new submarines, is promoting greater cooperation among European defence industries. TKMS CEO Oliver Burkhard suggests this model could lead to the production of smaller corvette warships in Canadian shipyards, augmenting Canada's ongoing naval modernization efforts which currently include German-built submarines and domestically built destroyers. This initiative responds to increasing global demand for warships.",
+      "graph": ["Defence Procurement", "Naval Fleet", "Shipbuilding Strategy", "European Defence Industry", "Canadian Industry", "Submarines", "Corvettes"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May view the critique as highlighting government's potential manipulation of economic outcomes for political purposes, potentially indicating a lack of genuine commitment to broad public welfare." },
-          "center": { "label": "Procedural Context", "synthesis": "Interprets the letter as a reflection of political cycles and the interplay between government actions and electoral considerations, a common feature of parliamentary democracy." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the criticism, seeing it as evidence of the Liberal government's self-serving approach, prioritizing political survival over immediate economic relief or efficient policy-making." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports leveraging defence contracts for Canadian job creation and technology transfer, while potentially questioning the scale of military spending versus social investments." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the German shipbuilder's proposal and its potential to enhance Canada's naval capabilities and domestic shipbuilding capacity through international cooperation." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes national security and efficient defence procurement, seeing potential for economic benefits through foreign investment and technology partnerships in the defence sector." }
         },
-        "neutral": "A published letter to the editor speculates that the federal Liberal government may be strategically timing a major trade deal to coincide with the next election for political advantage."
+        "neutral": "Germany's TKMS, preferred supplier for Canada's new submarines, advocates for European shipbuilding collaboration and suggests Canadian shipyards could build smaller warships as part of Canada's naval modernization."
       }
     },
     {
-      "id": "federalism-4",
+      "id": "fed_5",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Canadian-Owned Westinghouse Continues Importing Russian Uranium for U.S. Nuclear Reactors",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/russian-enriched-uranium-westinghouse-9.7296239?cmp=rss",
+      "summary": "Despite Russia's ongoing conflict in Ukraine and a U.S. import ban, Canadian-owned Westinghouse Electric in the U.S. continues to receive low enriched uranium from Russia. This occurs under waivers from the U.S. Department of Energy, granted when no alternative viable source is available or when imports are in the national interest. The imports highlight Western Europe and the U.S.'s continued dependence on Russian nuclear fuel, a dependency Canada has not fully sanctioned.",
+      "graph": ["Nuclear Energy", "Energy Security", "Russian Sanctions", "International Trade", "Canadian Corporate Interests", "U.S. Energy Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Condemns the continued reliance on Russian energy, especially by a Canadian-owned entity, advocating for stronger sanctions and accelerated development of independent, non-Russian nuclear fuel sources for ethical and geopolitical reasons." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports factually on the complex geopolitical and economic realities of nuclear fuel supply chains, the U.S. waiver system, and the involvement of Canadian-owned companies amidst international conflict." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes pragmatic energy security, arguing that waivers are a necessary measure to maintain stable electricity grids in the absence of immediate alternatives, while potentially advocating for domestic energy independence in the long term." }
+        },
+        "neutral": "A Canadian-owned firm, Westinghouse Electric, is receiving enriched uranium from Russia for U.S. nuclear reactors, operating under U.S. waivers despite a broader ban and geopolitical tensions with Russia."
+      }
+    },
+    {
+      "id": "fed_6",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Federal & Ontario Governments Announce $1B for Development-Charge-Free Municipalities",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/ottawa/province-feds-roll-out-1b-for-municipalities-that-don-t-charge-development-fees-9.7309180?cmp=rss",
+      "summary": "The federal and Ontario governments have jointly committed $1 billion to establish a new stream within the Municipal Housing Infrastructure Program (MHIP). This funding is specifically allocated to aid over 200 Ontario municipalities that do not levy development charges, enabling them to build and renew critical infrastructure like roads and waterways essential for new housing construction and maintaining existing housing supply. This initiative forms part of a larger $8.8 billion housing pledge.",
+      "graph": ["Housing Policy", "Municipal Infrastructure", "Federal-Provincial Funding", "Development Charges", "Affordable Housing", "Economic Development", "Ontario"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports government investment in public infrastructure and initiatives to address housing affordability, potentially calling for more comprehensive strategies to ensure equitable access to housing." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the inter-governmental collaboration to address housing challenges through targeted infrastructure funding, detailing the program's scope and its intended impact on municipal development." },
+          "right": { "label": "Conservative Context", "synthesis": "Praises efforts to reduce financial barriers to housing development (by supporting municipalities that don't charge development fees), emphasizing efficient use of public funds and encouraging private sector construction." }
+        },
+        "neutral": "The federal and Ontario governments are launching a new $1 billion funding stream under the Municipal Housing Infrastructure Program to support infrastructure projects in municipalities that do not impose development charges, aiming to boost housing supply."
+      }
+    },
+    {
+      "id": "fed_7",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "Pierre Poilievre Calls for Fuel Excise Tax Pause Extension Amid Cost-of-Living Concerns",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12023323/poilievre-gas-tax-pause-extension-call/",
+      "summary": "Conservative leader Pierre Poilievre is pressing Prime Minister Carney's government to extend the temporary suspension of the federal fuel excise tax beyond its upcoming Labour Day expiry until Canada Day. The initial suspension, implemented in April, was intended to provide relief from high gas prices. Poilievre argues for the extension as a measure to continue alleviating the burden of the rising cost of living on Canadians.",
+      "graph": ["Fuel Excise Tax", "Cost of Living", "Economic Policy", "Federal Taxation", "Political Opposition", "Consumer Relief"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Might advocate for targeted support to low-income Canadians, but could also critique blanket tax cuts as disproportionately benefiting wealthier individuals or as a distraction from structural economic issues, potentially favoring public investment over tax reduction." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the political call for an extension of the fuel tax holiday, framing it within the broader debate on government economic policy and measures to address inflation and cost of living." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for tax relief and reduced government burden on consumers, asserting that lower fuel taxes directly combat inflation and improve affordability for all Canadians." }
+        },
+        "neutral": "Canada's Conservative leader has called on the federal government to extend the suspension of the fuel excise tax until Canada Day to provide ongoing relief to Canadians struggling with high living costs."
+      }
+    },
+    {
+      "id": "fed_8",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Former CSIS Director Warns of Recurring Chinese Espionage in Canadian NATO Mission",
-      "citation": "Recent Tracking Window",
-      "url": "https://thehub.ca/2026/08/16/its-going-to-happen-again-former-csis-head-on-how-china-snuck-a-spy-into-canadas-nato-mission/",
-      "summary": "Richard Fadden, former CSIS director, discusses the recent arrest of a Canadian intern of Chinese origin for alleged espionage at NATO, highlighting failures in Canada's vetting system. Despite the individual clearing RCMP and CSIS background checks, evidence of prior fraud existed. Fadden emphasizes that such incidents are not surprising given China's tenacious intelligence gathering and warns that they will recur, calling for better inter-departmental database connectivity without creating excessive government control.",
-      "graph": ["National Security", "Espionage", "Foreign Interference", "Vetting Systems", "CSIS Operations", "NATO Security"],
+      "title": "Alberta Premier Defines 'Digital Refinery' Strategy for Economic Diversification Through AI Data Centers",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/17/danielle-smith-talks-about-a-digital-refinery-what-does-that-actually-mean/",
+      "summary": "Alberta Premier Danielle Smith is actively promoting the province's economic strategy focused on attracting AI data centers, using the concepts of a 'digital refinery' and 'digital pipeline.' This vision involves converting Alberta's abundant natural gas into electricity, then into computing power, and finally into exportable intelligence. The strategy aims to diversify the provincial economy by bringing high-value computing customers to cheap energy sources, addressing concerns about electricity and water usage.",
+      "graph": ["Alberta Economy", "Economic Diversification", "AI Data Centers", "Natural Gas", "Energy Strategy", "Provincial Policy", "Technology Investment"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May focus on the need for robust oversight of intelligence agencies and data sharing protocols to prevent civil liberties infringements, while acknowledging the necessity of national security." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the technical and procedural challenges of securing sensitive positions and data in an interconnected world. Calls for systemic improvements in vetting and information sharing within a balanced legal framework." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for stronger, more aggressive counter-intelligence measures and greater accountability for security breaches, often linking such failures to perceived government leniency or bureaucratic inefficiency." }
+          "left": { "label": "Progressive Context", "synthesis": "Raises environmental concerns about increased natural gas consumption and the energy footprint of data centers, advocating for sustainable growth and a transition to renewable energy sources." },
+          "center": { "label": "Procedural Context", "synthesis": "Explains Alberta's innovative economic development strategy, highlighting its potential for diversification and value creation from existing energy resources, while noting the need to address environmental and infrastructure concerns." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports provincial innovation, market-driven economic growth, and leveraging natural resources for high-tech industries, positioning Alberta as a leader in the digital economy and enhancing provincial autonomy." }
         },
-        "neutral": "A former CSIS director analyzed the case of a Canadian national accused of spying for China at NATO, highlighting lapses in Canada's security vetting process and predicting future espionage attempts by foreign adversaries."
+        "neutral": "Alberta Premier Danielle Smith details her government's 'digital refinery' and 'digital pipeline' strategy, aiming to diversify the provincial economy by transforming natural gas into computing power for AI data centers."
       }
     }
   ],
   "charter": [
     {
-      "id": "charter-1",
+      "id": "charter_1",
       "category": "Charter",
       "source": "National Post",
-      "title": "Public Debate on Federal Restrictions on Prayer by Canadian Armed Forces Chaplains",
-      "citation": "Recent Tracking Window",
-      "url": "https://nationalpost.com/opinion/letters-praying-the-feds-see-the-light-about-armed-forces-chaplains",
-      "summary": "Letters to the editor reflect public concern over proposed federal government policies seeking to restrict public prayers by Canadian Armed Forces chaplains. This issue touches on the balance between military secularism, religious freedom (guaranteed under the Charter of Rights and Freedoms), and the role of spiritual services within a pluralistic institution.",
-      "graph": ["Religious Freedom", "Canadian Armed Forces", "Charter Rights", "Government Policy", "Secularism"],
+      "title": "External Review Confirms Widespread Antisemitism and Harassment at TMU Campus",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/tmu-antisemitis-harassment-fear-review",
+      "summary": "An independent external review has uncovered a significant presence of antisemitism, harassment, and a pervasive atmosphere of fear affecting Jewish students, faculty, and staff at Toronto Metropolitan University (TMU). These findings emerge in the wake of the October 7, 2023, events, indicating a failure to ensure a safe and inclusive campus environment, raising serious questions about the university's adherence to principles of equality and freedom from discrimination.",
+      "graph": ["Antisemitism", "Harassment", "Discrimination", "Campus Environment", "Human Rights", "Equity and Inclusion", "Toronto Metropolitan University"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May support measures to ensure inclusivity and secularism within public institutions like the military, potentially viewing unrestricted public prayer as exclusionary or infringing on others' rights to a neutral environment." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and administrative interpretation of religious freedom within institutional contexts, seeking policies that balance individual rights with institutional needs and a diverse workforce." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for the protection of religious expression, viewing restrictions on prayer as an infringement on fundamental Charter rights and potentially an overreach of government authority into personal faith." }
+          "left": { "label": "Progressive Context", "synthesis": "Calls for decisive action from TMU to dismantle systemic discrimination, protect marginalized groups, and enforce robust anti-harassment policies, prioritizing the safety and well-being of all students." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the objective findings of the review, outlining the specific concerns of antisemitism and harassment, and the institutional responsibility to address these issues according to university policies and human rights principles." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the failure of institutional leadership to uphold fundamental rights and maintain order, advocating for strong measures to combat hate and ensure accountability, potentially linking it to broader debates on free speech versus hate speech." }
         },
-        "neutral": "Public correspondence expresses concern regarding federal government initiatives to limit public prayer among Canadian Armed Forces chaplains, raising questions about religious freedom and institutional policy."
+        "neutral": "An external review has found evidence of significant antisemitism, harassment, and a climate of fear among Jewish members of the Toronto Metropolitan University community since October 2023."
       }
     },
     {
-      "id": "charter-2",
+      "id": "charter_2",
       "category": "Charter",
-      "source": "Slaw",
-      "title": "Quebec Court of Appeal Orders New Trial in Impaired Driving Causing Death Case Due to Legal Errors and Charter Violations",
-      "citation": "Recent Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/16/summaries-sunday-soquij-640/",
-      "summary": "The Quebec Court of Appeal has ordered a new trial in a case involving impaired driving causing death (with faculties impaired and exceeding legal alcohol limits). The appeal court found that the trial judge erred in applying the legal framework for causality and improperly dismissed expert evidence. Crucially, the decision also upheld that constitutional rights, specifically the right to counsel before breathalyzer tests, were violated, though the evidence from the tests was ultimately admissible due to a balancing of factors under Section 24(2) of the Charter.",
-      "graph": ["Criminal Law", "Impaired Driving", "Right to Counsel", "Evidence Admissibility", "Judicial Error", "Quebec Court of Appeal"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of due process and protecting the rights of the accused, including the right to counsel, to ensure fair trials, even in serious criminal cases." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the correct application of legal principles and procedural fairness by the courts, highlighting the judicial process of identifying and correcting errors in legal reasoning and evidence assessment, including Charter-based exclusions." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes public safety and accountability for serious crimes, potentially viewing Charter challenges as technicalities that can impede justice, though acknowledging the necessity of constitutional safeguards." }
-        },
-        "neutral": "The Quebec Court of Appeal mandated a new trial for an individual convicted of impaired driving causing death, citing errors in the trial judge's causality analysis and improper dismissal of expert testimony, while also addressing the admissibility of evidence despite a Charter breach related to the right to counsel."
-      }
-    }
-  ],
-  "indigenous": [
-    {
-      "id": "indigenous-1",
-      "category": "Indigenous",
       "source": "National Post",
-      "title": "Opinion: Commentary on Persistent Controversy Surrounding Egerton Ryerson's Legacy and Indigenous Reconciliation",
-      "citation": "Recent Tracking Window",
-      "url": "https://nationalpost.com/opinion/egerton-ryersons-name-is-still-in-the-mud",
-      "summary": "This opinion piece by Jerry Amernic criticizes Victoria University's perceived failure to adequately address the tarnished reputation of Egerton Ryerson, particularly in the context of recent 'woke' cultural shifts. The article implicitly highlights the ongoing debate surrounding historical figures linked to Canada's residential school system, with Ryerson being a central figure in the establishment of Ontario's education system that influenced residential schools. The commentary reflects a resistance to or critique of contemporary efforts to re-evaluate historical legacies in light of Indigenous experiences.",
-      "graph": ["Indigenous Reconciliation", "Historical Revisionism", "Residential Schools", "Public Memory", "Cancel Culture", "Education Policy"],
+      "title": "Commentary Brands Toronto Metropolitan University a 'Disgrace' Following Antisemitism Review",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/michael-higgins-toronto-metropolitan-university-is-a-disgrace",
+      "summary": "An opinion piece from the National Post vehemently criticizes Toronto Metropolitan University (TMU), labelling it a 'disgrace' in light of the recently published external review findings that confirmed widespread antisemitism, harassment, and a climate of fear on campus. The commentary reflects strong public condemnation of the university's handling of the situation and its impact on the Jewish community within its institution.",
+      "graph": ["Antisemitism", "Hate Speech", "University Accountability", "Freedom of Expression", "Human Rights", "Public Opinion", "Toronto Metropolitan University"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for a thorough re-evaluation of historical figures and institutions tied to colonial harms, supporting name changes and public education on Indigenous histories as part of reconciliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the balanced academic and public discourse required to address complex historical legacies, seeking fair processes for acknowledging past wrongs while also recognizing historical contributions." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques what it perceives as 'cancel culture' or an overly aggressive re-writing of history, emphasizing the importance of preserving historical figures' legacies without erasing their positive contributions or succumbing to presentism." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports strong public condemnation of institutional failures to protect marginalized groups, urging fundamental changes in university governance and cultural practices to foster inclusivity and combat hate." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the existence of a strong opinion piece reflecting public and media reactions to the external review's findings, highlighting the pressure on TMU to address the allegations of antisemitism." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses outrage at the university's perceived failure to address antisemitism, advocating for accountability for administrators and strong action against hate speech, often framed within the context of preserving foundational Western values and free speech rights." }
         },
-        "neutral": "An opinion piece examines the ongoing debate regarding Egerton Ryerson's historical legacy, arguing that Victoria University has not adequately addressed the reputational damage incurred during contemporary re-evaluations tied to Canada's residential school system."
+        "neutral": "An opinion column critically evaluates Toronto Metropolitan University's response to an external review on campus antisemitism, describing the institution as a 'disgrace.'"
+      }
+    },
+    {
+      "id": "charter_3",
+      "category": "Charter",
+      "source": "National Post",
+      "title": "Court of Appeal Reverses Charter Ruling, Affirms Provincial Authority on Toronto Bike Lanes",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/ben-woodfinden-all-hail-the-judicial-smackdown-of-bike-lane-rights",
+      "summary": "The Ontario Court of Appeal has sided with the Ford government, ruling that it has the authority to remove bike lanes in Toronto. This decision overturns a previous lower court judgment that had found the removal of bike lanes would violate cyclists' Section 7 Charter rights to life and security of the person. An opinion piece on the ruling praises the judicial intervention against what it views as an absurd expansion of Charter interpretations into policy matters like urban planning.",
+      "graph": ["Charter of Rights", "Section 7", "Provincial Powers", "Judicial Review", "Urban Planning", "Bike Lanes", "Ford Government", "Public Safety"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Expresses concern over the potential erosion of Charter protections and public health considerations related to urban infrastructure. Critiques government actions seen as undermining active transportation and community safety." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the legal intricacies of the appeal court's decision, focusing on the interpretation of Section 7 of the Charter and the balance between judicial oversight and governmental policy-making authority in municipal affairs." },
+          "right": { "label": "Conservative Context", "synthesis": "Applauds the ruling as a victory for governmental jurisdiction and a necessary check on judicial activism, asserting that policy decisions like bike lane placement should not be subject to broad Charter interpretations." }
+        },
+        "neutral": "The Ontario Court of Appeal has reversed a lower court's decision, affirming the provincial government's authority to remove Toronto bike lanes, thereby narrowing the interpretation of Section 7 Charter rights in policy decisions."
+      }
+    },
+    {
+      "id": "charter_4",
+      "category": "Charter",
+      "source": "Slaw.ca",
+      "title": "Supreme Court of Canada's R v Fox Ruling Examines Solicitor-Client Privilege in Defense of Lawyers",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/08/17/mondays-mix-663/",
+      "summary": "The Supreme Court of Canada's decision in R v Fox, 2026 SCC 4, is highlighted for re-examining the traditional client-centric view of solicitor-client privilege. This case notably explored scenarios where privilege is asserted not to protect the client's disclosures, but rather the lawyer, turning the conventional paradigm on its head. This development has significant implications for understanding the scope and application of a fundamental legal right often linked to Charter Section 7 (right to counsel).",
+      "graph": ["Solicitor-Client Privilege", "Criminal Law", "Charter Rights", "Right to Counsel", "Supreme Court of Canada", "Legal Ethics", "Procedural Justice"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May scrutinize how such a ruling impacts access to justice and the rights of the accused, ensuring that any interpretation of privilege does not inadvertently disadvantage vulnerable clients." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial interpretation and clarification of a core legal principle, analyzing its nuances and practical effects on legal practice, particularly in criminal proceedings." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of protecting legal professionals and the integrity of the justice system, viewing the clarification of privilege as essential for fair legal process." }
+        },
+        "neutral": "The Supreme Court of Canada's R v Fox decision has provided new insights into solicitor-client privilege, particularly concerning its application to protect legal counsel rather than solely the client."
       }
     }
   ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "criminal-1",
+      "id": "criminal_1",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Toronto Police Search for Suspect in Unprovoked Daylight Stabbing at Yonge and Bloor",
-      "citation": "Recent Tracking Window",
-      "url": "https://nationalpost.com/news/canada/heavily-tattooed-man-sought-in-unprovoked-daylight-stabbing-of-stranger-at-yonge-and-bloor",
-      "summary": "Toronto police are actively seeking a suspect described as a heavily tattooed man in connection with an unprovoked daylight stabbing of a stranger at a busy downtown intersection (Yonge and Bloor). The victim sustained serious injuries but is expected to survive the attack, which occurred on a sidewalk, highlighting concerns about public safety in urban areas.",
-      "graph": ["Violent Crime", "Public Safety", "Police Investigation", "Toronto", "Stabbing"],
+      "title": "Defamation Lawsuit Against Google Over AI-Generated Sex Offender Claim Concludes",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/ashley-macisaac-ends-defamation-lawsuit-google-ai-sex-offender",
+      "summary": "Canadian musician Ashley MacIsaac has ended his defamation lawsuit against Google, which stemmed from an AI-generated false claim that he was a sex offender. While the specifics of the case's conclusion, likely a settlement, were not disclosed, legal observers expressed disappointment at the missed opportunity for a full trial to establish precedents regarding the liability of artificial intelligence for defamatory content. This case underscored critical issues of digital responsibility and reputation.",
+      "graph": ["Defamation", "AI Liability", "Digital Ethics", "Reputation Law", "Legal Precedent", "Civil Action", "Media Law"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May focus on underlying social determinants of crime, advocating for community-based solutions, mental health support, and addressing root causes rather than solely punitive measures." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for effective policing, victim support, and a functioning justice system to respond to criminal acts and maintain public order." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for increased police presence, harsher penalties for violent offenders, and a strong law-and-order approach to deter crime and ensure public safety." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for strong regulatory frameworks to hold tech giants accountable for harmful AI outputs and protect individuals from digital defamation." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the resolution of the lawsuit, the legal issues it raised concerning AI's role in disseminating false information, and the implications of a settlement for future legal challenges in this emerging area." },
+          "right": { "label": "Conservative Context", "synthesis": "Focuses on the complexities of assigning liability in the age of AI and the importance of balancing technological innovation with individual rights and accountability." }
         },
-        "neutral": "Toronto authorities are conducting a search for a suspect involved in an unprovoked daylight stabbing of a pedestrian at the Yonge and Bloor intersection."
+        "neutral": "Canadian musician Ashley MacIsaac has concluded his defamation lawsuit against Google regarding an AI-generated false accusation, with legal experts noting the missed opportunity for a landmark trial on AI liability."
       }
     },
     {
-      "id": "criminal-2",
+      "id": "criminal_2",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Toronto Stabbing Suspect Sought; Separate Charges Laid in St. Catharines Gun Seizure",
-      "citation": "Recent Tracking Window",
-      "url": "https://torontosun.com/news/local-news/suspect-unprovoked-toronto-stabbing-gun-seized-pair-charged-st-catharines",
-      "summary": "This report covers two distinct criminal incidents: Toronto police are searching for a suspect in an unprovoked stabbing where a victim was attacked from behind on a sidewalk. Separately, in St. Catharines, authorities seized a gun and laid charges against two individuals. Both incidents underscore ongoing challenges in urban public safety and law enforcement efforts against violent crime and illegal firearms.",
-      "graph": ["Violent Crime", "Gun Control", "Police Charges", "Public Safety", "Toronto", "St. Catharines"],
+      "title": "Court Invokes 'Slayer Statute' to Deny Accused Killer Access to $1.5M Trust Fund",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/entertainment/celebrity/accused-killer-nick-reiner-denied-access-trust-fund-slayer-statute",
+      "summary": "An individual accused of murder, Nick Reiner, has been legally prevented from accessing his $1.5 million trust fund by a court, which applied the 'slayer statute' principle. This legal doctrine generally dictates that a person cannot profit from a crime, particularly from the death of another, even if they are only accused and not yet convicted. Reiner's petition to access his share of the fund, established in 1993, was denied on these grounds.",
+      "graph": ["Slayer Rule", "Criminal Allegation", "Inheritance Law", "Trust Fund", "Justice System", "Property Rights", "Legal Ethics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May highlight the systemic issues contributing to urban violence, such as poverty, lack of opportunity, or mental health crises, alongside concerns about gun proliferation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual reporting of criminal events and law enforcement responses, emphasizing the investigative process and court proceedings." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for stronger policing, stricter penalties for violent and weapons-related offenses, and a firm stance against urban crime to restore public order." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports measures that prevent individuals from benefiting from criminal acts, emphasizing justice for victims and ethical considerations in legal proceedings." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the judicial application of a well-established legal principle in a high-profile case, detailing the interaction between criminal accusations and civil property rights." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly endorses the principle that individuals should not profit from their alleged wrongdoing, aligning with notions of personal responsibility and upholding the integrity of the legal system." }
         },
-        "neutral": "Police are actively seeking a suspect in an unprovoked stabbing in Toronto, while in a separate incident, a firearm was seized and two individuals were charged in St. Catharines."
+        "neutral": "A court has applied the 'slayer statute' principle to deny an individual accused of murder access to a $1.5 million trust fund."
+      }
+    },
+    {
+      "id": "criminal_3",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Public Opinion Expresses Frustration and Demands Political Action on Rising Crime Rates",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/opinion/letters/letters-to-the-editor-aug-17-2026",
+      "summary": "Letters to the Editor in the Toronto Sun reflect growing public frustration and concern over escalating crime rates. Contributors express dismay at what they perceive as inaction from politicians, demanding concrete measures beyond mere apologies. One letter specifically references the Jane Creba killing from 2005, drawing a comparison to current public safety challenges and highlighting a long-standing call for more effective political responses to crime.",
+      "graph": ["Crime Rates", "Public Safety", "Criminal Justice", "Political Accountability", "Community Concerns", "Law Enforcement"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Acknowledges public concern but may advocate for a holistic approach to crime, focusing on social determinants, prevention programs, and community support alongside law enforcement." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on public sentiment regarding crime and governance, reflecting the societal demand for effective public safety strategies and accountability from elected officials." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes a strong 'law and order' stance, criticizing perceived leniency in the justice system and political rhetoric without tangible action, advocating for tougher penalties and increased police presence." }
+        },
+        "neutral": "Public letters to the editor indicate widespread concern and frustration regarding rising crime rates, coupled with demands for more decisive political action on public safety."
+      }
+    },
+    {
+      "id": "criminal_4",
+      "category": "Criminal",
+      "source": "The Hub",
+      "title": "Toronto's Recent Hate Crime Arrests Highlight Complexities and Delays in Canadian Law Enforcement",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/17/what-8-toronto-hate-crime-arrests-say-about-enforcement-in-canada/",
+      "summary": "Eight arrests in Toronto related to hate propaganda offences, stemming from an antisemitic protest five months prior, are prompting discussion about the efficacy and timeliness of hate crime enforcement in Canada. The article notes the low number of such charges previously laid by Toronto police and highlights the procedural requirement for provincial Attorney General consent for willful promotion of hatred charges, contributing to delays. These arrests, for displaying antisemitic signs and shouting slurs, are seen by the Jewish community as a welcome, though belated, enforcement of existing laws.",
+      "graph": ["Hate Crime Enforcement", "Criminal Code", "Antisemitism", "Policing Challenges", "Freedom of Speech", "Justice System Efficiency", "Public Order"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for stronger, faster enforcement of hate crime laws to protect vulnerable communities, potentially critiquing systemic biases or resource limitations that delay justice." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and operational challenges in prosecuting hate crimes, including specific Criminal Code requirements, the balance with free speech, and the public's demand for effective law enforcement." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of upholding law and order and cracking down on hate speech, while potentially questioning the consistency of enforcement or the interpretation of hate speech laws." }
+        },
+        "neutral": "Recent arrests for hate crimes in Toronto, occurring months after the alleged incidents, underscore the procedural complexities of Canada's hate crime laws and raise questions about the speed and effectiveness of their enforcement."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "immigration_1",
+      "category": "Immigration",
+      "source": "CBC News",
+      "title": "Canadian Citizenship Certificate Applications Surge Following 'Lost Canadian' Legislation, Creating Two-Year Backlogs",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canadian-citizenship-certificates-americans-9.7307536?cmp=rss",
+      "summary": "Applications for Canadian citizenship certificates have dramatically increased, largely driven by applicants from the United States, following the late 2025 adoption of Bill C-3 ('Lost Canadian' legislation). This law grants citizenship to individuals descended from a Canadian ancestor, even several generations back. The surge has caused the estimated processing time for certificates at Immigration, Refugees and Citizenship Canada (IRCC) to double to over two years, despite initial ministerial expectations of no 'surge.'",
+      "graph": ["Canadian Citizenship", "Immigration Policy", "Bill C-3", "Lost Canadians", "Processing Delays", "IRCC", "American Immigrants"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Generally supports broader access to citizenship and rectifying historical exclusions, advocating for increased government resources to process applications efficiently and uphold the right to citizenship." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports objectively on the legislative change, the resulting increase in applications, the demographic profile of applicants (primarily American), and the operational challenges leading to significant backlogs." },
+          "right": { "label": "Conservative Context", "synthesis": "Raises concerns about the capacity of immigration systems, potential strain on public services due to increased citizenship grants, and the integrity of the citizenship program, potentially calling for tighter controls or more efficient management." }
+        },
+        "neutral": "New 'Lost Canadian' legislation has led to a significant increase in Canadian citizenship certificate applications, particularly from the U.S., resulting in processing delays of over two years."
+      }
+    },
+    {
+      "id": "immigration_2",
+      "category": "Immigration",
+      "source": "National Post",
+      "title": "Neighbors Suggest Newcomers Should Disengage from Foreign Political Conflicts After Consulate Incident",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/neighbours-of-u-s-consulate-suspect-say-newcomers-should-leave-political-troubles-behind",
+      "summary": "Following an incident involving a suspect near the U.S. consulate, some of the individual's neighbours have publicly voiced their opinion that newcomers to Canada should 'leave political troubles behind' from their countries of origin. This sentiment highlights a societal debate regarding the integration of immigrants, the role of political activism by new residents, and the desire for social cohesion and peace within Canadian communities, distinct from international conflicts.",
+      "graph": ["Immigrant Integration", "Political Activism", "Social Cohesion", "Public Opinion", "National Identity", "Civic Responsibility"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the right to freedom of expression and political participation for all residents, including newcomers, while advocating for intercultural dialogue and addressing underlying causes of social tension." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the public's differing views on immigrant integration and political expression, framing it as a discussion about shared civic responsibilities and the boundaries of activism in a new country." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes social stability and national unity, suggesting that newcomers should prioritize integration into Canadian society and avoid importing foreign conflicts that could disrupt local peace and order." }
+        },
+        "neutral": "Following an incident at a U.S. consulate, some neighbors of a suspect voiced the opinion that new immigrants should refrain from bringing foreign political conflicts into their Canadian communities."
+      }
+    }
+  ]
 }
