@@ -1,316 +1,219 @@
 {
   "federalism": [
     {
-      "id": "e4a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5",
+      "id": "1e7c5b9a-4d23-4f08-b1a2-c3d4e5f6a7b8",
       "category": "Federalism",
       "source": "rabble.ca",
-      "title": "Preston Manning Forms Assembly to Reignite Alberta Separation Debate",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/politics/canadian-politics/preston-manning-84-turns-up-with-yet-another-assembly-to-polish-albertas-tarnished-separation-referendum/",
-      "summary": "Former Reform Party leader Preston Manning, alongside ex-B.C. premier Gordon Campbell, is organizing a new assembly aimed at revitalizing discussions around an Alberta separation referendum, signaling continued efforts to assert provincial autonomy and address Western Canadian grievances within the federal structure.",
-      "graph": ["Alberta Separatism", "Western Alienation", "Federal-Provincial Relations", "Political Movements"],
+      "title": "Canadian Auto Industry Braces for CUSMA Trade Disruptions",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://rabble.ca/labour/canadian-auto-industry-braces-for-cusma-breakdown/",
+      "summary": "The Canadian automotive sector is preparing for potential instability and new tariffs stemming from a possible breakdown of the CUSMA trade agreement. This breakdown could lead to a tangle of tariffs across the North American supply chain, impacting manufacturers like Stellantis in Brampton, ON.",
+      "graph": ["CUSMA", "Trade Policy", "Auto Industry", "Tariffs", "Economic Impact"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques this movement as a conservative rehash that threatens national unity and distracts from broader societal issues by focusing on regional grievances, potentially sowing division." },
-          "center": { "label": "Procedural Context", "synthesis": "Observes this as a recurring feature of Canadian provincial-federal dynamics, where calls for greater autonomy emerge. Analyzes the political strategy and potential for policy shifts without taking a definitive stance on the desirability of separation." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports provincial efforts to enhance sovereignty and re-evaluate Alberta's role within the federation, viewing such assemblies as legitimate platforms to address perceived federal overreach and economic imbalances." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints express concern over the potential for job losses and the instability inflicted on Canadian workers and the auto industry by unpredictable trade policies, advocating for stronger worker protections and stable international agreements." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the economic implications of tariff imposition, the complexities of international trade negotiations, and the government's role in mitigating disruption to ensure economic stability and predictable supply chains." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may emphasize the importance of competitive market conditions, questioning the efficacy of existing trade agreements, and advocating for policies that enable Canadian industries to adapt and thrive independently of foreign tariff threats." }
         },
-        "neutral": "Preston Manning is leading a new assembly to revive discussions on an Alberta separation referendum, reflecting ongoing debates regarding provincial autonomy and federal relations."
+        "neutral": "The Canadian auto industry is preparing for potential disruptions due to a possible breakdown of the CUSMA agreement, which could introduce new tariffs and impact the North American supply chain."
       }
     },
     {
-      "id": "f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1",
+      "id": "2f8d6c7b-5e14-4a90-b2c3-d4e5f6a7b8c9",
       "category": "Federalism",
       "source": "The Narwhal",
-      "title": "Alberta's Orphan Well Cleanup Costs Reach Record High of $1.66 Billion",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/alberta-orphan-wells-cleanup-costs-record-2026/?utm_source=rss",
-      "summary": "Alberta's Orphan Well Association has reported a record-high estimated liability of $1.66 billion for cleaning up abandoned oil and gas wells, marking a nearly 50% increase from last year due to thousands of new orphan sites. This surge raises concerns about the adequacy of industry-funded levies and potential taxpayer burden.",
-      "graph": ["Environmental Liability", "Oil & Gas Regulation", "Provincial Finance", "Resource Management", "Orphan Wells", "Industry Accountability"],
+      "title": "Ontario Reopens Sandhill Crane Hunting Season Amid Crop Damage Concerns",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/ontario-sandhill-cranes-hunting-reopens/?utm_source=rss",
+      "summary": "Ontario has reopened the hunting season for sandhill cranes, a species once nearly extirpated, for the first time in a century. This decision follows lobbying by northern Ontario farmers who claim the birds are causing significant crop damage, though conservationists express concern about the impact on the species' recovery, with the hunt permitted under federal migratory bird regulations.",
+      "graph": ["Wildlife Management", "Agricultural Policy", "Conservation", "Migratory Birds", "Provincial Governance"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for stricter environmental regulations and greater corporate accountability to prevent taxpayers from bearing the cost of industry negligence, calling for federal support for comprehensive cleanup." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the financial and regulatory challenges of managing long-term environmental liabilities within the existing framework, emphasizing the need for effective mechanisms and sustainable funding by the Alberta Energy Regulator." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes minimizing government intervention and seeks industry-led solutions for cleanup, while acknowledging the need to address these liabilities efficiently to maintain a responsible resource sector." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive groups prioritize wildlife conservation and biodiversity, raising concerns about the long-term ecological impact of reopening hunts for recovered species, and may advocate for non-lethal solutions for crop protection." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral observers examine the balancing act between agricultural economic interests and environmental protection, noting the regulatory frameworks governing migratory birds and the need for data-driven population management decisions." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives often support farmers' property rights and economic viability, emphasizing the need for effective wildlife management to prevent crop losses and questioning perceived overregulation that impedes agricultural productivity." }
         },
-        "neutral": "The estimated cost for cleaning up orphan oil and gas wells in Alberta has reached an unprecedented $1.66 billion, highlighting a growing environmental liability and potential financial strain."
+        "neutral": "Ontario is reinstating a sandhill crane hunting season to address crop damage, a decision involving federal migratory bird regulations and balancing agricultural economic interests with wildlife conservation efforts."
       }
     },
     {
-      "id": "a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7",
+      "id": "3a9e7d8c-6f25-4b01-a3d4-e5f6a7b8c9d0",
+      "category": "Federalism",
+      "source": "The Narwhal",
+      "title": "BC Hydro Acquires Gas Power Plant Despite Clean Energy Mandate",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/bc-hydro-buys-island-generation-gas-plant/?utm_source=rss",
+      "summary": "BC Hydro has purchased Island Generation, a natural gas-fired power plant, to address an anticipated 20% surge in electricity demand by 2030. This acquisition, made by the provincial utility, raises questions about B.C.'s commitment to its mandate of generating all electricity from clean or renewable sources by 2030, with experts citing a disconnect between emission goals and electricity needs.",
+      "graph": ["Energy Policy", "Climate Change", "Provincial Utilities", "Infrastructure", "Emissions Targets"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critics argue the purchase undermines B.C.'s climate goals and prioritizes fossil fuel infrastructure over a swift transition to renewable energy, calling for stronger political will to meet emissions targets." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses highlight the practical challenges of meeting rapidly increasing energy demand while transitioning to clean sources, examining the balance between energy reliability, economic growth, and environmental commitments." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints may emphasize the necessity of ensuring a stable and affordable energy supply for economic development, supporting pragmatic decisions to meet demand, and questioning the feasibility or cost of aggressive clean energy timelines." }
+        },
+        "neutral": "BC Hydro's acquisition of a gas power plant to meet rising energy demand by 2030 contrasts with the province's clean energy goals, highlighting a tension between immediate energy needs and long-term climate commitments."
+      }
+    },
+    {
+      "id": "4b0c8a9d-7e36-4c12-b4d5-e6f7a8b9c0d1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canadian Public Petition Calls for Ouster of US Ambassador Pete Hoekstra",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/pete-hoekstra-petition-maga-ambassadors-9.7310065?cmp=rss",
-      "summary": "Over 225,000 Canadians have signed a House of Commons petition advocating for the expulsion of U.S. Ambassador Pete Hoekstra due to his undiplomatic conduct. While former diplomats suggest his actions may not warrant a 'persona non grata' declaration, the petition reflects widespread public dissatisfaction with his representation.",
-      "graph": ["International Relations", "Diplomacy", "Foreign Policy", "Canada-US Relations", "Public Opinion", "Diplomatic Protocol"],
+      "title": "Trump Pauses 50% Tariffs on Canadian Goods, Cites Pending Trade Deal",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/new-trump-tariffs-deadline-9.7311125?cmp=rss",
+      "summary": "U.S. President Donald Trump announced a temporary three-day pause on the implementation of 50% tariffs on Canadian goods, citing progress on a trade deal. Canadian Prime Minister Mark Carney confirmed substantial progress in negotiations but did not declare a final agreement.",
+      "graph": ["US-Canada Relations", "Trade Negotiations", "Tariff Diplomacy", "Economic Stability"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Underscores the importance of respecting diplomatic norms and calls for strong federal action against foreign interference, viewing the ambassador's actions as a challenge to Canada's sovereignty and values." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and diplomatic thresholds for declaring an ambassador 'persona non grata,' emphasizing the delicate balance required in managing international relations even amidst public discontent." },
-          "right": { "label": "Conservative Context", "synthesis": "May dismiss the petition as politically motivated or overreactive, suggesting that diplomatic friction is sometimes an unavoidable aspect of asserting national interests, especially with key trade partners." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive outlets might emphasize the disruptive nature of Trump's trade tactics and the vulnerability of Canadian industries, calling for long-term strategies to diversify trade and protect workers from protectionist measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Centrist reporting focuses on the diplomatic back-and-forth, the immediate relief offered by the pause, and the ongoing efforts by negotiators to secure a stable and comprehensive trade agreement for mutual benefit." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators may highlight the necessity of strong negotiation from the U.S. side to achieve favorable trade terms, while questioning what concessions Canada might have made and advocating for robust Canadian economic sovereignty." }
         },
-        "neutral": "A significant Canadian petition calls for the removal of US Ambassador Pete Hoekstra, citing undiplomatic behavior, prompting debate on international relations and diplomatic standards."
+        "neutral": "The U.S. temporarily suspended 50% tariffs on Canadian goods, citing a pending trade deal, while Canadian officials affirmed ongoing negotiations, providing a brief reprieve for affected industries."
       }
     },
     {
-      "id": "b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8",
+      "id": "5c1d9b0e-8f47-4d23-c5e6-f7a8b9c0d1e2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "PM Carney Engages in 'Delicate, Intense' Tariff Negotiations with US Ahead of Deadline",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-negotiations-delicate-intense-9.7309934?cmp=rss",
-      "summary": "Prime Minister Mark Carney is engaged in 'delicate and intense' last-minute negotiations with the U.S. to avert new Section 338 tariffs threatened by President Trump on Canadian goods. With a Wednesday deadline looming, both leaders have spoken, as Canada seeks to avoid billions in new levies and potentially lower existing duties.",
-      "graph": ["International Trade", "Canada-US Trade", "Tariffs", "Economic Policy", "Diplomatic Negotiations", "Cross-border Relations"],
+      "title": "RCMP 'Duty to Warn' Letter on Sikh Activist Questions Canada-India Rapprochement",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/sikh-activist-threat-rcmp-india-9.7311154?cmp=rss",
+      "summary": "The RCMP issued a 'duty to warn' letter to Inderjeet Singh Gosal, a Sikh separatist leader, concerning a credible threat to his life. This is the sixth such warning for Gosal and casts doubt on the Carney government's assertions that threats from the Indian government in Canada, following allegations of foreign interference, have been neutralized and relations normalized.",
+      "graph": ["Foreign Interference", "National Security", "Sikh Diaspora", "Canada-India Relations", "RCMP", "Human Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for a firm stance against protectionist threats, prioritizing the defense of Canadian industries and workers, and potentially supporting retaliatory measures if a fair agreement is not reached." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the strategic complexities of high-stakes trade negotiations, focusing on the diplomatic process and the need to achieve a balanced outcome that protects Canada's economic interests while maintaining bilateral relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Urges a pragmatic approach to avoid a trade war, potentially advocating for Canadian concessions in areas like supply management if it secures broader market access and prevents greater economic harm." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices emphasize the critical importance of protecting Canadian citizens from foreign interference and transnational repression, advocating for stronger government action and accountability in upholding civil liberties and human rights for diaspora communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Centrist analysis focuses on the procedural requirements of police 'duty to warn' protocols, the delicate balance of diplomatic relations, and the intelligence challenges in assessing and mitigating foreign state threats within Canada." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators may call for a more robust and decisive response to foreign interference, criticizing the government's perceived soft stance or lack of transparency, and demanding greater protection for national sovereignty and citizen security." }
         },
-        "neutral": "Prime Minister Carney confirms ongoing 'delicate' and 'intense' negotiations with the U.S. to prevent new tariffs on Canadian goods, with a deadline approaching for President Trump's threatened levies."
+        "neutral": "An RCMP 'duty to warn' letter issued to a Sikh separatist leader regarding a credible threat to his life challenges the Canadian government's assertion of improved relations with India, following prior allegations of foreign interference."
       }
     },
     {
-      "id": "c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Parliamentary Committee to Probe Canada's Security Screening Post-NATO Spy Allegations",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/nato-mons-intern-canada-spying-case-9.7310264?cmp=rss",
-      "summary": "A House of Commons public safety and national security committee will examine Canada's security screening processes after a Canadian NATO intern, Biwei Zhang, was arrested by Belgian authorities on espionage charges for a third country and participation in a criminal organization. MPs across party lines agreed to prioritize this review.",
-      "graph": ["National Security", "Espionage", "NATO", "Government Screening", "International Alliances", "Parliamentary Oversight"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for enhanced oversight and accountability within federal security agencies, emphasizing robust human rights protections during vetting processes and identifying systemic vulnerabilities to foreign exploitation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural integrity of national security clearances, advocating for a thorough, non-partisan review to pinpoint and address deficiencies in Canada's vetting system for sensitive roles." },
-          "right": { "label": "Conservative Context", "synthesis": "Demands stricter security measures and more rigorous screening for individuals in sensitive positions, highlighting the imperative to safeguard national interests and international alliances against foreign interference." }
-        },
-        "neutral": "Following the arrest of a Canadian NATO intern on spying allegations, a parliamentary committee will launch a probe into Canada's security screening processes, addressing concerns about national security vetting."
-      }
-    },
-    {
-      "id": "d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0",
+      "id": "6d2e0c1f-9a58-4e34-d6f7-a8b9c0d1e2f3",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "PQ Delays Quebec Independence Referendum Until After Trump Presidency",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-pq-will-not-hold-quebec-independence-referendum-until-after-trump/",
-      "summary": "Parti Québécois leader Paul St-Pierre Plamondon announced the party would defer any Quebec independence referendum until after Donald Trump's presidential term, indicating that global political stability is a factor in their strategic timing for a sovereignty vote.",
-      "graph": ["Quebec Sovereignty", "Federal-Provincial Relations", "Political Strategy", "Referendum", "International Context"],
+      "title": "Canada's Wildfire Season Nears Fourth Worst on Record Amid Persistent Drought",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-elevated-risk-persists-in-what-is-shaping-to-be-one-of-canadas-worst/",
+      "summary": "Canada is experiencing one of its most severe wildfire seasons, projected to be the fourth worst on record, with elevated risks continuing due to widespread drought and dryness. This ongoing crisis highlights the increasing impact of environmental conditions on national infrastructure and public safety, requiring extensive response efforts.",
+      "graph": ["Wildfires", "Climate Impact", "Emergency Response", "Environmental Policy", "National Resources"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the PQ's reliance on external geopolitical factors, suggesting that a progressive vision for Quebec should be internally driven, focusing on social justice and strengthening inter-provincial cooperation." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the delay as a pragmatic political decision influenced by the complexities of international relations, acknowledging the constitutional implications and the need for a stable environment for such a significant vote." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the principle of Quebec self-determination, interpreting the delay as a tactical move to enhance the chances of success, while also emphasizing the economic realities and potential disruptions of a separation process." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints link the severe wildfire season directly to climate change, advocating for aggressive climate action, increased investment in climate resilience, and proactive environmental protection policies to mitigate future disasters." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral assessments focus on the logistical challenges of large-scale wildfire suppression, the need for inter-agency and inter-provincial cooperation, and the scientific analysis of drought conditions and their contribution to fire risk." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators may emphasize the importance of effective forest management strategies, local and provincial responsibility in fire prevention, and efficient allocation of emergency response resources, while questioning the economic costs of climate policies." }
         },
-        "neutral": "The Parti Québécois leader stated that a Quebec independence referendum would not be held until after Donald Trump's presidency, citing international political considerations for the timing."
+        "neutral": "Canada's current wildfire season is projected to be the fourth worst on record, with continued elevated risks linked to persistent drought conditions across the country."
       }
     },
     {
-      "id": "f8g9h0i1j2k3l4m5n6o7p8q9r0s1t2u3",
+      "id": "7e3f1d2a-0b69-4f45-e7g8-b9c0d1e2f3g4",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Quebec and Newfoundland & Labrador Finalize Churchill Falls Energy Deal",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12024056/quebec-newfoundland-churchill-falls/",
-      "summary": "Premiers Christine Frechette of Quebec and Tony Wakeham of Newfoundland and Labrador, joined by Prime Minister Mark Carney, announced a new energy agreement concerning the Churchill Falls hydroelectric project. This landmark deal signifies a major inter-provincial collaboration on resource management and revenue sharing.",
-      "graph": ["Inter-provincial Relations", "Energy Policy", "Hydroelectric Power", "Resource Sharing", "Federal Facilitation", "Economic Development"],
+      "source": "The Globe and Mail",
+      "title": "RCMP Black Hawk Helicopter Charter Bill Set to Exceed $50 Million for Border Patrol",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-rcmp-bill-for-chartering-black-hawk-helicopters-set-to-top-50-million/",
+      "summary": "The RCMP's expenditure for chartering Black Hawk helicopters for border patrol operations is projected to surpass $50 million. One of the chartered military-grade helicopters has been grounded since June due to the lack of a necessary special regulatory certificate, raising concerns about procurement oversight and efficient use of public funds.",
+      "graph": ["RCMP", "Border Security", "Public Spending", "Procurement", "Regulatory Compliance", "Law Enforcement"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Hails the agreement as a model for equitable resource development and sustainable energy, advocating for broad public benefits, environmental protection, and long-term energy security." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and economic intricacies of the inter-provincial agreement, focusing on its role in stabilizing energy markets and setting precedents for future cross-jurisdictional resource projects." },
-          "right": { "label": "Conservative Context", "synthesis": "Applauds the deal for fostering provincial economic autonomy and efficient resource utilization, emphasizing the commercial advantages and strengthened regional cooperation from a market-oriented perspective." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive critiques focus on the militarization of civilian police forces, the high cost of such equipment potentially diverting funds from social programs, and concerns about mission creep in border enforcement." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral reporting examines the accountability of federal agencies in procurement, the technical and regulatory requirements for specialized equipment, and the operational justification for such significant expenditures in border security." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may emphasize the importance of robust border security and effective tools for law enforcement, while also scrutinizing government inefficiency, bureaucratic delays in obtaining certificates, and wasteful spending." }
         },
-        "neutral": "Quebec and Newfoundland and Labrador, with federal support, have announced a significant new energy deal regarding the Churchill Falls hydroelectric project, impacting inter-provincial resource management."
+        "neutral": "The RCMP's spending on chartered Black Hawk helicopters for border patrol is set to exceed $50 million, facing scrutiny as one aircraft is grounded due to a missing regulatory certificate."
       }
     },
     {
-      "id": "g9h0i1j2k3l4m5n6o7p8q9r0s1t2u3v4",
+      "id": "8f4a2e3b-1c70-4g56-f8h9-c0d1e2f3h4i5",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Nanos Poll Reveals Strong Canadian Opposition to AI Data Centre Incentives",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/17/nanos-poll-finds-64-of-canadians-oppose-incentives-for-ai-data-centres/",
-      "summary": "A Nanos Research poll indicates that 64% of Canadians oppose government financial incentives for AI data centre construction, with notable resistance among younger demographics (18-34). Primary concerns cited include high electricity demand, environmental damage, and water consumption, despite Ottawa's multi-billion dollar commitment to AI infrastructure.",
-      "graph": ["AI Policy", "Public Opinion", "Economic Incentives", "Environmental Concerns", "Energy Consumption", "Technology Investment"],
+      "title": "Canada's Inflation Rate Hits 3% in July Driven by Gasoline Price Surge",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/18/canadas-inflation-rate-climbs-to-3-in-july-as-gasoline-prices-surge-statscan-reports/",
+      "summary": "Canada's annual inflation rate increased to 3% in July, up from 2.8% in June, primarily propelled by a 25.7% year-over-year surge in gasoline prices. Statistics Canada attributed this to global energy turmoil, including Middle East conflicts. This rise impacts federal policy, such as the temporary suspension of fuel taxes, and carries political risk for the government, particularly in car-dependent suburban ridings.",
+      "graph": ["Inflation", "Economic Indicators", "Gasoline Prices", "Monetary Policy", "Fiscal Policy", "Global Energy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Aligns with environmental and social equity concerns, advocating for a critical re-evaluation of public funding for resource-intensive technologies, prioritizing sustainable development and community well-being over unchecked corporate subsidies." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the challenge for government to balance economic growth and technological advancement with public concerns. Suggests a need for greater transparency and public engagement in infrastructure planning, with robust cost-benefit analyses." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of strategic investments in AI for national competitiveness and economic growth, while acknowledging public concerns about resource use and advocating for market-driven solutions or clearer communication on benefits." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators would advocate for government measures to shield consumers from volatile energy prices and inflation, emphasizing social equity impacts and potentially calling for regulation of the energy sector or increased social supports." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral economic analysis focuses on the Bank of Canada's mandate to manage inflation, the effectiveness of temporary fiscal measures like fuel tax suspensions, and the geopolitical factors influencing global energy markets and their transmission to domestic prices." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might criticize government spending as a driver of inflation, advocate for reducing taxes and deregulation in the energy sector, and highlight the need for fiscal restraint to stabilize the economy." }
         },
-        "neutral": "A Nanos poll reveals that 64% of Canadians oppose government incentives for AI data center development, primarily due to environmental and resource consumption concerns, challenging Ottawa's tech investment strategy."
+        "neutral": "Canada's inflation rate rose to 3% in July, driven by a significant increase in gasoline prices due to global energy instability, presenting challenges for federal economic and fiscal policy."
       }
     }
   ],
   "charter": [
     {
-      "id": "m4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b9",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Transgender Health Group Reclassifies Youth Treatment Guidelines as 'Opinions'",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/world-professional-association-for-transgender-health",
-      "summary": "The World Professional Association for Transgender Health (WPATH) has clarified that its guidelines for youth gender-affirming care, which influence Canada's approach, are now considered 'opinions' amidst 'intense debate.' This reclassification could impact national healthcare policy and the rights to medical treatment.",
-      "graph": ["Transgender Rights", "Healthcare Policy", "Youth Healthcare", "Medical Ethics", "Gender-affirming Care", "Charter of Rights (Implied Section 7/15)"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses strong concern that this shift may undermine access to vital gender-affirming care for youth, emphasizing the importance of affirming medical pathways and protecting the bodily autonomy of transgender individuals." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the dynamic nature of medical science and ethical considerations in youth healthcare. Suggests careful, evidence-based policy adjustments are needed to balance individual rights with evolving medical best practices, without rushing to judgment." },
-          "right": { "label": "Conservative Context", "synthesis": "Views this reclassification as support for calls to re-evaluate and potentially restrict gender-affirming care for minors, emphasizing parental rights, caution in medical interventions, and the need for more long-term research." }
-        },
-        "neutral": "WPATH's reclassification of its youth gender-affirming care guidelines as 'opinions' sparks debate, with potential implications for Canadian healthcare policy and rights surrounding medical treatment."
-      }
-    },
-    {
-      "id": "n5o6p7q8r9s0t1u2v3w4x5y6z7a8b9c0",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Legal Activists Leverage NS Tent Ruling to Expand Homeless Welfare Benefits",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/legal-activists-trying-to-leverage-n-s-tent-ruling-to-broaden-welfare-benefits-for-homeless-people",
-      "summary": "Legal advocates in Nova Scotia are seeking to broaden welfare benefits for homeless individuals, citing a recent provincial Court of Appeal decision that confirmed a man living in a tent met the criteria for enhanced assistance. This initiative aims to establish a wider precedent for social support and housing rights.",
-      "graph": ["Housing Rights", "Homelessness", "Social Welfare", "Judicial Activism", "Nova Scotia Law", "Poverty Alleviation", "Charter Rights (Implied Section 7, 15)"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Praises the legal efforts as a crucial step towards recognizing housing as a fundamental human right and demands expanded government services and systemic changes to tackle homelessness and poverty comprehensively." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal interpretation of welfare statutes and its potential to shape administrative policy, focusing on the judicial process and how precedents can influence the delivery of social benefits." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses apprehension regarding the fiscal consequences of expanded welfare entitlements, questioning judicial involvement in policy formulation and advocating for fiscal responsibility and alternative solutions to homelessness." }
-        },
-        "neutral": "Legal activists in Nova Scotia are using a recent provincial court ruling on welfare eligibility for a tent-dweller to advocate for broader social benefits and housing rights for homeless people."
-      }
-    },
-    {
-      "id": "p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2",
+      "id": "9g5b3f4c-2d81-4h67-g9i0-d1e2f3g4h5i6",
       "category": "Charter",
       "source": "The Hub",
-      "title": "External Report Finds TMU Failed to Curb Antisemitism and Harassment on Campus",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/18/how-tmu-didnt-stop-jewish-students-and-staff-from-being-harassed-allowed-antisemitism-to-flourish-external-report/",
-      "summary": "A report by a retired Ontario judge concluded that Toronto Metropolitan University (TMU) inadequately enforced its own policies to address harassment and antisemitism, creating a polarized campus environment. The review detailed disrupted events, intimidation against Jewish students and staff, and recommended adopting the International Holocaust Remembrance Alliance's definition of antisemitism.",
-      "graph": ["Antisemitism", "Academic Freedom", "Hate Speech", "Discrimination", "Campus Climate", "Freedom of Expression", "Charter Rights (Section 2b, 15)"],
+      "title": "Ontario Court of Appeal Rejects Charter Right to Bike Lanes, Affirms Legislative Supremacy",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/19/this-is-bigger-than-bike-lanes/",
+      "summary": "The Ontario Court of Appeal unanimously ruled that the Ford government can remove Toronto bike lanes, rejecting the argument that such an action violates Section 7 of the Charter (life, liberty, and security of the person). The decision underscored that legislatures cannot bind their successors and that the Charter does not guarantee specific policy implementations like bike lanes, reinforcing the distinction between negative and positive rights and limiting judicial overreach into policy.",
+      "graph": ["Charter of Rights", "Judicial Review", "Legislative Supremacy", "Section 7", "Positive Rights", "Municipal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust institutional mechanisms to protect all marginalized groups from hate and harassment, while also navigating the complexities of free speech and academic freedom to ensure an inclusive campus climate." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative failures in policy enforcement and the necessity for clear, unbiased guidelines for campus conduct and protest, ensuring safety and respect for all members of the university community." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly condemns the university's failure to address antisemitism, calling for decisive action against hate speech and the adoption of clear definitions, like IHRA, to ensure a safe and respectful learning environment." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive legal scholars might express concern about the implications for public safety and the potential for governments to roll back critical infrastructure without robust Charter oversight, advocating for a broader interpretation of Section 7 to include positive state obligations." },
+          "center": { "label": "Procedural Context", "synthesis": "Centrist legal analysis would emphasize the importance of maintaining the constitutional balance of power, affirming the role of the judiciary to interpret the law while respecting the democratic mandate of elected legislatures to set policy." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints strongly support the Court's decision as a necessary check on judicial activism, asserting the principle of legislative supremacy and defending the government's prerogative to make policy decisions free from judicial interference on non-fundamental rights." }
         },
-        "neutral": "An external report criticizes Toronto Metropolitan University for failing to effectively apply policies to prevent harassment and antisemitism, impacting campus climate and Jewish students' safety."
+        "neutral": "The Ontario Court of Appeal's ruling on Toronto bike lanes affirmed legislative supremacy, stating that the Charter's Section 7 does not grant a right to specific policy measures, thereby limiting judicial intervention in governmental policy choices."
       }
     }
   ],
-  "indigenous": [
-    {
-      "id": "h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4",
-      "category": "Indigenous",
-      "source": "Global News",
-      "title": "Alberta Government Minister Absent from Key Treaty 6 Anniversary Event",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12024606/alberta-government-misses-treaty-anniversary-event/",
-      "summary": "An Alberta chief criticized the provincial government after its Indigenous relations minister missed the 150th anniversary commemoration of Treaty 6, raising concerns about a perceived lack of respect and commitment to meaningful engagement in treaty relations from the province.",
-      "graph": ["Indigenous Relations", "Treaty Rights", "Reconciliation", "Alberta Politics", "Government Accountability", "Cultural Sensitivity"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views the absence as a symbolic and substantive failure, indicative of broader systemic issues in the provincial government's approach to reconciliation and a lack of genuine commitment to Indigenous rights and relationships." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the importance of governmental representation at significant cultural and historical events as a sign of diplomatic respect, noting the potential for such absences to strain inter-governmental relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the symbolic importance of treaty events but may prioritize other forms of engagement or policy implementation, suggesting the absence was a logistical oversight rather than a deliberate slight, while stressing the need for practical outcomes." }
-        },
-        "neutral": "The Alberta Indigenous relations minister's absence from the 150th Treaty 6 anniversary event drew criticism from a First Nation chief, prompting questions about the province's commitment to treaty relations."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3",
+      "id": "a0f6b7c8-3e92-4j78-k0l1-e2f3g4h5i6j7",
       "category": "Criminal",
-      "source": "Slaw",
-      "title": "Analysis Critiques 'Appellate Hypertrophy' in Canadian Justice System",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/18/appellate-hypertrophy-in-the-canadian-justice-system/",
-      "summary": "A legal analysis critiques 'appellate hypertrophy' within the Canadian justice system, arguing that an excessive number of review, reconsideration, and appeal procedures in civil and administrative cases leads to unduly protracted legal processes, thereby hindering primary access to justice for Canadians.",
-      "graph": ["Justice System Reform", "Access to Justice", "Appellate Process", "Legal Efficiency", "Civil Procedure", "Administrative Law"],
+      "source": "National Post",
+      "title": "Ontario Judge Sentences Handgun Trafficker to House Arrest After Mandatory Minimum Declared Unconstitutional",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/ontario-judge-sentences-handgun-trafficker-to-house-arrest-after-mandatory-minimum-declared-unconstitutional",
+      "summary": "An Ontario judge sentenced a handgun trafficker to house arrest, applying judicial discretion after declaring the mandatory minimum sentence for the offense unconstitutional. The judge stated that while the gravity of the crime requires punishment, incarceration was not the only option, highlighting the ongoing legal challenges to mandatory minimums in Canada.",
+      "graph": ["Sentencing", "Mandatory Minimums", "Judicial Discretion", "Constitutional Law", "Gun Trafficking", "Charter Challenge"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for urgent reforms to streamline the justice system, emphasizing that lengthy and complex processes disproportionately harm vulnerable populations and impede equitable access to timely legal resolutions." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on optimizing judicial efficiency and procedural fairness, seeking to balance the necessary function of appeals for correcting errors with the imperative of providing swift and definitive first-instance adjudications." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports measures to reduce legal red tape and associated costs, arguing for a more efficient system while ensuring that robust mechanisms for legal review are preserved without becoming an impediment to justice." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive advocates applaud the decision as a crucial step against the injustices of mandatory minimums, which often lead to disproportionate sentences, and argue for a focus on rehabilitation and addressing root causes of crime." },
+          "center": { "label": "Procedural Context", "synthesis": "Centrist legal commentary emphasizes the upholding of the Charter of Rights and Freedoms, the importance of judicial independence in crafting appropriate sentences, and the ongoing evolution of criminal sentencing principles in Canada." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative critics express concern that such rulings undermine efforts to combat gun violence, calling for stricter enforcement and upholding mandatory minimums as essential for deterrence and public safety." }
         },
-        "neutral": "A legal article examines 'appellate hypertrophy' in Canada's justice system, suggesting that excessive appeals and reviews are causing delays and undermining effective access to justice."
+        "neutral": "An Ontario judge imposed house arrest on a handgun trafficker, bypassing a mandatory minimum sentence after declaring it unconstitutional, thereby asserting judicial discretion in criminal sentencing."
       }
     },
     {
-      "id": "r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4",
+      "id": "b1g7c8d9-4f03-4k89-l2m3-f4g5h6i7j8k9",
       "category": "Criminal",
       "source": "The Hub",
-      "title": "CBSA Report Alarms Over Surge in Criminality Among Indian Student Permit Holders",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/18/from-immigration-to-growing-crime-canadas-worst-problems-are-all-self-inflicted/",
-      "summary": "A Canada Border Services Agency (CBSA) report cited a startling 8,800% increase in crimes committed by Indian student permit holders between 2016 and 2024. This finding is presented as evidence of foreign criminal organizations exploiting Canada's student visa program, raising significant national security and public safety concerns.",
-      "graph": ["Criminal Organizations", "Student Visa Abuse", "Border Security", "Law Enforcement", "National Security", "Crime Statistics"],
+      "title": "Toronto Hate Crime Charges Surge from Single Protest, Exceeding Previous 13 Years of Enforcement",
+      "citation": "August 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/18/8-hate-charges-from-a-single-toronto-protest-outnumber-13-years-of-enforcement/",
+      "summary": "Toronto police recently laid eight hate crime charges stemming from a single protest, a number that surpasses all charges laid for wilful promotion of hatred in the city over the preceding 13 years (2010-2023). This stark increase suggests a shift in institutional willingness to enforce hate speech laws, prompting calls for faster Attorney General approvals and improved police training on identifying contemporary antisemitism.",
+      "graph": ["Hate Crime", "Police Enforcement", "Criminal Code", "Antisemitism", "Justice System Efficiency"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for an investigation into systemic issues that might render some international students vulnerable to criminal exploitation, advocating for enhanced support services and improved oversight rather than broad generalizations." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for inter-agency cooperation between law enforcement and immigration authorities to address criminal networks while strictly adhering to due process and data integrity in reporting." },
-          "right": { "label": "Conservative Context", "synthesis": "Demands immediate and stringent enforcement measures against criminal elements abusing the student visa system, advocating for policies that prioritize national security, public safety, and integrity of immigration programs." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive advocates welcome the increased enforcement as a necessary step to protect vulnerable communities from hate, while also calling for systemic changes to address underlying causes of hate and improve police responsiveness to marginalized groups." },
+          "center": { "label": "Procedural Context", "synthesis": "Centrist analyses focus on the operational aspects of law enforcement, judicial processes, and the balance between freedom of expression and protection from hate speech, suggesting improvements in training and administrative efficiency within the justice system." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators might raise concerns about the potential for 'thought policing' or over-enforcement of hate speech laws, while also criticizing the previous lack of action and demanding consistent application of laws to maintain public order and security." }
         },
-        "neutral": "A CBSA report highlights an 8,800% rise in crimes by Indian student permit holders, signaling exploitation of the student visa program by foreign criminal organizations and prompting public safety concerns."
+        "neutral": "Eight hate crime charges stemming from a single Toronto protest surpass the total from the previous 13 years, prompting questions about police enforcement consistency, Attorney General approval processes, and training on contemporary antisemitism."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5",
-      "category": "Immigration",
-      "source": "The Globe and Mail",
-      "title": "Migrant Groups Decry CBSA Checks on Protesting International Students",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-calgary-international-student-protest-border-officer-checks/",
-      "summary": "Migrant advocacy groups and lawyers are alarmed after Canada Border Services Agency (CBSA) officers conducted immigration status checks on international students protesting in Calgary, leading to 12 being flagged as 'possibly inadmissible.' Critics raise concerns about potential profiling and infringement on freedom of expression.",
-      "graph": ["Immigration Enforcement", "International Students", "Protests", "Freedom of Expression", "Canada Border Services Agency", "Charter Rights (Implied)"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns the CBSA's actions as a violation of free expression and a tactic to intimidate vulnerable populations, advocating for stronger protections for international students' rights and an end to discriminatory practices." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal authority of CBSA to conduct such checks and the balance between immigration enforcement mandates and the protection of constitutional rights, calling for clarity and consistency in application of policy." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the CBSA's mandate to enforce immigration laws and ensure compliance with visa conditions, viewing the checks as necessary to maintain the integrity of the immigration system and national security." }
-        },
-        "neutral": "Immigration checks by CBSA on protesting international students in Calgary have drawn criticism from migrant groups and lawyers, raising concerns about rights violations and potential profiling."
-      }
-    },
-    {
-      "id": "u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6",
-      "category": "Immigration",
-      "source": "The Hub",
-      "title": "Opinion: Immigration Policy Failures Blamed for 'Self-Inflicted' Canadian Problems",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/18/from-immigration-to-growing-crime-canadas-worst-problems-are-all-self-inflicted/",
-      "summary": "An opinion piece argues that many of Canada's most significant challenges, including rising crime rates, are 'self-inflicted' consequences of government immigration policies, specifically criticizing failures within the student visa program that have been exploited by foreign criminal organizations.",
-      "graph": ["Immigration Policy", "Student Visa Program", "Border Security", "Policy Critique", "Government Accountability", "Criminality (Consequence)"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Argues that attributing societal problems directly to immigration policy risks xenophobia and calls for comprehensive solutions addressing socio-economic factors, integration support, and fair policy development." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for evidence-based policy review and adaptive governance to address unintended consequences of immigration programs, balancing national interests with humanitarian considerations." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for a reassessment of current immigration policies, demanding stricter controls and greater accountability to prevent system abuse and safeguard national security and public resources." }
-        },
-        "neutral": "An opinion piece asserts that Canada's immigration policies, particularly the student visa program, are creating 'self-inflicted' problems, including increased crime, due to exploitation by criminal organizations."
-      }
-    }
-  ]
+  "immigration": []
 }
