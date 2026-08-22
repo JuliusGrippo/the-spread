@@ -1,219 +1,239 @@
 {
   "federalism": [
     {
-      "id": "2701198595679585141",
+      "id": "federalism-c8e1a1b2",
       "category": "Federalism",
-      "source": "CBC News, The Globe and Mail, Global News, The Hub",
-      "title": "Canada-U.S. Trade Deal Progress: Tariffs, Alcohol Bans, and Economic Impact",
+      "source": "rabble.ca",
+      "title": "Federal Inaction on Environmental Impact of Data Centers Amid Tech Expansion",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-us-tariff-trade-negotiations-9.7314494?cmp=rss",
-      "summary": "Canadian and U.S. trade officials are actively negotiating to finalize a deal by a midnight deadline to avert new tariffs. Key discussion points include the potential reduction of U.S. tariffs on Canadian steel, aluminum, and automobiles, in exchange for Canada addressing American complaints regarding provincial alcohol bans and government procurement policies. Some Canadian premiers, like Manitoba's Wab Kinew, express reluctance to fully comply with lifting alcohol bans, encouraging domestic consumption instead. Economists estimate new U.S. tariffs could risk up to 90,000 Canadian jobs, with uneven provincial impact. U.S. Vice-President JD Vance commented on Prime Minister Carney's negotiation tactics, implying Canada made significant concessions.",
-      "graph": ["Trade Policy", "Canada-U.S. Relations", "Tariffs", "Economic Impact", "Federal-Provincial Relations"],
+      "url": "https://rabble.ca/columnists/will-carney-take-on-tech-billionaires-to-save-the-planet-so-far-no/",
+      "summary": "Rabble.ca critiques Prime Minister Mark Carney's administration for perceived inaction on the environmental impact of expanding tech data centers in Canada. The article highlights the significant electricity and water consumption of these facilities, questioning the government's commitment to environmental protection while facilitating the growth of tech giants like Meta in Alberta. This raises concerns about federal environmental policy and the balance between economic development and ecological sustainability.",
+      "graph": ["Federal Environmental Policy", "Tech Investment", "Resource Consumption", "Intergovernmental Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focus on the protection of Canadian industries and jobs, potential for corporate influence in trade deals, and the importance of provincial autonomy in economic decisions." },
-          "center": { "label": "Procedural Context", "synthesis": "Analysis of the complex diplomatic process, the pragmatic need for compromise to stabilize trade relations, and the economic considerations for both countries." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for robust trade agreements that benefit Canadian businesses, criticism of protectionist measures, and scrutiny of the cost of concessions to U.S. demands." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques the federal government's alignment with corporate interests over environmental concerns, viewing the expansion of data centers without stringent environmental oversight as a failure to protect public resources and a concession to 'tech billionaires'." },
+          "center": { "label": "Procedural Context", "synthesis": "Acknowledges the tension between economic growth driven by tech investment and environmental sustainability. Focuses on the policy framework (or lack thereof) for regulating resource-intensive industries and calls for transparent, evidence-based assessments of such projects." },
+          "right": { "label": "Conservative Context", "synthesis": "Might emphasize the economic benefits and job creation from tech investment in Canada. Could argue against excessive regulation that might deter foreign investment, while acknowledging the need for responsible resource management." }
         },
-        "neutral": "Ongoing Canada-U.S. trade negotiations are at a critical juncture, involving federal-provincial coordination on retaliatory measures and significant economic implications for various Canadian sectors."
+        "neutral": "The article highlights a debate over the federal government's role in balancing economic development from large tech investments with the environmental impact of high-resource-consuming data centers, specifically under Prime Minister Mark Carney's leadership."
       }
     },
     {
-      "id": "194090098939951666",
+      "id": "federalism-09d94991",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "U.S. Tariffs on Canadian Goods Implemented, Canada Vows Retaliation",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/canada-us-tariffs-trump-imposes-new-50-per-cent-levy-on-canadian-goods-august-22-9.7311417?cmp=rss",
+      "summary": "The Trump administration has implemented new 50% tariffs on billions of dollars worth of Canadian goods after last-minute trade negotiations failed to reach an agreement. Prime Minister Mark Carney announced that Canada would retaliate with \"dollar-for-dollar\" tariffs, signaling a significant escalation in the trade dispute between the two nations and a suspension of further trade talks.",
+      "graph": ["International Trade", "Tariffs", "Bilateral Relations", "Economic Policy", "Federal Response"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Views the tariffs as a clear act of economic aggression by the U.S., necessitating a strong, protective response from the Canadian government to safeguard domestic industries and workers, even if it risks further escalation." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural breakdown of trade talks and the economic implications of the tariffs and counter-tariffs. Emphasizes the need for strategic, measured responses to protect national interests while seeking pathways for de-escalation." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques the Canadian government's negotiating strategy, suggesting it failed to secure a deal, potentially impacting Canadian businesses and consumers. Calls for a firm but pragmatic approach to protect market access and reduce economic uncertainty." }
+        },
+        "neutral": "New U.S. tariffs on Canadian goods have taken effect following a collapse in trade negotiations. The Canadian government has pledged reciprocal tariffs, indicating a formal escalation of economic tensions between the two countries."
+      }
+    },
+    {
+      "id": "federalism-9e4a3179",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "U.S. Demands End to Canadian Alcohol Bans for Tariff Resolution",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-ambassador-trade-council-alcohol-9.7316347?cmp=rss",
+      "summary": "During recent trade negotiations, Canada's Ambassador to the U.S., Mark Wiseman, reportedly informed a trade council that lifting Canadian bans on American alcohol products is a mandatory condition for securing a deal to prevent further U.S. tariffs. This revelation highlights a key contentious point in the ongoing high-stakes discussions aimed at averting a full-blown trade war. The potential deal also includes lowering steel, aluminum, and auto tariffs and changes to dairy import licenses.",
+      "graph": ["International Trade", "Trade Negotiations", "Alcohol Policy", "Interprovincial Trade Barriers", "Tariff Avoidance"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May view this demand as U.S. overreach, potentially sacrificing provincial control over alcohol distribution and opening Canadian markets to American products, which could harm local producers if not carefully managed." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the demand as a specific bargaining chip in complex trade negotiations, focusing on the diplomatic and economic strategies involved in securing a deal while balancing federal and provincial jurisdiction." },
+          "right": { "label": "Conservative Context", "synthesis": "Likely supports the removal of trade barriers, including those for alcohol, seeing it as promoting free markets and consumer choice. May view Canadian provincial alcohol monopolies as an impediment to trade and economic efficiency." }
+        },
+        "neutral": "Sources indicate that the Canadian Ambassador to the U.S. conveyed that ending Canadian restrictions on American alcohol sales is a prerequisite for a bilateral trade agreement aimed at resolving escalating tariffs. This issue forms a significant component of ongoing trade negotiations."
+      }
+    },
+    {
+      "id": "federalism-448f2277",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Concerns Raised Over Canadian Digital Policy Sovereignty in Canada-U.S. Trade Talks",
+      "title": "Steel and Aluminum Quotas Central to Canada-U.S. Tariff Negotiations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canada-us-trade-tech-experts-concerned-deal-may-concede-sovereignty/",
-      "summary": "Canadian tech experts and observers are voicing concerns that the ongoing Canada-U.S. trade negotiations might lead to significant concessions on Canada's digital policy agenda. There are fears that Ottawa could yield ground on its digital space and cultural protections to satisfy demands from large U.S. tech and streaming companies.",
-      "graph": ["Digital Policy", "Trade Negotiations", "Canadian Sovereignty", "Cultural Policy", "Tech Industry"],
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-quota-system-for-steel-a-key-part-of-tariff-talks/",
+      "summary": "Negotiations between Canada and the U.S. for a new trade deal heavily involve the implementation of a quota system for steel and aluminum. This system aims to address U.S. concerns regarding metal imports while providing some relief from the 50% tariffs imposed by the Trump administration. The discussions are critical for sectors heavily reliant on cross-border trade in these materials.",
+      "graph": ["International Trade", "Steel Industry", "Aluminum Industry", "Trade Tariffs", "Economic Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for strong cultural protections and digital sovereignty to support Canadian content and industries against foreign giants." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the balancing act between international trade obligations and domestic policy goals, seeking a pragmatic approach to digital governance." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes open markets and minimizes regulatory burdens, questioning whether digital policy interventions hinder innovation or economic competitiveness." }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on protecting Canadian steel and aluminum workers and ensuring any quotas do not disproportionately harm domestic production, potentially advocating for government support to industries affected by trade disputes." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the practicalities and implications of a quota system for managing trade flows and mitigating the impact of tariffs, emphasizing a balanced approach to protect both national industries and the broader trade relationship." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports market-driven solutions and minimizes government intervention, potentially questioning the long-term efficacy of quotas as a trade policy tool and advocating for a full return to free trade principles." }
         },
-        "neutral": "The Canada-U.S. trade discussions are impacting Canada's digital policy framework, prompting debate over national sovereignty in the digital economy."
+        "neutral": "A quota system for steel and aluminum imports is a primary component of the ongoing trade negotiations between Canada and the U.S., seeking to resolve tariff disputes in these key industrial sectors."
       }
     },
     {
-      "id": "1983084799042858066",
+      "id": "federalism-c8f74783",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Trump Floats Keystone XL Revival Amidst Canada-U.S. Tariff Negotiations",
+      "source": "The Globe and Mail",
+      "title": "Provincial Divisions Emerge Over 'Team Canada' Approach to U.S. Alcohol Demands",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/20/trump-floats-keystone-xl-revival-as-tariff-pause-buys-time-for-canada-u-s-trade-deal/",
-      "summary": "U.S. President Donald Trump, in a social media post, hinted at the potential revival of the cancelled Keystone XL pipeline project, coinciding with a temporary pause in new tariffs on Canadian goods. While this suggestion is met with skepticism by energy analysts given existing pipeline developments, it introduces a significant energy policy component into the high-stakes Canada-U.S. trade discussions.",
-      "graph": ["Energy Policy", "Trade Negotiations", "Canada-U.S. Relations", "Infrastructure", "Environmental Policy"],
+      "url": "https://www.theglobeandmail.com/canada/article-team-canada-trade-talks-premiers-us-alcohol-boycott/",
+      "summary": "Internal divisions within Canada, dubbed \"Team Canada,\" are surfacing as some provincial premiers publicly question Prime Minister Carney's strategy regarding U.S. demands to end provincial bans on American alcohol. While the federal government seeks national unity in trade talks, provincial leaders are showing varied responses, indicating potential friction in the unified front against U.S. tariff threats and challenging the federal government's ability to coordinate a cohesive national trade policy.",
+      "graph": ["Federal-Provincial Relations", "Trade Strategy", "National Unity", "Alcohol Policy", "Intergovernmental Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on environmental impact, climate change commitments, and resisting pressures to reactivate fossil fuel infrastructure." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the strategic implications of energy projects in trade diplomacy and the economic feasibility of various infrastructure options." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes energy security, economic growth from resource development, and leveraging Canada's energy assets in international negotiations." }
+          "left": { "label": "Progressive Context", "synthesis": "May see these provincial disagreements as a natural outcome of differing regional economic interests, advocating for a federal strategy that considers social and environmental impacts beyond pure trade figures." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the challenge of maintaining a unified 'Team Canada' stance amidst provincial autonomy and diverse economic priorities. Focuses on the procedural difficulties of intergovernmental coordination during high-stakes international negotiations." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the inefficiencies and market distortions caused by provincial alcohol monopolies, arguing that these internal barriers hinder Canada's negotiating position and that freer markets would benefit the country." }
         },
-        "neutral": "The prospect of reviving the Keystone XL pipeline has been raised by U.S. officials as a factor in ongoing Canada-U.S. trade discussions, adding energy policy to the bilateral agenda."
+        "neutral": "Disagreements are emerging among Canadian provincial premiers regarding the federal government's strategy for addressing U.S. demands to lift provincial alcohol restrictions, potentially complicating Canada's unified stance in ongoing trade negotiations."
       }
     },
     {
-      "id": "2323321526629986345",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Calls for Enhanced Arctic Sovereignty and Defence in Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/michel-maisonneuve-canada-must-defend-the-north-to-keep-it",
-      "summary": "An opinion piece advocates for Canada to significantly bolster its military presence, develop crucial infrastructure, and establish robust transportation corridors in the Arctic. The author argues that these measures are essential for Canada to effectively maintain and assert its sovereignty over the region amidst growing international interest and potential threats.",
-      "graph": ["Arctic Sovereignty", "Defence Policy", "National Security", "Federal Policy", "Infrastructure"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concerns about militarization, emphasis on Indigenous self-determination, environmental protection, and diplomatic solutions in the Arctic." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on a balanced approach to defence and diplomacy, ensuring resource protection and regional stability while respecting international law." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes national security, robust military capabilities, and strategic resource development to unequivocally assert Canadian claims and deter foreign influence." }
-        },
-        "neutral": "There is growing discussion about the necessity for Canada to strengthen its physical presence and defence capabilities in the Arctic to secure national sovereignty."
-      }
-    },
-    {
-      "id": "2376915830089856557",
+      "id": "federalism-d8f993f3",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Canadian Tech Industry Warns of Accelerating 'Brain Drain' to the U.S.",
+      "title": "Canadian Company Hit by Federal Tariffs Misclassifying Golf Carts as Chinese EVs",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/canadian-entrepreneurs-united-states",
-      "summary": "Canada's tech industry leaders are sounding alarms about a growing 'brain drain,' where a significant number of Canadian entrepreneurs and skilled tech talent are migrating to the United States. This trend revives long-standing concerns about Canada's ability to retain its innovative workforce and compete globally, prompting calls for policy adjustments to enhance domestic attractiveness for tech talent.",
-      "graph": ["Tech Industry", "Economic Policy", "Labour Mobility", "Innovation", "Federal Policy"],
+      "url": "https://nationalpost.com/news/canada/the-government-says-this-golf-push-cart-is-a-chinese-ev-the-tariffs-are-crippling-a-canadian-company",
+      "summary": "A Canadian company is facing significant financial hardship due to federal government tariffs imposed on imported golf push carts, which authorities are reportedly misclassifying as Chinese Electric Vehicles (EVs). The company claims it lacks the funds to cover the unexpected tariff bill, highlighting a critical flaw in the application of trade policy and demonstrating the unintended negative consequences of broad tariff measures on specific domestic businesses.",
+      "graph": ["Federal Tariffs", "Trade Policy Application", "Small Business Impact", "Product Classification", "International Trade"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize public investment in education and research, addressing social inequalities that contribute to migration, and supporting homegrown talent through social programs." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic factors driving talent migration, considering various policy levers such as immigration, taxation, and innovation ecosystems." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on tax incentives, reduced regulatory burdens, and fostering a competitive business environment to attract and retain high-skilled workers and entrepreneurs." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the detrimental impact of poorly implemented trade policies on local businesses and employment, advocating for greater governmental accountability and support for companies caught in administrative errors." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the procedural complexities of tariff application and product classification, highlighting the need for clarity, due process, and a fair appeals mechanism for businesses affected by government decisions." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques government overreach and bureaucratic inefficiency in trade policy, arguing that such errors stifle entrepreneurial activity and create unnecessary burdens on the private sector, advocating for simplified regulations." }
         },
-        "neutral": "The Canadian tech sector is facing a talent outflow to the United States, prompting a re-evaluation of national strategies for retaining skilled workers and entrepreneurs."
+        "neutral": "A Canadian company alleges that federal tariffs are being incorrectly applied to its imported golf push carts, which are being misclassified as Chinese electric vehicles, resulting in substantial financial strain."
       }
     },
     {
-      "id": "2810960541170068307",
-      "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "BILD Urges Municipal Election Candidates to Prioritize Housing Development Approvals",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/life/homes/bild-ensuring-a-proper-approval-pipeline-for-new-developments",
-      "summary": "The Building Industry and Land Development (BILD) association is urging candidates in Ontario's upcoming municipal elections to commit to policies that increase the approval of new housing units and expedite development timelines. This push aims to address the persistent housing supply crisis by streamlining the often-lengthy and complex regulatory processes at the local level.",
-      "graph": ["Housing Policy", "Municipal Governance", "Economic Development", "Urban Planning", "Regulatory Reform"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for affordable housing initiatives, responsible urban planning, and addressing speculative investment, while ensuring community input in development." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on improving administrative efficiency, balancing development needs with environmental and community concerns, and transparent regulatory frameworks." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes market-driven solutions, reducing bureaucratic red tape, and accelerating development to increase housing supply and lower costs." }
-        },
-        "neutral": "Industry groups are calling on municipal candidates to commit to policies that streamline housing development approvals to address housing supply challenges."
-      }
-    },
-    {
-      "id": "1983084799042858066",
+      "id": "federalism-e80119e8",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Critique of Canadian Government's Agreement with China on Media Access",
+      "title": "Call for National Economic Pact to Address Trade Vulnerabilities and Interprovincial Barriers",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/20/why-is-the-carney-government-inviting-chinas-propaganda-machine-into-canada/",
-      "summary": "An opinion piece criticizes the Canadian government's recent agreement with China to provide 'mutual support and convenience for media to work in each other’s countries,' following Prime Minister Carney's visit. Concerns are raised regarding the potential for this agreement to expose Canadian media to China's propaganda and surveillance machinery, questioning the trade-offs made in the deal and the lack of clear protections for journalists.",
-      "graph": ["Foreign Policy", "National Security", "Media Freedom", "China-Canada Relations", "Information Sovereignty"],
+      "url": "https://thehub.ca/2026/08/21/canada-needs-to-turn-economic-protest-into-an-economic-pact/",
+      "summary": "The article argues that Canada must transition from ad-hoc economic responses to a formalized national economic pact to counter its trade vulnerabilities, particularly with the U.S. It emphasizes the need for market diversification, strengthening national unity against external pressures, and dismantling interprovincial trade barriers to build a more resilient and competitive economy. The piece suggests federal leadership is required to establish a clear vision for a single Canadian market.",
+      "graph": ["National Economic Strategy", "Trade Diversification", "Interprovincial Trade Barriers", "National Unity", "Federal Leadership"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of press freedom and journalistic independence while advocating for human rights and democratic values in international relations." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic strategy behind facilitating media access, weighing potential benefits of information exchange against risks of manipulation." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses strong alarm over potential foreign interference and national security risks, advocating for a more assertive stance against authoritarian regimes." }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on strengthening the Canadian internal market for collective benefit, ensuring that any pact promotes equitable growth across regions and sectors, and may advocate for strategic public investments alongside market reforms." },
+          "center": { "label": "Procedural Context", "synthesis": "Advocates for pragmatic reforms to enhance Canada's economic resilience, emphasizing data-driven approaches to reduce interprovincial trade barriers and coordinate national economic policy in the face of international instability." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports market liberalization within Canada and globally, viewing interprovincial barriers as unnecessary government impediments. Emphasizes self-reliance and competitiveness as core to Canada's economic future." }
         },
-        "neutral": "A recent agreement between Canada and China on media access has sparked debate and concern over its implications for Canadian media independence and national security."
+        "neutral": "The article advocates for Canada to develop a comprehensive national economic pact, including market diversification and addressing interprovincial trade barriers, to bolster its economic resilience and reduce dependence on the U.S. amid ongoing trade disputes."
       }
     },
     {
-      "id": "1983084799042858066",
+      "id": "federalism-c8a70685",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Analysis Reveals Hidden Health-Care Costs and System Inefficiency in Canada",
+      "title": "Analysis of Federal Government Spending Disclosures Reveals Varied Expenses",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/20/the-21115-health-care-bill-canadian-families-never-see/",
-      "summary": "A report highlights that Canadian families annually pay a substantial 'hidden' cost for public health care (estimated $21,115 for a family of four), which remains largely unacknowledged due to the system's general revenue funding model. This lack of transparency is argued to reduce public pressure for efficiency, leading to Canada's health system being among the most expensive in the OECD yet ranking poorly in access to doctors, beds, and diagnostic equipment, with increasing wait times and significant patient deaths. The analysis advocates for reforms such as activity-based hospital funding.",
-      "graph": ["Health Policy", "Fiscal Policy", "Public Spending", "Healthcare Reform", "Transparency"],
+      "url": "https://thehub.ca/2026/08/21/your-tax-dollars-at-work-18/",
+      "summary": "This article reviews recent federal government proactive disclosure filings, highlighting various expenses incurred by different departments and officials. Examples include substantial hospitality costs for meetings, modest per-person catering for RCMP events, and significant international travel expenses for high-ranking officials attending diplomatic and technical gatherings. The analysis offers a critical look at public spending and accountability within federal operations.",
+      "graph": ["Government Spending", "Public Accountability", "Federal Administration", "Travel Expenses", "Hospitality Costs"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might argue for stronger public funding and equitable access, while also addressing efficiency through integrated care models rather than market-based mechanisms." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on evidence-based policy to improve system performance, advocating for reforms that enhance efficiency and accountability within a universal access framework." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques government monopoly and lack of market signals, advocating for increased transparency, private sector involvement (without violating universal access), and patient-centric funding models to drive efficiency." }
+          "left": { "label": "Progressive Context", "synthesis": "Might call for more stringent oversight of government spending, focusing on ensuring public funds are used efficiently and for the benefit of all citizens, potentially critiquing excessive expenses by senior officials." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the disclosed expenses as a matter of public record and transparency, encouraging an objective review of financial practices within federal departments to identify areas for improved efficiency and accountability." },
+          "right": { "label": "Conservative Context", "synthesis": "Often critiques government spending as inefficient or wasteful, using examples of high expenses to argue for reduced government size, lower taxes, and greater fiscal responsibility." }
         },
-        "neutral": "Analysis indicates significant hidden costs in Canada's public health care system and calls for reforms to improve efficiency and accountability, citing poor international comparisons in service delivery."
+        "neutral": "An analysis of federal government disclosure filings details various departmental expenses, including significant hospitality and international travel costs for officials, providing insight into public spending practices."
       }
     }
   ],
   "charter": [
     {
-      "id": "1468652395561570566",
+      "id": "charter-c6194a08",
       "category": "Charter",
-      "source": "CBC News",
-      "title": "National 2SLGBTQ+ Monument Unveiled in Ottawa, Acknowledging Historical Discrimination",
+      "source": "The Hub",
+      "title": "Report on Antisemitism and Student Arrests at TMU Raises Free Speech and Conduct Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/ottawa/national-2slgbtq-monument-opening-in-ottawa-9.7314453?cmp=rss",
-      "summary": "A new national monument, 'Thunderhead,' has been unveiled in Ottawa, dedicated to commemorating the experiences of 2SLGBTQ+ individuals in Canada. The monument specifically recognizes the historical discrimination faced by the community, including the 'LGBT purge' carried out by the Canadian government from the 1950s to the 1990s, where thousands were expelled from public service, RCMP, and the Armed Forces due to their sexuality. The monument, partially funded by a class-action lawsuit, symbolizes destruction and renewal.",
-      "graph": ["2SLGBTQ+ Rights", "Human Rights", "Public History", "Reconciliation", "Government Accountability"],
+      "url": "https://thehub.ca/2026/08/21/is-toronto-metropolitan-university-actually-interested-in-solving-its-antisemitism-problem/",
+      "summary": "Toronto Metropolitan University (TMU) released a redacted report by former Justice Mary Lou Benotto, reviewing student arrests and antisemitism incidents involving Students for Justice in Palestine (SJP-TMU). The report rejected claims of excessive force by security, finding student arrests lawful, but the article questions TMU's commitment to addressing antisemitism given the redactions and lack of public adoption of findings. This touches on freedom of expression, protest rights, and law enforcement conduct in a university context, potentially implicating Charter principles of fundamental freedoms.",
+      "graph": ["Freedom of Expression", "Campus Protest", "Antisemitism", "Law Enforcement Conduct", "University Governance"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Celebrates the recognition of historical injustices and the ongoing struggle for equality, advocating for continued government action and support for marginalized communities." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the monument as an important step in national reconciliation and public education regarding human rights, emphasizing collective memory and healing." },
-          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the historical context but may focus on forward-looking policies, or debate the scope and impact of such commemorative projects." }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on the right to protest and potential overreach in suppressing student activism, while also acknowledging the need to combat hate speech and ensure safety for all students, potentially advocating for clearer guidelines on peaceful assembly versus disruptive conduct." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the university's efforts to balance freedom of expression with maintaining a safe and inclusive environment, emphasizing procedural fairness in investigations and the challenge of implementing recommendations to address complex campus issues." },
+          "right": { "label": "Conservative Context", "synthesis": "Highlights the importance of order and the enforcement of rules against disruptive or hateful conduct, supporting strong measures to ensure campus safety and condemning actions perceived as antisemitic or violating institutional norms." }
         },
-        "neutral": "The opening of a national monument in Ottawa serves as a public acknowledgment of historical discrimination against 2SLGBTQ+ Canadians, reflecting themes of historical injustice and renewal."
-      }
-    },
-    {
-      "id": "2323321526629986345",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Jewish Groups Demand Concrete Action on Antisemitism Beyond Reports",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/canadians-dont-need-more-reports-on-antisemitism-we-need-action",
-      "summary": "An opinion piece relays the sentiment from Jewish community groups asserting that Canada has a sufficient number of reports detailing the rise of antisemitism and now requires the government to move beyond studies to implement concrete actions. The call comes amidst ongoing parliamentary discussions, urging decisive policy measures to combat hate and ensure community safety.",
-      "graph": ["Antisemitism", "Hate Speech", "Human Rights", "Public Safety", "Government Policy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive strategies to combat hate and discrimination, emphasizing education, community support, and robust legal frameworks to protect minority groups." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the governmental process of translating reports into effective policy, seeking consensus on actionable measures to address rising antisemitism." },
-          "right": { "label": "Conservative Context", "synthesis": "Calls for strong enforcement of existing laws, swift action against hate groups, and clear condemnation of antisemitism, while also being mindful of freedom of speech considerations." }
-        },
-        "neutral": "Jewish organizations are calling for immediate government action to combat antisemitism in Canada, arguing that the focus should shift from analysis to policy implementation."
+        "neutral": "A report commissioned by Toronto Metropolitan University (TMU) investigated incidents of antisemitism and student arrests during protests, with findings on law enforcement conduct and recommendations for change now under review."
       }
     }
   ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "2323321526629986345",
+      "id": "criminal-a37a892b",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Jewish Groups Urge Ottawa to Ban Militia Allegedly Linked to Toronto Shootings",
+      "source": "CBC News",
+      "title": "RCMP Arrest Minor in Montreal for Alleged Terror Plot Targeting School",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/jewish-groups-ban-militia-tied-shootings",
-      "summary": "Jewish community organizations are pressing the Canadian government to designate Kata'ib Hezbollah, an Iraqi militia, as a terrorist entity. This call follows revelations from U.S. prosecutors alleging the militia's connection to recent shootings targeting a Toronto synagogue and the U.S. consulate. Currently, Kata'ib Hezbollah is not on Canada's official list of terrorist groups, prompting debate over national security and listing procedures.",
-      "graph": ["National Security", "Terrorism", "Hate Crime", "Public Safety", "Foreign Terrorist Organizations"],
+      "url": "https://www.cbc.ca/news/canada/montreal/rcmp-alleged-terrorism-9.7315752?cmp=rss",
+      "summary": "The RCMP has announced the arrest of a minor in Montreal concerning an alleged terror plot. The individual was reportedly planning an attack on a local school and is accused of using artificial intelligence in the planning stages and posting threatening messages targeting various communities on Telegram. The investigation, initiated weeks prior based on intelligence from the FBI, highlights domestic national security concerns and the evolving methods used in alleged terror plots.",
+      "graph": ["National Security", "Terrorism Plot", "Law Enforcement", "Juvenile Justice", "Cybercrime (AI Use)"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need to address root causes of extremism and hate, ensuring due process in listing organizations, and supporting communities vulnerable to hate-motivated violence." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and intelligence gathering processes required for proscribing terrorist entities, balancing national security with civil liberties and international relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for decisive action against perceived threats, swift listing of alleged terrorist groups, and strengthening counter-terrorism measures to protect national interests and public safety." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust support systems and rehabilitation for minors involved in such plots, while also addressing root causes of radicalization and ensuring due process and protection of juvenile rights." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the effectiveness of intelligence sharing between agencies (FBI-RCMP) and the multi-agency approach of national security enforcement teams. Highlights the procedural aspects of investigation, arrest, and subsequent legal proceedings for minors." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes national security and public safety, advocating for strong measures against terror threats regardless of age, and scrutinizes any perceived leniency in the justice system for such severe allegations." }
         },
-        "neutral": "Calls are being made by Jewish groups for the Canadian government to list Kata'ib Hezbollah as a terrorist entity, following U.S. allegations linking the militia to recent Toronto shootings."
+        "neutral": "The RCMP has apprehended a minor in Montreal in connection with an alleged terror plot against a local school, with investigators reporting the use of artificial intelligence in planning and the posting of threatening online messages."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "immigration-21e10264",
+      "category": "Immigration",
+      "source": "The Globe and Mail",
+      "title": "CBSA Alleges Montreal Resident Facilitated Illegal Entry for Dozens",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-cbsa-charges-immigration-consultant-abul-kasim/",
+      "summary": "The Canada Border Services Agency (CBSA) has accused a Montreal resident, Abul Kasim, of facilitating the illegal entry of 65 individuals into Canada by using false information. This incident underscores ongoing challenges in border integrity and immigration fraud, prompting enforcement actions by federal authorities to maintain the security and legality of Canada's immigration system.",
+      "graph": ["Immigration Fraud", "Border Security", "Law Enforcement", "Illegal Entry", "Canada Border Services Agency"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May call for examining systemic factors contributing to irregular migration, advocating for accessible and clear immigration pathways, and ensuring fair legal processes for those accused of facilitating entry." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the operational aspects of border security and the legal framework for prosecuting immigration offenses. Emphasizes the importance of due process in investigations and maintaining the integrity of the immigration system." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes strict enforcement of immigration laws and border controls, viewing such allegations as evidence of security vulnerabilities and advocating for tougher penalties against those who facilitate illegal entry." }
+        },
+        "neutral": "The Canada Border Services Agency (CBSA) has accused a Montreal resident of assisting 65 individuals in illegally entering Canada by providing false information, leading to federal charges related to immigration fraud."
+      }
+    },
+    {
+      "id": "immigration-27ec9f53",
+      "category": "Immigration",
+      "source": "The Hub",
+      "title": "Surge in Citizenship Applications Post-'Lost Canadians' Law Challenges Federal Immigration Controls",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/22/canadian-citizenship-applicants-surging-after-lost-canadians-law-passed-testing-carney-governments-immigration-control-promise/",
+      "summary": "Following the implementation of Bill C-3, the \"Lost Canadians\" law, there has been an unanticipated surge in Canadian citizenship applications, disproportionately from U.S. residents. This increase is testing the Carney government's promise to bring immigration under control, as the legislation allows individuals to claim citizenship through multi-generational Canadian ancestry, leading to backlogs and extended processing times for Immigration, Refugees and Citizenship Canada (IRCC). The minister had previously stated no surge was expected.",
+      "graph": ["Citizenship Law", "Immigration Policy", "Federal Government Promise", "Ancestry Claims", "Processing Backlog"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports broader and more inclusive definitions of citizenship, but may highlight administrative inefficiencies in managing the surge, advocating for increased resources to process applications fairly and promptly." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the policy implications of Bill C-3, focusing on the discrepancy between government predictions and actual application volumes. Emphasizes the challenges in resource allocation and operational capacity for IRCC." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques the unintended consequences of the \"Lost Canadians\" law, arguing it undermines immigration control efforts and strains public services, advocating for tighter immigration policies and greater fiscal prudence in managing related costs." }
+        },
+        "neutral": "A new law extending Canadian citizenship eligibility to descendants born abroad, known as the \"Lost Canadians\" law (Bill C-3), has resulted in a significant, unforeseen increase in applications, particularly from the U.S., challenging the federal government's immigration control objectives."
+      }
+    }
+  ]
 }
