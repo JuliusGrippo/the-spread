@@ -1,255 +1,198 @@
 {
   "federalism": [
     {
-      "id": "2b6a5e1286c1c8a16d8e821e25e17327",
+      "id": "fed-1",
       "category": "Federalism",
-      "source": "CBC News Politics",
-      "title": "How Trump's tariffs work to redistribute wealth up the food chain",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trump-tariffs-redistribute-wealth-up-food-chain-9.7316144?cmp=rss",
-      "summary": "This analysis describes how U.S. President Donald Trump's tariffs, while ostensibly targeting foreign entities, have primarily functioned as a domestic mechanism to transfer wealth from lower and middle-income Americans to large corporations. Economists highlight that tariffs tax consumption, disproportionately affecting those who spend a larger portion of their income on manufactured goods, and that politically influenced exemption/rebate systems further exacerbate this wealth concentration, benefiting well-connected businesses.",
-      "graph": ["Trade Policy", "Economic Impact", "Wealth Inequality", "U.S. Politics", "Tariffs"],
+      "source": "The Narwhal",
+      "title": "Vancouver Air Pollution Highlights Multi-Jurisdictional Policy Gaps",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/port-of-vancouver-diesel-truck-air-pollution/?utm_source=rss",
+      "summary": "Residents of Hastings-Sunrise, Vancouver, are experiencing severe air pollution from heavy-duty diesel trucks accessing the Port of Vancouver, a problem exacerbated by a permanent rerouting of traffic. Health experts warn of serious risks, particularly to children. Local and provincial efforts to mitigate the issue have been unsuccessful, with city engineers citing burden-shifting concerns. The article highlights Canada's lagging federal and provincial policy in regulating older, high-emitting trucks compared to other countries, and the jurisdictional complexity involving the Port, Translink, and the City.",
+      "graph": ["Environmental Policy", "Jurisdictional Conflict", "Public Health", "Port Authority", "Urban Planning", "Regulatory Lag"],
       "spectrum": {
-        "baseline": { "left": 40, "center": 35, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would emphasize how tariffs, despite nationalist rhetoric, serve as regressive taxes that deepen wealth inequality by disproportionately burdening lower and middle classes, while large corporations exploit loopholes and political influence for financial gain, reinforcing systemic economic disparities." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral economic and policy analysis would focus on the stated goals versus actual outcomes of tariff implementation, detailing the mechanisms of wealth transfer through consumption taxes and the practical impacts of tariff exemption/rebate programs on market dynamics and corporate balance sheets, as identified by economic studies." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might acknowledge the unintended domestic economic distortions but would likely frame the tariffs as a necessary, albeit imperfect, tool for national economic protection and renegotiating international trade terms, even if they result in short-term domestic winners and losers. Concerns about corporate lobbying could be raised from a free-market perspective." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes environmental justice, corporate accountability (Port of Vancouver), and the need for stronger federal and provincial environmental regulations to protect vulnerable communities from industrial pollution, linking health outcomes to systemic policy failures." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural challenges of inter-jurisdictional governance (federal port, provincial transport, municipal planning), the technical difficulties of rerouting traffic, and the current policy framework's inadequacy in balancing economic activity with public health and environmental concerns." },
+          "right": { "label": "Conservative Context", "synthesis": "Might critique over-regulation or unintended consequences of traffic management, potentially emphasizing the economic importance of port operations and the need for efficient infrastructure. Could argue against excessive government intervention that burdens industry or shifts costs without clear benefits." }
         },
-        "neutral": "The article objectively analyzes the U.S. tariff policy, demonstrating its domestic wealth redistribution effects from the general populace to large corporations, driven by consumption taxation and politicized exemptions."
+        "neutral": "This issue highlights the complexities and gaps in environmental and public health governance arising from overlapping federal, provincial, and municipal jurisdictions, particularly concerning industrial operations like a major port and its traffic routes."
       }
     },
     {
-      "id": "1d8f5e7149c4f1c8a1d2e13a45e67890",
+      "id": "fed-2",
       "category": "Federalism",
-      "source": "CBC News Politics",
-      "title": "Canada's an agricultural superpower. Could it feed the whole world?",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-food-security-strategy-agrifood-exports-tech-adoption-infrastructure-labour-9.7315712?cmp=rss",
-      "summary": "Canada, despite its agricultural capacity, is falling behind in global agri-food export growth due to domestic challenges like red tape, infrastructure deficits, and labor shortages. Experts highlight that Canada lags competitor nations in adopting agricultural technology, such as drone spraying, partly due to regulatory delays. While the federal government has approved some new technologies, there's a broader systemic issue preventing Canada from maximizing its food production and export potential.",
-      "graph": ["Agriculture", "Food Security", "Trade", "Technology Adoption", "Regulatory Policy", "Economic Competitiveness"],
+      "source": "CBC News",
+      "title": "Canadian Businesses Face Economic Fallout as U.S. Tariffs Take Effect Post-Trade Talk Collapse",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/business/canadian-businesses-brace-for-50-per-cent-u-s-tariffs-9.7317591?cmp=rss",
+      "summary": "Following the breakdown of Canada-U.S. trade negotiations, the U.S. has imposed 50% tariffs on a range of Canadian goods, including wine, wood furniture, and cement. Canadian businesses are now preparing for significant financial losses and market uncertainty, with some, like B.C. wineries, halting U.S. exports. Industry leaders are urging for prompt domestic support from the Canadian government, as key manufacturing sectors in provinces like Quebec and Ontario are expected to be disproportionately affected.",
+      "graph": ["International Trade", "Tariffs", "Economic Impact", "Canada-U.S. Relations", "Federal Policy Response", "Business Sector"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Left-leaning perspectives might emphasize the need for strategic federal investment in infrastructure, sustainable farming practices, and support for agricultural workers to ensure Canada's long-term food security and global contribution, while critically evaluating regulatory hurdles as potential barriers to innovation and equitable access to technology." },
-          "center": { "label": "Procedural Context", "synthesis": "A central analysis would focus on the objective identification of economic and regulatory obstacles hindering Canada's agri-food sector growth. It would evaluate the effectiveness of current federal and provincial policies in addressing issues like infrastructure, labor, and technology adoption, seeking evidence-based solutions for national competitiveness." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative views would likely underscore the burden of 'red tape' and over-regulation imposed by government as primary impediments to agricultural innovation and export growth. They would advocate for streamlined regulations, market-driven solutions for technology adoption, and private sector investment in infrastructure, emphasizing efficiency and reduced government intervention." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the vulnerability of Canadian workers and businesses to global trade disputes, calling for robust federal intervention and support programs for affected industries and potentially critiquing the current government's trade strategy or past deregulation." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual economic consequences of the trade dispute, the specific sectors affected, and the need for a pragmatic, evidence-based federal response to mitigate damage and stabilize trade relations, while evaluating the efficacy of potential domestic support measures." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the disruption to free markets and the private sector caused by protectionist policies, advocating for swift federal action to restore market access and minimize government interference, potentially criticizing the federal government's negotiation tactics for failing to prevent these tariffs." }
         },
-        "neutral": "The article impartially assesses Canada's agri-food sector, detailing how bureaucratic and infrastructural challenges, alongside slow tech adoption, limit its global export potential despite significant production capabilities."
+        "neutral": "The imposition of 50% U.S. tariffs on Canadian exports, following the collapse of bilateral trade talks, has initiated a new phase in the Canada-U.S. trade dispute, directly impacting Canadian businesses and prompting calls for federal economic mitigation strategies."
       }
     },
     {
-      "id": "b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4",
+      "id": "fed-3",
       "category": "Federalism",
-      "source": "CBC News Politics",
-      "title": "Mark Carney doesn't stop the United States from driving negotiations over a cliff",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-trump-trade-tariffs-analysis-9.7317111?cmp=rss",
-      "summary": "Prime Minister Mark Carney announced Canada's withdrawal from trade negotiations with the United States after a week of intense talks, citing unacceptable last-minute changes proposed by American negotiators. The U.S. subsequently imposed new 50% tariffs on Canadian goods. The collapse of the deal, which had been under negotiation for over a year, is anticipated to lead to significant economic repercussions, including potential job losses in Canada, and marks a turning point in Canada-U.S. trade relations.",
-      "graph": ["Trade Negotiations", "Canada-U.S. Relations", "Tariffs", "Economic Policy", "Diplomacy", "Sovereignty"],
+      "source": "CBC News",
+      "title": "Opposition Demands Parliament Recall for Debate on Failed Canada-U.S. Trade Deal and Tariff Response",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/poilievre-wants-carney-to-recall-parliament-9.7317951?cmp=rss",
+      "summary": "Conservative Leader Pierre Poilievre has formally requested Prime Minister Mark Carney to recall Parliament to discuss the breakdown of Canada-U.S. trade talks and the resulting 50% U.S. tariffs. Poilievre emphasizes the need for transparency, urging the release of the proposed deal's text so Canadians can understand and debate the government's decisions, and for answers on how the federal government plans to protect Canadian jobs and address rising costs.",
+      "graph": ["Parliamentary Oversight", "Government Accountability", "Trade Policy", "Federal-Provincial Relations", "Economic Strategy"],
       "spectrum": {
-        "baseline": { "left": 35, "center": 40, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "From a progressive standpoint, the collapse highlights the need for Canada to diversify its trade relationships globally, reduce reliance on the U.S., and protect cultural industries and sovereignty from aggressive foreign policy. It could also prompt calls for stronger domestic support for affected industries and workers." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the diplomatic process, the specific points of contention, and the procedural breakdown of negotiations. It assesses the immediate economic consequences, Canada's strategic response, and the implications for future bilateral trade frameworks, emphasizing adherence to international trade law." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators might criticize the Liberal government's negotiating strategy as either too rigid or too yielding, leading to a 'bad deal' or the current impasse. They might emphasize the need for a stronger stance to protect Canadian economic interests, potentially advocating for a more aggressive retaliatory tariff approach while also questioning the long-term economic stability under current trade policies." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports parliamentary transparency and accountability, especially on major economic issues impacting citizens, potentially viewing the opposition's call as a means to ensure a broad, democratic discussion on Canada's trade future beyond executive decisions." },
+          "center": { "label": "Procedural Context", "synthesis": "Regards the call for Parliament's recall as a standard function of democratic oversight during a national crisis, emphasizing the procedural importance of legislative debate and scrutiny of government trade policy and its economic implications." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for increased parliamentary scrutiny and immediate action from the federal government on the trade crisis, viewing the lack of transparency as detrimental to national interests and the opposition's role as critical in holding the government accountable for economic outcomes." }
         },
-        "neutral": "The article reports on the collapse of Canada-U.S. trade negotiations, detailing Prime Minister Carney's decision to walk away due to unacceptable U.S. demands and the subsequent imposition of tariffs, marking a significant escalation in bilateral trade tensions."
+        "neutral": "The Conservative Opposition Leader has called for an urgent recall of Parliament to facilitate transparency and debate on the failed Canada-U.S. trade deal and the federal government's strategic response to escalating U.S. tariffs."
       }
     },
     {
-      "id": "e5f8a0b3c6d9e2f5a8b1c4d7e0f3a6b9",
+      "id": "fed-4",
       "category": "Federalism",
-      "source": "CBC News Politics",
-      "title": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little'",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/mark-carney-counter-tarrif-response-9.7316934?cmp=rss",
-      "summary": "Prime Minister Mark Carney disclosed that Canada withdrew from trade talks with the U.S. due to three unacceptable last-minute American demands: restrictions on Canadian cultural subsidies and bilingual product labeling, unfair treatment of Canadian-made auto parts, and limitations on Canada's ability to forge other international trade agreements. Carney stated these demands undermined Canadian sovereignty and economic partnership, leading to the decision to reject the deal, with Ontario Premier Doug Ford expressing support for this firm stance.",
-      "graph": ["Trade Negotiations", "Canadian Sovereignty", "Cultural Policy", "Auto Industry", "International Trade", "Federal-Provincial Relations"],
+      "source": "The Globe and Mail",
+      "title": "Canada Maintains Cultural Sovereignty, Rejects U.S. Demands on Cancon Rules for Streaming Services",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-rejected-drop-cancon-us-demand-streaming-services/",
+      "summary": "During the final stages of the failed Canada-U.S. trade negotiations, American delegates reportedly demanded Canada drop its Canadian content (Cancon) rules, which aim to boost the discoverability of Canadian and French-language content on streaming platforms. Ottawa rejected this last-minute demand, indicating a firm stance on protecting national cultural policy and sovereignty, a key factor contributing to the collapse of the trade talks.",
+      "graph": ["Cultural Policy", "Digital Sovereignty", "International Trade Negotiations", "Canadian Content (Cancon)", "Federal Policy", "US-Canada Relations"],
       "spectrum": {
-        "baseline": { "left": 45, "center": 35, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views would strongly support Carney's defense of Canadian culture and sovereignty, seeing the U.S. demands as an imperialistic attempt to undermine national identity and independent foreign policy. They would advocate for continued resistance to such pressures and emphasize the importance of diverse trade agreements not dictated by any single partner." },
-          "center": { "label": "Procedural Context", "synthesis": "A central perspective analyzes the specific demands presented by the U.S. and Carney's stated reasons for their rejection, assessing the legal and economic implications of each point. It would consider the strategic calculus behind Canada's withdrawal and the coherence of the Prime Minister's public messaging regarding national interests." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators might question the timing and strategy of the U.S. demands, but could also raise concerns about the broader economic fallout for key Canadian industries like auto. While agreeing on the need to protect sovereignty, they might also scrutinize whether Canada's initial negotiating posture contributed to the U.S.'s hardened stance or the eventual collapse." }
+          "left": { "label": "Progressive Context", "synthesis": "Applauds the federal government's defence of cultural sovereignty and Canadian content regulations, viewing it as essential for national identity and independent cultural production against the dominance of foreign (primarily American) media platforms, even at the cost of a trade deal." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the strategic decision to prioritize cultural policy over trade concessions, recognizing the political and national identity implications of Cancon rules within a bilateral agreement. Focuses on the negotiation dynamics and the specific demands that led to the impasse." },
+          "right": { "label": "Conservative Context", "synthesis": "May express mixed views: some could support national sovereignty in cultural matters, while others might critique the economic cost of sacrificing a trade deal for cultural protectionism, arguing for market-driven solutions or questioning the efficacy of Cancon rules." }
         },
-        "neutral": "Prime Minister Carney articulated the specific U.S. demands concerning culture, auto parts, and Canadian trade autonomy that led to the collapse of bilateral trade negotiations, emphasizing Canada's refusal to compromise its sovereignty and economic interests."
+        "neutral": "Canada's refusal to concede on Canadian content regulations for streaming services, despite a last-minute U.S. demand during trade talks, was a contributing factor to the collapse of negotiations, underscoring the federal government's commitment to cultural sovereignty."
       }
     },
     {
-      "id": "c8d2e6f0a4b7c1d5e9f3a7b0c4d8e2f6",
+      "id": "fed-5",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Canadian premiers appear to back Carney’s decision to abandon ‘bad deal’ with United States",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12031582/trade-talks-premiers-reaction/",
-      "summary": "Following Prime Minister Mark Carney's announcement to abandon trade talks with the U.S., Canadian provincial premiers have largely rallied in support, presenting a united front. This intergovernmental consensus signals national solidarity in the face of new U.S. tariffs and the collapse of the trade agreement, underlining a collective resolve to protect Canada's economic and sovereign interests despite the looming economic challenges.",
-      "graph": ["Federal-Provincial Relations", "Trade Policy", "National Unity", "Intergovernmental Cooperation", "U.S. Tariffs"],
+      "title": "Canada Announces Retaliatory Tariffs Amid Escalating U.S. Trade Dispute",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12032550/trade-war-canada-dollar-for-dollar-response/",
+      "summary": "Prime Minister Carney announced Canada's intention to implement 'dollar-for-dollar' retaliatory tariffs on U.S. goods, effective September 8, in response to the 50% levies imposed by the U.S. following the collapse of trade talks. Carney stated that Canada was 'walking away from a bad deal' due to 'unreasonable' U.S. requests, marking a new, escalated phase in the bilateral trade dispute.",
+      "graph": ["Trade War", "Retaliatory Tariffs", "International Relations", "Federal Economic Policy", "Canada-U.S. Trade", "Diplomacy"],
       "spectrum": {
-        "baseline": { "left": 35, "center": 45, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would laud the premiers' unified stance as a demonstration of national strength against external economic bullying, emphasizing the importance of federal-provincial cooperation to protect Canadian jobs and social programs from the impacts of trade wars. It may also call for increased social safety nets for affected workers." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral view would observe the political alignment between federal and provincial governments as a strategic response to international trade pressures. It would analyze how this unity affects Canada's leverage in future negotiations and its capacity to implement national economic countermeasures, focusing on the mechanics of intergovernmental support." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators would likely appreciate the premiers' support as a necessary show of unity in a crisis, particularly if it aligns with protecting provincial economic sectors. However, they might also subtly critique the federal government's handling of the trade file, suggesting that such unity is a reactive measure to a poorly managed negotiation." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports a firm stance against U.S. protectionism to protect Canadian industries and jobs, advocating for a strong federal role in defending national economic interests and strategic planning to support affected sectors." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the government's official response and the diplomatic strategy employed in the face of trade escalation. Analyzes the potential impacts and strategic rationale behind the 'dollar-for-dollar' retaliation from a neutral policy standpoint." },
+          "right": { "label": "Conservative Context", "synthesis": "While potentially supporting a strong national stance, might express concern over the economic risks of a protracted trade war and advocate for a quick resolution or a focus on domestic economic resilience rather than escalating tariffs, questioning the long-term effectiveness of such retaliation." }
         },
-        "neutral": "The article reports that Canadian provincial premiers are broadly supporting Prime Minister Carney's decision to exit trade negotiations with the U.S., demonstrating a unified national position against the new tariffs and the breakdown of the trade deal."
+        "neutral": "Canada has announced 'dollar-for-dollar' retaliatory tariffs against the U.S., effective September 8, following the breakdown of bilateral trade negotiations and the imposition of new U.S. levies, escalating the ongoing trade dispute."
       }
     },
     {
-      "id": "f7e1a3b5c9d2e4f6a8b0c2d1e3f5a7b9",
+      "id": "fed-6",
       "category": "Federalism",
       "source": "Global News",
-      "title": "U.S.-Canada trade talks have collapsed. Carney says these 3 issues torpedoed them",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12031459/united-states-canada-trade-talks-issues/",
-      "summary": "Prime Minister Mark Carney detailed the specific points of contention that led to the collapse of U.S.-Canada trade negotiations. The breakdown was triggered by late U.S. demands regarding Canadian cultural protections, conditions for the auto industry, and Canada's ability to engage in trade agreements with other nations. These issues were deemed fundamental to Canadian sovereignty and economic viability, prompting Canada to withdraw from the talks as 50% U.S. tariffs came into effect.",
-      "graph": ["Trade Negotiations", "Canada-U.S. Trade", "Sovereignty", "Cultural Industry", "Automotive Sector", "Tariffs"],
+      "title": "Canadian Industry Expresses Alarm Over U.S. Tariffs and Trade Uncertainty",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12031964/canadian-companies-us-tariffs-reaction/",
+      "summary": "Canadian businesses are reporting severe negative impacts from the recently enacted 50% U.S. tariffs, citing higher costs, lost deals, and an atmosphere of uncertainty that hinders long-term planning. Examples include B.C. wineries ceasing U.S. shipments and manufacturing firms facing significant revenue losses, particularly in central Canada. The widespread concern underscores the immediate economic pressure on Canadian industries and their reliance on stable cross-border trade.",
+      "graph": ["Economic Impact", "Business Confidence", "Trade War", "Industry Concerns", "Federal Support", "Supply Chains"],
       "spectrum": {
-        "baseline": { "left": 40, "center": 35, "right": 25 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive commentary would highlight the U.S. demands as an attempt to undermine Canadian cultural identity and economic autonomy, advocating for robust federal protection of national interests and diversification of trade partnerships to resist foreign pressure." },
-          "center": { "label": "Procedural Context", "synthesis": "A central analysis would focus on the factual reporting of the specific demands and Canada's reasons for rejecting them, examining the strategic implications of the negotiation breakdown for both nations and the immediate economic ramifications for affected sectors." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might agree with the need to protect sovereignty but could scrutinize the government's handling of the trade file, questioning whether Canada adequately anticipated or countered such aggressive U.S. demands, and focusing on the economic costs to industries from the collapse." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for federal government intervention and robust support programs to protect Canadian workers and small businesses from external economic shocks, advocating for social safety nets and strategic industrial policy to cushion the impact." },
+          "center": { "label": "Procedural Context", "synthesis": "Documents the tangible economic effects of the trade dispute on various Canadian sectors, highlighting the business community's need for clarity and federal government strategies to navigate the new trade landscape and mitigate adverse impacts." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the critical importance of predictable trade environments for business operation and investment, urging the federal government to prioritize free trade and market access, potentially criticizing the political decisions that led to the current instability and its detrimental effects on private enterprise." }
         },
-        "neutral": "The article outlines Prime Minister Carney's explanation for the breakdown of U.S.-Canada trade talks, specifying three critical issues related to culture, automotive trade, and Canadian sovereignty that caused the collapse and the imposition of U.S. tariffs."
+        "neutral": "Canadian businesses are reporting immediate adverse effects from the new U.S. tariffs, experiencing increased costs, disrupted trade, and uncertainty, prompting calls for federal government measures to stabilize and support affected industries."
       }
     },
     {
-      "id": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+      "id": "fed-7",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Carney says Canada ‘walking away from a bad deal’ as 50% tariffs hit",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12031378/canada-united-states-trade-talks-tariffs-hit/",
-      "summary": "Prime Minister Mark Carney announced Canada's decision to walk away from a proposed trade deal with the United States, deeming it a 'bad deal' that compromised Canadian interests. This declaration came as new 50% U.S. tariffs on Canadian goods took effect. Carney emphasized Canada's determination to resist terms that would undermine its economy or sovereignty, signaling a firm stance in the escalating trade dispute.",
-      "graph": ["Trade Dispute", "Canada-U.S. Relations", "Tariffs", "Economic Policy", "Political Leadership"],
+      "source": "The Hub",
+      "title": "Commentary Advocates for Ontario to Join Alberta in Canada Health Act Challenge",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/24/ontario-should-join-alberta-in-challenging-the-canada-health-act/",
+      "summary": "A commentary piece argues that Ontario should support Alberta's initiative to implement a dual public-private model for elective surgeries, which the Federal Health Minister warns may violate the Canada Health Act (CHA). The article posits that the 40-year-old CHA restricts innovation in healthcare delivery and that public opinion increasingly favors more private options. It highlights Ontario's existing private delivery in healthcare as a precedent for partnering with Alberta to challenge federal constraints and improve access to care.",
+      "graph": ["Canada Health Act", "Federal-Provincial Relations", "Healthcare Policy", "Public-Private Healthcare", "Jurisdictional Dispute", "Provincial Autonomy"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators would support Carney's decision to prioritize national interest and sovereignty over a disadvantageous trade agreement, advocating for strategic responses that protect vulnerable sectors and promote social equity amidst economic pressures." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective analyzes the direct statements from Prime Minister Carney, the immediate impact of the U.S. tariffs, and the procedural aspects of Canada's withdrawal. It would assess the clarity and consistency of the government's communication and its implications for future bilateral relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might commend the resolve to stand up for Canada but could also question the process that led to such an intractable position. They might also emphasize the economic burden of the tariffs on Canadian businesses and consumers, advocating for strong, rapid retaliatory measures and robust support for affected industries." }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly opposes any challenge to the Canada Health Act, viewing it as a cornerstone of universal healthcare and equitable access. Warns against privatization, fearing it would create a two-tier system, exacerbate inequalities, and undermine public health principles." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the arguments for and against modernizing or reinterpreting the Canada Health Act, focusing on balancing universal access principles with innovative healthcare delivery models to address wait times and efficiency. Considers the legal and policy implications of provincial challenges." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports provincial autonomy and the exploration of private sector involvement in healthcare to reduce wait times and increase efficiency, arguing that the Canada Health Act may be outdated and stifling necessary reforms. Advocates for market-based solutions and greater choice for patients." }
         },
-        "neutral": "Prime Minister Mark Carney formally announced Canada's rejection of the proposed U.S. trade deal, citing its detrimental nature, coinciding with the implementation of new U.S. tariffs on Canadian imports, thereby escalating the bilateral trade conflict."
-      }
-    },
-    {
-      "id": "1e3a5c7b9d2e4f6a8b0c2d1e3f5a7b9c",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Two months to go: Inside Alberta separatists’ campaign",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/two-months-to-go-inside-alberta-separatists-campaign",
-      "summary": "This article details the organized and professional campaign by Alberta separatists, focusing on converting undecided voters ahead of a significant provincial decision. The movement represents a tangible challenge to Canadian federal unity, driven by perceived grievances against the federal government and a desire for greater provincial autonomy, particularly concerning resource revenues and economic policy. Pro-Canada voices are urged to not be complacent.",
-      "graph": ["Federalism", "Provincial Autonomy", "Western Alienation", "Separatism", "Canadian Unity", "Political Movements"],
-      "spectrum": {
-        "baseline": { "left": 20, "center": 30, "right": 50 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might analyze the roots of Alberta's separatist sentiment in historical grievances and economic disparities, suggesting that federal policies could be more inclusive and responsive to regional needs. They might also caution against the divisive nature of such movements and advocate for national solidarity through equitable wealth distribution and environmental policies." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would examine the mechanics of the separatist campaign, its organizational structure, and its public engagement strategies. It would assess the political feasibility and constitutional implications of Alberta's separation, focusing on the legal and administrative challenges it would pose to the Canadian federation." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative views often sympathize with Alberta's calls for greater autonomy, particularly regarding resource management and fiscal fairness. While not necessarily endorsing full separation, they would likely support provincial challenges to federal authority and advocate for policies that empower provinces economically, seeing the separatist movement as a symptom of federal overreach and economic mismanagement." }
-        },
-        "neutral": "The article reports on the active and professional campaign of Alberta separatists targeting undecided voters, underscoring a growing movement that challenges Canadian federal unity and calls for a strong response from those advocating for national cohesion."
-      }
-    },
-    {
-      "id": "d0c1b2a3e4f5g6h7i8j9k0l1m2n3o4p5",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Gary Mar: Governments need a co-ordinated response to hate and violent extremism",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/gary-mar-governments-need-a-co-ordinated-response-to-hate-and-violent-extremism",
-      "summary": "This opinion piece argues for a coordinated, multi-level governmental response to combat hate and violent extremism across Canada. It emphasizes that public confidence in democracy is contingent on effective governmental action. The author suggests that tackling such complex issues requires collaboration between federal, provincial, and municipal authorities to ensure a comprehensive and consistent approach to security and social cohesion, rather than fragmented efforts.",
-      "graph": ["National Security", "Intergovernmental Relations", "Public Safety", "Extremism", "Social Cohesion", "Governance"],
-      "spectrum": {
-        "baseline": { "left": 40, "center": 40, "right": 20 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would emphasize addressing the root causes of hate and extremism, such as systemic discrimination, poverty, and lack of opportunities. They would advocate for inclusive community programs, education, and social policies alongside law enforcement efforts, focusing on prevention and rehabilitation." },
-          "center": { "label": "Procedural Context", "synthesis": "A central analysis would focus on the practical mechanisms of intergovernmental coordination, including information sharing, joint task forces, and standardized response protocols. It would assess the efficiency and effectiveness of collaborative efforts while maintaining legal and ethical standards in combating extremism." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative views would likely prioritize strong law enforcement, intelligence gathering, and robust legal frameworks to deter and prosecute extremist groups. They would support intergovernmental cooperation for national security, focusing on border control, surveillance, and swift punitive measures, while also potentially stressing individual responsibility and parental roles in countering radicalization." }
-        },
-        "neutral": "This opinion piece advocates for a cohesive and synchronized strategy among federal, provincial, and municipal governments to effectively address the growing threat of hate and violent extremism, asserting that such coordination is crucial for maintaining public confidence in democratic institutions."
-      }
-    },
-    {
-      "id": "e3f1g2h3i4j5k6l7m8n9o0p1q2r3s4t5",
-      "category": "Federalism",
-      "source": "Toronto Sun Opinion",
-      "title": "GOLDSTEIN: Job losses, inflation and bail-outs – the high costs of an all-out trade war",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/columnists/job-losses-inflation-bail-outs-high-costs-all-out-trade-war",
-      "summary": "This opinion piece outlines the severe economic consequences of an escalating trade war between Canada and the U.S., including job losses, increased inflation, and the potential need for government bail-outs for struggling businesses. It critically asserts that tariff wars represent bad public policy, causing significant economic damage across all business sizes, and suggests a need for a re-evaluation of current trade strategies.",
-      "graph": ["Trade War", "Economic Consequences", "Tariffs", "Inflation", "Employment", "Government Policy"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 35, "right": 40 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would highlight the disproportionate impact of job losses and inflation on vulnerable populations and call for robust social safety nets and government interventions (e.g., subsidies, retraining programs) to mitigate the human cost of a trade war. They might also advocate for a shift towards a more diversified and sustainable domestic economy." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral economic analysis would quantify the projected job losses, inflation rates, and the fiscal burden of potential bail-outs. It would assess the effectiveness of retaliatory tariffs and explore alternative diplomatic and economic strategies to de-escalate trade tensions and protect national economic interests." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators would generally condemn tariffs as market-distorting and economically inefficient, leading to negative consequences like job losses and inflation. While they might support firm national stances, they would likely advocate for free-market principles and criticize government bail-outs as inefficient interventions, pushing for policies that foster business resilience and competitiveness without state aid." }
-        },
-        "neutral": "This article discusses the anticipated negative economic impacts of an expanded trade war between Canada and the U.S., forecasting job losses, inflationary pressures, and the necessity of government financial support for businesses, critiquing tariffs as economically destructive."
+        "neutral": "This commentary proposes that Ontario align with Alberta in challenging the Canada Health Act to permit greater private sector involvement in healthcare delivery, reflecting an ongoing federal-provincial tension over healthcare jurisdiction and funding models."
       }
     }
   ],
   "charter": [],
   "indigenous": [
     {
-      "id": "3c7b9e1f5a2d8b4c0e6f2a8b5c1d7e3f",
+      "id": "ind-1",
       "category": "Indigenous",
-      "source": "Global News",
-      "title": "150th anniversary of Treaty 6 to be commemorated",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12031908/150th-anniversary-of-treaty-6-to-be-commemorated/",
-      "summary": "The 150th anniversary of Treaty 6, signed by First Nations chiefs and dignitaries at Fort Carlton, is being commemorated. This historical treaty established foundational agreements for coexistence and cooperation as the modern Canadian state emerged. The commemoration serves as a moment to reflect on the treaty's historical significance, ongoing obligations, and its contemporary relevance for Indigenous-Crown relations.",
-      "graph": ["Indigenous Rights", "Treaty Rights", "Reconciliation", "First Nations History", "Sovereignty", "Commemoration"],
+      "source": "The Every Lawyer (via Slaw.ca)",
+      "title": "Discussing Bill C-92 and Indigenous Self-Government in Child Welfare",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://theeverylawyer.simplecast.com/episodes/legislative-reconciliation-naiomi-metallic-on-legislating-indigenous-self-government-in-child-welfare",
+      "summary": "Professor Naiomi Metallic provides an in-depth discussion on Bill C-92, a federal Act concerning First Nations, Inuit, and Métis children, youth, and families. The conversation delves into the concept of legislative reconciliation and the 'braiding together' of existing legal orders to support Indigenous self-government in child welfare. This analysis explores how federal legislation aims to empower Indigenous communities to exercise jurisdiction over their child and family services.",
+      "graph": ["Indigenous Self-Government", "Child Welfare", "Legislative Reconciliation", "Bill C-92", "First Nations Law", "Legal Orders"],
       "spectrum": {
-        "baseline": { "left": 45, "center": 40, "right": 15 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would emphasize the ongoing significance of Treaty 6 as a living document, highlighting unfulfilled promises and the need for genuine reconciliation, land back initiatives, and upholding Indigenous self-determination. They would advocate for a critical examination of colonial legacies and systemic injustices." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the historical context and legal framework of Treaty 6, detailing the terms of the original agreement and how they have been interpreted and applied over time. It would describe the commemorative events and their purpose in acknowledging historical milestones and ongoing relationships." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might emphasize the historical context of nation-building and the need for clear, modernized interpretations of treaty obligations within contemporary legal and economic frameworks. They might focus on economic development opportunities for Indigenous communities stemming from treaty relationships, while respecting historical agreements." }
+          "left": { "label": "Progressive Context", "synthesis": "Strongly supports Bill C-92 and legislative reconciliation as crucial steps towards Indigenous self-determination and addressing historical injustices in child welfare. Advocates for full recognition of Indigenous legal orders and immediate transfer of jurisdictional control to Indigenous communities." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes Bill C-92's framework, implementation challenges, and the legal complexities of integrating Indigenous self-government within the broader Canadian legal system. Focuses on the practicalities and mechanisms of legislative reconciliation and jurisdictional transfer in child welfare." },
+          "right": { "label": "Conservative Context", "synthesis": "May support the principle of self-determination but could raise concerns about the practical implications, accountability structures, or potential for diverse outcomes across different Indigenous communities. Could emphasize the need for clear legal frameworks and careful transitions to ensure consistency and prevent unintended consequences." }
         },
-        "neutral": "The article reports on the commemoration of the 150th anniversary of Treaty 6, marking a significant historical agreement between First Nations and Crown representatives during Canada's formation, underscoring its enduring relevance for Indigenous-Crown relations."
-      }
-    },
-    {
-      "id": "f8a0e2d3c1b4a9e5d7f6c0b2a8d1e9f3",
-      "category": "Indigenous",
-      "source": "National Post",
-      "title": "Warren Mirko: Wildfires shouldn’t be used as a reconciliation morality play",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/wildfires-shouldnt-be-used-as-a-reconciliation-morality-play",
-      "summary": "This opinion piece criticizes the framing of Indigenous cultural burning in wildfire management as solely a 'reconciliation morality play' by the Canadian and B.C. governments. The author argues that controlled burns, whether culturally or scientifically informed, are a basic principle of fire management and that overemphasizing the 'distinctness' of Indigenous methods risks tokenizing traditional ecological knowledge rather than integrating it practically into broader fire management strategies.",
-      "graph": ["Indigenous Knowledge", "Wildfire Management", "Reconciliation", "Public Policy", "Environmental Policy", "Traditional Ecological Knowledge"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 35, "right": 40 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would largely advocate for the full recognition and integration of Traditional Ecological Knowledge (TEK), including cultural burning, as a vital and distinct component of modern land management, emphasizing self-determination in Indigenous-led environmental initiatives and critical decolonization of environmental policy." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would examine the practical implementation challenges and opportunities in integrating diverse fire management approaches, including Indigenous cultural burning, into existing policy frameworks. It would focus on scientific efficacy, logistical coordination, and clear policy guidelines for collaborative management, rather than the political framing." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints, as reflected in the article, would critique what they perceive as symbolic or politically motivated policy gestures that overemphasize distinctness rather than practical, scientifically sound integration. They would advocate for efficient, evidence-based fire management strategies, regardless of origin, and caution against 'moralizing' policy decisions." }
-        },
-        "neutral": "The opinion piece critiques the governmental tendency to present Indigenous cultural burning primarily as a gesture of reconciliation, arguing that this approach risks oversimplifying traditional ecological knowledge and detracts from its practical application as a scientifically valid wildfire management technique."
+        "neutral": "Professor Naiomi Metallic's discussion on Bill C-92 examines legislative reconciliation and the implementation of Indigenous self-government in child welfare, focusing on the integration of distinct legal orders to empower First Nations, Inuit, and Métis communities."
       }
     }
   ],
   "criminal": [
     {
-      "id": "7b9e1f5a2d8b4c0e6f2a8b5c1d7e3f01",
+      "id": "crim-1",
       "category": "Criminal",
-      "source": "Slaw",
-      "title": "Quebec Court of Appeal Orders New Trial in Murder Case Due to Jury Instruction Errors",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/23/summaries-sunday-soquij-641/",
-      "summary": "The Quebec Court of Appeal has ordered a new trial in a first-degree murder case (Plante v. R., 2026 QCCA 1014). The appeal was granted due to errors in the trial judge's instructions to the jury. Specifically, there was an absence of restrictive directives regarding evidence of 'bad character' (mauvaise moralité) and flawed instructions concerning modes of participation that could lead to a conviction for imputable first-degree murder. These errors were deemed to have compromised the fairness of the initial trial, necessitating a new proceeding.",
-      "graph": ["Criminal Law", "Appellate Review", "Jury Instructions", "Evidence Admissibility", "Murder Trial", "Judicial Error"],
+      "source": "National Post",
+      "title": "Legal Commentary on 'Racial Battle Fatigue' as a Mitigating Factor in Nova Scotia Courts",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/jamie-sarkonak-racial-battle-fatigue-the-newest-excuse-for-violence-heard-in-court",
+      "summary": "Jamie Sarkonak's commentary critiques the introduction of 'racial battle fatigue' as a mitigating factor in Nova Scotian court cases involving violent offenses, such as shootings and stabbings. The article highlights that racial background reports submitted to the courts are using this concept to explain violent behavior, raising questions about its legal validity and impact on sentencing and judicial interpretations of culpability.",
+      "graph": ["Criminal Justice", "Sentencing", "Mitigating Factors", "Racial Justice", "Court Precedent", "Legal Discourse"],
       "spectrum": {
-        "baseline": { "left": 30, "center": 50, "right": 20 },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would underscore the importance of meticulous jury instructions to ensure a fair trial, particularly in cases involving complex legal concepts like 'bad character' evidence and imputed liability, to protect the rights of the accused and prevent wrongful convictions rooted in prejudicial assumptions rather than strict legal proof." },
-          "center": { "label": "Procedural Context", "synthesis": "A central, legal perspective would focus on the judicial process of appellate review, detailing the specific errors in law concerning jury charges and the admissibility of evidence. It would highlight the Supreme Court's jurisprudence on ensuring clarity and correctness in trial proceedings for the integrity of the justice system." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would emphasize the need for robust legal standards to ensure justice, but might also express concern over the procedural delays and costs associated with new trials. They would likely support the clear application of law while potentially calling for streamlined judicial processes where feasible, ensuring accountability without undue burden on the system." }
+          "left": { "label": "Progressive Context", "synthesis": "May view the introduction of 'racial battle fatigue' as an important, albeit complex, effort to incorporate systemic racism and its psychological toll into criminal justice, promoting a more nuanced understanding of culpability for marginalized individuals and advocating for restorative justice approaches." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the legal implications and challenges of integrating novel socio-psychological concepts like 'racial battle fatigue' into established criminal sentencing frameworks. Focuses on evidentiary standards, judicial discretion, and the potential for establishing new legal precedents while maintaining fairness and consistency in the application of law." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concern that 'racial battle fatigue' could serve as an 'excuse' for violent crime, potentially undermining accountability, victim rights, and the principle of equal application of the law. Critiques what may be seen as a broadening of mitigating factors that could weaken judicial deterrents." }
         },
-        "neutral": "The Quebec Court of Appeal mandated a new trial in a first-degree murder case, citing significant errors in jury instructions, particularly concerning evidence of 'bad character' and the scope of participation modes for conviction, which collectively undermined the fairness of the initial trial."
+        "neutral": "The concept of 'racial battle fatigue' is being presented in Nova Scotia courts through racial background reports to explain violent conduct in criminal cases, sparking debate on its role as a mitigating factor in sentencing and its broader implications for criminal justice."
+      }
+    },
+    {
+      "id": "crim-2",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "Police Investigate Fatal Cycling Accident and Residential Shooting Incidents in Ontario",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/hamilton-cyclist-dead-crash",
+      "summary": "Authorities are investigating two distinct criminal incidents in Ontario: a fatal crash involving a cyclist in Hamilton, with the Collision Reconstruction Unit leading the inquiry, and an incident in Toronto where apartments were struck by bullets, though further details on the shooting were not provided in the snippet. These reports highlight ongoing public safety and criminal enforcement efforts in major Canadian cities.",
+      "graph": ["Traffic Fatality", "Criminal Investigation", "Public Safety", "Gun Violence", "Police Response", "Urban Crime"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the systemic issues contributing to urban violence and traffic fatalities, such as inadequate infrastructure for cyclists or socio-economic factors influencing gun crime. Advocates for preventative social programs and holistic public safety strategies." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the investigative processes, police procedures, and the judicial system's role in addressing criminal incidents. Emphasizes the importance of thorough evidence collection and impartial application of the law in response to these events." },
+          "right": { "label": "Conservative Context", "synthesis": "Underscores the need for strong law enforcement, effective policing, and accountability for criminal acts. May call for tougher penalties or increased police presence to deter crime and ensure public order and safety." }
+        },
+        "neutral": "Police units are actively investigating a fatal cycling accident in Hamilton and a shooting incident impacting residential apartments in Toronto, representing ongoing criminal justice responses to public safety concerns."
       }
     }
   ],
