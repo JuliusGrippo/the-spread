@@ -1,316 +1,180 @@
 {
   "federalism": [
     {
-      "id": "c76f6424e10113c23e852d7e0892095f",
+      "id": "1a0d3b6e8a9c4f5d2b7e0a1c6f9d8e7",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Lutnick’s late demands sank Canada-U.S. trade deal that analysts say beat the alternative",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/25/lutnicks-late-demands-sank-canada-u-s-trade-deal-that-analysts-say-beat-the-alternative/",
-      "summary": "A tentative Canada-U.S. trade deal, which analysts suggest was a better outcome than the escalating trade war, was reportedly derailed by U.S. Commerce Secretary Howard Lutnick's last-minute, harsher demands, backed by White House trade adviser Peter Navarro. Prime Minister Mark Carney claimed he walked away to defend Canadian sovereignty and key industries, but the collapse led to new 50% U.S. tariffs on Canadian goods and promises of Canadian retaliation. The proposed deal would have reduced tariffs on autos, steel, and aluminum, but the final U.S. demands included detrimental clauses concerning Canadian truck exports, aluminum products, streaming content, and Canada's trade agreement autonomy.",
-      "graph": ["Trade War", "US-Canada Relations", "Economic Policy", "Federal Policy", "Diplomacy"],
+      "source": "CBC News",
+      "title": "Canada-U.S. Auto Tariffs Impasse Threatens Trade Deal Continuity",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-u-s-tariffs-auto-sector-manufacturing-9.7323154?cmp=rss",
+      "summary": "Recent comments from the U.S. trade ambassador indicate that the deeply integrated North American auto industry remains a significant unresolved issue in Canada-U.S. trade negotiations. The U.S. administration aims to 're-industrialize' and move auto manufacturing jobs south of the border, proposing tariffs on Canadian vehicles and parts, including heavy- and medium-sized trucks, which Canada contests as a last-minute demand. This stance presents a major roadblock for any potential comprehensive trade agreement.",
+      "graph": ["Canada-U.S. Trade", "Auto Industry", "Tariffs", "Trade Negotiations", "Manufacturing"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the aggressive protectionist tactics of the U.S. administration, supporting Canada's defense of sovereignty and key industries, but may also question if walking away was the optimal economic decision given the alternatives." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the complex interplay of political figures and industrial lobbying in international negotiations, highlighting the strategic missteps and economic consequences of failed diplomatic efforts." },
-          "right": { "label": "Conservative Context", "synthesis": "May criticize Prime Minister Carney's decision to reject a deal that analysts considered superior, prioritizing economic pragmatism over abstract notions of sovereignty in a worsening trade conflict, or blaming U.S. overreach." }
+          "left": { "label": "Progressive Context", "synthesis": "Concerns would focus on the impact on Canadian workers and the necessity of protecting domestic industries and jobs from aggressive foreign trade tactics, potentially advocating for strong federal intervention and support programs for affected sectors." },
+          "center": { "label": "Procedural Context", "synthesis": "Analysis centers on the breakdown of trade talks, the specifics of tariff demands, and the diplomatic efforts required to resolve the dispute, emphasizing the procedural integrity and strategic maneuvering of both sides within international trade law." },
+          "right": { "label": "Conservative Context", "synthesis": "Perspective would highlight the need for Canada to protect its economic interests, potentially criticizing the current federal government's negotiation strategy or advocating for greater provincial autonomy in trade matters. Emphasis on market principles and reduced government intervention." }
         },
-        "neutral": "The collapse of a tentative Canada-U.S. trade agreement, despite analyst views that it was a favourable option, was attributed to late, tougher demands from U.S. officials, resulting in escalating tariffs and retaliatory measures."
+        "neutral": "The article objectively reports on the ongoing dispute regarding auto tariffs between Canada and the U.S., framing it as a critical challenge to reaching a new trade deal and highlighting divergent interpretations of negotiation demands."
       }
     },
     {
-      "id": "c6206013e8463999908182992985f40f",
+      "id": "2b1e4c7f9b0d5e8c3f8g1b2d7h0i9j8",
       "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "Ontario Threatens Electricity & Resource Cuts to U.S. Amid Trade War",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/ontario-ford-trump-trade-war-electricity/?utm_source=rss",
-      "summary": "Ontario Premier Doug Ford is threatening to cut electricity exports to 1.5 million homes and businesses in three U.S. states and impose surcharges on critical minerals, uranium, potash, and oil. This aggressive provincial stance is in response to new U.S. tariffs, diverging from the federal government's announced dollar-for-dollar retaliation. Ford advocates for a unified provincial front, challenging decades of integrated cross-border power sharing.",
-      "graph": ["Provincial Autonomy", "Trade Retaliation", "Energy Policy", "US-Canada Relations", "Federal-Provincial Conflict"],
+      "source": "CBC News",
+      "title": "U.S. Withdraws Objections to Canadian Language and Culture Protections in Trade Talks",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/dominic-leblanc-greer-culture-language-9.7322393?cmp=rss",
+      "summary": "Canada's Trade Minister Dominic LeBlanc has welcomed the U.S. decision to withdraw its objections to Canadian policies promoting French language and culture, including streaming discoverability and bilingual labeling laws. This reversal follows earlier U.S. demands that contributed to the collapse of recent trade talks. The U.S. Trade Representative indicated that these cultural issues were not 'red lines,' opening a potential path for future negotiations, though Canada seeks further clarifications on other contentious positions.",
+      "graph": ["Canada-U.S. Relations", "Trade Policy", "Cultural Protection", "French Language", "Sovereignty"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views Ford's aggressive stance critically, highlighting potential negative impacts on cross-border energy stability and environmental concerns related to resource extraction, while advocating for diplomatic rather than escalatory solutions." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the implications of a provincial government's actions on national foreign policy and international agreements, analyzing the complex interplay between provincial and federal jurisdiction in trade and energy." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports Ford's strong defense of provincial economic interests and calls for aggressive measures to counter U.S. tariffs, viewing it as a necessary and patriotic stance to protect Canadian jobs and industries." }
+          "left": { "label": "Progressive Context", "synthesis": "Celebrates the protection of Canadian cultural sovereignty and language rights as essential elements not to be compromised in trade deals. Advocates for continued robust defense of cultural industries and federal support for bilingualism." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the diplomatic maneuvers and concessions that allowed for the withdrawal of U.S. demands, analyzing the strategic importance of cultural clauses in international agreements and the framework for resuming negotiations." },
+          "right": { "label": "Conservative Context", "synthesis": "May question the economic impact of cultural protectionism in trade, or view the U.S. withdrawal as a pragmatic step to unblock negotiations, prioritizing economic gain over what might be seen as secondary cultural demands. Could criticize the federal government for initially overstating the U.S. position." }
         },
-        "neutral": "Ontario's Premier Doug Ford has threatened to halt electricity exports and impose resource surcharges on the U.S. in response to new American tariffs, escalating the ongoing trade dispute and raising questions about inter-provincial cooperation and federal foreign policy."
+        "neutral": "The report objectively details the U.S. decision to withdraw demands concerning Canadian language and cultural policies within trade negotiations, acknowledging Canada's positive response and the implications for potential renewed talks."
       }
     },
     {
-      "id": "e43b17c5b6574f26034f5979c379a04a",
+      "id": "3c2f5d8g0c1e6f9d3g8h2i1j0k9l8m7",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Nenshi Urges Alberta Premier Smith to Halt Separation Referendum Amid U.S. Trade War",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-nenshi-urges-smith-cancel-referendum-separation-canada-us-trade-war/",
-      "summary": "Alberta NDP leader Naheed Nenshi has publicly called on Premier Danielle Smith to abandon plans for a provincial referendum on separation. Nenshi argues that maintaining national unity is paramount, especially during the escalating Canada-U.S. trade war, which requires a united Canadian front to effectively navigate external economic pressures.",
-      "graph": ["Provincial Politics", "National Unity", "Trade War Impact", "Federal-Provincial Relations", "Alberta Separatism"],
+      "source": "CBC News",
+      "title": "Trump Executive Order to Rename Lake Ontario as 'Lake America' Escalates U.S.-Canada Tensions",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/world/trump-lake-ontario-america-9.7322947?cmp=rss",
+      "summary": "U.S. President Donald Trump has signed an executive order to rename Lake Ontario as 'Lake America,' a move described as a further escalation in the ongoing trade war and deteriorating relations with Canada. This symbolic action, following contentious trade negotiations and personal insults between leaders, has been met with incredulity and firm defiance from Canadian Prime Minister Mark Carney and provincial premiers, who assert the lake will always be known as Lake Ontario.",
+      "graph": ["U.S.-Canada Relations", "Sovereignty", "Diplomacy", "Trade War", "Symbolic Politics"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for national unity and stability during times of external crisis, viewing internal divisions like separatism as counterproductive to collective strength and progressive governance." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the pragmatic and economic arguments against pursuing a separation referendum, emphasizing the need for political cohesion to address major international trade challenges." },
-          "right": { "label": "Conservative Context", "synthesis": "While recognizing the sentiment behind provincial autonomy movements, this perspective would weigh the strategic and economic disadvantages of internal division during an international trade conflict, potentially agreeing on the need to delay or cancel for practical reasons." }
+          "left": { "label": "Progressive Context", "synthesis": "Condemns the U.S. action as a provocative and disrespectful infringement on Canadian sovereignty, emphasizing the need for strong national unity and a principled stand against aggressive foreign policy." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and diplomatic implications of such an executive order, assessing its practical enforceability and the official channels through which Canada can formally object, highlighting the breach of international norms." },
+          "right": { "label": "Conservative Context", "synthesis": "May interpret the U.S. action as a strong negotiating tactic, while Canadian conservatives might criticize the federal government's handling of relations that led to such an extreme symbolic gesture. Emphasizes national pride and firm response to perceived aggression." }
         },
-        "neutral": "Alberta's NDP leader Naheed Nenshi has called for Premier Danielle Smith to cancel a planned provincial separation referendum, citing the ongoing Canada-U.S. trade war as a critical period requiring national unity."
+        "neutral": "The report details the U.S. President's executive order to rename Lake Ontario, framing it as a symbolic escalation of U.S.-Canada tensions and documenting the immediate Canadian governmental response affirming the original name."
       }
     },
     {
-      "id": "d0e1b694b281b379e51c11030e463a56",
+      "id": "4d3g6h9i1d2f7e0g4h9i2j1k0l9m8n7",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Former Alberta Premiers Notley and Kenney Co-Chair Anti-Separation Campaign",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-alberta-referendum-jason-kenney-rachel-notley/",
-      "summary": "Former Alberta premiers Rachel Notley (NDP) and Jason Kenney (UCP) have put aside political differences to co-chair a campaign opposing a provincial referendum on separation. They assert that pursuing separation is detrimental to Alberta's business interests and poorly timed amid the ongoing Canada-U.S. trade war, emphasizing the importance of provincial and national stability.",
-      "graph": ["Alberta Politics", "National Unity", "Bipartisan Cooperation", "Economic Stability", "Federal-Provincial Relations"],
+      "source": "CBC News",
+      "title": "Canadian Seafood Industry Relieved as Federal Government Removes Products from Retaliatory Tariff List",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/business/seafood-removed-counter-tariffs-9.7322384?cmp=rss",
+      "summary": "Finance Canada reversed its decision to include U.S. fish and seafood products on its list of counter-tariffs, a day after announcing retaliatory measures against new American duties. This move, made after 'feedback' from Canadian industries, has brought significant relief to the heavily integrated East Coast seafood sector, which feared devastating economic consequences from a 25 percent tariff rate. The adjustment aims to protect Canadian businesses from unintended self-harm in the escalating trade dispute.",
+      "graph": ["Trade War", "Counter-Tariffs", "Seafood Industry", "Economic Impact", "Government Policy Adjustment"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 40, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views the bipartisan effort as a positive sign of collective responsibility to protect national unity and economic stability against divisive political movements." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the pragmatic rationale of former leaders across the political spectrum uniting to prevent economic and political disruption, focusing on the consensus around avoiding further instability during a trade crisis." },
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the need for unity in the face of external economic threats, this perspective might also reflect on the underlying causes of separatist sentiment in Alberta, even as it supports the immediate goal of discouraging a referendum." }
+          "left": { "label": "Progressive Context", "synthesis": "Applauds the government's responsiveness to industry concerns and its flexibility in protecting vulnerable sectors and workers. Calls for a careful and targeted approach to trade disputes that prioritizes social and economic well-being over punitive measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the government's process for tariff implementation and adjustment, highlighting the role of industry consultation in shaping trade policy. Focuses on the economic rationale behind the decision to minimize domestic impact while maintaining strategic leverage." },
+          "right": { "label": "Conservative Context", "synthesis": "Praises the government's pragmatic decision to remove self-damaging tariffs, arguing it reflects a necessary market-oriented approach to trade protection. Could criticize the initial inclusion of seafood as an oversight or demonstrate a need for more business-friendly trade policy." }
         },
-        "neutral": "Former Alberta premiers Rachel Notley and Jason Kenney have jointly launched a campaign against a provincial separation referendum, arguing it is economically harmful and ill-timed during the Canada-U.S. trade dispute."
+        "neutral": "The report outlines the federal government's decision to remove seafood products from its counter-tariff list in response to industry feedback, detailing the relief felt by the Canadian seafood sector and the economic rationale behind the policy adjustment."
       }
     },
     {
-      "id": "fb6f092e071e626a5754162985ec280c",
+      "id": "5e4h7j0k2e3g8f1h5j0k2l1m0n9o8p7",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "B.C. Premier Eby Urges Federal Government to Consider Non-Tariff Retaliation Against U.S.",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-eby-urges-carney-to-consider-non-tariff-measures-including-a-rethink/",
-      "summary": "British Columbia Premier David Eby has urged Prime Minister Mark Carney to broaden Canada's response to U.S. tariffs by considering non-tariff measures, specifically proposing a re-evaluation of the $12-billion deal to acquire U.S. fighter jets. Eby argues that continuing significant purchases from a country imposing trade barriers is inconsistent with a strong retaliatory stance.",
-      "graph": ["Trade Retaliation", "Federal-Provincial Relations", "Procurement Policy", "Diplomatic Strategy", "US-Canada Relations"],
+      "source": "CBC News",
+      "title": "Canada's Counter-Tariff Strategy: The Art of Inflicting Pain with Minimal Self-Harm",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/trade-war-trump-carney-tariffs-9.7321841?cmp=rss",
+      "summary": "Canada is engaging in 'asymmetrical warfare' in its trade dispute with the U.S., carefully selecting counter-tariff targets to maximize pressure on specific American states, particularly swing states crucial in upcoming elections, while minimizing disruption to Canadian industries. Experts emphasize the need for tariffs to be politically targeted, reciprocal, proportionate, and to allow Canadian importers to find alternatives to U.S. goods, balancing economic impact abroad with domestic protection.",
+      "graph": ["Trade War", "Counter-Tariffs", "Economic Strategy", "Political Leverage", "Canada-U.S. Trade"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 40, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for a strong, comprehensive response to U.S. trade aggression, emphasizing strategic use of economic leverage and questioning military spending on foreign goods when domestic industries are under threat." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the strategic options for Canada in a trade dispute, balancing economic interests with national security and diplomatic pressures, and considering the feasibility and impact of various retaliatory measures." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports a firm defense of Canadian interests but may debate the appropriateness of linking military procurement to trade disputes, prioritizing national defense and strategic alliances separately from economic conflicts." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports a strategic, targeted approach to tariffs that aims to protect Canadian jobs and industries, while also holding the U.S. accountable for aggressive trade practices. Emphasizes social impact and worker protections in the face of economic uncertainty." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the intricate strategic considerations behind Canada's counter-tariff selection, focusing on the geopolitical and economic calculus involved in applying pressure to specific U.S. regions and industries, while safeguarding Canadian supply chains." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for a firm but prudent approach to tariffs, emphasizing the importance of protecting Canadian businesses and supply chains. May argue for even more aggressive targeting of U.S. political vulnerabilities while minimizing any domestic regulatory burden." }
         },
-        "neutral": "British Columbia Premier David Eby has called on the federal government to explore non-tariff retaliatory measures against the U.S., including potentially reconsidering a $12-billion fighter jet purchase, amidst escalating trade tensions."
+        "neutral": "This analysis describes Canada's strategic approach to implementing counter-tariffs against the U.S., detailing the complex balance between maximizing impact on U.S. political targets and minimizing adverse effects on the Canadian economy."
       }
     },
     {
-      "id": "fb32152862a93149d630f576e330a3f9",
+      "id": "6f5i8k1l3f4h9e2i6k1l3m2n1o0p9q8",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Alberta Premier Smith Calls for Renewed U.S. Trade Negotiations, Opposes Federal Counter-Tariffs",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12035143/danielle-smith-counter-tariffs/",
-      "summary": "Alberta Premier Danielle Smith is advocating for the federal government to restart trade negotiations with the United States instead of proceeding with the planned counter-tariffs. Smith's position makes her an outlier among provincial leaders, as she prioritizes a diplomatic resolution and expresses concerns about the impact of escalating tariffs on Alberta's economy.",
-      "graph": ["Provincial Interests", "Trade Diplomacy", "Federal Policy", "US-Canada Relations", "Economic Strategy"],
+      "title": "Alberta Premier Danielle Smith Rejects Oil Export Tax, Advocates for Diplomacy in U.S. Trade War",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12036906/danielle-smith-energy-exports-trade-war/",
+      "summary": "Alberta Premier Danielle Smith has publicly rejected the idea of taxing oil exports to the U.S. as a retaliatory measure in the ongoing trade war, cautioning against escalating tensions and instead advocating for increased diplomatic efforts. This stance contrasts with some calls for Canada to use its energy resources as leverage, highlighting a federal-provincial divergence on trade strategy, particularly given the U.S.'s potential to significantly impact Canada's energy sector.",
+      "graph": ["Federal-Provincial Relations", "Trade War", "Energy Policy", "Diplomacy", "Alberta"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 35, "right": 45 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May view Smith's stance as undermining national unity during a trade dispute, or as prioritizing specific provincial economic interests over a coordinated federal response." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the differing strategies within Canadian leadership for addressing the trade war, highlighting provincial concerns regarding federal retaliatory actions and calls for renewed dialogue." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports provincial leaders in advocating for their specific economic sectors and a more cautious, negotiation-focused approach to trade disputes, especially if tariffs are seen as detrimental to local industries." }
+          "left": { "label": "Progressive Context", "synthesis": "Would likely support diplomatic solutions and may view weaponizing energy exports as counterproductive to climate goals or international cooperation. Could criticize the federal government for not having a clearer, unified energy strategy." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the complexities of federal-provincial coordination in trade policy, especially concerning strategic resources. Examines the economic implications of different leverage tactics and the diplomatic channels being pursued by both levels of government." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the Premier's focus on diplomacy and avoiding actions that could harm Alberta's core industry. May criticize federal overreach in trade matters and emphasize provincial control over natural resources, potentially advocating for free market solutions over tariffs." }
         },
-        "neutral": "Alberta Premier Danielle Smith has urged the federal government to resume trade negotiations with the U.S., expressing reservations about implementing counter-tariffs and seeking a diplomatic rather than retaliatory path in the ongoing trade dispute."
+        "neutral": "The article reports on Alberta Premier Danielle Smith's rejection of taxing oil exports as a trade war tactic, emphasizing her call for diplomacy amidst the Canada-U.S. trade dispute and revealing a provincial perspective on federal trade strategy."
       }
     },
     {
-      "id": "e21b8a4f0275817d23f33887131b7ec1",
+      "id": "7g6j9l2m4g5i0f3k7l2m4n3o2p1q0r9",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Economist Trevor Tombe Argues Canadian Counter-Tariffs are a Self-Imposed Tax",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/carneys-retaliatory-tariffs-are-very-much-a-tax-on-ourself-trevor-tombe",
-      "summary": "University of Calgary economist Trevor Tombe contends that the Canadian federal government's retaliatory tariffs against the U.S. effectively constitute a \"tax on ourselves.\" He suggests that these measures, while intended to counter U.S. protectionism, ultimately lead to higher costs for Canadian consumers and businesses, questioning their overall economic benefit and strategic efficacy.",
-      "graph": ["Economic Policy", "Trade War", "Fiscal Impact", "Consumer Costs", "Government Strategy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May argue that while tariffs have domestic costs, they can be a necessary tool to protect specific industries or exert political pressure, and that the costs are justifiable in a broader strategic context." },
-          "center": { "label": "Procedural Context", "synthesis": "Objectively assesses the economic models and data to determine the net impact of tariffs, considering both the intended strategic benefits and the direct costs to the domestic economy." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for free market principles, criticizing retaliatory tariffs as economically inefficient and detrimental to domestic consumers and businesses, even when responding to foreign protectionism." }
-        },
-        "neutral": "Economist Trevor Tombe has described Canada's retaliatory tariffs against the U.S. as a 'tax on ourselves,' questioning their economic benefits for Canadian consumers and businesses."
-      }
-    },
-    {
-      "id": "96c05d76161678120b6045cf169542c9",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Inter-Provincial Barriers Make B.C. Wine Cheaper in U.S. Than Other Canadian Provinces",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/even-with-tariffs-its-still-cheaper-for-americans-to-buy-b-c-wine",
-      "summary": "An opinion piece highlights the paradox that, despite international tariffs, British Columbia wine remains more affordable for American consumers than for Canadians in other provinces. The author criticizes the persistent lack of progress in dismantling Canada's internal inter-provincial trade barriers, arguing that this domestic protectionism undermines the nation's economic efficiency and complicates its stance in international trade disputes.",
-      "graph": ["Interprovincial Trade", "Trade Barriers", "Economic Policy", "Internal Market", "Provincial Regulations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might emphasize the need for national unity and common market principles to benefit all Canadians, potentially linking internal barriers to broader social inequities or local protectionism." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic inefficiencies and policy contradictions inherent in inter-provincial trade barriers, advocating for harmonized regulations to improve national market integration and consumer choice." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes government-imposed internal trade barriers as an impediment to free markets and economic growth, advocating for their elimination to enhance competition and reduce costs for Canadian consumers." }
-        },
-        "neutral": "An analysis points out that inter-provincial trade barriers within Canada lead to British Columbia wine being more expensive for Canadians outside B.C. than for American consumers, highlighting domestic market inefficiencies amidst international tariff disputes."
-      }
-    },
-    {
-      "id": "e44d34c02220f133e911299905b768a4",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Ottawa Unveils Strategic Counter-Tariffs and $7.5B Support Package Against U.S. Trade Action",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-ottawa-announces-counter-tariffs-us-products-worker-business-support/",
-      "summary": "The Canadian federal government has detailed its plan to impose counter-tariffs on nearly 900 categories of U.S. products, valued at $27.6 billion, effective September 8. These tariffs, mostly 25% or 50%, target goods like metals, seafood, and consumer electronics, with a strategic aim to exert political pressure on specific U.S. states ahead of midterm elections. This is coupled with a $7.5 billion support package offering enhanced Employment Insurance and loan programs for Canadian businesses and workers impacted by the escalating trade war.",
-      "graph": ["Trade Policy", "International Relations", "Economic Response", "Federal Government", "Tariffs"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for strong government intervention to protect Canadian industries and workers from foreign trade aggression, supporting measures like extended social safety nets and strategic economic retaliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the comprehensive federal strategy, analyzing the economic and political motivations behind the targeted tariffs and support measures designed to mitigate the impact of the trade war." },
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the need to respond to U.S. tariffs, may express concerns about the economic costs of tariffs to Canadian consumers and businesses, and question the long-term efficacy or precise targeting of such measures." }
-        },
-        "neutral": "The Canadian government has announced a strategy of dollar-for-dollar counter-tariffs on $27.6 billion in U.S. goods, targeting nearly 900 items, and a $7.5 billion support package for affected Canadian workers and businesses, in response to escalating U.S. trade measures."
-      }
-    }
-  ],
-  "charter": [
-    {
-      "id": "4b68a86781297d025b682b13e8a4a584",
-      "category": "Charter",
-      "source": "The Globe and Mail",
-      "title": "Federal Survey Reveals Disproportionate Discrimination Against Jewish Public Servants",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-jewish-public-servants-workplace-discrimination-employee-survey/",
-      "summary": "A recent federal employee survey indicates that 18% of Jewish civil servants reported experiencing discrimination and harassment in the workplace, significantly higher than the 9% overall average for the federal public service. The rates were particularly high in departments like Canadian Heritage (34%) and Global Affairs (30%). This data, the first to track discrimination based on religion, has prompted calls for increased efforts to combat antisemitism and ensure fair treatment in the public sector.",
-      "graph": ["Antisemitism", "Workplace Discrimination", "Public Service", "Human Rights", "Equality Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for systemic changes and robust anti-racism and anti-hate policies within federal institutions to address and eradicate discrimination against religious minorities, particularly Jewish public servants." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the objective data presented in the federal employee survey, emphasizing the need for transparent reporting, accountability, and the implementation of fair workplace practices in the public service." },
-          "right": { "label": "Conservative Context", "synthesis": "May highlight the importance of individual merit and due process in addressing workplace complaints, while also advocating for robust measures against antisemitism and ensuring that policies do not lead to reverse discrimination." }
-        },
-        "neutral": "A federal survey has found that Jewish public servants experience disproportionately high rates of discrimination and harassment in the workplace, leading to calls for increased action to combat antisemitism within the public service."
-      }
-    },
-    {
-      "id": "cd97e59b109e4d6d84a51167b5790408",
-      "category": "Charter",
-      "source": "Slaw",
-      "title": "\"Shadow AI\" Use Poses Growing Risks for Canadian Courts and Judicial Integrity",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/26/shadow-ai-a-growing-problem-for-canadian-courts/",
-      "summary": "The undisclosed and unauthorized use of generative AI tools (\"shadow AI\") by judges and court staff is becoming a significant concern for Canadian courts. A 2024 UNESCO survey revealed that most judges using AI rely on unapproved personal tools. Risks include compromised data security, errors in legal opinions (with international examples of fabricated content), and potential discoverability of AI use through watermarking, raising serious questions about judicial transparency, privacy, and the integrity of court processes.",
-      "graph": ["Judicial Ethics", "AI in Law", "Data Privacy", "Rule of Law", "Technological Governance"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for clear ethical guidelines and robust public oversight to ensure AI use in the judiciary upholds principles of transparency, fairness, and accountability, protecting public trust and access to justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural challenges and risks associated with unauthorized AI use in judicial settings, emphasizing the need for comprehensive policies, training, and technological safeguards to maintain the integrity of the legal system." },
-          "right": { "label": "Conservative Context", "synthesis": "Concerns about the efficiency gains from AI balanced against the risks to institutional authority and procedural consistency. May emphasize the importance of traditional legal processes and human oversight." }
-        },
-        "neutral": "Unauthorized use of generative AI by judges and court personnel, known as 'shadow AI,' presents significant risks to Canadian courts, including data security breaches, factual errors in legal documents, and challenges to judicial transparency."
-      }
-    },
-    {
-      "id": "e0a02efc2409549f7e84120f269415c4",
-      "category": "Charter",
-      "source": "Ablawg",
-      "title": "Reforming Alberta's Civil Legislation to Address Deepfake Intimate Image Abuse",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://ablawg.ca/2026/08/25/intimate-image-abuse-in-the-age-of-deepfakes-reforming-albertas-civil-legislation-part-1/?utm_source=rss&utm_medium=rss&utm_campaign=intimate-image-abuse-in-the-age-of-deepfakes-reforming-albertas-civil-legislation-part-1",
-      "summary": "This article, Part 1 of a series, advocates for reforms to Alberta's _Protecting Victims of Non-consensual Distribution of Intimate Images Act_ to specifically address deepfake non-consensual intimate images (DNCII) and broader categories of non-consensual intimate images (NCDII). Citing rising incidents and severe consequences, the author argues for amending the Act to define \"intimate image\" to include \"fake intimate images\" and \"nearly nude\" images, proposing a distinction between \"depicted\" and \"identifiable\" persons for different image types. Federal _Criminal Code_ amendments (Bill C-16) already cover DNCII, but provincial civil legislation needs updating.",
-      "graph": ["Deepfakes", "Non-Consensual Intimate Images", "Civil Legislation", "Privacy Rights", "Technology and Law"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive legal protections for victims of intimate image abuse, emphasizing the severe psychological and reputational harm, and supporting proactive legislative updates to address evolving digital threats like deepfakes." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal technicalities and necessary statutory amendments to ensure provincial civil legislation effectively addresses modern forms of intimate image abuse, balancing victim protection with legal clarity and enforcement mechanisms." },
-          "right": { "label": "Conservative Context", "synthesis": "While supporting measures against clear criminal acts, may express concerns about the scope of \"nearly nude\" definitions or the potential for overreach in civil remedies, advocating for clear definitions and balanced legal frameworks." }
-        },
-        "neutral": "An analysis proposes amendments to Alberta's civil legislation on non-consensual intimate images, urging the inclusion of deepfakes and \"nearly nude\" images to enhance victim protection against evolving digital abuse, complementing recent federal criminal code updates."
-      }
-    }
-  ],
-  "indigenous": [
-    {
-      "id": "060a5e840d28d0ed32252a1c0d48175b",
-      "category": "Indigenous",
       "source": "The Hub",
-      "title": "Scrutiny Over Ontario's Claimed $15 Billion Savings from Indigenous Nuclear Project Partnership",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/26/ontarios-15-billion-nuclear-mirage/",
-      "summary": "An analysis scrutinizes Ontario's claim of $15 billion in ratepayer savings from a $700-million Indigenous loan guarantee for the Darlington small modular reactor project. The article argues that the math behind these asserted savings is unsound, as the First Nations' 3% equity stake in the $21 billion project is unlikely to generate such a significant reduction in overall financing costs. It highlights a lack of transparency in the government's calculation and suggests the deal might actually incur additional costs for ratepayers.",
-      "graph": ["Indigenous Economic Development", "Nuclear Energy", "Government Finance", "Public Transparency", "First Nations Partnerships"],
+      "title": "Analysis: Canada's Sovereignty Already Compromised by CUSMA Amidst New Trade Demands",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/27/canada-already-traded-away-its-sovereignty-with-cusma/",
+      "summary": "This piece argues that Prime Minister Mark Carney's recent emphasis on Canadian sovereignty in rejecting new U.S. trade demands overlooks existing compromises made under CUSMA. Specifically, CUSMA's 'non-market economy' clause effectively gives the U.S. a veto over Canada's free trade agreements with countries like China, constraining Canada's independent trade and foreign policy. The article suggests that while new U.S. demands would further tighten this grip, aspects of Canadian sovereignty in trade were already conceded in previous agreements.",
+      "graph": ["Canadian Sovereignty", "CUSMA", "Trade Agreements", "Foreign Policy", "Canada-U.S. Trade"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 25, "center": 35, "right": 40 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for meaningful Indigenous economic participation in major projects but also emphasizes ensuring fair and transparent financial terms that genuinely benefit Indigenous communities and the public, critiquing any potentially misleading government claims." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the financial and economic analysis of large infrastructure projects, demanding transparency in government financial claims and a rigorous assessment of the costs and benefits of public-private or Indigenous partnerships." },
-          "right": { "label": "Conservative Context", "synthesis": "Often critical of government spending and potentially skeptical of the economic viability or claimed benefits of large-scale projects, particularly those involving public funds or complex partnership structures." }
+          "left": { "label": "Progressive Context", "synthesis": "Could express concern over any historical or present compromises of Canadian sovereignty, particularly if they limit Canada's ability to pursue independent, progressive trade agendas or address human rights in trade." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and contractual specifics of CUSMA and subsequent trade demands, focusing on the precise language and interpretations of clauses affecting national sovereignty and future trade policy options." },
+          "right": { "label": "Conservative Context", "synthesis": "Criticizes past federal governments for trade agreements that weakened Canadian sovereignty, and potentially current government's perceived hypocrisy. Emphasizes protecting national interests and reducing dependence on foreign powers, advocating for a robust, independent trade stance." }
         },
-        "neutral": "Ontario's claim of $15 billion in ratepayer savings from an Indigenous loan guarantee for the Darlington nuclear project is under scrutiny, with analysis suggesting the financial benefits may be overstated and the underlying calculations lack transparency."
+        "neutral": "The article critically analyzes the concept of Canadian sovereignty within the context of trade agreements, specifically CUSMA, and its relevance to current U.S.-Canada trade disputes, asserting that certain elements of sovereignty may have been previously compromised."
+      }
+    },
+    {
+      "id": "8h7k0l3n5h6j1g4m8n3o5p4q3r2s1",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Prime Minister Carney's European Diplomacy Questioned Amidst Domestic Trade Crisis",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/27/carney-to-address-european-parliament-as-critics-question-why-canadas-own-house-stays-dark/",
+      "summary": "Prime Minister Mark Carney is scheduled to address the European Parliament and attend the EU's State of the Union address next month, part of a federal push to diversify trade beyond the U.S. However, this diplomatic engagement is drawing criticism from opponents who question why Carney is abroad courting European lawmakers while refusing to recall Canada's own Parliament amidst a significant trade crisis with the U.S., which the Prime Minister himself has equated to a 'war'.",
+      "graph": ["Parliamentary Accountability", "Foreign Policy", "Trade Diversification", "Canada-U.S. Relations", "Federal Government Leadership"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 35, "right": 45 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May support trade diversification efforts as a long-term strategy but express concern over parliamentary accountability and transparency during a national crisis, prioritizing domestic engagement and democratic processes." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the protocol and strategic timing of diplomatic missions versus domestic parliamentary duties, assessing the government's explanation for its actions and the constitutional role of Parliament during national emergencies or trade disputes." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the Prime Minister for perceived absenteeism and lack of accountability to Canadian Parliament during a critical trade war, arguing for immediate domestic engagement and questioning the effectiveness of foreign trips at such a time." }
+        },
+        "neutral": "The article reports on criticisms directed at Prime Minister Mark Carney for his planned address to the European Parliament during an active trade dispute with the U.S., highlighting the debate over the timing of his international diplomatic efforts versus domestic parliamentary accountability."
       }
     }
   ],
+  "charter": [],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "18f99e4f553f47e3a9686dfd59247657",
+      "id": "9i8l1m4o6i7j2h5n9o4p6q5r4s3t2",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Canadian Sailor Accused of Sex Crimes in Hawaii Arrested in British Columbia",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/canadian-sailor-sex-crimes-hawaii-busted-fbi",
-      "summary": "Canadian yachtsman Donald Steven Lang, who was accused of sex crimes in Hawaii, has been arrested in British Columbia by the FBI. This arrest signifies international law enforcement cooperation in apprehending individuals facing serious criminal charges, highlighting efforts to ensure accountability across borders.",
-      "graph": ["International Crime", "Extradition", "Law Enforcement", "Sex Crimes", "Criminal Justice"],
+      "source": "CBC News",
+      "title": "Police Investigate Arson at Liberal MP's Residence in Scarborough",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/toronto/police-arson-investigation-liberal-mp-home-9.7322645?cmp=rss",
+      "summary": "Police in Toronto are investigating a suspected arson after multiple cars were set on fire at the home of Liberal MP Salma Zahid in Scarborough. Zahid's office confirmed her car and a neighboring tenant's vehicle were destroyed, though no damage occurred to the house and her family is safe. Security footage reportedly shows an individual pouring gasoline on vehicles before lighting them. Prime Minister Mark Carney condemned the act as 'cowardly intimidation,' highlighting concerns for the safety of elected officials.",
+      "graph": ["Arson", "Political Intimidation", "Criminal Investigation", "Public Safety", "Elected Officials"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of victim justice and the global effort to prosecute serious crimes, ensuring due process while protecting the rights of victims." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the successful execution of an international arrest warrant, focusing on the procedural aspects of law enforcement cooperation between countries in addressing criminal allegations." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the success of law enforcement in bringing an accused individual to justice, emphasizing order, accountability, and the resolve to pursue criminals regardless of borders." }
+          "left": { "label": "Progressive Context", "synthesis": "Condemns the violence against a political figure as an attack on democratic processes and safety, calling for robust protection of public servants and emphasizing the need to address underlying causes of extremism and political polarization." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the ongoing police investigation, the legal procedures involved in prosecuting arson, and the broader implications for security protocols for Members of Parliament, ensuring due process and public safety measures." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly condemns the criminal act and the targeting of a political representative, emphasizing law and order, and calling for swift justice. May also highlight concerns about overall security and protection for public figures." }
         },
-        "neutral": "A Canadian yachtsman accused of sex crimes in Hawaii has been arrested in British Columbia following an FBI operation, marking a successful instance of international law enforcement cooperation."
+        "neutral": "The report objectively details an arson investigation at the home of a Liberal MP, including damage to vehicles and the Prime Minister's condemnation of the act, without speculating on motives beyond political intimidation."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "ce6415f3366c89139553b1b59c7713d3",
-      "category": "Immigration",
-      "source": "The Globe and Mail",
-      "title": "Experts Urge Ottawa to Review Safe Third Country Agreement Amid U.S. Asylum Visa Revocation Plan",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-trumps-plan-to-revoke-the-visas-of-200000-asylum-seekers-should-fuel/",
-      "summary": "Immigration experts are advising the Canadian government to prepare for a potential increase in asylum seekers at the border following the Trump administration's plan to revoke up to 200,000 visas for foreign nationals seeking asylum in the U.S. They argue that this mass revocation undermines the core principle of the Safe Third Country Agreement (STCA), which presumes fair treatment of asylum seekers in the U.S. Experts recommend that Canada consider suspending the STCA or applying discretionary exemptions based on humanitarian grounds to uphold its international obligations.",
-      "graph": ["Asylum Policy", "Safe Third Country Agreement", "International Law", "Border Security", "Humanitarian Aid"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for prioritizing humanitarian obligations, urging Canada to unilaterally suspend or withdraw from the STCA to ensure asylum seekers are not returned to an unsafe environment, and to provide comprehensive support for new arrivals." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal and policy implications of the U.S. action on the STCA, focusing on Canada's international legal responsibilities and the practical challenges of border management, while seeking a balanced and pragmatic response." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about potential increases in irregular border crossings and the strain on Canadian resources, advocating for robust border controls and a cautious approach to altering the STCA to protect national sovereignty and manage immigration levels." }
-        },
-        "neutral": "Immigration experts are calling for the Canadian government to reassess or suspend the Safe Third Country Agreement in light of the Trump administration's plan to revoke visas for 200,000 asylum seekers in the U.S., anticipating increased arrivals at the Canadian border."
-      }
-    },
-    {
-      "id": "89050d24f0c90472e38c5b0337f75d5e",
-      "category": "Immigration",
-      "source": "The Hub",
-      "title": "Citizenship-by-Descent Backlog Exposes Gaps in Ottawa's Immigration Planning",
-      "citation": "August 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/25/a-121800-person-citizenship-queue-is-punching-a-hole-in-ottawas-immigration-plan/",
-      "summary": "A significant backlog of 121,800 applications for proof of Canadian citizenship-by-descent, primarily driven by Bill C-3, is creating unmeasured population growth not accounted for in Ottawa's official immigration targets. This surge has doubled processing times to 25 months and is seen by critics as undermining government claims of immigration control, masking additional pressure on vital services like housing.",
-      "graph": ["Immigration Policy", "Citizenship Law", "Population Growth", "Government Accountability", "Public Services"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize the importance of inclusive citizenship laws for \"lost Canadians\" and ensuring efficient processing, while also calling for robust infrastructure and social services to support all new residents." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative challenges and policy coherence issues arising from the growing citizenship backlog, advocating for improved planning and resource allocation to align citizenship processes with broader immigration objectives." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern about unmeasured population growth and its strain on public services and infrastructure, advocating for tighter controls on citizenship pathways and greater transparency in immigration planning to prevent unintended consequences." }
-        },
-        "neutral": "A substantial backlog of 121,800 citizenship-by-descent applications is challenging Ottawa's immigration planning, with critics arguing the unmeasured influx strains public services and contradicts official immigration control narratives."
-      }
-    }
-  ]
+  "immigration": []
 }
