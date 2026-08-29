@@ -1,183 +1,239 @@
 {
   "federalism": [
     {
-      "id": "e0e8e4c0d2b7f1a9g8h7i6j5k4l3m2n1",
+      "id": "fed-001",
       "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "Line 5 Pipeline Future Uncertain Amid US Court Decisions and Environmental Concerns",
+      "source": "CBC News",
+      "title": "Carney government asks court to strike down climate litigation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/enbridge-line-5-michigan-court-decision/?utm_source=rss",
-      "summary": "A recent Michigan Supreme Court decision has stalled Enbridge's plan to build a tunnel for its Line 5 pipeline, citing insufficient environmental review. This adds complexity to an ongoing dispute involving state and federal courts, tribal nations, and environmental groups over the pipeline's future, safety, and environmental impact in the Great Lakes region.",
-      "graph": [
-        "Energy Policy",
-        "Environmental Law",
-        "Cross-border Relations",
-        "Indigenous Rights"
-      ],
+      "url": "https://www.cbc.ca/news/politics/climate-federal-court-lawsuit-motion-to-strike-9.7324601?cmp=rss",
+      "summary": "The federal government is attempting to dismiss a high-profile climate change lawsuit initiated by youth and environmental groups. Ottawa argues that courts should not dictate climate policy and that the Canadian Net-Zero Emissions Accountability Act's use of \"may\" for plan amendments signifies discretion, not obligation. This motion seeks to prevent the case from proceeding to full hearings.",
+      "graph": ["Climate Policy", "Judicial Review", "Separation of Powers", "Environmental Lawsuit", "Federal Government"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Focuses on environmental protection and moving away from fossil fuels, interpreting court decisions as victories for critics. Highlights the risks of spills and the need for rigorous environmental review, and acknowledges tribal Treaty Rights concerns."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Describes the legal and regulatory complexities and the various stakeholders involved, emphasizing the ongoing 'state of limbo' and the procedural aspects of permitting, including federal and state court actions."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Would likely emphasize energy security, economic interests of Canadian companies, and the need for critical infrastructure projects to proceed, possibly downplaying environmental concerns or highlighting the economic benefits of the pipeline for both nations."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes the government's legal maneuvering as an attempt to evade climate accountability and undermine efforts to meet emissions targets. Advocates for strong judicial oversight to ensure the government upholds its environmental commitments and protects future generations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal arguments regarding the separation of powers, where the government contends policy-making is outside judicial purview. Analyzes the interpretation of legislative language (\"may\" vs. \"shall\") and the procedural aspects of motions to strike." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports the government's position against judicial activism in policy areas, emphasizing that climate policy should be determined through elected parliamentary processes, not by courts. Views the lawsuit as an overreach by environmental groups seeking to bypass democratic mechanisms." }
         },
-        "neutral": "The future of Enbridge's Line 5 pipeline remains contentious, with legal challenges and regulatory hurdles in the U.S. impacting its proposed tunnel project and highlighting ongoing cross-border environmental and energy policy debates."
+        "neutral": "The federal government has filed a motion to strike down a climate change lawsuit, contending that the judiciary lacks the authority to direct national climate policy, citing the discretionary language within the Canadian Net-Zero Emissions Accountability Act."
       }
     },
     {
-      "id": "f5d1c2b3a4e6f7g8h9i0j1k2l3m4n5",
+      "id": "fed-002",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada-U.S. Trade Talks Breakdown: Negotiators Dispute Blame Over Tariffs and Cultural Protections",
+      "title": "Canada ready to further distance itself from U.S. on military procurement",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-ready-to-further-distance-itself-from-u-s-on-military-procurement-9.7324301?cmp=rss",
+      "summary": "Amidst a continuing Canada-U.S. tariff dispute, Canada is reportedly strengthening military cooperation with European and Asian allies and reassessing significant military acquisitions from the United States. This move signals a strategic shift to diversify defence procurement and reduce reliance on its southern neighbour.",
+      "graph": ["Military Procurement", "International Relations", "Trade War", "Defence Policy", "Canada-U.S. Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Welcomes a diversification of Canada's military alliances and procurement away from the U.S., advocating for a more independent foreign policy and potentially supporting Canadian defence industries. May see this as a chance to align with partners sharing similar values." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the pragmatic shift in Canada's defence strategy as a response to evolving geopolitical and trade realities. Focuses on the balancing act between traditional alliances and the need for strategic autonomy in military capabilities and industrial benefits." },
+          "right": { "label": "Conservative Context", "synthesis": "While generally favouring strong defence and allied relations, some right-leaning views might support this diversification if it enhances Canadian sovereignty and industrial capacity, even if it entails reducing reliance on the U.S. Others might prioritize cost-effectiveness or interoperability with NORAD." }
+        },
+        "neutral": "Canada is signaling a strategic pivot in its military procurement and alliances, seeking greater distance from the U.S. by strengthening ties with European and Asian nations, a move influenced by ongoing Canada-U.S. trade tensions."
+      }
+    },
+    {
+      "id": "fed-003",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "As insults fly around trade, negotiators for Canada and the U.S. avoid getting personal in public",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/world/canada-united-states-trade-war-mark-carney-donald-trump-doug-ford-dominic-leblanc-jamieson-greer-9.7322974?cmp=rss",
+      "summary": "Despite escalating personal insults exchanged by politicians from Canada and the U.S. during an ongoing trade dispute, the countries' trade negotiators have maintained a professional and impersonal public demeanor. Experts suggest this is a deliberate strategic choice to keep open channels for future resolution.",
+      "graph": ["Trade Relations", "Diplomacy", "International Negotiation", "Canada-U.S. Trade War", "Political Rhetoric"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes the political rhetoric for creating unnecessary diplomatic friction and undermining the possibility of constructive dialogue. Advocates for principled, respectful engagement in international relations." },
+          "center": { "label": "Procedural Context", "synthesis": "Observes the contrasting roles of political leaders and technical negotiators, emphasizing the strategic utility of maintaining professional relationships at the working level to manage complex trade disputes and preserve avenues for de-escalation." },
+          "right": { "label": "Conservative Context", "synthesis": "While some might see strong political rhetoric as a necessary show of resolve in trade disputes, others might view the negotiators' professionalism as essential for protecting national economic interests and pursuing practical outcomes." }
+        },
+        "neutral": "Canadian and U.S. trade negotiators are intentionally maintaining a professional public posture despite inflammatory political rhetoric, a strategy seen by experts as crucial for keeping channels open amidst bilateral trade disagreements."
+      }
+    },
+    {
+      "id": "fed-004",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "What went wrong with U.S. trade talks, according to Canada's chief negotiator",
       "citation": "June 2026 Tracking Window",
       "url": "https://www.cbc.ca/news/politics/canada-us-trade-talks-tariffs-trump-lutnick-greer-carney-janice-charette-9.7324707?cmp=rss",
-      "summary": "Canada's chief U.S. trade negotiator, Janice Charette, disputes American officials' claims regarding the collapse of recent trade talks. Charette asserts that Canada consistently raised issues concerning tariff relief for the entire automotive sector, including heavy-duty trucks, and French language discoverability rules, contradicting U.S. Commerce Secretary Lutnick's assertion of 'last-minute demands.' The disagreement centers on who is responsible for the failure to secure a deal aiming for tariff relief on key Canadian exports.",
-      "graph": [
-        "International Trade",
-        "Tariffs",
-        "Automotive Industry",
-        "Cultural Policy",
-        "Diplomacy"
-      ],
+      "summary": "Canada's chief U.S. trade negotiator, Janice Charette, has publicly refuted claims by American officials regarding the collapse of recent trade talks. She asserts that Canada consistently raised concerns about the automotive sector throughout negotiations and that French language discoverability rules were not a last-minute issue for Canada, countering U.S. allegations of new demands.",
+      "graph": ["Trade Negotiations", "Canada-U.S. Trade", "Automotive Sector", "Cultural Policy", "Diplomatic Disagreement"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Might emphasize the protection of Canadian cultural sovereignty (French language discoverability) and the need for fair trade, potentially criticizing aggressive U.S. negotiation tactics and advocating for Canada's national interests."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Focuses on the differing accounts of the negotiations, the technical aspects of trade policy, and the procedural breakdown, seeking to present both sides' perspectives objectively and analyze the points of contention."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Could argue that Canada's demands were unrealistic or that prioritizing cultural protections over economic deals was a misstep, advocating for a swift, pragmatic resolution to benefit Canadian businesses and reduce trade friction."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Supports Canada's firm stance in negotiations to protect domestic industries, cultural policy (French language content), and national sovereignty from perceived U.S. overreach. Views the U.S. account as an attempt to shift blame." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual discrepancies in the accounts of the trade talks' breakdown, highlighting the challenge of transparency and accountability in high-stakes international negotiations. Emphasizes the importance of clear communication and record-keeping." },
+          "right": { "label": "Conservative Context", "synthesis": "May scrutinize both sides' negotiation tactics, potentially criticizing the Canadian government for perceived inflexibility or for allowing non-economic issues (like French language content) to complicate vital trade agreements. Some may prioritize reaching a deal quickly for economic stability." }
         },
-        "neutral": "Canadian and U.S. officials offer conflicting accounts regarding the failure of recent trade negotiations, with disputes over automotive tariffs and French language cultural policies at the core of the unresolved impasse."
+        "neutral": "Canada's chief negotiator for U.S. trade talks disputes American claims regarding the breakdown of negotiations, specifically refuting last-minute demands on autos and denying French language discoverability rules were a recent obstacle."
       }
     },
     {
-      "id": "c1a2s3d4f5g6h7j8k9l0m1n2o3p4q5",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Efforts to Reduce Canadian Interprovincial Trade Barriers Intensify Amid US Trade Tensions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/interprovincial-trade-barriers-9.7323970?cmp=rss",
-      "summary": "The recent breakdown in Canada-U.S. trade talks has renewed urgency in addressing interprovincial trade barriers within Canada. While some progress has been made, such as agreements on direct-to-consumer alcohol sales, significant challenges remain due to varying provincial regulations and additional charges. Experts highlight that removing these internal barriers could substantially boost Canada's GDP, prompting federal and provincial ministers to prioritize harmonizing regulations across sectors.",
-      "graph": [
-        "Internal Trade",
-        "Federal-Provincial Relations",
-        "Economic Policy",
-        "Regulatory Harmonization"
-      ],
-      "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
-        "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Might focus on protecting provincial autonomy where it benefits local communities or specific industries, while also supporting policies that promote national economic unity for collective benefit and equitable distribution of gains."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Details the ongoing efforts and challenges in interprovincial trade negotiations, highlighting the bureaucratic complexities and the economic incentives for reform from a neutral policy perspective, including discussions among finance ministers."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Would strongly advocate for rapid and comprehensive removal of all interprovincial trade barriers to maximize economic efficiency and growth, viewing provincial regulations as inefficient and hindering a single Canadian market and national competitiveness."
-          }
-        },
-        "neutral": "Despite recent agreements, significant interprovincial trade barriers persist in Canada, prompting renewed calls for harmonization and reform from federal and provincial governments, with economists projecting substantial GDP growth from such reforms."
-      }
-    },
-    {
-      "id": "g9h0i1j2k3l4m5n6o7p8q9r0s1t2u3",
+      "id": "fed-005",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Canadian Federal Government Records $370 Million Deficit in Q1 2026",
+      "title": "Separatists plan to rally ahead of Alberta’s birthday bash",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/business/article-federal-government-deficit-april-to-june-period/",
-      "summary": "The Canadian federal government posted a deficit of $370 million for the period between April and June, marking a significant improvement compared to the $6.28 billion deficit recorded during the same period a year prior. This financial update comes from the Department of Finance.",
-      "graph": [
-        "Fiscal Policy",
-        "Government Finance",
-        "National Economy"
-      ],
+      "url": "https://www.theglobeandmail.com/canada/article-separatists-plan-to-rally-ahead-of-albertas-birthday-bash/",
+      "summary": "Alberta separatist groups are organizing a rally coinciding with the province's upcoming anniversary. This comes as Premier Danielle Smith reportedly considers retracting previous suggestions of holding an early binding referendum on secession, indicating fluctuating political momentum for the movement.",
+      "graph": ["Alberta Separatism", "Provincial Autonomy", "Federal-Provincial Relations", "Referendum", "Political Rally"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Might focus on how government spending supports social programs and public services, and whether the deficit is justifiable in achieving broader societal goals or responding to economic needs, such as stimulating growth."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Presents the financial figures objectively, comparing them to previous periods, and provides a factual account of the government's fiscal position and its reporting mechanisms."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Would likely emphasize fiscal responsibility, the need for balanced budgets, and potential concerns about government debt, advocating for reduced spending and greater economic efficiency to avoid future burdens."
-          }
+          "left": { "label": "Progressive Context", "synthesis": "Generally views such movements with concern for national unity and the potential fragmentation of social programs and federal policy. Emphasizes the benefits of federal solidarity and interprovincial cooperation." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the political dynamics of provincial autonomy movements, analyzing the public support, leadership rhetoric, and the constitutional implications of separatist aspirations. Focuses on the democratic process and federal-provincial dialogue." },
+          "right": { "label": "Conservative Context", "synthesis": "Some elements of the right in Alberta might resonate with calls for greater provincial autonomy or secession due to perceived federal overreach or economic grievances. Others may prioritize national unity while still advocating for stronger provincial powers within Confederation." }
         },
-        "neutral": "Canada's federal government recorded a $370 million deficit from April to June, a substantial reduction from the previous year's $6.28 billion deficit for the same period."
+        "neutral": "Alberta separatist groups are preparing for a rally amidst shifting provincial political discourse regarding the timing and feasibility of a secession referendum, signaling ongoing tensions in federal-provincial relations."
       }
     },
     {
-      "id": "x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5",
+      "id": "fed-006",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Canada-U.S. Trade War Prompts Domestic Supply Chain Re-evaluation",
+      "title": "Strong support for Canada axing U.S. trade talks, retaliatory tariffs: poll",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12039524/strong-support-for-canada-axing-u-s-trade-talks-retaliatory-tariffs-poll/",
+      "summary": "A recent Ipsos poll indicates widespread Canadian public approval for the government's decision to terminate U.S. trade negotiations and implement retaliatory tariffs. While overall support is high, the survey notes a dip in endorsement among younger voters.",
+      "graph": ["Trade Policy", "Public Opinion", "Canada-U.S. Relations", "Tariffs", "Federal Government"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Interprets the public support as validation for a nationalist, protectionist approach to trade, prioritizing Canadian interests and standing firm against U.S. economic pressure. May highlight a desire to protect Canadian jobs and industries." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the data of public opinion, providing a snapshot of Canadian sentiment regarding an international trade dispute. Analyzes the political implications of public support for the government's actions, noting demographic variations." },
+          "right": { "label": "Conservative Context", "synthesis": "While typically advocating for free markets, some right-leaning perspectives might support retaliatory measures as a necessary defence of national economic sovereignty and a strong stand against unfair trade practices, though others might express concern about the economic costs of a trade war." }
+        },
+        "neutral": "A new poll reveals significant Canadian public support for the government's decision to discontinue U.S. trade negotiations and impose retaliatory tariffs, although younger demographics show less enthusiasm for these measures."
+      }
+    },
+    {
+      "id": "fed-007",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "Can Canada supply itself? Trade war forces businesses to find out",
       "citation": "June 2026 Tracking Window",
       "url": "https://globalnews.ca/news/12039688/trade-war-canadian-supply-chain/",
-      "summary": "Amid the ongoing trade dispute between Canada and the U.S., Canadian businesses are increasingly exploring options to repatriate production and strengthen domestic supply chains. The uncertainty of the trade war is prompting a strategic shift towards greater self-sufficiency in various sectors.",
-      "graph": [
-        "Trade War",
-        "Supply Chain",
-        "Economic Security",
-        "Manufacturing",
-        "Canada-U.S. Relations"
-      ],
+      "summary": "The ongoing trade conflict between Canada and the U.S. is compelling Canadian businesses to assess their reliance on American supply chains and explore opportunities to increase domestic production and sourcing. This aims to bolster economic resilience and reduce vulnerability to cross-border trade disruptions.",
+      "graph": ["Supply Chain", "Economic Policy", "Trade War", "Domestic Production", "Economic Resilience"],
       "spectrum": {
-        "baseline": {
-          "left": 33,
-          "center": 34,
-          "right": 33
-        },
+        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": {
-            "label": "Progressive Context",
-            "synthesis": "Might emphasize the importance of national economic sovereignty and protecting Canadian jobs through domestic production, potentially advocating for government support for local industries and resilient supply chains."
-          },
-          "center": {
-            "label": "Procedural Context",
-            "synthesis": "Reports on the observed trend of businesses seeking domestic alternatives due to trade tensions, presenting the economic realities and potential long-term impacts on Canadian industry and trade policy."
-          },
-          "right": {
-            "label": "Conservative Context",
-            "synthesis": "Could focus on market efficiency and global competitiveness, while also acknowledging
+          "left": { "label": "Progressive Context", "synthesis": "Supports strategic industrial policy and investments in domestic capacity to create jobs, ensure economic security, and lessen dependence on foreign markets. Advocates for government support to re-shore production." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic responses of businesses to trade uncertainty, focusing on supply chain diversification, innovation, and government incentives to foster a more self-sufficient national economy." },
+          "right": { "label": "Conservative Context", "synthesis": "While generally advocating for market-driven efficiency, some right-leaning views might support domestic production and supply chain resilience as a national security issue or a means to protect Canadian jobs and industries in a volatile global trade environment." }
+        },
+        "neutral": "The persistent Canada-U.S. trade conflict is prompting Canadian businesses to re-evaluate their supply chain dependencies and actively seek ways to boost domestic production and sourcing to enhance national economic resilience."
+      }
+    },
+    {
+      "id": "fed-008",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Be careful how you talk about Canadian ‘sovereignty’",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/08/28/be-careful-how-you-talk-about-canadian-sovereignty/",
+      "summary": "An opinion piece advising caution in discussions of Canadian sovereignty, highlighting its complex nature in international trade agreements (like NAFTA/CUSMA), defense treaties (NATO), and federal-provincial relations, and critiquing inconsistent applications.",
+      "graph": ["Canadian Sovereignty", "Constitutional Law", "International Treaties", "Federal-Provincial Relations", "National Identity"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May emphasize collective security and international cooperation, balancing sovereignty with global responsibilities, and advocate for nuanced understandings of federal-provincial power-sharing, while critiquing nationalist exceptionalism." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the multi-faceted concept of sovereignty, its legal and political implications in domestic and international contexts, and the necessity of strategic compromises in a globalized world, calling for precision in public discourse." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the importance of national sovereignty and provincial autonomy, critiques federal overreach, and views international agreements with caution regarding potential erosions of national control, advocating for clear definitions of national interests." }
+        },
+        "neutral": "A commentary advocates for a more nuanced understanding of Canadian sovereignty, examining its complexities within international agreements and federal-provincial dynamics, and critiquing inconsistent political rhetoric surrounding the concept."
+      }
+    }
+  ],
+  "charter": [
+    {
+      "id": "char-001",
+      "category": "Charter",
+      "source": "National Post",
+      "title": "Jamie Sarkonak: Police reprimand of anti-immigration event undermines democracy",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/jamie-sarkonak-police-reprimand-of-anti-immigration-event-undermines-democracy",
+      "summary": "An opinion column argues that the Hamilton police's informal advisories to local venues, cautioning against hosting an anti-immigration conference due to potential negative impacts on \"belonging,\" represent an overreach that stifles freedom of expression and undermines democratic principles.",
+      "graph": ["Freedom of Expression", "Police Powers", "Democracy", "Anti-Immigration Events", "Civil Liberties"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "While often opposing anti-immigration sentiments, may acknowledge the importance of free speech as a fundamental right, but would balance it with concerns about hate speech, incitement to violence, and the promotion of inclusive communities, questioning the line between lawful expression and harmful rhetoric." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the tension between police responsibility for public safety/community relations and the protection of constitutional rights, specifically freedom of expression. Analyzes the legal boundaries of police intervention in private event hosting and the potential chilling effect on speech." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly defends freedom of expression as a cornerstone of democracy, arguing that police actions to \"reprimand\" venues for hosting legal, albeit unpopular, events are a form of state-sponsored censorship and a dangerous precedent that curtails political discourse." }
+        },
+        "neutral": "An opinion piece contends that police warnings to venues regarding an anti-immigration event constitute an erosion of freedom of expression and democratic values, creating a chilling effect on legitimate, albeit controversial, public discourse."
+      }
+    }
+  ],
+  "indigenous": [],
+  "criminal": [
+    {
+      "id": "crim-001",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "WARMINGTON: As trade spat rages, alleged U.S. consulate shooter freed on bail",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/trade-spat-rages-alleged-us-consulate-shooter-freed-bail",
+      "summary": "During heightened Canada-U.S. trade tensions, an individual accused of shooting at the U.S. Consulate in Toronto on March 10th has been released on bail. This development is highlighted for its potential to further complicate bilateral relations and raise concerns, particularly from a U.S. perspective.",
+      "graph": ["Criminal Justice", "Bail Decision", "International Relations", "U.S. Consulate Shooting", "Public Safety"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on due process, the rights of the accused, and the judicial system's independence, while acknowledging the broader political context. May question the fairness of public perception in such cases." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the legal proceedings, bail conditions, and the application of criminal justice principles in a high-profile case with international implications." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over public safety, the potential impact on international relations (especially given the trade spat), and the perceived leniency of the justice system, particularly in cases involving national security or foreign entities." }
+        },
+        "neutral": "An individual accused of shooting at the U.S. Consulate in Toronto has been granted bail, a decision that has drawn attention due to ongoing Canada-U.S. trade tensions and the sensitive nature of the alleged crime."
+      }
+    }
+  ],
+  "immigration": [
+    {
+      "id": "imm-001",
+      "category": "Immigration",
+      "source": "The Globe and Mail",
+      "title": "‘Unprecedented’ increase in immigration cases creates unmanageable workloads for Federal Court, says chief justice",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-increase-immigration-cases-unmanageable-workloads-federal-court/",
+      "summary": "Federal Court Chief Justice Alan Diner reports an \"unprecedented\" 600% surge in immigration cases since 2020, leading to severe strain on judicial resources and staff. This increase, alongside new constitutional challenges to Bill C-12 (Canada's border security bill), necessitates an urgent call for more judges to address the escalating backlog and ensure timely access to justice.",
+      "graph": ["Immigration Law", "Federal Court", "Judicial Workload", "Access to Justice", "Bill C-12"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for increased judicial resources and legal aid to ensure timely and fair hearings for immigrants and asylum seekers. Criticizes policy changes (like Bill C-12) that may exacerbate caseloads and create barriers to justice." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative challenges facing the judiciary due to policy changes and increased demand. Emphasizes the need for governmental investment in the justice system to maintain efficiency and uphold the rule of law in immigration matters." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concern about the overall volume of immigration, linking it to the strain on public services including the courts. Could support policy measures aimed at managing immigration numbers to reduce caseloads, while also stressing judicial efficiency." }
+        },
+        "neutral": "The Federal Court is facing an overwhelming 600% increase in immigration cases since 2020, including challenges to Bill C-12, prompting the Chief Justice to request additional judges to alleviate severe workload pressures and preserve timely access to justice."
+      }
+    },
+    {
+      "id": "imm-002",
+      "category": "Immigration",
+      "source": "The Globe and Mail",
+      "title": "Edmonton-born father back in Canada after nine months in ICE custody",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-edmonton-born-father-back-in-canada-after-nine-months-in-ice-custody/",
+      "summary": "An Edmonton-born father, who had resided in Houston since youth, has been returned to Canada following a nine-month detention by U.S. Immigration and Customs Enforcement (ICE). He had been fighting to remain in the U.S. to raise his children, highlighting the complexities of international family immigration issues.",
+      "graph": ["Immigration Enforcement", "Family Reunification", "U.S. ICE", "Repatriation", "Cross-Border Issues"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the humanitarian aspects of family separation and the impact of strict immigration enforcement on individuals and families. Advocates for more compassionate immigration policies and legal support for those navigating cross-border issues." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports the factual narrative of an individual's cross-border immigration challenge, focusing on the legal and administrative processes of U.S. immigration enforcement and the individual's repatriation to Canada." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging individual circumstances, may emphasize adherence to immigration laws and national border security. Could view the individual's return as a consequence of navigating different countries' legal frameworks, without necessarily implying policy fault." }
+        },
+        "neutral": "An Edmonton-born father has been repatriated to Canada after a nine-month detention by U.S. Immigration and Customs Enforcement, having sought to remain in the U.S. to be with his children."
+      }
+    }
+  ]
+}
