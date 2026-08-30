@@ -1,239 +1,199 @@
 {
   "federalism": [
     {
-      "id": "fed-001",
+      "id": "federalism-c-trade-leverage",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Carney government asks court to strike down climate litigation",
+      "title": "Canada has leverage in this trade fight, but economists warn it comes with a cost",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/climate-federal-court-lawsuit-motion-to-strike-9.7324601?cmp=rss",
-      "summary": "The federal government is attempting to dismiss a high-profile climate change lawsuit initiated by youth and environmental groups. Ottawa argues that courts should not dictate climate policy and that the Canadian Net-Zero Emissions Accountability Act's use of \"may\" for plan amendments signifies discretion, not obligation. This motion seeks to prevent the case from proceeding to full hearings.",
-      "graph": ["Climate Policy", "Judicial Review", "Separation of Powers", "Environmental Lawsuit", "Federal Government"],
+      "url": "https://www.cbc.ca/news/politics/canada-leverage-tradewar-cost-economists-9.7324779?cmp=rss",
+      "summary": "Economists discuss potential Canadian retaliatory measures against new U.S. tariffs, including export taxes on energy and fertilizer, restricting U.S. access, and divesting U.S. treasury bonds. While these actions could exert pressure, experts caution that they would also incur significant costs for the Canadian economy, impacting various sectors.",
+      "graph": ["Trade War", "US-Canada Relations", "Economic Policy", "Tariffs", "Federal Government"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the government's legal maneuvering as an attempt to evade climate accountability and undermine efforts to meet emissions targets. Advocates for strong judicial oversight to ensure the government upholds its environmental commitments and protects future generations." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal arguments regarding the separation of powers, where the government contends policy-making is outside judicial purview. Analyzes the interpretation of legislative language (\"may\" vs. \"shall\") and the procedural aspects of motions to strike." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the government's position against judicial activism in policy areas, emphasizing that climate policy should be determined through elected parliamentary processes, not by courts. Views the lawsuit as an overreach by environmental groups seeking to bypass democratic mechanisms." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might support strong retaliatory action to protect Canadian sovereignty and industries, even if it entails short-term economic pain, prioritizing national control over market integration. Emphasis on protecting Canadian jobs and strategic resources." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analyses focus on the economic modeling and strategic considerations of various trade countermeasures, weighing their efficacy and the projected costs and benefits for the overall Canadian economy and specific sectors. Prioritizing evidence-based policy responses." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might lean towards protecting market freedoms and minimizing government intervention in trade, but could also support strategic, targeted retaliation that asserts national economic interests without excessive self-harm, emphasizing long-term stability and business interests." }
         },
-        "neutral": "The federal government has filed a motion to strike down a climate change lawsuit, contending that the judiciary lacks the authority to direct national climate policy, citing the discretionary language within the Canadian Net-Zero Emissions Accountability Act."
+        "neutral": "The article objectively examines Canada's economic options and their potential consequences in an escalating trade dispute with the U.S."
       }
     },
     {
-      "id": "fed-002",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada ready to further distance itself from U.S. on military procurement",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-ready-to-further-distance-itself-from-u-s-on-military-procurement-9.7324301?cmp=rss",
-      "summary": "Amidst a continuing Canada-U.S. tariff dispute, Canada is reportedly strengthening military cooperation with European and Asian allies and reassessing significant military acquisitions from the United States. This move signals a strategic shift to diversify defence procurement and reduce reliance on its southern neighbour.",
-      "graph": ["Military Procurement", "International Relations", "Trade War", "Defence Policy", "Canada-U.S. Relations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Welcomes a diversification of Canada's military alliances and procurement away from the U.S., advocating for a more independent foreign policy and potentially supporting Canadian defence industries. May see this as a chance to align with partners sharing similar values." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the pragmatic shift in Canada's defence strategy as a response to evolving geopolitical and trade realities. Focuses on the balancing act between traditional alliances and the need for strategic autonomy in military capabilities and industrial benefits." },
-          "right": { "label": "Conservative Context", "synthesis": "While generally favouring strong defence and allied relations, some right-leaning views might support this diversification if it enhances Canadian sovereignty and industrial capacity, even if it entails reducing reliance on the U.S. Others might prioritize cost-effectiveness or interoperability with NORAD." }
-        },
-        "neutral": "Canada is signaling a strategic pivot in its military procurement and alliances, seeking greater distance from the U.S. by strengthening ties with European and Asian nations, a move influenced by ongoing Canada-U.S. trade tensions."
-      }
-    },
-    {
-      "id": "fed-003",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "As insults fly around trade, negotiators for Canada and the U.S. avoid getting personal in public",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/world/canada-united-states-trade-war-mark-carney-donald-trump-doug-ford-dominic-leblanc-jamieson-greer-9.7322974?cmp=rss",
-      "summary": "Despite escalating personal insults exchanged by politicians from Canada and the U.S. during an ongoing trade dispute, the countries' trade negotiators have maintained a professional and impersonal public demeanor. Experts suggest this is a deliberate strategic choice to keep open channels for future resolution.",
-      "graph": ["Trade Relations", "Diplomacy", "International Negotiation", "Canada-U.S. Trade War", "Political Rhetoric"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the political rhetoric for creating unnecessary diplomatic friction and undermining the possibility of constructive dialogue. Advocates for principled, respectful engagement in international relations." },
-          "center": { "label": "Procedural Context", "synthesis": "Observes the contrasting roles of political leaders and technical negotiators, emphasizing the strategic utility of maintaining professional relationships at the working level to manage complex trade disputes and preserve avenues for de-escalation." },
-          "right": { "label": "Conservative Context", "synthesis": "While some might see strong political rhetoric as a necessary show of resolve in trade disputes, others might view the negotiators' professionalism as essential for protecting national economic interests and pursuing practical outcomes." }
-        },
-        "neutral": "Canadian and U.S. trade negotiators are intentionally maintaining a professional public posture despite inflammatory political rhetoric, a strategy seen by experts as crucial for keeping channels open amidst bilateral trade disagreements."
-      }
-    },
-    {
-      "id": "fed-004",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "What went wrong with U.S. trade talks, according to Canada's chief negotiator",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-us-trade-talks-tariffs-trump-lutnick-greer-carney-janice-charette-9.7324707?cmp=rss",
-      "summary": "Canada's chief U.S. trade negotiator, Janice Charette, has publicly refuted claims by American officials regarding the collapse of recent trade talks. She asserts that Canada consistently raised concerns about the automotive sector throughout negotiations and that French language discoverability rules were not a last-minute issue for Canada, countering U.S. allegations of new demands.",
-      "graph": ["Trade Negotiations", "Canada-U.S. Trade", "Automotive Sector", "Cultural Policy", "Diplomatic Disagreement"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports Canada's firm stance in negotiations to protect domestic industries, cultural policy (French language content), and national sovereignty from perceived U.S. overreach. Views the U.S. account as an attempt to shift blame." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual discrepancies in the accounts of the trade talks' breakdown, highlighting the challenge of transparency and accountability in high-stakes international negotiations. Emphasizes the importance of clear communication and record-keeping." },
-          "right": { "label": "Conservative Context", "synthesis": "May scrutinize both sides' negotiation tactics, potentially criticizing the Canadian government for perceived inflexibility or for allowing non-economic issues (like French language content) to complicate vital trade agreements. Some may prioritize reaching a deal quickly for economic stability." }
-        },
-        "neutral": "Canada's chief negotiator for U.S. trade talks disputes American claims regarding the breakdown of negotiations, specifically refuting last-minute demands on autos and denying French language discoverability rules were a recent obstacle."
-      }
-    },
-    {
-      "id": "fed-005",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Separatists plan to rally ahead of Alberta’s birthday bash",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-separatists-plan-to-rally-ahead-of-albertas-birthday-bash/",
-      "summary": "Alberta separatist groups are organizing a rally coinciding with the province's upcoming anniversary. This comes as Premier Danielle Smith reportedly considers retracting previous suggestions of holding an early binding referendum on secession, indicating fluctuating political momentum for the movement.",
-      "graph": ["Alberta Separatism", "Provincial Autonomy", "Federal-Provincial Relations", "Referendum", "Political Rally"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Generally views such movements with concern for national unity and the potential fragmentation of social programs and federal policy. Emphasizes the benefits of federal solidarity and interprovincial cooperation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the political dynamics of provincial autonomy movements, analyzing the public support, leadership rhetoric, and the constitutional implications of separatist aspirations. Focuses on the democratic process and federal-provincial dialogue." },
-          "right": { "label": "Conservative Context", "synthesis": "Some elements of the right in Alberta might resonate with calls for greater provincial autonomy or secession due to perceived federal overreach or economic grievances. Others may prioritize national unity while still advocating for stronger provincial powers within Confederation." }
-        },
-        "neutral": "Alberta separatist groups are preparing for a rally amidst shifting provincial political discourse regarding the timing and feasibility of a secession referendum, signaling ongoing tensions in federal-provincial relations."
-      }
-    },
-    {
-      "id": "fed-006",
+      "id": "federalism-e-byelections-aug31",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Strong support for Canada axing U.S. trade talks, retaliatory tariffs: poll",
+      "title": "Canadians set to cast their ballots in B.C., Ontario and Quebec byelections",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12039524/strong-support-for-canada-axing-u-s-trade-talks-retaliatory-tariffs-poll/",
-      "summary": "A recent Ipsos poll indicates widespread Canadian public approval for the government's decision to terminate U.S. trade negotiations and implement retaliatory tariffs. While overall support is high, the survey notes a dip in endorsement among younger voters.",
-      "graph": ["Trade Policy", "Public Opinion", "Canada-U.S. Relations", "Tariffs", "Federal Government"],
+      "url": "https://globalnews.ca/news/12040950/canada-federal-byelections-aug-31/",
+      "summary": "Federal byelections are scheduled to take place across three ridings in British Columbia, Ontario, and Quebec, providing voters an opportunity to elect new Members of Parliament following recent vacancies. These elections are significant for national political representation and potential shifts in parliamentary dynamics.",
+      "graph": ["Federal Elections", "By-elections", "Electoral Process", "Canadian Politics", "Provincial Representation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Interprets the public support as validation for a nationalist, protectionist approach to trade, prioritizing Canadian interests and standing firm against U.S. economic pressure. May highlight a desire to protect Canadian jobs and industries." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the data of public opinion, providing a snapshot of Canadian sentiment regarding an international trade dispute. Analyzes the political implications of public support for the government's actions, noting demographic variations." },
-          "right": { "label": "Conservative Context", "synthesis": "While typically advocating for free markets, some right-leaning perspectives might support retaliatory measures as a necessary defence of national economic sovereignty and a strong stand against unfair trade practices, though others might express concern about the economic costs of a trade war." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would focus on voter engagement, the democratic process, and the potential for these byelections to reflect public sentiment on federal policies, potentially highlighting regional concerns or calls for change." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral stance emphasizes the standard democratic procedure of filling parliamentary vacancies, the logistical aspects of the electoral process, and the legal framework governing federal elections across different provinces." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might analyze the byelections as a barometer of federal government performance, focusing on regional discontent or voter dissatisfaction with current economic or social policies. Emphasis on individual riding dynamics and local representation." }
         },
-        "neutral": "A new poll reveals significant Canadian public support for the government's decision to discontinue U.S. trade negotiations and impose retaliatory tariffs, although younger demographics show less enthusiasm for these measures."
+        "neutral": "This news piece factually reports on upcoming federal byelections in multiple Canadian provinces, outlining the mechanism of filling vacant parliamentary seats."
       }
     },
     {
-      "id": "fed-007",
+      "id": "federalism-s-lake-ontario-ford",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Can Canada supply itself? Trade war forces businesses to find out",
+      "source": "National Post",
+      "title": "Trump renaming Lake Ontario 'like something out of Saturday Night Live,' says Ford",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12039688/trade-war-canadian-supply-chain/",
-      "summary": "The ongoing trade conflict between Canada and the U.S. is compelling Canadian businesses to assess their reliance on American supply chains and explore opportunities to increase domestic production and sourcing. This aims to bolster economic resilience and reduce vulnerability to cross-border trade disruptions.",
-      "graph": ["Supply Chain", "Economic Policy", "Trade War", "Domestic Production", "Economic Resilience"],
+      "url": "https://nationalpost.com/news/trump-renaming-lake-ontario-like-something-out-of-saturday-night-live-says-ford",
+      "summary": "Ontario Premier Doug Ford publicly dismissed former U.S. President Trump's proposed renaming of Lake Ontario as a ridiculous gesture. Ford asserted that the lake's established name and Canadian identity would remain unchanged, highlighting provincial determination against external symbolic challenges.",
+      "graph": ["International Relations", "Provincial Politics", "US-Canada Relations", "Symbolic Sovereignty", "Intergovernmental Disputes"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 20, "center": 40, "right": 40 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports strategic industrial policy and investments in domestic capacity to create jobs, ensure economic security, and lessen dependence on foreign markets. Advocates for government support to re-shore production." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the economic responses of businesses to trade uncertainty, focusing on supply chain diversification, innovation, and government incentives to foster a more self-sufficient national economy." },
-          "right": { "label": "Conservative Context", "synthesis": "While generally advocating for market-driven efficiency, some right-leaning views might support domestic production and supply chain resilience as a national security issue or a means to protect Canadian jobs and industries in a volatile global trade environment." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators might view Ford's response as a necessary assertion of national and provincial sovereignty against a perceived foreign provocation, aligning with broader calls for defending Canadian identity and autonomy in international relations." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would frame this as a diplomatic incident involving a provincial leader responding to a controversial statement by a foreign head of state, highlighting the limits of symbolic gestures on internationally shared geographic features." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative analysis, particularly from the National Post, would likely praise Ford's strong, decisive stance in defending Canadian (and Ontario's) interests against foreign overreach, reinforcing national pride and provincial leadership in an international context." }
         },
-        "neutral": "The persistent Canada-U.S. trade conflict is prompting Canadian businesses to re-evaluate their supply chain dependencies and actively seek ways to boost domestic production and sourcing to enhance national economic resilience."
+        "neutral": "Ontario Premier Doug Ford reacted strongly to former U.S. President Trump's suggestion to rename Lake Ontario, asserting its permanent Canadian name and dismissing the idea as unserious."
       }
     },
     {
-      "id": "fed-008",
+      "id": "federalism-d-google-maps-lake-america",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Google changes Lake Ontario to Lake of America for Google Maps users in the U.S.",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/google-maps-lake-america-lake-ontario-u-s",
+      "summary": "Google Maps reportedly updated its display for U.S. users, changing 'Lake Ontario' to 'Lake of America,' citing a policy for bodies of water with varying names across countries. This move followed a controversial U.S. executive order, igniting further debate over the international waterway and national identity.",
+      "graph": ["International Relations", "Digital Sovereignty", "US-Canada Relations", "Corporate Policy", "Geographic Naming"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 40, "right": 40 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might criticize Google's decision as capitulating to political pressure, undermining shared international heritage, and setting a dangerous precedent for digital platforms to alter geographic names based on nationalist claims, rather than established international norms." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the corporate policy of a private entity (Google) reacting to a sovereign state's directive concerning an internationally shared resource, examining the legal and commercial implications for digital mapping services and bilateral relations." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints, especially in Canada, would likely condemn this as a breach of Canadian sovereignty and an unacceptable intrusion by a foreign power and a tech company into Canadian identity, demanding a robust federal and provincial response." }
+        },
+        "neutral": "Google Maps has reportedly changed the name of 'Lake Ontario' to 'Lake of America' for U.S. users, citing a policy for differing international names, following a U.S. executive order."
+      }
+    },
+    {
+      "id": "federalism-f-us-president-strategy",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Geoff Russ: Praying for a friendly U.S. president is a terrible strategy for Canada",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/geoff-russ-praying-for-a-friendly-u-s-president-is-a-terrible-strategy-for-canada",
+      "summary": "Columnist Geoff Russ argues that Canada's approach to its relationship with the U.S. should not be predicated on the hope for a consistently friendly U.S. presidential administration. He contends that American interest in free trade is cyclical and often self-serving, necessitating a more independent and resilient Canadian foreign policy strategy.",
+      "graph": ["Foreign Policy", "US-Canada Relations", "Trade Policy", "National Strategy", "Diplomacy"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 30, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis might agree with the need for Canadian independence but advocate for a foreign policy rooted in multilateralism and diversified international partnerships, rather than solely focusing on a bilateral U.S. relationship." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral viewpoint acknowledges the historical fluctuations in Canada-U.S. relations and the inherent challenges of managing a relationship with a significantly larger neighbour, underscoring the importance of pragmatic diplomacy and adaptable policy frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators would support the call for a more self-reliant and assertive Canadian foreign policy, prioritizing national interests and economic diversification away from over-dependence on the U.S., while still advocating for strong, transactional bilateral relations." }
+        },
+        "neutral": "An opinion piece advocates for Canada to adopt a more robust and self-reliant foreign policy, arguing against the historical reliance on a consistently friendly U.S. presidency due to the unpredictable nature of American trade interests."
+      }
+    },
+    {
+      "id": "federalism-g-alberta-medicare",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Shawn Whatley: Alberta right to challenge sacred rules of medicare",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/shawn-whatley-alberta-right-to-challenge-sacred-rules-of-medicare",
+      "summary": "Columnist Shawn Whatley supports Alberta's initiative to challenge the entrenched principles of Canada's public healthcare system (medicare). The argument posits that Alberta is legitimately prompting a national conversation on whether the paramount concern should be optimal patient care or strict adherence to existing medicare frameworks, implying potential for reform or provincial deviation.",
+      "graph": ["Healthcare Policy", "Federal-Provincial Relations", "Alberta Politics", "Medicare Reform", "Jurisdictional Disputes"],
+      "spectrum": {
+        "baseline": { "left": 10, "center": 30, "right": 60 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would likely defend the 'sacred rules' of medicare, emphasizing universal access and equity. They might criticize Alberta's challenge as an attempt to introduce two-tier healthcare, potentially undermining national standards and increasing inequality." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would analyze the constitutional division of powers regarding healthcare, the legal mechanisms for provincial challenges to federal norms, and the policy arguments for and against the current medicare structure without endorsing a specific outcome." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary, as articulated in the article, strongly supports Alberta's push for healthcare innovation and provincial autonomy. It advocates for prioritizing patient outcomes and efficiency, potentially through market-based reforms, over what it perceives as rigid ideological adherence to existing medicare structures." }
+        },
+        "neutral": "An opinion piece argues that Alberta is justified in questioning the foundational principles of Canada's medicare system to foster a debate focused on patient care over strict adherence to established healthcare models."
+      }
+    },
+    {
+      "id": "federalism-h-alberta-soft-separatists",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "The fight for Alberta\u2019s \u2018soft separatists\u2019 \u2014 the conservatives who want to send Carney a message",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/alberta-soft-separatists",
+      "summary": "This article explores the sentiment of 'soft separatism' among conservative Albertans, who aim to express strong discontent with the federal government under Prime Minister Mark Carney. While not seeking outright separation, their tactical votes and policy positions are intended to send a powerful message, which some warn could have unpredictable and destabilizing consequences for the federation.",
+      "graph": ["Provincial Autonomy", "Western Alienation", "Federal-Provincial Relations", "Separatism", "Alberta Politics", "Regionalism"],
+      "spectrum": {
+        "baseline": { "left": 15, "center": 35, "right": 50 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis might view 'soft separatism' as a symptom of deeper inequalities or policy disagreements within the federation, advocating for federal engagement and equitable treatment of all regions, potentially through renewed federal spending or dialogue." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral assessment would analyze the political motivations behind 'soft separatism,' its historical precedents, and the mechanisms through which provincial discontent translates into federal-provincial tension, examining the constitutional implications and the political strategies employed." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators, especially from the West, would likely frame 'soft separatism' as a legitimate expression of regional grievance against perceived federal overreach or neglect. They might support measures to enhance provincial autonomy and leverage federal power for regional benefit, even if it entails challenging the status quo." }
+        },
+        "neutral": "The piece examines 'soft separatism' in Alberta, where conservative voters aim to signal discontent to the federal government, acknowledging potential risks despite not pursuing full secession."
+      }
+    },
+    {
+      "id": "federalism-i-economy-trade-war",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Be careful how you talk about Canadian ‘sovereignty’",
+      "title": "Canada\u2019s economy can withstand an escalated trade war with U.S. say banks, but certain sectors will get hit hard",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/28/be-careful-how-you-talk-about-canadian-sovereignty/",
-      "summary": "An opinion piece advising caution in discussions of Canadian sovereignty, highlighting its complex nature in international trade agreements (like NAFTA/CUSMA), defense treaties (NATO), and federal-provincial relations, and critiquing inconsistent applications.",
-      "graph": ["Canadian Sovereignty", "Constitutional Law", "International Treaties", "Federal-Provincial Relations", "National Identity"],
+      "url": "https://thehub.ca/2026/08/30/canadas-economy-can-withstand-an-escalated-trade-war-with-u-s-say-banks-but-certain-sectors-will-get-hit-hard/",
+      "summary": "Despite strong performances from major Canadian banks, their economic departments predict that an escalated trade war with the U.S. would primarily inflict damage on specific sectors such as apparel, textiles, and electric equipment. While the overall economy is deemed resilient, 100,000 to 130,000 jobs are at risk, and Canada's industrial competitiveness ranking could further decline.",
+      "graph": ["Trade War", "Economic Impact", "US-Canada Relations", "Tariffs", "Canadian Economy", "Sectoral Impact"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 25, "center": 40, "right": 35 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May emphasize collective security and international cooperation, balancing sovereignty with global responsibilities, and advocate for nuanced understandings of federal-provincial power-sharing, while critiquing nationalist exceptionalism." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the multi-faceted concept of sovereignty, its legal and political implications in domestic and international contexts, and the necessity of strategic compromises in a globalized world, calling for precision in public discourse." },
-          "right": { "label": "Conservative Context", "synthesis": "Stresses the importance of national sovereignty and provincial autonomy, critiques federal overreach, and views international agreements with caution regarding potential erosions of national control, advocating for clear definitions of national interests." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would likely highlight the vulnerability of specific industries and workers, advocating for robust federal support programs and industrial policies to mitigate job losses and protect Canadian manufacturing during trade disputes." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral economists and policymakers would examine the precise fiscal and monetary measures available to cushion the economic blow, focusing on data-driven assessments of sectoral resilience and macro-economic stability in the face of external trade shocks." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might emphasize the need for fiscal discipline and market-driven adjustments, potentially advocating for deregulation or tax incentives to help affected sectors adapt, while critically evaluating the efficacy of government intervention." }
         },
-        "neutral": "A commentary advocates for a more nuanced understanding of Canadian sovereignty, examining its complexities within international agreements and federal-provincial dynamics, and critiquing inconsistent political rhetoric surrounding the concept."
+        "neutral": "Canadian banks assess that the national economy can largely absorb an intensified trade war with the U.S., though specific sectors face significant job losses and a decline in competitiveness."
       }
     }
   ],
-  "charter": [
-    {
-      "id": "char-001",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Jamie Sarkonak: Police reprimand of anti-immigration event undermines democracy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/jamie-sarkonak-police-reprimand-of-anti-immigration-event-undermines-democracy",
-      "summary": "An opinion column argues that the Hamilton police's informal advisories to local venues, cautioning against hosting an anti-immigration conference due to potential negative impacts on \"belonging,\" represent an overreach that stifles freedom of expression and undermines democratic principles.",
-      "graph": ["Freedom of Expression", "Police Powers", "Democracy", "Anti-Immigration Events", "Civil Liberties"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While often opposing anti-immigration sentiments, may acknowledge the importance of free speech as a fundamental right, but would balance it with concerns about hate speech, incitement to violence, and the promotion of inclusive communities, questioning the line between lawful expression and harmful rhetoric." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the tension between police responsibility for public safety/community relations and the protection of constitutional rights, specifically freedom of expression. Analyzes the legal boundaries of police intervention in private event hosting and the potential chilling effect on speech." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly defends freedom of expression as a cornerstone of democracy, arguing that police actions to \"reprimand\" venues for hosting legal, albeit unpopular, events are a form of state-sponsored censorship and a dangerous precedent that curtails political discourse." }
-        },
-        "neutral": "An opinion piece contends that police warnings to venues regarding an anti-immigration event constitute an erosion of freedom of expression and democratic values, creating a chilling effect on legitimate, albeit controversial, public discourse."
-      }
-    }
-  ],
+  "charter": [],
   "indigenous": [],
   "criminal": [
     {
-      "id": "crim-001",
+      "id": "criminal-a-toronto-stabbing",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "WARMINGTON: As trade spat rages, alleged U.S. consulate shooter freed on bail",
+      "title": "Man stabbed near Toronto waterfront; suspect sought for attempted murder in Burlington",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/trade-spat-rages-alleged-us-consulate-shooter-freed-bail",
-      "summary": "During heightened Canada-U.S. trade tensions, an individual accused of shooting at the U.S. Consulate in Toronto on March 10th has been released on bail. This development is highlighted for its potential to further complicate bilateral relations and raise concerns, particularly from a U.S. perspective.",
-      "graph": ["Criminal Justice", "Bail Decision", "International Relations", "U.S. Consulate Shooting", "Public Safety"],
+      "url": "https://torontosun.com/news/local-news/man-stabbed-near-toronto-waterfront",
+      "summary": "Police are investigating a stabbing incident near the Toronto waterfront where a man sustained serious but non-life-threatening injuries. Authorities are also actively searching for a suspect in connection with a separate attempted murder case in Burlington.",
+      "graph": ["Violent Crime", "Attempted Murder", "Police Investigation", "Toronto", "Burlington"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on due process, the rights of the accused, and the judicial system's independence, while acknowledging the broader political context. May question the fairness of public perception in such cases." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the legal proceedings, bail conditions, and the application of criminal justice principles in a high-profile case with international implications." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over public safety, the potential impact on international relations (especially given the trade spat), and the perceived leniency of the justice system, particularly in cases involving national security or foreign entities." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might focus on the social determinants of crime, advocating for community-based interventions, addressing root causes of violence, and emphasizing rehabilitation over punitive measures." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral report details the factual elements of the crime, the ongoing police investigation, and the legal framework for charging and prosecuting violent offenses. Focuses on due process and law enforcement procedures." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might highlight the need for stricter law enforcement, increased police presence, and tougher penalties for violent crimes, emphasizing public safety and order." }
         },
-        "neutral": "An individual accused of shooting at the U.S. Consulate in Toronto has been granted bail, a decision that has drawn attention due to ongoing Canada-U.S. trade tensions and the sensitive nature of the alleged crime."
-      }
-    }
-  ],
-  "immigration": [
-    {
-      "id": "imm-001",
-      "category": "Immigration",
-      "source": "The Globe and Mail",
-      "title": "‘Unprecedented’ increase in immigration cases creates unmanageable workloads for Federal Court, says chief justice",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-increase-immigration-cases-unmanageable-workloads-federal-court/",
-      "summary": "Federal Court Chief Justice Alan Diner reports an \"unprecedented\" 600% surge in immigration cases since 2020, leading to severe strain on judicial resources and staff. This increase, alongside new constitutional challenges to Bill C-12 (Canada's border security bill), necessitates an urgent call for more judges to address the escalating backlog and ensure timely access to justice.",
-      "graph": ["Immigration Law", "Federal Court", "Judicial Workload", "Access to Justice", "Bill C-12"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for increased judicial resources and legal aid to ensure timely and fair hearings for immigrants and asylum seekers. Criticizes policy changes (like Bill C-12) that may exacerbate caseloads and create barriers to justice." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative challenges facing the judiciary due to policy changes and increased demand. Emphasizes the need for governmental investment in the justice system to maintain efficiency and uphold the rule of law in immigration matters." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concern about the overall volume of immigration, linking it to the strain on public services including the courts. Could support policy measures aimed at managing immigration numbers to reduce caseloads, while also stressing judicial efficiency." }
-        },
-        "neutral": "The Federal Court is facing an overwhelming 600% increase in immigration cases since 2020, including challenges to Bill C-12, prompting the Chief Justice to request additional judges to alleviate severe workload pressures and preserve timely access to justice."
+        "neutral": "Police are investigating a stabbing in Toronto and a related attempted murder in Burlington, with a suspect actively being sought."
       }
     },
     {
-      "id": "imm-002",
-      "category": "Immigration",
-      "source": "The Globe and Mail",
-      "title": "Edmonton-born father back in Canada after nine months in ICE custody",
+      "id": "criminal-b-soquij-cannabis",
+      "category": "Criminal",
+      "source": "Slaw",
+      "title": "Summaries Sunday: SOQUIJ - Illicit Cannabis in Detention Facilities",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-edmonton-born-father-back-in-canada-after-nine-months-in-ice-custody/",
-      "summary": "An Edmonton-born father, who had resided in Houston since youth, has been returned to Canada following a nine-month detention by U.S. Immigration and Customs Enforcement (ICE). He had been fighting to remain in the U.S. to raise his children, highlighting the complexities of international family immigration issues.",
-      "graph": ["Immigration Enforcement", "Family Reunification", "U.S. ICE", "Repatriation", "Cross-Border Issues"],
+      "url": "https://www.slaw.ca/2026/08/30/summaries-sunday-soquij-642/",
+      "summary": "The Quebec Court of Appeal upheld a conviction for possessing cannabis in a detention facility, clarifying that even legally acquired cannabis becomes 'illicit' under the federal _Cannabis Act_ if its possession violates provincial law within a correctional setting. The court emphasized the determinative definition of 'illicit cannabis' in the federal act, which includes cannabis distributed in contravention of provincial regulations.",
+      "graph": ["Criminal Law", "Cannabis Act", "Provincial Legislation", "Possession", "Detention Facilities", "Statutory Interpretation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the humanitarian aspects of family separation and the impact of strict immigration enforcement on individuals and families. Advocates for more compassionate immigration policies and legal support for those navigating cross-border issues." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports the factual narrative of an individual's cross-border immigration challenge, focusing on the legal and administrative processes of U.S. immigration enforcement and the individual's repatriation to Canada." },
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging individual circumstances, may emphasize adherence to immigration laws and national border security. Could view the individual's return as a consequence of navigating different countries' legal frameworks, without necessarily implying policy fault." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive interpretations might question the breadth of 'illicit cannabis' definitions, especially regarding personal use in restricted environments, and advocate for harm reduction strategies within correctional facilities, rather than solely punitive approaches." },
+          "center": { "label": "Procedural Context", "synthesis": "This legal summary provides a neutral and objective account of a judicial decision, focusing on statutory interpretation, the interaction between federal and provincial laws, and the application of criminal law principles in a specific factual context." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative views would likely support the court's upholding of the conviction, emphasizing the importance of maintaining order and safety within detention facilities and the strict enforcement of laws prohibiting contraband, regardless of its legal status outside such environments." }
         },
-        "neutral": "An Edmonton-born father has been repatriated to Canada after a nine-month detention by U.S. Immigration and Customs Enforcement, having sought to remain in the U.S. to be with his children."
+        "neutral": "The Quebec Court of Appeal clarified the definition of 'illicit cannabis,' affirming a conviction for possession within a detention facility, even if the substance was legally acquired, due to provincial prohibitions."
       }
     }
-  ]
+  ],
+  "immigration": []
 }
