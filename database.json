@@ -1,296 +1,199 @@
 {
   "federalism": [
     {
-      "id": "fed-tech-dependency-1",
+      "id": "carney-trump-trade-negotiations",
       "category": "Federalism",
-      "source": "rabble.ca",
-      "title": "Canada's Small Businesses Face Critical U.S. Tech Dependency",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/columnists/canadas-small-businesses-have-a-u-s-tech-dependency-problem/",
-      "summary": "Canadian small and medium-sized businesses are increasingly reliant on U.S.-based digital tools and platforms, creating a new form of supply-chain risk and potential vulnerability for Canadian economic sovereignty and data security. This dependency can hinder domestic innovation and control over critical infrastructure.",
-      "graph": ["Economic Sovereignty", "Digital Economy", "Cross-Border Trade", "Supply Chain Risk", "Small Business"],
+      "source": "CBC News",
+      "title": "PM Carney Calls for Seriousness in Canada-U.S. Trade Talks Amid U.S. Diplomatic Insults",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-trump-cabinet-insults-9.7328038?cmp=rss",
+      "summary": "Prime Minister Mark Carney publicly rebuked U.S. cabinet members for insulting Canada and its military, urging them to halt 'throwing shade' and engage constructively in trade negotiations following the recent breakdown in talks. He stated such remarks were 'beneath their office' and not conducive to serious discussions.",
+      "graph": ["Canada-U.S. Relations", "Trade Diplomacy", "Federal Government", "International Trade", "Diplomatic Rhetoric"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for national digital strategies, investment in Canadian tech, and regulation to protect domestic businesses from foreign influence and ensure fair competition, advocating for government intervention to foster a robust Canadian digital ecosystem." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on identifying and quantifying the economic risks of tech dependency, exploring policy options for diversification, and ensuring a stable regulatory environment for both domestic and international tech operations." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights market-driven solutions, reducing regulatory burdens on Canadian businesses, and fostering an environment where competitive Canadian tech solutions can emerge without protectionist measures that might stifle innovation or increase costs." }
+          "left": { "label": "Progressive Context", "synthesis": "Carney's strong stance is seen as defending national sovereignty against foreign aggression, aligning with progressive calls for fair trade and diplomatic respect, while also potentially highlighting the need for robust domestic industry protection." },
+          "center": { "label": "Procedural Context", "synthesis": "This reports on the Prime Minister's direct diplomatic communication, noting the specific statements and the context of stalled trade negotiations, emphasizing the call for a return to formal and serious bilateral discussions." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might critique Carney's approach as either too confrontational or too passive, potentially suggesting a need for more assertive economic action or a different negotiating strategy to address the trade impasse with the U.S." }
         },
-        "neutral": "The increasing reliance of Canadian small businesses on U.S. digital technology presents an economic risk, prompting discussions on national digital resilience and policy responses."
+        "neutral": "Prime Minister Mark Carney publicly criticized U.S. cabinet members' derogatory comments about Canada and its military, calling for more serious engagement in bilateral trade negotiations."
       }
     },
     {
-      "id": "fed-lng-expansion-2",
+      "id": "liberal-byelection-sweep-2026",
       "category": "Federalism",
-      "source": "thenarwhal.ca",
-      "title": "FortisBC Proposes Major LNG Facility Expansion in Metro Vancouver, Raising Environmental and Regulatory Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/bc-tilbury-lng-delta-expansion/?utm_source=rss",
-      "summary": "FortisBC plans a significant expansion of its Tilbury LNG facility in Delta, B.C., potentially increasing production tenfold for export. While the provincial government supports an earlier phase (1B) with exemptions from utility commission review and offers First Nations co-ownership, the larger Phase 2 proposal is undergoing environmental assessment, sparking concerns over air pollution, emissions, and Fraser River impacts.",
-      "graph": ["Energy Policy", "Provincial Jurisdiction", "Environmental Assessment", "LNG Exports", "First Nations Economic Participation", "Infrastructure Development"],
+      "source": "CBC News",
+      "title": "Liberal Party Secures Triple Victory in Federal Byelections Across Canada",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/livestory/live-updates-byelection-chicoutimi-le-fjord-vancouver-capilano-beaches-east-york-9.7327074?cmp=rss",
+      "summary": "The Liberal Party achieved a clean sweep in three federal byelections held in Ontario, Quebec, and British Columbia, including winning a seat previously held by the Conservatives in Chicoutimi-Le Fjord. This outcome strengthens the party's majority mandate and is interpreted by Prime Minister Carney as an endorsement of his government's trade and economic policies.",
+      "graph": ["Federal Elections", "Political Parties", "Electoral Results", "Government Mandate", "Public Opinion"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the environmental impact of fossil fuel expansion, advocating for stronger regulatory oversight, climate action, and prioritizing Indigenous environmental stewardship over industrial growth. Questions the exemption from utility commission review." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural fairness of the environmental assessment process, balancing economic development goals with environmental protection, and ensuring transparent stakeholder engagement. Acknowledges the economic benefits and the need for energy security while seeking mitigation strategies." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the economic benefits of LNG exports, energy independence, and streamlined regulatory processes to attract investment and create jobs. Supports provincial initiatives to boost resource development and critical infrastructure." }
+          "left": { "label": "Progressive Context", "synthesis": "The sweep is viewed as a validation of the Liberal government's platform and leadership, suggesting public confidence in their handling of national issues, particularly during a period of international economic tension." },
+          "center": { "label": "Procedural Context", "synthesis": "This details the electoral results and their immediate impact on the composition of the House of Commons, analyzing the shifts in voter support and the political narratives emerging from the by-elections." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators may focus on the specific ridings, the overall turnout, or attribute the losses to internal party issues or a failure to effectively counter the Liberal's narrative, rather than a broad endorsement of government policy." }
         },
-        "neutral": "A proposed major LNG expansion in British Columbia highlights the tension between economic development, provincial regulatory autonomy, environmental concerns, and potential Indigenous involvement."
+        "neutral": "The Liberal Party secured victories in all three federal byelections across Ontario, Quebec, and British Columbia, including flipping a Conservative-held seat, bolstering their majority."
       }
     },
     {
-      "id": "fed-bessent-trade-3",
+      "id": "provincial-alcohol-trade-response",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "U.S. Treasury Secretary Dismisses Trade War with Canada, Mocks Canadian Military Capacity",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/bessent-carney-tariffs-trade-war-9.7326851?cmp=rss",
-      "summary": "U.S. Treasury Secretary Scott Bessent stated that the U.S. is 'not at war' with Canada despite escalating trade tensions, while simultaneously mocking Canada's military capabilities (referencing 'submarines from the Edmonton mall'). He also blamed Prime Minister Mark Carney for politicizing the trade dispute for domestic political gain.",
-      "graph": ["Trade Relations", "Diplomacy", "International Trade", "Canada-U.S. Relations", "Economic Disputes", "Political Rhetoric"],
+      "source": "CBC News",
+      "title": "Provincial Responses to U.S. Alcohol Availability Vary Amidst Ongoing Trade Dispute",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/american-alcohol-boycott-ban-canada-provinces-how-it-works-9.7325515?cmp=rss",
+      "summary": "In the context of the ongoing Canada-U.S. trade dispute, the availability of American alcohol in Canada shows significant provincial variation. Policies range from full availability in Alberta's private liquor system to a practical ban in Ontario's Crown-run LCBO, illustrating the complex interplay of federal trade disputes and provincial autonomy in liquor regulation.",
+      "graph": ["Provincial Autonomy", "Trade Relations", "Alcohol Regulation", "Federal-Provincial Dynamics", "Economic Impact"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the need for diplomatic de-escalation while emphasizing Canadian sovereignty and the importance of fair trade practices over aggressive protectionist rhetoric. May critique the U.S. administration's approach as disruptive to international cooperation." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic exchange and trade dispute through a lens of national interest and economic strategy, assessing the practical implications of such rhetoric on ongoing negotiations and bilateral relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports a strong stance in trade negotiations, potentially seeing the U.S. Treasury Secretary's comments as leverage. May criticize the Canadian government's handling of the trade dispute for perceived weakness or political posturing." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might highlight the economic impact on businesses and consumers due to inconsistent provincial responses, advocating for more coherent federal-provincial coordination on trade countermeasures or examining the social responsibility aspects of alcohol sales." },
+          "center": { "label": "Procedural Context", "synthesis": "This analysis focuses on the administrative and legal frameworks governing liquor distribution across provinces and how these frameworks influence responses to international trade disputes, providing a comparative overview of provincial policies." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might emphasize provincial jurisdiction and market freedom, arguing for less federal interference in provincial trade decisions or critiquing any policies that disrupt market supply, while also potentially supporting 'Buy Canadian' initiatives." }
         },
-        "neutral": "Amidst ongoing trade tensions, the U.S. Treasury Secretary downplayed a 'trade war' with Canada while using dismissive rhetoric towards Canadian national capabilities, attributing the dispute's escalation to Canadian domestic politics."
+        "neutral": "Canadian provinces exhibit diverse policies regarding the sale of American alcohol, ranging from full availability to restricted access, reflecting provincial autonomy within a federal trade dispute context."
       }
     },
     {
-      "id": "fed-byelections-4",
+      "id": "24-sussex-drive-restoration",
       "category": "Federalism",
-      "source": "cbc.ca",
-      "title": "Federal Byelections Held Across Three Provinces Amidst Intensified Political Scrutiny",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-byelection-quebec-ontario-british-columbia-9.7325997?cmp=rss",
-      "summary": "Voters are participating in three federal byelections in North Vancouver–Capilano (B.C.), Beaches–East York (Ontario), and Chicoutimi–Le Fjord (Quebec). These elections are crucial as they could affect the Liberal government's legislative control, with particular attention on the competitive Quebec riding.",
-      "graph": ["Electoral Politics", "Federal Government", "Parliamentary Balance", "Political Campaigns", "Voter Participation"],
+      "source": "CBC News",
+      "title": "Federal Government Initiates Procurement for 24 Sussex Drive Rehabilitation",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/24-sussex-drive-renovation-search-for-competitors-9.7327268?cmp=rss",
+      "summary": "The federal government has launched the initial procurement phase to find a Canadian team for the long-awaited rehabilitation of 24 Sussex Drive, the Prime Minister's official residence. The project aims for a world-class design incorporating Canadian materials and Indigenous participation, with a target contract award by fall 2027.",
+      "graph": ["Federal Infrastructure", "National Heritage", "Government Procurement", "Indigenous Participation", "Political Governance"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes voter engagement and the democratic process, possibly highlighting the importance of diverse representation or specific policy issues being debated by candidates." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the mechanics of the electoral process, voter turnout, and the potential impact of results on the parliamentary balance and the broader political landscape." },
-          "right": { "label": "Conservative Context", "synthesis": "Examines the races through the lens of party strength and leadership, particularly how results might reflect public sentiment on the current federal government or opposition parties, and implications for future general elections." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasis would be placed on the inclusion of Indigenous participation and the use of Canadian materials, aligning with reconciliation efforts and supporting local industries, while also advocating for a sustainable and accessible design." },
+          "center": { "label": "Procedural Context", "synthesis": "This focuses on the detailed process of government procurement, the requirements for the design competition, and the logistical challenges of restoring a historically significant but dilapidated federal property." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative analysis might scrutinize the project's timeline, budget, and past delays, advocating for fiscal responsibility and efficiency in government spending, while questioning the necessity or scope of certain design elements." }
         },
-        "neutral": "Three federal byelections are underway across Canada, with outcomes potentially influencing the governing Liberal party's legislative majority and reflecting regional political shifts."
+        "neutral": "The federal government has commenced the procurement process for the rehabilitation of 24 Sussex Drive, seeking Canadian teams for a project emphasizing domestic materials and Indigenous involvement."
       }
     },
     {
-      "id": "fed-emissions-lawsuit-5",
+      "id": "carney-appoints-barton-invest-canada",
       "category": "Federalism",
-      "source": "theglobeandmail.com",
-      "title": "Federal Government Seeks to Dismiss Lawsuit Over Missed 2030 Emission Targets",
-      "citation": "June 2026 Tracking Window",
+      "source": "CBC News",
+      "title": "PM Carney Appoints Dominic Barton as Invest in Canada Chair, Replaces CEO",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/mark-carney-names-dominic-barton-ceo-invest-in-canada-replaces-laurel-broten-9.7327283?cmp=rss",
+      "summary": "Prime Minister Mark Carney announced a leadership overhaul at Invest in Canada, appointing former ambassador to China Dominic Barton as chair and Gurinder Grewal as CEO. This change occurs weeks before a crucial investment summit and aims to bolster Canada's efforts in attracting foreign direct investment, with no explanation given for the outgoing CEO's early departure.",
+      "graph": ["Federal Appointments", "Economic Development", "Foreign Investment", "Government Agencies", "International Diplomacy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Concerns might be raised regarding the influence of corporate figures like Barton on government investment strategy, especially his past ties to McKinsey and China, advocating for transparency and ethical considerations in foreign investment attraction." },
+          "center": { "label": "Procedural Context", "synthesis": "This reports on the official government appointments, detailing the backgrounds of the new leadership and outlining the mandate of Invest in Canada to attract capital, ahead of a planned investment summit." },
+          "right": { "label": "Conservative Context", "synthesis": "The appointment of a seasoned business leader like Barton may be seen as a positive step towards a more pro-business, growth-oriented economic policy, potentially criticizing the previous leadership for insufficient investment attraction outcomes." }
+        },
+        "neutral": "PM Carney has appointed Dominic Barton as the new chair of Invest in Canada and Gurinder Grewal as CEO, signaling a push for foreign investment ahead of an upcoming summit."
+      }
+    },
+    {
+      "id": "guilbeault-mp-resignation-policy-dispute",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Steven Guilbeault Resigns as MP Citing Policy Disagreement with PM Carney",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-steven-guilbeault-resign-montreal-laurier-sainte-marie/",
+      "summary": "Steven Guilbeault has resigned his federal seat as MP for Laurier-Sainte-Marie, citing a matter of principle over the Liberal party's direction on energy and environmental policy under Prime Minister Mark Carney. His departure marks a significant political split within the governing party on climate and energy strategy.",
+      "graph": ["Federal Politics", "Environmental Policy", "Ministerial Resignations", "Policy Disagreements", "Climate Change"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Guilbeault's resignation is framed as a principled stand against perceived environmental policy compromises, potentially galvanizing calls for more ambitious climate action and highlighting tensions between economic growth and ecological protection." },
+          "center": { "label": "Procedural Context", "synthesis": "This focuses on the political implications of a high-profile resignation due to policy divergence, examining the internal dynamics of the Liberal party and the potential impact on the government's environmental agenda." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators might interpret the resignation as a sign of internal discord and policy incoherence within the Liberal government, questioning the viability of their energy and environmental strategies." }
+        },
+        "neutral": "Steven Guilbeault resigned his MP seat due to principled disagreements with Prime Minister Carney's Liberal party direction on energy and environmental policy."
+      }
+    },
+    {
+      "id": "ottawa-emission-targets-lawsuit",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Federal Government Seeks to Dismiss Lawsuit Challenging Missed Emission Targets",
+      "citation": "September 2026 Tracking Window",
       "url": "https://www.theglobeandmail.com/canada/article-lawsuit-projected-missed-emission-targets-carney-ottawa/",
-      "summary": "The federal government is requesting the Federal Court dismiss a lawsuit by climate advocates alleging it won't meet its 2030 greenhouse gas emission targets. Government lawyers argue the court lacks the power to mandate policy or judge political issues, asserting that accountability for climate targets under the Net-Zero Accountability Act rests with Parliament, despite a recent report indicating Canada is off track.",
-      "graph": ["Climate Policy", "Judicial Review", "Environmental Law", "Government Accountability", "Legislative Authority", "Net-Zero"],
+      "summary": "The federal government is attempting to quash a lawsuit regarding its projected failure to meet emission targets, with government lawyers arguing that the Federal Court lacks the power to compel the government to achieve these targets. This legal challenge probes the extent of judicial oversight over environmental policy implementation.",
+      "graph": ["Environmental Law", "Climate Policy", "Judicial Authority", "Government Accountability", "Greenhouse Gas Emissions"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports judicial intervention to enforce climate targets, arguing for stronger government accountability and upholding the spirit of environmental legislation to protect future generations. May view the government's stance as an attempt to evade responsibility." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the constitutional division of powers between the judiciary and Parliament, analyzing the legal arguments regarding court jurisdiction in policy matters, and the procedural aspects of enforcing legislative targets." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes parliamentary supremacy in policy-making and cautions against judicial overreach into political decisions, supporting the government's argument that courts should not dictate climate policy or set emissions targets." }
+          "left": { "label": "Progressive Context", "synthesis": "This action is likely seen as an attempt by the government to evade accountability on climate commitments, prompting calls for stronger legal enforceability of environmental targets and robust mechanisms for government oversight." },
+          "center": { "label": "Procedural Context", "synthesis": "The report focuses on the legal arguments concerning the Federal Court's jurisdiction and the separation of powers between the judiciary and the executive in matters of policy implementation and target adherence." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives may support the government's stance on judicial non-interference in policy matters, emphasizing parliamentary supremacy and the executive's role in setting and managing environmental goals without judicial overreach." }
         },
-        "neutral": "Ottawa is challenging a lawsuit seeking to enforce 2030 emission targets, arguing the Federal Court lacks jurisdiction over parliamentary accountability and climate policy implementation."
+        "neutral": "Ottawa is seeking to dismiss a lawsuit alleging it will miss emission targets, arguing the Federal Court lacks the authority to mandate target achievement."
       }
     },
     {
-      "id": "fed-hightech-rail-6",
+      "id": "jewish-public-servant-discrimination",
       "category": "Federalism",
-      "source": "theglobeandmail.com",
-      "title": "High-Speed Rail Project Between Toronto and Quebec Estimated at $150 Billion Over Four Decades",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-toronto-quebec-high-speed-rail-cost-alto/",
-      "summary": "A federal Crown corporation document reveals that a proposed high-speed rail line connecting Toronto and Quebec City could cost up to $150 billion over 40 years. The project anticipates fare revenues would cover operational expenses, highlighting a significant long-term infrastructure investment.",
-      "graph": ["Infrastructure Spending", "Public Transportation", "Economic Development", "Inter-provincial Connectivity", "Government Investment", "High-Speed Rail"],
+      "source": "The Hub",
+      "title": "Discrimination Against Jewish Federal Public Servants Reported at Double Average Rate",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/01/jewish-public-servants-face-discrimination-at-twice-the-average-rate-and-ottawa-answers-with-boilerplate/",
+      "summary": "A 2024 Public Service Employee Survey revealed that 18% of Jewish federal public servants reported experiencing discrimination or harassment, which is twice the service-wide average. The rates were even higher in specific departments like Global Affairs Canada (30%) and Canadian Heritage (34%), with critics calling Ottawa's response of forming an advisory council as inadequate.",
+      "graph": ["Public Service", "Anti-Discrimination", "Social Equity", "Government Accountability", "Workplace Harassment"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust public investment in green infrastructure, emphasizing long-term environmental benefits, job creation, and improved inter-city connectivity for all Canadians, potentially accepting higher initial costs for societal gains." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the cost-benefit analysis, financial viability, and transparent public-private partnership models for large-scale infrastructure projects. Considers the operational sustainability and economic impact on regional development." },
-          "right": { "label": "Conservative Context", "synthesis": "Questions the substantial public expenditure, advocating for private sector involvement, rigorous cost controls, and prioritizing fiscal responsibility. May scrutinize the projected returns and potential for budget overruns, favoring market-driven transportation solutions." }
+          "left": { "label": "Progressive Context", "synthesis": "This highlights a systemic failure within the federal public service regarding diversity and inclusion, prompting calls for stronger, more concrete government actions and accountability to protect minority groups from discrimination and harassment." },
+          "center": { "label": "Procedural Context", "synthesis": "The report details statistical findings from a public service survey, outlining the disproportionate rates of discrimination faced by Jewish employees and the official government response, which involves an advisory council." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary (as seen in the source) criticizes the government's response as 'boilerplate' and ineffective, advocating for more direct and robust measures to combat discrimination, implying a failure of current administrative approaches and perhaps questioning the government's commitment." }
         },
-        "neutral": "A federal report estimates a Toronto-Quebec high-speed rail link could cost $150 billion over 40 years, with projected fare revenues covering operational expenses, prompting debate on significant national infrastructure investment."
-      }
-    },
-    {
-      "id": "fed-google-scrub-7",
-      "category": "Federalism",
-      "source": "torontosun.com",
-      "title": "Canadian Federal Government Directs Google to Remove 'Lake America' Label from Digital Maps",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/provincial/feds-force-google-to-scrub-lake-america-from-canadian-sites",
-      "summary": "The Canadian federal government has intervened to ensure Google removes the 'Lake America' designation for Lake Ontario from its Canadian mapping services, following an attempt by a U.S. political figure to rename the body of water. This action highlights Canada's assertion of sovereignty over national geographical features.",
-      "graph": ["National Sovereignty", "Digital Cartography", "Canada-U.S. Relations", "Cultural Heritage", "Federal Intervention", "Geopolitical Symbolism"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the protection of Canadian cultural and geographic identity, supporting federal action to counter foreign attempts to redefine national symbols and maintain digital sovereignty." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of maintaining accurate geographical information and the role of international norms in naming conventions, supporting government efforts to ensure factual representation in digital services." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports strong national identity and swift government action against perceived foreign interference. May link this to broader concerns about Canada's standing in international relations and the need to assert national interests." }
-        },
-        "neutral": "The Canadian federal government has successfully compelled Google to correct mapping services after an unofficial U.S. attempt to rename Lake Ontario, reaffirming Canadian sovereignty over its national geography."
-      }
-    },
-    {
-      "id": "fed-lutnick-trade-8",
-      "category": "Federalism",
-      "source": "thehub.ca",
-      "title": "U.S. Commerce Secretary Alleges Canada Prioritized Domestic Politics in Trade Deal Collapse",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/31/lutnick-says-canada-abandoned-trade-deal-over-quebec-election-alberta-referendum/",
-      "summary": "U.S. Commerce Secretary Howard Lutnick claimed Canada's Prime Minister Mark Carney abandoned trade negotiations to gain political advantage ahead of a Quebec provincial election and an Alberta independence referendum. Lutnick suggested Canada's stated reasons (protecting language and culture) were pretext, indicating the trade deal's failure was driven by Canadian internal federal-provincial political dynamics rather than substantive issues.",
-      "graph": ["Trade Negotiations", "Federal-Provincial Relations", "International Diplomacy", "Political Strategy", "Quebec Sovereignty", "Alberta Separatism"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May critique the U.S. for interfering in Canadian domestic politics and potentially exploiting internal divisions, while emphasizing the importance of protecting cultural and linguistic rights in trade agreements." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the claims and counter-claims from both sides, focusing on the factual basis of the trade negotiations' collapse and the interplay between domestic political cycles and international policy decisions." },
-          "right": { "label": "Conservative Context", "synthesis": "May echo concerns about the Canadian government's perceived political maneuvering in trade, potentially criticizing the Prime Minister for sacrificing economic opportunity for short-term electoral gains or highlighting provincial grievances that impact national unity." }
-        },
-        "neutral": "A U.S. official asserts that Canada's domestic political considerations, including upcoming provincial elections and referendums, were the primary drivers behind its withdrawal from recent trade agreement negotiations."
+        "neutral": "A survey indicates Jewish federal public servants face discrimination at twice the average rate within government, sparking calls for stronger, more accountable federal responses."
       }
     }
   ],
-  "charter": [
-    {
-      "id": "charter-inmate-discipline-1",
-      "category": "Charter",
-      "source": "slaw.ca",
-      "title": "Supreme Court Clarifies \"Beyond a Reasonable Doubt\" Standard for Inmate Discipline Under Charter",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/08/31/mondays-mix-665/",
-      "summary": "The Supreme Court of Canada (SCC) ruled in John Howard Society of Saskatchewan v Saskatchewan that the \"true penal consequence\" test for imprisonment includes inmate disciplinary offenses, making the \"beyond a reasonable doubt\" standard applicable. This means Saskatchewan's Correctional Services Regulations, which required proof on a balance of probabilities for disciplinary offenses, are inconsistent with sections 7 and 11(d) of the Charter of Rights and Freedoms.",
-      "graph": ["Corrections Law", "Charter Rights", "Due Process", "Standard of Proof", "Constitutional Law", "Prisoner Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Applauds the SCC's decision as a crucial protection for the rights of incarcerated individuals, ensuring fair treatment and due process even within correctional settings, aligning with principles of rehabilitative justice and human dignity." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal precedent set by the SCC, clarifying the application of Charter rights within correctional institutions and establishing a consistent standard of proof for disciplinary actions that carry penal consequences." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concerns about the practical implications for maintaining order and discipline within correctional facilities, potentially arguing that a higher standard of proof could complicate prison management or strain resources, while acknowledging the importance of fundamental legal rights." }
-        },
-        "neutral": "The Supreme Court of Canada has mandated a 'beyond a reasonable doubt' standard for inmate disciplinary offenses carrying true penal consequences, aligning correctional practices with Charter rights."
-      }
-    },
-    {
-      "id": "charter-deepfake-abuse-2",
-      "category": "Charter",
-      "source": "ablawg.ca",
-      "title": "Alberta Civil Legislation Proposed for Deepfake Intimate Image Abuse Reforms",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://ablawg.ca/2026/08/31/intimate-image-abuse-in-the-age-of-deepfakes-reforming-albertas-civil-legislation-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=intimate-image-abuse-in-the-age-of-deepfakes-reforming-albertas-civil-legislation-part-2",
-      "summary": "Alberta is considering amendments to its Protecting Victims of Non-consensual Distribution of Intimate Images Act to address deepfake non-consensual intimate images (DNCII). The proposed reforms aim to create an expedited process for obtaining intimate image protection orders, explicitly authorize removal and de-indexing orders for online platforms, and introduce separate consent standards for protection orders and damages claims, reflecting growing concerns over privacy and digital harms.",
-      "graph": ["Digital Rights", "Privacy Law", "Deepfake Technology", "Non-Consensual Imagery", "Civil Remedies", "Legislative Reform", "Online Safety"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the reforms as essential for protecting victims of technology-facilitated sexual abuse, advocating for robust legal frameworks that address emerging digital harms and prioritize individual privacy and safety over unrestricted digital content." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and technological complexities of regulating DNCII, ensuring that legislative amendments are clear, enforceable, and strike a balance between individual rights (privacy, security of person) and technological innovation, while also considering platform responsibilities." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize concerns about potential overreach in online content regulation, advocating for clear definitions and robust due process to prevent censorship or unintended consequences for free expression, while still acknowledging the need to protect individuals from severe digital harm." }
-        },
-        "neutral": "Alberta is proposing legislative reforms to its intimate image protection act, aiming to provide expedited remedies and online platform removal powers to combat deepfake non-consensual intimate images, addressing evolving digital privacy concerns."
-      }
-    }
-  ],
+  "charter": [],
   "indigenous": [],
   "criminal": [
     {
-      "id": "crim-sex-offender-1",
+      "id": "d4vd-murder-charge-plea",
       "category": "Criminal",
-      "source": "nationalpost.com",
-      "title": "Paroled Toronto Sex Offender Allen Chow Charged with New Sexual Assault Offenses",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/paroled-toronto-sex-offender-new-charges-drugging-sexual-assault",
-      "summary": "Allen Chow, a 73-year-old disbarred pharmacist previously convicted of sexually assaulting 18 women, has been charged with new offenses of drugging and sexually assaulting a woman. Police allege he recorded the encounter, mirroring his past crimes, and believe there may be additional victims.",
-      "graph": ["Sexual Assault", "Recidivism", "Criminal Charges", "Law Enforcement", "Public Safety", "Parole Conditions"],
+      "source": "Toronto Sun",
+      "title": "Singer-Songwriter D4VD Pleads Not Guilty to Murder of 14-Year-Old Girl",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://torontosun.com/entertainment/celebrity/d4vd-pleads-not-guilty-to-murdering-girl-14",
+      "summary": "The singer-songwriter known as D4VD has entered a plea of not guilty to the murder of a 14-year-old girl. This high-profile criminal case involves allegations of the teen's death and dismemberment, with the prosecution reportedly considering pursuing the death penalty.",
+      "graph": ["Criminal Justice", "Murder Charge", "Legal Proceedings", "Plea", "High-Profile Case"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on systemic issues within the justice and correctional systems that may contribute to recidivism, advocating for enhanced rehabilitation programs, victim support, and a critical review of parole board decisions to ensure public safety and accountability." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the unfolding legal process, police investigation, and the charges laid, emphasizing the procedural aspects of the justice system and the role of law enforcement in responding to serious offenses." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for stricter penalties, greater accountability for repeat offenders, and a critical examination of parole policies to protect public safety, potentially advocating for a tougher stance on crime." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would focus on ensuring fair legal process, addressing underlying societal issues that contribute to violence, and scrutinizing the justice system, particularly concerning the ethical implications of the death penalty." },
+          "center": { "label": "Procedural Context", "synthesis": "This reports on the formal legal proceedings, including the accused's plea and the prosecution's considerations, emphasizing the judicial process and factual developments of the case." },
+          "right": { "label": "Conservative Context", "synthesis": "Right-leaning viewpoints often prioritize law and order, focusing on the severity of the alleged crime and the potential for strict penalties, including the death penalty, to ensure justice for victims and deterrence." }
         },
-        "neutral": "A previously paroled Toronto sex offender faces new charges of sexual assault and drugging, raising concerns about recidivism and the effectiveness of correctional oversight, with police seeking additional victims."
+        "neutral": "Singer-songwriter D4VD has pleaded not guilty to the murder of a 14-year-old girl, with the prosecution considering the death penalty."
       }
     },
     {
-      "id": "crim-mortgage-fraud-2",
+      "id": "ontario-jail-expansion-crime-policy",
       "category": "Criminal",
-      "source": "torontosun.com",
-      "title": "Disbarred Brampton Lawyer Charged in $4.3 Million Mortgage Fraud Scheme",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/disbarred-brampton-lawyer-charged-4-3m-mortgage-fraud",
-      "summary": "A disbarred Brampton lawyer has been charged in connection with a $4.3 million mortgage fraud scheme. Deputy Peel Police Chief Nick Milinovich stressed that no profession is above the law, indicating a commitment to prosecuting financial crimes regardless of the perpetrator's status.",
-      "graph": ["Mortgage Fraud", "White-Collar Crime", "Legal Profession Ethics", "Law Enforcement", "Financial Crime", "Professional Misconduct"],
+      "source": "The Hub",
+      "title": "Opinion: Ontario's Plan to Expand Jail Capacity as Response to Rising Crime",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/01/building-more-jails-is-the-right-response-to-growing-crime/",
+      "summary": "An opinion piece argues in favor of the Ontario government's multi-billion dollar plan to add approximately 6,000 new provincial jail beds by 2050. The author contends that increased incarceration is a necessary response to rising crime and overcrowded facilities, criticizing criminological theories that attribute crime solely to societal factors.",
+      "graph": ["Criminal Justice Policy", "Correctional Facilities", "Crime Rates", "Punishment Philosophy", "Provincial Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the impact of white-collar crime on communities and the need for rigorous oversight of professionals, advocating for measures to prevent abuse of power and protect vulnerable individuals from financial exploitation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal process, the investigation by police, and the upholding of the rule of law, demonstrating that justice applies equally to all, irrespective of professional background." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of prosecuting financial crimes to maintain market integrity and public trust, advocating for strong enforcement mechanisms against those who abuse positions of trust for personal gain." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would heavily critique the focus on expanding incarceration, advocating instead for investment in social programs, rehabilitation, and addressing the root causes of crime to reduce recidivism and foster community safety." },
+          "center": { "label": "Procedural Context", "synthesis": "This presents the provincial government's policy decision regarding correctional infrastructure, discussing the practical concerns of jail overcrowding and varying expert opinions on the most effective approaches to criminal justice and public safety." },
+          "right": { "label": "Conservative Context", "synthesis": "This opinion piece embodies a conservative stance, strongly advocating for 'tough on crime' policies, increased penal capacity, and individual accountability for criminal actions, while dismissing arguments for systemic causes of crime." }
         },
-        "neutral": "A disbarred lawyer in Brampton has been charged with $4.3 million in mortgage fraud, underscoring law enforcement's commitment to holding professionals accountable for financial crimes."
-      }
-    },
-    {
-      "id": "crim-double-stabbing-3",
-      "category": "Criminal",
-      "source": "torontosun.com",
-      "title": "Peel Police Search for Suspect Following Double Stabbing in Mississauga",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/peel-police-hunt-suspect-wanted-double-stabbing-missisauga",
-      "summary": "Peel Regional Police are actively searching for a suspect involved in a double stabbing that occurred in a Mississauga parking lot. Both victims sustained serious injuries but are currently in stable condition, and the investigation is ongoing.",
-      "graph": ["Violent Crime", "Police Investigation", "Public Safety", "Assault", "Mississauga Crime"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May address underlying social factors contributing to violent crime, advocating for community-based prevention programs, mental health support, and addressing root causes of violence, alongside effective policing." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the facts of the incident and the ongoing police efforts to apprehend the suspect, focusing on law enforcement procedures and public safety advisories without broader commentary." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for robust police presence, swift apprehension of suspects, and maintaining law and order to ensure public safety in urban areas, potentially advocating for tougher stances on violent offenders." }
-        },
-        "neutral": "Peel Regional Police are investigating a double stabbing in a Mississauga parking lot, with victims in stable condition and authorities actively searching for the perpetrator."
+        "neutral": "An opinion piece advocates for Ontario's plan to expand jail capacity by 6,000 beds by 2050, asserting it as the correct response to rising crime and overcrowded facilities."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "imm-jewish-refuge-1",
-      "category": "Immigration",
-      "source": "nationalpost.com",
-      "title": "Trump Endorses Proposal for U.S. Pathway for Canadian Jews Facing Antisemitism",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/trump-shares-report-on-pathway-to-u-s-for-jewish-canadians",
-      "summary": "Former U.S. President Donald Trump shared a proposal from the National Association of Christian Lawmakers advocating for an expedited legal pathway for Canadian Jews facing antisemitism to immigrate to the United States. This initiative highlights concerns about rising antisemitism in Canada and its potential impact on emigration.",
-      "graph": ["Immigration Policy", "Antisemitism", "Canada-U.S. Relations", "Refugee Status", "Human Rights", "Religious Freedom"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses concern about the rise of antisemitism in Canada, advocating for stronger domestic measures to combat hate and protect minority communities. May critique the U.S. proposal as politicizing a human rights issue." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the geopolitical implications of such a proposal, the diplomatic sensitivities between Canada and the U.S., and the practicalities of creating expedited immigration pathways for specific groups, while acknowledging the severe nature of antisemitism." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the principle of providing refuge to those facing persecution, possibly drawing attention to the perceived failures of Canadian policy in protecting its Jewish community and advocating for stronger action against antisemitism, potentially endorsing cross-border humanitarian initiatives." }
-        },
-        "neutral": "A U.S. proposal, backed by former President Trump, suggests an expedited immigration pathway to the U.S. for Canadian Jews experiencing antisemitism, sparking discussion on cross-border responses to hate and immigration policy."
-      }
-    },
-    {
-      "id": "imm-temporary-residents-2",
-      "category": "Immigration",
-      "source": "thehub.ca",
-      "title": "C.D. Howe Institute Recommends Further Cuts to Temporary Resident Intake and Enhanced Exit Tracking",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/08/31/c-d-howe-council-urges-deeper-cuts-to-temporary-residents-better-exit-tracking/",
-      "summary": "The C.D. Howe Institute's immigration targets council advocates for further reductions in Canada's temporary resident population and improved tracking of their departures. This recommendation comes amidst federal efforts to curb temporary resident numbers, which have surged to 1.5 million with temporary work permits and 632,000 on study permits, contributing to housing shortages and public service strain. The council warns of \"flying blind\" due to unreliable exit data.",
-      "graph": ["Immigration Policy", "Temporary Residents", "Demographics", "Housing Crisis", "Economic Impact", "Public Services", "Border Control"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for comprehensive immigration planning that balances economic needs with social infrastructure, emphasizing the rights and welfare of temporary residents and addressing root causes of housing and public service strain rather than solely focusing on population cuts." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on evidence-based policy making, advocating for improved data collection and analysis regarding temporary residents to better manage demographic shifts and their impact on housing and public services, ensuring sustainable immigration levels." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports stricter immigration controls, prioritizing national economic interests and alleviating strain on public services and housing. Advocates for more efficient tracking and enforcement to ensure temporary residents adhere to their permit conditions and depart as expected." }
-        },
-        "neutral": "The C.D. Howe Institute's council proposes deeper cuts to Canada's temporary resident population and improved exit tracking, citing concerns over housing and public service strain from current high numbers."
-      }
-    }
-  ]
+  "immigration": []
 }
