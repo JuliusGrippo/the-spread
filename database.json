@@ -1,297 +1,238 @@
 {
   "federalism": [
     {
-      "id": "2d9b6a9a01f68e0d473467f539b706f3",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Government Extends Gas Tax Holiday Until Early 2027",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/liberals-diesel-gas-excise-tax-9.7329128?cmp=rss",
-      "summary": "The Canadian federal government has announced the extension of the excise tax holiday on gasoline and diesel until early 2027. Originally set to expire on Labour Day, this measure aims to mitigate the rising cost of living for Canadians and businesses. The extension, expected to be announced by Finance Minister Fran\u00e7ois-Philippe Champagne, has garnered mixed political reactions, with some provincial leaders advocating for its permanence and opposition parties demanding broader tax relief.",
-      "graph": ["Federal Policy", "Fiscal Policy", "Economic Relief", "Fuel Taxes", "Cost of Living"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views the tax holiday as a temporary corporate handout that benefits oil companies more than consumers, while also potentially undermining climate action." },
-          "center": { "label": "Procedural Context", "synthesis": "Considers the extension a pragmatic, albeit temporary, measure by the federal government to address inflationary pressures and consumer affordability, with political implications for upcoming elections." },
-          "right": { "label": "Conservative Context", "synthesis": "Welcomes the tax reduction as necessary relief for consumers and businesses, often calling for it to be made permanent and expanded to include other federal fuel taxes like GST." }
-        },
-        "neutral": "The federal government is extending the gas tax holiday to early 2027 to address the rising cost of living, a decision drawing varied political responses."
-      }
-    },
-    {
-      "id": "18f0c5b736b7b51b3f945037ef4f923b",
+      "id": "70d2c6e7-0101-49e0-b6f7-b71008639695",
       "category": "Federalism",
       "source": "The Narwhal",
-      "title": "Alberta Coal Mines Report 42 Water Pollution Incidents in Three Years with Minimal Enforcement",
+      "title": "Alberta Wetland Policy Changes Spark Environmental Alarm",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/alberta-coal-violations/?utm_source=rss",
-      "summary": "Data from the Alberta Energy Regulator reveals 42 incidents of potentially harmful sediment discharges into waterways from coal mines in west-central Alberta over the past three years. Despite these occurrences impacting water and wildlife, only six resulted in enforcement actions, with one major fine from a past disaster. The report raises concerns about environmental oversight as the Alberta government plans to expand coal mining in the Rockies.",
-      "graph": ["Environmental Regulation", "Coal Mining", "Water Pollution", "Provincial Policy", "Regulatory Enforcement", "Alberta"],
+      "url": "https://thenarwhal.ca/alberta-water-act-wetlands-changes/?utm_source=rss",
+      "summary": "Alberta has amended its Water Act, allowing farmers to destroy temporary and seasonal wetlands on private land without prior government approval or requiring replacement. The provincial government frames these changes as a restoration of private property rights and a measure to improve agricultural efficiency. However, conservation organizations are vehemently opposing the move, warning that it jeopardizes up to 94% of the province's prairie wetlands, vital for flood control, water filtration, groundwater recharge, and providing critical habitats. Critics argue that the policy is based on 'policy-based evidence making' and employs deceptive messaging to downplay the ecological value of these wetlands.",
+      "graph": ["Environmental Policy", "Provincial Jurisdiction", "Agricultural Development", "Wetland Conservation", "Water Act"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes lax environmental regulation and the provincial government's push for coal mining, highlighting ecological risks and insufficient corporate accountability." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the need for robust regulatory oversight and transparent data, calling for a balanced approach to resource development that ensures environmental protection." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on the economic importance of resource extraction for provincial prosperity, while acknowledging the need for responsible environmental management and industry cooperation with regulators." }
+          "left": { "label": "Progressive Context", "synthesis": "Critics from the left argue that the Alberta government's deregulation prioritizes industrial interests over critical environmental protection. They advocate for stronger legislative safeguards for natural ecosystems, highlighting the long-term ecological and societal costs of wetland destruction and questioning the scientific basis of the policy." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral observers focus on the procedural aspects of the policy change, examining the balance between provincial resource management authority and the need for comprehensive environmental impact assessments. They emphasize the debate over evidence-based policy and the differing interpretations of land-use efficiency versus ecological services." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints support the Alberta government's action as an affirmation of private property rights and a reduction of burdensome regulations on farmers. They prioritize economic efficiency in agriculture, seeing government approval processes and compensation requirements for wetland alteration as impediments to productivity." }
         },
-        "neutral": "Alberta coal mines have recorded 42 water pollution incidents in three years, with limited regulatory enforcement, raising environmental concerns amidst plans for expanded mining."
+        "neutral": "Alberta's new Water Act amendments permit the destruction of non-permanent wetlands by farmers, a move supported by the province as a property rights enhancement but criticized by conservationists for its potential ecological devastation and impact on water retention and biodiversity."
       }
     },
     {
-      "id": "67ee83a06a2e99d7a227e7d669e403d6",
+      "id": "2d1f4d93-3d0b-4652-a5d6-d242c16f0f5b",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada Marks 20th Anniversary of Operation Medusa, a Defining Battle in Afghanistan",
+      "title": "PM Carney Signals Direct Condemnation of Putin at G20 Summit",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/afghanistan-war-taliban-canada-battle-medusa-9.7328644?cmp=rss",
-      "summary": "Twenty years ago, Canadian soldiers engaged in Operation Medusa, Canada's largest conventional battle since the Korean War, in Afghanistan. The fierce fight against an entrenched Taliban force in Kandahar resulted in significant Canadian casualties, testing the mettle of NATO troops. The commemoration reflects on the heavy costs and enduring legacy of this pivotal engagement in the Afghan conflict.",
-      "graph": ["Military History", "Afghanistan War", "Canadian Armed Forces", "Foreign Policy", "National Security"],
+      "url": "https://www.cbc.ca/news/politics/carney-putin-g20-summit-9.7331081?cmp=rss",
+      "summary": "Prime Minister Mark Carney announced his intention to directly confront Russian President Vladimir Putin at the upcoming G20 summit in Miami, if Putin attends. Carney stated his message would be concise: 'Get out of Ukraine, give back all of Ukraine to Ukraine, end this war.' While acknowledging the U.S. host's right to invite attendees, Carney highlighted 'valid reasons' for Putin's exclusion, reflecting Canada's firm stance against Russia's invasion. This declaration follows reports of 'discomfort' among Canadian officials regarding Russian presence at recent G20 finance minister meetings and amidst an anticipated visit by Ukrainian President Zelenskyy to Canada.",
+      "graph": ["Foreign Policy", "International Relations", "G20 Summit", "Russia-Ukraine War", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Acknowledges the sacrifice of soldiers but often frames the broader intervention in Afghanistan critically, questioning its long-term efficacy and human cost." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the bravery and professionalism of Canadian soldiers, emphasizing the strategic importance of the mission and the challenges faced by the military in complex combat environments." },
-          "right": { "label": "Conservative Context", "synthesis": "Honours the commitment and sacrifice of the Canadian military, viewing the operation as a testament to national resolve and an essential contribution to international security efforts." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices would likely support the Prime Minister's strong moral stance against Russian aggression, advocating for continued international pressure, sanctions, and isolation of Russia in global forums. They emphasize upholding human rights and international law, potentially pushing for an even more robust response beyond diplomatic condemnation." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the diplomatic protocols and geopolitical realities surrounding G20 participation. It would analyze the balance between national sovereignty in issuing invitations, the collective will of member states, and the effectiveness of diplomatic communication versus confrontation in resolving international conflicts. The 'discomfort' expressed by Canadian officials reflects the procedural tensions within the forum." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative analyses might approve of a firm stance against Putin, aligning with national security interests and clear condemnation of aggression. However, some might question the effectiveness of public confrontation over quiet diplomacy or critique the broader foreign policy approach, potentially advocating for a focus on economic leverage or military aid rather than just verbal warnings." }
         },
-        "neutral": "Canada commemorates the 20th anniversary of Operation Medusa, a significant and costly battle for Canadian forces in the Afghanistan War."
+        "neutral": "Prime Minister Carney affirmed a confrontational stance against Russian President Putin, should he attend the G20 summit, by reiterating Canada's demand for Russia to withdraw from Ukraine, while recognizing the host nation's right to issue invitations despite Canadian 'discomfort' with Russia's presence."
       }
     },
     {
-      "id": "4b68427f7158f804c8f2b7f754702008",
+      "id": "e3b6a9e1-6380-4965-b1a7-f584e1b7b138",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Six Upcoming Federal By-Elections to Gauge Liberal Party's Electoral Strength",
+      "title": "Federal Government Introduces New Guidelines for Data Centre Development",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/more-byelections-coming-canada-9.7327973?cmp=rss",
-      "summary": "Following recent by-election victories, the Liberal party faces six more contests across Canada. These upcoming elections will serve as a crucial indicator of the party's momentum and public sentiment, putting pressure on other federal parties to demonstrate their electoral viability. The results will be closely watched for insights into the national political landscape.",
-      "graph": ["Electoral Politics", "Federal Byelections", "Liberal Party", "Political Analysis", "Voter Sentiment"],
+      "url": "https://www.cbc.ca/news/politics/data-centre-canada-development-evan-solomon-artificial-intelligence-technology-9.7330880?cmp=rss",
+      "summary": "The federal government has unveiled a new, non-binding framework outlining five core expectations for the responsible development of data centres in Canada. Led by Minister of Artificial Intelligence and Digital Innovation Evan Solomon, the framework addresses growing public concerns about the infrastructure supporting AI technology, particularly regarding noise, electricity costs, and environmental impacts. The principles call for data centres to create lasting local benefits, avoid shifting electricity costs to Canadians, minimize water use and environmental impacts, ensure transparency about local effects, and bring strategic value to Canada. While major tech companies have endorsed these guidelines, the federal government emphasizes that direct approval and oversight remain within provincial, territorial, and municipal jurisdictions.",
+      "graph": ["Digital Infrastructure", "AI Policy", "Environmental Impact", "Economic Development", "Federal Regulation", "Municipal Planning"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Analyzes the results in the context of broader progressive policy shifts and the performance of smaller parties, scrutinizing the Liberals' mandate." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides objective analysis of the electoral outcomes, focusing on voter trends, campaign strategies, and the implications for federal parliamentary dynamics." },
-          "right": { "label": "Conservative Context", "synthesis": "Examines the Liberal party's performance, often highlighting any shifts towards conservative parties or expressing skepticism about the long-term sustainability of Liberal support." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely welcome federal guidelines addressing environmental and local community impacts of data centres, but might argue for stronger, binding regulations and greater emphasis on public consultation and local benefit sharing to prevent 'digital colonialism' and ensure equitable access to resources." },
+          "center": { "label": "Procedural Context", "synthesis": "A centrist analysis would focus on the collaborative approach between federal government and industry, recognizing the need for both innovation and responsible development. It would highlight the framework as a step towards clarifying expectations and fostering best practices, while acknowledging the challenges of inter-jurisdictional implementation." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely support the non-binding nature of the framework, preferring market-driven solutions and minimal government intervention in the tech sector. They would emphasize the importance of attracting investment and fostering innovation, while potentially viewing stricter regulations as hindrances to economic growth." }
         },
-        "neutral": "Upcoming federal by-elections will test the Liberal party's recent momentum and serve as a barometer for national political sentiment."
+        "neutral": "The Canadian federal government has established a non-binding framework with five core expectations for responsible data centre development, aiming to address public concerns regarding environmental impact, resource use, and local benefits, while leaving direct approval processes to lower levels of government."
       }
     },
     {
-      "id": "270d061974799042a0333334e2c90c7d",
+      "id": "9a3e2a0f-619f-44e2-a0b2-7633214b6209",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "U.S. Republicans Unanimously Back Trump in Trade Dispute with Canada",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/gop-republicans-canada-tariffs-trump-9.7329848?cmp=rss",
+      "summary": "Republican members of the U.S. Congress have publicly thrown their support behind President Donald Trump's aggressive trade stance against Canada, placing blame on Prime Minister Mark Carney's government for the breakdown in negotiations. Following a closed-door meeting with U.S. Trade Representative Jamieson Greer, GOP lawmakers criticized Canada for allegedly exploiting the U.S. and rejecting what they deemed a 'generous' trade agreement. President Trump further escalated rhetoric by voicing grievances against Canada's banking policies, accusing them of restricting U.S. bank operations north of the border, intensifying the bilateral trade war.",
+      "graph": ["International Trade", "Canada-US Relations", "Trade Tariffs", "Economic Policy", "Diplomatic Conflict", "US Politics"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would likely highlight the dangers of protectionist trade wars on global stability and worker rights in both countries, advocating for multilateral cooperation and fair trade agreements over unilateral tariffs and nationalistic rhetoric. They may also critique the impact of such disputes on cross-border communities." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective examines the complex interplay of domestic political pressures and international trade negotiations. It would analyze the specific demands made by each side, the breakdown of talks, and the economic consequences of escalating tariffs, while also noting the rhetorical strategies employed by political leaders during periods of tension." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators in the U.S. firmly support President Trump's 'America First' trade agenda, viewing Canada's perceived unfair practices and resistance to demands as justifications for tariffs. They prioritize national economic interests, the protection of domestic industries, and a strong, assertive stance in international negotiations, dismissing Canadian objections as self-serving." }
+        },
+        "neutral": "U.S. Republican lawmakers are publicly endorsing President Trump's trade dispute with Canada, attributing the failure of negotiations to Ottawa and criticizing Canadian banking regulations, amidst ongoing tariff escalations."
+      }
+    },
+    {
+      "id": "f5e9c0c1-3f56-4b8c-8f43-1a2d5e7f12c3",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Liberal MP Lori Idlout Found in Breach of Conflict of Interest Code by Ethics Commissioner",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/ethics-floor-crossing-mp-lori-idlouts-9.7329774?cmp=rss",
+      "summary": "The Conflict of Interest and Ethics Commissioner, Konrad von Finckenstein, has concluded that Liberal MP Lori Idlout violated Parliament's conflict of interest code. The breach stems from Idlout expensing over $1,700 worth of purchases from her own business, Carvings Nunavut, for items designated as 'gifts given as a matter of protocol' to the House of Commons. Despite the finding, the Commissioner recommended no penalties, stating that Idlout's actions were 'errors of judgment and made in good faith' and that she promptly reimbursed the House upon realizing the error. Idlout, who crossed the floor to the Liberals in March 2026, acknowledged the findings and reiterated that she did not intend to further private interests.",
+      "graph": ["Parliamentary Ethics", "Conflict of Interest", "MP Conduct", "Public Accountability", "Federal Governance"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive commentators would emphasize the importance of rigorous ethical standards for public officials to maintain trust in democratic institutions. They might argue that even 'good faith' errors necessitate clear consequences to reinforce accountability and prevent the appearance of impropriety, advocating for stronger training and oversight mechanisms for MPs." },
+          "center": { "label": "Procedural Context", "synthesis": "A centrist viewpoint focuses on the independent investigation process and the Commissioner's role in upholding parliamentary ethics. It acknowledges the finding of a violation while also considering the mitigating factors such as the MP's intent, the value of the purchases, and the voluntary reimbursement, supporting the decision against imposing further sanctions based on the specific circumstances." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative analyses might express concern over the breach of ethical codes, regardless of intent, advocating for stricter enforcement and potentially questioning the leniency of the recommended non-sanction. They would emphasize the need for public officials to rigorously avoid any conflicts of interest to ensure fiscal responsibility and public confidence in government." }
+        },
+        "neutral": "Liberal MP Lori Idlout was found by the ethics commissioner to have violated Parliament's conflict of interest code by expensing over $1,700 in gifts from her own business to the House of Commons, though no sanctions were recommended due to her 'good faith' error and full reimbursement."
+      }
+    },
+    {
+      "id": "8c4a9d7d-30e4-42b7-84f9-2c6e6443c2c3",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Architect Moshe Safdie Foresees Major Transformation for 24 Sussex Drive",
+      "title": "Federal Government Invests $4.7 Billion in Domestic VIA Rail Car Production",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-major-changes-coming-to-24-sussex-dr-famed-architect-moshe-safdie-says/",
-      "summary": "Renowned architect Moshe Safdie is set to lead the jury for proposals concerning the restoration of 24 Sussex Drive, the Prime Minister's official residence. Safdie envisions a significant transformation that would expand the building's role beyond a private residence, signaling a comprehensive re-evaluation of its future and national significance.",
-      "graph": ["National Heritage", "Government Property", "Prime Minister's Residence", "Architectural Preservation", "Public Policy"],
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-spending-47-billion-on-300-made-in-canada-via-rail-cars/",
+      "summary": "Prime Minister Mark Carney announced a substantial federal investment of $4.7 billion to construct and maintain over 300 new passenger cars for VIA Rail in Thunder Bay and Quebec. This marks a pivotal shift towards domestic production, aiming to revitalize Canada's aging passenger rail fleet and create significant manufacturing jobs within the country. The initiative is presented as a strategic move to bolster Canadian industrial capacity, especially relevant amidst ongoing trade tensions and a broader effort to strengthen the national economy through internal investments.",
+      "graph": ["Infrastructure Investment", "Domestic Manufacturing", "Public Transportation", "Economic Development", "Federal Spending", "Job Creation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for a renovation that reflects contemporary Canadian values, potentially emphasizing accessibility, sustainability, and public engagement, while being mindful of public funds." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the logistical and historical aspects of the renovation, seeking a balanced approach that preserves heritage while updating functionality for modern governance." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes fiscal prudence and efficiency in government spending, questioning the scope and cost of ambitious renovations for a federal property." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would largely applaud this investment as a positive step towards strengthening public infrastructure, creating unionized jobs, and fostering Canadian industrial independence. They might advocate for further public ownership and expansion of rail services, emphasizing environmental benefits over private vehicle use." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the economic and logistical implications of such a large-scale project, examining the balance of federal spending, the strategic benefits of domestic production for supply chain resilience, and the long-term impact on public transportation efficiency and national manufacturing capabilities." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might support the 'made in Canada' aspect for economic nationalism and job creation, particularly during trade disputes. However, they might also scrutinize the cost, the role of government in manufacturing, and whether private sector alternatives or efficiencies could have delivered better value for taxpayer money." }
         },
-        "neutral": "Famed architect Moshe Safdie will oversee the jury for proposals to significantly transform 24 Sussex Drive, reimagining its role and use."
+        "neutral": "Prime Minister Mark Carney announced a $4.7 billion federal expenditure to manufacture over 300 new Via Rail cars domestically in Thunder Bay and Quebec, representing a strategic investment in Canadian public transportation infrastructure and manufacturing capabilities."
       }
     },
     {
-      "id": "e3ec920c89736c99c83141f02120b080",
+      "id": "1c742918-12e7-4f6c-9418-2e0f4f9f7d0a",
       "category": "Federalism",
-      "source": "The Globe and Mail, The Hub",
-      "title": "Alberta Referendum to Gauge Support for Immigration Policies and Potential Separation Vote",
+      "source": "The Globe and Mail",
+      "title": "Environmental Groups Warn Major Project Legislation Threatens Orca Survival",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-elections-alberta-mail-in-ballots-october-referendum/",
-      "summary": "Alberta is preparing for an October 19 referendum featuring ten questions, including significant items on provincial immigration policies and whether to initiate a binding vote on leaving Canada. With 225,000 mail-in ballot requests already received, polls indicate strong support for the immigration measures but less for separation. Premier Danielle Smith has publicly downplayed the separation aspect, focusing instead on other provincial powers, amidst ongoing federal-provincial tensions.",
-      "graph": ["Alberta Politics", "Provincial Sovereignty", "Federal-Provincial Relations", "Referendum", "Immigration Policy"],
+      "url": "https://www.theglobeandmail.com/canada/article-environmental-groups-warn-ottawas-major-projects-push-puts-whales-at/",
+      "summary": "Leading environmental organizations, including Environmental Defence and Ecojustice, are sounding alarms over proposed federal legislation designed to expedite major project approvals, asserting that it poses a critical threat to endangered species like the Southern Resident Orca. Their concerns focus on plans to establish 'economic zones' with ministerial powers for pre-approving projects and potential exemptions for certain developments from the 'jeopardy test' under the Species At Risk Act. These groups argue that increased shipping traffic and underwater noise, particularly in the vital Salish Sea habitat, will push the already dwindling whale population further towards extinction. The federal government has extended consultation periods due to significant criticism.",
+      "graph": ["Environmental Protection", "Species At Risk Act", "Major Project Review", "Federal Legislation", "Marine Conservation", "Economic Development"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses concern over the divisive nature of separation questions and the potential for xenophobic undertones in immigration debates, advocating for national unity and federal oversight." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the democratic process and the implications for federal-provincial balance, analyzing public opinion and the political strategies of the provincial government." },
-          "right": { "label": "Conservative Context", "synthesis": "Champions provincial autonomy and the right to self-determination, emphasizing Alberta's distinct interests and its right to challenge federal jurisdiction, particularly on immigration." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive groups staunchly oppose any weakening of environmental protections for economic gain, advocating for the prioritization of species conservation, stringent impact assessments, and Indigenous rights in land and resource decisions. They view the proposed changes as a step backward from environmental commitments." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral viewpoint analyzes the governmental attempt to balance economic development with environmental stewardship, acknowledging the industry's demand for streamlined approvals while recognizing the strong public and scientific opposition to changes in species protection. It focuses on the legislative process and the outcomes of public consultations." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives typically prioritize economic growth and resource development, advocating for regulatory efficiency to facilitate major projects. They might argue that existing environmental laws are overly cumbersome and that exemptions, with appropriate mitigation, are necessary to unlock economic potential and create jobs." }
         },
-        "neutral": "Alberta's upcoming referendum will address immigration and a potential separation vote, with public interest leaning more towards immigration policy amidst federal-provincial tensions."
+        "neutral": "Environmental organizations are warning that proposed federal legislation to fast-track major projects could endanger species such as the Southern Resident Orca, specifically citing concerns about 'economic zones' and exemptions from the Species At Risk Act."
       }
     },
     {
-      "id": "18f6580e03c004d3e2133e9b007d4b0f",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Canadian Counter-Tariffs on U.S. Imports Estimated to Cost Consumers $4 Billion",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/01/a-4-billion-hit-what-carneys-tariff-retaliation-could-cost-canadian-consumers/",
-      "summary": "An analysis suggests that Canada's upcoming counter-tariffs on approximately $30 billion worth of U.S. imports, set to take effect on September 8, could result in a nearly $4 billion cost to Canadian consumers. These tariffs, ranging from 15 to 50 percent, are a response to U.S. tariffs on Canadian exports and are expected to increase prices for various goods, impacting households and cascading through supply chains.",
-      "graph": ["Trade War", "Tariffs", "Economic Impact", "Consumer Prices", "Canada-US Relations", "Fiscal Policy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While acknowledging the need for trade defense, questions the burden on Canadian consumers and calls for alternative strategies that protect workers and promote fair trade." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides an objective assessment of the economic costs and benefits of the tariff measures, analyzing their effectiveness in influencing U.S. behavior and supporting affected industries." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes the retaliatory tariffs for their negative impact on Canadian consumers and businesses, advocating for free market principles and rapid de-escalation of trade disputes." }
-        },
-        "neutral": "Canadian counter-tariffs against U.S. imports are projected to impose a $4 billion cost on Canadian consumers, impacting prices across various goods."
-      }
-    },
-    {
-      "id": "b6a71e84e56598c1737e4fb3e414c278",
+      "id": "e4f50a6a-d227-418b-871d-55e2d6b7c8d9",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Federal Government's Carbon Capture Investment Faces Escalating Costs and Environmental Risks",
+      "title": "Canada's Export Ambitions Hampered by Lagging Port Infrastructure, Study Reveals",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/02/ottawa-is-betting-pipeline-revenue-on-a-carbon-capture-project-whose-price-keeps-climbing/",
-      "summary": "The Canadian government is committing pipeline revenue to the Pathways carbon capture project, an initiative now facing mounting costs (from $16.5B to $20-30B) and environmental concerns outlined in a Fraser Institute study. The project, intended to reduce emissions from oil sands, is the largest of its kind globally, but its scale raises questions about seismic activity, groundwater contamination, and its long-term climate benefits given potential leakage rates.",
-      "graph": ["Carbon Capture", "Environmental Policy", "Energy Projects", "Federal Investment", "Fiscal Risks", "Climate Change"],
+      "url": "https://thehub.ca/2026/09/03/canada-wants-to-double-non-u-s-exports-its-biggest-port-ranks-389th-out-of-403-in-the-world/",
+      "summary": "Despite a recent shift towards diversifying exports away from the U.S., Canada's ambitions are being undermined by a severely underdeveloped transportation infrastructure, according to a Transport Canada report. The study highlights that Canadian ports and railways lag significantly in productivity, automation, and regulatory efficiency, with Canada's largest port ranking 389th out of 403 globally. This critical shortfall, coupled with increasing public sector employment and declining business investment, suggests that the federal goal of doubling non-U.S. exports is unsustainable without substantial modernization and a robust national economic growth strategy. The report recommends urgent action, including potentially privatizing port operations, to address these systemic issues.",
+      "graph": ["Trade Diversification", "Infrastructure Investment", "Economic Competitiveness", "Federal Policy", "Supply Chain Efficiency", "Productivity"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the continued reliance on fossil fuel industry solutions, advocating for direct investment in renewable energy and questioning the efficacy and environmental footprint of large-scale carbon capture." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the economic and technical feasibility of carbon capture technologies as part of a broader climate strategy, balancing industrial support with environmental outcomes." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports carbon capture as a means to reconcile energy production with environmental goals, but raises concerns about escalating public costs and bureaucratic inefficiencies that hinder market-driven solutions." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would advocate for strategic public investment and planning to modernize infrastructure, emphasizing job creation and equitable economic development. They might critique the over-reliance on private sector solutions and call for stronger government oversight to ensure national economic goals are met sustainably." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the objective data presented in the Transport Canada report, highlighting the empirical evidence of Canada's infrastructure deficiencies. It would analyze the policy implications of these findings, seeking balanced approaches that combine public investment, regulatory reform, and private sector engagement to improve national competitiveness." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators would likely use the report's findings to advocate for deregulation, reduced government spending, and increased private sector involvement, including privatization of assets like ports. They would attribute Canada's lagging productivity to government inefficiency, high taxes, and excessive bureaucracy, calling for policies that stimulate business investment and free market competition." }
         },
-        "neutral": "A federal carbon capture project, Pathways, faces criticism over escalating costs and environmental risks, despite receiving pipeline revenue investment."
+        "neutral": "A Transport Canada report reveals that Canada's transportation infrastructure, including its major ports, significantly underperforms global standards in efficiency and productivity, posing a substantial challenge to the federal goal of doubling non-U.S. exports despite recent shifts in trade patterns."
+      }
+    },
+    {
+      "id": "2a3d0b1c-5e8f-4670-a1b2-9c4d3e8f7a6b",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Ontario Premier Ford's $25K Lake Ontario Sign Becomes Symbol of Trade War Response",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/trump-ford-lake-ontario-sign-25000",
+      "summary": "Ontario Premier Doug Ford's decision to erect a $25,000 sign declaring 'Lake Ontario is not Lake America' in Winona, Ont., has drawn criticism from the Canadian Taxpayers Federation as a costly and symbolic gesture amidst Canada's trade dispute with the United States. The sign is a direct response to U.S. President Donald Trump's executive order renaming Lake Ontario as 'Lake America' on U.S. federal maps. This provincial action highlights the intergovernmental complexities and heightened political tensions surrounding the Canada-U.S. trade war, demonstrating how provincial leaders are engaging with federally managed international disputes.",
+      "graph": ["Intergovernmental Relations", "Trade War", "Provincial Politics", "Symbolic Diplomacy", "Canada-US Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices might critique the cost of the sign as a misallocation of public funds, arguing that resources should be directed towards more substantive policy responses or social programs. They may also emphasize the need for unified national strategy in international disputes over provincial grandstanding." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would analyze the sign as a political communication tactic within a complex intergovernmental and international dispute. It would examine the public reception, the fiscal implications, and the effectiveness of such symbolic gestures in conveying a message to a foreign head of state, particularly in the context of provincial jurisdiction." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative supporters might view the sign as a necessary and patriotic act of defiance, asserting provincial and national sovereignty against perceived American overreach. While the Taxpayers Federation criticizes the cost, some conservatives might see the expenditure as justified to send a strong political message, reinforcing national pride and challenging foreign aggression in trade or symbolic acts." }
+        },
+        "neutral": "Ontario Premier Doug Ford's installation of a $25,000 sign asserting 'Lake Ontario is not Lake America' is seen as a provincial response to U.S. President Trump's symbolic actions amidst the Canada-U.S. trade war, drawing criticism for its cost but underscoring intergovernmental tensions."
+      }
+    },
+    {
+      "id": "c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Carney Refutes U.S. Claims on Trade Talks Breakdown, Demands Serious Engagement",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/carney-rejects-u-s-claim-that-canadian-politics-ended-trade-talks",
+      "summary": "Prime Minister Mark Carney has publicly rejected the U.S. assertion that Canadian domestic politics were responsible for the collapse of recent trade negotiations between the two countries. Carney stated that Canada is prepared to resume talks and strike a deal once the Americans are ready to engage 'seriously,' calling for an end to what he described as 'throwing shade' and 'doing memes.' This firm declaration comes amidst escalating trade tensions and tariffs, with Carney emphasizing that Canada will not accept terms that would 'hollow out' core Canadian industries, such as the automotive sector, insisting on 'mutually beneficial' elements in any future agreement.",
+      "graph": ["International Trade", "Canada-US Relations", "Trade Negotiations", "Economic Sovereignty", "Federal Diplomacy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would likely support Carney's defense of Canadian industrial sovereignty and rejection of aggressive foreign demands, emphasizing the importance of protecting domestic industries and workers from external pressures. They might call for a more robust industrial policy to strengthen Canada's economic independence." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the diplomatic rhetoric and the practical barriers to resuming trade negotiations. It would assess the credibility of both sides' claims regarding the breakdown of talks and the conditions necessary for constructive engagement, recognizing the political pressures on leaders in both countries." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators might commend Carney's firm stance against perceived U.S. overreach in trade. However, they might also scrutinize the effectiveness of Canada's negotiating strategy and whether the breakdown in talks could have been avoided, potentially advocating for a different approach to trade relations that prioritizes market access and reduced trade barriers." }
+        },
+        "neutral": "Prime Minister Mark Carney publicly denied U.S. claims that Canadian domestic politics caused the recent trade talks to collapse, asserting that Canada is ready to re-engage when the U.S. adopts a more serious and less confrontational approach to negotiations."
       }
     }
   ],
   "charter": [
     {
-      "id": "e28989e5a1b55c56c703197f81f147a4",
+      "id": "a9e8f7c6-b5d4-3a21-0987-6543210fedcb",
       "category": "Charter",
-      "source": "National Post (Opinion)",
-      "title": "Opinion: Canada Research Chairs Program Accused of Anti-White Male Discrimination",
+      "source": "National Post",
+      "title": "Federal Job Postings Allegedly Prioritize Race, Raising Equality Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/eric-kaufmann-it-costs-canada-millions-to-discriminate-against-white-male-academics",
-      "summary": "An opinion piece argues that Canada's diversity-based recruitment policies, specifically within the Canada Research Chairs program, result in discrimination against white male academics. The author contends that these policies are costly and redirect resources to groups with lower research impact, raising questions about meritocracy and equality under the Charter.",
-      "graph": ["Discrimination", "Equity Policies", "Canada Research Chairs", "Academic Freedom", "Equality Rights"],
+      "url": "https://nationalpost.com/opinion/key-government-jobs-such-as-safety-inspectors-and-intelligence-analysts-being-prioritized-by-race",
+      "summary": "An opinion piece in the National Post highlights a report's findings that 42% of federal government job postings in Canada include 'explicit or potential prioritization based on group identity,' specifically mentioning race. The article expresses concern that these hiring practices extend to critical roles like safety inspectors and intelligence analysts, implying a potential conflict with fundamental principles of meritocracy and raising questions about equality rights under the Charter. The piece suggests that such policies may lead to a workforce selected on factors other than qualifications, potentially compromising the effectiveness and fairness of the public service.",
+      "graph": ["Employment Equity", "Public Service Hiring", "Equality Rights", "Merit Principle", "Systemic Discrimination", "Charter Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports equity, diversity, and inclusion initiatives as essential for addressing systemic barriers and historical discrimination in academia, advocating for broader representation." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the balance between merit, diversity goals, and potential unintended consequences of equity policies, advocating for transparent and fair processes." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques policies that it views as \"reverse discrimination,\" emphasizing merit-based selection and warning against policies that could lead to intellectual and financial costs, potentially infringing on Charter equality rights." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely support employment equity initiatives, arguing that 'prioritization by race' is a necessary measure to address historical and systemic discrimination and foster a representative public service. They would emphasize the goal of substantive equality over formal equality, even if it means temporary differential treatment." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the legal and policy frameworks governing federal hiring practices, examining how employment equity goals are intended to be balanced with merit-based principles. It would investigate whether the reported practices align with the intent of anti-discrimination legislation and the Charter, seeking clarity on implementation guidelines." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative critics would strongly oppose any hiring practices that explicitly prioritize candidates based on race, arguing that it constitutes reverse discrimination and undermines the principle of meritocracy, potentially violating Charter equality rights. They would emphasize that qualifications and individual merit should be the sole criteria for public service roles." }
         },
-        "neutral": "An opinion piece alleges that diversity policies in the Canada Research Chairs program discriminate against white male academics, raising questions of meritocracy and Charter equality rights."
-      }
-    },
-    {
-      "id": "7817e99709d73d6118335ed56a8fb925",
-      "category": "Charter",
-      "source": "National Post (Opinion)",
-      "title": "Lawyers Petition to Revoke Accreditation of TMU Law School Amid Antisemitism Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/marty-york-lawyers-bid-to-block-tmu-law-grads-from-practicing-in-ontario",
-      "summary": "An opinion column reports on a petition by lawyers to the Law Society of Ontario, urging it to withdraw the accreditation of Toronto Metropolitan University's (TMU) law school. This action follows a \"damning report\" documenting alleged rampant antisemitism at the institution, raising serious questions about the school's environment, academic standards, and whether its graduates can meet the professional and ethical requirements for practicing law in Ontario, with implications for Charter-protected freedoms and equality.",
-      "graph": ["Legal Education", "Professional Standards", "Antisemitism", "Academic Environment", "Accreditation", "Charter Rights"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of safe and inclusive learning environments, arguing that institutions must address systemic discrimination while protecting academic freedom within ethical bounds." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on due process, thorough investigation of allegations, and the role of regulatory bodies in ensuring both academic quality and professional ethical standards." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes maintaining rigorous professional standards and combating antisemitism, viewing the allegations as a failure of institutional governance and a threat to the integrity of the legal profession." }
-        },
-        "neutral": "Lawyers are petitioning to revoke TMU Law School's accreditation due to reported antisemitism, prompting debate on academic standards, ethical practice, and Charter freedoms."
-      }
-    },
-    {
-      "id": "97e68e4ed1d0e5153b6d92f9e422f183",
-      "category": "Charter",
-      "source": "CanLII (via Slaw.ca)",
-      "title": "Supreme Court Rejects Judicial Review of Conflict of Interest Commissioner's Report (Democracy Watch v. Canada)",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/02/wednesday-whats-hot-on-canlii-august-2026/",
-      "summary": "The Supreme Court of Canada (2026 SCC 28) dismissed an application for judicial review brought by Democracy Watch against the Conflict of Interest and Ethics Commissioner's report, which had found no contravention of the Conflict of Interest Act by the then-Prime Minister. The Court's decision, affirming lower court rulings, cited the existence of adequate alternative political remedies, thereby limiting judicial intervention in certain matters of public official accountability.",
-      "graph": ["Judicial Review", "Conflict of Interest", "Governmental Accountability", "Administrative Law", "Supreme Court of Canada"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses concern that limiting judicial review may weaken government accountability and public trust, advocating for stronger oversight mechanisms for public officials." },
-          "center": { "label": "Procedural Context", "synthesis": "Upholds the principle of judicial restraint and the importance of alternative remedies, reinforcing the separation of powers while emphasizing the proper scope of judicial review in administrative matters." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports judicial caution against overreach into political processes, stressing the importance of parliamentary and political accountability mechanisms as primary." }
-        },
-        "neutral": "The Supreme Court dismissed Democracy Watch's application for judicial review of a Conflict of Interest Commissioner's report, citing sufficient alternative political remedies for accountability."
+        "neutral": "An opinion piece in the National Post highlights a report's finding that a significant portion of federal job postings in Canada prioritize candidates based on 'group identity,' including race, raising concerns about its application to critical roles such as safety and intelligence positions."
       }
     }
   ],
-  "indigenous": [
-    {
-      "id": "f5f4b2323e001dfa52140409a8f2762b",
-      "category": "Indigenous",
-      "source": "Global News",
-      "title": "Alberta Premier Corrects Omission of First Nations from Official Alberta Day Statement",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12044151/danielle-smith-alberta-day-statements/",
-      "summary": "Alberta's Premier faced criticism and subsequently corrected an official Alberta Day statement that initially omitted mention of Indigenous Peoples. The provincial government issued an updated version within an hour of the original release, acknowledging the error and reinforcing its commitment to reconciliation and inclusive representation.",
-      "graph": ["Indigenous Relations", "Alberta Government", "Reconciliation", "Public Statements", "Cultural Recognition"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the ongoing struggle for Indigenous recognition and the need for greater vigilance from government to avoid such oversights, emphasizing the importance of substantive reconciliation." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the incident as an unfortunate error that was promptly corrected, underscoring the importance of clear communication and cultural sensitivity in official government pronouncements." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on the administrative nature of the error and the quick rectification, suggesting it was an isolated incident rather than a systemic issue." }
-        },
-        "neutral": "Alberta's Premier corrected an official statement after criticism for omitting First Nations, emphasizing reconciliation and inclusive representation."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "df656a8fb726cf94c34a211335272379",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Police Investigate Murder of Employee Tied to Ex-MP Raj Grewal Amid Fraud Accusations",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/raj-grewal-lawsuits",
-      "summary": "Authorities are conducting a murder investigation into the death of an employee associated with former Liberal Member of Parliament, Raj Grewal. This revelation emerged during a recent cross-examination in a lawsuit against Grewal, who is currently facing accusations of fraud, adding a complex layer to ongoing legal and criminal proceedings.",
-      "graph": ["Murder Investigation", "Fraud Allegations", "Political Figures", "Criminal Justice", "Legal Proceedings"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for thorough investigation into all connections, including any potential links to political figures and financial misconduct, ensuring justice for the victim." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of the police investigation and legal processes, maintaining impartiality regarding the public figures involved until facts are established." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the potential for scandal involving political figures and underscores the importance of holding all individuals, regardless of their past position, accountable under the law." }
-        },
-        "neutral": "Police are investigating the murder of an employee linked to former MP Raj Grewal, who is also facing fraud accusations, deepening legal and criminal complexities."
-      }
-    },
-    {
-      "id": "e229c9ef89ef7191244e8c56e3b2e597",
+      "id": "b8c7a6d5-e4f3-2109-8765-43210fedcba9",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Football Player Under Investigation After Allegedly Causing Teammate Brain Hemorrhage",
+      "title": "Ontario Man Charged in $1 Million Romance Scam Targeting Five Women",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/sports/football-player-sends-teammate-playing-better-to-hospital-with-brain-bleed",
-      "summary": "A football player is under investigation following an incident where he allegedly assaulted a teammate, resulting in the victim being hospitalized with a brain bleed, concussion, and strained AC joint. An affidavit detailing the injuries has been filed, initiating a criminal investigation into the sports-related violence.",
-      "graph": ["Assault", "Sports Violence", "Criminal Investigation", "Brain Injury", "Player Misconduct"],
+      "url": "https://torontosun.com/news/local-news/ontario-man-charged-bilking-women-1-m-romance-scam",
+      "summary": "An Ontario resident has been charged with multiple counts of fraud after allegedly defrauding five women of over $1 million through a sophisticated romance scam. The charges are the culmination of 'Project Maroon,' a police investigation conducted between 2020 and 2025. The suspect reportedly exploited romantic relationships to manipulate his victims into transferring significant sums of money, underscoring the severe financial and emotional toll of online romance fraud and the increasing efforts by law enforcement to combat such intricate financial crimes.",
+      "graph": ["Fraud", "Romance Scam", "Criminal Charges", "Law Enforcement Investigation", "Financial Crime", "Victim Protection"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for accountability within sports organizations and addresses underlying issues of aggression and player safety, advocating for stricter codes of conduct." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the facts of the investigation and the legal process, emphasizing fairness for both parties while upholding public safety and sports integrity." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on individual responsibility and the consequences of criminal actions, while potentially discussing the pressures and competitive nature of professional sports." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would emphasize the vulnerability of victims and the psychological manipulation involved in romance scams, advocating for stronger victim support services, public awareness campaigns, and policies to better protect individuals from financial exploitation." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective focuses on the legal process, the evidence gathered by law enforcement, and the charges laid. It highlights the importance of thorough investigation in complex fraud cases and ensures due process for the accused within the criminal justice system." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators would likely stress the importance of personal vigilance against scams and the need for strict penalties for financial criminals to deter such predatory behavior. They would support law enforcement's efforts to prosecute fraud vigorously to protect citizens and uphold economic integrity." }
         },
-        "neutral": "A football player is under criminal investigation for allegedly assaulting a teammate, causing a brain bleed and other serious injuries."
+        "neutral": "An Ontario man faces charges for allegedly defrauding five women of over $1 million through a romance scam, as revealed by a multi-year police investigation."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "921869f3a8b418a06316f28b4d8a1768",
-      "category": "Immigration",
-      "source": "Toronto Sun",
-      "title": "Chinese National in Canada Charged by FBI on Suspicion of Photographing Military Aircraft",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/provincial/chinese-national-in-canada-charged-by-the-fbi",
-      "summary": "A Chinese national residing in Canada has been charged by the FBI on suspicion of illegally photographing U.S. military aircraft. Border agents discovered numerous military aircraft photos on the individual's phone, who claimed they were for a flight radar website. This incident raises questions about potential espionage, international law enforcement cooperation, and the individual's immigration status in Canada, adding a layer of international complexity.",
-      "graph": ["Immigration Status", "International Law Enforcement", "Espionage Allegations", "Chinese National", "FBI Charges"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of due process and proper legal representation for foreign nationals, questioning the extent of international cooperation in such cases and avoiding xenophobic generalizations." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports factually on the charges, the legal process, and the implications for Canada's relationship with both the U.S. and China, while highlighting the intricacies of international jurisdiction." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about national security and potential foreign interference, advocating for stricter vetting of foreign nationals and robust enforcement against alleged espionage activities." }
-        },
-        "neutral": "A Chinese national in Canada has been charged by the FBI for allegedly photographing U.S. military aircraft, leading to concerns about espionage and international legal implications for their immigration status."
-      }
-    }
-  ]
+  "immigration": []
 }
