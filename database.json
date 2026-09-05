@@ -1,239 +1,278 @@
 {
   "federalism": [
     {
-      "id": "278c775a6c38b2f901a1c93a0b411d51",
-      "category": "Federalism",
-      "source": "rabble.ca",
-      "title": "Analysis of Canada's Post-US Trade Deal Economic Path",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/columnists/canada-wants-its-economy-back/",
-      "summary": "This article from a left-leaning perspective questions whether the recent collapse of trade negotiations with the U.S. presents Canada with an opportunity to pursue a more independent and assertive economic strategy, potentially fostering national economic autonomy rather than continuing a reactive stance to U.S. demands.",
-      "graph": ["Trade Policy", "Economic Autonomy", "International Relations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Proponents of a more independent economic path view the trade breakdown as a chance to shift away from dependency on the U.S. and pursue policies that prioritize Canadian interests and social democratic values, potentially through greater state intervention or diversification beyond traditional partners." },
-          "center": { "label": "Procedural Context", "synthesis": "This piece prompts consideration of Canada's long-term economic strategy in light of disrupted trade relations, examining the procedural and policy options for national economic development and trade diversification, regardless of ideological leanings." },
-          "right": { "label": "Conservative Context", "synthesis": "From a market-oriented or decentralist view, the breakdown in trade highlights risks of protectionism and could be seen as an opportunity for Canada to aggressively pursue other free trade agreements or domestic deregulation, but the article's tone is more about nationalistic economic assertion, which may conflict with pure market principles." }
-        },
-        "neutral": "The article explores the potential for Canada to redefine its economic trajectory following the failure of trade talks with the U.S."
-      }
-    },
-    {
-      "id": "e30573e04a500b4687d834947700e470",
+      "id": "1d8b6e7f-c9a1-4e2b-8f3c-5d7a0b1e2f3d",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Climate Report Warns of 5°C Warming Under Current Policies",
+      "title": "Canada-U.S. Border Towns Express Concern Over Permanent Damage from Trade Disputes and Lake Ontario Renaming",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/climate-change-impact-canada-report-9.7331893?cmp=rss",
-      "summary": "A new federal government report, 'Canada's Changing Climate Report' (Second Edition), warns that under current global climate policies, Canada faces a projected 5°C temperature increase by 2081-2100. This warming will lead to significant impacts such as widespread glacier disappearance, intensified droughts, and increased flash flooding, particularly in the Arctic where winter warming could exceed 10°C.",
-      "graph": ["Climate Change", "Environmental Policy", "Federal Report", "Arctic Warming"],
+      "url": "https://www.cbc.ca/news/politics/canada-us-trade-war-lake-ontario-lake-america-upstate-new-york-9.7333151?cmp=rss",
+      "summary": "Residents and officials in U.S. border towns in upstate New York are voicing fears that the escalating trade dispute and the U.S. President's decision to rename Lake Ontario as 'Lake America' could inflict lasting damage on their close ties with Canada. These communities, heavily reliant on cross-border interaction, anticipate severe economic and social detriment from the heightened bilateral tensions.",
+      "graph": ["Canada-US Relations", "Trade War", "Border Communities", "Economic Impact", "Geopolitical Naming Dispute"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This report underscores the urgent need for more aggressive climate action and systemic changes to reduce fossil fuel dependence, advocating for stronger regulations and investments in renewable energy to mitigate severe environmental and social consequences for all Canadians and globally." },
-          "center": { "label": "Procedural Context", "synthesis": "The report provides a scientific synthesis informing federal climate policy development and adaptation strategies. It highlights the importance of evidence-based decision-making in long-term national planning for environmental security and public safety, assessing different future scenarios based on global emission paths." },
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging climate change realities, a conservative perspective might emphasize economic feasibility in policy responses, perhaps favouring market-based solutions, technological innovation, and provincial autonomy in resource management over broad federal mandates, while also stressing preparedness for natural disasters." }
+          "left": { "label": "Progressive Context", "synthesis": "Critique of nationalistic policies that disregard local cross-border communities, emphasizing social and economic disruption for ordinary citizens." },
+          "center": { "label": "Procedural Context", "synthesis": "Analysis of the practical and diplomatic challenges posed by unilateral actions (e.g., renaming a shared lake) and trade protectionism on established international relationships and regional economies." },
+          "right": { "label": "Conservative Context", "synthesis": "Focus on the economic implications of trade disputes, concerns about potential overreach in foreign policy, and the need for stable business environments." }
         },
-        "neutral": "A federal report outlines projections of significant temperature increases and severe climate impacts across Canada if current global climate policies persist, necessitating national adaptation and mitigation strategies."
+        "neutral": "Unified objective summary statement."
       }
     },
     {
-      "id": "e2d42d325785a9df6680486dd6e9690f",
+      "id": "2e9c7f8g-d0b2-4f3c-9g4d-6e8b1c3d4e5f",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Prime Minister Pledges Further Investments to Combat Worsening Wildfire Seasons",
+      "title": "Michigan Democrat Aims to Elevate Canada-U.S. Tariff War as Midterm Election Issue",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/mark-carney-wildfires-climate-change-9.7332739?cmp=rss",
-      "summary": "Prime Minister Mark Carney has committed to new federal investments in wildfire early warning and detection systems, acknowledging Ontario's worst wildfire season on record. He emphasized the need for increased funding for firefighting aircraft and equipment, and enhanced collaboration with Indigenous communities on both traditional and modern preparedness methods, following the destruction of two First Nation communities.",
-      "graph": ["Wildfire Response", "Climate Adaptation", "Federal Funding", "Indigenous Collaboration"],
+      "url": "https://www.cbc.ca/news/politics/michigan-reaction-tariffs-canada-9.7333475?cmp=rss",
+      "summary": "A Michigan Democrat is attempting to make the ongoing U.S. tariff war with Canada a central issue in the upcoming midterm elections. Michigan, Canada's largest export market among U.S. states, has been significantly impacted by these trade disputes, leading to varied public opinion among its residents regarding the economic strategy.",
+      "graph": ["Canada-US Trade", "Tariffs", "US Midterm Elections", "Economic Policy", "Michigan Economy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This commitment is seen as a necessary but perhaps insufficient step towards climate justice and environmental protection, calling for deeper systemic changes to address root causes of climate change and greater recognition of Indigenous land management practices in wildfire prevention." },
-          "center": { "label": "Procedural Context", "synthesis": "The Prime Minister's announcement outlines a federal strategy for national disaster response and climate change adaptation, focusing on intergovernmental coordination, technological investment, and community engagement, particularly with First Nations, to enhance resilience against increasing wildfire severity." },
-          "right": { "label": "Conservative Context", "synthesis": "While supporting practical measures for emergency response, a conservative viewpoint might critique the efficiency of past government spending and emphasize individual responsibility in fire prevention. It may also advocate for provincial leadership in resource management and cost-effective solutions over broad federal mandates." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlighting the impact of tariffs on working-class Americans and advocating for trade policies that prioritize employment stability and consumer affordability over protectionist measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Examining the political strategy behind linking trade policy to domestic elections and assessing the economic data on tariff impacts in key states." },
+          "right": { "label": "Conservative Context", "synthesis": "Support for trade protectionism as a means to protect domestic industries, while also noting potential electoral risks if economic impacts are perceived negatively by voters." }
         },
-        "neutral": "The Prime Minister announced federal investments in wildfire prevention and response, including enhanced detection and support for Indigenous communities, in response to severe wildfire seasons."
+        "neutral": "Unified objective summary statement."
       }
     },
     {
-      "id": "b328a99478440d4f6c1f109b8c2c8f61",
+      "id": "3f0d8g9h-e1c3-5g4d-0h5e-7f9c2d4e5f6g",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Prime Minister Carney Rejects US Officials' Rationale for Trade Deal Collapse",
+      "title": "Federal Government Advances Roberts Bank Terminal 2 Port Expansion Amidst Environmental Opposition",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-trump-greer-lutnick-comments-9.7331198?cmp=rss",
-      "summary": "Prime Minister Mark Carney publicly rejected explanations from \"appointed, unelected\" U.S. cabinet members regarding the collapse of recent trade talks, maintaining that Canada withdrew due to unacceptable last-minute U.S. demands concerning Canada's ability to sign trade deals, cultural protections for the French language, and the auto industry. U.S. officials, conversely, attributed the breakdown to Canadian political maneuvering.",
-      "graph": ["International Trade", "Canada-US Relations", "Diplomacy", "Trade Negotiations"],
+      "url": "https://www.cbc.ca/news/politics/roberts-bank-terminal-expansion-notice-potential-listing-9.7329825?cmp=rss",
+      "summary": "The Canadian federal government is moving to potentially designate the Roberts Bank Terminal 2 port expansion in Metro Vancouver as a 'project of national interest.' This designation would expedite its approval process, but environmental groups are raising serious concerns that such fast-tracking could bypass critical environmental protections for the Fraser River Estuary, a vital habitat for at-risk species like orcas and salmon, despite previous acknowledgments of significant adverse environmental effects.",
+      "graph": ["Port Expansion", "Environmental Assessment", "Species at Risk", "Federal Infrastructure", "National Interest Designation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This stance is praised for defending Canadian sovereignty and cultural values against aggressive U.S. trade tactics, reinforcing the need for Canada to pursue independent foreign and trade policies that protect its unique national identity and social programs." },
-          "center": { "label": "Procedural Context", "synthesis": "The Prime Minister's comments underscore the complexities of international trade negotiations, emphasizing adherence to established red lines and national interests in diplomatic engagements, while navigating public discourse and differing narratives surrounding such breakdowns." },
-          "right": { "label": "Conservative Context", "synthesis": "While perhaps agreeing with a strong national stance in trade, a conservative critique might question the overall negotiation strategy and its economic implications, focusing on securing market access and minimizing trade barriers rather than perceived political posturing that could harm economic growth." }
+          "left": { "label": "Progressive Context", "synthesis": "Strong opposition to undermining environmental protections for economic development, emphasizing the irreversible harm to ecosystems and endangered species for corporate gain." },
+          "center": { "label": "Procedural Context", "synthesis": "Focus on the legal and procedural implications of national interest designations, balancing economic benefits against environmental impact assessments and regulatory frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocacy for economic growth and infrastructure development, supporting measures to expedite projects deemed vital for national trade and economic sovereignty, even if it involves streamlining regulatory processes." }
         },
-        "neutral": "Prime Minister Carney dismissed U.S. officials' claims about the reasons for the breakdown in Canada-U.S. trade talks, reiterating Canada's commitment to its red lines on cultural protections and economic sectors."
+        "neutral": "Unified objective summary statement."
       }
     },
     {
-      "id": "7642646393b8908f51a704e67d264f26",
+      "id": "4g1e9h0i-f2d4-6h5e-1i6f-8g0d3e5f6g7h",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Ottawa Establishes Digital Transformation Canada to Modernize Public Services",
+      "title": "Federal Conservatives Launch 'Conservatives for Canada' Campaign to Oppose Alberta Separatism Referendum",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/ottawa-digital-public-service-artificial-intelligence-9.7331731?cmp=rss",
-      "summary": "The federal government is launching \"Digital Transformation Canada,\" a new agency led by former Google CFO Patrick Pichette. This initiative aims to improve public access to government services, streamline technology procurement, and foster Canadian AI and digital companies, seeking to reduce duplication and enhance digital sovereignty and security across federal operations.",
-      "graph": ["Digital Government", "Public Service Modernization", "Artificial Intelligence", "Government Procurement"],
+      "url": "https://www.cbc.ca/news/canada/calgary/conservatives-for-canada-campaign-alberta-referendum-9.7333344?cmp=rss",
+      "summary": "The federal Conservative Party has initiated a 'Conservatives for Canada' campaign, aiming to mobilize supporters in Alberta to vote against separation in the upcoming provincial referendum. Party leader Pierre Poilievre argues that Alberta's grievances lie with the current federal Liberal government's policies, not with Canada itself, and emphasizes the need for national unity amidst growing provincial frustrations.",
+      "graph": ["Alberta Referendum", "National Unity", "Federal-Provincial Relations", "Conservative Party Strategy", "Separation Movement"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This move is welcomed for its potential to improve equity in access to services and leverage technology for social good, though concerns may be raised about data privacy, algorithmic bias, and ensuring inclusive digital literacy and equitable access for all citizens." },
-          "center": { "label": "Procedural Context", "synthesis": "The establishment of this agency reflects a significant administrative restructuring and policy focus on enhancing governmental efficiency, technological integration, and strategic investment in the digital economy to better serve citizens and improve federal operations." },
-          "right": { "label": "Conservative Context", "synthesis": "While potentially supporting efficiency and innovation, a conservative perspective might scrutinize the cost, scope, and potential bureaucratic bloat of a new agency, advocating for market-driven solutions and minimal government intervention where possible, and emphasizing robust cybersecurity." }
+          "left": { "label": "Progressive Context", "synthesis": "Analysis of how economic grievances and political polarization can fuel separatist movements, advocating for inclusive federal policies that address regional disparities and concerns." },
+          "center": { "label": "Procedural Context", "synthesis": "Focus on the constitutional and political processes surrounding referendums on provincial sovereignty, assessing the implications for national governance and federal-provincial balance of power." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasis on national unity and maintaining the existing federation, while also acknowledging and seeking to address the perceived overreach or detrimental policies of the federal government that contribute to provincial discontent." }
         },
-        "neutral": "The federal government has created \"Digital Transformation Canada\" to modernize public services, enhance technology procurement, and support the domestic digital and AI sectors."
+        "neutral": "Unified objective summary statement."
       }
     },
     {
-      "id": "77e3fb28b4931a7353f069f041b6c7a7",
+      "id": "5h2f0i1j-g3e5-7i6f-2j7g-9h1e4f6g7h8i",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Federal Government Awards $4.7 Billion Via Rail Contract for Canadian-Built Cars",
+      "title": "Parti Québécois Leader Alleges Federal Interference in Quebec Provincial Election",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/mark-carney-via-rail-cars-9.7331310?cmp=rss",
-      "summary": "The federal government announced a $4.7 billion contract with Alstom Canada to acquire and maintain 313 new Via Rail passenger cars. This marks the first time in four decades that such cars will be entirely built in Canada. The project, part of a \"Buy Canadian Policy\" push, is expected to generate $1.6 billion in economic benefits and support nearly 700 jobs in Ontario and Quebec.",
-      "graph": ["Federal Procurement", "Infrastructure Investment", "Buy Canadian Policy", "Economic Development"],
+      "url": "https://www.cbc.ca/news/canada/montreal/psppp-interference-allegations-quebec-9.7333292?cmp=rss",
+      "summary": "Paul St-Pierre Plamondon, leader of the Parti Québécois, has expressed concern that the federal government is actively meddling in the Quebec provincial election. He cites recent federal funding announcements and alleged coordination with the incumbent Coalition Avenir Québec (CAQ) government as unprecedented interference, suggesting a federal motive to prevent a sovereigntist party from taking power.",
+      "graph": ["Quebec Election", "Federal Interference", "Sovereignty Movement", "Federal-Provincial Funding", "Political Allegations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This investment is lauded for creating Canadian jobs and strengthening domestic manufacturing, aligning with goals of economic nationalism and public investment in essential services, particularly in regions like Thunder Bay and La Pocatière, fostering a robust domestic industrial base." },
-          "center": { "label": "Procedural Context", "synthesis": "This announcement details a significant federal expenditure and procurement strategy aimed at modernizing national infrastructure, stimulating regional economies, and enacting 'Buy Canadian' policy through a large-scale public transit project to replace an aging fleet." },
-          "right": { "label": "Conservative Context", "synthesis": "While local job creation is positive, concerns might be raised about potential cost inefficiencies or protectionist premiums associated with 'Buy Canadian' policies, advocating for competitive bidding and economic pragmatism to ensure optimal value for taxpayer money and broader market integration." }
+          "left": { "label": "Progressive Context", "synthesis": "Critique of perceived federal overreach or political tactics that could undermine democratic processes at the provincial level, especially concerning the legitimacy of regional political movements." },
+          "center": { "label": "Procedural Context", "synthesis": "Examination of the conventions and legalities of federal engagement during provincial elections, evaluating the evidence for and against claims of interference and its potential impact on electoral fairness." },
+          "right": { "label": "Conservative Context", "synthesis": "Concerns about federal government actions potentially undermining provincial autonomy or using public funds for partisan purposes, while also supporting federal initiatives that reinforce national unity." }
         },
-        "neutral": "The federal government has awarded a $4.7 billion contract to Alstom Canada for the domestic production of 313 new Via Rail passenger cars, stimulating manufacturing jobs in Ontario and Quebec under a \"Buy Canadian\" initiative."
+        "neutral": "Unified objective summary statement."
       }
     },
     {
-      "id": "c16194481b212f453a277764d88e0018",
+      "id": "6i3g1j2k-h4f6-8j7g-3k8h-0i2f5g7h8i9j",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Court Orders Release of Redacted Nazi War Crimes Study Material",
+      "source": "The Globe and Mail",
+      "title": "Canadian Wool Producers Diversify Markets to Evade U.S. Tariffs, Shifting Exports to China and Czech Republic",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/federal-court-orders-release-nazi-war-crimes-study-9.7331210?cmp=rss",
-      "summary": "The Federal Court has ordered the Canadian government to release previously redacted portions of a September 1986 study prepared for a federal commission on war crimes. This ruling follows a multi-year legal challenge by B'nai Brith Canada, rejecting the government's argument that the information, which includes details on American intelligence involvement in resettling alleged Nazi collaborators in Canada, would harm international relations.",
-      "graph": ["Government Transparency", "Access to Information", "Judicial Review", "Historical Accountability"],
+      "url": "https://www.theglobeandmail.com/business/article-canada-us-trade-trump-tariffs-canadian-wool-producers-untangle/",
+      "summary": "In response to ongoing U.S. tariffs and trade tensions, Canadian wool producers are increasingly seeking alternative export markets, notably redirecting raw wool shipments to China and the Czech Republic. This strategic shift highlights Canadian industries' efforts to 'untangle themselves' from reliance on the U.S. market and mitigate the economic impact of the bilateral trade dispute.",
+      "graph": ["Canada-US Trade War", "Tariffs", "Canadian Agriculture", "Export Diversification", "International Markets"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This ruling is a victory for transparency and historical accountability, affirming the public's right to know about past government actions, even those involving sensitive international relations, and challenging state secrecy in matters of historical justice." },
-          "center": { "label": "Procedural Context", "synthesis": "The Federal Court's decision demonstrates the judicial system's role in upholding access to information principles against claims of national security or international relations, compelling the government to disclose historical records following a legal challenge." },
-          "right": { "label": "Conservative Context", "synthesis": "While transparency is generally valued, a conservative perspective might, in other contexts, be more inclined to prioritize national security and diplomatic sensitivities. However, in this specific historical context, the release of information is broadly supported for accountability and historical truth." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasis on how protectionist trade policies disproportionately affect specific industries and the need for government support for diversification to protect livelihoods." },
+          "center": { "label": "Procedural Context", "synthesis": "Analysis of the economic resilience and adaptability of Canadian industries in response to trade policy shifts, and the broader implications for Canada's global trade strategy." },
+          "right": { "label": "Conservative Context", "synthesis": "Focus on market-driven solutions and entrepreneurial responses to trade barriers, highlighting the agility of private enterprises in finding new opportunities despite government-imposed challenges." }
         },
-        "neutral": "The Federal Court mandated the release of previously redacted segments of a 1986 study on Nazi war crimes resettlement in Canada, overturning government claims of harm to international relations."
+        "neutral": "Unified objective summary statement."
       }
     },
     {
-      "id": "c2004068565fb96317d74d92ee02f90a",
+      "id": "7j4h2k3l-i5g7-9k8h-4l9i-1j3g6h8i9j0k",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Alberta's Healthcare Reforms Face Federal Skepticism Amid Intergovernmental Tensions",
+      "source": "The Globe and Mail",
+      "title": "Court Mandates Ottawa Release Records on Nazi War Criminal Resettlement in Canada",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/alberta-thinks-it-has-a-health-care-fix-ottawa-as-always-is-skeptical",
-      "summary": "Alberta's proposed healthcare reforms are meeting with skepticism from the federal government, highlighting ongoing tensions between the two levels of government regarding healthcare jurisdiction and funding. The article frames this as a recurring pattern of \"western grievance vs federal lecture\" in Canadian politics, questioning whether a truly collaborative solution is possible.",
-      "graph": ["Healthcare Policy", "Federal-Provincial Relations", "Intergovernmental Disputes", "Western Alienation"],
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-pq-leader-cries-foul-about-carneys-involvement/",
+      "summary": "A recent court order compels the federal government to release detailed information regarding the resettlement of Nazi war criminals in Canada after World War II. This judicial decision addresses long-standing calls for greater transparency on a sensitive historical issue concerning government accountability and the nation's past immigration policies.",
+      "graph": ["Government Transparency", "Historical Records", "Nazi War Criminals", "Judicial Order", "Public Accountability"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might see Ottawa's skepticism as a defence of universal healthcare principles against potential provincial privatization efforts, or call for enhanced federal funding with strict conditions to ensure equitable access and consistent standards across provinces." },
-          "center": { "label": "Procedural Context", "synthesis": "This article highlights the perennial procedural challenges in Canadian federalism regarding shared jurisdiction over healthcare. Both levels of government assert their roles and differing policy approaches, necessitating ongoing negotiation and compromise to ensure service delivery." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative perspective strongly advocates for provincial autonomy in healthcare delivery, criticizing federal interference and viewing Alberta's initiatives as necessary innovations to improve efficiency and address local needs, rather than a mere 'grievance', seeking more flexibility in federal transfers." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocacy for complete transparency and truth-telling regarding historical injustices and government complicity, ensuring accountability for past actions." },
+          "center": { "label": "Procedural Context", "synthesis": "Focus on the legal precedent set by the court order, emphasizing the importance of judicial oversight in ensuring government record disclosure and historical accuracy." },
+          "right": { "label": "Conservative Context", "synthesis": "Support for government accountability and the release of historical records, balanced against potential national security or privacy considerations, while upholding the rule of law." }
         },
-        "neutral": "Alberta's proposed healthcare solutions are met with federal skepticism, illustrating persistent intergovernmental friction over policy and jurisdiction in Canada's healthcare system."
+        "neutral": "Unified objective summary statement."
+      }
+    },
+    {
+      "id": "8k5i3l4m-j6h8-0l9i-5m0j-2k4h7i9j0k1l",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Canada's Economy Sheds 41,700 Jobs in August Amidst Public-Sector Cuts and Anticipated Countertariffs",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/05/canada-sheds-41700-jobs-in-august-as-public-sector-cuts-deepen-ahead-of-countertariffs/",
+      "summary": "Statistics Canada reported that the Canadian economy lost 41,700 jobs in August, with the unemployment rate remaining at 6.4%. This job decline, particularly notable in the public sector, defied economists' predictions and suggests a weakening labor market even before the full impact of new U.S. tariffs and Canada's retaliatory countertariffs take effect, highlighting economic vulnerability.",
+      "graph": ["Canadian Economy", "Job Losses", "Public Sector Cuts", "Trade War Impact", "Unemployment Rate"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Concerns over the impact of job losses on workers and social programs, potentially advocating for greater government intervention to protect employment and stimulate growth amidst economic headwinds." },
+          "center": { "label": "Procedural Context", "synthesis": "Objective analysis of economic indicators and labor market trends, assessing the combined effects of government fiscal policy and international trade disputes on national employment." },
+          "right": { "label": "Conservative Context", "synthesis": "Critique of government spending and public sector employment, arguing that job losses, particularly in the public sector, may be a necessary adjustment or a symptom of broader economic inefficiencies, especially in the context of trade challenges." }
+        },
+        "neutral": "Unified objective summary statement."
       }
     }
   ],
   "charter": [
     {
-      "id": "020c02742968366dfc925d7ef7108159",
+      "id": "9l6j4m5n-k7i9-1m0j-6n1k-3l5i8j0k1l2m",
       "category": "Charter",
-      "source": "National Post",
-      "title": "Opinion: Debate on Transgender Athletes' Inclusion in Women's Golf and Fair Play",
+      "source": "Global News",
+      "title": "Court of Appeal Rules Denying EI Benefits Post-Maternity Leave is a Charter Violation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/amy-hamm-biological-males-dominating-in-womens-golf-in-b-c-and-alberta",
-      "summary": "An opinion piece argues that the inclusion of transgender women (identified as biological males by the author) in women's golf in B.C. and Alberta is leading to their dominance and raising fundamental questions about fair competition. The author suggests this phenomenon does not occur in reverse (women dominating men's sports), highlighting a perceived imbalance in athletic categories.",
-      "graph": ["Gender Identity", "Sports Policy", "Equality Rights", "Fair Competition"],
+      "url": "https://globalnews.ca/news/12048194/ei-maternity-leave-court-of-appeal/",
+      "summary": "A Court of Appeal has determined that denying Employment Insurance (EI) benefits to women laid off shortly before, during, or after maternity leave constitutes a violation of the Charter of Rights and Freedoms. This landmark ruling addresses the systemic challenge faced by mothers re-entering the workforce and seeks to ensure equitable access to support during critical life transitions.",
+      "graph": ["Charter Rights", "Employment Insurance", "Maternity Leave", "Gender Equality", "Court Ruling"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for transgender inclusion emphasize human rights and the right to participate in sports in alignment with one's gender identity, viewing calls for exclusion as discriminatory and harmful. They advocate for policies that promote inclusivity and respect for all individuals, potentially with guidelines to mitigate perceived athletic advantages." },
-          "center": { "label": "Procedural Context", "synthesis": "This article highlights an ongoing societal and legal debate about balancing inclusion, equality, and fair competition in sports. It requires policy-makers and sports federations to navigate complex Charter-related considerations and scientific data on physiological differences to formulate equitable participation rules." },
-          "right": { "label": "Conservative Context", "synthesis": "This opinion reflects a concern for the integrity of women's sports and the principle of fair competition, arguing that biological sex differences provide an inherent advantage that undermines the purpose of women's categories. It often advocates for separate categories based on sex assigned at birth to ensure fair play." }
+          "left": { "label": "Progressive Context", "synthesis": "Celebration of the ruling as a victory for women's rights and gender equality, affirming the Charter's role in protecting vulnerable populations and advocating for stronger social safety nets." },
+          "center": { "label": "Procedural Context", "synthesis": "Legal analysis of the Court of Appeal's interpretation of Charter rights regarding employment and equality, and the implications for future EI policy and labor law." },
+          "right": { "label": "Conservative Context", "synthesis": "Concerns about the potential financial implications for the EI system and employers, while acknowledging the legal requirement to adhere to Charter principles, possibly advocating for careful policy adjustments." }
         },
-        "neutral": "An opinion piece debates the fairness and implications of including transgender women in women's sports, specifically golf in B.C. and Alberta, sparking discussions on equality rights and biological advantages."
-      }
-    },
-    {
-      "id": "52ddf675688d011116631b14371dd3a6",
-      "category": "Charter",
-      "source": "National Post",
-      "title": "Opinion: Hamilton Officials Accused of Charter Violations Against Anti-Immigration Group",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/hamilton-mayor-police-violate-charter-in-crusade-against-anti-immigration-group",
-      "summary": "An opinion piece by John Carpay alleges that the Hamilton mayor and police violated the Charter of Rights and Freedoms by restricting an anti-immigration group's access to public property. The author argues that politicians and law enforcement cannot reserve public spaces only for those with \"correct\" beliefs, thereby impinging on fundamental freedoms of expression and assembly.",
-      "graph": ["Freedom of Expression", "Freedom of Assembly", "Public Space Use", "Police Powers"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While firmly opposing anti-immigration rhetoric, a progressive view recognizes the importance of free speech protections, even for unpopular views, while also emphasizing the need to prevent incitement to hatred and ensuring public safety and order during demonstrations, balancing rights with community protection." },
-          "center": { "label": "Procedural Context", "synthesis": "This article raises questions about the scope of Charter rights concerning freedom of expression and assembly in public spaces, and the appropriate limits on municipal and police authority when managing protests and access to public property, necessitating a careful balancing act through legal principles." },
-          "right": { "label": "Conservative Context", "synthesis": "This opinion strongly asserts fundamental Charter rights like freedom of expression and assembly, critiquing perceived overreach by municipal authorities and law enforcement in regulating speech, arguing for a broad interpretation of these freedoms in public discourse, regardless of the content of expression." }
-        },
-        "neutral": "An opinion piece argues that Hamilton civic leaders and police potentially infringed upon an anti-immigration group's Charter rights to freedom of expression and assembly in public spaces."
+        "neutral": "Unified objective summary statement."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "18f918e974e1e828a2a07530e1ef33b0",
+      "id": "0m7k5n6o-l8j0-2n1k-7o2l-4m6j9k1l2m3n",
       "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Heiltsuk Nation's Clam Fishery Jeopardized by Invasive Green Crabs Post-Diesel Spill",
+      "source": "CBC News",
+      "title": "Prime Minister Commits to Enhanced Wildfire Preparedness and Support for First Nations Communities",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/heiltsuk-first-nation-invasive-green-crabs/?utm_source=rss",
-      "summary": "The Heiltsuk Nation's traditional clam fishery is severely threatened by an explosion of invasive European green crabs, which a report links to a 2016 diesel spill in their waters. Heiltsuk guardians report dramatic increases in crab populations in Gale Creek, impacting Manila clams crucial to Heiltsuk economy and culture, with the nation undertaking management efforts while federal bodies deliberate on a solution.",
-      "graph": ["Indigenous Rights", "Environmental Justice", "Marine Conservation", "Diesel Spill Impact"],
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/mark-carney-wildfires-climate-change-9.7332739?cmp=rss",
+      "summary": "Prime Minister Mark Carney has pledged further federal investment in wildfire early warning, detection, and firefighting resources, acknowledging Canada's increasingly severe wildfire seasons, particularly in northwestern Ontario. The PM also emphasized increased collaboration with Indigenous communities on both traditional fire management methods and evacuation preparedness, following the destruction of two First Nation communities this summer.",
+      "graph": ["Wildfires", "Climate Change", "First Nations", "Federal Response", "Emergency Management"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This highlights systemic environmental injustice and inadequate government response to ecological disasters disproportionately affecting Indigenous communities. It underscores the need for Indigenous-led conservation, self-determination in resource management, and greater federal accountability for environmental protection and reparations." },
-          "center": { "label": "Procedural Context", "synthesis": "The situation illustrates challenges in intergovernmental environmental management and disaster response, where the Heiltsuk Nation is undertaking direct mitigation efforts while awaiting comprehensive and timely solutions from federal agencies like Fisheries and Oceans Canada to address the ecological and economic crisis." },
-          "right": { "label": "Conservative Context", "synthesis": "While recognizing the environmental problem and its impact on the Heiltsuk Nation, a market-oriented approach might focus on efficient resource management or economic diversification options for affected communities. A decentralist view might emphasize local control and self-reliance for the Heiltsuk Nation, with less reliance on delayed federal interventions." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocacy for robust climate action and equitable resource allocation to disproportionately affected Indigenous communities, emphasizing climate justice and self-determination in disaster response." },
+          "center": { "label": "Procedural Context", "synthesis": "Focus on the coordination challenges and inter-jurisdictional responsibilities in managing national emergencies and supporting vulnerable communities, assessing the effectiveness of federal pledges." },
+          "right": { "label": "Conservative Context", "synthesis": "Support for practical and efficient wildfire management strategies, while also emphasizing fiscal responsibility in federal spending and potentially questioning the extent of climate change attribution or federal versus provincial roles." }
         },
-        "neutral": "The Heiltsuk Nation's vital clam fishery is under severe threat from invasive green crabs, a problem exacerbated by a past diesel spill, highlighting the need for effective environmental and Indigenous rights protection."
+        "neutral": "Unified objective summary statement."
       }
     }
   ],
   "criminal": [
     {
-      "id": "e93175c2e1f579976352934ff246e45f",
+      "id": "1n8l6o7p-m9k1-3o2l-8p3m-5n7k0l2m3n4o",
       "category": "Criminal",
       "source": "CBC News",
-      "title": "Intelligence Agencies Investigate Scope of Alleged Canadian Spy's Access at NATO and Government Roles",
+      "title": "Man Charged with Arson Following Fire at Liberal MP Salma Zahid's Toronto Residence",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-china-spy-nato-intelligence-9.7331493?cmp=rss",
-      "summary": "Following the arrest of Canadian Biwei Zhang on espionage charges in Belgium, Western intelligence agencies are scrambling to determine the extent of classified information she may have accessed during a decade of internships and government roles at organizations like Statistics Canada, the Canadian Space Agency, and NATO. Authorities are assessing potential damage and investigating whether she acted alone, amidst ongoing questions about security clearance processes.",
-      "graph": ["Espionage", "National Security", "Intelligence Gathering", "Cybersecurity", "Foreign Interference"],
+      "url": "https://www.cbc.ca/news/canada/toronto/police-arson-investigation-arrest-mp-home-9.7332990?cmp=rss",
+      "summary": "Toronto police have arrested and charged 24-year-old Roshvin Crofton with arson, mischief, and other offenses after several cars were set on fire at the home of Liberal MP Salma Zahid last week. Authorities are seeking a second suspect and continue to investigate the motive behind the incident, which drew widespread condemnation from politicians.",
+      "graph": ["Arson", "Political Violence", "Criminal Investigation", "Public Safety", "MP Security"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This case raises concerns about the vulnerability of international and national institutions to foreign influence, and may prompt calls for a re-evaluation of security protocols that balance national security with individual privacy and open academic exchange, ensuring due process." },
-          "center": { "label": "Procedural Context", "synthesis": "The investigation focuses on the meticulous process of damage assessment, forensic analysis of access logs, and reconstructing the timeline of an alleged spy's activities across multiple agencies to understand potential compromises and refine security vetting procedures and inter-agency cooperation." },
-          "right": { "label": "Conservative Context", "synthesis": "This incident underscores critical national security vulnerabilities, calling for stricter vetting processes, enhanced counter-intelligence measures, and a more robust approach to protecting classified information from foreign adversaries, potentially advocating for greater intelligence agency powers and accountability." }
+          "left": { "label": "Progressive Context", "synthesis": "Condemnation of political violence and threats against elected officials, emphasizing the need to protect democratic institutions and personal safety, and exploring potential underlying social issues." },
+          "center": { "label": "Procedural Context", "synthesis": "Focus on the legal process, police investigation, and upholding the rule of law, ensuring due process for the accused while maintaining public order and security for public figures." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasis on law and order and swift prosecution of crimes, particularly those targeting public officials, and concern for the erosion of public discourse into violent acts." }
         },
-        "neutral": "Western intelligence agencies are conducting a comprehensive damage assessment following the arrest of a Canadian accused of espionage, investigating her access to sensitive information across various national and international organizations."
+        "neutral": "Unified objective summary statement."
+      }
+    },
+    {
+      "id": "2o9m7p8q-n0l2-4p3m-9q4n-6o8l1m3n4o5p",
+      "category": "Criminal",
+      "source": "The Globe and Mail",
+      "title": "Canadian Intern Investigated for Espionage After Discovery Near NATO Supreme Commander's Office",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-biwei-zhang-spy-espionage/",
+      "summary": "A Canadian intern, Biwei Zhang, is under investigation for suspected espionage after being found in unauthorized proximity to the NATO Supreme Commander's office. While detained, her social media passwords were reportedly changed remotely, adding a layer of complexity to the national security probe into potential foreign interference or intelligence gathering.",
+      "graph": ["Espionage", "National Security", "NATO", "Foreign Interference", "Criminal Investigation"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Concerns about the vulnerability of international institutions to foreign espionage and the implications for global security, while also advocating for robust legal protections and due process for individuals accused of such crimes." },
+          "center": { "label": "Procedural Context", "synthesis": "Focus on the facts of the investigation, the legal framework for espionage cases, and the diplomatic ramifications of such an incident involving a Canadian national at an international security organization." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasis on national security and vigilance against foreign intelligence threats, advocating for strong counter-espionage measures and swift action to protect sensitive information and alliances." }
+        },
+        "neutral": "Unified objective summary statement."
+      }
+    },
+    {
+      "id": "3p0n8q9r-o1m3-5q4n-0r5o-7p9m2n4o5p6q",
+      "category": "Criminal",
+      "source": "National Post",
+      "title": "Opinion Piece Argues Massachusetts Murders Support Loosening Canadian Infanticide Law",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/pete-baklinski-cbc-platforms-prof-who-says-clancy-killings-make-case-for-looser-infanticide-law",
+      "summary": "An opinion column critically examines a CBC article that highlighted a professor's argument to loosen Canada's infanticide laws, drawing on the case of a Massachusetts mother accused of killing her children. The column implies that the original CBC piece uncritically platforms a controversial view on the legal treatment of child killings, sparking debate on the ethics and scope of infanticide legislation in Canada.",
+      "graph": ["Infanticide Law", "Criminal Law Reform", "Public Discourse", "Child Protection", "Media Ethics"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocacy for a compassionate and nuanced approach to infanticide law, considering mental health factors and societal pressures on mothers, while still prioritizing child protection." },
+          "center": { "label": "Procedural Context", "synthesis": "Debate on the interpretation and application of criminal law, examining legal precedents and legislative intent behind infanticide statutes, and the role of public opinion in legal reform discussions." },
+          "right": { "label": "Conservative Context", "synthesis": "Strong emphasis on the sanctity of life and the severity of crimes against children, opposing any legislative changes that could be perceived as weakening protections or accountability for such acts." }
+        },
+        "neutral": "Unified objective summary statement."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "4q1o9r0s-p2n4-6r5o-1s6p-8q0n3o5p6q7r",
+      "category": "Immigration",
+      "source": "The Globe and Mail",
+      "title": "Coalition Urges Federal and Alberta Governments to Halt Deportation of International Student Protesters",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/alberta/article-groups-pen-letter-to-ottawa-alberta-asking-not-to-deport-student/",
+      "summary": "A coalition of nearly 300 groups, including Amnesty International, has sent a letter to both the federal and Alberta governments, requesting a halt to the deportation of ten international students. These students were allegedly targeted for immigration enforcement by border officials during a protest in Calgary against changes to post-graduation work permit eligibility, raising concerns about the violation of their Charter right to free speech and the chilling effect on migrant activism.",
+      "graph": ["International Students", "Deportation", "Immigration Policy", "Charter Rights", "Freedom of Speech"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strong advocacy for the rights of migrants and international students, condemning actions that suppress peaceful protest and calling for humane and equitable immigration policies that respect Charter freedoms." },
+          "center": { "label": "Procedural Context", "synthesis": "Examination of the legal interpretation of immigration regulations and Charter rights, assessing the procedures of immigration enforcement and the role of protests in influencing policy changes." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasis on upholding immigration laws and regulations, asserting that temporary residents must comply with visa conditions, while also recognizing the importance of maintaining public order during protests." }
+        },
+        "neutral": "Unified objective summary statement."
+      }
+    }
+  ]
 }
