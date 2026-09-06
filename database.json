@@ -1,278 +1,181 @@
 {
   "federalism": [
     {
-      "id": "1d8b6e7f-c9a1-4e2b-8f3c-5d7a0b1e2f3d",
+      "id": "alberta-diplomacy-trade-war-cbc-7332762",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada-U.S. Border Towns Express Concern Over Permanent Damage from Trade Disputes and Lake Ontario Renaming",
+      "title": "Alberta's Diplomatic Approach to Canada-U.S. Trade Disputes",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-us-trade-war-lake-ontario-lake-america-upstate-new-york-9.7333151?cmp=rss",
-      "summary": "Residents and officials in U.S. border towns in upstate New York are voicing fears that the escalating trade dispute and the U.S. President's decision to rename Lake Ontario as 'Lake America' could inflict lasting damage on their close ties with Canada. These communities, heavily reliant on cross-border interaction, anticipate severe economic and social detriment from the heightened bilateral tensions.",
-      "graph": ["Canada-US Relations", "Trade War", "Border Communities", "Economic Impact", "Geopolitical Naming Dispute"],
+      "url": "https://www.cbc.ca/news/politics/alberta-diplomacy-u-s-canada-trade-war-9.7332762?cmp=rss",
+      "summary": "Alberta has adopted a 'diplomacy-first' strategy in its trade relations with the United States, contrasting with other provinces that advocate for more aggressive measures like retaliatory tariffs or energy export cuts. Alberta's senior representative to the U.S. argues this approach has resulted in a disproportionately low impact of U.S. tariffs on the provincial economy and fostered greater responsiveness from American officials, partly attributed to Alberta's unique stance of not imposing levies on U.S. alcohol imports.",
+      "graph": ["Provincial Autonomy", "International Trade", "Canada-U.S. Relations", "Intergovernmental Relations", "Economic Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critique of nationalistic policies that disregard local cross-border communities, emphasizing social and economic disruption for ordinary citizens." },
-          "center": { "label": "Procedural Context", "synthesis": "Analysis of the practical and diplomatic challenges posed by unilateral actions (e.g., renaming a shared lake) and trade protectionism on established international relationships and regional economies." },
-          "right": { "label": "Conservative Context", "synthesis": "Focus on the economic implications of trade disputes, concerns about potential overreach in foreign policy, and the need for stable business environments." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques the 'diplomacy-first' approach if it undermines national unity on trade, or if it prioritizes provincial economic interests over broader Canadian strategic goals, potentially questioning the efficacy of bilateral provincial diplomacy versus a strong federal approach." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical outcomes and strategic choices within the existing federal framework, viewing Alberta's approach as a pragmatic, results-oriented strategy to mitigate economic harm within its jurisdiction, while acknowledging the need for federal coordination." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports provincial autonomy in economic policy and international engagement where it benefits the province, seeing Alberta's approach as an effective exercise of provincial self-interest and a potentially more efficient way to navigate trade disputes than a rigid federal 'Team Canada' approach." }
         },
-        "neutral": "Unified objective summary statement."
+        "neutral": "Alberta's government has pursued a diplomatic strategy in its trade dealings with the U.S., claiming it has shielded the province from some economic impacts of broader Canada-U.S. trade tensions, contrasting with more confrontational provincial stances."
       }
     },
     {
-      "id": "2e9c7f8g-d0b2-4f3c-9g4d-6e8b1c3d4e5f",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Michigan Democrat Aims to Elevate Canada-U.S. Tariff War as Midterm Election Issue",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/michigan-reaction-tariffs-canada-9.7333475?cmp=rss",
-      "summary": "A Michigan Democrat is attempting to make the ongoing U.S. tariff war with Canada a central issue in the upcoming midterm elections. Michigan, Canada's largest export market among U.S. states, has been significantly impacted by these trade disputes, leading to varied public opinion among its residents regarding the economic strategy.",
-      "graph": ["Canada-US Trade", "Tariffs", "US Midterm Elections", "Economic Policy", "Michigan Economy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlighting the impact of tariffs on working-class Americans and advocating for trade policies that prioritize employment stability and consumer affordability over protectionist measures." },
-          "center": { "label": "Procedural Context", "synthesis": "Examining the political strategy behind linking trade policy to domestic elections and assessing the economic data on tariff impacts in key states." },
-          "right": { "label": "Conservative Context", "synthesis": "Support for trade protectionism as a means to protect domestic industries, while also noting potential electoral risks if economic impacts are perceived negatively by voters." }
-        },
-        "neutral": "Unified objective summary statement."
-      }
-    },
-    {
-      "id": "3f0d8g9h-e1c3-5g4d-0h5e-7f9c2d4e5f6g",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Government Advances Roberts Bank Terminal 2 Port Expansion Amidst Environmental Opposition",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/roberts-bank-terminal-expansion-notice-potential-listing-9.7329825?cmp=rss",
-      "summary": "The Canadian federal government is moving to potentially designate the Roberts Bank Terminal 2 port expansion in Metro Vancouver as a 'project of national interest.' This designation would expedite its approval process, but environmental groups are raising serious concerns that such fast-tracking could bypass critical environmental protections for the Fraser River Estuary, a vital habitat for at-risk species like orcas and salmon, despite previous acknowledgments of significant adverse environmental effects.",
-      "graph": ["Port Expansion", "Environmental Assessment", "Species at Risk", "Federal Infrastructure", "National Interest Designation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strong opposition to undermining environmental protections for economic development, emphasizing the irreversible harm to ecosystems and endangered species for corporate gain." },
-          "center": { "label": "Procedural Context", "synthesis": "Focus on the legal and procedural implications of national interest designations, balancing economic benefits against environmental impact assessments and regulatory frameworks." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocacy for economic growth and infrastructure development, supporting measures to expedite projects deemed vital for national trade and economic sovereignty, even if it involves streamlining regulatory processes." }
-        },
-        "neutral": "Unified objective summary statement."
-      }
-    },
-    {
-      "id": "4g1e9h0i-f2d4-6h5e-1i6f-8g0d3e5f6g7h",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal Conservatives Launch 'Conservatives for Canada' Campaign to Oppose Alberta Separatism Referendum",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/calgary/conservatives-for-canada-campaign-alberta-referendum-9.7333344?cmp=rss",
-      "summary": "The federal Conservative Party has initiated a 'Conservatives for Canada' campaign, aiming to mobilize supporters in Alberta to vote against separation in the upcoming provincial referendum. Party leader Pierre Poilievre argues that Alberta's grievances lie with the current federal Liberal government's policies, not with Canada itself, and emphasizes the need for national unity amidst growing provincial frustrations.",
-      "graph": ["Alberta Referendum", "National Unity", "Federal-Provincial Relations", "Conservative Party Strategy", "Separation Movement"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Analysis of how economic grievances and political polarization can fuel separatist movements, advocating for inclusive federal policies that address regional disparities and concerns." },
-          "center": { "label": "Procedural Context", "synthesis": "Focus on the constitutional and political processes surrounding referendums on provincial sovereignty, assessing the implications for national governance and federal-provincial balance of power." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasis on national unity and maintaining the existing federation, while also acknowledging and seeking to address the perceived overreach or detrimental policies of the federal government that contribute to provincial discontent." }
-        },
-        "neutral": "Unified objective summary statement."
-      }
-    },
-    {
-      "id": "5h2f0i1j-g3e5-7i6f-2j7g-9h1e4f6g7h8i",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Parti Québécois Leader Alleges Federal Interference in Quebec Provincial Election",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/montreal/psppp-interference-allegations-quebec-9.7333292?cmp=rss",
-      "summary": "Paul St-Pierre Plamondon, leader of the Parti Québécois, has expressed concern that the federal government is actively meddling in the Quebec provincial election. He cites recent federal funding announcements and alleged coordination with the incumbent Coalition Avenir Québec (CAQ) government as unprecedented interference, suggesting a federal motive to prevent a sovereigntist party from taking power.",
-      "graph": ["Quebec Election", "Federal Interference", "Sovereignty Movement", "Federal-Provincial Funding", "Political Allegations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critique of perceived federal overreach or political tactics that could undermine democratic processes at the provincial level, especially concerning the legitimacy of regional political movements." },
-          "center": { "label": "Procedural Context", "synthesis": "Examination of the conventions and legalities of federal engagement during provincial elections, evaluating the evidence for and against claims of interference and its potential impact on electoral fairness." },
-          "right": { "label": "Conservative Context", "synthesis": "Concerns about federal government actions potentially undermining provincial autonomy or using public funds for partisan purposes, while also supporting federal initiatives that reinforce national unity." }
-        },
-        "neutral": "Unified objective summary statement."
-      }
-    },
-    {
-      "id": "6i3g1j2k-h4f6-8j7g-3k8h-0i2f5g7h8i9j",
+      "id": "quebec-election-referendum-globe-mail",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Canadian Wool Producers Diversify Markets to Evade U.S. Tariffs, Shifting Exports to China and Czech Republic",
+      "title": "Quebec Provincial Election Looms with Focus on Health, Affordability, and Sovereignty Debate",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/business/article-canada-us-trade-trump-tariffs-canadian-wool-producers-untangle/",
-      "summary": "In response to ongoing U.S. tariffs and trade tensions, Canadian wool producers are increasingly seeking alternative export markets, notably redirecting raw wool shipments to China and the Czech Republic. This strategic shift highlights Canadian industries' efforts to 'untangle themselves' from reliance on the U.S. market and mitigate the economic impact of the bilateral trade dispute.",
-      "graph": ["Canada-US Trade War", "Tariffs", "Canadian Agriculture", "Export Diversification", "International Markets"],
+      "url": "https://www.theglobeandmail.com/canada/article-quebec-parties-affordability-referendum-election-looms/",
+      "summary": "As a Quebec provincial election approaches, political parties are concentrating their campaigns on key issues such as healthcare and affordability. The debate over a potential referendum on sovereignty also re-emerges, with accusations that the Parti Québécois leader is strategically avoiding the term 'referendum' while still advocating for the party's core objective of Quebec independence.",
+      "graph": ["Quebec Politics", "Provincial Election", "Sovereignty", "Health Policy", "Affordability", "Referendum"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasis on how protectionist trade policies disproportionately affect specific industries and the need for government support for diversification to protect livelihoods." },
-          "center": { "label": "Procedural Context", "synthesis": "Analysis of the economic resilience and adaptability of Canadian industries in response to trade policy shifts, and the broader implications for Canada's global trade strategy." },
-          "right": { "label": "Conservative Context", "synthesis": "Focus on market-driven solutions and entrepreneurial responses to trade barriers, highlighting the agility of private enterprises in finding new opportunities despite government-imposed challenges." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes social programs like healthcare and policies addressing affordability as critical. Support for Quebec sovereignty might be framed within a broader self-determination context, while also questioning how independence would impact social equity." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of the election and policy proposals within the existing federal framework. Views the referendum debate as a recurring political theme, analyzing its strategic implications and public reception without taking a definitive stance on sovereignty." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes economic stability and fiscal responsibility in health and affordability debates. On sovereignty, conservative viewpoints might either support greater provincial autonomy for economic advantage or staunchly oppose separation for national unity and market stability reasons. Critiques of the PQ's 'avoidance' might frame it as political opportunism." }
         },
-        "neutral": "Unified objective summary statement."
+        "neutral": "Quebec's upcoming provincial election centers on health and affordability, alongside a rekindled, albeit nuanced, discussion on provincial sovereignty and a potential referendum by the Parti Québécois."
       }
     },
     {
-      "id": "7j4h2k3l-i5g7-9k8h-4l9i-1j3g6h8i9j0k",
+      "id": "canada-founding-us-nationalpost",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Court Mandates Ottawa Release Records on Nazi War Criminal Resettlement in Canada",
+      "source": "National Post",
+      "title": "Canadian Identity and National Founding in Contrast to the United States",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-pq-leader-cries-foul-about-carneys-involvement/",
-      "summary": "A recent court order compels the federal government to release detailed information regarding the resettlement of Nazi war criminals in Canada after World War II. This judicial decision addresses long-standing calls for greater transparency on a sensitive historical issue concerning government accountability and the nation's past immigration policies.",
-      "graph": ["Government Transparency", "Historical Records", "Nazi War Criminals", "Judicial Order", "Public Accountability"],
+      "url": "https://nationalpost.com/opinion/canada-founded",
+      "summary": "This opinion piece argues that Canada's founding was fundamentally shaped by a desire to differentiate itself from the United States. The author suggests that early Canadians had clear reasons for not wishing to adopt the American model, highlighting a core aspect of Canadian national identity and historical development distinct from its southern neighbour.",
+      "graph": ["Canadian Identity", "National History", "Canada-U.S. Relations", "Political Philosophy", "Nationalism"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocacy for complete transparency and truth-telling regarding historical injustices and government complicity, ensuring accountability for past actions." },
-          "center": { "label": "Procedural Context", "synthesis": "Focus on the legal precedent set by the court order, emphasizing the importance of judicial oversight in ensuring government record disclosure and historical accuracy." },
-          "right": { "label": "Conservative Context", "synthesis": "Support for government accountability and the release of historical records, balanced against potential national security or privacy considerations, while upholding the rule of law." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights progressive and inclusive elements of Canadian identity as a contrast to perceived American individualism, emphasizing multiculturalism and social safety nets as key differentiators." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the historical distinction from the U.S. as a foundational, pragmatic aspect of nation-building, contributing to a distinct political and social evolution, analyzing the historical context and its ongoing influence on Canadian governance and values." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes unique conservative traditions and the parliamentary system as differentiators from the U.S., supporting a strong national identity distinct from American influence, particularly in economic or cultural sovereignty." }
         },
-        "neutral": "Unified objective summary statement."
+        "neutral": "An opinion piece asserts that Canada's national identity and historical development were fundamentally defined by a conscious effort to differentiate itself from the United States from its inception."
       }
     },
     {
-      "id": "8k5i3l4m-j6h8-0l9i-5m0j-2k4h7i9j0k1l",
+      "id": "ontario-liberal-byelection-nationalpost",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Canada's Economy Sheds 41,700 Jobs in August Amidst Public-Sector Cuts and Anticipated Countertariffs",
+      "source": "National Post",
+      "title": "Ontario Liberal Party Suffers Setback in By-elections, Halting Perceived Resurgence",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/05/canada-sheds-41700-jobs-in-august-as-public-sector-cuts-deepen-ahead-of-countertariffs/",
-      "summary": "Statistics Canada reported that the Canadian economy lost 41,700 jobs in August, with the unemployment rate remaining at 6.4%. This job decline, particularly notable in the public sector, defied economists' predictions and suggests a weakening labor market even before the full impact of new U.S. tariffs and Canada's retaliatory countertariffs take effect, highlighting economic vulnerability.",
-      "graph": ["Canadian Economy", "Job Losses", "Public Sector Cuts", "Trade War Impact", "Unemployment Rate"],
+      "url": "https://nationalpost.com/opinion/scott-stinson-ontario-liberal-resurgence-comes-to-abrupt-halt-with-byelection-losses",
+      "summary": "An opinion piece discusses the Ontario Liberal Party's performance in recent by-elections, noting that unexpected losses have dampened earlier indications of a potential resurgence. Despite favorable province-wide polling, the by-election results highlight the significant challenges and work required for the party to rebuild its political strength at the provincial level, especially in the absence of a permanent leader.",
+      "graph": ["Provincial Politics", "Ontario Election", "Liberal Party", "By-election Results", "Political Strategy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concerns over the impact of job losses on workers and social programs, potentially advocating for greater government intervention to protect employment and stimulate growth amidst economic headwinds." },
-          "center": { "label": "Procedural Context", "synthesis": "Objective analysis of economic indicators and labor market trends, assessing the combined effects of government fiscal policy and international trade disputes on national employment." },
-          "right": { "label": "Conservative Context", "synthesis": "Critique of government spending and public sector employment, arguing that job losses, particularly in the public sector, may be a necessary adjustment or a symptom of broader economic inefficiencies, especially in the context of trade challenges." }
+          "left": { "label": "Progressive Context", "synthesis": "Analyzes the by-election results in terms of underlying voter dissatisfaction with the current provincial government or the need for the Liberal party to adopt more distinct progressive policies to differentiate itself, potentially advocating for a renewed focus on social programs." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the tactical and strategic implications of the by-election results for the Ontario Liberal Party and the broader provincial political landscape, assessing the party's current standing and path forward based on electoral performance and public opinion." },
+          "right": { "label": "Conservative Context", "synthesis": "Interprets the losses as a rejection of perceived left-leaning policies or a reaffirmation of a preference for conservative governance in Ontario, potentially critiquing the Liberal party's platform or leadership vacuum as reasons for their failure to convert poll numbers into electoral success." }
         },
-        "neutral": "Unified objective summary statement."
+        "neutral": "The Ontario Liberal Party experienced a setback in recent by-elections, despite positive province-wide polling, indicating challenges in translating public support into electoral gains and highlighting the need for strategic rebuilding."
+      }
+    },
+    {
+      "id": "us-ambassadors-canada-nationalpost",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Contrasting Perspectives of U.S. Ambassadors on Canada-U.S. Relations",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/hoekstra-vs-heyman-u-s-ambassador-to-canada",
+      "summary": "This article examines the differing views of two former U.S. ambassadors to Canada, Hoekstra and Heyman, on the nature of the Canada-U.S. relationship. Their contrasting perspectives—one seeing Canada as a distinct nation and the other implying a closer, '51st state' status—highlight the varied interpretations of bilateral ties and Canadian sovereignty.",
+      "graph": ["Canada-U.S. Relations", "Diplomacy", "National Sovereignty", "Foreign Policy", "Political Perceptions"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes concerns about Canadian sovereignty and cultural independence from the U.S., advocating for policies that reinforce a distinct Canadian identity and progressive values in foreign relations." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the nuances of the diplomatic relationship, acknowledging both the deep integration and the distinct national interests of Canada and the U.S., focusing on the practical implications of different ambassadorial styles and their impact on bilateral affairs." },
+          "right": { "label": "Conservative Context", "synthesis": "Focuses on economic integration and strategic alignment with the U.S., potentially viewing a 'closer' relationship as beneficial for trade and security, while also being concerned with maintaining strong national sovereignty and economic independence within the alliance." }
+        },
+        "neutral": "Different U.S. ambassadors to Canada have expressed contrasting views on the Canada-U.S. relationship, ranging from recognizing Canada's distinct sovereignty to suggesting a more integrated '51st state' dynamic, reflecting varied interpretations of bilateral ties."
+      }
+    },
+    {
+      "id": "alberta-separation-debate-nationalpost",
+      "category": "Federalism",
+      "source": "National Post",
+      "title": "Alberta's Path Forward: Seeking Better Federal Terms vs. Provincial Separation",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/albertans-should-fight-for-a-better-deal-but-separation-is-not-the-way",
+      "summary": "This opinion piece advises Albertans to pursue improved terms within the Canadian federation rather than opting for separation. The author argues that separation would initiate a lengthy and economically uncertain negotiation process with no guaranteed success, advocating instead for strategies to achieve a stronger position within Canada.",
+      "graph": ["Provincial Autonomy", "Western Alienation", "Canadian Unity", "Separation Movements", "Intergovernmental Fiscal Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Agrees with staying in the federation but advocates for a more equitable distribution of wealth and resources across provinces, potentially through federal equalization, and might critique the underlying causes of alienation from a social justice perspective." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on pragmatic approaches to provincial-federal relations, emphasizing negotiation and compromise to maintain national unity and economic stability, rejecting radical solutions like separation due to their inherent risks and complexities." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports greater provincial autonomy and a 'better deal' for Alberta, often through reduced federal intervention and increased control over natural resources and fiscal policy. While advocating for strong provincial rights, this opinion piece specifically rejects separation as impractical and too risky, preferring to strengthen Alberta's position within Canada." }
+        },
+        "neutral": "An opinion piece argues that Albertans should prioritize negotiating better terms within the Canadian federation over pursuing separation, citing the economic uncertainties and prolonged negotiations inherent in a secessionist path."
+      }
+    },
+    {
+      "id": "ontario-smartphone-ban-torontosun",
+      "category": "Federalism",
+      "source": "Toronto Sun",
+      "title": "Scrutiny on Youth Smartphone Use and Ontario's School Ban",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/provincial/back-to-school-means-closer-look-at-youth-smartphone-use",
+      "summary": "With the return to school, there's renewed attention on youth smartphone use and the effectiveness of Ontario's provincial policy banning cellphones in schools. The article delves into the efforts by educators to manage students' mobile device usage and the implications of this policy on the school environment and student behaviour, showcasing provincial policy-making in education.",
+      "graph": ["Education Policy", "Provincial Governance", "Youth Technology Use", "Public Policy", "School Environment"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Raises concerns about digital equity, access to information, and student expression rights, potentially viewing outright bans as overly restrictive without addressing underlying issues of device use, advocating for educational approaches rather than punitive ones." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical implementation and effectiveness of the provincial policy, balancing educational goals with student well-being and parental concerns, evaluating the policy based on its measurable impact on learning environments." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports measures to restore order and focus in schools, often aligning with parental authority and traditional educational values, viewing the cellphone ban as a necessary step to reduce distractions and improve academic performance." }
+        },
+        "neutral": "Ontario's provincial policy banning cellphones in schools is under renewed scrutiny, with discussions focusing on its effectiveness in managing youth smartphone use and its impact on learning environments and student behavior."
       }
     }
   ],
   "charter": [
     {
-      "id": "9l6j4m5n-k7i9-1m0j-6n1k-3l5i8j0k1l2m",
+      "id": "scc-legality-review-slaw-134",
       "category": "Charter",
-      "source": "Global News",
-      "title": "Court of Appeal Rules Denying EI Benefits Post-Maternity Leave is a Charter Violation",
+      "source": "Slaw.ca (Supreme Advocacy)",
+      "title": "Supreme Court Upholds Constitutional Guarantee of Legality Review of Delegated Powers",
       "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12048194/ei-maternity-leave-court-of-appeal/",
-      "summary": "A Court of Appeal has determined that denying Employment Insurance (EI) benefits to women laid off shortly before, during, or after maternity leave constitutes a violation of the Charter of Rights and Freedoms. This landmark ruling addresses the systemic challenge faced by mothers re-entering the workforce and seeks to ensure equitable access to support during critical life transitions.",
-      "graph": ["Charter Rights", "Employment Insurance", "Maternity Leave", "Gender Equality", "Court Ruling"],
+      "url": "https://www.slaw.ca/2026/09/06/summaries-sunday-supreme-advocacy-134/",
+      "summary": "The Supreme Court of Canada (2026 SCC 28) affirmed the constitutional guarantee of legality review over all exercises of public authority, finding Section 66 of the Conflict of Interest Act unconstitutional for purporting to bar judicial review on questions of fact. This decision reinforces the fundamental principle that administrative decisions, including those made under delegated powers, are subject to judicial oversight to ensure they remain within legal limits.",
+      "graph": ["Constitutional Law", "Judicial Review", "Separation of Powers", "Administrative Law", "Rule of Law"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Celebration of the ruling as a victory for women's rights and gender equality, affirming the Charter's role in protecting vulnerable populations and advocating for stronger social safety nets." },
-          "center": { "label": "Procedural Context", "synthesis": "Legal analysis of the Court of Appeal's interpretation of Charter rights regarding employment and equality, and the implications for future EI policy and labor law." },
-          "right": { "label": "Conservative Context", "synthesis": "Concerns about the potential financial implications for the EI system and employers, while acknowledging the legal requirement to adhere to Charter principles, possibly advocating for careful policy adjustments." }
+          "left": { "label": "Progressive Context", "synthesis": "Views the upholding of judicial review as a vital protection against potential abuses of power by the executive and a safeguard for individual rights, emphasizing the importance of accountability and transparency in governance." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the preservation of the constitutional order and the proper functioning of the legal system, ensuring that delegated powers remain within their legal limits and that administrative decisions are subject to appropriate oversight, balancing government efficiency and judicial accountability." },
+          "right": { "label": "Conservative Context", "synthesis": "Supports strict adherence to constitutional principles and limits on government power, approving of judicial review as a necessary check on legislative and executive overreach, ensuring that state actions conform to established legal frameworks and rule of law." }
         },
-        "neutral": "Unified objective summary statement."
+        "neutral": "The Supreme Court of Canada reinforced the constitutional principle of legality review, striking down a provision of the Conflict of Interest Act that sought to limit judicial review of administrative decisions, thereby affirming the judiciary's role in overseeing delegated powers."
       }
     }
   ],
-  "indigenous": [
-    {
-      "id": "0m7k5n6o-l8j0-2n1k-7o2l-4m6j9k1l2m3n",
-      "category": "Indigenous",
-      "source": "CBC News",
-      "title": "Prime Minister Commits to Enhanced Wildfire Preparedness and Support for First Nations Communities",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/mark-carney-wildfires-climate-change-9.7332739?cmp=rss",
-      "summary": "Prime Minister Mark Carney has pledged further federal investment in wildfire early warning, detection, and firefighting resources, acknowledging Canada's increasingly severe wildfire seasons, particularly in northwestern Ontario. The PM also emphasized increased collaboration with Indigenous communities on both traditional fire management methods and evacuation preparedness, following the destruction of two First Nation communities this summer.",
-      "graph": ["Wildfires", "Climate Change", "First Nations", "Federal Response", "Emergency Management"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocacy for robust climate action and equitable resource allocation to disproportionately affected Indigenous communities, emphasizing climate justice and self-determination in disaster response." },
-          "center": { "label": "Procedural Context", "synthesis": "Focus on the coordination challenges and inter-jurisdictional responsibilities in managing national emergencies and supporting vulnerable communities, assessing the effectiveness of federal pledges." },
-          "right": { "label": "Conservative Context", "synthesis": "Support for practical and efficient wildfire management strategies, while also emphasizing fiscal responsibility in federal spending and potentially questioning the extent of climate change attribution or federal versus provincial roles." }
-        },
-        "neutral": "Unified objective summary statement."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "1n8l6o7p-m9k1-3o2l-8p3m-5n7k0l2m3n4o",
+      "id": "quebec-murder-appeal-slaw-643",
       "category": "Criminal",
-      "source": "CBC News",
-      "title": "Man Charged with Arson Following Fire at Liberal MP Salma Zahid's Toronto Residence",
+      "source": "Slaw.ca (SOQUIJ)",
+      "title": "Quebec Court of Appeal Upholds First-Degree Murder Conviction Amid Jury Contamination Allegations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/toronto/police-arson-investigation-arrest-mp-home-9.7332990?cmp=rss",
-      "summary": "Toronto police have arrested and charged 24-year-old Roshvin Crofton with arson, mischief, and other offenses after several cars were set on fire at the home of Liberal MP Salma Zahid last week. Authorities are seeking a second suspect and continue to investigate the motive behind the incident, which drew widespread condemnation from politicians.",
-      "graph": ["Arson", "Political Violence", "Criminal Investigation", "Public Safety", "MP Security"],
+      "url": "https://www.slaw.ca/2026/09/06/summaries-sunday-soquij-643/",
+      "summary": "The Quebec Court of Appeal (2026 QCCA 1107) upheld a first-degree murder conviction, rejecting an appeal based on alleged jury contamination and the admission of updated DNA probability calculations. The Court found that the trial judge's inquiry into two boxes of prior trial evidence mistakenly placed in the jury deliberation room was sufficient to prevent prejudice, and that the judge's directives to the jury ensured impartiality. The appellant's argument regarding updated DNA calculations also failed to demonstrate a compromise to trial fairness.",
+      "graph": ["Criminal Law", "Jury Deliberation", "Trial Fairness", "DNA Evidence", "Appellate Review", "Procedural Justice"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Condemnation of political violence and threats against elected officials, emphasizing the need to protect democratic institutions and personal safety, and exploring potential underlying social issues." },
-          "center": { "label": "Procedural Context", "synthesis": "Focus on the legal process, police investigation, and upholding the rule of law, ensuring due process for the accused while maintaining public order and security for public figures." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasis on law and order and swift prosecution of crimes, particularly those targeting public officials, and concern for the erosion of public discourse into violent acts." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the rights of the accused and the critical importance of procedural safeguards to ensure a fair trial, including strict measures against jury contamination, and might express concern about potential implicit biases or procedural missteps." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the proper application of judicial procedure, the discretion of the trial judge in managing jury incidents, and the appellate court's role in reviewing such decisions, upholding the principle of fair trial within established legal norms." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of upholding convictions where legal processes are found to be sufficient, balancing the rights of the accused with the need for effective justice administration and public safety, stressing finality in judicial outcomes where no grave error occurred." }
         },
-        "neutral": "Unified objective summary statement."
-      }
-    },
-    {
-      "id": "2o9m7p8q-n0l2-4p3m-9q4n-6o8l1m3n4o5p",
-      "category": "Criminal",
-      "source": "The Globe and Mail",
-      "title": "Canadian Intern Investigated for Espionage After Discovery Near NATO Supreme Commander's Office",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-biwei-zhang-spy-espionage/",
-      "summary": "A Canadian intern, Biwei Zhang, is under investigation for suspected espionage after being found in unauthorized proximity to the NATO Supreme Commander's office. While detained, her social media passwords were reportedly changed remotely, adding a layer of complexity to the national security probe into potential foreign interference or intelligence gathering.",
-      "graph": ["Espionage", "National Security", "NATO", "Foreign Interference", "Criminal Investigation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concerns about the vulnerability of international institutions to foreign espionage and the implications for global security, while also advocating for robust legal protections and due process for individuals accused of such crimes." },
-          "center": { "label": "Procedural Context", "synthesis": "Focus on the facts of the investigation, the legal framework for espionage cases, and the diplomatic ramifications of such an incident involving a Canadian national at an international security organization." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasis on national security and vigilance against foreign intelligence threats, advocating for strong counter-espionage measures and swift action to protect sensitive information and alliances." }
-        },
-        "neutral": "Unified objective summary statement."
-      }
-    },
-    {
-      "id": "3p0n8q9r-o1m3-5q4n-0r5o-7p9m2n4o5p6q",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Opinion Piece Argues Massachusetts Murders Support Loosening Canadian Infanticide Law",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/pete-baklinski-cbc-platforms-prof-who-says-clancy-killings-make-case-for-looser-infanticide-law",
-      "summary": "An opinion column critically examines a CBC article that highlighted a professor's argument to loosen Canada's infanticide laws, drawing on the case of a Massachusetts mother accused of killing her children. The column implies that the original CBC piece uncritically platforms a controversial view on the legal treatment of child killings, sparking debate on the ethics and scope of infanticide legislation in Canada.",
-      "graph": ["Infanticide Law", "Criminal Law Reform", "Public Discourse", "Child Protection", "Media Ethics"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocacy for a compassionate and nuanced approach to infanticide law, considering mental health factors and societal pressures on mothers, while still prioritizing child protection." },
-          "center": { "label": "Procedural Context", "synthesis": "Debate on the interpretation and application of criminal law, examining legal precedents and legislative intent behind infanticide statutes, and the role of public opinion in legal reform discussions." },
-          "right": { "label": "Conservative Context", "synthesis": "Strong emphasis on the sanctity of life and the severity of crimes against children, opposing any legislative changes that could be perceived as weakening protections or accountability for such acts." }
-        },
-        "neutral": "Unified objective summary statement."
+        "neutral": "The Quebec Court of Appeal confirmed a first-degree murder conviction, ruling that the trial judge adequately addressed concerns over potential jury contamination and that the admission of updated DNA evidence did not compromise the fairness of the trial."
       }
     }
   ],
-  "immigration": [
-    {
-      "id": "4q1o9r0s-p2n4-6r5o-1s6p-8q0n3o5p6q7r",
-      "category": "Immigration",
-      "source": "The Globe and Mail",
-      "title": "Coalition Urges Federal and Alberta Governments to Halt Deportation of International Student Protesters",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-groups-pen-letter-to-ottawa-alberta-asking-not-to-deport-student/",
-      "summary": "A coalition of nearly 300 groups, including Amnesty International, has sent a letter to both the federal and Alberta governments, requesting a halt to the deportation of ten international students. These students were allegedly targeted for immigration enforcement by border officials during a protest in Calgary against changes to post-graduation work permit eligibility, raising concerns about the violation of their Charter right to free speech and the chilling effect on migrant activism.",
-      "graph": ["International Students", "Deportation", "Immigration Policy", "Charter Rights", "Freedom of Speech"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strong advocacy for the rights of migrants and international students, condemning actions that suppress peaceful protest and calling for humane and equitable immigration policies that respect Charter freedoms." },
-          "center": { "label": "Procedural Context", "synthesis": "Examination of the legal interpretation of immigration regulations and Charter rights, assessing the procedures of immigration enforcement and the role of protests in influencing policy changes." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasis on upholding immigration laws and regulations, asserting that temporary residents must comply with visa conditions, while also recognizing the importance of maintaining public order during protests." }
-        },
-        "neutral": "Unified objective summary statement."
-      }
-    }
-  ]
+  "immigration": []
 }
