@@ -1,179 +1,218 @@
 {
   "federalism": [
     {
-      "id": "alberta-diplomacy-trade-war-cbc-7332762",
+      "id": "federalism-1-tariffs-us",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Alberta's Diplomatic Approach to Canada-U.S. Trade Disputes",
+      "title": "Canada Implements $27.6 Billion in Counter-Tariffs Against U.S. Amid Stalled Negotiations",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/alberta-diplomacy-u-s-canada-trade-war-9.7332762?cmp=rss",
-      "summary": "Alberta has adopted a 'diplomacy-first' strategy in its trade relations with the United States, contrasting with other provinces that advocate for more aggressive measures like retaliatory tariffs or energy export cuts. Alberta's senior representative to the U.S. argues this approach has resulted in a disproportionately low impact of U.S. tariffs on the provincial economy and fostered greater responsiveness from American officials, partly attributed to Alberta's unique stance of not imposing levies on U.S. alcohol imports.",
-      "graph": ["Provincial Autonomy", "International Trade", "Canada-U.S. Relations", "Intergovernmental Relations", "Economic Policy"],
+      "url": "https://www.cbc.ca/news/politics/no-talks-scheduled-canada-counter-tariffs-9.7334813?cmp=rss",
+      "summary": "Canada is proceeding with retaliatory tariffs on $27.6 billion worth of U.S. goods, including steel, dairy, and wood products, starting September 8. This action follows the U.S. imposition of 50 percent tariffs on Canadian goods and the collapse of trade talks. The Prime Minister's Office confirmed no further negotiations are scheduled before the deadline, escalating the trade dispute.",
+      "graph": ["International Trade", "Tariffs", "Canada-US Relations", "Economic Retaliation", "Federal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the 'diplomacy-first' approach if it undermines national unity on trade, or if it prioritizes provincial economic interests over broader Canadian strategic goals, potentially questioning the efficacy of bilateral provincial diplomacy versus a strong federal approach." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical outcomes and strategic choices within the existing federal framework, viewing Alberta's approach as a pragmatic, results-oriented strategy to mitigate economic harm within its jurisdiction, while acknowledging the need for federal coordination." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports provincial autonomy in economic policy and international engagement where it benefits the province, seeing Alberta's approach as an effective exercise of provincial self-interest and a potentially more efficient way to navigate trade disputes than a rigid federal 'Team Canada' approach." }
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes protectionist measures for potentially harming consumers and specific industries; advocates for diplomatic solutions and support for affected workers; highlights the need for balanced trade policies that consider social impact." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the government's duty to protect national economic interests and respond to foreign tariffs; emphasizes the strategic importance of a firm stance while seeking de-escalation through diplomatic channels." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about the overall economic cost of tariffs and trade wars, advocating for free market principles; calls for clear communication from government on economic impacts and a definitive plan to resolve disputes efficiently." }
         },
-        "neutral": "Alberta's government has pursued a diplomatic strategy in its trade dealings with the U.S., claiming it has shielded the province from some economic impacts of broader Canada-U.S. trade tensions, contrasting with more confrontational provincial stances."
+        "neutral": "The Canadian government is proceeding with retaliatory tariffs on U.S. goods following the breakdown of trade talks, initiating a significant economic escalation between the two nations."
       }
     },
     {
-      "id": "quebec-election-referendum-globe-mail",
+      "id": "federalism-2-defence-procurement",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Stephen Fuhr Appointed Secretary of State for Defence Procurement, Set for Expanded Powers",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/stephen-fuhr-canada-defence-procurement-rcaf-f35-9.7333073?cmp=rss",
+      "summary": "Former CF-18 pilot Stephen Fuhr, previously known for opposing F-35 acquisitions, has been appointed as Canada's Secretary of State for Defence Procurement. He leads the new Defence Investment Agency, created to streamline military acquisitions worth tens of billions. Proposed Bill C-31 could grant him \"super minister\" powers to award sole-sourced contracts for economic security, aiming to increase domestic production and diversify international defence partners.",
+      "graph": ["Defence Procurement", "Military Policy", "Federal Government Appointments", "Bill C-31", "Industrial Strategy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the concentration of power in a \"super minister\" and advocate for robust oversight and transparency in defence spending; emphasizes potential for domestic job creation and technological independence over foreign military reliance." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the move as an attempt to enhance efficiency and strategic capacity in defence procurement, acknowledging the need for agility in a complex global security environment; stresses the importance of balancing speed with due process." },
+          "right": { "label": "Conservative Context", "synthesis": "Could express reservations about expanding government powers in procurement and the potential for politicization or inefficiency in sole-sourced contracts; may prioritize proven military capabilities and alliances over domestic production at increased cost." }
+        },
+        "neutral": "A new federal appointment in defence procurement, Stephen Fuhr, is poised to gain significant authority through Bill C-31, aiming to transform Canada's military acquisition process towards greater domestic and diversified international sourcing."
+      }
+    },
+    {
+      "id": "federalism-3-poilievre-transparency",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Quebec Provincial Election Looms with Focus on Health, Affordability, and Sovereignty Debate",
+      "title": "Conservative Leader Poilievre Demands Federal Transparency on Economic Impact of U.S. Counter-Tariffs",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-quebec-parties-affordability-referendum-election-looms/",
-      "summary": "As a Quebec provincial election approaches, political parties are concentrating their campaigns on key issues such as healthcare and affordability. The debate over a potential referendum on sovereignty also re-emerges, with accusations that the Parti Québécois leader is strategically avoiding the term 'referendum' while still advocating for the party's core objective of Quebec independence.",
-      "graph": ["Quebec Politics", "Provincial Election", "Sovereignty", "Health Policy", "Affordability", "Referendum"],
+      "url": "https://www.theglobeandmail.com/politics/article-canada-us-trade-war-counter-tariffs-pierre-poilievre-transparency-from/",
+      "summary": "Conservative Leader Pierre Poilievre has urged the federal government, led by Prime Minister Carney, to provide Canadians with full transparency regarding the anticipated economic impact of the retaliatory tariffs against the U.S. Poilievre also renewed calls for the release of details concerning the recently collapsed Canada-U.S. trade deal.",
+      "graph": ["Political Accountability", "Trade Policy", "Opposition Politics", "Economic Transparency", "Federal Governance"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes social programs like healthcare and policies addressing affordability as critical. Support for Quebec sovereignty might be framed within a broader self-determination context, while also questioning how independence would impact social equity." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of the election and policy proposals within the existing federal framework. Views the referendum debate as a recurring political theme, analyzing its strategic implications and public reception without taking a definitive stance on sovereignty." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes economic stability and fiscal responsibility in health and affordability debates. On sovereignty, conservative viewpoints might either support greater provincial autonomy for economic advantage or staunchly oppose separation for national unity and market stability reasons. Critiques of the PQ's 'avoidance' might frame it as political opportunism." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports demands for government accountability and ensuring public understanding of policies affecting livelihoods; may align with calls for more comprehensive impact assessments and worker protections." },
+          "center": { "label": "Procedural Context", "synthesis": "Interprets the call as a standard function of parliamentary opposition to ensure public discourse is informed; emphasizes the importance of data-driven policy communication." },
+          "right": { "label": "Conservative Context", "synthesis": "Reinforces the principle of government transparency, particularly on fiscal and economic decisions that directly affect businesses and taxpayers; aligns with calls for less government secrecy and more public disclosure." }
         },
-        "neutral": "Quebec's upcoming provincial election centers on health and affordability, alongside a rekindled, albeit nuanced, discussion on provincial sovereignty and a potential referendum by the Parti Québécois."
+        "neutral": "The Official Opposition demands the federal government release detailed economic impact assessments of pending U.S. counter-tariffs and disclosures on the failed trade deal negotiations."
       }
     },
     {
-      "id": "canada-founding-us-nationalpost",
+      "id": "federalism-4-quebec-cabinet-tariffs",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Quebec Premier Fréchette Convenes Cabinet Meeting in Response to Impending Federal Tariffs on U.S. Goods",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-quebec-premier-frechette-calls-cabinet-meeting-ahead-of-tariffs/",
+      "summary": "Quebec Premier Christine Fréchette has called a cabinet meeting to discuss the implications of Canada's forthcoming retaliatory tariffs on U.S. products. This proactive provincial response underscores regional concerns and the need for internal strategizing in Quebec ahead of the federal policy's implementation, highlighting the interwoven nature of federal and provincial economic impacts.",
+      "graph": ["Provincial Governance", "Federal-Provincial Relations", "Trade Tariffs Impact", "Quebec Economy", "Intergovernmental Strategy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for provincial measures to protect local industries and workers from trade disruptions; highlights the need for federal government to consider provincial economic diversity and provide support." },
+          "center": { "label": "Procedural Context", "synthesis": "Views this as a prudent step for provincial leadership to assess and prepare for the local economic consequences of federal policy, ensuring regional interests are considered in national actions." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes provincial autonomy in managing its economy and responding to external pressures; could suggest federal trade policy inadequately considers diverse provincial impacts, necessitating strong provincial advocacy." }
+        },
+        "neutral": "Quebec's Premier has called a cabinet meeting to address the provincial impact of Canada's upcoming retaliatory tariffs against the U.S., emphasizing the intersection of federal trade policy and provincial economic strategy."
+      }
+    },
+    {
+      "id": "federalism-5-quebec-anti-anglo-opinion",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Canadian Identity and National Founding in Contrast to the United States",
+      "title": "Opinion: Quebec's Anti-Anglophone Policies Deemed Detrimental to Provincial Future",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/canada-founded",
-      "summary": "This opinion piece argues that Canada's founding was fundamentally shaped by a desire to differentiate itself from the United States. The author suggests that early Canadians had clear reasons for not wishing to adopt the American model, highlighting a core aspect of Canadian national identity and historical development distinct from its southern neighbour.",
-      "graph": ["Canadian Identity", "National History", "Canada-U.S. Relations", "Political Philosophy", "Nationalism"],
+      "url": "https://nationalpost.com/opinion/chris-selley-quebec-cannot-afford-this-anti-anglo-decadence",
+      "summary": "In an opinion piece, Chris Selley argues that Quebec's restrictive language policies, characterized as \"anti-anglo decadence,\" are economically and socially unsustainable. The commentary criticizes perceived overreach in dictating private linguistic choices and questions the long-term viability of such policies for Quebec's societal and economic well-being within Canada.",
+      "graph": ["Quebec Language Law", "Linguistic Rights", "National Identity", "Federal-Provincial Tensions", "Societal Cohesion", "Opinion"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights progressive and inclusive elements of Canadian identity as a contrast to perceived American individualism, emphasizing multiculturalism and social safety nets as key differentiators." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the historical distinction from the U.S. as a foundational, pragmatic aspect of nation-building, contributing to a distinct political and social evolution, analyzing the historical context and its ongoing influence on Canadian governance and values." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes unique conservative traditions and the parliamentary system as differentiators from the U.S., supporting a strong national identity distinct from American influence, particularly in economic or cultural sovereignty." }
+          "left": { "label": "Progressive Context", "synthesis": "While often supportive of linguistic protection for minority languages, may critique policies that marginalize English-speaking communities within Quebec and emphasize the importance of inclusive approaches to diversity." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and constitutional debates surrounding language laws, seeking a balance between collective cultural preservation and individual linguistic rights; advocates for pragmatic solutions that minimize social division." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes government intervention in private linguistic matters and the potential negative economic consequences of policies that alienate a segment of the population; emphasizes individual liberty and free choice." }
         },
-        "neutral": "An opinion piece asserts that Canada's national identity and historical development were fundamentally defined by a conscious effort to differentiate itself from the United States from its inception."
+        "neutral": "An opinion column criticizes Quebec's language policies as economically and socially detrimental, arguing they constitute an overreach in linguistic regulation that undermines the province's future."
       }
     },
     {
-      "id": "ontario-liberal-byelection-nationalpost",
+      "id": "federalism-6-sovereignty-trade-opinion",
       "category": "Federalism",
       "source": "National Post",
-      "title": "Ontario Liberal Party Suffers Setback in By-elections, Halting Perceived Resurgence",
+      "title": "Opinion: Canada Must Reject U.S. Demands to Alter Domestic Laws, Upholding Legal Sovereignty",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/scott-stinson-ontario-liberal-resurgence-comes-to-abrupt-halt-with-byelection-losses",
-      "summary": "An opinion piece discusses the Ontario Liberal Party's performance in recent by-elections, noting that unexpected losses have dampened earlier indications of a potential resurgence. Despite favorable province-wide polling, the by-election results highlight the significant challenges and work required for the party to rebuild its political strength at the provincial level, especially in the absence of a permanent leader.",
-      "graph": ["Provincial Politics", "Ontario Election", "Liberal Party", "By-election Results", "Political Strategy"],
+      "url": "https://nationalpost.com/opinion/barry-appleton-trumps-demands-to-change-our-laws-must-be-rejected",
+      "summary": "Barry Appleton's opinion column asserts Canada's sovereign right to determine its own laws, arguing that U.S. President Trump's demands for Canada to change its legal framework must be unequivocally rejected. The piece emphasizes that the interpretation and survival of Canadian laws are matters for Canadian courts alone, not subject to foreign influence or preferences.",
+      "graph": ["Canadian Sovereignty", "International Law", "US-Canada Diplomatic Relations", "Legal Autonomy", "National Interest", "Opinion"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Analyzes the by-election results in terms of underlying voter dissatisfaction with the current provincial government or the need for the Liberal party to adopt more distinct progressive policies to differentiate itself, potentially advocating for a renewed focus on social programs." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the tactical and strategic implications of the by-election results for the Ontario Liberal Party and the broader provincial political landscape, assessing the party's current standing and path forward based on electoral performance and public opinion." },
-          "right": { "label": "Conservative Context", "synthesis": "Interprets the losses as a rejection of perceived left-leaning policies or a reaffirmation of a preference for conservative governance in Ontario, potentially critiquing the Liberal party's platform or leadership vacuum as reasons for their failure to convert poll numbers into electoral success." }
+          "left": { "label": "Progressive Context", "synthesis": "Underscores the principle of national self-determination and resistance to external political or economic coercion; champions the protection of domestic legal systems from foreign encroachment." },
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the constitutional and procedural integrity of Canada's legal system, advocating for a principled diplomatic approach that upholds national sovereignty while navigating international pressures." },
+          "right": { "label": "Conservative Context", "synthesis": "Vigorously defends national sovereignty and the independence of domestic legal institutions; criticizes any perceived capitulation to foreign demands that could undermine Canada's autonomy." }
         },
-        "neutral": "The Ontario Liberal Party experienced a setback in recent by-elections, despite positive province-wide polling, indicating challenges in translating public support into electoral gains and highlighting the need for strategic rebuilding."
+        "neutral": "An opinion piece advocates for Canada's unwavering defense of its legal sovereignty against U.S. demands to alter domestic laws, asserting that Canadian courts are the sole arbiters of national legislation."
       }
     },
     {
-      "id": "us-ambassadors-canada-nationalpost",
+      "id": "federalism-7-liberal-poll-stalled",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Contrasting Perspectives of U.S. Ambassadors on Canada-U.S. Relations",
+      "source": "The Hub",
+      "title": "Federal Liberal Support Stalls at 44% Despite By-election Successes, Ipsos Poll Indicates",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/hoekstra-vs-heyman-u-s-ambassador-to-canada",
-      "summary": "This article examines the differing views of two former U.S. ambassadors to Canada, Hoekstra and Heyman, on the nature of the Canada-U.S. relationship. Their contrasting perspectives—one seeing Canada as a distinct nation and the other implying a closer, '51st state' status—highlight the varied interpretations of bilateral ties and Canadian sovereignty.",
-      "graph": ["Canada-U.S. Relations", "Diplomacy", "National Sovereignty", "Foreign Policy", "Political Perceptions"],
+      "url": "https://thehub.ca/2026/09/07/ipsos-poll-leaves-liberals-stuck-at-44-despite-by-election-sweep/",
+      "summary": "An Ipsos poll reveals that federal Liberal support remains stagnant at 44%, the same level as the last general election, despite the party's recent sweep of three by-elections. Analysts suggest this stability indicates voters distinguish between approving Prime Minister Mark Carney's handling of U.S. President Trump and converting that approval into broader partisan support for the Liberal party.",
+      "graph": ["Federal Elections", "Public Opinion Polling", "Political Trends", "Liberal Party of Canada", "Voter Behaviour"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes concerns about Canadian sovereignty and cultural independence from the U.S., advocating for policies that reinforce a distinct Canadian identity and progressive values in foreign relations." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the nuances of the diplomatic relationship, acknowledging both the deep integration and the distinct national interests of Canada and the U.S., focusing on the practical implications of different ambassadorial styles and their impact on bilateral affairs." },
-          "right": { "label": "Conservative Context", "synthesis": "Focuses on economic integration and strategic alignment with the U.S., potentially viewing a 'closer' relationship as beneficial for trade and security, while also being concerned with maintaining strong national sovereignty and economic independence within the alliance." }
+          "left": { "label": "Progressive Context", "synthesis": "Analyzes the poll results in the context of specific policy successes or failures, socio-economic factors influencing voter sentiment, and the potential for shifts in support based on future government actions." },
+          "center": { "label": "Procedural Context", "synthesis": "Presents the poll as an objective snapshot of current political sentiment, focusing on the statistical data and potential interpretations for party strategists and electoral outcomes without explicit bias." },
+          "right": { "label": "Conservative Context", "synthesis": "May interpret the flat polling as a ceiling for Liberal support, suggesting underlying dissatisfaction despite specific issue-based approval, and highlighting opportunities for opposition parties to gain ground." }
         },
-        "neutral": "Different U.S. ambassadors to Canada have expressed contrasting views on the Canada-U.S. relationship, ranging from recognizing Canada's distinct sovereignty to suggesting a more integrated '51st state' dynamic, reflecting varied interpretations of bilateral ties."
+        "neutral": "An Ipsos poll indicates federal Liberal support has remained at 44% despite recent by-election wins, suggesting public approval for specific leadership actions does not consistently translate to broader partisan gains."
       }
     },
     {
-      "id": "alberta-separation-debate-nationalpost",
+      "id": "federalism-8-alberta-fiscal-update",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Alberta's Path Forward: Seeking Better Federal Terms vs. Provincial Separation",
+      "source": "The Hub",
+      "title": "Alberta's First Quarter Fiscal Update Projects Surplus Due to High Oil Prices",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/albertans-should-fight-for-a-better-deal-but-separation-is-not-the-way",
-      "summary": "This opinion piece advises Albertans to pursue improved terms within the Canadian federation rather than opting for separation. The author argues that separation would initiate a lengthy and economically uncertain negotiation process with no guaranteed success, advocating instead for strategies to achieve a stronger position within Canada.",
-      "graph": ["Provincial Autonomy", "Western Alienation", "Canadian Unity", "Separation Movements", "Intergovernmental Fiscal Relations"],
+      "url": "https://thehub.ca/2026/09/07/back-in-black-5-things-to-know-from-albertas-first-quarter-fiscal-update/",
+      "summary": "Alberta's first-quarter fiscal update projects a significant shift from an anticipated $9.4 billion deficit to a surplus, driven primarily by surging oil prices. This positive fiscal change highlights the province's continued reliance on energy markets and has substantial implications for provincial spending, debt management, and its broader economic influence within the Canadian federation.",
+      "graph": ["Provincial Economy", "Alberta", "Fiscal Policy", "Oil Prices", "Resource Federalism", "Government Finance"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Agrees with staying in the federation but advocates for a more equitable distribution of wealth and resources across provinces, potentially through federal equalization, and might critique the underlying causes of alienation from a social justice perspective." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on pragmatic approaches to provincial-federal relations, emphasizing negotiation and compromise to maintain national unity and economic stability, rejecting radical solutions like separation due to their inherent risks and complexities." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports greater provincial autonomy and a 'better deal' for Alberta, often through reduced federal intervention and increased control over natural resources and fiscal policy. While advocating for strong provincial rights, this opinion piece specifically rejects separation as impractical and too risky, preferring to strengthen Alberta's position within Canada." }
+          "left": { "label": "Progressive Context", "synthesis": "Might advocate for utilizing the surplus for diversifying Alberta's economy, investing in social programs, or transitioning to green energy, while also discussing the federal government's role in resource revenue sharing." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports factually on the fiscal update, noting the volatility of resource-based economies and the challenges of long-term financial planning; discusses implications for provincial budgets and intergovernmental fiscal relations." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the benefits of strong resource sectors for provincial prosperity and limited government intervention; celebrates fiscal responsibility and the return to surplus, potentially advocating for tax cuts or debt reduction." }
         },
-        "neutral": "An opinion piece argues that Albertans should prioritize negotiating better terms within the Canadian federation over pursuing separation, citing the economic uncertainties and prolonged negotiations inherent in a secessionist path."
-      }
-    },
-    {
-      "id": "ontario-smartphone-ban-torontosun",
-      "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Scrutiny on Youth Smartphone Use and Ontario's School Ban",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/provincial/back-to-school-means-closer-look-at-youth-smartphone-use",
-      "summary": "With the return to school, there's renewed attention on youth smartphone use and the effectiveness of Ontario's provincial policy banning cellphones in schools. The article delves into the efforts by educators to manage students' mobile device usage and the implications of this policy on the school environment and student behaviour, showcasing provincial policy-making in education.",
-      "graph": ["Education Policy", "Provincial Governance", "Youth Technology Use", "Public Policy", "School Environment"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Raises concerns about digital equity, access to information, and student expression rights, potentially viewing outright bans as overly restrictive without addressing underlying issues of device use, advocating for educational approaches rather than punitive ones." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical implementation and effectiveness of the provincial policy, balancing educational goals with student well-being and parental concerns, evaluating the policy based on its measurable impact on learning environments." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports measures to restore order and focus in schools, often aligning with parental authority and traditional educational values, viewing the cellphone ban as a necessary step to reduce distractions and improve academic performance." }
-        },
-        "neutral": "Ontario's provincial policy banning cellphones in schools is under renewed scrutiny, with discussions focusing on its effectiveness in managing youth smartphone use and its impact on learning environments and student behavior."
+        "neutral": "Alberta's first-quarter fiscal update reports a shift to a budget surplus, primarily due to increased oil prices, impacting the province's financial outlook and its role in national economic discussions."
       }
     }
   ],
   "charter": [
     {
-      "id": "scc-legality-review-slaw-134",
+      "id": "charter-1-museums-hate-speech",
       "category": "Charter",
-      "source": "Slaw.ca (Supreme Advocacy)",
-      "title": "Supreme Court Upholds Constitutional Guarantee of Legality Review of Delegated Powers",
+      "source": "The Hub",
+      "title": "Opinion: Canadian Museums Accused of Promoting Bias and Hatred Through Activist Curation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/06/summaries-sunday-supreme-advocacy-134/",
-      "summary": "The Supreme Court of Canada (2026 SCC 28) affirmed the constitutional guarantee of legality review over all exercises of public authority, finding Section 66 of the Conflict of Interest Act unconstitutional for purporting to bar judicial review on questions of fact. This decision reinforces the fundamental principle that administrative decisions, including those made under delegated powers, are subject to judicial oversight to ensure they remain within legal limits.",
-      "graph": ["Constitutional Law", "Judicial Review", "Separation of Powers", "Administrative Law", "Rule of Law"],
+      "url": "https://thehub.ca/2026/09/07/canadian-museums-are-becoming-platforms-of-hatred/",
+      "summary": "An opinion piece criticizes Canadian museums, specifically the Canadian Museum for Human Rights, for allegedly veering from their mandate of objective information to become \"platforms of hatred\" through biased exhibits. Citing the \"Nakba exhibit\" as an example, the author argues that selective curation, omitting key historical context, promotes antisemitism and contradicts the institution's purpose of fostering respect and dialogue, raising concerns about curatorial independence versus institutional accountability and the impact on public discourse.",
+      "graph": ["Freedom of Expression", "Hate Speech", "Cultural Policy", "Institutional Mandate", "Antisemitism", "Public Discourse"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views the upholding of judicial review as a vital protection against potential abuses of power by the executive and a safeguard for individual rights, emphasizing the importance of accountability and transparency in governance." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the preservation of the constitutional order and the proper functioning of the legal system, ensuring that delegated powers remain within their legal limits and that administrative decisions are subject to appropriate oversight, balancing government efficiency and judicial accountability." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports strict adherence to constitutional principles and limits on government power, approving of judicial review as a necessary check on legislative and executive overreach, ensuring that state actions conform to established legal frameworks and rule of law." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for the right of museums to present challenging historical narratives and diverse perspectives, including those of marginalized communities, while also acknowledging the need to balance this with preventing hate speech and ensuring respectful representation." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the legal and ethical responsibilities of publicly funded institutions to ensure balance, accuracy, and adherence to their mandates; focuses on procedural fairness and mechanisms for public input and redress." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes what it perceives as ideological capture and politicization of cultural institutions, arguing for strict adherence to objective historical facts and against the use of public funds to promote divisive or \"hateful\" narratives. Emphasizes institutional accountability and traditional values." }
         },
-        "neutral": "The Supreme Court of Canada reinforced the constitutional principle of legality review, striking down a provision of the Conflict of Interest Act that sought to limit judicial review of administrative decisions, thereby affirming the judiciary's role in overseeing delegated powers."
+        "neutral": "An opinion piece sparks debate on the role of Canadian museums, specifically the Canadian Museum for Human Rights, arguing that some exhibits promote bias and hatred, challenging the balance between curatorial independence, historical accuracy, and institutional mandates under the Charter."
       }
     }
   ],
-  "indigenous": [],
-  "criminal": [
+  "indigenous": [
     {
-      "id": "quebec-murder-appeal-slaw-643",
-      "category": "Criminal",
-      "source": "Slaw.ca (SOQUIJ)",
-      "title": "Quebec Court of Appeal Upholds First-Degree Murder Conviction Amid Jury Contamination Allegations",
+      "id": "indigenous-1-land-disputes-bc",
+      "category": "Indigenous",
+      "source": "The Hub",
+      "title": "Opinion: Federal and Provincial Governments Undermining Their Position in B.C. Aboriginal Land Disputes",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/06/summaries-sunday-soquij-643/",
-      "summary": "The Quebec Court of Appeal (2026 QCCA 1107) upheld a first-degree murder conviction, rejecting an appeal based on alleged jury contamination and the admission of updated DNA probability calculations. The Court found that the trial judge's inquiry into two boxes of prior trial evidence mistakenly placed in the jury deliberation room was sufficient to prevent prejudice, and that the judge's directives to the jury ensured impartiality. The appellant's argument regarding updated DNA calculations also failed to demonstrate a compromise to trial fairness.",
-      "graph": ["Criminal Law", "Jury Deliberation", "Trial Fairness", "DNA Evidence", "Appellate Review", "Procedural Justice"],
+      "url": "https://thehub.ca/2026/09/07/aboriginal-land-disputes-continue-in-b-c-and-federal-and-provincial-governments-are-crippling-their-own-cases/",
+      "summary": "An opinion piece argues that federal and provincial governments are weakening their own legal positions in ongoing Aboriginal land disputes in British Columbia, specifically following the _Cowichan_ decision which affirmed Aboriginal title as \"senior and prior\" to fee simple property. The author expresses concern that this approach creates legal uncertainty for private property owners and hinders resolution, emphasizing the critical need for clearer governmental strategy in land claims and reconciliation efforts.",
+      "graph": ["Aboriginal Title", "Indigenous Land Rights", "British Columbia", "Federal-Provincial Legal Disputes", "Property Law", "Reconciliation Challenges"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the rights of the accused and the critical importance of procedural safeguards to ensure a fair trial, including strict measures against jury contamination, and might express concern about potential implicit biases or procedural missteps." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the proper application of judicial procedure, the discretion of the trial judge in managing jury incidents, and the appellate court's role in reviewing such decisions, upholding the principle of fair trial within established legal norms." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of upholding convictions where legal processes are found to be sufficient, balancing the rights of the accused with the need for effective justice administration and public safety, stressing finality in judicial outcomes where no grave error occurred." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust protection and affirmation of Indigenous rights and title, viewing government's current approach as insufficient or overly litigious; supports comprehensive and just reconciliation that recognizes Indigenous sovereignty." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the complex legal and policy challenges of reconciling Aboriginal title with existing property rights; emphasizes the need for clarity in law and consistent governmental policy to achieve fair and lasting settlements." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about the implications of expansive Aboriginal title rulings on private property rights and economic development; criticizes government's handling of these cases for creating legal ambiguity and potential disincentives for investment." }
         },
-        "neutral": "The Quebec Court of Appeal confirmed a first-degree murder conviction, ruling that the trial judge adequately addressed concerns over potential jury contamination and that the admission of updated DNA evidence did not compromise the fairness of the trial."
+        "neutral": "An opinion piece critically assesses the federal and provincial governments' handling of Aboriginal land disputes in British Columbia, arguing their approach post-Cowichan decision creates legal uncertainty and hinders reconciliation efforts."
+      }
+    }
+  ],
+  "criminal": [
+    {
+      "id": "criminal-1-flag-burning-court",
+      "category": "Criminal",
+      "source": "National Post",
+      "title": "Opinion: Accused of Israeli Flag Burning Appears in Montreal Court Wearing Hamas Shirt",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/terry-newman-montreal-israeli-flag-arsonist-wears-shirt-with-hamas-spokesperson-to-court",
+      "summary": "An opinion piece discusses a Montreal court appearance where an individual accused of burning an Israeli flag wore a shirt depicting a Hamas spokesperson. The author uses this incident to highlight broader concerns about antisemitism and what they perceive as problematic expressions in public and institutional spaces, arguing that such acts and displays reflect a growing issue of Jew-hatred. The legal proceedings for the flag burning fall under criminal law, while the public display during court raises questions about conduct and freedom of expression within the justice system context.",
+      "graph": ["Public Order Offence", "Hate Symbols", "Judicial Conduct", "Antisemitism", "Freedom of Expression Limits", "Montreal Law Enforcement"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May analyze the incident in terms of free speech rights and the right to protest, while unequivocally condemning antisemitism and any incitement to hatred; might call for a deeper understanding of underlying social tensions." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the impartial application of criminal law concerning public disturbances and hate speech, as well as the decorum and rules of conduct within court proceedings; emphasizes the balance between rights and public safety." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly condemns the display as a provocative act potentially endorsing terrorism and antisemitism; calls for strict enforcement of laws against hate crimes and maintaining order in judicial settings, prioritizing public safety and denouncing radicalism." }
+        },
+        "neutral": "An individual accused of burning an Israeli flag in Montreal appeared in court wearing a Hamas-themed shirt, sparking public debate on the intersection of criminal conduct, freedom of expression, and displays of support for controversial groups within the judicial system."
       }
     }
   ],
