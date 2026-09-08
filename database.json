@@ -1,218 +1,236 @@
 {
   "federalism": [
     {
-      "id": "federalism-1-tariffs-us",
+      "id": "cbcc7f215d862f928a3f80c657a221f7",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada Implements $27.6 Billion in Counter-Tariffs Against U.S. Amid Stalled Negotiations",
+      "title": "U.S., Canada trade reps expected to speak today, sources say, as Ottawa's counter-tariffs take effect",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/no-talks-scheduled-canada-counter-tariffs-9.7334813?cmp=rss",
-      "summary": "Canada is proceeding with retaliatory tariffs on $27.6 billion worth of U.S. goods, including steel, dairy, and wood products, starting September 8. This action follows the U.S. imposition of 50 percent tariffs on Canadian goods and the collapse of trade talks. The Prime Minister's Office confirmed no further negotiations are scheduled before the deadline, escalating the trade dispute.",
-      "graph": ["International Trade", "Tariffs", "Canada-US Relations", "Economic Retaliation", "Federal Policy"],
+      "url": "https://www.cbc.ca/news/livestory/canada-u-s-retaliatory-tariffs-dollar-for-dollar-9.7331632?cmp=rss",
+      "summary": "Canada's retaliatory tariffs on nearly $28 billion in U.S. products are now in effect, escalating the trade dispute. U.S. Trade Representative Jamieson Greer and Canadian Trade Minister Dominic LeBlanc are scheduled to speak, though Canadian officials anticipate the discussion will focus on the U.S. response rather than immediate de-escalation of core issues.",
+      "graph": ["Trade Policy", "International Relations", "Tariffs", "Economic Conflict", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes protectionist measures for potentially harming consumers and specific industries; advocates for diplomatic solutions and support for affected workers; highlights the need for balanced trade policies that consider social impact." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the government's duty to protect national economic interests and respond to foreign tariffs; emphasizes the strategic importance of a firm stance while seeking de-escalation through diplomatic channels." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about the overall economic cost of tariffs and trade wars, advocating for free market principles; calls for clear communication from government on economic impacts and a definitive plan to resolve disputes efficiently." }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on the need to protect Canadian industries and workers from aggressive U.S. trade policies, advocating for stronger government intervention and diversified trade partners." },
+          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the procedural aspects of the trade dispute, diplomatic efforts, and the economic ramifications for both countries. Highlights the complexities of international trade relations and the need for a balanced response." },
+          "right": { "label": "Conservative Context", "synthesis": "Views Canadian tariffs as a necessary but costly response to protectionist U.S. policies, potentially criticizing government handling of negotiations or advocating for a swift resolution to minimize market disruption. Could also emphasize national sovereignty in trade." }
         },
-        "neutral": "The Canadian government is proceeding with retaliatory tariffs on U.S. goods following the breakdown of trade talks, initiating a significant economic escalation between the two nations."
+        "neutral": "Escalation of the Canada-U.S. trade dispute as Canada implements retaliatory tariffs on American goods, with diplomatic communication ongoing but without clear negotiation on core issues."
       }
     },
     {
-      "id": "federalism-2-defence-procurement",
+      "id": "e229e0618b7c7b8971f64f59c86a1112",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Stephen Fuhr Appointed Secretary of State for Defence Procurement, Set for Expanded Powers",
+      "title": "Carney warns of tough times ahead in video message as retaliatory tariffs kick in",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/stephen-fuhr-canada-defence-procurement-rcaf-f35-9.7333073?cmp=rss",
-      "summary": "Former CF-18 pilot Stephen Fuhr, previously known for opposing F-35 acquisitions, has been appointed as Canada's Secretary of State for Defence Procurement. He leads the new Defence Investment Agency, created to streamline military acquisitions worth tens of billions. Proposed Bill C-31 could grant him \"super minister\" powers to award sole-sourced contracts for economic security, aiming to increase domestic production and diversify international defence partners.",
-      "graph": ["Defence Procurement", "Military Policy", "Federal Government Appointments", "Bill C-31", "Industrial Strategy"],
+      "url": "https://www.cbc.ca/news/politics/carney-national-address-tariffs-9.7335475?cmp=rss",
+      "summary": "Prime Minister Mark Carney issued a video message warning Canadians that the country's economic \"pivot\" away from the United States, in response to the ongoing trade war, will incur costs but is preferable to inaction. He reiterated the strategy to seek new trade deals globally to reduce reliance on the U.S. and accused the U.S. of attempting to restrict Canada's trade and cultural protections.",
+      "graph": ["Trade Policy", "Economic Strategy", "Government Communication", "International Trade", "National Sovereignty"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the concentration of power in a \"super minister\" and advocate for robust oversight and transparency in defence spending; emphasizes potential for domestic job creation and technological independence over foreign military reliance." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the move as an attempt to enhance efficiency and strategic capacity in defence procurement, acknowledging the need for agility in a complex global security environment; stresses the importance of balancing speed with due process." },
-          "right": { "label": "Conservative Context", "synthesis": "Could express reservations about expanding government powers in procurement and the potential for politicization or inefficiency in sole-sourced contracts; may prioritize proven military capabilities and alliances over domestic production at increased cost." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports the government's stance on defending Canadian sovereignty and diversifying trade, seeing the 'pivot' as an opportunity to build a more resilient and independent economy. Critical of U.S. protectionism." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the government's communication strategy and the economic realities of trade diversification. Focuses on the anticipated costs and benefits, and the effectiveness of the government's long-term plan." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses skepticism about the 'pivot' strategy, questioning the economic costs for Canadian businesses and consumers. Calls for greater transparency regarding the abandoned trade deal and potentially criticizes the government's negotiation tactics." }
         },
-        "neutral": "A new federal appointment in defence procurement, Stephen Fuhr, is poised to gain significant authority through Bill C-31, aiming to transform Canada's military acquisition process towards greater domestic and diversified international sourcing."
+        "neutral": "Prime Minister Mark Carney acknowledged economic costs from Canada's trade pivot away from the U.S. following new tariffs, asserting it's a necessary move to counter U.S. trade aggression and build a more resilient economy."
       }
     },
     {
-      "id": "federalism-3-poilievre-transparency",
+      "id": "e4c9e42e5d996d11f87c2f6d0a7a01d5",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Canada's new tariffs: Are small businesses 'cannon fodder' in the trade war?",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/business/new-canada-tariffs-9.7334999?cmp=rss",
+      "summary": "With Canada's dollar-for-dollar retaliatory tariffs now active on $28 billion of U.S. imports, experts and business federations warn that small and medium-sized enterprises (SMEs) will bear a disproportionate burden through higher costs and supply chain disruptions, while consumers might see less immediate impact. This raises concerns about SMEs being 'cannon fodder' in the larger trade dispute.",
+      "graph": ["Trade War", "Small Business Impact", "Economic Policy", "Tariffs", "Supply Chain"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the vulnerability of small businesses and workers to large-scale trade conflicts, advocating for government support and protectionist measures that prioritize domestic industries over international market forces." },
+          "center": { "label": "Procedural Context", "synthesis": "Examines the economic mechanics of tariffs and their ripple effects on various sectors. Focuses on data-driven analysis of import costs, supply chain adjustments, and overall economic impact on different business sizes." },
+          "right": { "label": "Conservative Context", "synthesis": "Criticizes government trade policies for inadvertently harming domestic businesses, particularly SMEs, through protectionist measures. Advocates for free market principles and reducing barriers to trade to ensure business competitiveness." }
+        },
+        "neutral": "Canadian retaliatory tariffs on U.S. imports are taking effect, with concerns raised by experts and business groups that small and medium-sized businesses will disproportionately suffer from increased costs and supply chain challenges."
+      }
+    },
+    {
+      "id": "311902a781b16c80c057edc463f27329",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Trump to Canadian plane maker Bombardier: You can't sell in U.S. unless you build in U.S.",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/trump-bombardier-truth-social-post-9.7335014?cmp=rss",
+      "summary": "U.S. President Donald Trump, in a social media post, threatened to bar Montreal-based Bombardier from selling aircraft in the U.S. market unless the company shifts its manufacturing operations to the United States. This declaration came amidst escalating Canada-U.S. trade tensions, despite Bombardier already having a manufacturing presence in the U.S. and its products complying with the CUSMA trade deal.",
+      "graph": ["Trade War", "Bombardier", "Manufacturing", "U.S. Protectionism", "International Trade Agreements"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Denounces Trump's \"America First\" protectionism as a threat to global trade and Canadian industry, emphasizing the importance of fair international trade rules and defending Canadian jobs." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and economic implications of Trump's threat within the context of international trade agreements like CUSMA. Focuses on the factual status of Bombardier's U.S. operations and the feasibility of such a ban." },
+          "right": { "label": "Conservative Context", "synthesis": "Views Trump's actions as aggressive but potentially understandable in a competitive global market, advocating for Canadian companies to adapt and strengthen domestic production to mitigate foreign pressure." }
+        },
+        "neutral": "U.S. President Donald Trump has publicly threatened to block Canadian plane manufacturer Bombardier's sales in the U.S. unless it expands U.S. manufacturing, escalating trade rhetoric despite Bombardier's existing American footprint and CUSMA compliance."
+      }
+    },
+    {
+      "id": "e2c040d34604e38e658e3e430372f88f",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Conservative Leader Poilievre Demands Federal Transparency on Economic Impact of U.S. Counter-Tariffs",
+      "title": "Canadian countertariffs take effect on $28-billion of U.S. imports",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-trade-war-us-canada-countertariffs/",
+      "summary": "Canada's dollar-for-dollar counter-tariffs on approximately $28 billion worth of U.S. imports have officially taken effect, a direct response to the 50% tariffs imposed by the U.S. on Canadian goods last month. This action marks a significant escalation in the ongoing trade dispute between the two nations, impacting a wide range of products.",
+      "graph": ["Trade War", "Tariffs", "Bilateral Relations", "Economic Retaliation", "Import/Export"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports the Canadian government's firm stance against U.S. protectionism, asserting the necessity of defending national economic interests and workers through reciprocal measures." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the direct implementation of Canadian counter-tariffs, detailing the economic scope and timeline of this trade measure as a direct consequence of U.S. actions." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over the escalating trade war's potential negative impact on Canadian businesses and consumers, questioning the long-term effectiveness of tit-for-tat tariff exchanges." }
+        },
+        "neutral": "Canada has officially implemented retaliatory tariffs on $28 billion of U.S. imports, directly mirroring U.S. tariffs previously imposed, signifying a further escalation in the bilateral trade conflict."
+      }
+    },
+    {
+      "id": "5256e2c342795a975f284e55e0a0a57e",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Quebec Premier warns of further U.S. retaliation as Canadian countertariffs loom",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-quebec-premier-warns-of-further-us-retaliation-as-canadian/",
+      "summary": "Quebec Premier Christine Fréchette warned of potential further U.S. retaliation as Canada's counter-tariffs came into effect, highlighting the trade war's impact on Quebec's election campaign. She indicated that Ottawa considered Quebec's requests in adjusting its tariff response, and convened a virtual cabinet meeting to address provincial economic protection.",
+      "graph": ["Federal-Provincial Relations", "Trade War", "Quebec Politics", "Economic Impact", "Retaliation"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust provincial and federal coordination to protect local economies and jobs from external trade aggressions, potentially calling for a stronger national strategy to mitigate foreign influence." },
+          "center": { "label": "Procedural Context", "synthesis": "Details the intergovernmental dynamic between federal and provincial authorities during a trade dispute. Focuses on Quebec's specific concerns and the coordinated efforts to adjust national policy, as well as the political implications for the provincial election." },
+          "right": { "label": "Conservative Context", "synthesis": "Questions the provincial government's preparedness for the trade war, advocating for economic diversification and reduced regulation to make Quebec businesses more resilient, rather than relying solely on federal tariff adjustments." }
+        },
+        "neutral": "Quebec Premier Christine Fréchette expressed concern about potential further U.S. retaliation as Canadian counter-tariffs take effect, outlining provincial efforts to mitigate economic fallout and highlighting intergovernmental consultations on the tariff list."
+      }
+    },
+    {
+      "id": "8b5123d57f920f019a16f6b972e340a6",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Poilievre calls for more transparency from Carney ahead of countertariffs",
       "citation": "June 2026 Tracking Window",
       "url": "https://www.theglobeandmail.com/politics/article-canada-us-trade-war-counter-tariffs-pierre-poilievre-transparency-from/",
-      "summary": "Conservative Leader Pierre Poilievre has urged the federal government, led by Prime Minister Carney, to provide Canadians with full transparency regarding the anticipated economic impact of the retaliatory tariffs against the U.S. Poilievre also renewed calls for the release of details concerning the recently collapsed Canada-U.S. trade deal.",
-      "graph": ["Political Accountability", "Trade Policy", "Opposition Politics", "Economic Transparency", "Federal Governance"],
+      "summary": "Conservative Leader Pierre Poilievre criticized Prime Minister Mark Carney for a lack of transparency regarding the specifics of the trade deal Canada rejected before the imposition of new U.S. tariffs and Canada's retaliatory measures. Poilievre demanded that the government release the full details of the proposed agreement and recall Parliament earlier to discuss the trade war's implications.",
+      "graph": ["Political Opposition", "Government Transparency", "Trade Negotiations", "Parliamentary Oversight", "Economic Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports demands for government accountability and ensuring public understanding of policies affecting livelihoods; may align with calls for more comprehensive impact assessments and worker protections." },
-          "center": { "label": "Procedural Context", "synthesis": "Interprets the call as a standard function of parliamentary opposition to ensure public discourse is informed; emphasizes the importance of data-driven policy communication." },
-          "right": { "label": "Conservative Context", "synthesis": "Reinforces the principle of government transparency, particularly on fiscal and economic decisions that directly affect businesses and taxpayers; aligns with calls for less government secrecy and more public disclosure." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports government accountability and public discourse but might focus on the complexities of international negotiations, suggesting that releasing full details prematurely could harm future diplomatic efforts." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the political demand for transparency regarding the details of the failed trade deal, highlighting the opposition's role in scrutinizing government decisions during a national economic challenge." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for immediate governmental transparency and parliamentary oversight, asserting the public's right to know the full context of trade negotiations and their financial implications for Canadian citizens." }
         },
-        "neutral": "The Official Opposition demands the federal government release detailed economic impact assessments of pending U.S. counter-tariffs and disclosures on the failed trade deal negotiations."
+        "neutral": "Conservative Leader Pierre Poilievre called for greater transparency from Prime Minister Mark Carney, demanding the release of full details regarding the rejected U.S.-Canada trade deal and an earlier recall of Parliament amidst escalating counter-tariffs."
       }
     },
     {
-      "id": "federalism-4-quebec-cabinet-tariffs",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Quebec Premier Fréchette Convenes Cabinet Meeting in Response to Impending Federal Tariffs on U.S. Goods",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-quebec-premier-frechette-calls-cabinet-meeting-ahead-of-tariffs/",
-      "summary": "Quebec Premier Christine Fréchette has called a cabinet meeting to discuss the implications of Canada's forthcoming retaliatory tariffs on U.S. products. This proactive provincial response underscores regional concerns and the need for internal strategizing in Quebec ahead of the federal policy's implementation, highlighting the interwoven nature of federal and provincial economic impacts.",
-      "graph": ["Provincial Governance", "Federal-Provincial Relations", "Trade Tariffs Impact", "Quebec Economy", "Intergovernmental Strategy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for provincial measures to protect local industries and workers from trade disruptions; highlights the need for federal government to consider provincial economic diversity and provide support." },
-          "center": { "label": "Procedural Context", "synthesis": "Views this as a prudent step for provincial leadership to assess and prepare for the local economic consequences of federal policy, ensuring regional interests are considered in national actions." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes provincial autonomy in managing its economy and responding to external pressures; could suggest federal trade policy inadequately considers diverse provincial impacts, necessitating strong provincial advocacy." }
-        },
-        "neutral": "Quebec's Premier has called a cabinet meeting to address the provincial impact of Canada's upcoming retaliatory tariffs against the U.S., emphasizing the intersection of federal trade policy and provincial economic strategy."
-      }
-    },
-    {
-      "id": "federalism-5-quebec-anti-anglo-opinion",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Opinion: Quebec's Anti-Anglophone Policies Deemed Detrimental to Provincial Future",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/chris-selley-quebec-cannot-afford-this-anti-anglo-decadence",
-      "summary": "In an opinion piece, Chris Selley argues that Quebec's restrictive language policies, characterized as \"anti-anglo decadence,\" are economically and socially unsustainable. The commentary criticizes perceived overreach in dictating private linguistic choices and questions the long-term viability of such policies for Quebec's societal and economic well-being within Canada.",
-      "graph": ["Quebec Language Law", "Linguistic Rights", "National Identity", "Federal-Provincial Tensions", "Societal Cohesion", "Opinion"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While often supportive of linguistic protection for minority languages, may critique policies that marginalize English-speaking communities within Quebec and emphasize the importance of inclusive approaches to diversity." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and constitutional debates surrounding language laws, seeking a balance between collective cultural preservation and individual linguistic rights; advocates for pragmatic solutions that minimize social division." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes government intervention in private linguistic matters and the potential negative economic consequences of policies that alienate a segment of the population; emphasizes individual liberty and free choice." }
-        },
-        "neutral": "An opinion column criticizes Quebec's language policies as economically and socially detrimental, arguing they constitute an overreach in linguistic regulation that undermines the province's future."
-      }
-    },
-    {
-      "id": "federalism-6-sovereignty-trade-opinion",
-      "category": "Federalism",
-      "source": "National Post",
-      "title": "Opinion: Canada Must Reject U.S. Demands to Alter Domestic Laws, Upholding Legal Sovereignty",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/barry-appleton-trumps-demands-to-change-our-laws-must-be-rejected",
-      "summary": "Barry Appleton's opinion column asserts Canada's sovereign right to determine its own laws, arguing that U.S. President Trump's demands for Canada to change its legal framework must be unequivocally rejected. The piece emphasizes that the interpretation and survival of Canadian laws are matters for Canadian courts alone, not subject to foreign influence or preferences.",
-      "graph": ["Canadian Sovereignty", "International Law", "US-Canada Diplomatic Relations", "Legal Autonomy", "National Interest", "Opinion"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Underscores the principle of national self-determination and resistance to external political or economic coercion; champions the protection of domestic legal systems from foreign encroachment." },
-          "center": { "label": "Procedural Context", "synthesis": "Highlights the constitutional and procedural integrity of Canada's legal system, advocating for a principled diplomatic approach that upholds national sovereignty while navigating international pressures." },
-          "right": { "label": "Conservative Context", "synthesis": "Vigorously defends national sovereignty and the independence of domestic legal institutions; criticizes any perceived capitulation to foreign demands that could undermine Canada's autonomy." }
-        },
-        "neutral": "An opinion piece advocates for Canada's unwavering defense of its legal sovereignty against U.S. demands to alter domestic laws, asserting that Canadian courts are the sole arbiters of national legislation."
-      }
-    },
-    {
-      "id": "federalism-7-liberal-poll-stalled",
+      "id": "029a19c62986427a1b392ee0044962c4",
       "category": "Federalism",
       "source": "The Hub",
-      "title": "Federal Liberal Support Stalls at 44% Despite By-election Successes, Ipsos Poll Indicates",
+      "title": "Ottawa\u2019s counter-tariffs on U.S. dairy, plywood and sunscreen take effect Tuesday amid calls to disclose consumer costs",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/07/ipsos-poll-leaves-liberals-stuck-at-44-despite-by-election-sweep/",
-      "summary": "An Ipsos poll reveals that federal Liberal support remains stagnant at 44%, the same level as the last general election, despite the party's recent sweep of three by-elections. Analysts suggest this stability indicates voters distinguish between approving Prime Minister Mark Carney's handling of U.S. President Trump and converting that approval into broader partisan support for the Liberal party.",
-      "graph": ["Federal Elections", "Public Opinion Polling", "Political Trends", "Liberal Party of Canada", "Voter Behaviour"],
+      "url": "https://thehub.ca/2026/09/08/ottawas-counter-tariffs-on-u-s-dairy-plywood-and-sunscreen-take-effect-tuesday-amid-calls-to-disclose-consumer-costs/",
+      "summary": "Canada's counter-tariffs, targeting $27.6 billion in U.S. imports including dairy products, plywood, and sunscreen, have been implemented. While the Carney government frames these measures as protecting Canadian workers and businesses, critics are demanding transparency on the projected consumer costs and the government's plan to offset the economic impact.",
+      "graph": ["Trade Policy", "Consumer Costs", "Economic Impact", "Tariffs", "Government Accountability"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Analyzes the poll results in the context of specific policy successes or failures, socio-economic factors influencing voter sentiment, and the potential for shifts in support based on future government actions." },
-          "center": { "label": "Procedural Context", "synthesis": "Presents the poll as an objective snapshot of current political sentiment, focusing on the statistical data and potential interpretations for party strategists and electoral outcomes without explicit bias." },
-          "right": { "label": "Conservative Context", "synthesis": "May interpret the flat polling as a ceiling for Liberal support, suggesting underlying dissatisfaction despite specific issue-based approval, and highlighting opportunities for opposition parties to gain ground." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the government's role in strategic economic protection and supports measures to safeguard Canadian industries, while also advocating for social programs to assist consumers facing potential price increases." },
+          "center": { "label": "Procedural Context", "synthesis": "Provides an objective overview of the implemented counter-tariffs, detailing the specific product categories affected and reporting on the ongoing debate surrounding their economic consequences for consumers." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques the government for potentially imposing hidden costs on consumers through tariffs and demands immediate disclosure and accountability regarding the economic burden on Canadian households and businesses." }
         },
-        "neutral": "An Ipsos poll indicates federal Liberal support has remained at 44% despite recent by-election wins, suggesting public approval for specific leadership actions does not consistently translate to broader partisan gains."
-      }
-    },
-    {
-      "id": "federalism-8-alberta-fiscal-update",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Alberta's First Quarter Fiscal Update Projects Surplus Due to High Oil Prices",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/07/back-in-black-5-things-to-know-from-albertas-first-quarter-fiscal-update/",
-      "summary": "Alberta's first-quarter fiscal update projects a significant shift from an anticipated $9.4 billion deficit to a surplus, driven primarily by surging oil prices. This positive fiscal change highlights the province's continued reliance on energy markets and has substantial implications for provincial spending, debt management, and its broader economic influence within the Canadian federation.",
-      "graph": ["Provincial Economy", "Alberta", "Fiscal Policy", "Oil Prices", "Resource Federalism", "Government Finance"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might advocate for utilizing the surplus for diversifying Alberta's economy, investing in social programs, or transitioning to green energy, while also discussing the federal government's role in resource revenue sharing." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports factually on the fiscal update, noting the volatility of resource-based economies and the challenges of long-term financial planning; discusses implications for provincial budgets and intergovernmental fiscal relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the benefits of strong resource sectors for provincial prosperity and limited government intervention; celebrates fiscal responsibility and the return to surplus, potentially advocating for tax cuts or debt reduction." }
-        },
-        "neutral": "Alberta's first-quarter fiscal update reports a shift to a budget surplus, primarily due to increased oil prices, impacting the province's financial outlook and its role in national economic discussions."
+        "neutral": "Canadian counter-tariffs on various U.S. goods, including dairy, plywood, and sunscreen, have come into effect, prompting demands for the federal government to disclose the anticipated consumer costs and mitigation strategies."
       }
     }
   ],
-  "charter": [
-    {
-      "id": "charter-1-museums-hate-speech",
-      "category": "Charter",
-      "source": "The Hub",
-      "title": "Opinion: Canadian Museums Accused of Promoting Bias and Hatred Through Activist Curation",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/07/canadian-museums-are-becoming-platforms-of-hatred/",
-      "summary": "An opinion piece criticizes Canadian museums, specifically the Canadian Museum for Human Rights, for allegedly veering from their mandate of objective information to become \"platforms of hatred\" through biased exhibits. Citing the \"Nakba exhibit\" as an example, the author argues that selective curation, omitting key historical context, promotes antisemitism and contradicts the institution's purpose of fostering respect and dialogue, raising concerns about curatorial independence versus institutional accountability and the impact on public discourse.",
-      "graph": ["Freedom of Expression", "Hate Speech", "Cultural Policy", "Institutional Mandate", "Antisemitism", "Public Discourse"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for the right of museums to present challenging historical narratives and diverse perspectives, including those of marginalized communities, while also acknowledging the need to balance this with preventing hate speech and ensuring respectful representation." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the legal and ethical responsibilities of publicly funded institutions to ensure balance, accuracy, and adherence to their mandates; focuses on procedural fairness and mechanisms for public input and redress." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes what it perceives as ideological capture and politicization of cultural institutions, arguing for strict adherence to objective historical facts and against the use of public funds to promote divisive or \"hateful\" narratives. Emphasizes institutional accountability and traditional values." }
-        },
-        "neutral": "An opinion piece sparks debate on the role of Canadian museums, specifically the Canadian Museum for Human Rights, arguing that some exhibits promote bias and hatred, challenging the balance between curatorial independence, historical accuracy, and institutional mandates under the Charter."
-      }
-    }
-  ],
+  "charter": [],
   "indigenous": [
     {
-      "id": "indigenous-1-land-disputes-bc",
+      "id": "766579c0993952f143734006c9a75d5e",
       "category": "Indigenous",
-      "source": "The Hub",
-      "title": "Opinion: Federal and Provincial Governments Undermining Their Position in B.C. Aboriginal Land Disputes",
+      "source": "The Narwhal",
+      "title": "B.C. First Nations address declining, crucial salmon",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/07/aboriginal-land-disputes-continue-in-b-c-and-federal-and-provincial-governments-are-crippling-their-own-cases/",
-      "summary": "An opinion piece argues that federal and provincial governments are weakening their own legal positions in ongoing Aboriginal land disputes in British Columbia, specifically following the _Cowichan_ decision which affirmed Aboriginal title as \"senior and prior\" to fee simple property. The author expresses concern that this approach creates legal uncertainty for private property owners and hinders resolution, emphasizing the critical need for clearer governmental strategy in land claims and reconciliation efforts.",
-      "graph": ["Aboriginal Title", "Indigenous Land Rights", "British Columbia", "Federal-Provincial Legal Disputes", "Property Law", "Reconciliation Challenges"],
+      "url": "https://thenarwhal.ca/bc-first-nations-declining-salmon-food-security/?utm_source=rss",
+      "summary": "Indigenous communities in British Columbia are actively working to preserve and restore declining salmon populations, which are vital for their food security and cultural heritage. Fish camps and community workshops are playing a key role in providing essential services and strengthening traditional connections amidst dwindling fish numbers.",
+      "graph": ["Indigenous Rights", "Environmental Protection", "Food Security", "Cultural Heritage", "Conservation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for robust protection and affirmation of Indigenous rights and title, viewing government's current approach as insufficient or overly litigious; supports comprehensive and just reconciliation that recognizes Indigenous sovereignty." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the complex legal and policy challenges of reconciling Aboriginal title with existing property rights; emphasizes the need for clarity in law and consistent governmental policy to achieve fair and lasting settlements." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about the implications of expansive Aboriginal title rulings on private property rights and economic development; criticizes government's handling of these cases for creating legal ambiguity and potential disincentives for investment." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for stronger environmental protections and Indigenous-led conservation efforts, emphasizing the ecological and cultural significance of salmon for First Nations, and criticizing past government inaction or industrial impacts." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the practical efforts by First Nations to address environmental challenges impacting their communities, focusing on the methods and outcomes of their conservation initiatives and the socio-cultural importance of salmon." },
+          "right": { "label": "Conservative Context", "synthesis": "Acknowledges the importance of resource management and local initiatives, potentially suggesting economic development opportunities alongside conservation, or emphasizing local governance solutions over broader government interventions." }
         },
-        "neutral": "An opinion piece critically assesses the federal and provincial governments' handling of Aboriginal land disputes in British Columbia, arguing their approach post-Cowichan decision creates legal uncertainty and hinders reconciliation efforts."
+        "neutral": "British Columbia First Nations are engaged in critical efforts, including establishing fish camps and workshops, to combat the decline of salmon populations, essential for their food security and cultural preservation."
+      }
+    },
+    {
+      "id": "d049615967b0b608104439c2c62c4a93",
+      "category": "Indigenous",
+      "source": "The Hub",
+      "title": "B.C.\u2019s \u2018great land grab\u2019 comes for private property",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/08/b-c-s-great-land-grab-comes-for-private-property/",
+      "summary": "Federal and provincial governments in British Columbia are facing criticism for policies and funded initiatives, such as a Canadian Heritage-supported exhibit, that suggest private property on Vancouver Island may still be subject to unresolved Indigenous land claims. This is causing alarm among property owners by questioning established property rights in relation to historical Indigenous title.",
+      "graph": ["Indigenous Land Claims", "Property Rights", "Reconciliation", "Government Policy", "British Columbia"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports reconciliation efforts and the recognition of Indigenous title and rights, viewing such initiatives as necessary steps to address historical injustices, even if they challenge existing property structures." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the policy debate and public reaction surrounding the re-evaluation of land ownership in B.C. in light of Indigenous title, focusing on the legal frameworks and governmental roles in reconciliation and property rights." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly defends private property rights, viewing government-funded initiatives that question established ownership as undermining economic stability and creating uncertainty for landowners. Calls for clear legal boundaries and protection of existing property interests." }
+        },
+        "neutral": "Government-endorsed initiatives in British Columbia are drawing criticism from property owners for challenging established private property rights by highlighting unresolved Indigenous land claims, particularly on Vancouver Island."
       }
     }
   ],
   "criminal": [
     {
-      "id": "criminal-1-flag-burning-court",
+      "id": "cb150a049969165d2038740c010d1000",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Opinion: Accused of Israeli Flag Burning Appears in Montreal Court Wearing Hamas Shirt",
+      "source": "The Globe and Mail",
+      "title": "Quebec courts restrict judges\u2019 use of generative AI",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/terry-newman-montreal-israeli-flag-arsonist-wears-shirt-with-hamas-spokesperson-to-court",
-      "summary": "An opinion piece discusses a Montreal court appearance where an individual accused of burning an Israeli flag wore a shirt depicting a Hamas spokesperson. The author uses this incident to highlight broader concerns about antisemitism and what they perceive as problematic expressions in public and institutional spaces, arguing that such acts and displays reflect a growing issue of Jew-hatred. The legal proceedings for the flag burning fall under criminal law, while the public display during court raises questions about conduct and freedom of expression within the justice system context.",
-      "graph": ["Public Order Offence", "Hate Symbols", "Judicial Conduct", "Antisemitism", "Freedom of Expression Limits", "Montreal Law Enforcement"],
+      "url": "https://www.theglobeandmail.com/canada/article-quebec-courts-restrict-judges-use-ai-guidelines/",
+      "summary": "Quebec courts have issued guidelines restricting judges' use of generative AI, explicitly stating that AI cannot replace independent judicial reasoning. This move follows concerns regarding the potential use of such technology in preparing judicial decisions, underscoring the courts' commitment to maintaining the integrity and human element of legal judgment.",
+      "graph": ["Judicial Ethics", "Artificial Intelligence", "Court Procedure", "Legal Integrity", "Quebec Law"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May analyze the incident in terms of free speech rights and the right to protest, while unequivocally condemning antisemitism and any incitement to hatred; might call for a deeper understanding of underlying social tensions." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the impartial application of criminal law concerning public disturbances and hate speech, as well as the decorum and rules of conduct within court proceedings; emphasizes the balance between rights and public safety." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly condemns the display as a provocative act potentially endorsing terrorism and antisemitism; calls for strict enforcement of laws against hate crimes and maintaining order in judicial settings, prioritizing public safety and denouncing radicalism." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports strict ethical oversight and regulation of AI in public institutions, particularly in justice, to ensure fairness, prevent bias, and protect fundamental human rights from algorithmic decision-making." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural and ethical implications for the judiciary, emphasizing the importance of human judgment, legal precedent, and due process in the administration of justice. Highlights the need for clear guidelines for emerging technologies." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes judicial independence and the need for clear rules to prevent external (including technological) interference with the legal process, while potentially also highlighting the efficiency benefits of AI if used appropriately under strict supervision." }
         },
-        "neutral": "An individual accused of burning an Israeli flag in Montreal appeared in court wearing a Hamas-themed shirt, sparking public debate on the intersection of criminal conduct, freedom of expression, and displays of support for controversial groups within the judicial system."
+        "neutral": "Quebec courts have implemented new restrictions on judges' use of generative AI, emphasizing that the technology must not substitute human judicial reasoning in preparing legal decisions, in response to concerns over its application."
+      }
+    },
+    {
+      "id": "e305e55712108b98d41cfc847d0e8081",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "HUNTER: Lawyers in ghastly double murder throw junk justice hail Mary",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://torontosun.com/news/national/lawyers-double-murder-junk-justice-hail-mary",
+      "summary": "This opinion piece critiques the Canadian justice system's approach to severe criminal cases, specifically discussing lawyers' strategies in a double murder trial and the potential for parole after 25 years. The author expresses skepticism about the system's effectiveness in ensuring strict accountability for heinous crimes.",
+      "graph": ["Criminal Justice", "Parole", "Murder Trial", "Legal Strategy", "Sentencing"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May focus on the systemic issues within the justice system, such as rehabilitation, the root causes of crime, or the need for a more compassionate but effective approach to justice that considers all factors." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the procedural aspects of criminal trials and sentencing, discussing legal tactics, parole eligibility, and the balance between punishment and potential for rehabilitation within the current legal framework." },
+          "right": { "label": "Conservative Context", "synthesis": "Criticizes perceived leniency in the justice system, advocating for stricter penalties, longer incarceration periods, and less opportunity for early parole, particularly in cases of severe violence, to ensure public safety and deter crime." }
+        },
+        "neutral": "An opinion piece critically examines the Canadian justice system's handling of serious criminal cases, specifically a double murder trial, and raises questions about parole eligibility and the overall effectiveness of accountability measures."
       }
     }
   ],
