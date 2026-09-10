@@ -1,296 +1,257 @@
 {
   "federalism": [
     {
-      "id": "federalism-us-import-ban-2026-09-08",
+      "id": "e4b5d6a2-7a8f-4c9b-9d0e-1f2g3h4i5j6k",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "U.S. Escalates Trade War with Canada, Banning Key Imports and Imposing New Tariffs",
+      "source": "The Narwhal",
+      "title": "Ontario Bill 5 Changes Impact Endangered Species Act Enforcement and Staff Expertise",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trump-canadian-aclohol-banned-9.7336507?cmp=rss",
-      "summary": "The U.S. President has announced a ban on Canadian alcohol, motorcycles, and other products, alongside new 50% tariffs on various goods, effective September 29. This action escalates the ongoing trade conflict, coming in response to Canada's retaliatory tariffs implemented earlier in the week. The U.S. cited provincial bans on American alcohol as a precedent for their import bans and estimates the measures will impact \"single-digit billions\" in Canadian goods.",
-      "graph": ["International Trade", "US-Canada Relations", "Tariffs", "Economic Policy", "Protectionism"],
+      "url": "https://thenarwhal.ca/bill-5-endangered-species-experts/?utm_source=rss",
+      "summary": "Ontario's Species Conservation Act (Bill 5), replacing the former Endangered Species Act, has significantly altered environmental protection by stripping protections from numerous species and narrowing habitat safeguards. The new 'proponent-led' model for environmental assessments reduces the role of government biologists, leading to a loss of expertise and oversight. Current and former Ministry of Environment staff express concerns about the diminished ability to protect at-risk species, with over a dozen experts departing the species at risk branch since the act's implementation.",
+      "graph": ["Provincial Legislation", "Environmental Policy", "Species Protection", "Regulatory Reform", "Government Oversight"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights the detrimental impact of aggressive protectionist trade policies on Canadian industries and workers, potentially advocating for strong national counter-measures or support for affected sectors to mitigate economic harm." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the tit-for-tat nature of the escalating trade dispute, analyzing the diplomatic implications of the U.S. import bans and new tariffs as responses to Canadian retaliatory measures." },
-          "right": { "label": "Conservative Context", "synthesis": "Views the U.S. actions as a firm stance on trade imbalances, potentially criticizing Canadian trade tactics or advocating for policies that strengthen Canadian domestic production and reduce reliance on foreign markets in response to protectionism." }
+          "left": { "label": "Progressive Context", "synthesis": "Highlights the weakening of environmental protections and the marginalization of scientific expertise in favor of developer interests, aligning with a progressive critique of deregulatory measures and their ecological consequences." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural changes in environmental assessment, the shift from expert-led to proponent-led processes, and the resulting administrative challenges and staffing changes within the ministry." },
+          "right": { "label": "Conservative Context", "synthesis": "Could argue for streamlined approvals to reduce red tape and facilitate economic development, viewing the previous regulations as overly burdensome on industry, while acknowledging environmental considerations." }
         },
-        "neutral": "The U.S. announced a ban on Canadian alcohol, motorcycles, and other products, coupled with new 50% tariffs, escalating the bilateral trade dispute following Canadian retaliatory measures."
+        "neutral": "The shift in Ontario's species protection policy under Bill 5 has reduced government oversight and expert involvement, leading to concerns about the efficacy of environmental assessments and the protection of at-risk species."
       }
     },
     {
-      "id": "federalism-us-tariff-chief-comments-2026-09-09",
+      "id": "f5c6e7b3-8b9g-5d0c-ae1f-2g3h4i5j6k7l",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "U.S. Trade Representative Dismisses 'Trade War' Characterization by Canada as 'Unhinged'",
+      "title": "Prime Minister Carney's Cabinet Addresses Escalating U.S. Trade War and Alberta Separatist Referendum",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-unhinged-us-trade-jamieson-greer-9.7337101?cmp=rss",
-      "summary": "U.S. Trade Representative Jamieson Greer stated that Canadian leaders, including Prime Minister Mark Carney, are \"unhinged\" for characterizing the U.S. tariffs as a \"trade war.\" Greer downplayed the economic impact of the tariffs, which affect only five percent of Canadian exports to the U.S., framing them as standard economic measures. His comments were made before the latest round of retaliatory actions and import bans were announced by the U.S.",
-      "graph": ["International Trade", "US-Canada Relations", "Diplomacy", "Economic Rhetoric", "Tariffs"],
+      "url": "https://www.cbc.ca/news/politics/carney-banff-cabinet-planning-forum-9.7338041?cmp=rss",
+      "summary": "Prime Minister Mark Carney and his cabinet are convening in Banff, Alberta, to strategize for the upcoming parliamentary session, which is overshadowed by an escalating trade war with the U.S. and a looming Alberta referendum on separation. Despite recent by-election wins, the government faces significant challenges, with trade tensions and national unity at the forefront. Public opinion, while not blaming the PM for the trade issues, seeks clarity on the path forward amidst a cost-of-living crisis.",
+      "graph": ["Federal Cabinet", "Trade Relations", "U.S. Relations", "Alberta Separatism", "National Unity", "Economic Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the U.S. official's dismissive tone, emphasizing the real economic consequences for Canadian workers and businesses, and calling for a united national response to protect economic sovereignty." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic language and strategic posturing from both nations, noting the differing public definitions of the escalating trade tensions and their potential impact on future negotiations." },
-          "right": { "label": "Conservative Context", "synthesis": "Considers the U.S. official's perspective as a defense of national economic interests, potentially criticizing Canadian leadership for inflammatory rhetoric or for failing to negotiate a more favorable outcome without escalating tensions." }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on the implications of the trade war for Canadian workers and the cost of living, while also noting the rise of right-wing separatism as a potential destabilizing force." },
+          "center": { "label": "Procedural Context", "synthesis": "Describes the federal government's strategic planning amidst dual crises of international trade disputes and internal national unity challenges, emphasizing the political and economic pressures on the Carney administration." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the prime minister's defense of national sovereignty in trade disputes and the internal political challenges posed by provincial separatist movements, highlighting the need for strong national leadership." }
         },
-        "neutral": "A U.S. trade official labeled Canada's description of the bilateral dispute as a 'trade war' as 'unhinged,' asserting that the measures are routine economic actions, preceding a further escalation of tariffs and import bans."
+        "neutral": "Prime Minister Carney's cabinet is addressing a complex agenda dominated by the escalating trade war with the U.S. and the potential for an Alberta separation referendum, influencing the government's strategic outlook for the parliamentary session."
       }
     },
     {
-      "id": "federalism-israeli-settlement-trade-ban-2026-09-08",
+      "id": "g6d7f8c4-9c0h-6e1d-bf2g-3h4i5j6k7l8m",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada Joins UK and France in Banning Trade of Goods from Israeli West Bank Settlements",
+      "title": "Ukrainian President Zelenskyy Visits Canada to Strengthen Bilateral Ties Amid Ongoing Conflict",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/world/canada-uk-france-ban-goods-israeli-settlements-9.7335551?cmp=rss",
-      "summary": "Canada, alongside the United Kingdom and France, announced a ban on trade of goods with Israeli settlements in the occupied West Bank. The UK is also imposing additional sanctions on companies and individuals supporting settlement expansion. This joint action comes after the three countries recognized a Palestinian state a year prior and is a response to Israel's continued settlement expansion in areas deemed illegal under international law.",
-      "graph": ["Foreign Policy", "International Law", "Human Rights", "Middle East Conflict", "Sanctions"],
+      "url": "https://www.cbc.ca/news/politics/ukraine-president-volodymyr-zelenskky-canada-visit-2026-9.7338072?cmp=rss",
+      "summary": "Ukrainian President Volodymyr Zelenskyy is visiting Canada for meetings with Prime Minister Mark Carney and his cabinet in Calgary and Banff. The visit, his first in nearly a year, aims to deepen defence, economic, and energy cooperation between the two nations as Ukraine continues to face significant airstrikes. Discussions will also focus on the human impact of Russia's aggression. Carney's office emphasized Canada's unwavering commitment to supporting Ukraine and pursuing a just and lasting peace.",
+      "graph": ["Foreign Policy", "International Relations", "Ukraine Support", "Defence Cooperation", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports the ban as a necessary step to uphold international law and human rights, highlighting solidarity with Palestinians and critiquing Israel's settlement policies as an impediment to peace." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the diplomatic coordination between Canada, the UK, and France, and the legal framework underpinning the ban, emphasizing adherence to international norms regarding occupied territories." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about the impact of such bans on bilateral relations with Israel, potentially questioning the economic effectiveness or political wisdom of the move, and prioritizing national security and economic interests." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports strong international alliances to counter aggression and humanitarian aid for conflict-affected populations, emphasizing Canada's role in global peace and human rights." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the diplomatic visit to reinforce bilateral ties and discuss strategic cooperation, highlighting the Canadian government's commitment to supporting Ukraine's sovereignty and stability." },
+          "right": { "label": "Conservative Context", "synthesis": "Might focus on the financial and military commitments made by Canada, questioning their extent or seeking assurances of strategic benefit, while emphasizing national interest in international partnerships." }
         },
-        "neutral": "Canada, the U.K., and France have announced a coordinated ban on trade of goods originating from Israeli settlements in the occupied West Bank, citing continued settlement expansion as a trigger for this foreign policy action."
+        "neutral": "Ukrainian President Volodymyr Zelenskyy is in Canada for high-level meetings to discuss continued support, defense, economic, and energy cooperation with Prime Minister Mark Carney and his cabinet."
       }
     },
     {
-      "id": "federalism-carney-investment-focus-2026-09-09",
+      "id": "h7e8g9d5-a1d2-7f2e-cg3h-4i5j6k7l8m9n",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Federal Government Streamlines Energy Project Reviews, Reaffirms Species at Risk Act Protections",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/government-regulation-review-process-9.7337783?cmp=rss",
+      "summary": "The federal government is amending its environmental assessment process by exempting certain energy projects, such as interprovincial pipelines and offshore renewable energy, from a layer of review by the Impact Assessment Agency of Canada (IAAC). These projects will now be solely reviewed by the Canada Energy Regulator (CER) to streamline approvals. Concurrently, the Liberals are reportedly abandoning proposed changes that would have bypassed 'jeopardy tests' under the Species at Risk Act, following strong opposition from scientists who warned of potential species extinction.",
+      "graph": ["Environmental Assessment", "Energy Regulation", "Species at Risk Act", "Federal Policy", "Regulatory Efficiency"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Criticizes the initial move to streamline environmental reviews as potentially weakening protections for the environment and species, but welcomes the retention of Species at Risk Act safeguards." },
+          "center": { "label": "Procedural Context", "synthesis": "Details the federal government's balancing act between promoting economic development through streamlined project approvals and maintaining robust environmental protections, particularly regarding endangered species." },
+          "right": { "label": "Conservative Context", "synthesis": "Applauds the government's efforts to reduce regulatory duplication and accelerate energy project approvals, viewing it as a positive step for investment and economic growth, while acknowledging the need to navigate environmental concerns." }
+        },
+        "neutral": "The federal government is simplifying the environmental review process for specific energy projects by consolidating oversight under the Canada Energy Regulator, while also deciding to uphold critical protections within the Species at Risk Act."
+      }
+    },
+    {
+      "id": "i8f9h0e6-b2e3-8g3f-ch4i-5j6k7l8m9n0o",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Conservative Party Grapples with Internal Divisions Amidst Escalating Trade War",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/conservatives-infighting-trade-war-9.7337963?cmp=rss",
+      "summary": "The Conservative Party, led by Pierre Poilievre, is experiencing internal fractures and disunity as a trade war with the U.S. intensifies. Prominent MPs are publicly airing grievances and pursuing independent initiatives, such as meetings with U.S. trade officials or promoting unproven theories. Critics within the party point to a lack of strong leadership and consistent messaging, while some 'new right' conservatives advocate for a shift towards cultural and social issues like immigration and crime. The infighting occurs as the country seeks answers on the trade dispute.",
+      "graph": ["Conservative Party Politics", "Internal Discord", "Trade Policy", "Political Strategy", "National Politics"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Views the internal struggles of the Conservative party as a reflection of ideological tensions, potentially hindering effective opposition to government policies and exacerbating national divisions." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes the internal dynamics of the Conservative Party, highlighting factionalism and varied approaches to national issues, and their potential impact on party cohesion and political effectiveness." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over party disunity and 'freelancing' by MPs, calling for stronger leadership and a clear, unified message to effectively counter the government and navigate the trade crisis." }
+        },
+        "neutral": "The Conservative Party is facing internal divisions and a lack of unified messaging among its caucus members, particularly concerning the ongoing trade war and broader political strategy."
+      }
+    },
+    {
+      "id": "j9g0i1f7-c3f4-9h4g-di5j-6k7l8m9n0o1p",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Federal Government Launches National AI Literacy Initiative for All Canadians",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/ai-essentials-government-courses-solomon-9.7337417?cmp=rss",
+      "summary": "The federal government is launching the National AI Literacy Initiative, providing $13 million in funding for free online courses to educate Canadians on the basics of artificial intelligence. Developed in partnership with the Alberta Machine Intelligence Institute (AMII), these courses will initially be available to K-12 educators and post-secondary students by September 21, with a version for all Canadians expected by the end of the year. The initiative aims to ensure citizens understand AI's impact, use it responsibly, and make informed choices about its role in their lives.",
+      "graph": ["AI Policy", "Digital Literacy", "Federal Programs", "Education Initiative", "Technological Advancement"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Supports government investment in public education and digital equity to ensure broad access to technological understanding, emphasizing the societal benefits of widespread AI literacy." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on a federal government program designed to enhance national AI literacy through accessible online courses, outlining the initiative's scope, funding, and target audiences." },
+          "right": { "label": "Conservative Context", "synthesis": "Could focus on the efficiency and effectiveness of government-led educational programs, potentially questioning the scope of government involvement versus private sector solutions, or emphasizing individual responsibility for skill development." }
+        },
+        "neutral": "Canada's federal government is introducing a National AI Literacy Initiative to offer free online courses to all Canadians, aiming to improve public understanding and responsible engagement with artificial intelligence."
+      }
+    },
+    {
+      "id": "k0h1j2g8-d4g5-0i5h-ej6k-7l8m9n0o1p2q",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Canada and China Resume Military Talks, Sparking Conservative Opposition",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/canada-china-military-cooperation-9.7337345?cmp=rss",
+      "summary": "China's Ministry of Defence reported 'candid and in-depth' military coordination talks with Canadian officials in Canada on September 4, the first such discussions in eight years. Canada's Department of National Defence confirmed the meeting, framing it as 'military-to-military communications at the functional level' within the government's 'guardrails' approach to China. However, Conservative Leader Pierre Poilievre criticized the resumption of military ties, citing China's past actions and Prime Minister Carney's previous statements identifying China as a security threat.",
+      "graph": ["Foreign Policy", "China Relations", "Military Diplomacy", "National Security", "Conservative Opposition"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Calls for a cautious yet open approach to international dialogue, emphasizing de-escalation and communication while maintaining human rights and security concerns regarding China." },
+          "center": { "label": "Procedural Context", "synthesis": "Details the resumption of military-to-military talks between Canada and China, contextualizing the event within Canada's broader foreign policy framework and reporting the differing political interpretations of the engagement." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the government's decision to reopen military talks with China, viewing it as a contradiction of previous statements and a risk to national security and sovereignty given China's record." }
+        },
+        "neutral": "Canada and China have resumed military talks after an eight-year hiatus, which China described as a candid exchange on mutual interests, while Canadian opposition raises concerns about the engagement given past diplomatic tensions."
+      }
+    },
+    {
+      "id": "l1i2k3h9-e5h6-1j6i-fk7l-8m9n0o1p2q3r",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Prime Minister Carney Prioritizes Investment and Economic Growth Amid Worsening U.S. Trade Conflict",
+      "title": "Pro-Canada Campaign in Alberta Faces Financial and Organizational Challenges Amid Separatist Push",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-focuses-on-attracting-investment-and-economic-growth-as-us/",
-      "summary": "Prime Minister Mark Carney's government is shifting focus to attracting investment and fostering economic growth, dispatching cabinet ministers nationwide to highlight financial support for businesses impacted by escalating tariffs with the U.S. This initiative aims to bolster the Canadian economy and provide resilience in the face of increasing trade tensions.",
-      "graph": ["Economic Policy", "International Trade", "Government Strategy", "Investment Attraction", "Trade War"],
+      "url": "https://www.theglobeandmail.com/politics/article-the-cash-strapped-disorganized-fight-to-keep-alberta-in-canada/",
+      "summary": "As Alberta prepares for a referendum that includes a question potentially leading to separation, the campaign advocating for Alberta to remain in Canada is struggling with disorganization and a lack of funding. While polls indicate separatist voters are a minority, their strong motivation is pressuring the pro-Canada efforts, which are described as trying to find their footing. This highlights a significant challenge to national unity and the federal government's relationship with the province.",
+      "graph": ["Alberta Separatism", "National Unity", "Provincial Referendum", "Political Campaigns", "Federal-Provincial Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for targeted support for vulnerable sectors and workers affected by trade disputes, and scrutinizes whether the investment focus sufficiently addresses broader economic inequalities or relies too heavily on private capital." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the government's strategic pivot to economic stimulus and investment in response to external pressures, assessing the feasibility and potential efficacy of the announced measures to stabilize the economy." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the focus on economic growth and investment attraction as a necessary response to trade challenges, advocating for policies that reduce regulatory burdens and enhance Canada's competitiveness to mitigate tariff impacts." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for inclusive dialogue and federal engagement to address underlying grievances in Alberta, rather than allowing divisive separatist narratives to gain traction." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the internal and external challenges faced by the 'pro-Canada' movement in Alberta, contextualizing their struggle within the broader political landscape of the province's separatist discussions." },
+          "right": { "label": "Conservative Context", "synthesis": "Advocates for clear arguments defending the benefits of Canadian federation for Alberta, potentially critiquing any perceived federal overreach that fuels separatist sentiments." }
         },
-        "neutral": "Prime Minister Carney's administration is prioritizing attracting investment and stimulating economic growth, deploying cabinet ministers to offer financial support to businesses grappling with deepening trade conflicts with the U.S."
+        "neutral": "The campaign to keep Alberta within Canada is facing significant financial and organizational difficulties, despite polls indicating a minority of separatist voters, as a provincial referendum on separation approaches."
       }
     },
     {
-      "id": "federalism-canada-investibility-ranking-2026-09-09",
+      "id": "m2j3l4i0-f6i7-2k7j-gl8m-9n0o1p2q3r4s",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Global Investors Rate Canada Low on Investibility Ahead of Prime Minister Carney's Investment Summit",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/09/global-funds-rank-canada-low-on-investibility-ahead-of-carneys-investment-summit-cpp-institute-finds/",
-      "summary": "A report by the CPP Investments Insights Institute revealed that global institutional investors rank Canada low on investibility, managing approximately US$47 trillion across 20 countries. These findings precede Prime Minister Mark Carney's Canada Investment Summit, where the government aims to attract over $1 trillion in investment, highlighting a discrepancy between ambition and current international perception.",
-      "graph": ["Economic Development", "Foreign Investment", "Government Policy", "CPP Investments", "Global Competitiveness"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses concern over Canada's attractiveness to global capital, linking it to broader structural issues or calls for policies that prioritize public good and equitable wealth distribution over solely investor-friendly approaches." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the objective data from the CPP Investments Insights Institute, focusing on the policy challenges and opportunities identified for improving Canada's investment climate and meeting federal targets for economic growth." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the critical need for policy reforms to boost Canada's global competitiveness and attract investment, criticizing current government policies that may deter capital and hinder economic growth." }
-        },
-        "neutral": "A report from the CPP Investments Insights Institute indicates that global institutional investors perceive Canada as having low investibility, posing a challenge to Prime Minister Carney's upcoming summit aiming for $1 trillion in new investments."
-      }
-    },
-    {
-      "id": "federalism-globaleye-procurement-2026-09-09",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Ottawa's GlobalEye Acquisition Raises Questions on Military Needs vs. Industrial Benefits",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/global-eye-saab-rcaf-surveillance-9.7336138?cmp=rss",
-      "summary": "The Canadian government initiated negotiations to acquire six Saab GlobalEye surveillance aircraft without definitive assurances that they met the Royal Canadian Air Force's full operational requirements. Subsequent assessments identified capability gaps needing modifications, raising questions about whether the Prime Minister's focus on speed, job creation, and industrial benefits is overshadowing the military's strategic needs in defence procurement.",
-      "graph": ["Defence Procurement", "Military Policy", "Government Spending", "Industrial Benefits", "Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Raises concerns about government transparency and accountability in large-scale procurements, advocating for processes that prioritize the public interest, military effectiveness, and domestic industrial development without compromising operational integrity." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural irregularities in the procurement process, the balance between economic incentives and military specifications, and the necessity for robust oversight in defence spending decisions." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques the government's handling of defence procurement, arguing for efficiency and strict adherence to military needs, while also supporting policies that maximize domestic economic benefits and job creation where appropriate." }
-        },
-        "neutral": "Documents indicate the Canadian government began acquiring GlobalEye surveillance aircraft without fully confirming their alignment with military requirements, leading to identified capability gaps and raising concerns about procurement priorities."
-      }
-    },
-    {
-      "id": "federalism-dawson-gun-bans-2026-09-09",
-      "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Dawson Shooting Families Urge PM Carney to Fulfill Long-Promised Federal Gun Bans",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/dawson-shooting-families-carney-gun-bans",
-      "summary": "Families affected by the Dawson College shooting are publicly urging Prime Minister Mark Carney to implement long-promised federal gun bans. An open letter sent to the Prime Minister emphasizes the upcoming anniversary as an opportunity for concrete action, rather than further consultations or delays, on gun control measures.",
-      "graph": ["Gun Control", "Public Safety", "Victims' Advocacy", "Government Accountability", "Policy Implementation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for stronger, swifter gun control legislation, supporting the families' call for action and emphasizing the government's responsibility to protect citizens from gun violence." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the political pressures on the government regarding gun control, balancing public safety concerns with legal and legislative processes, and evaluating the effectiveness of proposed measures." },
-          "right": { "label": "Conservative Context", "synthesis": "Questions the efficacy of further gun bans, potentially focusing on individual rights or alternative approaches to public safety, and critiques perceived government delays or overreach in legislative action." }
-        },
-        "neutral": "Families of the Dawson College shooting victims have issued a public appeal to Prime Minister Carney, demanding the implementation of long-promised federal gun bans without further delay, ahead of the incident's anniversary."
-      }
-    },
-    {
-      "id": "federalism-alberta-secession-referendum-2026-09-09",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Alberta Business Council Campaigns Against Provincial Secession Referendum",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/09/alberta-business-council-urges-voters-to-choose-canada-in-oct-19-secession-referendum/",
-      "summary": "The Business Council of Alberta, representing over 130 chief executives, is campaigning for Albertans to vote against secession from Canada in the upcoming October 19 referendum. The council warns that leaving Canada would introduce significant uncertainty, jeopardizing jobs and the provincial economy, and notes a reluctance among individual member companies to take a public stance due to workforce and customer divisions.",
-      "graph": ["National Unity", "Provincial Autonomy", "Economic Stability", "Referendum", "Federal-Provincial Relations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the social and economic benefits of national unity and shared prosperity within Canada, potentially critiquing separatist movements as divisive or short-sighted without addressing underlying regional grievances." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the strategic campaign by the business council to influence the referendum outcome, analyzing the arguments presented regarding economic risk and uncertainty versus the aspirations of separation." },
-          "right": { "label": "Conservative Context", "synthesis": "Highlights the economic concerns raised by the business community regarding secession, advocating for a strong, stable economic environment within the Canadian federation, while also acknowledging the drivers of provincial discontent." }
-        },
-        "neutral": "The Business Council of Alberta is actively campaigning against the provincial secession referendum scheduled for October 19, cautioning that a departure from Canada would destabilize the economy and threaten employment."
-      }
-    }
-  ],
-  "charter": [
-    {
-      "id": "charter-pronoun-debate-opinion-2026-09-09",
-      "category": "Charter",
       "source": "National Post",
-      "title": "Opinion: Freedom of Expression and Pronoun Usage in Canadian Public Discourse",
+      "title": "Conservative Leader Poilievre Urges U.S. to End Tariffs, Citing Harm to Canadians",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/amy-hamm-dont-let-the-globe-and-mail-call-you-a-bigot-over-pronouns",
-      "summary": "An opinion piece argues against societal pressure and media characterization that labels individuals as bigoted for questioning or not immediately conforming to evolving pronoun usage norms. It frames the issue as an attempt to enforce compliance through shame, touching on themes of free expression and individual autonomy in public discourse.",
-      "graph": ["Freedom of Expression", "Identity Rights", "Social Norms", "Media Ethics", "Public Discourse"],
+      "url": "https://nationalpost.com/news/canadians-wounded-u-s-trade-actions",
+      "summary": "Conservative Leader Pierre Poilievre addressed an American audience, conveying that Canadians feel 'wounded' by U.S. trade actions and urging the U.S. administration and Congress to remove tariffs. His comments highlight the significant economic and diplomatic strain caused by the trade dispute, emphasizing the impact on Canadian citizens and industries, and signaling the opposition's call for de-escalation from the U.S. side.",
+      "graph": ["Trade Relations", "U.S. Tariffs", "Conservative Stance", "Economic Impact", "Diplomatic Pressure"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the opinion piece for potentially undermining transgender rights and inclusive language, advocating for policies that affirm gender identity and combat discrimination through respectful communication." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the ongoing societal debate around pronoun usage and its intersection with free speech principles, analyzing the different viewpoints and their implications for public policy and individual rights." },
-          "right": { "label": "Conservative Context", "synthesis": "Champions individual freedom of thought and expression, critiquing perceived 'cancel culture' or 'woke' pressures that compel speech, and arguing for the right to hold differing views without social ostracism." }
+          "left": { "label": "Progressive Context", "synthesis": "May critique the conservative approach as potentially not strong enough, or highlight the broader negative effects of protectionism on global trade and the need for multilateral solutions." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the Conservative leader's diplomatic efforts to influence U.S. trade policy, reflecting a national concern over economic relations and the impact of tariffs." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the conservative leader's direct appeal for trade liberalization and the protection of Canadian economic interests against foreign tariffs, aligning with a market-oriented approach to international trade." }
         },
-        "neutral": "An opinion column addresses the debate surrounding pronoun usage, asserting resistance to new linguistic norms should not be equated with bigotry, and questioning the nature of social pressure in public discourse."
-      }
-    },
-    {
-      "id": "charter-ai-access-to-justice-2026-09-09",
-      "category": "Charter",
-      "source": "Slaw.ca",
-      "title": "Commentary: AI's Impact on Access to Justice and Tribunal Efficiency",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/09/push-button-access-to-justice-too-much-of-a-good-thing/",
-      "summary": "A legal commentary explores the unintended consequences of \"push-button\" access to justice facilitated by generative AI, drawing parallels to experiences in UK Employment Tribunals. The article discusses how removing beneficial friction in legal processes can lead to an inundation of meritless applications, potentially clogging the system and hindering overall access to justice, and suggests the need for \"speed bumps\" to encourage deliberation.",
-      "graph": ["Access to Justice", "Artificial Intelligence", "Legal System Reform", "Judicial Efficiency", "Rule of Law"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for accessible legal systems but raises concerns about equity and quality of justice if AI tools lead to a superficial understanding of legal processes, potentially harming vulnerable litigants and exacerbating systemic issues." },
-          "center": { "label": "Procedural Context", "synthesis": "Provides a technical and procedural analysis of AI's role in legal aid, emphasizing the design of systems that balance ease of access with the need for reasoned legal engagement and efficient tribunal operations." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports technological innovation in legal services for efficiency gains, while cautioning against unintended consequences that could strain resources or undermine the integrity of the judicial process, advocating for cost-benefit analysis." }
-        },
-        "neutral": "A legal commentary discusses whether AI-driven ease of access to justice, while seemingly beneficial, could paradoxically lead to a flood of unmerited claims, drawing on experiences from UK Employment Tribunals to highlight the need for careful system design."
+        "neutral": "Conservative Leader Pierre Poilievre has conveyed to a U.S. audience that Canadians are negatively impacted by U.S. trade actions and urged the cessation of tariffs."
       }
     }
   ],
+  "charter": [],
   "indigenous": [
     {
-      "id": "indigenous-salmon-death-6ppdq-2026-09-09",
+      "id": "n3k4m5j1-g7j8-3l8k-hm9n-0o1p2q3r4s5t",
       "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Toxic Tire Chemical Linked to Mass Coho Salmon Die-Offs Impacting B.C. First Nations",
+      "source": "The Hub",
+      "title": "Critique: 2018 Government Memo Redefines Canadian Property Rights Amidst Aboriginal Title Claims",
       "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/bc-coho-salmon-deaths-6ppdq/?utm_source=rss",
-      "summary": "Scientists and First Nations in British Columbia have identified 6PPD-quinone, a chemical byproduct from car tires, as the cause of widespread coho salmon die-offs following heavy rains. This discovery solves a decades-old environmental mystery and highlights the disproportionate impact of such pollution on First Nations communities who are on the front lines of detection and mitigation efforts, particularly given their traditional reliance on salmon.",
-      "graph": ["Environmental Justice", "First Nations Rights", "Pollution", "Conservation", "Indigenous Knowledge"],
+      "url": "https://thehub.ca/2026/09/09/canadian-homeowners-title-is-being-decided-by-a-2018-memo-nobody-voted-on/",
+      "summary": "An opinion piece criticizes how Canadian property rights, particularly fee simple title, are being re-evaluated in the context of Aboriginal title claims, arguing that a 2018 federal litigation directive, rather than legislative debate, is reshaping this landscape. The memo prevents government lawyers from arguing that fee simple extinguishes Aboriginal title, leading to court decisions, like the B.C. Supreme Court's Cowichan ruling, which prioritize Aboriginal title. This raises concerns about the democratic legitimacy of such shifts in property law and their profound implications for homeowners and land development.",
+      "graph": ["Aboriginal Title", "Property Rights", "Federal Litigation Policy", "Constitutional Law", "Judicial Review", "Indigenous Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for stricter environmental regulations and corporate accountability for chemical pollution, emphasizing the protection of Indigenous traditional territories and the right to a healthy environment and cultural practices." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the scientific investigation and collaborative efforts between researchers and First Nations to identify and address environmental threats to aquatic ecosystems, noting the policy implications for chemical regulation." },
-          "right": { "label": "Conservative Context", "synthesis": "Advocates for solutions that balance environmental protection with economic considerations, potentially highlighting the costs of regulation on industries while acknowledging the need to protect natural resources vital to all Canadians." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for upholding and implementing Aboriginal title as a fundamental Indigenous right, supporting government policies that rectify historical injustices and ensure reconciliation, while addressing concerns about impact on non-Indigenous landowners fairly." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the complex legal and policy interplay between Aboriginal title and private property rights, analyzing the role of government directives and judicial interpretations in shaping land tenure in Canada." },
+          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern that unelected government memos and court interpretations are undermining established private property rights without democratic input, advocating for clear legislative action to protect landowners and ensure legal certainty." }
         },
-        "neutral": "Coho salmon deaths in British Columbia, which have significantly impacted First Nations communities, have been linked to 6PPD-quinone, a toxic chemical derived from car tires, prompting urgent efforts to mitigate its spread."
+        "neutral": "A commentary argues that a 2018 federal litigation directive, not parliamentary legislation, is significantly influencing the interpretation of property rights in Canada, particularly concerning the priority of Aboriginal title over fee simple land ownership."
       }
     }
   ],
   "criminal": [
     {
-      "id": "criminal-culturefest-safety-2026-09-09",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Israel Booth Withdraws from Saint John Culturefest Due to Public Safety Concerns",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/john-williamson-israel-booth-drops-out-of-saint-john-culturefest-due-to-safety-concerns",
-      "summary": "The Israel booth has withdrawn from the Saint John Culturefest due to safety concerns, following an alleged assault and arrests at last year's event. This incident highlights ongoing tensions and challenges regarding public safety and freedom of expression at cultural events, with potential implications for managing hate-motivated incidents or ensuring public order.",
-      "graph": ["Public Order", "Hate Crime", "Freedom of Assembly", "Community Safety", "Alleged Assault"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of protecting marginalized communities and preventing hate-motivated violence, calling for robust security measures and accountability for perpetrators, while upholding rights to peaceful protest." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the objective facts of the safety concerns, the role of law enforcement in maintaining public order, and the event organizers' responsibility to ensure a secure environment for all participants." },
-          "right": { "label": "Conservative Context", "synthesis": "Champions the right to free expression for all participants and criticizes any actions that suppress legitimate cultural representation due to intimidation or violence, advocating for strong responses to alleged criminal acts." }
-        },
-        "neutral": "An Israel booth has withdrawn from the Saint John Culturefest due to safety concerns, following an alleged assault and related arrests at the previous year's event."
-      }
-    },
-    {
-      "id": "criminal-ontario-teachers-misconduct-2026-09-09",
+      "id": "o4l5n6k2-h8k9-4m9l-in0o-1p2q3r4s5t6u",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Ontario Teachers Face Disciplinary Hearings Over Allegations of Hate Speech",
+      "title": "Police Seek Stabbing Suspect in Deep River, Ontario",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/provincial/three-ontario-teachers-disciplinary-hearings-alleged-conduct",
-      "summary": "Three Ontario teachers are facing disciplinary hearings, with one educator from the Toronto District School Board (TDSB) already suspended on an interim basis. The allegations include antisemitic and homophobic statements, raising serious questions about professional conduct, workplace standards, and the presence of hate speech within educational institutions, potentially leading to criminal or administrative charges.",
-      "graph": ["Professional Misconduct", "Hate Speech", "Education Policy", "Workplace Law", "Disciplinary Action"],
+      "url": "https://torontosun.com/news/provincial/cops-hunt-stabbing-suspect-in-deep-river",
+      "summary": "Police in Deep River, Ontario, are actively searching for a suspect involved in a stabbing incident. The locality is situated approximately 200 km northwest of Ottawa. This ongoing investigation highlights a specific instance of criminal law enforcement and public safety efforts within a Canadian community.",
+      "graph": ["Violent Crime", "Law Enforcement", "Public Safety", "Police Investigation"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for strict accountability for hate speech and discrimination in educational settings, supporting measures to protect students and promote inclusive environments, and calling for thorough investigations and disciplinary actions." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the due process involved in disciplinary hearings, the specific allegations, and the established policies and legal frameworks governing professional conduct for educators, balancing rights of accuser and accused." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concern over due process and academic freedom, while also supporting accountability for egregious misconduct, ensuring that disciplinary actions are fair and based on clear evidence of professional breach or hate speech." }
+          "left": { "label": "Progressive Context", "synthesis": "May emphasize the need for community-based crime prevention strategies and addressing root causes of violence, alongside effective policing." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports factually on a local criminal investigation, focusing on police efforts to apprehend a suspect and maintain public order." },
+          "right": { "label": "Conservative Context", "synthesis": "Stresses the importance of strong law enforcement and swift apprehension of criminals to ensure public safety and maintain order." }
         },
-        "neutral": "Three Ontario teachers are subject to disciplinary hearings for alleged misconduct, including antisemitic and homophobic statements, with one already suspended, raising concerns about professional standards in education."
-      }
-    },
-    {
-      "id": "criminal-terrorist-mother-election-2026-09-09",
-      "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Mother of Convicted Terrorist Seeks Halton School Trustee Position",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/terrorists-mom-running-for-school-trustee",
-      "summary": "The mother of a convicted terrorist, Abdulrahman El-Bahnasawy, who had blamed Canada for her son's actions, is reportedly running for a Halton school trustee position. This news raises public debate regarding national security concerns, accountability for past acts, and the implications of such candidacies for local governance and public trust, connecting past federal security issues to current local political engagement.",
-      "graph": ["National Security", "Terrorism", "Public Trust", "Local Politics", "Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on understanding the socio-economic factors that can lead to radicalization, advocating for community support and addressing root causes, while acknowledging the complexities of family responsibility and rehabilitation within a democratic framework." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports the facts of the candidacy and the past terrorism conviction, analyzing the public's right to information versus privacy concerns, and the legal framework for vetting candidates for public office." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes national security concerns and accountability for terrorist acts, questioning the appropriateness of such a candidacy given the past statements and connections, and highlighting the importance of public safety and trust in institutions." }
-        },
-        "neutral": "The mother of a convicted terrorist, known for blaming Canada for her son's radicalization, is running for a school trustee position in Halton, prompting public discussion regarding national security and local political roles."
+        "neutral": "Law enforcement in Deep River, Ontario, is engaged in a search for a suspect following a stabbing incident."
       }
     }
   ],
   "immigration": [
     {
-      "id": "immigration-jewish-pathway-hate-2026-09-09",
+      "id": "p5m6o7l3-i9l0-5n0m-jo1p-2q3r4s5t6u7v",
       "category": "Immigration",
-      "source": "National Post",
-      "title": "Opinion: Trump's Proposed Immigration Pathway for Canadian Jews Underscores Domestic Antisemitism Concerns",
+      "source": "CBC News",
+      "title": "Delays in Canadian Citizenship Certificate Applications Soar to Nearly Three Years Following Bill C-3 Implementation",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/trumps-consideration-of-pathway-for-canadian-jews-fleeing-hate-shames-us-all",
-      "summary": "An opinion column criticizes the Canadian government for its perceived inaction on antisemitism, following reports that U.S. President Trump is considering creating an immigration pathway for Canadian Jews fleeing hate. The author argues that such a proposal from a foreign leader \"shames\" Canada by exposing a domestic failure to protect its citizens from hate and discrimination, implicitly challenging Canadian immigration and human rights policies.",
-      "graph": ["Antisemitism", "Immigration Policy", "Human Rights", "Government Accountability", "Refugee Status"],
+      "url": "https://www.cbc.ca/news/politics/billc-3-citizenship-by-descent-9.7337738?cmp=rss",
+      "summary": "Processing times for Canadian citizenship certificate applications have surged to an estimated 33 months, a 32% increase, due to a backlog of over 136,000 applications. This rise is attributed in part to Bill C-3, enacted nine months prior, which expanded citizenship eligibility for those with Canadian ancestors, including many Americans. Despite initial assurances from the Immigration Minister that a surge was not expected, the Canadian Bar Association's immigration section is urging IRCC to allocate more resources to address the growing delays.",
+      "graph": ["Citizenship Policy", "Immigration Backlog", "Bill C-3", "Processing Times", "IRCC"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for robust government action against antisemitism and all forms of hate, advocating for inclusive policies and community support, and critiquing any inaction that would necessitate external intervention for citizens' safety." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the diplomatic implications of a foreign leader proposing an immigration pathway for Canadian citizens, examining the factual basis of rising antisemitism in Canada and the government's current response to hate crimes." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports strong government measures to combat antisemitism and protect religious freedoms, while criticizing the current Canadian government for failing to adequately address domestic hate, making its citizens feel unsafe and vulnerable to foreign offers of refuge." }
+          "left": "{\"label\": \"Progressive Context\", \"synthesis\": \"Advocates for increased government resources and efficiency to ensure timely processing of citizenship applications, aligning with principles of accessible immigration pathways and support for new Canadians.\"}",
+          "center": { "label": "Procedural Context", "synthesis": "Highlights the administrative challenges faced by IRCC due to unexpected application volumes following legislative changes, focusing on the department's efforts to manage the backlog through operational adjustments and resource allocation." },
+          "right": { "label": "Conservative Context", "synthesis": "Could emphasize the need for rigorous verification processes and the potential strain on government resources from broad citizenship eligibility, potentially advocating for more controlled immigration processes." }
         },
-        "neutral": "An opinion piece critiques the Canadian government's perceived inaction on antisemitism, prompted by U.S. President Trump's reported consideration of an immigration pathway for Canadian Jews seeking refuge from hate."
+        "neutral": "The implementation of Bill C-3 has led to a significant increase in Canadian citizenship certificate applications, resulting in nearly three-year processing delays and calls for enhanced administrative resources within IRCC."
+      }
+    },
+    {
+      "id": "q6n7p8m4-j0m1-6o1n-pk2q-3r4s5t6u7v8w",
+      "category": "Immigration",
+      "source": "National Post",
+      "title": "Toronto Couple's Surrogate Pregnancy Affected by U.S. Birthright Citizenship Law",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/toronto-couple-say-trump-birthright-citizenship-law-cost-them-their-surrogate-pregnancy",
+      "summary": "A Toronto couple reports losing their surrogate pregnancy in the U.S. due to changes in U.S. birthright citizenship law under the Trump administration. The article suggests this U.S. policy shift could lead to the 'collapse' of the American surrogacy industry, which frequently serves international parents. This case highlights the cross-border legal complexities and significant personal impacts of changing citizenship and reproductive laws for Canadian families.",
+      "graph": ["Birthright Citizenship", "Surrogacy", "U.S. Immigration Law", "Canadian Families", "International Law"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Expresses concern for families impacted by restrictive citizenship laws, advocating for policies that support reproductive rights and international family formation, and highlighting the human cost of such legal changes." },
+          "center": { "label": "Procedural Context", "synthesis": "Reports on the specific case of a Canadian couple impacted by changes to U.S. birthright citizenship impacting international surrogacy, detailing the legal and personal ramifications." },
+          "right": { "label": "Conservative Context", "synthesis": "May scrutinize the implications of birthright citizenship itself and the complexities of international surrogacy arrangements, potentially aligning with policies that emphasize national borders and clear citizenship criteria." }
+        },
+        "neutral": "A Toronto couple states that changes to U.S. birthright citizenship law under the Trump administration resulted in the loss of their surrogate pregnancy, raising concerns about the future of international surrogacy in the U.S."
       }
     }
   ]
