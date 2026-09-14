@@ -1,218 +1,258 @@
 {
   "federalism": [
     {
-      "id": "federalism-001",
+      "id": "e44d8b9e-b7d1-4c12-9218-c2b3a1a3b1c1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Will the U.S. midterm results affect Trump's tariffs on Canada? Democrats think yes",
+      "title": "European Parliament to Open Ottawa Office as Canada Seeks EU Alliance",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/us-midterms-trump-canada-trade-war-democrats-9.7342260?cmp=rss",
-      "summary": "U.S. Democratic politicians anticipate that a strong performance in the upcoming midterm elections could influence President Trump's tariff policy against Canada. They believe increased congressional oversight resulting from a Democratic majority could lead to a re-evaluation of these tariffs, which they view as an unnecessary tax on close allies and detrimental to specific American manufacturing sectors like aerospace.",
-      "graph": ["Trade Policy", "Canada-US Relations", "US Politics", "Tariffs", "Economic Impact"],
+      "url": "https://www.cbc.ca/news/politics/european-parliament-ottawa-office-9.7343334?cmp=rss",
+      "summary": "Prime Minister Mark Carney is pushing for a \"unique alliance\" with the European Union, leading to the European Parliament opening an \"antenna\" office in Ottawa. This move, aiming to deepen ties and reduce Canada's economic dependence on the U.S., has garnered some public support but faces criticism from the Conservative opposition, who reject any notion of Canada becoming an \"associate member\" of the EU.",
+      "graph": ["International Relations", "Trade Policy", "EU Relations", "Canadian Sovereignty", "Federal Policy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would emphasize the negative impact of protectionist tariffs on international cooperation and global economic stability, potentially calling for a more multilateral and equitable trade approach." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of trade policy and the balance of power within the U.S. government, noting how election results could shift legislative influence over executive trade actions, affecting predictability in bilateral relations." },
-          "right": { "label": "Conservative Context", "synthesis": "Might critique protectionist policies for disrupting free markets while also noting the potential for domestic political shifts to either strengthen or weaken executive power in trade, depending on the alignment with national interest and economic efficiency." }
+          "left": { "label": "Progressive Context", "synthesis": "Supports strengthening alliances with democratic blocs, reducing reliance on the U.S., and promoting shared progressive values. May see it as a path to multilateralism and diversification." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the initiative as a strategic foreign policy move to diversify economic and political partnerships, enhancing Canada's position in a shifting global order. Emphasizes pragmatism and mutual benefit." },
+          "right": { "label": "Conservative Context", "synthesis": "Critiques the initiative as potentially undermining Canadian sovereignty and national identity, fearing an 'elitist quest' to align too closely with European models over traditional North American ties, particularly questioning the economic rationale amidst a trade dispute with the U.S." }
         },
-        "neutral": "The story objectively reports on Democratic hopes that midterm elections could shift the political leverage in the U.S., potentially impacting the ongoing Canada-U.S. trade dispute."
+        "neutral": "Prime Minister Mark Carney's government is pursuing a 'unique alliance' with the European Union, evidenced by the upcoming European Parliament office in Ottawa, to deepen trade, defense, and economic ties, while facing domestic political debate over its implications for Canadian sovereignty and economic strategy."
       }
     },
     {
-      "id": "federalism-002",
+      "id": "f8c5a2d1-0e3f-4b67-8910-d3e4f5a6b7c7",
+      "category": "Federalism",
+      "source": "CBC News / The Globe and Mail / The Hub",
+      "title": "Canada Investment Summit Aims for $1 Trillion in Deals Amid Trade Tensions",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/business/carney-investment-summit-explainer-9.7341009?cmp=rss",
+      "summary": "Prime Minister Mark Carney is hosting the inaugural Canada Investment Summit in Toronto to attract $1 trillion in global investments over five years, focusing on energy, mining, and infrastructure projects. The initiative is framed as a response to the escalating Canada-U.S. trade war, aiming to diversify investment sources, though critics raise concerns about Canada's regulatory environment and the effectiveness of such summits.",
+      "graph": ["Economic Policy", "Foreign Investment", "Infrastructure", "Trade Diversification", "Federal Initiatives"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May support strategic investments in green energy and critical minerals for economic transition, but might also scrutinize the types of projects (e.g., conventional energy) and potential corporate influence, advocating for investments that prioritize social and environmental well-being." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the summit as a necessary effort to stimulate economic growth, attract capital for major projects, and enhance Canada's global economic standing, especially in the context of trade diversification away from the U.S. Focuses on the procedural aspects of deal-making and economic stability." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports attracting foreign investment and reducing regulatory burdens. However, some may critique the government's approach as insufficient to address underlying issues deterring investment (e.g., long approval times) or question the effectiveness of government-led summits versus market-driven capital flows." }
+        },
+        "neutral": "Prime Minister Mark Carney is spearheading the Canada Investment Summit to secure $1 trillion in global investments for key sectors, a move aimed at bolstering the national economy and diversifying trade relationships, with discussions including challenges related to Canada's investment climate."
+      }
+    },
+    {
+      "id": "a9b8c7d6-e5f4-3a21-1b2c-3d4e5f6a7b8c",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada's oil windfall may yet wipe out its losses from tariffs",
+      "title": "Canada's Inflation Rate Holds Steady at 3% in August Driven by Shelter, Travel Costs",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-oil-prices-trump-iran-trade-war-tariffs-9.7341298?cmp=rss",
-      "summary": "Due to the U.S.'s foreign policy decisions concerning Iran, global oil prices have surged, potentially creating an economic windfall for Canada that could counteract the financial impact of U.S. tariffs. This rise in oil revenue, particularly beneficial to energy-producing provinces, is seen as a significant, albeit indirect, offset to trade losses, despite increasing domestic energy costs for Canadians.",
-      "graph": ["Economic Policy", "Oil & Gas", "International Relations", "Trade War", "Provincial Finances"],
+      "url": "https://www.cbc.ca/news/business/inflation-august-2026-9.7342791?cmp=rss",
+      "summary": "Statistics Canada reported that the annual inflation rate remained at three percent in August, primarily due to increased shelter and travel costs, offsetting slight decreases in gasoline and food prices. Economists anticipate a potential acceleration in September due to recent rises in crude oil prices, but expect the Bank of Canada to maintain its current interest rates.",
+      "graph": ["Economic Indicators", "Monetary Policy", "Cost of Living", "Consumer Prices", "Federal Statistics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might highlight the irony of geopolitical conflicts indirectly benefiting fossil fuel industries, advocating for more stable and diversified economic strategies less dependent on volatile global commodity markets and emphasizing environmental considerations." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the complex interplay of international geopolitics and national economic outcomes, observing how unforeseen global events can mitigate or exacerbate domestic trade challenges, affecting national GDP and provincial budgets." },
-          "right": { "label": "Conservative Context", "synthesis": "Would likely focus on the economic resilience demonstrated by Canada's resource sector and the market forces at play, potentially arguing for policies that further enable the extraction and export of natural resources to bolster national wealth." }
+          "left": { "label": "Progressive Context", "synthesis": "Focuses on the impact of inflation on affordability, particularly for low-income households, and advocates for government interventions to address rising shelter and food costs, potentially through social programs or tighter regulation of certain sectors." },
+          "center": { "label": "Procedural Context", "synthesis": "Interprets the data as an indicator of economic stability, guiding the Bank of Canada's neutral stance on interest rates. Emphasizes objective economic analysis and the need for careful management of fiscal and monetary policy to control inflationary pressures." },
+          "right": { "label": "Conservative Context", "synthesis": "Often highlights inflation as a consequence of government spending or policy, advocating for fiscal restraint and market-driven solutions. May express concern over the persistent three percent rate and its effect on consumer purchasing power and business investment." }
         },
-        "neutral": "The article explores how rising oil prices, influenced by the U.S.'s Iran policy, could economically benefit Canada by offsetting losses from U.S. tariffs, presenting a complex trade-off for the Canadian economy."
+        "neutral": "Canada's annual inflation rate stabilized at three percent in August, influenced by rising shelter and travel expenses, while a slight decrease in gasoline and food prices was observed; future inflation expectations include potential impacts from recent crude oil price increases."
       }
     },
     {
-      "id": "federalism-003",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Carney to meet with Macron in Saint-Pierre-et-Miquelon next week to discuss energy, defence",
-      "citation": "September 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-carney-to-meet-with-macron-in-saint-pierre-et-miquelon-next-week-to/",
-      "summary": "Prime Minister Carney is scheduled to meet with French President Emmanuel Macron in Saint-Pierre-et-Miquelon, a French archipelago off Canada's coast. The agenda includes discussions on energy and defence cooperation, underscoring ongoing efforts in international diplomacy and strategic partnerships between Canada and France.",
-      "graph": ["International Diplomacy", "Canada-France Relations", "Energy Security", "Defence Cooperation", "Geopolitics"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would emphasize the importance of international cooperation on global challenges like climate change and security, viewing such meetings as opportunities to advance multilateral solutions and shared progressive values." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the pragmatic and diplomatic necessity of maintaining strong bilateral relations with key allies, particularly concerning critical sectors like energy and defence, to ensure regional stability and mutual interests." },
-          "right": { "label": "Conservative Context", "synthesis": "Might view the meeting as an assertion of national interests and sovereign capabilities, particularly in defence and resource management, while also scrutinizing the strategic benefits and potential costs of closer alignment with European powers." }
-        },
-        "neutral": "The article reports on an upcoming diplomatic meeting between Canadian and French leaders to discuss energy and defence, signifying continued bilateral engagement on strategic issues."
-      }
-    },
-    {
-      "id": "federalism-004",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Quebec party leaders talk transport, health care on campaign trail as first debate looms",
-      "citation": "September 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-quebec-party-leaders-talk-transport-health-care-trail-as-first-debate/",
-      "summary": "Ahead of the first provincial election debate, Quebec's political party leaders are focusing their campaign efforts on key policy areas such as transportation and healthcare. These discussions highlight the provincial priorities and proposed solutions for critical public services, reflecting the domestic political landscape.",
-      "graph": ["Quebec Politics", "Provincial Election", "Healthcare Policy", "Transportation Infrastructure", "Public Services"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would focus on equitable access to healthcare and sustainable public transport solutions, potentially critiquing market-based approaches and advocating for stronger social safety nets and environmental protections in policy proposals." },
-          "center": { "label": "Procedural Context", "synthesis": "Concentrates on the practical challenges of public service delivery and infrastructure management, emphasizing the need for evidence-based policy, fiscal responsibility, and efficient governance within the provincial mandate." },
-          "right": { "label": "Conservative Context", "synthesis": "Might advocate for private sector involvement or innovative financing models in healthcare and transportation, stressing fiscal prudence, individual choice, and reduced government bureaucracy in delivering services." }
-        },
-        "neutral": "The article outlines the primary policy platforms — transport and healthcare — that Quebec's party leaders are emphasizing during their election campaign, prior to an upcoming debate."
-      }
-    },
-    {
-      "id": "federalism-005",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Carney to meet UK Prime Minister Andy Burnham for first time during Europe trip",
-      "citation": "September 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-carney-to-meet-uk-prime-minister-andy-burnham-for-first-time-during/",
-      "summary": "Canadian Prime Minister Carney is slated to meet with newly appointed UK Prime Minister Andy Burnham for the first time during a European tour, which also includes an address to the European Parliament. This trip signifies Canada's diplomatic engagement to bolster relationships with both the United Kingdom and the broader European Union amidst evolving global dynamics.",
-      "graph": ["International Diplomacy", "Canada-UK Relations", "Canada-EU Relations", "Foreign Policy", "Leadership Summit"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would highlight the importance of strengthening alliances based on shared democratic values and multilateralism, advocating for cooperative approaches to global challenges and emphasizing social justice in international agreements." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the strategic necessity of consistent diplomatic engagement and relationship building with key international partners to secure trade, security, and cultural ties in a complex geopolitical environment." },
-          "right": { "label": "Conservative Context", "synthesis": "Might emphasize the pursuit of distinct national interests in these bilateral and multilateral engagements, scrutinizing potential impacts on Canadian sovereignty and trade benefits while prioritizing strong alliances for defence and economic advantage." }
-        },
-        "neutral": "This report details Prime Minister Carney's upcoming diplomatic engagements with the UK Prime Minister and the European Parliament, aimed at reinforcing Canada's international partnerships."
-      }
-    },
-    {
-      "id": "federalism-006",
+      "id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7e",
       "category": "Federalism",
       "source": "National Post",
-      "title": "\u2018Serious\u2019 critique of Carney is what loyalty to Canada looks like, Tory critic says",
+      "title": "Quebec College Faces Bankruptcy Over Language Law Fines for Anglophone Education",
       "citation": "September 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/serious-critique-of-carney-is-what-loyalty-to-canada-looks-like-tory-critic-says",
-      "summary": "A Conservative critic argues that thorough and critical examination of Prime Minister Carney's government and policies is an act of loyalty to Canada, not disloyalty. This perspective underscores the constitutional role of opposition parties in democratic accountability and frames political debate as essential for national well-being.",
-      "graph": ["Canadian Politics", "Political Opposition", "Democratic Accountability", "Federal Government Criticism", "Loyalty Debate"],
+      "url": "https://nationalpost.com/news/fined-into-bankruptcy-the-small-montreal-college-at-the-forefront-of-the-language-battle",
+      "summary": "LaSalle College in Montreal is facing potential bankruptcy due to $30 million in punitive fines imposed by the Quebec government for exceeding limits on anglophone education. This situation highlights the ongoing provincial language battle and its severe economic consequences for institutions operating under Quebec's strict language laws.",
+      "graph": ["Language Policy", "Provincial Autonomy", "Education Funding", "Federal-Provincial Relations", "Minority Rights"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would emphasize the importance of robust public discourse and dissent as integral to a healthy democracy, potentially also highlighting specific progressive policy areas where critique is warranted for the public good." },
-          "center": { "label": "Procedural Context", "synthesis": "Affirms the procedural role of opposition parties in holding the government accountable, recognizing that legitimate criticism is a cornerstone of parliamentary democracy and ensures policy scrutiny, regardless of political affiliation." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly advocates for the right and duty of opposition to challenge government power and policy, viewing such critiques as vital for protecting national interests, fiscal responsibility, and individual liberties from perceived overreach." }
+          "left": { "label": "Progressive Context", "synthesis": "May critique the punitive nature of the fines, potentially arguing for a more nuanced approach to language preservation that balances cultural protection with access to education and economic viability for institutions serving diverse populations." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and procedural aspects of Quebec's language laws, examining the government's authority and the college's compliance challenges. Seeks balanced solutions that uphold provincial jurisdiction while minimizing adverse impacts." },
+          "right": { "label": "Conservative Context", "synthesis": "Tends to emphasize provincial sovereignty in language matters and the importance of protecting French. However, some may argue that such severe fines against private institutions could deter economic activity and infringe on individual choice in education." }
         },
-        "neutral": "The article presents a Conservative critic's viewpoint that rigorous governmental critique constitutes a form of loyalty, emphasizing the constitutional function of political opposition in Canada."
+        "neutral": "A Montreal college is contending with $30 million in fines imposed by the Quebec government for alleged non-compliance with language laws related to anglophone education, prompting concerns about the institution's financial viability and underscoring the ongoing provincial language policy debate."
       }
     },
     {
-      "id": "federalism-007",
+      "id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Chris Selley: Revoking the Stanley Cup from the NHL is a trade-war bargaining chip worth trying",
+      "source": "The Hub",
+      "title": "Alberta Rejects Crown Pipelines, Signals Broader Regulatory Stance on Energy and AI Data",
       "citation": "September 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/chris-selley-revoking-the-stanley-cup-from-the-nhl-is-a-trade-war-bargaining-chip-worth-trying",
-      "summary": "An opinion piece proposes a controversial tactic for Canada's trade war with the U.S.: revoking the Stanley Cup's recognition from the NHL. The author argues that while President Trump may not value hockey, the NHL's significant Canadian roots and cultural importance could make such a move a surprisingly effective, albeit symbolic, form of leverage to draw attention to Canadian grievances.",
-      "graph": ["Trade War", "Canada-US Relations", "Diplomacy Tactics", "Cultural Heritage", "Opinion"],
+      "url": "https://thehub.ca/2026/09/14/danielle-smith-says-no-to-crown-pipelines-but-albertas-wrangling-of-tc-energy-over-ai-data-centre-growth-is-just-the-beginning/",
+      "summary": "Alberta Premier Danielle Smith has dismissed the idea of creating Crown corporations for natural gas pipelines, preferring private sector involvement. This decision reflects the province's stance on resource development and regulatory approaches, which is expected to shape future engagements with entities like TC Energy, particularly concerning the growth of AI data centers and potential conflicts with federal policy.",
+      "graph": ["Provincial Autonomy", "Energy Policy", "Resource Development", "AI Infrastructure", "Federal-Provincial Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might view this as a trivial or distracting maneuver from substantive policy discussions, or ironically as a cultural assertion against economic imperialism, but would likely prioritize more impactful and equitable diplomatic strategies." },
-          "center": { "label": "Procedural Context", "synthesis": "Would assess the proposal from a pragmatic standpoint, weighing the symbolic impact against potential diplomatic fallout and the practical effectiveness of such a non-traditional 'bargaining chip' in international trade negotiations." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports innovative and assertive approaches to protecting national interests and sovereignty in trade disputes, even if unconventional, seeking to leverage any available tool to gain an advantage against perceived foreign economic aggression." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for greater public control over essential infrastructure like pipelines and scrutinize the environmental impact of increased natural gas development and energy consumption by AI data centers, promoting renewable energy alternatives." },
+          "center": { "label": "Procedural Context", "synthesis": "Analyzes Alberta's decision within the framework of provincial economic development strategies and private sector engagement. Focuses on the efficiency and practicalities of resource management and industrial growth, considering both provincial and federal regulatory landscapes." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the province's reliance on the private sector for infrastructure and resource development, viewing government intervention as inefficient. Emphasizes provincial economic sovereignty and the need to attract investment by reducing regulatory burdens." }
         },
-        "neutral": "An opinion columnist suggests that Canada could use the cultural leverage of the Stanley Cup in its trade dispute with the U.S. by symbolically revoking its NHL recognition."
+        "neutral": "Alberta Premier Danielle Smith has affirmed the province's preference for private sector-led development of natural gas pipelines, dismissing the creation of Crown corporations, a stance that indicates the province's regulatory philosophy influencing interactions with energy companies and the development of new industries like AI data centers."
       }
     },
     {
-      "id": "federalism-008",
+      "id": "7a8b9c0d-e1f2-3a4b-5c6d-7e8f9a0b1c2d",
       "category": "Federalism",
       "source": "Toronto Sun",
-      "title": "LILLEY: Mark Carney wants to make Canada an \u2018associate\u2019 EU member",
+      "title": "Canada Expands Support for Ukraine, Shifting from Peacekeeping to Drone and Pilot Training",
       "citation": "September 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/columnists/carney-seeks-associate-eu-member-status",
-      "summary": "An opinion piece alleges that Prime Minister Mark Carney is engaged in secretive negotiations to establish Canada as an 'associate' member of the European Union, a level of integration with Europe that has not been previously considered. The author criticizes the lack of public disclosure regarding these potentially profound foreign policy developments.",
-      "graph": ["Foreign Policy", "Canada-EU Relations", "International Integration", "Political Transparency", "Opinion"],
+      "url": "https://torontosun.com/news/national/canada-morphs-help-ukraine-russia-war",
+      "summary": "Canada is significantly evolving its support for Ukraine, moving beyond traditional peacekeeping to include developing a domestic drone 'marketplace' and utilizing private companies for training Ukrainian fighter jet pilots. This marks a strategic shift in Canada's defence and foreign policy, deepening its involvement in the conflict.",
+      "graph": ["Foreign Policy", "Defence Strategy", "Military Aid", "International Conflict", "Federal Initiatives"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might view closer ties with the EU as an opportunity for Canada to align with progressive multilateral institutions, potentially enhancing shared social and environmental standards, but would call for democratic transparency in negotiations." },
-          "center": { "label": "Procedural Context", "synthesis": "Would scrutinize the practical implications and strategic benefits of such an unprecedented international agreement, focusing on the legal, economic, and political feasibility while emphasizing the need for parliamentary oversight and public consultation." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concern over perceived executive overreach and lack of transparency in pursuing an 'associate EU membership,' arguing it could compromise Canadian sovereignty and democratic accountability without a clear mandate or public debate." }
+          "left": { "label": "Progressive Context", "synthesis": "Generally supports humanitarian aid and diplomacy but may scrutinize the expansion of military involvement and the development of a domestic 'drone marketplace,' advocating for transparent oversight and adherence to international law." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the shift as a pragmatic response to evolving geopolitical realities, aligning Canada with its allies in support of international security. Emphasizes strategic alignment and effective resource allocation in defence." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports robust military assistance to Ukraine, viewing it as a critical stance against aggression. May advocate for even stronger defence spending and industrial capacity to solidify Canada's role on the global stage." }
         },
-        "neutral": "An opinion column raises concerns about Prime Minister Carney's alleged pursuit of Canada becoming an 'associate' EU member without public consultation, framing it as a potentially unprecedented foreign policy shift."
+        "neutral": "Canada is reorienting its support for Ukraine, expanding from traditional peacekeeping roles to include the development of a domestic drone industry and the use of private firms for training Ukrainian fighter jet pilots, signifying a strategic adjustment in its international defence commitments."
+      }
+    },
+    {
+      "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "category": "Federalism",
+      "source": "The Globe and Mail",
+      "title": "Doug Guzman Confirms Continued Leadership of Defence Investment Agency",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-defence-investment-agency-doug-guzman-head-informs-staff-hes-staying/",
+      "summary": "Doug Guzman, a former banker, has informed staff he will remain at the helm of Canada's Defence Investment Agency. His continued leadership is seen as crucial for Prime Minister Mark Carney’s defence procurement plans, ensuring stability and expertise in navigating complex national security investments.",
+      "graph": ["Defence Procurement", "Federal Administration", "National Security", "Public Service Leadership"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the role of former private sector executives in government defense procurement, advocating for transparency, accountability, and ethical oversight to prevent conflicts of interest and ensure public funds are spent effectively." },
+          "center": { "label": "Procedural Context", "synthesis": "Views the retention of experienced leadership, especially from the financial sector, as beneficial for managing large-scale defense investments, bringing business acumen to public administration. Focuses on efficiency and strategic project delivery." },
+          "right": { "label": "Conservative Context", "synthesis": "Generally supports bringing private sector expertise into government to enhance efficiency and achieve strategic objectives in defence. Emphasizes strong leadership for effective national security and procurement outcomes." }
+        },
+        "neutral": "Doug Guzman, a former banker, has confirmed his ongoing tenure as head of Canada's Defence Investment Agency, a development important for maintaining continuity and expertise in the Prime Minister's defence procurement strategy."
+      }
+    },
+    {
+      "id": "e3f4a5b6-c7d8-9e0f-1a2b-3c4d5e6f7a8b",
+      "category": "Federalism",
+      "source": "The Narwhal",
+      "title": "Ontario Schools Struggle with Extreme Heat, Sparking Calls for Cooling Standards",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/ontario-peel-students-cooling-inequality/?utm_source=rss",
+      "summary": "Families and advocates in Peel Region, Ontario, are raising concerns about students and residents enduring extreme heat in schools and apartments, which often lack adequate cooling. This issue, exacerbated by prolonged summer weather, highlights a systemic vulnerability and prompts calls for the implementation of maximum indoor temperature standards and long-term infrastructure upgrades in both schools and residential buildings.",
+      "graph": ["Public Health", "Education Policy", "Climate Adaptation", "Housing Standards", "Provincial Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for immediate government intervention and funding for infrastructure upgrades, particularly in public schools and affordable housing, to protect vulnerable populations from climate impacts. Emphasizes social equity and the right to a safe living and learning environment." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the logistical and financial challenges of implementing new temperature standards and infrastructure retrofits. Calls for a balanced approach involving all levels of government and school boards to develop sustainable, long-term solutions." },
+          "right": { "label": "Conservative Context", "synthesis": "May emphasize individual responsibility for cooling solutions or critique the cost implications of widespread government mandates and infrastructure projects, advocating for market-based solutions or prioritizing local control over such decisions." }
+        },
+        "neutral": "Concerns are growing in Peel Region, Ontario, regarding students and residents facing extreme heat in uncooled schools and homes, leading to calls from families and advocates for mandatory indoor temperature standards and significant infrastructure investments to address climate adaptation vulnerabilities."
       }
     }
   ],
-  "charter": [],
+  "charter": [
+    {
+      "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+      "category": "Charter",
+      "source": "The Globe and Mail",
+      "title": "Online Harms Cost Canada's Health and Justice Systems Billions Annually, Report Finds",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/article-online-harms-place-substantial-cost-on-canadas-health-and-justice/",
+      "summary": "A new report estimates that online harms, including cyberbullying, hate speech, and social media addiction, cost Canadian health and justice systems up to $4.8 billion annually, with a significant portion borne by governments. The analysis highlights the impact on young Canadians' mental health, productivity, and the societal burden, prompting calls for platforms to bear more responsibility for their \"addictive design\" and \"algorithmic amplification\" of damaging content.",
+      "graph": ["Digital Rights", "Youth Protection", "Mental Health", "Freedom of Expression", "Cyberbullying", "Public Safety"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust regulation of social media platforms to protect vulnerable users, particularly youth, from online harms. Advocates for platform accountability, mental health support, and government funding to address the societal costs." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on developing balanced regulatory frameworks that address online harms while respecting freedom of expression. Seeks evidence-based policy solutions and inter-governmental collaboration to mitigate costs and improve public safety." },
+          "right": { "label": "Conservative Context", "synthesis": "May express concerns about over-regulation infringing on free speech or creating burdens for tech companies. Advocates for individual responsibility online and potentially market-based solutions, while still acknowledging the need to address criminal online behaviour." }
+        },
+        "neutral": "A recent report indicates that online harms, such as cyberbullying and hate speech, incur an estimated annual cost of up to $4.8 billion to Canada's health and justice systems, with substantial financial implications for governments and societal well-being, particularly among young Canadians."
+      }
+    },
+    {
+      "id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3f2e1d0c",
+      "category": "Charter",
+      "source": "The Hub",
+      "title": "Canadian Universities Accused of Failing to Protect Jewish Students from Antisemitism",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/14/a-century-after-keeping-jewish-students-out-canadas-universities-are-letting-them-be-pushed-out/",
+      "summary": "A commentary highlights concerns that Canadian universities, despite a history of quotas against Jewish students, are now failing to protect them from a resurgence of antisemitism on campuses. Citing reports of widespread harassment, Holocaust denial, and inadequate institutional responses, the piece argues that this inaction infringes on Jewish students' rights to a safe and inclusive learning environment, raising serious questions about equality and freedom of religion.",
+      "graph": ["Equality Rights", "Freedom of Religion", "Hate Speech", "Campus Climate", "Human Rights", "Education Policy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for inclusive campus environments and protection against hate speech and discrimination, while potentially balancing concerns with academic freedom and broad freedom of expression. May call for stronger institutional policies and anti-racism education." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on institutional responsibility and the need for universities to uphold their codes of conduct and human rights policies. Seeks clear, impartial processes for addressing complaints of antisemitism and ensuring a safe learning environment for all students." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes individual rights and freedom of speech, while condemning antisemitism. May critique universities for perceived political biases or for failing to enforce clear standards of conduct, calling for accountability and protection of minority groups." }
+        },
+        "neutral": "A recent commentary alleges that Canadian universities are inadequately addressing a rise in antisemitism on campuses, impacting Jewish students' safety and learning environments through incidents of harassment and Holocaust denial, thereby challenging institutions to uphold equality and freedom of religion."
+      }
+    }
+  ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "criminal-001",
+      "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Elopee wanted by cops after escaping from CAMH; man shot in North York",
+      "source": "National Post",
+      "title": "Courts' Interpretation of 'Intent to Kill' in Homicide Cases Draws Scrutiny",
       "citation": "September 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/elopee-wanted-by-toronto-cops-escaped-camh",
-      "summary": "Toronto police are actively searching for an individual who escaped from the Centre for Addiction and Mental Health (CAMH), raising concerns about public safety. In a separate incident, authorities are investigating a shooting in North York, contributing to local crime reports.",
-      "graph": ["Public Safety", "Police Investigation", "Mental Health", "Crime", "Toronto"],
+      "url": "https://nationalpost.com/opinion/courts-deciding-stabbing-doesnt-carry-intent-to-kill",
+      "summary": "An opinion piece highlights a trend in Canadian courts where convictions for manslaughter are increasingly applied in homicides involving stabbings or shootings, rather than first- or second-degree murder. This raises questions about the legal standard for 'intent to kill' and its application, suggesting a potential divergence between judicial interpretation and public perception of culpability in violent crimes.",
+      "graph": ["Criminal Law", "Homicide", "Manslaughter", "Judicial Interpretation", "Legal Standards", "Justice System"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Would likely emphasize the need for adequate mental health resources to prevent such escapes and ensure community safety through rehabilitation rather than solely punitive measures, while also addressing systemic causes of violence." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the immediate law enforcement response, the ongoing investigation, and the procedural aspects of managing public safety incidents, including the recapture of individuals from secure facilities." },
-          "right": { "label": "Conservative Context", "synthesis": "Stresses the importance of law and order, swift police action, and secure institutional management to protect the public from perceived threats, possibly advocating for stricter measures for individuals deemed dangerous." }
+          "left": { "label": "Progressive Context", "synthesis": "May advocate for a deeper examination of systemic factors contributing to violence, and the complexities of intent in criminal cases, potentially supporting judicial discretion in considering contextual factors over strict interpretations of intent for specific outcomes." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the consistent application of legal definitions and precedents regarding mens rea (intent) in criminal law. Emphasizes the importance of judicial independence and the precise interpretation of statutes by the courts." },
+          "right": { "label": "Conservative Context", "synthesis": "Often calls for stricter penalties and a more robust application of murder charges in violent deaths, arguing that current interpretations of 'intent to kill' may be too lenient or fail to reflect public safety concerns, potentially undermining deterrence." }
         },
-        "neutral": "The article reports on two separate public safety incidents in Toronto: an individual's escape from a mental health facility leading to a police search, and an investigation into a shooting."
-      }
-    },
-    {
-      "id": "criminal-002",
-      "category": "Criminal",
-      "source": "Slaw",
-      "title": "Quebec Court Overturns Pimping Conviction, Upholds Other Sex Trafficking & Drug Charges",
-      "citation": "September 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/13/summaries-sunday-soquij-644/",
-      "summary": "The Quebec Court of Appeal, in _Tilin v. R._ (2026 QCCA 1150), partially overturned a lower court's decision, acquitting an appellant of pimping under Article 286.3 C.Cr. due to a legal error in interpreting legislative intent, specifically that the provision does not apply to an individual obtaining and paying for sexual services for themselves. Convictions for obtaining sexual services for consideration and drug trafficking in connection were upheld.",
-      "graph": ["Criminal Law", "Quebec Court of Appeal", "Pimping", "Prostitution Law", "Drug Trafficking", "Statutory Interpretation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Might analyze the decision in terms of the complexities of sex work legislation, potentially highlighting how interpretations of pimping laws can impact marginalized individuals and advocating for legislative clarity that protects workers while targeting exploitation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the precise application of criminal law, the nuances of statutory interpretation (especially concerning Articles 286.1 and 286.3 of the Criminal Code), and the appellate court's role in correcting errors of law while upholding factual findings." },
-          "right": { "label": "Conservative Context", "synthesis": "Would emphasize the importance of rigorous legal definitions to prevent overreach of state power in criminal matters, ensuring that specific offenses like pimping are narrowly defined and applied, while upholding convictions for other serious crimes like drug trafficking." }
-        },
-        "neutral": "This legal summary outlines a Quebec Court of Appeal ruling that partially overturns a criminal conviction, clarifying the legal interpretation of pimping while upholding other related charges."
-      }
-    },
-    {
-      "id": "criminal-003",
-      "category": "Criminal",
-      "source": "Slaw",
-      "title": "Supreme Court Grants Leave to Appeal on Post-Verdict Sentencing Delay in Criminal Case",
-      "citation": "September 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/13/summaries-sunday-supreme-one-liners-46/",
-      "summary": "The Supreme Court of Canada has granted leave to appeal in _R. v. R.B.-C._ (2026 SCC 30), indicating it will provide clarification on issues related to post-verdict sentencing delay in criminal proceedings. This decision signals the Court's intention to address an important procedural aspect of criminal justice that impacts the timeliness of sentencing.",
-      "graph": ["Criminal Law", "Supreme Court of Canada", "Sentencing", "Judicial Process", "Appeals"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Could highlight the potential for sentencing delays to disproportionately affect vulnerable populations or to undermine public confidence in the justice system's efficiency, advocating for reforms that ensure timely and fair outcomes." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural significance of the Supreme Court granting leave, indicating that the issue of post-verdict sentencing delay requires definitive legal clarification for the consistent administration of criminal justice." },
-          "right": { "label": "Conservative Context", "synthesis": "Might emphasize the importance of judicial efficiency and accountability in the criminal justice system, ensuring that delays are minimized to uphold the rule of law and deliver justice promptly." }
-        },
-        "neutral": "The Supreme Court of Canada has agreed to hear a case (_R. v. R.B.-C._) to provide clarification on the legal principles surrounding post-verdict sentencing delays in criminal matters."
+        "neutral": "Canadian courts' frequent application of manslaughter convictions in homicides involving stabbings or shootings is prompting discussion on the legal standard for 'intent to kill,' and its practical interpretation in criminal cases."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+      "category": "Immigration",
+      "source": "CBC News",
+      "title": "Afghan Woman Working for Canada-Funded Projects Alleges Abandonment by Immigration Program",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/world/afghan-woman-immigration-plea-to-canada-9.7338709?cmp=rss",
+      "summary": "An Afghan woman, identified as X, who previously worked for Canadian-funded aid organizations in Afghanistan, asserts that Canada has abandoned her by failing to process her application under the Special Immigration Measures Program (SIMs). She highlights the severe and worsening conditions for women under Taliban rule, where she fears for her safety despite receiving an endorsement from Global Affairs Canada.",
+      "graph": ["Refugee Policy", "Special Immigration Measures", "Afghan Crisis", "Humanitarian Aid", "Gender Rights", "Immigration Delays"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for humanitarian pathways, expedited processing for vulnerable individuals who assisted Canadian efforts, and adherence to moral obligations. Critiques bureaucratic delays and restrictive immigration policies." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative challenges of large-scale immigration programs, the need for robust vetting processes, and balancing humanitarian concerns with program capacity and national security. Seeks clear, efficient, and fair application procedures." },
+          "right": { "label": "Conservative Context", "synthesis": "May emphasize the importance of national security vetting and controlled immigration processes. While acknowledging humanitarian concerns, may call for strict adherence to criteria and prioritize domestic needs." }
+        },
+        "neutral": "An Afghan woman, having previously worked on Canadian-funded initiatives, claims her application to Canada's Special Immigration Measures Program has been stalled despite receiving federal endorsement, raising concerns about Canada's commitment to those who aided its efforts amid deteriorating conditions for women under Taliban rule."
+      }
+    },
+    {
+      "id": "d2e3f4a5-b6c7-8d9e-0f1a-2b3c4d5e6f7a",
+      "category": "Immigration",
+      "source": "CBC News",
+      "title": "Iranian Conscripts Face Inadmissibility to Canada Due to Mandatory IRGC Service",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/ottawa/irgc-iran-conscripts-inadmissible-canada-9.7337653?cmp=rss",
+      "summary": "Hundreds of Iranian permanent resident applicants in Canada are receiving \"Procedural Fairness Letters\" indicating potential inadmissibility due to mandatory military service in Iran's Islamic Revolutionary Guard Corps (IRGC), which Canada designated as a terrorist organization. Many of these individuals claim they were forced into service and are victims of the regime they fled, creating an impossible dilemma.",
+      "graph": ["Immigration Law", "National Security", "Human Rights", "Terrorist Designation", "Procedural Fairness", "Refugee Protection"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for a nuanced approach that differentiates between voluntary affiliation and forced conscription, emphasizing humanitarian considerations and protecting individuals fleeing oppressive regimes. Calls for review of the broad application of inadmissibility rules." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal interpretation of Canada's terrorist organization designation and its application to immigration cases. Seeks to balance national security concerns with principles of fairness, due process, and avoiding unjust outcomes for genuine asylum seekers." },
+          "right": { "label": "Conservative Context", "synthesis": "Prioritizes national security and the strict enforcement of terrorist entity designations, arguing that any association with the IRGC, even forced, poses a risk. May advocate for stringent vetting to protect Canadian interests." }
+        },
+        "neutral": "Hundreds of Iranian permanent resident applicants are facing potential inadmissibility to Canada due to mandatory military service within the Islamic Revolutionary Guard Corps (IRGC), designated a terrorist organization by Canada, posing a complex challenge for individuals who claim forced conscription."
+      }
+    }
+  ]
 }
