@@ -1,257 +1,276 @@
 {
   "federalism": [
     {
-      "id": "e44d8b9e-b7d1-4c12-9218-c2b3a1a3b1c1",
+      "id": "F001",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "European Parliament to Open Ottawa Office as Canada Seeks EU Alliance",
+      "source": "rabble.ca",
+      "title": "NDP wins Calgary-Shaw by-election in closely fought contest",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/european-parliament-ottawa-office-9.7343334?cmp=rss",
-      "summary": "Prime Minister Mark Carney is pushing for a \"unique alliance\" with the European Union, leading to the European Parliament opening an \"antenna\" office in Ottawa. This move, aiming to deepen ties and reduce Canada's economic dependence on the U.S., has garnered some public support but faces criticism from the Conservative opposition, who reject any notion of Canada becoming an \"associate member\" of the EU.",
-      "graph": ["International Relations", "Trade Policy", "EU Relations", "Canadian Sovereignty", "Federal Policy"],
+      "url": "https://rabble.ca/politics/canadian-politics/ndp-wins-calgary-shaw-by-election-in-closely-fought-contest/",
+      "summary": "The Alberta New Democratic Party secured a victory in the Calgary-Shaw provincial by-election, with candidate Kyle Campbell narrowly defeating the United Conservative Party's Mike Derry. This outcome signifies a notable shift in a traditionally conservative riding and has implications for the provincial political landscape.",
+      "graph": ["Provincial Politics", "Alberta", "By-election", "NDP", "UCP", "Electoral Results"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Supports strengthening alliances with democratic blocs, reducing reliance on the U.S., and promoting shared progressive values. May see it as a path to multilateralism and diversification." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the initiative as a strategic foreign policy move to diversify economic and political partnerships, enhancing Canada's position in a shifting global order. Emphasizes pragmatism and mutual benefit." },
-          "right": { "label": "Conservative Context", "synthesis": "Critiques the initiative as potentially undermining Canadian sovereignty and national identity, fearing an 'elitist quest' to align too closely with European models over traditional North American ties, particularly questioning the economic rationale amidst a trade dispute with the U.S." }
+          "left": { "label": "Progressive Context", "synthesis": "The NDP victory is seen as a positive sign of growing progressive support in a traditionally conservative region, potentially indicating broader shifts in voter sentiment towards the UCP government." },
+          "center": { "label": "Procedural Context", "synthesis": "The by-election results highlight the competitive nature of Alberta provincial politics and serve as an important indicator of public mood, influencing future electoral strategies for both major parties." },
+          "right": { "label": "Conservative Context", "synthesis": "This loss for the UCP in a long-held conservative riding is viewed as a significant setback, raising questions about the party's leadership and its ability to maintain its base amidst provincial political challenges." }
         },
-        "neutral": "Prime Minister Mark Carney's government is pursuing a 'unique alliance' with the European Union, evidenced by the upcoming European Parliament office in Ottawa, to deepen trade, defense, and economic ties, while facing domestic political debate over its implications for Canadian sovereignty and economic strategy."
+        "neutral": "The Alberta NDP's win in the Calgary-Shaw by-election marks a significant provincial political event."
       }
     },
     {
-      "id": "f8c5a2d1-0e3f-4b67-8910-d3e4f5a6b7c7",
+      "id": "F002",
       "category": "Federalism",
-      "source": "CBC News / The Globe and Mail / The Hub",
-      "title": "Canada Investment Summit Aims for $1 Trillion in Deals Amid Trade Tensions",
+      "source": "cbc.ca",
+      "title": "Canada's 4 largest airports to be opened up to private investment, Carney says",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/business/carney-investment-summit-explainer-9.7341009?cmp=rss",
-      "summary": "Prime Minister Mark Carney is hosting the inaugural Canada Investment Summit in Toronto to attract $1 trillion in global investments over five years, focusing on energy, mining, and infrastructure projects. The initiative is framed as a response to the escalating Canada-U.S. trade war, aiming to diversify investment sources, though critics raise concerns about Canada's regulatory environment and the effectiveness of such summits.",
-      "graph": ["Economic Policy", "Foreign Investment", "Infrastructure", "Trade Diversification", "Federal Initiatives"],
+      "url": "https://www.cbc.ca/news/politics/carney-airport-private-investment-9.7344327?cmp=rss",
+      "summary": "Prime Minister Mark Carney announced that Canada's four largest airports (Toronto Pearson, Vancouver, Montreal Trudeau, and Calgary International) will be opened to private investment through long-term concessions. The federal government will maintain ownership of the underlying land and assets, with the goal of reinvesting the generated capital into other national infrastructure projects.",
+      "graph": ["Federal Policy", "Infrastructure", "Privatization", "Public-Private Partnerships", "Economic Development", "Airport Operations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May support strategic investments in green energy and critical minerals for economic transition, but might also scrutinize the types of projects (e.g., conventional energy) and potential corporate influence, advocating for investments that prioritize social and environmental well-being." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the summit as a necessary effort to stimulate economic growth, attract capital for major projects, and enhance Canada's global economic standing, especially in the context of trade diversification away from the U.S. Focuses on the procedural aspects of deal-making and economic stability." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports attracting foreign investment and reducing regulatory burdens. However, some may critique the government's approach as insufficient to address underlying issues deterring investment (e.g., long approval times) or question the effectiveness of government-led summits versus market-driven capital flows." }
+          "left": { "label": "Progressive Context", "synthesis": "Concerns are raised about the potential for increased user fees, job impacts, and the priority of private profit over public service in essential infrastructure. Critics worry about diminished public control and accountability." },
+          "center": { "label": "Procedural Context", "synthesis": "The initiative represents a strategic shift in federal infrastructure funding, balancing public ownership with private operational expertise and capital to modernize facilities and generate revenue for broader infrastructure needs." },
+          "right": { "label": "Conservative Context", "synthesis": "The move is lauded as a step towards greater efficiency, innovation, and reduced government burden, leveraging private capital for critical infrastructure development while retaining strategic public asset ownership." }
         },
-        "neutral": "Prime Minister Mark Carney is spearheading the Canada Investment Summit to secure $1 trillion in global investments for key sectors, a move aimed at bolstering the national economy and diversifying trade relationships, with discussions including challenges related to Canada's investment climate."
+        "neutral": "Prime Minister Carney's plan to introduce private investment into Canada's largest airports aims to generate capital for infrastructure without divesting public land ownership."
       }
     },
     {
-      "id": "a9b8c7d6-e5f4-3a21-1b2c-3d4e5f6a7b8c",
+      "id": "F003",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada's Inflation Rate Holds Steady at 3% in August Driven by Shelter, Travel Costs",
+      "source": "cbc.ca",
+      "title": "Carney's announcements at investment summit include tax incentives to lure foreign investors",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/business/inflation-august-2026-9.7342791?cmp=rss",
-      "summary": "Statistics Canada reported that the annual inflation rate remained at three percent in August, primarily due to increased shelter and travel costs, offsetting slight decreases in gasoline and food prices. Economists anticipate a potential acceleration in September due to recent rises in crude oil prices, but expect the Bank of Canada to maintain its current interest rates.",
-      "graph": ["Economic Indicators", "Monetary Policy", "Cost of Living", "Consumer Prices", "Federal Statistics"],
+      "url": "https://www.cbc.ca/news/canada/livestory/carney-investment-summit-tariffs-trillion-protests-9.7344307?cmp=rss",
+      "summary": "At the Canada Investment Summit, Prime Minister Mark Carney announced measures to attract foreign investment, including 'immediate expensing' tax incentives for new capital investments. The government aims to secure $1 trillion in investments over five years, although these efforts have been met with protests against perceived corporate influence.",
+      "graph": ["Federal Policy", "Investment Summit", "Foreign Investment", "Tax Incentives", "Economic Strategy", "Business Development"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the impact of inflation on affordability, particularly for low-income households, and advocates for government interventions to address rising shelter and food costs, potentially through social programs or tighter regulation of certain sectors." },
-          "center": { "label": "Procedural Context", "synthesis": "Interprets the data as an indicator of economic stability, guiding the Bank of Canada's neutral stance on interest rates. Emphasizes objective economic analysis and the need for careful management of fiscal and monetary policy to control inflationary pressures." },
-          "right": { "label": "Conservative Context", "synthesis": "Often highlights inflation as a consequence of government spending or policy, advocating for fiscal restraint and market-driven solutions. May express concern over the persistent three percent rate and its effect on consumer purchasing power and business investment." }
+          "left": { "label": "Progressive Context", "synthesis": "Critics argue that offering significant tax incentives to foreign corporations may divert funds from public services and exacerbate economic inequality, prioritizing corporate profits over the needs of ordinary Canadians." },
+          "center": { "label": "Procedural Context", "synthesis": "The government's strategy is presented as a necessary step to enhance Canada's economic competitiveness and attract global capital for major projects, aiming to stimulate growth and job creation while mitigating fiscal pressures." },
+          "right": { "label": "Conservative Context", "synthesis": "The tax incentives and investment summit are welcomed as vital for boosting Canada's economy, reducing regulatory hurdles, and signalling a pro-business environment to international investors." }
         },
-        "neutral": "Canada's annual inflation rate stabilized at three percent in August, influenced by rising shelter and travel expenses, while a slight decrease in gasoline and food prices was observed; future inflation expectations include potential impacts from recent crude oil price increases."
+        "neutral": "Prime Minister Carney unveiled tax incentives and investment strategies at a summit to attract foreign capital, targeting $1 trillion over five years amidst public protests."
       }
     },
     {
-      "id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7e",
+      "id": "F004",
       "category": "Federalism",
-      "source": "National Post",
-      "title": "Quebec College Faces Bankruptcy Over Language Law Fines for Anglophone Education",
+      "source": "cbc.ca",
+      "title": "Zelenskyy's comparison of Canada to Ukraine is imperfect — but it matters",
       "citation": "September 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/fined-into-bankruptcy-the-small-montreal-college-at-the-forefront-of-the-language-battle",
-      "summary": "LaSalle College in Montreal is facing potential bankruptcy due to $30 million in punitive fines imposed by the Quebec government for exceeding limits on anglophone education. This situation highlights the ongoing provincial language battle and its severe economic consequences for institutions operating under Quebec's strict language laws.",
-      "graph": ["Language Policy", "Provincial Autonomy", "Education Funding", "Federal-Provincial Relations", "Minority Rights"],
+      "url": "https://www.cbc.ca/news/politics/canada-ukraine-us-russia-annexation-war-economy-9.7343922?cmp=rss",
+      "summary": "Ukrainian President Volodymyr Zelenskyy described Canada's strained relationship with the U.S., including trade disputes and 'annexation' rhetoric from former President Trump, as 'dangerous' and drew a comparison to Ukraine's situation with Russia. The article explores how this analogy highlights Canada's vulnerability to a powerful neighbour and questions of national sovereignty.",
+      "graph": ["International Relations", "Canada-US Relations", "Sovereignty", "Trade War", "Geopolitics", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May critique the punitive nature of the fines, potentially arguing for a more nuanced approach to language preservation that balances cultural protection with access to education and economic viability for institutions serving diverse populations." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and procedural aspects of Quebec's language laws, examining the government's authority and the college's compliance challenges. Seeks balanced solutions that uphold provincial jurisdiction while minimizing adverse impacts." },
-          "right": { "label": "Conservative Context", "synthesis": "Tends to emphasize provincial sovereignty in language matters and the importance of protecting French. However, some may argue that such severe fines against private institutions could deter economic activity and infringe on individual choice in education." }
+          "left": { "label": "Progressive Context", "synthesis": "The comparison underlines the significant risks of economic coercion and threats to national autonomy from dominant powers, advocating for stronger multilateral diplomacy and a less dependent foreign policy for Canada." },
+          "center": { "label": "Procedural Context", "synthesis": "The commentary analyzes the diplomatic implications and strategic considerations of such a comparison, examining the evolving dynamics of Canada-US relations and the nuanced challenges to Canadian sovereignty in a volatile global environment." },
+          "right": { "label": "Conservative Context", "synthesis": "While the military analogy is dismissed, the underlying message of needing to assert national interests and reduce vulnerability to U.S. pressure resonates, potentially prompting calls for increased national self-reliance and defense capabilities." }
         },
-        "neutral": "A Montreal college is contending with $30 million in fines imposed by the Quebec government for alleged non-compliance with language laws related to anglophone education, prompting concerns about the institution's financial viability and underscoring the ongoing provincial language policy debate."
+        "neutral": "Ukrainian President Zelenskyy's comparison of Canada-U.S. tensions to Ukraine-Russia dynamics highlights Canada's geopolitical vulnerabilities."
       }
     },
     {
-      "id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+      "id": "F005",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Alberta Rejects Crown Pipelines, Signals Broader Regulatory Stance on Energy and AI Data",
+      "source": "cbc.ca",
+      "title": "COVID-19 benefit repayment is hurting low-income Canadians, report says",
       "citation": "September 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/14/danielle-smith-says-no-to-crown-pipelines-but-albertas-wrangling-of-tc-energy-over-ai-data-centre-growth-is-just-the-beginning/",
-      "summary": "Alberta Premier Danielle Smith has dismissed the idea of creating Crown corporations for natural gas pipelines, preferring private sector involvement. This decision reflects the province's stance on resource development and regulatory approaches, which is expected to shape future engagements with entities like TC Energy, particularly concerning the growth of AI data centers and potential conflicts with federal policy.",
-      "graph": ["Provincial Autonomy", "Energy Policy", "Resource Development", "AI Infrastructure", "Federal-Provincial Relations"],
+      "url": "https://www.cbc.ca/news/politics/cra-pandemic-benefit-clawbacks-cerb-cra-maytree-report-9.7330433?cmp=rss",
+      "summary": "A report from the Maytree think-tank asserts that the federal government's ongoing efforts to claw back billions of dollars in ineligible COVID-19 pandemic benefits disproportionately harm low-income Canadians and are often inefficient. The report advocates for ending these recovery efforts for vulnerable recipients, citing that many recipients needed the aid and cannot repay it.",
+      "graph": ["Federal Policy", "Social Policy", "COVID-19 Benefits", "CERB", "CRA", "Low-Income Support", "Debt Collection", "Government Accountability"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for greater public control over essential infrastructure like pipelines and scrutinize the environmental impact of increased natural gas development and energy consumption by AI data centers, promoting renewable energy alternatives." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes Alberta's decision within the framework of provincial economic development strategies and private sector engagement. Focuses on the efficiency and practicalities of resource management and industrial growth, considering both provincial and federal regulatory landscapes." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the province's reliance on the private sector for infrastructure and resource development, viewing government intervention as inefficient. Emphasizes provincial economic sovereignty and the need to attract investment by reducing regulatory burdens." }
+          "left": { "label": "Progressive Context", "synthesis": "The report highlights social injustice, arguing that demanding repayment from vulnerable individuals who relied on the aid during an emergency is punitive and exacerbates poverty, advocating for compassionate government policy." },
+          "center": { "label": "Procedural Context", "synthesis": "Analysis focuses on the administrative complexities of rapid benefit distribution during a crisis, the balance between fiscal accountability and social safety nets, and the economic efficiency of prolonged debt recovery efforts." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the plight of some, this perspective may emphasize the principle of accountability for public funds and the need to prevent fraud, potentially criticizing the initial rollout for lack of sufficient vetting, but also questioning the cost-effectiveness of current recovery methods." }
         },
-        "neutral": "Alberta Premier Danielle Smith has affirmed the province's preference for private sector-led development of natural gas pipelines, dismissing the creation of Crown corporations, a stance that indicates the province's regulatory philosophy influencing interactions with energy companies and the development of new industries like AI data centers."
+        "neutral": "A Maytree report argues that federal efforts to recover ineligible COVID-19 benefits are disproportionately harming low-income Canadians and are inefficient."
       }
     },
     {
-      "id": "7a8b9c0d-e1f2-3a4b-5c6d-7e8f9a0b1c2d",
+      "id": "F006",
       "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Canada Expands Support for Ukraine, Shifting from Peacekeeping to Drone and Pilot Training",
+      "source": "cbc.ca",
+      "title": "Bell plans expansion of Sask. AI data centre, making it largest private investment in province's history",
       "citation": "September 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/canada-morphs-help-ukraine-russia-war",
-      "summary": "Canada is significantly evolving its support for Ukraine, moving beyond traditional peacekeeping to include developing a domestic drone 'marketplace' and utilizing private companies for training Ukrainian fighter jet pilots. This marks a strategic shift in Canada's defence and foreign policy, deepening its involvement in the conflict.",
-      "graph": ["Foreign Policy", "Defence Strategy", "Military Aid", "International Conflict", "Federal Initiatives"],
+      "url": "https://www.cbc.ca/news/canada/saskatoon/bell-canada-ai-data-centre-size-expansion-investment-9.7343780?cmp=rss",
+      "summary": "Bell Canada announced a $52 billion expansion of its AI data centre near Regina, quadrupling its size to 1.2 gigawatts of power, making it the largest private investment in Saskatchewan's history. Both Premier Scott Moe and Prime Minister Mark Carney lauded the project, emphasizing its significance for national data sovereignty, while the provincial NDP criticized the lack of public consultation and environmental concerns.",
+      "graph": ["Provincial Policy", "Federal-Provincial Relations", "AI Infrastructure", "Data Centres", "Private Investment", "Economic Development", "Environmental Impact"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Generally supports humanitarian aid and diplomacy but may scrutinize the expansion of military involvement and the development of a domestic 'drone marketplace,' advocating for transparent oversight and adherence to international law." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the shift as a pragmatic response to evolving geopolitical realities, aligning Canada with its allies in support of international security. Emphasizes strategic alignment and effective resource allocation in defence." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly supports robust military assistance to Ukraine, viewing it as a critical stance against aggression. May advocate for even stronger defence spending and industrial capacity to solidify Canada's role on the global stage." }
+          "left": { "label": "Progressive Context", "synthesis": "Concerns are raised regarding the project's environmental footprint (power and water usage), the absence of transparent public consultation, and the prioritization of corporate interests over community and ecological well-being." },
+          "center": { "label": "Procedural Context", "synthesis": "The announcement underscores a significant collaboration between private enterprise and federal-provincial governments to advance digital infrastructure, highlighting the economic potential alongside the need for regulatory oversight and addressing public concerns." },
+          "right": { "label": "Conservative Context", "synthesis": "This massive private investment is celebrated as a landmark economic achievement for Saskatchewan and Canada, promoting technological advancement, job creation, and bolstering national sovereignty in data management through market-led initiatives." }
         },
-        "neutral": "Canada is reorienting its support for Ukraine, expanding from traditional peacekeeping roles to include the development of a domestic drone industry and the use of private firms for training Ukrainian fighter jet pilots, signifying a strategic adjustment in its international defence commitments."
+        "neutral": "Bell Canada's planned $52 billion expansion of its AI data centre in Saskatchewan, supported by federal and provincial leaders, faces criticism over environmental impact and public consultation."
       }
     },
     {
-      "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "id": "F007",
       "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Doug Guzman Confirms Continued Leadership of Defence Investment Agency",
+      "source": "theglobeandmail.com",
+      "title": "European Parliament to open office in Ottawa, further strengthening Canada-EU ties",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-defence-investment-agency-doug-guzman-head-informs-staff-hes-staying/",
-      "summary": "Doug Guzman, a former banker, has informed staff he will remain at the helm of Canada's Defence Investment Agency. His continued leadership is seen as crucial for Prime Minister Mark Carney’s defence procurement plans, ensuring stability and expertise in navigating complex national security investments.",
-      "graph": ["Defence Procurement", "Federal Administration", "National Security", "Public Service Leadership"],
+      "url": "https://www.theglobeandmail.com/canada/article-european-parliament-office-ottawa-eu-carney/",
+      "summary": "The European Parliament will establish an office in Ottawa, a move intended to deepen Canada-EU relations and facilitate direct engagement between European and Canadian parliamentarians. This development follows recent discussions about a 'unique alliance' between Canada and the European bloc.",
+      "graph": ["International Relations", "Canada-EU Relations", "Diplomacy", "European Parliament", "Foreign Policy", "Trade Diversification"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the role of former private sector executives in government defense procurement, advocating for transparency, accountability, and ethical oversight to prevent conflicts of interest and ensure public funds are spent effectively." },
-          "center": { "label": "Procedural Context", "synthesis": "Views the retention of experienced leadership, especially from the financial sector, as beneficial for managing large-scale defense investments, bringing business acumen to public administration. Focuses on efficiency and strategic project delivery." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports bringing private sector expertise into government to enhance efficiency and achieve strategic objectives in defence. Emphasizes strong leadership for effective national security and procurement outcomes." }
+          "left": { "label": "Progressive Context", "synthesis": "The opening of the office is seen as a positive step towards stronger multilateralism, diversified international partnerships away from U.S. dependence, and enhanced cooperation on shared values like democracy and human rights." },
+          "center": { "label": "Procedural Context", "synthesis": "This institutional enhancement signifies a practical commitment to deepening diplomatic and parliamentary ties between Canada and the EU, aiming to streamline communication and cooperation on various policy fronts." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the potential for expanded trade, some may express caution about increased European influence on Canadian policy, or view it as primarily symbolic, questioning its tangible impact on Canada's economic and security interests." }
         },
-        "neutral": "Doug Guzman, a former banker, has confirmed his ongoing tenure as head of Canada's Defence Investment Agency, a development important for maintaining continuity and expertise in the Prime Minister's defence procurement strategy."
+        "neutral": "The European Parliament's decision to open an office in Ottawa aims to strengthen diplomatic and parliamentary ties between Canada and the European Union."
       }
     },
     {
-      "id": "e3f4a5b6-c7d8-9e0f-1a2b-3c4d5e6f7a8b",
+      "id": "F008",
       "category": "Federalism",
-      "source": "The Narwhal",
-      "title": "Ontario Schools Struggle with Extreme Heat, Sparking Calls for Cooling Standards",
+      "source": "thehub.ca",
+      "title": "How worried should Canada be about Trump’s U.S.-Venezuela oil deal?",
       "citation": "September 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/ontario-peel-students-cooling-inequality/?utm_source=rss",
-      "summary": "Families and advocates in Peel Region, Ontario, are raising concerns about students and residents enduring extreme heat in schools and apartments, which often lack adequate cooling. This issue, exacerbated by prolonged summer weather, highlights a systemic vulnerability and prompts calls for the implementation of maximum indoor temperature standards and long-term infrastructure upgrades in both schools and residential buildings.",
-      "graph": ["Public Health", "Education Policy", "Climate Adaptation", "Housing Standards", "Provincial Policy"],
+      "url": "https://thehub.ca/2026/09/15/how-worried-should-canada-be-about-trumps-u-s-venezuela-oil-deal/",
+      "summary": "An analysis examines the potential implications for Canada's heavy sour crude oil industry following former U.S. President Trump's announcement of a significant oil deal with Venezuela. Given that both Canada and Venezuela possess similar crude oil reserves, the deal could intensify competition in global energy markets and impact Canadian exports.",
+      "graph": ["Energy Policy", "International Trade", "Canada-US Relations", "Oil Industry", "Venezuela", "Economic Competition", "Geopolitics"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for immediate government intervention and funding for infrastructure upgrades, particularly in public schools and affordable housing, to protect vulnerable populations from climate impacts. Emphasizes social equity and the right to a safe living and learning environment." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the logistical and financial challenges of implementing new temperature standards and infrastructure retrofits. Calls for a balanced approach involving all levels of government and school boards to develop sustainable, long-term solutions." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize individual responsibility for cooling solutions or critique the cost implications of widespread government mandates and infrastructure projects, advocating for market-based solutions or prioritizing local control over such decisions." }
+          "left": { "label": "Progressive Context", "synthesis": "This situation underscores the volatility of fossil fuel markets and the urgency for Canada to diversify its economy and transition to renewable energy, reducing dependence on oil and susceptible international agreements." },
+          "center": { "label": "Procedural Context", "synthesis": "The analysis focuses on the economic and geopolitical shifts that could affect Canadian energy exports, prompting a re-evaluation of national energy strategy and trade diversification efforts." },
+          "right": { "label": "Conservative Context", "synthesis": "The deal highlights a direct threat to Canadian energy sector competitiveness, emphasizing the need for robust advocacy for Canadian oil exports and policies that protect national economic interests against foreign competition." }
         },
-        "neutral": "Concerns are growing in Peel Region, Ontario, regarding students and residents facing extreme heat in uncooled schools and homes, leading to calls from families and advocates for mandatory indoor temperature standards and significant infrastructure investments to address climate adaptation vulnerabilities."
+        "neutral": "Analysis explores the potential negative impact of a U.S.-Venezuela oil deal on Canada's heavy crude oil industry and global energy market position."
       }
     }
   ],
   "charter": [
     {
-      "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+      "id": "C001",
       "category": "Charter",
-      "source": "The Globe and Mail",
-      "title": "Online Harms Cost Canada's Health and Justice Systems Billions Annually, Report Finds",
+      "source": "theglobeandmail.com",
+      "title": "Ottawa lawful-access bill could be obstacle to EU-Canada digital trade agreement, European privacy groups say",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-online-harms-place-substantial-cost-on-canadas-health-and-justice/",
-      "summary": "A new report estimates that online harms, including cyberbullying, hate speech, and social media addiction, cost Canadian health and justice systems up to $4.8 billion annually, with a significant portion borne by governments. The analysis highlights the impact on young Canadians' mental health, productivity, and the societal burden, prompting calls for platforms to bear more responsibility for their \"addictive design\" and \"algorithmic amplification\" of damaging content.",
-      "graph": ["Digital Rights", "Youth Protection", "Mental Health", "Freedom of Expression", "Cyberbullying", "Public Safety"],
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-lawful-access-bill-could-be-obstacle-to-eu-canada-digital-trade/",
+      "summary": "European privacy advocacy groups have voiced concerns that Canada's proposed lawful-access legislation, Bill-22, could impede the finalization of a digital trade agreement between the EU and Canada. They argue that the bill's provisions pose a significant privacy risk to European citizens, highlighting a conflict between national security measures and international data protection standards.",
+      "graph": ["Federal Legislation", "Digital Trade", "Privacy Rights", "International Law", "EU Relations", "Data Protection", "Bill-22"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the need for robust regulation of social media platforms to protect vulnerable users, particularly youth, from online harms. Advocates for platform accountability, mental health support, and government funding to address the societal costs." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on developing balanced regulatory frameworks that address online harms while respecting freedom of expression. Seeks evidence-based policy solutions and inter-governmental collaboration to mitigate costs and improve public safety." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concerns about over-regulation infringing on free speech or creating burdens for tech companies. Advocates for individual responsibility online and potentially market-based solutions, while still acknowledging the need to address criminal online behaviour." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for civil liberties and privacy express strong opposition to Bill-22, viewing it as an encroachment on fundamental rights and a potential weakening of Canada's commitment to robust data protection standards, aligning with European privacy values." },
+          "center": { "label": "Procedural Context", "synthesis": "The issue presents a complex legal and diplomatic challenge for Canada, requiring a careful balancing act between national security imperatives, the protection of individual privacy rights, and the facilitation of international trade agreements." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging privacy concerns, some emphasize the importance of lawful access for national security and law enforcement, potentially criticizing European privacy regulations as overly burdensome or an obstacle to essential state functions and economic partnerships." }
         },
-        "neutral": "A recent report indicates that online harms, such as cyberbullying and hate speech, incur an estimated annual cost of up to $4.8 billion to Canada's health and justice systems, with substantial financial implications for governments and societal well-being, particularly among young Canadians."
+        "neutral": "European privacy groups warn that Canada's Bill-22 on lawful access could hinder a digital trade deal with the EU due to privacy concerns."
       }
     },
     {
-      "id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3f2e1d0c",
+      "id": "C002",
       "category": "Charter",
-      "source": "The Hub",
-      "title": "Canadian Universities Accused of Failing to Protect Jewish Students from Antisemitism",
+      "source": "slaw.ca",
+      "title": "Access to Legal Services: From Sisyphean Quest to a Sustainable Community",
       "citation": "September 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/14/a-century-after-keeping-jewish-students-out-canadas-universities-are-letting-them-be-pushed-out/",
-      "summary": "A commentary highlights concerns that Canadian universities, despite a history of quotas against Jewish students, are now failing to protect them from a resurgence of antisemitism on campuses. Citing reports of widespread harassment, Holocaust denial, and inadequate institutional responses, the piece argues that this inaction infringes on Jewish students' rights to a safe and inclusive learning environment, raising serious questions about equality and freedom of religion.",
-      "graph": ["Equality Rights", "Freedom of Religion", "Hate Speech", "Campus Climate", "Human Rights", "Education Policy"],
+      "url": "https://www.slaw.ca/2026/09/15/access-to-legal-services-from-sisyphean-quest-to-a-sustainable-community/",
+      "summary": "This article discusses the persistent challenges in improving access to legal services in British Columbia, with a specific focus on Pan-Asian communities. It highlights initiatives by Amici Curiae Friends of Court to foster a 'Community of Practice' among legal and social service providers, aiming to identify barriers, share best practices, and establish collaborative referral pathways to enhance access to justice.",
+      "graph": ["Access to Justice", "Legal Services", "British Columbia", "Community Engagement", "Pan-Asian Communities", "Legal Aid", "Systemic Barriers"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for inclusive campus environments and protection against hate speech and discrimination, while potentially balancing concerns with academic freedom and broad freedom of expression. May call for stronger institutional policies and anti-racism education." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on institutional responsibility and the need for universities to uphold their codes of conduct and human rights policies. Seeks clear, impartial processes for addressing complaints of antisemitism and ensuring a safe learning environment for all students." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes individual rights and freedom of speech, while condemning antisemitism. May critique universities for perceived political biases or for failing to enforce clear standards of conduct, calling for accountability and protection of minority groups." }
+          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the systemic inequities in the legal system that disproportionately affect marginalized communities, advocating for increased government funding, pro-bono services, and community-led initiatives to ensure equitable legal access as a fundamental right." },
+          "center": { "label": "Procedural Context", "synthesis": "Focuses on the practical, collaborative efforts to improve the efficiency and reach of legal aid services, detailing how inter-organizational networks and data-driven approaches can address service gaps and enhance access to justice within existing frameworks." },
+          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the importance of access to justice, this perspective might stress the need for greater efficiency and innovation within the legal profession, potentially advocating for market-based solutions or reduced bureaucratic hurdles to make legal services more affordable and accessible." }
         },
-        "neutral": "A recent commentary alleges that Canadian universities are inadequately addressing a rise in antisemitism on campuses, impacting Jewish students' safety and learning environments through incidents of harassment and Holocaust denial, thereby challenging institutions to uphold equality and freedom of religion."
+        "neutral": "An article explores challenges in access to legal services in British Columbia, particularly for Pan-Asian communities, and details efforts to build a collaborative community of practice to improve support."
       }
     }
   ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "id": "CR001",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Courts' Interpretation of 'Intent to Kill' in Homicide Cases Draws Scrutiny",
+      "source": "cbc.ca",
+      "title": "Calgary man accused of threatening to kill Prime Minister Mark Carney",
       "citation": "September 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/courts-deciding-stabbing-doesnt-carry-intent-to-kill",
-      "summary": "An opinion piece highlights a trend in Canadian courts where convictions for manslaughter are increasingly applied in homicides involving stabbings or shootings, rather than first- or second-degree murder. This raises questions about the legal standard for 'intent to kill' and its application, suggesting a potential divergence between judicial interpretation and public perception of culpability in violent crimes.",
-      "graph": ["Criminal Law", "Homicide", "Manslaughter", "Judicial Interpretation", "Legal Standards", "Justice System"],
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-man-accused-of-threatening-to-kill-prime-minister-mark-carney-9.7344690?cmp=rss",
+      "summary": "Jamie Dacosta, 31, of Calgary has been charged with uttering threats against Prime Minister Mark Carney. The arrest followed an investigation by the RCMP's National Security Enforcement Team, which received information in July about a death threat posted on a YouTube account. Dacosta faces additional unrelated charges and was denied bail.",
+      "graph": ["Criminal Charges", "Uttering Threats", "Prime Minister", "National Security", "RCMP Investigation", "Bail Denial"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for a deeper examination of systemic factors contributing to violence, and the complexities of intent in criminal cases, potentially supporting judicial discretion in considering contextual factors over strict interpretations of intent for specific outcomes." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the consistent application of legal definitions and precedents regarding mens rea (intent) in criminal law. Emphasizes the importance of judicial independence and the precise interpretation of statutes by the courts." },
-          "right": { "label": "Conservative Context", "synthesis": "Often calls for stricter penalties and a more robust application of murder charges in violent deaths, arguing that current interpretations of 'intent to kill' may be too lenient or fail to reflect public safety concerns, potentially undermining deterrence." }
+          "left": { "label": "Progressive Context", "synthesis": "This incident highlights the growing risks faced by public figures due to online threats, underscoring the need for robust measures against hate speech and political extremism, while ensuring due process for the accused." },
+          "center": { "label": "Procedural Context", "synthesis": "The case demonstrates the legal process for addressing threats against public officials, involving multi-agency law enforcement action and judicial decisions on charges and bail, consistent with criminal law procedures." },
+          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the critical importance of protecting government leaders and maintaining public order, advocating for stringent penalties for those who threaten national security or public safety, regardless of online platforms." }
         },
-        "neutral": "Canadian courts' frequent application of manslaughter convictions in homicides involving stabbings or shootings is prompting discussion on the legal standard for 'intent to kill,' and its practical interpretation in criminal cases."
+        "neutral": "A Calgary man has been charged with uttering threats against Prime Minister Mark Carney following an RCMP investigation into a YouTube post."
+      }
+    },
+    {
+      "id": "CR002",
+      "category": "Criminal",
+      "source": "nationalpost.com",
+      "title": "Former Toronto pharmacist convicted of sexual assault allegedly kidnapped, tortured by sex worker and ‘male friend’",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/toronto-sex-offender-kidnapped-tortured-sex-worker",
+      "summary": "Allen Siu Ming Chow, a 73-year-old former Toronto pharmacist previously convicted of sexual assault, has had his statutory release revoked by the Parole Board of Canada. This revocation follows allegations that Chow was kidnapped and tortured by a sex worker and a male acquaintance, leading to his return to prison for breaching release conditions.",
+      "graph": ["Criminal Justice", "Sexual Assault", "Kidnapping", "Torture", "Parole Revocation", "Statutory Release", "Conditional Release"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "The case raises complex questions about victimhood, the vulnerabilities of individuals on parole, and the effectiveness of rehabilitation and reintegration programs within the criminal justice system." },
+          "center": { "label": "Procedural Context", "synthesis": "The focus is on the legal processes of parole and its revocation, the allegations of new crimes, and the operational challenges faced by the Parole Board in managing statutory releases and ensuring compliance with conditions." },
+          "right": { "label": "Conservative Context", "synthesis": "This incident underscores concerns about public safety and the enforcement of conditions for convicted offenders, potentially prompting calls for stricter parole oversight and accountability measures for those on statutory release." }
+        },
+        "neutral": "A former Toronto pharmacist, previously convicted of sexual assault, had his parole revoked after allegedly being kidnapped and tortured, leading to his return to prison."
       }
     }
   ],
   "immigration": [
     {
-      "id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+      "id": "IM001",
       "category": "Immigration",
-      "source": "CBC News",
-      "title": "Afghan Woman Working for Canada-Funded Projects Alleges Abandonment by Immigration Program",
+      "source": "torontosun.com",
+      "title": "HUNTER: Extortion deportations a good start; too late for slain couple",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/world/afghan-woman-immigration-plea-to-canada-9.7338709?cmp=rss",
-      "summary": "An Afghan woman, identified as X, who previously worked for Canadian-funded aid organizations in Afghanistan, asserts that Canada has abandoned her by failing to process her application under the Special Immigration Measures Program (SIMs). She highlights the severe and worsening conditions for women under Taliban rule, where she fears for her safety despite receiving an endorsement from Global Affairs Canada.",
-      "graph": ["Refugee Policy", "Special Immigration Measures", "Afghan Crisis", "Humanitarian Aid", "Gender Rights", "Immigration Delays"],
+      "url": "https://torontosun.com/news/national/extortion-deportations-good-start-too-late-slain-couple",
+      "summary": "This opinion piece argues that the recent deportations of individuals involved in extortion are a positive development, though regrettably too late to prevent the tragic murder of an elderly couple in Abbotsford, B.C. The commentary emphasizes the intersection of criminal activity and immigration policy, advocating for firm action against non-citizens involved in serious crimes.",
+      "graph": ["Immigration Policy", "Deportation", "Criminality", "Extortion", "Public Safety", "Border Security"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly advocates for humanitarian pathways, expedited processing for vulnerable individuals who assisted Canadian efforts, and adherence to moral obligations. Critiques bureaucratic delays and restrictive immigration policies." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the administrative challenges of large-scale immigration programs, the need for robust vetting processes, and balancing humanitarian concerns with program capacity and national security. Seeks clear, efficient, and fair application procedures." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize the importance of national security vetting and controlled immigration processes. While acknowledging humanitarian concerns, may call for strict adherence to criteria and prioritize domestic needs." }
+          "left": { "label": "Progressive Context", "synthesis": "While acknowledging the need for justice, this perspective might prompt questions about due process in deportations, the root causes of crime, and the broader social and economic factors that lead individuals to criminal activities, beyond simple punitive measures." },
+          "center": { "label": "Procedural Context", "synthesis": "This commentary reflects on the policy decisions and enforcement actions taken by immigration authorities in response to criminal acts committed by non-citizens, evaluating the stated goals of public safety and justice." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly supports the swift deportation of non-citizens found guilty of serious crimes, viewing it as a crucial measure to protect public safety, maintain national security, and uphold the integrity of Canada's immigration system." }
         },
-        "neutral": "An Afghan woman, having previously worked on Canadian-funded initiatives, claims her application to Canada's Special Immigration Measures Program has been stalled despite receiving federal endorsement, raising concerns about Canada's commitment to those who aided its efforts amid deteriorating conditions for women under Taliban rule."
+        "neutral": "An opinion piece discusses the deportation of extortionists, deeming it a positive step for public safety, though highlighting the tragic case of a slain couple for whom action came too late."
       }
     },
     {
-      "id": "d2e3f4a5-b6c7-8d9e-0f1a-2b3c4d5e6f7a",
+      "id": "IM002",
       "category": "Immigration",
-      "source": "CBC News",
-      "title": "Iranian Conscripts Face Inadmissibility to Canada Due to Mandatory IRGC Service",
+      "source": "torontosun.com",
+      "title": "Carney may import EU migrant crisis: Rempel Garner",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/ottawa/irgc-iran-conscripts-inadmissible-canada-9.7337653?cmp=rss",
-      "summary": "Hundreds of Iranian permanent resident applicants in Canada are receiving \"Procedural Fairness Letters\" indicating potential inadmissibility due to mandatory military service in Iran's Islamic Revolutionary Guard Corps (IRGC), which Canada designated as a terrorist organization. Many of these individuals claim they were forced into service and are victims of the regime they fled, creating an impossible dilemma.",
-      "graph": ["Immigration Law", "National Security", "Human Rights", "Terrorist Designation", "Procedural Fairness", "Refugee Protection"],
+      "url": "https://torontosun.com/news/national/carney-may-import-eu-migrant-crisis-rempel-garner",
+      "summary": "Michelle Rempel Garner, the Conservative Shadow Minister for Immigration, expressed concern that Prime Minister Mark Carney's pursuit of an 'enhanced labour mobility' clause within a potential Canada-EU alliance could inadvertently lead to Canada experiencing an 'EU migrant crisis.' Her comments highlight political apprehension regarding the scope and implications of international agreements on national immigration policy.",
+      "graph": ["Immigration Policy", "Canada-EU Relations", "Labour Mobility", "Migrant Crisis", "Federal Politics", "Conservative Criticism"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for a nuanced approach that differentiates between voluntary affiliation and forced conscription, emphasizing humanitarian considerations and protecting individuals fleeing oppressive regimes. Calls for review of the broad application of inadmissibility rules." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal interpretation of Canada's terrorist organization designation and its application to immigration cases. Seeks to balance national security concerns with principles of fairness, due process, and avoiding unjust outcomes for genuine asylum seekers." },
-          "right": { "label": "Conservative Context", "synthesis": "Prioritizes national security and the strict enforcement of terrorist entity designations, arguing that any association with the IRGC, even forced, poses a risk. May advocate for stringent vetting to protect Canadian interests." }
+          "left": { "label": "Progressive Context", "synthesis": "Advocates for open borders and global mobility view 'enhanced labour mobility' as a positive and necessary component of international trade and cooperation, dismissing 'migrant crisis' rhetoric as fear-mongering and anti-immigrant sentiment." },
+          "center": { "label": "Procedural Context", "synthesis": "This statement reflects the ongoing political debate and scrutiny surrounding the potential immigration impacts of international agreements, examining how economic cooperation might necessitate adjustments to border and labour policies." },
+          "right": { "label": "Conservative Context", "synthesis": "Strongly opposes policies perceived to compromise national sovereignty over immigration, fearing that 'enhanced labour mobility' could lead to uncontrolled influxes of migrants, strain on social services, and a weakening of national identity." }
         },
-        "neutral": "Hundreds of Iranian permanent resident applicants are facing potential inadmissibility to Canada due to mandatory military service within the Islamic Revolutionary Guard Corps (IRGC), designated a terrorist organization by Canada, posing a complex challenge for individuals who claim forced conscription."
+        "neutral": "Conservative Shadow Minister for Immigration, Michelle Rempel Garner, warns that PM Carney's push for Canada-EU labour mobility could lead to a 'migrant crisis' in Canada."
       }
     }
   ]
