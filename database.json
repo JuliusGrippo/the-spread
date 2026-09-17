@@ -1,295 +1,237 @@
 {
   "federalism": [
     {
-      "id": "euca-associate-member-cbc",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "EU Chief Proposes Canada as First Associate Member",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/eu-canada-associate-member-9.7345827?cmp=rss",
-      "summary": "European Commission President Ursula von der Leyen proposed opening a path for Canada to become the EU's first associate member during her State of the Union address, amidst rising U.S. tariffs. Prime Minister Mark Carney was present and received the overture positively, though earlier denied Canada was seeking full membership, instead preferring a 'unique alliance'. This move signifies a potential deepening of economic, defence, and people-to-people ties.",
-      "graph": ["EU-Canada Relations", "International Trade", "Foreign Policy", "Associate Membership", "U.S. Trade War"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This move is viewed as a strategic re-alignment away from potentially protectionist U.S. policies, fostering broader international cooperation and multilateralism. It could lead to progressive policy harmonization with the EU on issues like climate and social standards." },
-          "center": { "label": "Procedural Context", "synthesis": "The proposal signifies a notable development in Canada-EU relations, moving beyond the current free-trade agreement. The 'associate member' status, while undefined, suggests a structured framework for deeper collaboration, requiring careful diplomatic and legal consideration from both sides." },
-          "right": { "label": "Conservative Context", "synthesis": "From a conservative viewpoint, this pivot towards Europe is a necessary response to U.S. trade protectionism, emphasizing national sovereignty and economic diversification. However, concerns may arise regarding potential sovereignty concessions or the practical implications of an undefined 'associate member' status." }
-        },
-        "neutral": "European Commission President Ursula von der Leyen has formally proposed Canada become the EU's first associate member, aiming to strengthen the Canada-EU alliance amidst ongoing U.S. trade pressures, with details of this new status yet to be defined."
-      }
-    },
-    {
-      "id": "parliamentary-eu-approval",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Conservatives Demand Parliament's Approval for Canada-EU Associate Membership",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-must-seek-parliaments-approval-before-joining-eu-as-associate/",
-      "summary": "Following the EU's proposal for Canada to become an 'associate member,' Canadian Conservatives are insisting that Prime Minister Mark Carney must seek and obtain parliamentary approval before committing to such an arrangement. They argue that the Prime Minister's campaign platform did not include this type of membership and that any significant shift in Canada's international alignment warrants full democratic scrutiny.",
-      "graph": ["Parliamentary Oversight", "Foreign Policy", "Constitutional Law", "Opposition Politics", "Canada-EU Relations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While some progressive elements might welcome closer ties with the EU, there would be an emphasis on democratic accountability and public consultation for any major international agreement that could impact national sovereignty or policy direction." },
-          "center": { "label": "Procedural Context", "synthesis": "The demand for parliamentary approval highlights the constitutional convention and democratic principle that significant international agreements should not be entered into by the executive without legislative consent, especially when the nature of the 'associate membership' is novel and its implications are unclear." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives, often advocating for stronger parliamentary checks on executive power, view this as essential to uphold democratic principles and prevent the government from unilaterally making commitments that could alter Canada's sovereignty or economic direction without a clear mandate." }
-        },
-        "neutral": "The Conservative opposition is calling for parliamentary approval for any agreement designating Canada as an 'associate member' of the European Union, asserting that such a significant international arrangement requires legislative scrutiny and a clear democratic mandate."
-      }
-    },
-    {
-      "id": "harper-trade-diversification",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Stephen Harper Backs Government's Stance on U.S. Trade Talks, Urges Diminished U.S. Reliance",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/harper-canada-investment-summit-us-trade-carney-9.7345557?cmp=rss",
-      "summary": "Former Prime Minister Stephen Harper publicly supported the current government's decision to discontinue trade talks with the United States, leading to a trade war. Speaking at the Canada Investment Summit, Harper, historically pro-American, stated that Canada had 'no choice' but to pursue a path of 'diminished reliance' on the U.S. to maintain its sovereignty and economic diversity against the Trump administration's pressures.",
-      "graph": ["Canada-U.S. Relations", "Trade Policy", "National Sovereignty", "Economic Diversification", "Political Unity"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "A call for greater economic independence from the U.S. might resonate with progressives advocating for stronger Canadian sovereignty and diversified global trade relationships, potentially favoring partnerships that align with progressive values." },
-          "center": { "label": "Procedural Context", "synthesis": "This bipartisan agreement on a critical foreign policy stance signals national unity in navigating complex international trade relations. It underscores the strategic imperative to adapt Canada's economic policy to protect national interests against external pressures." },
-          "right": { "label": "Conservative Context", "synthesis": "Harper's comments reflect a pragmatic conservative approach, prioritizing national economic independence and sovereignty. While traditionally favouring closer U.S. ties, this stance acknowledges the current geopolitical realities and the need for Canada to diversify its economic partnerships." }
-        },
-        "neutral": "Former Prime Minister Stephen Harper has publicly endorsed the current government's decision to walk away from U.S. trade talks, advocating for Canada to reduce its economic dependence on the United States to safeguard national sovereignty."
-      }
-    },
-    {
-      "id": "carney-mega-deduction",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Carney Government Introduces $36 Billion Productivity Mega-Deduction to Boost Investment",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/business/carney-tax-mega-deduction-9.7344017?cmp=rss",
-      "summary": "The Canadian government unveiled a significant tax reform, the 'productivity mega-deduction,' at the Canada Investment Summit, allowing businesses to expense the total cost of new investments across various sectors, including clean energy and zero-emission vehicles. This $36 billion initiative over five years aims to make Canada the most attractive G7 country for investment by reducing the marginal effective tax rate on new investment from 13% to 6.4%.",
-      "graph": ["Economic Policy", "Tax Incentives", "Business Investment", "Clean Energy", "Productivity", "Canada Investment Summit"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While tax breaks for corporations might draw criticism regarding equitable distribution of wealth, the focus on clean energy and zero-emission vehicles could be seen as aligning with environmental and climate action goals, even if the primary mechanism is corporate tax relief." },
-          "center": { "label": "Procedural Context", "synthesis": "This policy represents a targeted fiscal measure designed to stimulate private sector investment and enhance national productivity, positioning Canada competitively within the G7. Its effectiveness will be judged on its ability to attract the desired $1 trillion in investments and address long-standing productivity gaps." },
-          "right": { "label": "Conservative Context", "synthesis": "This mega-deduction is a market-friendly policy, praised for reducing tax burdens on businesses and incentivizing capital investment, which is a core tenet of conservative economic philosophy. It aims to foster economic growth and competitiveness by making Canada more attractive for private capital." }
-        },
-        "neutral": "The Canadian government has introduced a $36 billion productivity mega-deduction, expanding tax incentives for businesses investing in key sectors like clean energy, aiming to significantly lower the effective tax rate and attract substantial foreign investment."
-      }
-    },
-    {
-      "id": "canada-us-trade-war",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "Union Warns Workers Facing Repercussions of Escalating Canada-U.S. Trade War",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12060251/tariff-uncertainty-job-security/",
-      "summary": "As the trade war between Canada and the U.S. escalates with new rounds of 50 percent tariffs and non-tariff barriers, a workers' union and economists are highlighting the negative impacts on Canadian job security and the economy. The U.S. administration has broadened its measures beyond tariffs to include removing Canadian products from federal procurement schedules and banning certain imports altogether, signaling a worrying escalation.",
-      "graph": ["Trade War", "Canada-U.S. Relations", "Economic Impact", "Job Security", "Tariffs", "Procurement Policy"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This escalation is seen as detrimental to Canadian workers and could exacerbate economic inequalities, emphasizing the need for robust social safety nets and government intervention to protect jobs and industries affected by global trade disputes." },
-          "center": { "label": "Procedural Context", "synthesis": "The broadening of U.S. trade measures beyond tariffs signifies a significant challenge to the stability of the Canada-U.S. economic relationship. It necessitates careful diplomatic and policy responses to mitigate adverse effects on Canadian industries and employment." },
-          "right": { "label": "Conservative Context", "synthesis": "While acknowledging the negative impact, a conservative perspective might stress the importance of Canadian resilience, market diversification, and minimizing government interference, advocating for strong trade negotiations but also highlighting the potential for domestic industry to adapt and innovate." }
-        },
-        "neutral": "The escalating Canada-U.S. trade war, marked by new tariffs and non-tariff barriers, is raising alarms from workers' unions and economists over its adverse effects on Canadian job security and broader economic stability."
-      }
-    },
-    {
-      "id": "conservative-caucus-strategy",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Conservatives Plan Pre-Parliament Strategy Amid U.S. Trade War Focus",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/conservatives-poilievre-jivani-caucus-return-9.7345646?cmp=rss",
-      "summary": "Federal Conservatives are holding a caucus gathering in Penticton, B.C., to strategize for the upcoming parliamentary session. Leader Pierre Poilievre aims to shift the national conversation to affordability, but polling data indicates Canadians are primarily concerned with the U.S. trade war, which is currently benefiting the Liberal government's approval. Internal party dynamics show differing views on approaching the U.S. relationship, complicating the party's united front.",
-      "graph": ["Opposition Strategy", "Federal Politics", "Trade War Impact", "Public Opinion", "Party Unity"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "The opposition's struggle to gain traction on domestic issues, overshadowed by foreign policy, suggests a need for them to articulate a compelling progressive alternative that directly addresses Canadian anxieties beyond the trade war narrative." },
-          "center": { "label": "Procedural Context", "synthesis": "This caucus retreat highlights the strategic challenges faced by the Official Opposition in a political landscape dominated by external economic factors. Their effectiveness will depend on their ability to unify their messaging and propose relevant solutions for the Canadian populace." },
-          "right": { "label": "Conservative Context", "synthesis": "The conservatives are attempting to regain narrative control by focusing on economic affordability, a traditional conservative strength. However, the internal divisions on U.S. relations signal a challenge to projecting a consistent and strong national message, a key requirement for market confidence." }
-        },
-        "neutral": "Federal Conservatives are convening to define their parliamentary priorities, with leader Pierre Poilievre seeking to pivot the national discussion to affordability, despite public concern remaining dominated by the Canada-U.S. trade dispute, and facing internal party dissent on foreign policy approach."
-      }
-    },
-    {
-      "id": "canada-ukraine-drone",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Calian Partners with Ukraine’s SkyFall for International Drone Training",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/business/article-calian-partners-with-ukraines-skyfall-for-drone-training/",
-      "summary": "Canadian company Calian Group Ltd. has announced a partnership with Ukraine's SkyFall to develop unmanned systems training and education programs. This collaboration is aimed at armed forces in Canada and other countries, reflecting Canada's continued support for Ukraine and its broader engagement in international defence and security initiatives, particularly in advanced military technology.",
-      "graph": ["Defence Cooperation", "International Relations", "Ukraine Support", "Drone Technology", "Military Training"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While supporting Ukraine is broadly progressive, some may raise questions about the ethics of developing advanced military technology and its potential for escalation, emphasizing the need for strict oversight and humanitarian considerations in defence partnerships." },
-          "center": { "label": "Procedural Context", "synthesis": "This partnership signifies an important step in Canada's commitment to international security and modernization of defence capabilities. It reflects a strategic alignment with Ukraine and other allies in developing crucial unmanned systems expertise, enhancing interoperability and knowledge transfer." },
-          "right": { "label": "Conservative Context", "synthesis": "This initiative aligns with conservative principles of strong national defence and robust international alliances. It demonstrates practical support for allies and fosters innovation within the defence sector, contributing to Canada's global security standing and technological advancement." }
-        },
-        "neutral": "Canadian firm Calian has partnered with Ukraine's SkyFall to create drone training programs for international armed forces, deepening Canada's involvement in advanced defence technology and support for Ukraine."
-      }
-    },
-    {
-      "id": "alberta-by-election-separatism",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Alberta NDP Wins By-election Amid Backlash to UCP Separation Referendum Proposals",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/alberta/article-alberta-kenney-ucp-by-election-separation-smith/",
-      "summary": "The Alberta NDP secured an upset victory in a Calgary by-election, winning a traditionally conservative riding. Critics attribute the United Conservative Party's loss to voter backlash against the provincial government's recent proposals for a separation referendum, highlighting how provincial actions concerning national unity can significantly impact local political outcomes and contribute to federal-provincial tensions.",
-      "graph": ["Provincial Politics", "By-election", "National Unity", "Separation Referendum", "Federal-Provincial Relations"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "The by-election result demonstrates public resistance to divisive 'separation' politics, potentially empowering federalist and progressive voices. It suggests that voters prioritize stability and collaborative governance over confrontational provincial-federal dynamics." },
-          "center": { "label": "Procedural Context", "synthesis": "This outcome illustrates the direct electoral consequences of provincial policies perceived as impacting national unity. It reflects public opinion on the balance of power within Canadian federalism and the legitimacy of separation-related initiatives." },
-          "right": { "label": "Conservative Context", "synthesis": "For the UCP, this loss signals a need to reassess strategies related to provincial autonomy and separation, as such stances can alienate a significant portion of the electorate. It underscores the challenges of balancing regional interests with broader national sentiments." }
-        },
-        "neutral": "The Alberta NDP achieved an unexpected by-election win in Calgary, with analysts linking the United Conservative Party's defeat to voter concerns over proposed provincial separation referendums, indicating public sentiment against national disunity."
-      }
-    },
-    {
-      "id": "carney-investment-protests",
+      "id": "fed-1",
       "category": "Federalism",
       "source": "rabble.ca",
-      "title": "Protesters Unite Against Carney's Investment Summit Over Public Infrastructure Sales",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/politics/canadian-politics/the-protesters-uniting-against-carneys-investment-summit/",
-      "summary": "Protesters gathered against Prime Minister Mark Carney's investment summit, which offered investment opportunities in Canada's public infrastructure, including airports, pipelines, and transport networks. The demonstrations reflect public opposition to the potential privatization of key national assets, raising questions about the government's economic strategy and the role of foreign capital in controlling vital services.",
-      "graph": ["Public Infrastructure", "Privatization", "Foreign Investment", "Economic Policy", "Protest", "Social Justice"],
+      "title": "The 1989 Canada-US Free Trade Agreement REDUX",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://rabble.ca/politics/canadian-politics/the-1989-canada-us-free-trade-agreement-redux/",
+      "summary": "This article re-examines the historical context of the 1989 Canada-U.S. Free Trade Agreement, drawing parallels and insights for understanding the current trade disputes and relationship dynamics between Canada and the United States. (Summary based on snippet due to content access issues)",
+      "graph": ["Canada-US Relations", "Free Trade", "Trade Policy", "Economic History"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 40, "center": 35, "right": 25 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This protest aligns with progressive concerns over the erosion of public services, advocating for the protection of national assets from privatization and foreign control. It highlights fears of increased inequality and reduced public accountability associated with private ownership of essential infrastructure." },
-          "center": { "label": "Procedural Context", "synthesis": "The protests represent public dissent against a federal economic strategy focused on attracting private investment in infrastructure. This introduces a balancing act for the government between generating capital for development and addressing public concerns about ownership and access to vital services." },
-          "right": { "label": "Conservative Context", "synthesis": "While some conservatives might support private sector involvement for efficiency and capital injection, criticisms could focus on potential lack of transparency in deals, or the optics of 'selling off' national assets. Others might see this as a necessary step to attract investment in a competitive global market." }
+          "left": { "label": "Progressive Context", "synthesis": "From a progressive viewpoint, revisiting the 1989 FTA often highlights concerns about labor rights, environmental protections, and national sovereignty that may have been eroded by such agreements, advocating for more equitable and domestically focused trade policies in current disputes." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the historical legal and economic framework of the FTA, how its principles have evolved, and the procedural aspects of current trade dispute resolution mechanisms between the two nations." },
+          "right": { "label": "Conservative Context", "synthesis": "From a conservative or market-oriented perspective, the 1989 FTA is often viewed as a landmark achievement for economic liberalization and growth, suggesting that current trade disputes should be resolved by reinforcing free-market principles and reducing barriers to trade." }
         },
-        "neutral": "Protests have emerged against Prime Minister Mark Carney's investment summit, which showcased opportunities in Canadian public infrastructure, drawing criticism over concerns about privatization and foreign control of national assets."
-      }
-    }
-  ],
-  "charter": [
-    {
-      "id": "elections-quebec-bilingual",
-      "category": "Charter",
-      "source": "The Globe and Mail",
-      "title": "Élections Québec Ordered to Distribute Bilingual Voting Reminder Cards by Court",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-elections-quebec-voting-reminder-cards-french-english/",
-      "summary": "Élections Québec has been ordered by a court to mail out bilingual voting reminder cards, reversing its earlier decision to send them only in French to comply with new provincial language legislation. This judicial intervention follows advocacy groups' and lawyers' legal challenges, which argued that the unilingual approach infringed upon Charter rights, particularly the right to vote and access to information for anglophone communities.",
-      "graph": ["Language Rights", "Voting Rights", "Judicial Review", "Quebec Language Laws", "Charter of Rights", "Electoral Process"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This ruling is viewed as a victory for minority language rights and democratic access, ensuring all citizens, regardless of their language, can fully participate in the electoral process. It upholds the principle of equitable access to essential public information." },
-          "center": { "label": "Procedural Context", "synthesis": "The court's decision clarifies the interpretation of provincial language laws in the context of fundamental Charter rights, asserting the judiciary's role in balancing legislative intent with constitutional protections for voting and linguistic minorities." },
-          "right": { "label": "Conservative Context", "synthesis": "Some conservatives might prioritize provincial autonomy in language policy, but others would support the court's upholding of foundational democratic rights and the rule of law. The practical cost and logistical challenges of printing bilingual materials might be a concern for fiscal conservatives." }
-        },
-        "neutral": "A court has mandated Élections Québec to mail bilingual voting reminder cards, overriding its previous French-only policy, following legal challenges asserting infringements on Charter rights for anglophone voters."
+        "neutral": "The article provides a historical reflection on the 1989 Canada-U.S. Free Trade Agreement to contextualize contemporary trade tensions between the two countries."
       }
     },
     {
-      "id": "elections-quebec-language-laws",
-      "category": "Charter",
-      "source": "The Globe and Mail",
-      "title": "Élections Québec Warned Government of Charter Conflicts Over French-Only Language Laws in 2023",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/article-elections-quebec-government-change-french-language-laws/",
-      "summary": "Correspondence reveals that Élections Québec had, as early as April 2023, cautioned the provincial government that its new French-only language legislation (Bill 96) could conflict with Charter rights and the electoral agency's mission to ensure all citizens' right to vote. The agency had even proposed amendments to the law, but these were refused, setting the stage for the recent court challenges regarding bilingual voting information.",
-      "graph": ["Language Legislation", "Quebec Politics", "Charter Rights", "Electoral Law", "Government Oversight", "Linguistic Minorities"],
+      "id": "fed-2",
+      "category": "Federalism",
+      "source": "thenarwhal.ca",
+      "title": "Read the leaked plan to boost AI data centres, oil and gas in Alberta",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/alberta-leaked-document-natural-gas-explainer/?utm_source=rss",
+      "summary": "A leaked Alberta cabinet document outlines potential plans to overhaul the province's natural gas pipeline system and establish provincial Crown corporations to oversee infrastructure. This initiative aims to boost oil and gas production and support the development of new AI data centers, raising questions about provincial jurisdiction and potential legal challenges with existing private energy companies.",
+      "graph": ["Alberta Politics", "Energy Policy", "AI Infrastructure", "Crown Corporations", "Provincial Jurisdiction", "Natural Gas"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 30, "center": 40, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This highlights a proactive internal warning from a public institution about potential human rights violations, underscoring the importance of rights-based assessments in policy-making and the government's failure to address these concerns preemptively." },
-          "center": { "label": "Procedural Context", "synthesis": "The internal warnings demonstrate a recognition of the legal complexities and potential constitutional challenges posed by the language law on electoral processes. It illustrates the tension between provincial legislative powers and federally protected Charter rights, requiring judicial resolution." },
-          "right": { "label": "Conservative Context", "synthesis": "While some conservatives in Quebec support robust French language protection, this revelation points to potential overreach in policy that then creates legal and administrative complications. It could be viewed as a governmental failure to heed expert advice on constitutional implications." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices would likely criticize the plan for further entrenching fossil fuel infrastructure and its environmental impact, question the expansion of oil and gas amidst climate goals, and scrutinize the transparency and democratic accountability of creating powerful new Crown corporations." },
+          "center": { "label": "Procedural Context", "synthesis": "A procedural analysis focuses on the legality and feasibility of the proposed provincial overhaul, the mechanisms for establishing Crown corporations, the implications for regulatory frameworks, and the potential for inter-jurisdictional disputes between provincial and federal authority." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative and Albertan sovereignty advocates might champion the plan as a strong assertion of provincial autonomy over natural resources and a strategic move to diversify the economy and attract investment in new sectors like AI, criticizing any federal interference." }
         },
-        "neutral": "Internal correspondence shows Élections Québec alerted the provincial government in 2023 that new French-only language laws could violate Charter rights and hinder voting access, prior to recent court orders for bilingual electoral materials."
+        "neutral": "A leaked Alberta cabinet document proposes a significant overhaul of the province's natural gas pipeline system and the creation of Crown corporations to bolster oil and gas production and facilitate AI data center development, prompting discussions on provincial resource control and economic strategy."
       }
     },
     {
-      "id": "copyright-public-domain",
-      "category": "Charter",
-      "source": "Slaw",
-      "title": "Copyright Term Extension Erodes Public Domain Access in Canada Post-CUSMA",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/16/claiming-whats-ours-preserving-the-public-in-the-public-domain/",
-      "summary": "Canada's copyright term was extended by 20 years (life of author plus 70 years) due to the CUSMA trade agreement, aligning it with the U.S. This change, effective December 2022, means no new works will enter the public domain until 2043, effectively restricting public access to cultural and intellectual property for a longer period. Critics argue this favors corporate copyright holders over creators and the public, hindering creative innovation and access to knowledge, potentially conflicting with the balance of rights established by Supreme Court jurisprudence.",
-      "graph": ["Copyright Law", "Public Domain", "Intellectual Property", "CUSMA", "Freedom of Expression", "Cultural Policy"],
+      "id": "fed-3",
+      "category": "Federalism",
+      "source": "cbc.ca",
+      "title": "Carney says Europe, Canada aren't 'fair-weather allies' while rebuking Trump's tactics",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-addresses-eu-parliament-9.7346339?cmp=rss",
+      "summary": "Prime Minister Mark Carney, addressing the European Parliament, advocated for a "deeper partnership" between Canada and the European Union. He emphasized the necessity of reinforcing national sovereignty against powerful nations attempting to exert influence, implicitly criticizing U.S. President Trump's recent protectionist actions and rhetoric regarding international alliances.",
+      "graph": ["Foreign Policy", "Canada-EU Relations", "Sovereignty", "International Trade", "Diplomacy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views emphasize public access to knowledge and culture as a fundamental right. This extension is seen as a corporate capture of intellectual commons, limiting creative freedom and disadvantaging smaller creators and the public by delaying the entry of works into the public domain." },
-          "center": { "label": "Procedural Context", "synthesis": "The extension of the copyright term reflects Canada's adherence to international trade agreements but raises significant questions about the balance between creator rights and public interest, a principle previously articulated by the Supreme Court. The practical effects on access and innovation require ongoing monitoring and evaluation." },
-          "right": { "label": "Conservative Context", "synthesis": "While robust intellectual property rights are generally supported to incentivize creation, some conservatives might critique an extension that primarily benefits corporations rather than individual creators, or one that limits the public domain's contribution to a vibrant cultural economy without clear economic benefit to Canadians." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely support deeper multilateral alliances with democratic partners like the EU, seeing it as a way to counter unilateralist tendencies and promote shared values in areas like climate action and human rights, rather than solely economic interests." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral view focuses on the strategic intent behind the diplomatic overture, the practical steps for deepening cooperation, the existing Canada-EU comprehensive economic and trade agreement (CETA), and the international legal and political frameworks governing such partnerships." },
+          "right": { "label": "Conservative Context", "synthesis": "Some conservatives might question the strategic wisdom of openly challenging the U.S. by seeking closer EU ties, fearing potential economic repercussions or a dilution of national interests in a broader European framework, while others might support diversified trade partners." }
         },
-        "neutral": "Canada's copyright term extension to life plus 70 years, a requirement of CUSMA, is criticized for delaying public domain access by two decades, impacting creative innovation and disproportionately benefiting corporate copyright holders over the general public."
-      }
-    }
-  ],
-  "indigenous": [
-    {
-      "id": "kanaka-bar-wildfire-goats",
-      "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Kanaka Bar First Nation Utilizes Goats for Innovative Wildfire Mitigation Strategy",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/kanaka-mitigates-wildfire-bc/?utm_source=rss",
-      "summary": "The Kanaka Bar Indian Band in British Columbia has successfully piloted a goat grazing program to mitigate wildfire risks. Facing repeated devastation from wildfires, the Nlaka'pamux community employed approximately 80 goats to clear invasive species and overgrown brush, creating natural firebreaks. This initiative highlights an Indigenous-led, ecologically sound approach to community resilience and adaptation in the face of escalating climate change impacts.",
-      "graph": ["Wildfire Mitigation", "Indigenous Innovation", "Community Resilience", "Climate Change Adaptation", "First Nations Governance", "Environmental Management"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This program is lauded as an excellent example of Indigenous land stewardship and innovative, nature-based climate solutions, emphasizing local autonomy and traditional ecological knowledge in addressing environmental crises. It demonstrates a holistic approach to community well-being and ecological balance." },
-          "center": { "label": "Procedural Context", "synthesis": "The Kanaka Bar initiative showcases a practical, community-driven approach to environmental management and hazard reduction. It offers a model for effective local adaptation strategies, potentially informing broader public policy on wildfire mitigation, particularly for vulnerable communities." },
-          "right": { "label": "Conservative Context", "synthesis": "This project could be seen as an efficient, self-reliant, and locally-managed solution to a pressing environmental problem, aligning with principles of local control and responsible resource management. It demonstrates practical outcomes without extensive bureaucratic intervention." }
-        },
-        "neutral": "The Kanaka Bar First Nation in BC has implemented an innovative goat grazing program to reduce wildfire risk by clearing brush, showcasing an Indigenous-led community resilience strategy against increasing climate change impacts."
+        "neutral": "Prime Minister Mark Carney called for an enhanced Canada-EU partnership to bolster sovereignty and counter protectionist tactics, delivering a speech to the European Parliament that implicitly critiqued recent U.S. foreign policy."
       }
     },
     {
-      "id": "opp-cannabis-tyendinaga",
-      "category": "Indigenous",
-      "source": "Toronto Sun",
-      "title": "OPP Seize $2.8M in Illicit Cannabis on Tyendinaga Mohawk Territory",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/provincial/opp-seize-3m-illicit-cannabis-tyendinaga-mohawk-territory",
-      "summary": "The Ontario Provincial Police (OPP) and the Tyendinaga Police Service conducted a joint investigation leading to the seizure of nearly $3 million worth of illicit cannabis plants and processed cannabis on the Tyendinaga Mohawk Territory. Eight individuals were arrested in connection with the illegal grow operation. This operation highlights ongoing jurisdictional complexities and law enforcement efforts regarding cannabis production and distribution on First Nations lands in Ontario.",
-      "graph": ["Cannabis Enforcement", "Indigenous Territory", "Policing", "Jurisdiction", "Drug Crime", "First Nations Relations"],
+      "id": "fed-4",
+      "category": "Federalism",
+      "source": "thehub.ca",
+      "title": "Carney puts visa-free travel on table in Canada-EU alliance talks as Conservatives demand Parliament’s approval",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/17/carney-puts-visa-free-travel-on-table-in-canada-eu-alliance-talks-as-conservatives-demand-parliaments-approval/",
+      "summary": "Prime Minister Mark Carney has proposed visa-free travel as a component of a potential "unique alliance" between Canada and the European Union, which would also encompass cooperation on energy, critical minerals, and artificial intelligence. This initiative, with formal discussions scheduled for October, has prompted calls from Canadian Conservatives for parliamentary approval, citing the significant foreign policy implications amidst ongoing Canada-U.S. trade tensions.",
+      "graph": ["Canada-EU Relations", "Foreign Policy", "Visa Policy", "Parliamentary Oversight", "Trade Relations", "Critical Minerals", "Artificial Intelligence"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 35, "center": 35, "right": 30 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While enforcement against illicit operations is necessary, progressives would emphasize the need for culturally sensitive policing and addressing root causes of economic disparity that might lead to such activities, advocating for self-governance and economic reconciliation for First Nations." },
-          "center": { "label": "Procedural Context", "synthesis": "This joint operation demonstrates inter-agency cooperation in enforcing drug laws within a complex jurisdictional environment. It highlights the challenges of regulating cannabis on Indigenous territories and the ongoing efforts to apply legal frameworks while respecting First Nations' unique status." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would generally support robust law enforcement efforts to combat illegal drug operations, viewing it as essential for public safety and adherence to federal regulations. The focus would be on the rule of law and the suppression of illicit markets." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely view visa-free travel positively for promoting cultural exchange and human mobility, while supporting deeper multilateral ties to address global challenges like climate change and responsible AI development." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would assess the administrative and logistical feasibility of implementing visa-free travel, the economic benefits and risks of the broader alliance, and the constitutional requirements for parliamentary ratification of such international agreements." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives' demand for parliamentary approval reflects concerns about democratic accountability and potential impacts on sovereignty or national security from an undefined alliance. They may also scrutinize the economic advantages and potential disadvantages relative to traditional U.S. ties." }
         },
-        "neutral": "A joint operation by the OPP and Tyendinaga Police resulted in the seizure of nearly $3 million in illicit cannabis and eight arrests on the Tyendinaga Mohawk Territory, underscoring law enforcement's efforts against illegal grow operations on First Nations land."
+        "neutral": "Prime Minister Mark Carney has introduced visa-free travel into discussions for a Canada-EU alliance focused on energy, critical minerals, and AI, drawing calls from Conservatives for parliamentary approval due to the significant foreign policy implications."
+      }
+    },
+    {
+      "id": "fed-5",
+      "category": "Federalism",
+      "source": "cbc.ca",
+      "title": "Trump signs memorandum to identify and remove Canadian products from U.S. federal procurement",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/trump-memorandum-canadian-goods-removed-9.7346944?cmp=rss",
+      "summary": "U.S. President Donald Trump has signed a presidential memorandum instructing agencies to identify and take steps to remove Canadian-origin goods from federal civil government procurement. This action is an escalation in the ongoing trade dispute between Canada and the U.S., following Canada's retaliatory tariffs, and is framed by the White House as an effort to restore reciprocity in government contracting.",
+      "graph": ["Canada-US Trade War", "Trade Tariffs", "Government Procurement", "Economic Sanctions", "Bilateral Relations"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 35, "right": 35 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis might frame this as a disruption of global supply chains and a threat to international cooperation, potentially harming specific industries and workers, and calling for multilateral solutions over protectionist measures." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would analyze the specific legal authority behind the memorandum, the economic impact on affected sectors and supply chains, and the diplomatic strategies employed by both nations to de-escalate or resolve the procurement dispute within established trade rules." },
+          "right": { "label": "Conservative Context", "synthesis": "From a nationalist or protectionist conservative viewpoint (e.g., Trump's base), this action is seen as prioritizing domestic industries and jobs, asserting national economic sovereignty, and leveraging economic power to force trade concessions from other countries." }
+        },
+        "neutral": "U.S. President Donald Trump issued a memorandum directing agencies to identify and remove Canadian products from federal procurement, escalating trade tensions with Canada following retaliatory tariffs."
+      }
+    },
+    {
+      "id": "fed-6",
+      "category": "Federalism",
+      "source": "nationalpost.com",
+      "title": "Canada tries to stop tech startups from moving to U.S.: ‘American VCs were hungrier’",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/canada-tries-to-stop-tech-startups-from-moving-to-u-s-american-vcs-were-hungrier",
+      "summary": "Canada is actively working to retain its tech startups and foster domestic innovation, aiming to reduce economic reliance on the United States. This strategic pivot is largely a response to ongoing trade tensions and tariff threats from the U.S. administration, which highlight the vulnerability of Canada's economy to cross-border pressures.",
+      "graph": ["Tech Sector", "Innovation Policy", "Economic Sovereignty", "Canada-US Economic Relations", "Venture Capital"],
+      "spectrum": {
+        "baseline": { "left": 35, "center": 40, "right": 25 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might advocate for increased government support and public investment in domestic tech ecosystems, focusing on equitable access to capital, worker protections, and ensuring innovation benefits all Canadians, not just private venture capital." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral assessment would analyze the effectiveness of current government programs and policies aimed at nurturing startups, comparing Canadian venture capital conditions with those in the U.S., and evaluating the long-term economic impact of retaining high-growth tech companies domestically." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives might emphasize the importance of creating a competitive tax and regulatory environment to attract and retain private capital, suggesting that government intervention should be limited to fostering market conditions rather than direct funding, and criticizing any perceived 'brain drain' to the US." }
+        },
+        "neutral": "Canada is implementing measures to retain domestic tech startups and strengthen its innovation economy, a strategy partly driven by a desire to reduce economic dependence on the U.S. amidst bilateral trade tensions."
+      }
+    },
+    {
+      "id": "fed-7",
+      "category": "Federalism",
+      "source": "theglobeandmail.com",
+      "title": "Read the leaked plan to boost AI data centres, oil and gas in Alberta",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/alberta-leaked-document-natural-gas-explainer/?utm_source=rss",
+      "summary": "A leaked Alberta cabinet document outlines potential plans to overhaul the province's natural gas pipeline system and establish provincial Crown corporations to oversee infrastructure. This initiative aims to boost oil and gas production and support the development of new AI data centers, raising questions about provincial jurisdiction and potential legal challenges with existing private energy companies.",
+      "graph": ["Alberta Politics", "Energy Policy", "AI Infrastructure", "Crown Corporations", "Provincial Jurisdiction", "Natural Gas"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices would likely criticize the plan for further entrenching fossil fuel infrastructure and its environmental impact, question the expansion of oil and gas amidst climate goals, and scrutinize the transparency and democratic accountability of creating powerful new Crown corporations." },
+          "center": { "label": "Procedural Context", "synthesis": "A procedural analysis focuses on the legality and feasibility of the proposed provincial overhaul, the mechanisms for establishing Crown corporations, the implications for regulatory frameworks, and the potential for inter-jurisdictional disputes between provincial and federal authority." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative and Albertan sovereignty advocates might champion the plan as a strong assertion of provincial autonomy over natural resources and a strategic move to diversify the economy and attract investment in new sectors like AI, criticizing any federal interference." }
+        },
+        "neutral": "A leaked Alberta cabinet document proposes a significant overhaul of the province's natural gas pipeline system and the creation of Crown corporations to bolster oil and gas production and facilitate AI data center development, prompting discussions on provincial resource control and economic strategy."
+      }
+    },
+    {
+      "id": "fed-8",
+      "category": "Federalism",
+      "source": "theglobeandmail.com",
+      "title": "Quebec party leaders spar about referendum and sovereignty in second debate",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-quebec-election-leaders-second-debate/",
+      "summary": "During their second election debate, Quebec's party leaders engaged in a contentious discussion over provincial sovereignty, the prospect of a referendum, and key policy areas including the economy, immigration, health care, and the protection of the French language within the province.",
+      "graph": ["Quebec Politics", "Sovereignty", "Referendum", "Provincial Election", "Language Policy", "Federal-Provincial Relations"],
+      "spectrum": {
+        "baseline": { "left": 35, "center": 35, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might focus on the need for inclusive language policies that protect minority rights while affirming Quebec's cultural distinctiveness, alongside advocating for social programs and economic equity within the federation." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis centers on the constitutional implications of a potential referendum, the legal and political mechanisms for discussing sovereignty, and the practical policy challenges debated, such as healthcare reform and economic management within the current federal framework." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative views often emphasize the economic stability and benefits of remaining within the Canadian federation, while also supporting provincial autonomy and robust measures for French language protection within Quebec, potentially criticizing federal encroachment." }
+        },
+        "neutral": "Quebec's party leaders debated provincial sovereignty, a potential referendum, and major policy issues including the economy, immigration, and French language protection during a recent election debate."
+      }
+    },
+    {
+      "id": "fed-9",
+      "category": "Federalism",
+      "source": "theglobeandmail.com",
+      "title": "N.L. politicians to vote on Quebec energy proposal that seeks to end provincial dispute",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/business/article-nl-quebec-energy-proposal-vote-churchill-falls/",
+      "summary": "Newfoundland and Labrador politicians are slated to vote on a comprehensive energy proposal from Quebec, designed to resolve their longstanding inter-provincial dispute over the Churchill Falls hydroelectric project. The framework agreement includes provisions for over $50 billion in new energy infrastructure along the Churchill River, signalling a potential major shift in eastern Canadian energy dynamics.",
+      "graph": ["Inter-provincial Relations", "Energy Dispute", "Hydroelectric Power", "Churchill Falls", "Resource Management"],
+      "spectrum": {
+        "baseline": { "left": 30, "center": 40, "right": 30 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might examine the environmental impact of new hydroelectric infrastructure, the fairness of benefit distribution to local communities and Indigenous groups, and the potential for publicly-owned and regulated energy development over private interests." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral assessment would analyze the economic terms of the proposed agreement, the legal framework for resolving inter-provincial resource disputes, the engineering and financial viability of the new infrastructure, and the long-term energy market implications for both provinces and the region." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely focus on the economic benefits, job creation, and strategic energy independence afforded by the new infrastructure, emphasizing private sector involvement where possible and efficient resource development to maximize provincial revenues." }
+        },
+        "neutral": "Newfoundland and Labrador politicians are preparing to vote on a Quebec energy proposal that aims to resolve the Churchill Falls dispute and includes over $50 billion in new hydroelectric infrastructure, marking a significant development in inter-provincial resource relations."
       }
     }
   ],
-  "criminal": [],
+  "charter": [],
+  "indigenous": [],
+  "criminal": [
+    {
+      "id": "crim-1",
+      "category": "Criminal",
+      "source": "cbc.ca",
+      "title": "Judge denies Tamara Lich's request to travel under house arrest",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/ottawa/tamara-lich-house-arrest-travel-request-denied-9.7347816?cmp=rss",
+      "summary": "A judge has denied Tamara Lich's request for international travel, which included a Caribbean cruise and a visit to the White House, while she serves a house arrest sentence. Lich was convicted of mischief and other offenses related to her role in organizing the 2022 Ottawa convoy protest. The court ruled that granting such exemptions was unnecessary and would undermine the principles of her conditional sentence.",
+      "graph": ["Conditional Sentence", "House Arrest", "Judicial Discretion", "Convoy Protest", "Mischief Charges"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might emphasize the importance of upholding judicial decisions to ensure accountability, particularly for actions that disrupted public order, while also considering rehabilitation and appropriate conditions for release." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral, procedural analysis focuses on the application of sentencing principles, the evidence presented in the travel request, the judge's interpretation of conditional sentence terms, and the consistency of legal precedents in similar cases." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might support strict adherence to judicial sentences, especially for those involved in protests seen as unlawful, prioritizing law and order and the integrity of the justice system over individual travel requests during conditional release." }
+        },
+        "neutral": "A judge rejected Tamara Lich's application for international travel while under house arrest, citing a lack of necessity and a potential undermining of her conditional sentence for her role in the 2022 Ottawa convoy protest."
+      }
+    }
+  ],
   "immigration": [
     {
-      "id": "eu-canada-visa-travel",
+      "id": "imm-1",
       "category": "Immigration",
-      "source": "The Globe and Mail",
-      "title": "Visa-Free Travel Included in Potential Canada-EU Alliance Discussions",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-visa-free-travel-could-be-part-of-canada-eu-talks-carney-says/",
-      "summary": "Prime Minister Mark Carney indicated that visa-free travel could be a component of the discussions to forge a 'unique alliance' between Canada and the European Union. This proposed measure aims to facilitate the movement of people, enhance cultural and economic ties, and protect Canada from economic coercion, signaling a potential relaxation of border controls as part of a broader strategic international partnership.",
-      "graph": ["Visa Policy", "International Mobility", "Canada-EU Relations", "Foreign Policy", "Economic Coercion", "Border Control"],
+      "source": "nationalpost.com",
+      "title": "Judge sends Hamilton fentanyl dealer to prison despite ‘immigration consequences’",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/judge-sends-hamilton-fentanyl-dealer-to-prison-despite-immigration-consequences",
+      "summary": "A Hamilton judge sentenced a fentanyl dealer to a penitentiary term, asserting that the severe nature of the drug trafficking offense necessitated the prison sentence, despite acknowledging that it would likely lead to adverse immigration consequences, including potential deportation, for the convicted individual.",
+      "graph": ["Drug Trafficking", "Sentencing", "Judicial Discretion", "Deportation", "Immigration Law", "Fentanyl"],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "baseline": { "left": 25, "center": 35, "right": 40 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would likely support increased international mobility and cultural exchange, seeing visa-free travel as a way to foster global understanding and cooperation. However, concerns might be raised about equitable access and potential impacts on domestic labor markets." },
-          "center": { "label": "Procedural Context", "synthesis": "The inclusion of visa-free travel in alliance talks signifies a complex negotiation point that balances enhanced bilateral relations with national security and immigration management. Its implementation would require careful legislative and administrative alignment between Canada and the EU." },
-          "right": { "label": "Conservative Context", "synthesis": "While closer economic ties are often favored, conservatives might express caution regarding open border policies and their implications for national security, public services, and the integrity of immigration systems. Strict vetting and reciprocal agreements would be paramount." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views might explore the intersection of criminal justice and immigration, advocating for rehabilitation pathways and considering the systemic factors that lead to such offenses, while still acknowledging the harm caused by drug dealing." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis focuses on the application of sentencing guidelines for serious drug offenses, the legal balance between criminal punishment and immigration consequences, and the judicial process for assessing aggravating and mitigating factors." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would strongly support the judge's decision to prioritize public safety and the rule of law over an individual's immigration status, emphasizing that severe criminal offenses warrant strict punishment regardless of potential deportation outcomes." }
         },
-        "neutral": "Prime Minister Mark Carney has stated that visa-free travel is a prospective element in ongoing negotiations to establish a 'unique alliance' between Canada and the European Union, aiming to bolster bilateral ties and mitigate economic pressures."
+        "neutral": "A Hamilton judge delivered a prison sentence to a fentanyl dealer, affirming the seriousness of the crime outweighed potential immigration consequences for the offender."
+      }
+    },
+    {
+      "id": "imm-2",
+      "category": "Immigration",
+      "source": "torontosun.com",
+      "title": "India welcomes Bishnoi gangster Karamveer Singh deported from Canada",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://torontosun.com/news/crime/india-welcomes-bishnoi-gangster-deported-from-canada",
+      "summary": "Karamveer Singh, an alleged Bishnoi gangster with links to extortion of Punjabi singers and a 2024 attack in Victoria, has been deported from Canada to India. This deportation highlights international cooperation in combating organized crime and managing individuals deemed inadmissible to Canada due to serious criminal activities.",
+      "graph": ["Deportation", "Organized Crime", "Gangster", "International Law Enforcement", "Inadmissibility", "Public Safety"],
+      "spectrum": {
+        "baseline": { "left": 20, "center": 35, "right": 45 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressives might scrutinize the fairness and due process of deportation proceedings, while still supporting efforts to combat organized crime, ensuring human rights are upheld even for individuals involved in criminal activities." },
+          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the immigration legal framework governing inadmissibility and deportation, the evidentiary standards required, and the bilateral cooperation mechanisms between Canada and India for the transfer of criminal suspects." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservatives would applaud the deportation as a strong measure to protect national security and public safety, emphasizing robust enforcement of immigration laws against individuals involved in organized crime and the removal of those deemed a threat to society." }
+        },
+        "neutral": "An alleged Bishnoi gangster, Karamveer Singh, has been deported from Canada to India following links to extortion and a violent attack, underscoring Canada's actions against organized crime figures."
       }
     }
   ]
