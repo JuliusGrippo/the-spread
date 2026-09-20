@@ -1,255 +1,348 @@
 {
   "federalism": [
     {
-      "id": "cacec77c05434a92b55d55fed439b2131789747078180",
+      "id": "federalism-1",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada Rules Out Direct EU Budget Contributions in Proposed \"Unique Alliance\" Under Carney's Plan",
+      "title": "Prime Minister Carney Meets Macron in Saint-Pierre-et-Miquelon, Discusses Canada-EU Alliance",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-eu-carney-jonathan-wilkinson-donald-trump-alliance-9.7349618?cmp=rss",
-      "summary": "Canada's ambassador-designate to the EU, Jonathan Wilkinson, clarified that while Prime Minister Mark Carney is pursuing a \"unique alliance\" with the European Union, Canada will not be making direct payments into the EU's budget. Co-operation will be selective, focusing on strategic capabilities like critical minerals, AI, and defence (e.g., joining the SAFE program), as well as cultural and research exchanges (Erasmus+, Horizon). The proposed alliance seeks \"seamless, digital\" trade and integrated financial services but avoids full EU membership or changes to migration policies, with any final agreement requiring parliamentary approval.",
-      "graph": ["International Relations", "European Union", "Trade Policy", "Defence Cooperation", "Foreign Policy", "Economic Alliance", "Critical Minerals", "AI Governance"],
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/carney-in-saint-pierre-et-miquelon-to-meet-with-macron-9.7351321?cmp=rss",
+      "summary": "Prime Minister Mark Carney held a \"mostly symbolic\" meeting with French President Emmanuel Macron in Saint-Pierre-et-Miquelon, a French territory off Newfoundland. The discussions focused on strengthening Canada-France ties and the broader Canada-EU alliance, including partnerships in aerospace, energy, and critical minerals. This follows European Commission President Ursula von der Leyen's proposal for Canada to become an \"associate member\" of the EU, a concept welcomed by Carney. The visit also highlighted regional cooperation on fishing, transport, and trade, against a backdrop of increased tensions with the United States for both Canada and Europe.",
+      "graph": [
+        "International Relations",
+        "Canada-EU Alliance",
+        "Trade Policy",
+        "Geopolitics",
+        "Diplomacy"
+      ],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May scrutinize the alliance for potential impacts on Canadian sovereignty, worker rights, and environmental standards, ensuring that deepening ties with the EU align with progressive values and do not compromise Canada's independent policy direction or social safety nets." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the strategic and economic rationale for the alliance, focusing on the proposed frameworks for co-operation, the parliamentary approval process, and the balancing of national interests with international partnerships. Emphasizes the selective nature of engagement and the avoidance of direct financial contributions to the EU budget." },
-          "right": { "label": "Conservative Context", "synthesis": "Questions the financial implications and potential loss of sovereignty for Canada, emphasizing the need for robust parliamentary oversight. Concerns may be raised about the economic benefits versus costs, and whether the alliance adequately protects Canadian industries from European competition or influence." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canadian officials state that a proposed 'unique alliance' with the European Union will involve selective cooperation in strategic sectors like defense and technology, and cultural exchanges, but will explicitly exclude direct financial contributions to the EU budget and changes to migration policies, pending parliamentary review."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Focus on progressive international cooperation, multilateralism, and strengthening alliances outside of traditional North American ties. Emphasis on shared values and collaborative solutions, potentially viewing deeper EU ties as a counterweight to U.S. influence."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focus on the procedural aspects of international diplomacy, strategic alliances, and economic partnerships. Objective evaluation of the benefits and challenges of closer Canada-EU integration, including legislative debate and ratification processes."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Concerns about national sovereignty, potential economic implications of closer EU alignment (e.g., 'European taxes, laws, and open borders chaos'), and the balance of power in trade relations, particularly with the U.S. Skepticism about the practical benefits versus commitments."
+          }
+        },
+        "neutral": "Unified objective summary statement: The meeting between Prime Minister Carney and President Macron in Saint-Pierre-et-Miquelon served to affirm bilateral relations and advance discussions on a proposed expanded Canada-EU alliance, encompassing economic, defense, and strategic cooperation, with parliamentary debate anticipated."
       }
     },
     {
-      "id": "928fefa9c2544fff8ab3371e1e1286b01789775630501",
+      "id": "federalism-2",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Liberal Government to Strengthen Minister's Authority to End Strikes via Canada Labour Code Amendments",
+      "title": "Parliament Returns: Carney Government to Prioritize Economic Legislation and EU Alliance Debate",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/section-107-labour-code-hajdu-right-to-strike-9.7350619?cmp=rss",
-      "summary": "The Liberal government is set to introduce the \"Building Canada Strong Act,\" which will amend Section 107 of the Canada Labour Code to explicitly grant the minister the authority to end work stoppages and mandate arbitration in federally regulated industries. This move aims to codify an existing power, which has been controversially used by the government in the past for disputes involving sectors like ports and railways, and has faced challenges from unions who argue it undermines collective bargaining rights. The new legislation also includes provisions for appointing special mediators.",
-      "graph": ["Labour Law", "Strike Legislation", "Canada Labour Code", "Federal Policy", "Collective Bargaining", "Industrial Relations", "Economic Stability"],
+      "url": "https://www.cbc.ca/news/politics/mps-return-to-house-of-commons-9.7349450?cmp=rss",
+      "summary": "As Members of Parliament return to Parliament Hill, the fall sitting's agenda is dominated by economic legislation, job protection, and investment. A key focus will be the debate surrounding Prime Minister Mark Carney's initiative to deepen Canada's ties with the European Union, potentially leading to an \"associate member\" status. The opposition Conservatives have expressed skepticism, demanding accountability and raising concerns about potential impacts on Canadian sovereignty and immigration. Meanwhile, trade talks with the U.S. remain stalled, with potential shifts post-midterm elections. The government also plans to introduce the 'Building Canada Strong Act' to expedite project reviews.",
+      "graph": [
+        "Parliamentary Agenda",
+        "Economic Policy",
+        "Canada-EU Relations",
+        "Trade Negotiations",
+        "Legislative Priorities"
+      ],
       "spectrum": {
-        "baseline": { "left": 40, "center": 35, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly opposes the amendments, viewing them as an infringement on fundamental worker rights and collective bargaining. Argues that codifying such powers further empowers the government to suppress labour action, potentially harming workers and unions, and emphasizes the importance of the right to strike for equitable labour relations." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the legal and procedural aspects of amending the Canada Labour Code, focusing on the government's stated aim to ensure economic stability and investment confidence, particularly in critical infrastructure sectors. Considers the historical application of Section 107 and potential judicial interpretations of the strengthened ministerial authority." },
-          "right": { "label": "Conservative Context", "synthesis": "Generally supports measures to prevent disruptive labour disputes, particularly in economically vital sectors. Emphasizes the need for government intervention to maintain economic flow and investor confidence, potentially advocating for even stronger measures to ensure predictable labour environments and minimize economic impact." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The federal government plans to amend the Canada Labour Code to explicitly grant the minister authority to end strikes and order arbitration in federally regulated industries, a move intended to enhance economic stability but criticized by unions as undermining collective bargaining rights."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Support for government's focus on economic stability and job creation, potential for stronger social and environmental standards through EU alignment, and generally welcoming multilateral cooperation. Emphasis on addressing affordability for citizens."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focus on the legislative process, the balance between government's agenda and opposition scrutiny, and the technical details of policy implementation, such as project review legislation and budget discussions."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Strong emphasis on fiscal conservatism, skepticism towards large-scale international alliances (especially those involving perceived 'open borders chaos' or 'European taxes'), and demands for transparency and cost analysis regarding trade deals and international agreements. Calls for accountability from the government."
+          }
+        },
+        "neutral": "Unified objective summary statement: The Canadian Parliament reconvenes with an agenda centered on economic legislation and the proposed Canada-EU alliance, facing opposition scrutiny over international agreements and domestic spending, alongside plans for new project review legislation."
       }
     },
     {
-      "id": "c1be710fbd0d4b9ea3a570a6b5cde1c31789768403590",
+      "id": "federalism-3",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Conservatives Demand Probes into Federal Government's GlobalEye Surveillance Aircraft Procurement Process",
+      "source": "National Post",
+      "title": "Prime Minister Carney Confirms Strong Ties with France and EU During Macron Meeting",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/globaleye-military-saab-canada-surveillance-9.7350393?cmp=rss",
-      "summary": "Federal Conservatives are calling for investigations by the Auditor General and Parliamentary Budget Officer into the Liberal government's decision to acquire Saab GlobalEye surveillance planes. Concerns have arisen from revelations that the chosen aircraft meets only a fraction of military requirements and that competitors were not privy to these requirements before the announcement. The opposition questions whether proper procurement rules and national security interests were prioritized over political decisions, especially given the need for significant modifications to the GlobalEye for Canadian use.",
-      "graph": ["Defence Procurement", "Government Oversight", "Military Aircraft", "National Security", "Public Spending", "Auditor General", "Parliamentary Budget Office", "Federal Politics"],
+      "url": "https://nationalpost.com/news/canada/carney-maccron-st-pierre-miquelon-france-atlantic-territory",
+      "summary": "Prime Minister Mark Carney's visit to Saint-Pierre-et-Miquelon for a meeting with French President Emmanuel Macron served to reiterate Canada's commitment to robust relations with both France and the European Union. This meeting underscores ongoing efforts to solidify a new, broader alliance with the EU, building on existing trade agreements and defense partnerships. The discussions aimed to reinforce unity and respect in a complex geopolitical landscape.",
+      "graph": [
+        "International Diplomacy",
+        "Canada-France Relations",
+        "European Union Partnership",
+        "Geopolitical Strategy"
+      ],
       "spectrum": {
-        "baseline": { "left": 25, "center": 35, "right": 40 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on potential waste of public funds and the need for transparency and accountability in large-scale government contracts. May also raise questions about the broader implications of military spending versus social programs, and the ethical considerations of surveillance technology." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the adherence to procurement protocols, the impartiality of the evaluation process, and the effectiveness of parliamentary oversight mechanisms. Seeks objective analysis of the cost-benefit ratio and operational capabilities of the GlobalEye, emphasizing due process and fiscal responsibility." },
-          "right": { "label": "Conservative Context", "synthesis": "Strongly criticizes the Liberal government for alleged mismanagement, lack of transparency, and potential political favoritism in the procurement process. Demands accountability for taxpayer money and emphasizes the importance of ensuring military equipment fully meets operational requirements without unnecessary modifications or compromises to national defence." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The federal government's planned acquisition of Saab GlobalEye surveillance aircraft is under scrutiny, with Conservatives requesting investigations by the Auditor General and Parliamentary Budget Officer amidst concerns that the chosen plane does not fully meet military requirements and that procurement processes may have been flawed."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Views strengthened international alliances as a positive step towards multilateralism and shared global responsibility, fostering cooperation beyond traditional North American focus."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focuses on the strategic importance of diplomatic engagements for national interests and stability, evaluating the mechanisms and benefits of international partnerships."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Emphasizes national interest and sovereignty, potentially viewing such visits as symbolic gestures with tangible impacts that need careful scrutiny, especially regarding the extent of commitments to foreign entities."
+          }
+        },
+        "neutral": "Unified objective summary statement: Prime Minister Carney's meeting with President Macron in Saint-Pierre-et-Miquelon reinforced Canada's close ties with France and the European Union, signaling a commitment to deeper international collaboration."
       }
     },
     {
-      "id": "141524701733255436000",
+      "id": "federalism-4",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "RCMP Affirms \"Strong Relationships\" with Allies Amidst Reports of Temporary FBI Co-operation Halt Over CBC 9/11 Memo",
+      "source": "National Post",
+      "title": "Opinion: Sudbury's Economic Potential Overlooked by Federal Investment Strategy",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/cbc-9-11-memo-fbi-rcmp-new-york-times-9.7350004?cmp=rss",
-      "summary": "RCMP Commissioner Mike Duheme has asserted the agency's \"strong relationships\" with international allies, including the U.S., despite New York Times reports that FBI Director Kash Patel briefly suspended cooperation with Canadian counterparts. The alleged halt was in retaliation for a leaked CBC memo advising journalists not to unilaterally label 9/11 as a terrorist attack. Although the CBC later clarified its guidance, the incident highlighted diplomatic tensions and the potential impact on critical national security intelligence sharing between Canada and the U.S.",
-      "graph": ["International Cooperation", "Law Enforcement", "National Security", "Diplomatic Relations", "Media Policy", "RCMP", "FBI", "Canada-U.S. Relations"],
+      "url": "https://nationalpost.com/news/the-highly-strategic-city-that-the-canada-investment-summit-forgot",
+      "summary": "An opinion piece argues that cities like Sudbury, crucial \"engines of prosperity,\" are feeling cash-strapped and overlooked by federal initiatives like the Canada Investment Summit. The article suggests a disconnect between the Prime Minister's pronouncements on economic growth and the realities faced by strategic regional centers, calling for greater attention and investment in these areas to realize their full potential.",
+      "graph": [
+        "Regional Development",
+        "Economic Policy",
+        "Federal Investment",
+        "Urban Planning",
+        "Resource Economy"
+      ],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the potential impact of political interference on journalistic independence and international intelligence cooperation. May highlight concerns about freedom of the press and the implications for Canada's sovereignty in the face of foreign pressure, while also emphasizing the importance of international collaboration against global threats." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the factual reporting of the diplomatic incident and the RCMP's official response, analyzing the procedural integrity of international law enforcement partnerships. Seeks to understand the immediate and long-term consequences for intelligence sharing and bilateral relations, without assigning blame." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses strong concerns about the perceived insult to U.S. allies and the potential weakening of national security cooperation. Calls for Canadian institutions to align more closely with allied positions on critical historical events to avoid diplomatic fallout, emphasizing national interest and security partnerships." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The RCMP affirms its strong relationships with allies, including the FBI, following reports that U.S. officials briefly halted intelligence sharing due to a CBC internal memo regarding 9/11 terminology, an incident that prompted a public clarification from the Canadian broadcaster and highlights the sensitivities in international cooperation."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Advocates for balanced regional development and equitable distribution of federal resources, highlighting social impacts of economic neglect in strategic cities. Calls for more government intervention to support local economies."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Examines the efficiency and fairness of federal investment strategies, analyzing the criteria for economic summits and the measurable impact on various regions. Discusses the procedural aspects of federal-municipal economic relationships."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Criticizes federal economic policies for potentially neglecting key regional economic drivers due to centralized planning or misprioritization. Advocates for market-driven solutions or more decentralized economic decision-making to empower local economies."
+          }
+        },
+        "neutral": "Unified objective summary statement: An opinion piece critiques the federal government's investment strategy for allegedly neglecting the economic needs and strategic importance of regional cities like Sudbury, raising questions about the efficacy of national prosperity initiatives."
       }
     },
     {
-      "id": "37cfdf9e0d7940c88bab6551bd201b9f1789765186176",
+      "id": "federalism-5",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Prime Minister Carney Outlines \"Crucial Session\" Legislative Agenda, Emphasizing Economic Streamlining and Digital Regulation",
+      "source": "National Post",
+      "title": "Opinion: Calls for Airport Privatization to Improve Canadian Infrastructure",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-liberal-caucus-parliament-9.7350304?cmp=rss",
-      "summary": "Prime Minister Mark Carney rallied Liberal MPs ahead of the parliamentary session, highlighting a \"crucial\" agenda focused on economic growth and digital regulation. Key legislative initiatives include the \"Building Canada Strong Act\" to streamline project reviews, aiming for one-year approvals, and a bill to regulate social media and AI to combat online harms like cyberbullying and child abuse. Carney also hinted at a new budget with expanded social programs and childcare support, emphasizing fiscal management and defending Canadian sovereignty.",
-      "graph": ["Legislative Agenda", "Economic Policy", "Digital Regulation", "Parliamentary Session", "Project Approvals", "Social Media Policy", "AI Governance", "Federal Government Priorities"],
+      "url": "https://nationalpost.com/opinion/chris-selley-hating-our-airports-is-just-what-canadians-do-demanding-they-improve-isnt",
+      "summary": "An opinion piece by Chris Selley suggests that while Canadians often complain about airports, they are hesitant to advocate for solutions like privatization. The author argues that privatization shouldn't be automatically equated with disaster and that a serious consideration of such models, with proper details, could lead to much-needed improvements in Canadian airport infrastructure and efficiency.",
+      "graph": [
+        "Infrastructure Policy",
+        "Public Services",
+        "Privatization",
+        "Economic Efficiency",
+        "Government Spending"
+      ],
       "spectrum": {
-        "baseline": { "left": 35, "center": 35, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Applauds the focus on social media and AI regulation to protect vulnerable populations, and the commitment to expanding social programs and childcare. May scrutinize the 'Building Canada Strong Act' to ensure environmental and social safeguards are not compromised by accelerated project approvals." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the government's outlined legislative priorities, focusing on the procedural aspects of parliamentary debate and the stated policy objectives. Analyzes the proposed mechanisms for economic streamlining and digital regulation, and the political strategy behind the agenda." },
-          "right": { "label": "Conservative Context", "synthesis": "Questions the government's economic spending plans and the potential for increased bureaucracy or intervention in the tech sector through digital regulation. Supports efficient project approvals but may raise concerns about the government's fiscal management and the overall scope of federal intervention in the economy." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Prime Minister Mark Carney addressed his Liberal caucus, detailing a forthcoming parliamentary agenda that includes the 'Building Canada Strong Act' for streamlined project reviews and new legislation to regulate social media and AI, alongside a commitment to a new budget focused on economic stability and social program expansion."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Typically critical of privatization of public assets, fearing reduced public access, increased costs, and diminished accountability in favor of corporate profits. Advocates for strong public oversight and investment."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focuses on pragmatic evaluations of infrastructure funding and operational models, considering the balance between public interest and operational efficiency. Seeks detailed analysis of privatization proposals."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Strongly advocates for privatization and market-based solutions to improve efficiency and reduce government spending/control in public services. Views public ownership as prone to inefficiency and lack of innovation."
+          }
+        },
+        "neutral": "Unified objective summary statement: An opinion column argues that Canadians' dissatisfaction with airports should prompt a serious discussion about privatization as a potential solution for infrastructure improvement, provided detailed models are considered."
       }
     },
     {
-      "id": "f5627e71fcfd48208131e46e97667dbb1789753623090",
+      "id": "federalism-6",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Canada Revenue Agency Reports Over $5 Billion in Outstanding COVID-19 Benefit Debt from Ineligible Recipients",
+      "source": "National Post",
+      "title": "Parliament Reopens Amidst Carney Government's Legislative Push and Labour Union Opposition",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/cra-cerb-crb-debt-benefit-clawbacks-9.7349986?cmp=rss",
-      "summary": "The Canada Revenue Agency (CRA) confirms that $5.56 billion in COVID-19 benefits remains outstanding debt from recipients deemed ineligible, a significant reduction from over $10 billion reported last November. The CRA initially disbursed approximately $14 billion to ineligible individuals, primarily through CERB and CRB. While $3.671 billion has been repaid, the remaining balance is also affected by eligibility changes and write-offs for financial hardship, though the Crown retains future recovery rights. The CRA is implementing flexible collection strategies, including extended payment timelines and individualized arrangements.",
-      "graph": ["COVID-19 Benefits", "Government Debt", "Fiscal Policy", "Canada Revenue Agency", "CERB", "CRB", "Public Finances", "Debt Collection"],
+      "url": "https://nationalpost.com/news/parliament-returns-with-a-big-agenda-and-a-fight-brewing-between-carney-and-labour-unions",
+      "summary": "The return of Parliament highlights a significant legislative agenda for the Carney government, with a focus on economic bills aimed at job protection and investment. However, this agenda faces brewing opposition from labour unions, who express concerns that proposed expedited project review and consultation processes prioritize corporate interests over workers' rights and environmental protections. This sets the stage for potential conflict between the government's economic strategy and organized labour.",
+      "graph": [
+        "Legislative Agenda",
+        "Labour Relations",
+        "Economic Development",
+        "Government Policy",
+        "Project Review"
+      ],
       "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the necessity of rapid benefit distribution during a crisis and the impact of clawbacks on low-income individuals. Advocates for compassionate repayment plans, write-offs for hardship, and ensuring that collection efforts do not push vulnerable Canadians further into poverty, while acknowledging the need for fiscal accountability." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the administrative challenges of large-scale emergency programs and the subsequent process of identifying and recovering ineligible payments, emphasizing the balance between recovery and fairness." },
-          "right": { "label": "Conservative Context", "synthesis": "Criticizes the initial laxity in eligibility verification and the substantial amount of unrecovered funds, viewing it as a failure of government oversight and fiscal responsibility. Demands stricter enforcement and accountability for taxpayer money, questioning the effectiveness of 'flexible' collection approaches." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The Canada Revenue Agency reports $5.56 billion in unrecovered COVID-19 benefits from ineligible recipients, a decrease from over $10 billion, with the agency pursuing flexible collection strategies and considering write-offs for those facing permanent financial hardship."
-      }
-    },
-    {
-      "id": "0cea82c834a84dfd85a2284ab38692181789748639603",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Supreme Court Invalidates Federal Election Result in Terrebonne Due to Elections Canada Administrative Error",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/terrebonne-supreme-court-reasons-9.7349686?cmp=rss",
-      "summary": "The Supreme Court of Canada released its reasons for invalidating a Liberal MP's one-vote victory in the 2025 federal election for the Terrebonne riding. The Court found that Elections Canada committed a serious administrative error by failing to rectify issues with incorrectly addressed mail-in ballots, which prevented some electors from voting. This decision, which led to a byelection, emphasized the importance of maintaining public trust in the electoral process by correcting known official errors.",
-      "graph": ["Electoral Law", "Supreme Court Decision", "Elections Canada", "Mail-in Ballots", "Voter Rights", "Federal Elections", "Democratic Integrity"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Applauds the Supreme Court's decision as a safeguard for democratic integrity and voter accessibility, emphasizing the responsibility of electoral bodies to ensure every vote is counted. May advocate for further reforms to prevent administrative errors that disproportionately affect certain voter demographics." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the Supreme Court's legal reasoning for invalidating the election, focusing on the administrative error by Elections Canada and its potential to undermine public confidence. Highlights the judicial role in upholding electoral fairness and the procedural rectitude required in democratic processes." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports strict adherence to electoral rules and transparency, viewing the Supreme Court's intervention as necessary to correct government oversight. May raise concerns about the efficiency of Elections Canada and the potential for such errors to be exploited, advocating for robust safeguards against electoral irregularities." }
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Supports labour unions' concerns regarding corporate interests potentially overriding worker rights and environmental protections, advocating for stronger regulations and worker protections within economic policies."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focuses on the dynamics of legislative processes, the balance between economic growth and stakeholder consultation, and the legal framework governing labour relations and project approvals."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Emphasizes the need for streamlined regulations and expedited project approvals to stimulate economic growth and investment, potentially viewing labour union opposition as an impediment to progress."
+          }
         },
-        "neutral": "The Supreme Court of Canada elucidated its rationale for nullifying a federal election outcome in Terrebonne, citing a critical administrative error by Elections Canada regarding mail-in ballots, emphasizing the judiciary's role in upholding public trust in the electoral system."
-      }
-    },
-    {
-      "id": "70c8fc80",
-      "category": "Federalism",
-      "source": "Global News",
-      "title": "Canadian Retaliatory Tariffs Against U.S. Trade War Appear to Have Limited Political Impact in American Election Landscape",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12064925/canada-trade-war-trump/",
-      "summary": "Canada's strategy of imposing retaliatory tariffs on specific U.S. states, initiated after U.S. President Donald Trump levied 50% tariffs on Canadian goods, has reportedly failed to significantly influence American voter sentiment or political outcomes in Trump's favor. Despite economic hardship in some U.S. sectors, many American voters remain largely unaware or unconcerned about the Canada-U.S. trade dispute, viewing Canada as a minor player in a broader narrative of U.S. grievances against international trade. This suggests Canada's \"backyard\" trade war approach has not translated into the desired electoral pressure.",
-      "graph": ["Trade War", "Canada-U.S. Relations", "Tariffs", "International Trade", "Foreign Policy", "Economic Sanctions", "Federal-Provincial Relations"],
-      "spectrum": {
-        "baseline": { "left": 30, "center": 35, "right": 35 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the inherent limitations of retaliatory trade measures and emphasizes the need for multilateral cooperation to address protectionism. May argue that such strategies can harm domestic industries and workers, advocating for diplomatic solutions over escalating trade conflicts." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the effectiveness of Canada's retaliatory trade strategy, assessing its economic impact and political efficacy in the U.S. Contextualizes the trade dispute within broader Canada-U.S. relations and international trade dynamics, focusing on measurable outcomes rather than ideological positions." },
-          "right": { "label": "Conservative Context", "synthesis": "Questions the wisdom of Canada's trade strategy if it fails to yield political leverage, potentially advocating for alternative, more assertive approaches to protect Canadian economic interests. May also highlight the importance of strong domestic economic policies to withstand international trade pressures." }
-        },
-        "neutral": "Canadian retaliatory tariffs, implemented in response to U.S. duties, have had limited political sway in the American election landscape, with many U.S. voters remaining largely indifferent to the Canada-U.S. trade dispute despite localized economic impacts."
-      }
-    },
-    {
-      "id": "cp1769243272048x1365",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Analysts Skeptical of Canada-EU Energy Alliance Due to Lack of East Coast Infrastructure",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/19/carney-pitches-canada-eu-energy-alliance-but-analysts-say-no-atlantic-infrastructure-exists-to-deliver-it/",
-      "summary": "Prime Minister Mark Carney proposed a Canada-European Union energy alliance to help Europe diversify its energy sources amid geopolitical instability. However, analysts are skeptical, pointing out that Canada currently lacks the necessary East Coast pipeline and export terminal infrastructure to physically deliver significant oil and gas supplies across the Atlantic. This suggests that any immediate energy supply would be limited to \"paper swap contracts\" rather than direct tanker shipments, raising questions about the alliance's practical efficacy in the short term.",
-      "graph": ["Energy Policy", "International Trade", "European Union", "Energy Security", "Infrastructure Development", "Oil and Gas", "Federal Policy"],
-      "spectrum": {
-        "baseline": { "left": 25, "center": 35, "right": 40 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Critiques the proposal as potentially diverting focus from renewable energy development and locking Canada into fossil fuel exports, which contradicts climate action goals. Advocates for investments in green infrastructure and sustainable energy solutions rather than expanding oil and gas infrastructure." },
-          "center": { "label": "Procedural Context", "synthesis": "Analyzes the logistical and economic feasibility of the proposed energy alliance, focusing on the current infrastructure deficits and the long-term investment required. Evaluates the strategic benefits for both Canada and the EU against the practical challenges of implementation and market dynamics." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the potential for Canada to bolster Europe's energy security but is critical of the government's failure to develop necessary infrastructure to capitalize on such opportunities. Emphasizes the economic imperative of building export capacity and leveraging Canada's natural resources for international benefit." }
-        },
-        "neutral": "Prime Minister Mark Carney's proposal for a Canada-EU energy alliance is met with analytical skepticism regarding its immediate deliverability, as Canada currently lacks the requisite East Coast infrastructure to physically transport oil and gas across the Atlantic."
+        "neutral": "Unified objective summary statement: As Parliament resumes, the Carney government's economic legislative agenda, particularly concerning expedited project reviews, is met with opposition from labour unions who contend that corporate interests are being prioritized."
       }
     }
   ],
   "charter": [],
-  "indigenous": [
-    {
-      "id": "misipawistik-cree-nation-moose-hunt",
-      "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Misipawistik Cree Nation Seeks Voluntary Moose Hunting Moratorium, Alleges Treaty Rights Infringement by Manitoba",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/manitoba-misipawistik-cree-nation-moose-hunt/?utm_source=rss",
-      "summary": "The Misipawistik Cree Nation in Manitoba has called for a voluntary moratorium on moose hunting in its traditional territory, Game Hunting Area 10, citing a drastic decline in the moose population and a lack of provincial intervention. The Nation, which has a pending lawsuit against the Manitoba government arguing that provincial hunting licenses infringe upon their Treaty Rights, is implementing a non-enforceable closure and utilizing its Land Guardians program for monitoring. This initiative highlights ongoing tensions between Indigenous self-governance in resource management and provincial regulatory authority.",
-      "graph": ["Indigenous Rights", "Treaty Rights", "Resource Management", "Moose Hunting", "Provincial Jurisdiction", "Manitoba", "First Nation Lawsuit"],
-      "spectrum": {
-        "baseline": { "left": 45, "center": 30, "right": 25 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the critical need for Indigenous-led conservation efforts and the recognition of inherent Treaty Rights over traditional territories. Views provincial actions as insufficient or infringing, advocating for greater Indigenous control over resource management for ecological and cultural preservation." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the procedural aspects of intergovernmental dispute resolution, the legal arguments surrounding Treaty Rights and provincial jurisdiction, and the need for evidence-based resource management. Highlights the judicial process as a means to clarify the scope of rights and responsibilities." },
-          "right": { "label": "Conservative Context", "synthesis": "May raise concerns about the economic impact of hunting restrictions, the clarity of jurisdictional boundaries, and the potential for a patchwork of regulations. Emphasizes the role of provincial authority in wildlife management and resource allocation, and may view voluntary closures as bypassing established regulatory frameworks." }
-        },
-        "neutral": "The Misipawistik Cree Nation has unilaterally called for a voluntary halt to moose hunting within its traditional territory in Manitoba, citing conservation needs and perceived provincial inaction, while a related lawsuit challenging provincial hunting licenses on Treaty Rights grounds remains before the courts."
-      }
-    }
-  ],
+  "indigenous": [],
   "criminal": [
     {
-      "id": "toronto-man-acquitted-in-cannabis-induced-choking-attack-on-young-girl",
+      "id": "criminal-1",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Toronto Man Acquitted in Choking Attack Case Citing Cannabis-Induced Psychosis or Sleepwalking Defence",
+      "source": "Toronto Sun",
+      "title": "AI Used to Fabricate Evidence in Divorce and Custody Cases, Raising Legal Concerns",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/toronto-man-acquitted-in-cannabis-induced-choking-attack-on-young-girl",
-      "summary": "A Toronto man was acquitted in a case involving a choking attack on a young girl, with the defense successfully arguing that the accused was suffering from either cannabis-induced psychosis, sleepwalking, or a combination of both at the time of the incident. A psychiatrist's testimony supported this defence, leading to the acquittal in a case that highlights complex legal interpretations of intent and mental state under the influence of substances.",
-      "graph": ["Criminal Law", "Acquittal", "Mental Health Defence", "Cannabis Impairment", "Choking Attack", "Forensic Psychiatry"],
+      "url": "https://torontosun.com/life/relationships/ai-being-used-to-manipulate-divorce-custody-outcomes",
+      "summary": "Artificial intelligence is reportedly being exploited to manipulate legal outcomes in divorce and custody cases through the creation of falsified digital evidence. This includes deepfake audio, video, AI-generated photos, and edited messaging app conversations, presenting significant challenges to the integrity of judicial proceedings and potentially constituting fraudulent activity within family law.",
+      "graph": [
+        "AI Misuse",
+        "Legal Ethics",
+        "Family Law",
+        "Digital Evidence",
+        "Fraud"
+      ],
       "spectrum": {
-        "baseline": { "left": 30, "center": 40, "right": 30 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for a more nuanced understanding of mental health and substance influence in criminal justice, emphasizing rehabilitation and the need for support systems. Could raise concerns about the criminalization of individuals experiencing psychosis and the effectiveness of current drug policies." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the judicial process, the role of expert testimony in establishing mental state, and the legal standards for criminal responsibility, particularly in cases involving altered states of consciousness or substance-induced conditions. Emphasizes due process and the burden of proof." },
-          "right": { "label": "Conservative Context", "synthesis": "May express concern about the acquittal, questioning the perceived leniency of the justice system in cases involving violence and substance use. Advocates for stricter accountability for actions committed under the influence, potentially calling for reforms to ensure public safety and deter similar incidents." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A Toronto man was acquitted of charges related to a choking attack on a young girl, with the court accepting expert psychiatric testimony that he was suffering from cannabis-induced psychosis or sleepwalking during the incident."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Concerned about the ethical implications of AI misuse, potential for exacerbating power imbalances in legal disputes, and the need for robust legal protections for vulnerable parties."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focuses on the procedural challenges for courts in verifying digital evidence, the need for new evidentiary standards and forensic tools, and potential legislative responses to AI-generated fraud in legal contexts."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Emphasizes individual responsibility and the dangers of unregulated technological advancements. May advocate for stricter penalties for AI-assisted fraud and robust security measures."
+          }
+        },
+        "neutral": "Unified objective summary statement: The increasing use of AI to generate false digital evidence in divorce and custody cases poses a critical challenge to the legal system's ability to ensure fair and accurate judicial outcomes."
       }
     },
     {
-      "id": "toronto-woman-23-and-unknown-male-wanted-for-scarborough-distraction-robbery",
+      "id": "criminal-2",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Toronto Police Seek Suspects in Scarborough Distraction Robbery Case Involving Fake Chain Scam",
+      "source": "Slaw",
+      "title": "Quebec Superior Court Authorizes Creditor to Proceed with Judicial Sale Despite Debtor's Notice of Intent for Proposal",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/toronto-woman-23-and-unknown-male-wanted-for-scarborough-distraction-robbery",
-      "summary": "Toronto police are actively searching for a 23-year-old woman and an unidentified male in connection with a distraction robbery in Scarborough. The incident involved the female suspect placing a fake chain on the victim's neck while simultaneously stealing their personal chain. This report details an ongoing criminal investigation into a specific type of street crime.",
-      "graph": ["Robbery", "Distraction Theft", "Police Investigation", "Scarborough Crime", "Public Safety", "Criminal Suspects"],
+      "url": "https://www.slaw.ca/2026/09/20/summaries-sunday-soquij-645/",
+      "summary": "The Quebec Superior Court, exercising its discretionary power under Article 69.4 of the Bankruptcy and Insolvency Act, authorized a secured creditor to proceed with the judicial sale of a property, the debtor's main asset. The judgment permitting the sale was issued before the debtor filed a notice of intent to make a proposal. The court found that the creditor was suffering serious prejudice, having remained unpaid since September 2023 and incurring ongoing property-related expenses, while the debtor had not contested the initial civil action.",
+      "graph": [
+        "Bankruptcy Law",
+        "Insolvency",
+        "Secured Creditors",
+        "Quebec Civil Code",
+        "Judicial Sales"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May contextualize the crime within broader socio-economic issues, suggesting that underlying factors such as poverty or lack of opportunity contribute to such incidents. Calls for preventative social programs alongside law enforcement efforts." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports the facts of the police investigation, the nature of the crime, and the ongoing search for suspects. Focuses on the procedural aspects of law enforcement's response and public advisories related to crime prevention." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the need for strong law enforcement and decisive action against criminals to maintain public order and safety. Calls for increased police presence and stricter penalties to deter such predatory crimes." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Toronto police are seeking a 23-year-old woman and an unknown male in connection with a distraction robbery in Scarborough, where a fake chain was used to steal a victim's personal jewelry."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: May focus on debtor protection and ensuring fair processes for individuals or smaller entities facing financial distress, advocating for measures that prevent creditors from unduly seizing assets without adequate attempts at restructuring."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focuses on the impartial application of bankruptcy and insolvency laws, balancing creditor rights with debtor protections, and interpreting judicial discretion in complex financial situations according to established legal principles."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Emphasizes the importance of upholding contractual obligations and creditor rights, ensuring that legal processes facilitate efficient recovery for lenders and maintain confidence in the financial system."
+          }
+        },
+        "neutral": "Unified objective summary statement: The Quebec Superior Court granted a secured creditor permission to proceed with a judicial sale of a debtor's primary asset, ruling that the creditor faced significant prejudice under the Bankruptcy and Insolvency Act, despite the debtor's subsequent notice of intent to make a proposal."
       }
     },
     {
-      "id": "two-injured-toronto-stabbing-shots-fired-markham-home",
+      "id": "criminal-3",
       "category": "Criminal",
-      "source": "Toronto Sun",
-      "title": "Multiple Violent Incidents Reported: Two Injured in Toronto Stabbing, Shots Fired at Markham Residence",
+      "source": "Slaw",
+      "title": "Supreme Court of Canada Summaries Highlight Electoral Irregularities Ruling",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/two-injured-toronto-stabbing-shots-fired-markham-home",
-      "summary": "Multiple violent incidents occurred overnight, with two individuals sustaining injuries in a Toronto stabbing and a separate report of shots being fired at a residence in Markham. These events highlight ongoing concerns regarding urban crime and public safety in the Greater Toronto Area, prompting police investigations into both occurrences.",
-      "graph": ["Stabbing", "Shooting Incident", "Toronto Crime", "Markham Crime", "Public Safety", "Police Response", "Violent Crime"],
+      "url": "https://www.slaw.ca/2026/09/20/summaries-sunday-supreme-one-liners-47/",
+      "summary": "The Supreme Court of Canada's recent decisions include a ruling in Sinclair-Desgagné v. Canada (Chief Electoral Officer) (2026 SCC 31) concerning federal election irregularities and the annulment of results. These summaries provide concise guides to key developments from the country's highest court, indicating ongoing judicial oversight of public law matters.",
+      "graph": [
+        "Supreme Court of Canada",
+        "Electoral Law",
+        "Judicial Review",
+        "Public Law",
+        "Election Integrity"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May highlight the systemic causes of urban violence, such as poverty, lack of community resources, and mental health issues. Advocates for preventative measures, social support programs, and community-led initiatives to address the root causes of crime." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the details of the incidents as provided by law enforcement, focusing on victim injuries, ongoing investigations, and public safety advisories. Emphasizes the immediate police response and the procedural aspects of addressing violent crime." },
-          "right": { "label": "Conservative Context", "synthesis": "Stresses the need for robust law enforcement and visible police presence to combat rising urban violence. Calls for tougher penalties and proactive policing strategies to ensure public safety and restore order in affected communities." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Overnight, Toronto experienced a stabbing that injured two individuals, while a separate incident in Markham involved shots fired at a home, both currently under police investigation."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Analysis from left/social viewpoints: Advocates for robust mechanisms to ensure fair elections and address any systemic issues that could disenfranchise voters or undermine democratic processes."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analysis from neutral/judicial viewpoints: Focuses on the judicial interpretation and application of electoral laws, the maintenance of procedural fairness in elections, and the role of the Supreme Court in clarifying legal standards."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Analysis from decentralist/market viewpoints: Emphasizes the integrity of electoral outcomes, strict adherence to established legal procedures, and upholding the legitimacy of results against claims of irregularity."
+          }
+        },
+        "neutral": "Unified objective summary statement: The Supreme Court of Canada's recent rulings, as summarized in 'Supreme One-Liners,' include a notable decision on federal election irregularities and annulment, providing insight into the court's stance on electoral integrity."
       }
     }
   ],
