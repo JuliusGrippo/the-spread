@@ -1,353 +1,731 @@
 {
   "federalism": [
     {
-      "id": "parliamentary-session-carney-agenda",
+      "id": "fed-ns-uranium-01",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Parliamentary Session Commences with Ambitious Carney Government Agenda",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/carney-c39-parliament-analysis-9.7352875?cmp=rss",
-      "summary": "Prime Minister Mark Carney initiated a 'crucial session' of Parliament, unveiling an ambitious legislative agenda, including the 'Building Canada Strong Act.' This session is positioned as a decisive period for the government, facing issues like trade disputes with the U.S. and significant provincial political events.",
-      "graph": ["Federal Government", "Parliament", "Legislative Agenda", "Economic Policy", "International Relations", "Carney Government"],
+      "source": "The Narwhal",
+      "title": "Nova Scotia Uranium Moratorium Lifted Amid Public Concern and Federal Push",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/nova-scotia-uranium-mining-moratorium/?utm_source=rss",
+      "summary": "Nova Scotia repealed a 40-year ban on uranium exploration and mining in 2025, but a subsequent request for proposals received no applications. Local residents and councillors express ongoing concerns about environmental impacts and lack of community involvement. Despite industry disinterest in low-quality deposits and potential return of the ban, the provincial government, under Premier Tim Houston, supports uranium extraction for economic growth and clean energy, aligning with a federal push for nuclear energy capacity by 2050. Petitions for a permanent ban are circulating.",
+      "graph": [
+        "Resource Policy",
+        "Provincial Autonomy",
+        "Environmental Protection",
+        "Economic Development",
+        "Public Opinion"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely scrutinize the ambitious agenda for its social equity impacts, environmental protections, and fairness in economic policy, questioning how 'Building Canada Strong' aligns with inclusive growth or addresses inequalities exacerbated by current challenges." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral or procedural perspective would focus on the parliamentary process, the introduction and debate of Bill C-39, the government's strategic framing of the session, and the constitutional implications of intergovernmental relations mentioned, such as a potential Supreme Court ruling or provincial referendums." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative and decentralist viewpoints would emphasize fiscal responsibility, potential overreach of federal powers through 'Carney-nomics,' and the effectiveness of the government's approach to trade disputes. They might also highlight concerns about provincial autonomy regarding the 'notwithstanding clause' ruling or the Alberta referendum." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The article outlines the federal government's declared intent for a highly significant parliamentary session, focusing on new economic legislation and navigating complex domestic and international challenges."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the critical environmental risks of uranium mining and the importance of community input, critiquing government decisions that override local concerns and ecological safeguards for economic gain. Aligns with a cautious approach to resource development and a preference for long-term ecological sustainability over short-term economic boosts."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the provincial government's legislative actions to repeal the ban and subsequent call for proposals, noting the lack of industry response. Highlights the provincial government's stated rationale of balancing economic growth and safe resource extraction with public concern, seeking a middle ground between development and protection."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports the provincial government's initiative to lift the ban and pursue resource extraction as essential for economic growth and contributing to clean energy goals. Views the lack of industry response as a market signal rather than a policy failure, advocating for policies that reduce regulatory burdens and attract investment in key sectors like mining."
+          }
+        },
+        "neutral": "Nova Scotia's decision to lift a uranium mining ban has sparked ongoing local environmental concerns, despite a lack of industry interest in low-quality deposits; the province, however, maintains its commitment to resource development, aligning with federal nuclear energy objectives."
       }
     },
     {
-      "id": "liberals-bill-c39-project-approvals",
+      "id": "fed-bc-election-02",
       "category": "Federalism",
-      "source": "CBC News",
-      "title": "Liberals Table Bill to Expedite Major Project Approvals and Address Labour Disputes",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/liberals-table-major-projects-bill-9.7352890?cmp=rss",
-      "summary": "The Carney government has introduced Bill C-39, the 'Building Canada Strong Act,' designed to fast-track major project approvals by reducing review times and establishing 'regions of national interest.' The bill also proposes significant changes to collective bargaining processes, aiming to enhance federal mediation and minimize labour disruptions.",
-      "graph": ["Legislative Reform", "Infrastructure", "Economic Development", "Labour Relations", "Environmental Assessment", "Federal Policy"],
+      "source": "The Narwhal",
+      "title": "British Columbia Premier Eby Calls Snap Election Citing U.S. Trade Threats",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thenarwhal.ca/bc-snap-election-david-eby/?utm_source=rss",
+      "summary": "British Columbia Premier David Eby has called a snap provincial election for October 24, two years ahead of schedule. He justifies this decision by citing economic threats from U.S. President Donald Trump and internal disarray within the provincial Conservative opposition. The move is criticized for its timing, coinciding with municipal elections, and is expected to disrupt legislative work, including potential delays for Indigenous treaty enactments and DRIPA amendments. Political analysts view it as a calculated risk, reminiscent of former Premier Horgan's successful snap election during the COVID-19 pandemic.",
+      "graph": [
+        "Provincial Politics",
+        "Electoral Strategy",
+        "Intergovernmental Relations",
+        "Economic Stability",
+        "Indigenous Legislation"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive groups would likely express concern over the potential weakening of environmental assessments and Indigenous rights consultations due to expedited project approvals, viewing it as a rollback of protections for the sake of corporate interests. Labour changes might be scrutinized for their impact on workers' collective bargaining power." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the procedural mechanisms introduced by Bill C-39 for streamlining regulatory processes and dispute resolution. It would assess the proposed changes in terms of their efficiency, clarity, and adherence to legal frameworks, noting the transfer of review responsibilities to specialized agencies." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative and business interests would largely welcome the bill as a necessary step to boost economic growth, reduce regulatory burdens, and attract investment, particularly in the energy sector. They would view the streamlining of project approvals and labour reforms as positive measures for market efficiency and competitiveness." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The federal government has tabled omnibus legislation, Bill C-39, intended to accelerate approvals for major infrastructure projects and modify federal labour code provisions to mitigate industrial disputes."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Supports Eby's strategic call to counter 'Trump-style politics' and protect B.C. from external economic threats. Acknowledges the potential disruption to legislative work, including Indigenous rights advancements, but may view the broader political stability as a necessary step for progressive governance and standing firm against right-wing populism."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the snap election as a calculated political maneuver by Premier Eby to capitalize on a disarrayed opposition and a perceived external threat. Evaluates the timing, potential costs, and the disruption to governance, including the delay of important legislation, from a neutral perspective on electoral strategy and governmental process."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Criticizes the snap election as opportunistic and a waste of public funds, particularly given its overlap with municipal elections. Questions the legitimacy of the 'Trump threat' as a primary justification, viewing it as a pretext for Eby to consolidate power. Emphasizes the disruption to governmental work and the burden on taxpayers."
+          }
+        },
+        "neutral": "British Columbia Premier David Eby has initiated a snap provincial election for October 24, citing U.S. trade threats and opposition disarray as justifications, a move garnering criticism for its timing and potential impact on legislative processes, including Indigenous treaty work."
       }
     },
     {
-      "id": "canada-uk-defence-initiatives",
+      "id": "fed-carney-mandate-03",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Canada and UK Explore Merging Defence Financial Initiatives Against Russian Threats",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canada-uk-considering-merging-financial-initiatives-to-rearm-9.7352337?cmp=rss",
-      "summary": "Canadian and British officials are discussing the consolidation of two separate multinational defence initiatives, Canada's Defence, Security and Resilience Bank (DSRB) and the UK's Multilateral Defence Mechanism. The merger aims to pool resources to finance defence companies, scale up production, and collectively rearm allies against Russia and other global threats.",
-      "graph": ["International Relations", "Defence Policy", "NATO", "Economic Diplomacy", "Russia", "United Kingdom"],
+      "title": "PM Carney Defends Mandate for Major Economic and Project Approval Reforms",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-bill-c-39-major-projects-labour-code-strikes-9.7354381?cmp=rss",
+      "summary": "Prime Minister Mark Carney is defending his government's 'clear mandate' to enact significant economic changes, including streamlining federal project approvals and amending the Labour Code, as part of Bill C-39. Despite criticism from various sectors, Carney asserts these measures are essential to 'build Canada strong' and counter U.S. economic threats. The omnibus bill aims to establish a one-year timeline for federal project reviews, moving responsibility from Impact Assessment Agency to Canada Energy Regulator, and allows the Labour Minister to intervene in strikes impacting national interest.",
+      "graph": [
+        "Federal Policy",
+        "Economic Development",
+        "Infrastructure Projects",
+        "Regulatory Reform",
+        "Political Mandate"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives might question the allocation of significant financial resources to military rearmament, advocating instead for diplomatic solutions, conflict prevention, and investment in social programs. Concerns could also be raised about the transparency and oversight of such a merged financial institution." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the practicalities of merging two distinct financial mechanisms, evaluating the proposed governance structures, funding models, and the logistical challenges of coordinating international defence financing. It would assess the strategic rationale for increased defence spending in the current geopolitical climate." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative and national security advocates would likely strongly support the merger as a pragmatic and necessary step to strengthen Western defence capabilities against perceived threats, particularly from Russia. They would emphasize the importance of alliance cohesion and increased military spending to meet NATO targets and deter aggression." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canada and the UK are considering combining their respective defence financial initiatives to enhance collective rearmament efforts among allies in response to evolving international security challenges."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Raises concerns about potential environmental impacts due to fast-tracked project approvals and the erosion of workers' rights through increased government intervention in strikes. Advocates for thorough impact assessments and robust labour protections, questioning whether the 'national interest' justification disproportionately benefits corporations over communities and workers."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the Prime Minister's assertion of a clear mandate for economic and regulatory reforms, focusing on the mechanics of Bill C-39 and its intended effects. Analyzes the shift in project review responsibility and the proposed changes to the Labour Code as attempts to improve efficiency and stability, while acknowledging the criticisms raised by various stakeholders."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly supports the government's efforts to streamline project approvals and foster economic development, particularly in response to U.S. economic threats. Advocates for reducing bureaucratic red tape and ensuring labour peace to attract investment and create jobs, aligning with a pro-business and national interest-driven economic agenda."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney defends his government's mandate for major economic changes, including streamlining project approvals and Labour Code amendments via Bill C-39, asserting these are crucial for Canadian economic strength against U.S. threats, despite ongoing criticism."
       }
     },
     {
-      "id": "carney-multilateralism-initiative",
+      "id": "fed-india-trade-04",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Indian PM Modi Expected in Canada for Year-End Trade Deal Finalization",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/modi-canada-trade-deal-visit-9.7354352?cmp=rss",
+      "summary": "Indian Prime Minister Narendra Modi is slated to visit Canada in December, signaling a significant warming of bilateral relations, as Prime Minister Mark Carney aims to finalize a trade deal by year-end. This development follows a period of diplomatic strain due to Canadian accusations of Indian government involvement in the 2023 murder of Sikh activist Hardeep Singh Nijjar. Carney's government is pushing to repair ties and diversify economic reliance away from the U.S., with a trade deal potentially doubling Canada-India trade to $70 billion, alongside ongoing cooperation on security.",
+      "graph": [
+        "International Trade",
+        "Diplomatic Relations",
+        "Economic Diversification",
+        "National Security",
+        "Geopolitics"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Expresses concern that the pursuit of trade deals may compromise Canadian values regarding human rights and justice, especially given past accusations of Indian government involvement in a Canadian citizen's murder. Advocates for transparency and accountability in international relations, ensuring that economic interests do not overshadow commitments to human rights and national security investigations."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the diplomatic efforts to repair Canada-India relations and finalize a trade deal, noting the strategic objective of economic diversification away from the U.S. Presents the progress on trade negotiations and the upcoming visit as a complex balancing act between economic opportunities and addressing national security concerns, including transnational repression."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly supports the finalization of a trade deal with India as a critical step for Canada's economic growth and diversification. Prioritizes national economic interests and strategic partnerships, viewing the repair of diplomatic relations as essential for expanding market access and reducing reliance on the U.S. while ensuring national security through intelligence cooperation."
+          }
+        },
+        "neutral": "Indian Prime Minister Narendra Modi is expected to visit Canada in December to finalize a trade deal, a move signaling improved diplomatic relations despite past tensions over the murder of a Sikh activist, as Canada seeks to diversify economic ties away from the U.S."
+      }
+    },
+    {
+      "id": "fed-sask-potash-05",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Saskatchewan Premier Moe Welcomes Trump's Recommitment to Canadian Potash Imports",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/premier-not-surprised-that-president-donald-trump-now-says-u-s-will-continue-with-canadian-potash-9.7354418?cmp=rss",
+      "summary": "Saskatchewan Premier Scott Moe expressed little surprise at U.S. President Donald Trump's apparent pivot back to Canadian potash, after Trump initially mused about a 'massive Deal' with Belarus over Canada. Moe deemed Trump's Belarusian potash plan 'never realistic,' citing that Belarus primarily ships potash east and its product is 'blood potash' due to its support for Russian aggression. Canada, particularly Saskatchewan, is a major global potash producer, and Moe emphasizes its ethical and reliable supply, positioning it as superior to other international exporters.",
+      "graph": [
+        "International Trade",
+        "Natural Resources",
+        "Provincial Interests",
+        "Geopolitics",
+        "Economic Diplomacy"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Highlights the ethical dimension of trade, supporting Premier Moe's condemnation of 'blood potash' and advocating for supply chain transparency aligned with international human rights and geopolitical accountability. Emphasizes responsible resource extraction and trade practices."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the interplay between provincial and international politics concerning a key Canadian export. Analyzes the shifting statements from the U.S. President and the firm response from Saskatchewan, focusing on the reliability and ethical standing of Canadian supply within the global market context."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Applauds Premier Moe's strong defense of Saskatchewan's potash industry as an ethical and reliable supplier, directly challenging foreign competitors and reaffirming Canada's economic sovereignty. Views Trump's eventual pivot as a recognition of Canada's vital role in U.S. agricultural security, reinforcing the importance of domestic resource strength."
+          }
+        },
+        "neutral": "Saskatchewan Premier Scott Moe expressed unsurprise and welcomed U.S. President Trump's recommitment to Canadian potash, after Trump previously considered Belarusian potash, which Moe criticized as 'blood potash' due to its ties to Russian aggression, emphasizing Canada's ethical and reliable supply."
+      }
+    },
+    {
+      "id": "fed-palestine-aid-06",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Canada Pledges $100 Million Aid to Palestine, Advocates Two-State Solution",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/carney-gaza-aid-israel-west-bank-9.7354263?cmp=rss",
+      "summary": "Prime Minister Mark Carney announced a new $100 million aid package for Palestine at the United Nations General Assembly, with $80 million designated for humanitarian aid and the remainder for security initiatives, including West Bank police training. This pledge, part of over $600 million committed since October 2023, aims to preserve the 'possibility of a two-state solution.' Carney also criticized Israel's planned E1 settlement and reiterated Canada's ban on goods from 'illegal Israeli settlements,' amidst reports of damage to Canadian-funded aid projects by Israeli military and settlers.",
+      "graph": [
+        "Foreign Policy",
+        "Humanitarian Aid",
+        "Middle East Conflict",
+        "Diplomacy",
+        "International Law"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Strongly supports increased humanitarian aid and critical statements against Israeli settlement expansion as vital steps towards upholding international law and justice for Palestinians. Advocates for a more robust and consistent Canadian foreign policy that prioritizes human rights and the pursuit of a viable two-state solution, even if it means challenging allies."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on Canada's announced aid package and diplomatic statements at the UN General Assembly, framing them as part of a strategy to maintain a balanced approach in the Israeli-Palestinian conflict and preserve a two-state solution. Notes the allocation of funds to humanitarian and security initiatives, and the diplomatic criticism of settlement activities, without taking a definitive side."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Questions the effectiveness and geopolitical implications of substantial aid to Palestine, particularly the training of West Bank police, in the context of regional instability and existential threats to Israel. Calls for caution in Canadian foreign policy, emphasizing strategic alliances and ensuring aid does not inadvertently support destabilizing actors or undermine Israel's security."
+          }
+        },
+        "neutral": "Canada has pledged $100 million in new aid for Palestine, largely for humanitarian and West Bank security initiatives, with Prime Minister Mark Carney advocating for a two-state solution and criticizing Israeli settlement expansion at the United Nations General Assembly."
+      }
+    },
+    {
+      "id": "fed-airport-privatization-07",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Carney Launches 'Partners for Multilateralism' Initiative with World Leaders",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-carney-world-leaders-partners-for-multilateralism/",
-      "summary": "Prime Minister Mark Carney, alongside other global leaders, has launched the 'Partners for Multilateralism' initiative. This effort seeks to support the reform of the United Nations and address the challenges of an increasingly fragmented and polarized world, aiming to foster greater international cooperation.",
-      "graph": ["International Diplomacy", "Multilateralism", "United Nations Reform", "Global Governance", "Canadian Foreign Policy"],
+      "title": "NDP Leader Lewis Criticizes Airport Privatization Plans, Citing Potential Cost Increases",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/video-privatizing-airports-will-increase-costs-says-ndp-leader-lewis/",
+      "summary": "NDP Leader Avi Lewis has criticized the federal government's plans to sell operating stakes in airports, arguing that such privatization will inevitably lead to increased costs for Canadians. Lewis labeled the government's avoidance of the term 'privatization' as 'disingenuous,' emphasizing the public interest in maintaining affordable and accessible air travel infrastructure. This stance highlights a key ideological division regarding the role of government versus private enterprise in managing essential public services and infrastructure.",
+      "graph": [
+        "Public Policy",
+        "Infrastructure",
+        "Privatization",
+        "Economic Impact",
+        "Political Opposition"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would likely welcome efforts towards strengthening multilateral institutions, emphasizing the importance of international cooperation on global challenges like climate change, poverty, and human rights, while also pushing for more equitable and inclusive UN reform." },
-          "center": "Procedural Context",
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might view such initiatives with a degree of skepticism, prioritizing national interests and sovereignty over broad multilateral commitments. They might question the efficacy of UN reforms and the financial commitments involved, advocating for a more pragmatic, results-oriented approach to international engagement." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canada's Prime Minister has spearheaded a new international initiative to bolster multilateral cooperation and support reforms within the United Nations to navigate a more complex global landscape."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Strongly supports public ownership of critical infrastructure like airports, arguing that privatization leads to higher costs for consumers and reduced public accountability. Aligns with the belief that essential services should prioritize public good over private profit, advocating for government's role in ensuring affordability and accessibility."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the political debate surrounding airport privatization, outlining the NDP's critique of potential cost increases and the government's framing of the initiative. Analyzes the differing perspectives on economic efficiency versus public interest in managing key infrastructure assets, without endorsing either side."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Advocates for private sector involvement in infrastructure, arguing that it brings efficiency, innovation, and reduced burden on taxpayers. Disagrees with the NDP's claims of inevitable cost increases, suggesting that market competition and private management can lead to better services and potentially lower costs through optimized operations."
+          }
+        },
+        "neutral": "NDP Leader Avi Lewis has criticized the federal government's plans to privatize airport operating stakes, asserting it will increase costs for Canadians and calling the government's language disingenuous, highlighting a fundamental disagreement on public versus private infrastructure management."
       }
     },
     {
-      "id": "fuel-excise-tax-suspension",
+      "id": "fed-alberta-referendum-08",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Federal Legislation Proposes Fuel Excise Tax Pause Until January",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12068450/fuel-excise-tax-suspension-january/",
-      "summary": "New federal legislation proposes to suspend the fuel excise tax until January. This measure is a response to elevated fuel prices, which have persisted since March due to the U.S. war on Iran and the closure of the Strait of Hormuz, impacting Canadian consumers.",
-      "graph": ["Economic Policy", "Taxation", "Energy Prices", "Consumer Impact", "International Conflict", "Federal Legislation"],
+      "title": "Foreign Influence Watchdog Monitors Alberta Referendum for External Interference",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12069878/foreign-influence-watchdog-aware-of-concerns-alberta-referendum/",
+      "summary": "Canada's new foreign influence commissioner is monitoring concerns regarding external influence on an upcoming Alberta referendum. The watchdog emphasized that individuals acting on behalf of foreign nations to sway the provincial referendum question must register under new federal legislation or face penalties. This highlights federal efforts to safeguard democratic processes from undue foreign interference, extending to provincial political events and underscoring the legal obligations for foreign agents.",
+      "graph": [
+        "Electoral Integrity",
+        "Foreign Interference",
+        "Federal Oversight",
+        "Provincial Referendum",
+        "National Security"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis might argue for more targeted relief for low-income households, potentially criticizing the broad tax pause as benefiting corporations more than average citizens. They might also call for long-term strategies to reduce reliance on fossil fuels, rather than short-term tax adjustments." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would assess the temporary tax pause as a government's economic intervention designed to mitigate the immediate impact of global energy price shocks on consumers. It would focus on the legislative process, the scope of the suspension, and its intended economic effects and duration." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would generally welcome tax relief measures, particularly those aimed at reducing costs for consumers and businesses. They might advocate for more permanent tax reductions and deregulation to foster economic stability, while potentially criticizing the government for not anticipating or preventing the economic impact of international events." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Federal legislation has been introduced to temporarily suspend the fuel excise tax, an economic measure intended to alleviate the burden of increased fuel costs on Canadians driven by international geopolitical events."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Strongly supports federal measures to counter foreign interference in democratic processes, viewing it as essential for protecting the integrity of elections and referendums. Emphasizes transparency and accountability for any foreign-backed activities, advocating for robust mechanisms to safeguard Canadian democracy from external manipulation."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the foreign influence watchdog's role in monitoring a provincial referendum, detailing the legal requirements for foreign agents under new federal legislation. Focuses on the objective of safeguarding democratic processes and the operational aspects of enforcing compliance, navigating the federal-provincial implications."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports national security efforts to counter foreign interference but may raise concerns about federal overreach into provincial political affairs. Emphasizes the importance of provincial autonomy in its democratic processes while acknowledging the need for vigilance against genuine foreign threats. Could question the scope or application of federal legislation."
+          }
+        },
+        "neutral": "Canada's foreign influence watchdog is actively monitoring an upcoming Alberta referendum for signs of external interference, reminding individuals acting on behalf of foreign nations of new federal registration requirements and potential penalties to safeguard democratic integrity."
       }
     },
     {
-      "id": "us-tariffs-canadian-artists",
+      "id": "fed-carney-reform-09",
       "category": "Federalism",
-      "source": "Global News",
-      "title": "Canadian Artists Confront U.S. Tariffs, Seek New Markets Amid Trade War",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12063663/canadian-artists-us-tariffs-trade-war/",
-      "summary": "Canadian artists are experiencing significant challenges due to newly imposed 50 percent tariffs on Canadian visual arts, crafts, and natural materials by the U.S. government. This trade barrier, part of a broader Canada-U.S. trade dispute, is forcing artists to re-evaluate their market strategies, with some finding new buyers in Canada and Europe, while others adapt by incorporating political commentary into their work.",
-      "graph": ["Trade War", "U.S. Tariffs", "Canadian Economy", "Cultural Sector", "International Trade", "Government Response"],
+      "source": "The Globe and Mail",
+      "title": "Carney Government Refocuses on Systemic Policy Reforms for Economic Growth",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/politics/opinion/article-mark-carney-gets-to-work-on-the-plumbing/",
+      "summary": "This opinion piece highlights Prime Minister Mark Carney's government's shift towards fundamental policy reforms ('the plumbing') to enhance Canada's economic infrastructure. Unlike previous measures that provided quick fixes, the current legislative agenda, exemplified by Bill C-39, aims to revamp systems for faster major project approvals and establish labour peace. This approach indicates a long-term strategy to build a more resilient and efficient economy, addressing underlying issues rather than just immediate symptoms.",
+      "graph": [
+        "Economic Policy",
+        "Government Reform",
+        "Infrastructure Development",
+        "Regulatory Efficiency",
+        "Legislative Strategy"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might highlight the vulnerability of cultural industries to trade disputes and advocate for stronger government support or subsidies for artists. They might also criticize the broader trade policies that lead to such retaliatory measures, emphasizing the need for fair trade and cultural protection." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the economic impact of the tariffs on the Canadian art market, the specific details of the tariff regime, and the adaptability of Canadian artists. It would also cover the ongoing trade negotiations between Canada and the U.S. and the efforts to mitigate the tariffs' effects." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative and market-oriented views might emphasize the need for Canadian artists and businesses to innovate and find new markets in response to trade challenges. They might criticize the overall trade relationship management, advocating for policies that ensure stronger access to international markets or reduce reliance on a single trading partner." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canadian artists are adapting their business models and seeking alternative markets as they face substantial U.S. tariffs on their works, a consequence of ongoing trade tensions between Canada and the United States."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "While recognizing the need for systemic improvement, may scrutinize whether reforms prioritize corporate interests over environmental protection and social equity. Calls for 'plumbing' that includes robust social safety nets and climate action, ensuring long-term sustainability rather than solely economic efficiency for capital projects."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the shift in government strategy towards foundational policy reforms as a pragmatic response to economic challenges and previous inefficiencies. Evaluates Bill C-39 as an attempt to create a more streamlined and predictable environment for economic activity, balancing governmental ambition with practical implementation concerns."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Applauds the government's focus on systemic reforms to boost economic infrastructure and efficiency, particularly through faster project approvals and establishing labour peace. Advocates for deregulation and a more business-friendly environment, aligning with the view that addressing foundational economic issues will unlock private sector investment and growth."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney's government is shifting towards systemic policy reforms, exemplified by Bill C-39, to enhance Canada's economic infrastructure through faster project approvals and labour stability, reflecting a long-term strategy to build a more resilient and efficient economy."
       }
     },
     {
-      "id": "carney-rules-out-digital-tax-cancon-levy",
+      "id": "fed-greatlakes-trade-10",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Carney Rejects Revival of Digital Services Tax and Streaming CanCon Levy After U.S. Trade Talks Collapse",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/22/carney-rules-out-reviving-digital-services-tax-and-streaming-cancon-levy-after-u-s-trade-talks-collapse/",
-      "summary": "Prime Minister Mark Carney has confirmed the federal government will not reinstate the digital services tax or the 15 percent Canadian content (CanCon) levy on streaming services, despite the collapse of trade talks with the U.S. These measures were initially shelved to facilitate negotiations, and Carney now attributes the failure of talks to American resistance to protecting French language and Canadian culture.",
-      "graph": ["Digital Taxation", "Cultural Policy", "Trade Negotiations", "Canada-US Relations", "Streaming Services", "Federal Policy"],
+      "source": "Toronto Sun",
+      "title": "Great Lakes Mayors Urge End to Canada-U.S. Trade War",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://torontosun.com/news/national/american-canadian-great-lakes-mayors-call-for-end-of-trade-war",
+      "summary": "Mayors from Canadian and American cities around the Great Lakes have collectively called for an end to the escalating trade war between their respective countries. In a joint letter, they appealed to leaders to 'Keep talking. Avoid further escalation. Return to the negotiating table and work toward a lasting agreement.' This cross-border municipal advocacy highlights the localized economic and social impacts of national trade policies and emphasizes the importance of stable bilateral relations for regional prosperity.",
+      "graph": [
+        "International Trade",
+        "Intergovernmental Relations",
+        "Economic Diplomacy",
+        "Cross-Border Cooperation",
+        "Local Government Advocacy"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive and cultural nationalist groups would likely criticize the government's decision as a capitulation to U.S. pressure, arguing that it undermines Canadian cultural industries and allows large tech companies to avoid contributing fairly to the national economy and culture. They would advocate for stronger measures to protect Canadian cultural sovereignty." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the policy implications of the decision, noting the government's strategic choices during trade negotiations and the economic consequences of foregoing potential revenue streams. It would assess the long-term impact on the Canadian cultural sector and the digital economy in the absence of these levies." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might critique the initial pursuit of these taxes as creating unnecessary trade friction and welcome the decision not to revive them as a pragmatic step to avoid further economic damage, even if trade talks failed. They might prioritize a stable economic relationship with the U.S. over specific cultural protectionist measures." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The Prime Minister has affirmed that federal plans for a digital services tax and a streaming Canadian content levy will not be reintroduced, despite the breakdown of Canada-U.S. trade negotiations, citing American intransigence on cultural protections."
-      }
-    },
-    {
-      "id": "macklem-warns-us-tariffs-growth",
-      "category": "Federalism",
-      "source": "The Hub",
-      "title": "Bank of Canada Warns U.S. Tariffs Could Halve Fourth-Quarter Growth",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/22/macklem-warns-latest-u-s-tariffs-could-halve-canadas-fourth-quarter-growth/",
-      "summary": "Bank of Canada Governor Tiff Macklem has cautioned that the latest round of U.S. tariffs, affecting approximately $28 billion worth of Canadian goods, could reduce Canada's fourth-quarter economic growth rate by half, potentially falling below one percent, if they remain in effect. This warning highlights the fragility of Canada's economic rebound and the central bank's limited capacity to shield the economy from unpredictable U.S. trade actions, amidst rising oil prices and inflation risks.",
-      "graph": ["Economic Forecast", "U.S. Tariffs", "Trade War", "Monetary Policy", "GDP Growth", "Inflation"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive voices would likely call for greater government intervention and support for affected industries and workers, criticizing reliance on market mechanisms alone. They might advocate for diversification away from U.S. trade and investment in domestic, green industries to build resilience against external shocks." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral assessment would analyze the technical economic projections provided by the Bank of Canada, focusing on the quantitative impact of tariffs on GDP and inflation. It would also consider the policy dilemma faced by the central bank in balancing growth-supportive measures against inflationary pressures." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative commentators might use this warning to criticize the federal government's trade negotiation strategy and its overall economic management. They would likely advocate for stronger fiscal discipline, reduced government spending, and policies that enhance market competitiveness to better withstand external economic pressures." }
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Supports the mayors' call for de-escalation, emphasizing the negative impacts of trade disputes on local communities and workers. Advocates for diplomacy and fair trade practices that prioritize social well-being and environmental sustainability over protectionist measures, fostering cross-border solidarity."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the bi-national municipal plea for diplomatic resolution to the trade war, analyzing the collective action as a mechanism for local governments to influence national policy. Highlights the pragmatic need for stable trade relations to ensure regional economic continuity and cooperation across the Great Lakes region."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports the call for an end to the trade war, aligning with principles of free trade and open markets to bolster economic activity. Critiques protectionist policies that disrupt commerce and advocates for national leaders to prioritize amicable trade relations for the benefit of businesses and consumers on both sides of the border."
+          }
         },
-        "neutral": "The Bank of Canada Governor has issued a warning that recent U.S. tariffs on Canadian goods pose a significant risk to the nation's economic growth, potentially halving it in the fourth quarter, and complicating the central bank's policy responses."
+        "neutral": "Mayors from Canadian and American Great Lakes cities have jointly urged an end to the escalating trade war between their nations, advocating for renewed negotiations to secure a lasting agreement and mitigate the localized economic and social impacts of national trade policies."
       }
     }
   ],
   "charter": [
     {
-      "id": "dying-woman-flees-canada-maid-pamphlet",
+      "id": "charter-labour-01",
       "category": "Charter",
-      "source": "Toronto Sun",
-      "title": "Woman Cites MAID Concerns for Fleeing Canada to U.S.",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/world/dying-woman-flees-canada-for-u-s-given-maid-pamphlet",
-      "summary": "A 'dying' woman claims she fled Canada for the U.S. after being offered a Medical Assistance in Dying (MAID) pamphlet during her medical care, describing the situation as 'dystopian.' This personal account highlights ongoing public debate and concerns regarding the application and accessibility of MAID in Canada, particularly for vulnerable individuals seeking alternative care.",
-      "graph": ["Medical Assistance in Dying", "Healthcare Policy", "Patient Rights", "Bodily Autonomy", "Ethics", "Disability Rights"],
+      "source": "CBC News",
+      "title": "Labour Code Amendment on Strike Intervention Faces Constitutional Challenges",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/section-107-union-court-right-to-strike-9.7355344?cmp=rss",
+      "summary": "The Liberal government is proposing changes to Section 107 of the Canada Labour Code, aiming to 'protect' the right to strike by requiring the minister to declare an 'adverse effect on national interest' and consider a special mediator's report before intervening in work stoppages. However, legal experts and the Canadian Labour Congress warn that these amendments, introduced in Bill C-39, are unlikely to prevent further court challenges, potentially reaching the Supreme Court, over the constitutionality of government intervention in strikes, which unions argue infringes on Charter rights.",
+      "graph": [
+        "Labour Law",
+        "Right to Strike",
+        "Constitutional Law",
+        "Government Intervention",
+        "Industrial Relations"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive advocates might highlight the need for robust support systems, palliative care access, and non-MAID options to ensure individuals don't feel pressured into MAID. They could argue for greater oversight to protect vulnerable populations and address systemic healthcare gaps that might lead individuals to consider MAID without adequate alternatives." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the legal framework of MAID, the guidelines for its offering and discussion with patients, and the objective assessment of available support services. It would consider how such incidents reflect on the implementation of MAID policy and the importance of clear communication with patients." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative and religious viewpoints often raise ethical and moral objections to MAID, particularly its expansion or perceived over-promotion. They might argue that this case exemplifies a 'dystopian' trend where MAID is too readily suggested, potentially devaluing life and undermining the sanctity of life principles." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A woman's decision to leave Canada for the U.S., reportedly after being offered MAID literature, brings renewed attention to the ethical and practical implementation of Canada's Medical Assistance in Dying legislation."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Strongly criticizes the proposed Labour Code changes as an infringement on fundamental Charter rights, specifically the right to strike. Views government intervention in 'national interest' as a tool to suppress workers' collective bargaining power, advocating for stronger protections for unions and labour freedoms without ministerial override."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the proposed amendments to Section 107 and the government's rationale to 'protect' the right to strike while defining parameters for intervention. Analyzes legal experts' predictions of constitutional challenges, focusing on the interpretation of Charter rights in relation to industrial peace and the role of the Supreme Court in clarifying these boundaries."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports government's right to intervene in strikes deemed against the 'national interest' to maintain economic stability and essential services. Views the amendments as a necessary 'guardrail' to limit disruptive labour actions, prioritizing the broader economy and public welfare over what may be perceived as excessive union power."
+          }
+        },
+        "neutral": "The Liberal government's proposed amendments to Section 107 of the Canada Labour Code, intended to regulate ministerial intervention in strikes, are being challenged by legal experts and unions who argue the changes may still violate Charter rights, potentially leading to Supreme Court review."
       }
     }
   ],
   "indigenous": [
     {
-      "id": "salish-woolly-dog-pelt-returns-bc",
+      "id": "indigenous-afn-projects-01",
       "category": "Indigenous",
-      "source": "The Narwhal",
-      "title": "Salish Woolly Dog Pelt Returns to British Columbia for Exhibition",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://thenarwhal.ca/salish-woolly-dog-pelt-bc/?utm_source=rss",
-      "summary": "The only known pelt of the now-extinct Salish woolly dog, named Mutton, has returned to British Columbia from the Smithsonian Institution for a temporary exhibition at the Museum of Anthropology in Vancouver. This repatriation marks an emotional and historically significant event for Coast and Interior Salish nations, who bred these dogs for thousands of years for their wool, affirming their cultural legacy.",
-      "graph": ["Indigenous Culture", "Repatriation", "Cultural Heritage", "First Nations", "Museums", "Conservation"],
+      "source": "CBC News",
+      "title": "AFN National Chief Warns Against Rapid Passage of Federal Major Projects Bill",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/afn-chief-major-projects-9.7353965?cmp=rss",
+      "summary": "The Assembly of First Nations (AFN) National Chief, Cindy Woodhouse Nepinak, has cautioned Prime Minister Mark Carney against using his majority government to hastily pass Bill C-39, the 'Building Canada Strong Act.' She argues that the bill, which streamlines approvals for major infrastructure projects by shifting review responsibilities, could undermine First Nations rights and dishonour the Crown if meaningful consultation and amendments are not allowed. Federal ministers contend the legislation is crucial for speeding up development and boosting employment amidst a changing trade landscape with the United States.",
+      "graph": [
+        "Indigenous Rights",
+        "Consultation",
+        "Infrastructure Development",
+        "Federal Legislation",
+        "Resource Governance"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive views emphasize the importance of cultural repatriation and reconciliation, seeing the return of the pelt as a step towards justice and recognition of Indigenous knowledge and heritage. They would highlight the ongoing need for decolonization efforts within cultural institutions and support Indigenous-led initiatives." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the logistical and curatorial aspects of the pelt's loan, the collaboration between institutions (Smithsonian, Museum of Anthropology, First Nations), and the historical and scientific significance of the artifact. It would detail the educational and public engagement opportunities presented by the exhibition." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might appreciate the preservation of historical artifacts and the educational value for the broader public. While supporting cultural initiatives, some might emphasize the practicalities of museum collection management, balancing access with conservation and potentially questioning the costs or precedence of repatriation efforts." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A significant act of cultural repatriation sees the return of the sole remaining Salish woolly dog pelt to British Columbia, offering a unique opportunity for Indigenous communities to reconnect with their ancestral heritage."
-      }
-    },
-    {
-      "id": "ottawa-trans-mountain-indigenous-equity",
-      "category": "Indigenous",
-      "source": "The Globe and Mail",
-      "title": "Ottawa Offers Indigenous Groups 15% Equity Stake in Trans Mountain Pipeline",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-ottawa-offers-first-nations-15-equity-stake-in-trans-mountain-pipeline/",
-      "summary": "The federal government has offered Indigenous groups along the Trans Mountain pipeline route a combined 15% equity stake in the project. Each First Nation involved was also offered a $2.5-million payment upon formally committing to invest, signaling a move towards greater Indigenous economic participation in major resource projects.",
-      "graph": ["Indigenous Economic Development", "Trans Mountain Pipeline", "First Nations", "Resource Projects", "Reconciliation", "Equity Ownership"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might see this as a positive step towards economic reconciliation, but also raise questions about whether true self-determination and environmental concerns are fully addressed when Indigenous communities are offered stakes in fossil fuel projects. They might advocate for more fundamental shifts in resource governance and benefits sharing." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the mechanics of the equity offer, the process of engagement with Indigenous groups, and the financial implications for both the government and the First Nations involved. It would assess the offer's alignment with government reconciliation goals and economic development strategies for Indigenous communities." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely support Indigenous participation in resource projects as a path to economic empowerment and self-sufficiency, aligning with market principles. They might view this offer as a pragmatic solution to advance infrastructure projects while also fostering Indigenous prosperity, potentially critiquing any delays or complexities in reaching such agreements." }
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Strongly supports the AFN's call for meaningful consultation and upholding Indigenous rights, emphasizing that fast-tracking projects without consent violates reconciliation principles and could lead to environmental and social injustice. Views the bill as potentially undermining UNDRIP and prior commitments to Indigenous self-determination."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the AFN's concerns regarding the legislative process for Bill C-39, balancing Indigenous rights and the government's stated goals of economic development. Analyzes the tension between regulatory efficiency and the Crown's duty to consult, highlighting the need for a robust and inclusive legislative review process."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Prioritizes economic development and streamlined project approvals to enhance national prosperity, viewing the government's legislative efforts as necessary to reduce bureaucratic delays. Acknowledges the need for consultation but may prioritize the efficient deployment of major projects, emphasizing the economic benefits for all Canadians, including Indigenous communities."
+          }
         },
-        "neutral": "The federal government has proposed a 15% equity ownership to Indigenous communities along the Trans Mountain pipeline, coupled with upfront payments, to foster economic inclusion in the major energy project."
+        "neutral": "The AFN National Chief has warned Prime Minister Carney against quickly passing Bill C-39, arguing that its provisions for streamlining major project approvals could undermine First Nations rights and consultation duties, despite the government's aim to boost economic development and employment."
       }
     }
   ],
   "criminal": [
     {
-      "id": "bc-lawsuit-openai-tumbler-ridge",
-      "category": "Criminal",
-      "source": "Global News",
-      "title": "B.C. Government Sues OpenAI Over Tumbler Ridge 'Failure' Tied to Shooting",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12067162/bc-government-update-openai-legal-action-tumbler-ridge-shooting/",
-      "summary": "The British Columbia government has filed a lawsuit against OpenAI, alleging a 'failure' connected to a shooting incident in Tumbler Ridge. OpenAI's internal safety team had reportedly flagged the 18-year-old shooter, Jesse Van Rootselaar, for engaging in gun violence scenarios on ChatGPT, raising questions about AI platform accountability and preventative measures against real-world harm.",
-      "graph": ["AI Safety", "Corporate Liability", "Gun Violence", "Legal Action", "Government Lawsuit", "Public Safety"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would advocate for stronger regulation of AI platforms, emphasizing corporate responsibility for preventing harm and protecting public safety. They might push for stricter content moderation, user monitoring, and ethical AI development to prevent misuse that contributes to violence, and ensure accountability to victims." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the legal precedents potentially set by this lawsuit regarding corporate liability for AI-generated content or user activity. It would examine the evidence of OpenAI's awareness of the shooter's activities and the legal arguments for establishing a duty of care or negligence in the context of advanced AI systems." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative views might focus on individual responsibility for criminal acts, while also supporting legal action against corporations if clear negligence can be proven. They might express caution about over-regulating technology, but agree on the need for accountability when platforms are implicated in serious criminal activity leading to public harm." }
-        },
-        "neutral": "The B.C. government has initiated legal proceedings against OpenAI, alleging a connection between the AI platform and a shooting incident, bringing to the forefront questions of AI corporate responsibility and public safety."
-      }
-    },
-    {
-      "id": "criminal-justice-mental-illness",
+      "id": "crim-synagogue-shooting-01",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Podcast Examines 'Treatment or Prison' for Mentally Ill Killers in Canada",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/10-3-podcast-treatment-or-prison-what-happens-when-a-killer-is-found-mentally-ill",
-      "summary": "A podcast explores the complexities of Canada's criminal justice system when a killer is found not criminally responsible due to mental illness, leading to mental health treatment instead of incarceration. The discussion delves into how these cases are decided and the impact on victims' families, who often grapple with the outcome.",
-      "graph": ["Criminal Justice", "Mental Health Law", "Not Criminally Responsible", "Sentencing", "Victim Rights", "Legal Ethics"],
+      "title": "Belleville Synagogue Shooting Suspect Linked to Antisemitic COVID-19 Conspiracy Theories",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/canada/belleville-suspect-antisemitic-theory-reports",
+      "summary": "Reports indicate that the suspect in the Belleville synagogue shooting, Sean Ward, 29, 'spouted' antisemitic conspiracy theories, including blaming Jews for COVID-19. This alleged motivation points to a potential hate crime aspect in the investigation, highlighting concerns about antisemitism and the spread of dangerous misinformation. Ward was reportedly discharged from employment after refusing a COVID-19 vaccine.",
+      "graph": [
+        "Hate Crime",
+        "Antisemitism",
+        "Criminal Investigation",
+        "Extremism",
+        "Public Safety"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would emphasize the importance of mental health treatment over punitive measures, advocating for comprehensive mental healthcare within the justice system and reduced stigma. They would highlight the systemic issues contributing to mental illness and its intersection with crime, seeking rehabilitative approaches." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the legal criteria and judicial processes for determining criminal responsibility in cases of mental illness, including expert assessments and court procedures. It would explore the balance between public safety, therapeutic justice, and the rights of the accused and victims, considering the legal definitions of 'not criminally responsible'." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might prioritize public safety and victims' rights, expressing concern that findings of 'not criminally responsible' may not adequately ensure public protection or provide sufficient justice for victims. They might advocate for stricter interpretations of mental health defenses and longer, more secure treatment or detention periods." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A recent podcast episode critically examines the legal and societal implications of finding mentally ill killers 'not criminally responsible' in Canada, focusing on the balance between treatment and incarceration and its effects on justice and victims."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the societal factors contributing to the spread of antisemitism and conspiracy theories, advocating for community-based interventions, education, and addressing systemic discrimination to prevent hate crimes. Calls for a holistic approach beyond punitive measures to tackle the roots of extremism and protect vulnerable communities."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the ongoing criminal investigation, the legal implications of potential hate crime charges, and the importance of due process. Reports on the suspect's alleged motivations and the broader context of antisemitism as a factual challenge to public safety and social cohesion, awaiting judicial outcomes."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly condemns antisemitic violence and demands swift, firm action by law enforcement to prosecute hate crimes. Prioritizes law and order, individual accountability for extremist views and actions, and measures to protect religious institutions, while potentially cautioning against overreaching censorship or limiting free speech in general discourse."
+          }
+        },
+        "neutral": "The suspect in the Belleville synagogue shooting is reportedly linked to antisemitic COVID-19 conspiracy theories, prompting a hate crime investigation and raising concerns about the spread of dangerous misinformation and its role in violent extremism."
       }
     },
     {
-      "id": "ontario-synagogue-threats-arrest",
+      "id": "crim-climate-protest-02",
       "category": "Criminal",
-      "source": "National Post",
-      "title": "Man Arrested in Ontario for Threats to Shoot Up Synagogue",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/man-arrested-durham-threat-synagogue-police",
-      "summary": "Police in Ontario have arrested a 19-year-old man in Whitby, charging him with threats motivated by hate, after he allegedly made threats to shoot up a synagogue. This incident underscores ongoing concerns about hate-motivated violence and the targeting of religious communities.",
-      "graph": ["Hate Crime", "Threats", "Law Enforcement", "Antisemitism", "Public Safety", "Religious Institutions"],
+      "source": "The Globe and Mail",
+      "title": "Climate Protesters Arrested on Parliament Hill for Trespassing",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.theglobeandmail.com/canada/article-seniors-arrested-climate-protest-parliament-hill/",
+      "summary": "Several seniors participating in a 'climate caravan' protest on Parliament Hill were arrested and charged with trespassing after attempting to deliver climate impact documents to Members of Parliament. This incident highlights ongoing civil disobedience by climate activists seeking to draw attention to environmental issues, resulting in direct legal consequences for participants in non-violent demonstrations within government precincts.",
+      "graph": [
+        "Civil Disobedience",
+        "Protest Rights",
+        "Public Order",
+        "Environmental Activism",
+        "Policing"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would condemn the hate-motivated threats, emphasizing the need for robust anti-hate legislation, community support for targeted groups, and addressing the root causes of extremism and discrimination through education and social programs." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the police investigation, the specific charges laid, and the legal process involved in prosecuting hate-motivated threats. It would also cover the community's response and the broader implications for security protocols around religious institutions." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely emphasize strict law enforcement and accountability for hate crimes, advocating for firm penalties for those who threaten religious communities. They might also highlight the importance of individual responsibility and secure protection for places of worship." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A 19-year-old man has been arrested and charged with hate-motivated threats after allegedly threatening a synagogue in Ontario, prompting renewed concerns for the safety of religious communities."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Defends the right to protest and highlights the urgency of climate action, viewing the arrests as a disproportionate response to non-violent civil disobedience. Emphasizes the moral imperative of activists to draw attention to environmental crises and questions the government's approach to public dissent on critical issues."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the arrests and trespassing charges as a legal consequence of protesting within restricted government areas. Focuses on the balance between freedom of expression and the need to maintain public order and security in designated zones, outlining the factual events and legal responses."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports law enforcement's actions to maintain order and enforce trespassing laws on government property. Views such protests as disruptive and a challenge to public authority, prioritizing the maintenance of public order and the rule of law over the specific grievances of the activists."
+          }
+        },
+        "neutral": "Several seniors participating in a 'climate caravan' protest on Parliament Hill were arrested and charged with trespassing after attempting to deliver documents to MPs, highlighting the legal consequences for civil disobedience in government-restricted areas."
       }
     },
     {
-      "id": "belleville-synagogue-shooting",
+      "id": "crim-hells-angels-03",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Gunman Reportedly Dead After Belleville Synagogue Shooting, Community Raises Funds for Officer",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/provincial/belleville-shooting-gunman-reportedly-dead-60k-raised-for-officer",
-      "summary": "A shooting incident outside a synagogue in Belleville, Ontario, on Yom Kippur resulted in the reported death of the gunman, identified as Sean Ward. The Special Investigations Unit is involved, and the Jewish community has rallied to raise $60,000 for the police officer involved, highlighting the bravery of law enforcement and community solidarity in the face of targeted violence.",
-      "graph": ["Gun Violence", "Hate Crime", "Police Response", "Community Support", "Antisemitism", "Religious Institutions"],
+      "title": "Hells Angels-Linked Retail Store in Leslieville Destroyed by Fire",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/hells-angels-motorcycle-club-retail-store-route-81-leslieville-fire",
+      "summary": "A retail store known as Route 81, which sells merchandise supporting the Hells Angels outlaw motorcycle club in Leslieville, has been engulfed in flames. The cause of the fire is currently under investigation. This incident raises questions about potential foul play, inter-gang rivalries, or other criminal activities associated with organized crime, prompting a police investigation into the origins of the blaze.",
+      "graph": [
+        "Organized Crime",
+        "Arson Investigation",
+        "Public Safety",
+        "Local Crime"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would condemn the act as a hate crime, urging for comprehensive measures against antisemitism and gun violence, including stricter gun control and addressing online radicalization. They would also emphasize the importance of supporting marginalized communities and fostering inclusive public spaces." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral account would detail the sequence of events, the police response, the ongoing investigation by the Special Investigations Unit into the officer's actions, and the community's immediate reactions. It would focus on factual reporting of the incident and its direct aftermath." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would commend the swift police response and the officer's actions in preventing further harm, advocating for strong law enforcement and robust security measures for religious institutions. They might also emphasize the importance of protecting freedom of religion and confronting hate-motivated violence decisively." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A shooting at a Belleville synagogue on Yom Kippur, involving a deceased gunman and a police officer, has prompted a community fundraising effort for the officer and an investigation by the Special Investigations Unit."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Highlights the broader issue of organized crime's presence in communities and the need for comprehensive strategies that address root causes. Calls for community engagement and resources to counter gang influence and ensure public safety, beyond just reactive policing."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the ongoing police and fire investigation into the arson, emphasizing the legal process to determine the cause and potential perpetrators. Reports the incident as a matter of public safety and criminal activity, awaiting official findings."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the need for robust law enforcement action against organized crime, including outlaw motorcycle gangs, to maintain public order and security. Advocates for thorough investigation and punitive measures to deter criminal enterprises from operating openly within communities."
+          }
+        },
+        "neutral": "A retail store linked to the Hells Angels in Leslieville has been destroyed by fire, with the cause under investigation, raising questions about potential organized crime involvement or rivalries."
       }
     },
     {
-      "id": "feds-cops-tighten-screws-bishnoi-gang",
+      "id": "crim-human-trafficking-04",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Federal and Provincial Authorities Intensify Crackdown on Lawrence Bishnoi Gang",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/feds-cops-tightening-screws-on-lawrence-bishnoi-gang",
-      "summary": "Federal agencies and law enforcement are reportedly escalating their efforts to dismantle the Lawrence Bishnoi gang, utilizing new intelligence, including evidence derived from a gang member's alleged imprudence, to strengthen their case. This move signifies a concerted effort to combat organized crime and its operations.",
-      "graph": ["Organized Crime", "Law Enforcement", "Criminal Investigation", "Gangs", "Public Safety", "Federal-Provincial Cooperation"],
+      "title": "Hamilton Police Seek Suspect in Human Trafficking Investigation",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/loyalist-lancers-ebunoluwa-tomiwa-wanted-hamilton-cops-police-human-trafficking-probe",
+      "summary": "Hamilton police are actively searching for 33-year-old Ebunoluwa Tomiwa in connection with a human trafficking investigation. The suspect, a former basketball player for Loyalist College, is wanted by authorities in this serious criminal probe. This highlights ongoing efforts by law enforcement to combat human trafficking and bring perpetrators to justice.",
+      "graph": [
+        "Human Trafficking",
+        "Police Investigation",
+        "Law Enforcement",
+        "Criminal Justice"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses would advocate for addressing the socio-economic root causes of gang involvement, alongside law enforcement efforts, to prevent recruitment and offer rehabilitation pathways. They might also scrutinize police tactics to ensure civil liberties are upheld during crackdowns." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral perspective would focus on the operational aspects of the crackdown, including inter-agency coordination, intelligence gathering methods, and the legal procedures involved in prosecuting organized crime. It would assess the effectiveness of the strategies employed by authorities." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would strongly support intensified law enforcement action against organized crime, emphasizing the need for robust police powers and severe penalties to maintain law and order and protect public safety from criminal elements. They might also advocate for increased funding for police and prosecution." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Federal and local law enforcement agencies are reportedly increasing their pressure on the Lawrence Bishnoi gang, leveraging new information to enhance efforts against organized crime."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the vulnerability of victims and the need for comprehensive support services, as well as addressing systemic factors that contribute to human trafficking. Advocates for preventative measures and rehabilitation alongside law enforcement efforts, focusing on victim-centered approaches."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the ongoing police investigation, the legal process of issuing a warrant, and the objectives of law enforcement in bringing suspects to justice. Reports on the case from a neutral stance, emphasizing the investigative efforts and judicial procedures involved in combating human trafficking."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly supports aggressive police action and prosecution in human trafficking cases, emphasizing law and order and severe penalties for offenders. Advocates for a robust criminal justice system to deter such heinous crimes and protect public safety through strict enforcement."
+          }
+        },
+        "neutral": "Hamilton police are actively searching for 33-year-old Ebunoluwa Tomiwa in connection with a human trafficking investigation, highlighting ongoing law enforcement efforts to combat this serious criminal activity."
       }
     },
     {
-      "id": "toronto-police-burning-cars-bodies",
+      "id": "crim-constable-recovery-05",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "Toronto Police Investigate Two Bodies Found in Separate Burning Cars",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/local-news/police-investigate-dead-bodies-burning-cars-toronto",
-      "summary": "Toronto Police are investigating the discovery of two bodies found in burning cars at two distinct locations within 90 minutes of each other. The incidents have prompted homicide investigations, raising serious concerns about public safety and potential connections between the cases.",
-      "graph": ["Homicide", "Criminal Investigation", "Arson", "Toronto Police", "Public Safety", "Organized Crime (potential)"],
+      "title": "Wife of Wounded Belleville Constable Expresses Gratitude Amid His Recovery Efforts",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://torontosun.com/news/provincial/wife-of-wounded-belleville-constable-hold-hand-gratitude-hope",
+      "summary": "Ashley Smith, wife of a Belleville constable wounded in a recent incident, shared a message of gratitude and hope, thanking medical professionals and the Jewish community for their support as her husband 'fights' for his life. This emotional account highlights the personal impact of violent crime on law enforcement officers and their families, as well as the outpouring of community support in the wake of such tragedies.",
+      "graph": [
+        "Police Incident",
+        "Community Support",
+        "Law Enforcement",
+        "Victim Impact",
+        "Public Safety"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive analyses might link such violent crimes to systemic issues such as poverty, lack of social support, or urban inequality, advocating for community-based crime prevention strategies and addressing underlying societal determinants of crime." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral report would detail the police response, the ongoing forensic investigations, and the initial findings regarding the two separate incidents. It would focus on the efforts to identify victims, establish causes of death, and determine any links between the events." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would emphasize the need for strong law enforcement presence, rapid response to violent crime, and effective criminal intelligence to apprehend perpetrators. They might advocate for increased police resources and a tough-on-crime approach to ensure public safety." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Toronto Police have launched homicide investigations after two bodies were discovered in separate burning vehicles within a short timeframe, prompting concerns about the nature of the incidents."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes community solidarity and the importance of support systems for victims and their families in the aftermath of violence. Highlights the collective responsibility to create a safer society and supports efforts to address the underlying causes of crime, focusing on the human impact and shared healing."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the human aspect of a criminal incident, focusing on the recovery of the injured officer and the community's response. Presents the event as a demonstration of shared concern for public servants and the value of community support in challenging times, without political commentary."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Celebrates the heroism and sacrifice of law enforcement officers, viewing the constable as a 'hero' deserving of widespread gratitude and support. Underscores the critical role of police in maintaining public order and safety, and calls for strong measures against criminals to protect those who serve the community."
+          }
+        },
+        "neutral": "The wife of a Belleville constable, wounded in a recent incident, has publicly expressed profound gratitude for the support from medical teams and the Jewish community during her husband's critical recovery, underscoring the profound human impact of violent crime and community solidarity."
+      }
+    },
+    {
+      "id": "crim-antisemitic-attack-06",
+      "category": "Criminal",
+      "source": "The Hub",
+      "title": "Commentary Urges Stronger Action Against Antisemitic Attacks in Canada",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/23/canadians-must-not-shrug-off-yet-another-violent-attack-on-our-jewish-neighbours/",
+      "summary": "An opinion piece from The Hub calls on Canadians to actively condemn and address violent antisemitic attacks, referencing the recent Belleville synagogue shooting on Yom Kippur as a stark example. The author criticizes a perceived 'complacency' or 'whatever' syndrome in Canadian society, suggesting that leaders offer 'nice words but little else' in response to such incidents. The commentary argues for greater citizen responsibility, accountability from leaders, and a rejection of ideas that violently disrupt peace, linking these issues to a broader Conservative crime motion in Parliament.",
+      "graph": [
+        "Hate Crime",
+        "Antisemitism",
+        "Public Safety",
+        "Social Cohesion",
+        "Law and Order"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Agrees with the need to condemn antisemitism but emphasizes addressing systemic roots of hate, promoting inclusive dialogue, and strengthening community-based anti-racism initiatives. Critiques the 'whatever' syndrome as a symptom of broader societal issues that enable hate, advocating for proactive social policy interventions and educational reforms."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Acknowledges the severity of antisemitic attacks and the necessity for robust public condemnation and accountability. Focuses on the objective requirement for leaders and citizens to uphold principles of peace and security, highlighting the factual occurrence of such events as a challenge to national values and rule of law."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly aligns with the call for decisive action against antisemitism and a rejection of societal complacency, emphasizing law and order and individual accountability for violence. Supports the Conservative crime motion, advocating for stricter penalties and a tougher stance on crime to deter attacks and ensure the safety of all citizens, particularly vulnerable communities."
+          }
+        },
+        "neutral": "A commentary piece urges Canadians and leaders to actively confront and take stronger action against antisemitic attacks, citing the Belleville synagogue shooting, and criticizes societal complacency, linking the issue to parliamentary debates on crime."
       }
     }
   ],
   "immigration": [
     {
-      "id": "citizenship-law-us-archives-impact",
+      "id": "imm-mexico-visa-01",
       "category": "Immigration",
       "source": "CBC News",
-      "title": "Canada's Citizenship Law Change Causes Backlogs in U.S. Archives",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/canadian-citizenship-c-3-american-archives-9.7352746?cmp=rss",
-      "summary": "Canada's updated citizenship law, Bill C-3, which extends citizenship by descent to 'lost Canadians' through a Canadian ancestor regardless of generation, has led to unforeseen backlogs and delays in U.S. genealogical archives. Over 25,000 individuals, predominantly Americans, have gained Canadian citizenship under this bill, driving a surge in requests for ancestral records and significantly increasing processing times for certificate applications.",
-      "graph": ["Citizenship Law", "Lost Canadians", "Genealogy", "U.S. Archives", "Immigration Policy", "Bill C-3"],
+      "title": "Mexican Tour Operators Criticize Canadian Visa Requirements for Limiting Tourism Growth",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/world/mexico-tourism-canada-9.7354784?cmp=rss",
+      "summary": "Mexican tour operators contend that Canada's reimposed visa requirements for Mexican visitors are hindering the country's tourism potential, despite government projections of significant growth in visits and spending by 2030. While acknowledging an increase in Mexican tourists, industry representatives like Jesus Martinez of Dream Destinations Mexico state that numbers have not fully recovered since the visa was reinstated in 2024, partly due to U.S. pressure. The current policy allows Electronic Travel Authorization (eTA) for Mexicans with a valid U.S. visa or recent Canadian visa, but direct visa requirements are seen as a barrier.",
+      "graph": [
+        "Visa Policy",
+        "Tourism",
+        "International Relations",
+        "Economic Impact",
+        "Travel Restrictions"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely praise the inclusivity of Bill C-3 in rectifying historical injustices for 'lost Canadians,' while advocating for increased government resources to process applications efficiently and support those seeking to reclaim their citizenship. They might also call for broader, more accessible citizenship pathways." },
-          "center": { "label": "Procedural Context", "synthesis": "A neutral analysis would focus on the administrative challenges posed by the unanticipated volume of applications and record requests, examining the operational strain on both Canadian and U.S. institutions. It would assess the legislative intent of Bill C-3 against its practical implementation and the resulting processing delays." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might express concerns about the administrative burden and costs associated with Bill C-3, potentially questioning the scope of citizenship by descent. They might advocate for more stringent controls on citizenship claims and a focus on domestic immigration priorities, while calling for more efficient processing to avoid backlogs." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Canada's recent amendment to its citizenship law, broadening access to 'lost Canadians,' has unexpectedly strained U.S. genealogical archives and led to substantial backlogs in Canadian citizenship certificate processing."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates for a more open and welcoming immigration policy to foster international relations and cultural exchange, criticizing restrictive visa policies influenced by external pressures. Emphasizes the economic and social benefits of facilitating easier travel and the importance of supporting the tourism sector."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the economic impact of Canada's visa policy on Mexican tourism, detailing the perspectives of tour operators and government projections. Analyzes the policy's mechanics, including eTA eligibility, and its effects on travel trends, acknowledging the complex interplay of economic, diplomatic, and security considerations."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Prioritizes national security and border control in immigration policy, supporting visa requirements as necessary measures to manage influxes and comply with international obligations. While acknowledging economic impacts, asserts that security considerations outweigh the potential gains from unrestricted tourism, emphasizing orderly and controlled immigration processes."
+          }
+        },
+        "neutral": "Mexican tour operators argue that Canada's visa requirements, reimposed in 2024 partly due to U.S. pressure, are limiting the full tourism potential from Mexico, despite Canadian government projections for future growth in visitors and spending."
       }
     }
   ]
