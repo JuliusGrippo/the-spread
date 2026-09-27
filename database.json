@@ -1,237 +1,277 @@
 {
   "federalism": [
     {
-      "id": "federalism_1",
+      "id": "fed-poilievre-diesel-tax",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Liberal MP demoted for supporting NDP bill targeting arms export controls",
+      "title": "Poilievre urges tax cuts to make diesel fuel more affordable",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/casey-removed-israel-arms-bill-9.7359007?cmp=rss",
-      "summary": "Charlottetown MP Sean Casey was removed from his position as parliamentary secretary after voting in favor of an NDP private member's bill aimed at tightening Canada's arms export controls to prevent military equipment from reaching Israel. This action, taken despite other Liberal MPs also breaking rank, highlights issues of party discipline versus free votes on private member's bills and government transparency regarding foreign policy decisions.",
-      "graph": ["Parliamentary Discipline", "Arms Export", "Foreign Policy", "Legislative Vote", "Canada-Israel Relations"],
+      "url": "https://www.cbc.ca/news/politics/pierre-poilievre-conservatives-tax-cut-diesel-9.7360278?cmp=rss",
+      "summary": "Conservative Leader Pierre Poilievre has proposed a plan to cut federal taxes on diesel fuel, including extending the full fuel excise tax cut and removing GST, as well as permanently scrapping the federal industrial carbon tax and Clean Fuel Standard. The aim is to enhance diesel affordability, reduce transportation bottlenecks, and foster new investment in refining capacity and infrastructure.",
+      "graph": ["Federal Policy", "Economic Policy", "Taxation", "Energy", "Conservative Party", "Affordability", "Supply Chain"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "From a progressive perspective, the demotion is an example of party leadership stifling principled dissent, particularly on an issue with significant human rights implications related to arms sales. It highlights a tension between political expediency and ethical foreign policy, suggesting a failure to prioritize international justice over party unity." },
-          "center": { "label": "Procedural Context", "synthesis": "This event centers on parliamentary procedure and party management. While private member's bills often allow for free votes, parliamentary secretaries typically adhere more closely to government lines. The incident probes the balance between individual MP autonomy, executive authority, and the government's stance on sensitive foreign policy matters, specifically regarding Canada's arms export regime." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative viewpoint might emphasize the importance of cabinet solidarity and party discipline for effective governance, especially on foreign policy where a unified national voice is preferred. While supporting individual conscience, it questions whether such a high-profile dissent from a parliamentary secretary aligns with the responsibilities of that role and the government's overall strategic direction." }
+          "left": { "label": "Progressive Context", "synthesis": "Critiques of Poilievre's plan would likely focus on the environmental implications of reducing fuel taxes and scrapping carbon pricing, arguing it undermines climate action and disproportionately benefits large industries rather than fostering sustainable economic shifts. Concerns about the distribution of benefits, potentially favoring corporate profits over ordinary citizens, would also be raised." },
+          "center": { "label": "Procedural Context", "synthesis": "Analysis would concentrate on the economic projections of these tax cuts, their impact on federal revenue, and the feasibility of implementation. It would also assess the political strategy behind the proposal, considering its appeal to various sectors and regions, and how it aligns with broader economic stability goals." },
+          "right": { "label": "Conservative Context", "synthesis": "This proposal aligns with conservative principles of reducing the tax burden on consumers and businesses, minimizing government intervention in the economy, and promoting domestic energy independence. Arguments would highlight the plan's potential to lower the cost of living, stimulate economic activity, and address supply chain inefficiencies through deregulation and investment." }
         },
-        "neutral": "A Liberal MP's demotion for supporting an NDP bill on arms export controls sparks debate over parliamentary discipline, free voting, and the government's foreign policy stance on military sales."
+        "neutral": "Pierre Poilievre's proposal to reduce diesel fuel costs through federal tax cuts and regulatory changes aims to address affordability and supply chain issues by promoting domestic energy production and infrastructure development."
       }
     },
     {
-      "id": "federalism_2",
+      "id": "fed-liberals-labour-bill",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "Carney government to study new major projects bill with tool last used in Harper era",
+      "title": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/legislative-committee-c39-9.7358725?cmp=rss",
-      "summary": "The Carney government is employing a rare 'legislative committee' to fast-track the study of its comprehensive Bill C-39, a method not used for a government bill since 2012 under the Harper administration. This omnibus bill, which seeks to expedite development projects and manage labour disputes, has drawn criticism from environmental groups, organized labor, and the Assembly of First Nations for its proposed changes to impact assessments and consultation practices.",
-      "graph": ["Legislative Process", "Major Projects", "Bill C-39", "Parliamentary Procedure", "Economic Development", "Environmental Assessment"],
+      "url": "https://www.cbc.ca/news/politics/section-107-canada-labour-code-patty-hajdu-carney-liberals-major-projects-9.7359774?cmp=rss",
+      "summary": "Jobs Minister Patty Hajdu asserts that Bill C-39, which amends Section 107 of the Labour Code, provides unions with new leverage by introducing a mandatory special mediation and public report before the government can order striking workers back to work. This contrasts with organized labour's concerns that the bill still represents unwanted federal intervention in collective bargaining.",
+      "graph": ["Labour Law", "Federal Legislation", "Bill C-39", "Industrial Relations", "Collective Bargaining", "Major Projects", "Government Intervention"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives express concern that using a rare procedural tool to fast-track an omnibus bill undermines democratic scrutiny, particularly when the bill includes controversial changes impacting environmental protection, labour rights, and Indigenous consultation, potentially sacrificing long-term social and ecological well-being for rapid economic development." },
-          "center": { "label": "Procedural Context", "synthesis": "The use of a legislative committee, distinct from standing committees, is a significant procedural choice, highlighting the government's intent to focus and accelerate the bill's review. Analysis centers on the efficacy and implications of this mechanism for legislative debate and public engagement, balancing speed with thoroughness for a complex bill." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative viewpoint would likely support the government's move to streamline the legislative process for major projects, viewing it as essential for economic growth, job creation, and cutting bureaucratic red tape. The use of a dedicated committee could be seen as an efficient way to advance critical national infrastructure, despite criticisms from opposition groups." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely view the bill with skepticism, arguing that any government power to force striking workers back to their jobs undermines fundamental labour rights and weakens collective bargaining. They might see the mediation steps as insufficient safeguards against potential government overreach and express solidarity with union concerns." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would focus on the legislative intent to balance economic stability, particularly for major projects, with the right to strike. It would examine the procedural changes—the special mediator and public report—for their practical effectiveness in resolving disputes and whether they achieve a fairer balance between parties before ministerial intervention." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might support measures that prevent prolonged labour disruptions to national infrastructure and the economy, viewing the bill as an attempt to ensure economic stability. While acknowledging the importance of labour rights, they would likely emphasize the need for predictable outcomes and efficient project delivery, potentially seeing some federal intervention as necessary to prevent broader economic harm." }
         },
-        "neutral": "The Carney government's decision to use a legislative committee to fast-track Bill C-39, a significant bill aimed at accelerating major projects, revives a rarely used parliamentary tool and draws scrutiny from various stakeholder groups."
+        "neutral": "Bill C-39, a federal major projects bill, introduces a mandatory special mediation and public reporting process before the government can compel striking workers to return to their jobs, a measure Jobs Minister Hajdu states provides unions with new leverage despite union pushback."
       }
     },
     {
-      "id": "federalism_3",
+      "id": "fed-anand-un-great-powers",
       "category": "Federalism",
-      "source": "CBC Radio",
-      "title": "Trump cozying up to Xi Jinping could spell trouble for Canada, says Michael Kovrig",
+      "source": "CBC News",
+      "title": "In UN address, Anand takes jab at 'great powers' disrupting global order",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.cbc.ca/radio/asithappens/donald-trump-xi-jinping-michael-kovrig-9.7358957?cmp=rss",
-      "summary": "Michael Kovrig, a former Canadian diplomat detained in China, argues that U.S. President Donald Trump's perceived close relationship with Chinese President Xi Jinping, marked by 'pageantry over policy,' undermines U.S. interests and could create diplomatic and economic challenges for Canada. He suggests this dynamic might reduce leverage for Canada in navigating its own complex relationship with China.",
-      "graph": ["Canada-US Relations", "China Relations", "Foreign Policy", "Geopolitics", "International Trade", "Diplomacy"],
+      "url": "https://www.cbc.ca/news/world/anand-un-assembly-9.7359897?cmp=rss",
+      "summary": "Foreign Affairs Minister Anita Anand addressed the UN General Assembly, emphasizing Canada's commitment to 'strategic autonomy' and its intention to lead middle powers in countering global disruptions caused by 'great powers' walking away from economic cooperation. Her speech underscored the importance of respect for state sovereignty, the rule of law, and collective action on global issues.",
+      "graph": ["Foreign Policy", "International Relations", "United Nations", "Strategic Autonomy", "Middle Power Diplomacy", "Geopolitics", "State Sovereignty"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concern arises that Trump's transactional diplomacy could destabilize global alliances, leaving Canada vulnerable and potentially compromising collective efforts on human rights or environmental issues, especially when dealing with authoritarian regimes like China." },
-          "center": { "label": "Procedural Context", "synthesis": "Analysis focuses on the practical implications for Canadian foreign policy, trade strategy, and diplomatic efforts in managing relations with both the U.S. and China. It examines how a shifting U.S.-China dynamic necessitates careful Canadian navigation to protect national interests and maintain international standing." },
-          "right": { "label": "Conservative Context", "synthesis": "Some conservatives might advocate for Canada to align its foreign policy pragmatically with its closest ally, the U.S., while others might emphasize the need for Canada to strengthen its independent foreign policy and diversify international partnerships to mitigate risks from U.S. policy shifts." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would laud Canada's commitment to multilateralism, international law, and human rights, viewing the 'strategic autonomy' approach as a necessary counter to unilateralism and power politics. It would likely emphasize the importance of global cooperation on issues like climate change and social justice, aligning with Canada's perceived role as a 'good global citizen'." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral perspectives would assess the pragmatic aspects of Canada's diplomatic strategy, examining how the emphasis on middle power alliances and strategic autonomy positions Canada in an evolving global order. Analysis would focus on the feasibility and effectiveness of this approach in advancing Canadian interests while maintaining international stability." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints might interpret 'strategic autonomy' as a move towards prioritizing national interests and reducing dependence on specific 'great powers.' They would likely support efforts to strengthen economic partnerships and national security, while potentially questioning the efficacy of multilateral institutions or large-scale international interventions that do not directly serve Canada's immediate strategic or economic benefits." }
         },
-        "neutral": "Analyst Michael Kovrig warns that U.S. President Trump's seemingly close relationship with China's Xi Jinping, despite a lack of substantive policy outcomes, could have detrimental consequences for Canada's diplomatic and economic interests."
+        "neutral": "Foreign Affairs Minister Anita Anand utilized her UN address to champion Canada's 'strategic autonomy' and its role in rallying middle powers to uphold global order in the face of disruptions from major world powers."
       }
     },
     {
-      "id": "federalism_4",
-      "category": "Federalism",
-      "source": "The Globe and Mail",
-      "title": "Canadians were spying for U.S. in Cuba at time of alleged sonic attacks: source",
-      "citation": "September 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-canadians-spying-for-us-in-cuba-at-time-alleged-sonic-attacks-source/",
-      "summary": "A confidential source alleges that Canadian individuals were involved in intelligence gathering for the United States in Cuba during the period when Canadian and U.S. diplomats experienced 'Havana Syndrome' symptoms. This revelation comes as the Canadian government has invoked a seldom-used national security law to suppress details in a lawsuit filed by injured diplomats, while publicly denying any Canadian involvement in spying activities.",
-      "graph": ["Intelligence Operations", "Foreign Policy", "Cuba Relations", "Canada-US Security", "Legal Secrecy", "Havana Syndrome"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Concerns center on governmental transparency and accountability, questioning why the government would use secrecy laws to hide alleged intelligence activities that potentially exposed its own diplomats to harm. It raises broader ethical issues about Canada's intelligence collaborations and their implications for diplomatic integrity." },
-          "center": { "label": "Procedural Context", "synthesis": "The report highlights the complex intersection of national security, foreign relations, and civil litigation. The invocation of secrecy laws is a key procedural element, demanding examination of its legal basis and its impact on the transparency and fairness of judicial processes for affected individuals." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative perspective might emphasize the paramount importance of national security and intelligence gathering, justifying government secrecy to protect sources and methods. However, it could also demand accountability for ensuring the safety of Canadian personnel abroad and question the wisdom of covert operations that could lead to diplomatic incidents or harm." }
-        },
-        "neutral": "Allegations suggest Canadians were engaged in spying for the U.S. in Cuba during the 'Havana Syndrome' incidents, a claim denied by Ottawa which has also invoked a rare national security law to conceal details in a related lawsuit by affected diplomats."
-      }
-    },
-    {
-      "id": "federalism_5",
+      "id": "fed-anand-un-partners",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "International Trade Minister among MPs who used AI to help write speeches in Commons chamber",
+      "title": "Anand tells UN Canada is courting more partners as \u2018great powers\u2019 retreat from economic co-operation",
       "citation": "September 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-international-trade-minister-among-mps-who-used-ai-to-help-write/",
-      "summary": "A study found that eleven Canadian Members of Parliament, including the International Trade Minister, utilized artificial intelligence tools to assist in drafting their speeches delivered in the House of Commons, with AI generating approximately half of their content. This raises questions about the authenticity of political discourse, parliamentary ethics, and the evolving role of technology in governance.",
-      "graph": ["AI in Politics", "Parliamentary Ethics", "Political Communication", "Technology Policy", "Transparency"],
+      "url": "https://www.theglobeandmail.com/politics/article-anita-anand-un-general-assembly-speech/",
+      "summary": "Foreign Affairs Minister Anita Anand announced at the UN General Assembly that Canada is actively seeking to diversify its economic partnerships, including re-engaging with countries like China and India. This strategy aims to achieve greater strategic autonomy for Canada in response to a global trend of major powers withdrawing from economic cooperation.",
+      "graph": ["Foreign Policy", "Economic Diversification", "International Trade", "Multilateralism", "Strategic Partnerships", "Global Economy"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives may express concern that AI-generated content in political speeches diminishes authenticity and accountability, potentially masking individual thought and allowing for the spread of uncritical or algorithmically optimized messages rather than genuinely representative ones. It raises questions about who is truly speaking for the constituents." },
-          "center": { "label": "Procedural Context", "synthesis": "This development prompts a review of parliamentary rules and norms regarding the use of AI in legislative proceedings. Discussion would focus on establishing guidelines for transparency, ensuring intellectual property and accuracy, and maintaining the integrity of debate while acknowledging technological advancements in communication." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative view might see AI as a tool for efficiency and modernizing political communication, but also emphasizes the importance of personal responsibility and the authenticity of elected representatives. Concerns may arise if AI is perceived to dilute personal conviction or traditional rhetorical skills, or if it contributes to a perceived lack of transparency." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis might emphasize the need for ethical considerations in trade diversification, particularly concerning human rights records in countries like China and India. It would also advocate for ensuring that new partnerships contribute to equitable global development and adhere to international labour and environmental standards." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral perspectives would focus on the practical implementation and economic rationale behind this diversification strategy. It would assess the risks and benefits of engaging new partners, the specific sectors targeted for growth, and the diplomatic efforts required to navigate complex international trade relations for Canada's economic resilience." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would generally support expanding market access and reducing economic dependence on traditional allies, prioritizing national economic growth and resilience. The emphasis would be on pragmatic trade deals that benefit Canadian industries and ensure supply chain security, potentially viewing such diversification as a strengthening of Canada's position in a competitive global landscape." }
         },
-        "neutral": "Eleven Canadian MPs, including the International Trade Minister, reportedly used AI to draft approximately half of their parliamentary speeches, prompting discussion on political authenticity and technological integration in governance."
+        "neutral": "Minister Anand's UN address highlighted Canada's strategy to court new economic partners, including China and India, to achieve strategic autonomy amidst a retreat from economic cooperation by 'great powers'."
       }
     },
     {
-      "id": "federalism_6",
+      "id": "fed-arctic-threats",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Anand to give Canada’s UN speech this afternoon",
+      "title": "Threats to Canada’s North have \u2018shifted significantly,\u2019 foreign minister says",
       "citation": "September 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12074280/anand-to-give-canadas-un-speech/",
-      "summary": "Canada's Foreign Affairs Minister, Anita Anand, is scheduled to deliver a speech at the United Nations General Assembly. Her address is expected to cover Canada's positions on several critical international issues, including ongoing support for Ukraine, developments in the Middle East, and the assertion of Canadian Arctic sovereignty, outlining the nation's diplomatic priorities on the global stage.",
-      "graph": ["Foreign Policy", "United Nations", "International Relations", "Arctic Sovereignty", "Ukraine Support", "Middle East Policy"],
+      "url": "https://globalnews.ca/news/12073410/threats-to-canadas-north-have-shifted-significantly-foreign-minister-says/",
+      "summary": "Canada's Foreign Affairs Minister has stated that the nature of threats to the Canadian Arctic has evolved significantly, confirming ongoing diplomatic engagements and security discussions with the United States regarding Arctic sovereignty and defence in response to these changing geopolitical dynamics.",
+      "graph": ["Arctic Sovereignty", "National Security", "Foreign Policy", "Geopolitics", "Defence Policy", "Bilateral Relations", "Northern Development"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "A progressive lens would seek robust commitments on human rights, climate action, and multilateral solutions to global conflicts. It would scrutinize the extent of Canada's support for international law and humanitarian aid, particularly regarding Ukraine and the Middle East, and advocate for Indigenous rights in Arctic discussions." },
-          "center": { "label": "Procedural Context", "synthesis": "This event highlights Canada's established diplomatic practices and its role within international institutions like the UN. The speech provides a formal articulation of Canada's foreign policy positions, reflecting a balance of national interests with international responsibilities and normative commitments." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative perspective would prioritize Canada's national interests, particularly in asserting Arctic sovereignty and maintaining strong alliances. It would emphasize pragmatic engagement in international conflicts and ensure that foreign policy aligns with Canada's economic and security objectives, while maintaining a strong defense posture." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive voices would emphasize the importance of environmental protection and the rights of Indigenous peoples in the Arctic, advocating for a diplomatic and collaborative approach to security rather than militarization. They might highlight climate change as the primary threat and call for international cooperation on sustainable development." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would focus on the pragmatic need for a balanced approach to defence and diplomacy, ensuring Canada's sovereignty through strategic presence and robust international cooperation. It would assess the effectiveness of current and proposed measures in addressing hybrid threats and securing vital strategic interests." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would likely call for bolstering military capabilities and a more assertive stance on national territorial claims in the Arctic. The emphasis would be on projecting Canadian strength and securing resource development opportunities against potential encroachment by other nations, prioritizing national defence and economic interests." }
         },
-        "neutral": "Foreign Affairs Minister Anita Anand will deliver Canada's UN General Assembly speech, addressing key international issues including support for Ukraine, the Middle East, and Arctic sovereignty."
+        "neutral": "The Foreign Affairs Minister acknowledged a significant shift in threats to Canada's North, signaling continued security and sovereignty discussions with the U.S. amidst evolving Arctic geopolitics."
       }
     },
     {
-      "id": "federalism_7",
+      "id": "fed-alberta-referendum",
       "category": "Federalism",
       "source": "Global News",
-      "title": "Federal intelligence agency contacted amid U.S. interference allegations in Quebec election",
+      "title": "Canada\u2019s premiers tight-lipped on constitutional changes in Alberta referendum",
       "citation": "September 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
-      "summary": "Allegations of U.S. interference in the ongoing Quebec provincial election have led to the involvement of the Canadian Security Intelligence Service (CSIS) and prompted calls for transparency from Quebec's political party leaders. This development underscores the sensitivity of foreign influence in domestic electoral processes and the federal government's role in protecting provincial democratic integrity.",
-      "graph": ["Foreign Interference", "Electoral Integrity", "Quebec Election", "CSIS", "Federal-Provincial Relations", "National Security"],
+      "url": "https://globalnews.ca/news/12074939/alberta-referendum-constitutional-changes-canada-premiers/",
+      "summary": "Provincial premiers across Canada are reportedly reserved about the constitutional implications of an upcoming Alberta referendum. This referendum includes several proposals, three of which would likely necessitate broad provincial legislative support to amend the Canadian Constitution, underscoring the complexities of constitutional change in Canada.",
+      "graph": ["Constitutional Law", "Provincial Autonomy", "Referendum", "Intergovernmental Relations", "Alberta Politics", "Constitutional Amendment"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives would view foreign interference as a severe threat to democratic principles, advocating for robust intelligence responses and clear public communication to safeguard electoral processes. Emphasis would be on ensuring transparency and holding external actors accountable to protect voter confidence." },
-          "center": { "label": "Procedural Context", "synthesis": "This situation involves the intersection of federal intelligence mandates, provincial electoral law, and international relations. Analysis focuses on the protocols for CSIS involvement in provincial matters, the legal frameworks for addressing foreign interference, and the expectations for governmental transparency in such sensitive contexts." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative stance would prioritize national sovereignty and the integrity of democratic institutions against any foreign interference. It would call for strong federal action through intelligence agencies to identify and neutralize threats, emphasizing decisive measures to protect both federal and provincial elections." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might express concern about the potential for national disunity or the impact on minority rights if constitutional amendments proceed without broad consensus. Emphasis would be placed on cooperative federalism and ensuring any changes reflect inclusive Canadian values." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would focus on the legal and procedural requirements for constitutional amendment in Canada, which mandate significant provincial consent. It would examine the political dynamics between federal and provincial governments and the historical challenges of achieving such consensus on divisive issues." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives, particularly those advocating for provincial rights, would likely support Alberta's right to pursue reforms reflecting regional interests and autonomy. They might argue for greater decentralization of powers and question the federal government's role in provincial matters, emphasizing the democratic will expressed through a referendum." }
         },
-        "neutral": "Allegations of U.S. interference in the Quebec provincial election have triggered contact with federal intelligence services (CSIS) and demands for transparency from provincial party leaders, highlighting concerns over electoral integrity."
+        "neutral": "Canadian premiers are publicly non-committal regarding potential constitutional changes arising from an Alberta referendum, with several proposals requiring widespread provincial legislative consent to amend the Constitution."
       }
     },
     {
-      "id": "federalism_8",
+      "id": "fed-quebec-election",
       "category": "Federalism",
-      "source": "The Hub",
-      "title": "Carney’s moves on building and labour are an outright rejection of Trudeau economics",
+      "source": "Global News",
+      "title": "Advance polls open in Quebec general election",
       "citation": "September 2026 Tracking Window",
-      "url": "https://thehub.ca/2026/09/25/carneys-moves-on-building-and-labour-are-an-outright-rejection-of-trudeau-economics/",
-      "summary": "An analysis suggests that the Carney government's recent legislative package, notably Bill C-39 which aims to reform major project regulation and amend the Canada Labour Code, signifies a distinct departure from the economic policies championed by the Trudeau government. These new measures are characterized as a 'centrist corrective' focused on increased investment and streamlined economic activity, rather than the progressive policies of its predecessor.",
-      "graph": ["Economic Policy", "Labour Policy", "Government Shift", "Regulatory Reform", "Investment Strategy", "Political Ideology"],
+      "url": "https://globalnews.ca/news/12074924/advance-polls-open-quebec-election/",
+      "summary": "Advance voting has commenced in the Quebec general election, providing voters the opportunity to cast ballots ahead of the main election day on October 5th. This provincial electoral event, while primarily local, carries implications for intergovernmental relations and national political dynamics given Quebec's unique position within the Canadian federation.",
+      "graph": ["Provincial Election", "Quebec Politics", "Electoral Process", "Democratic Participation", "Intergovernmental Relations"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives might view Carney's policies as a retreat from social-democratic principles, potentially undermining worker protections and environmental safeguards in pursuit of corporate-led economic growth. This shift could be seen as exacerbating inequalities and prioritizing market mechanisms over social welfare and regulatory oversight." },
-          "center": { "label": "Procedural Context", "synthesis": "This analysis focuses on the policy paradigm shift within the federal government, examining the substantive changes in legislative priorities regarding economic development and labour relations. It evaluates the stated objectives of the new policies and their anticipated impact on economic and social sectors, contrasting them with previous approaches." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely welcome Carney's policy direction as a necessary move away from what they perceive as the 'progressive excesses' of Trudeau economics. This shift toward deregulation, investment promotion, and efficiency in major projects and labour markets would be seen as crucial for national prosperity and competitiveness." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive analysis would highlight voter accessibility, the impact of electoral outcomes on social programs and public services, and the role of progressive policies in shaping Quebec's future. It might also focus on equitable representation and the diverse voices within the Quebec electorate." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral viewpoints would emphasize the integrity and efficiency of the electoral process, voter turnout, and the mechanisms of democratic governance. Analysis would focus on the campaign strategies, polling data, and the potential for a stable government formation, as well as the immediate implications for provincial governance." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative commentary would likely focus on the economic platforms of the competing parties, fiscal responsibility, and the promotion of business-friendly policies. It might also emphasize provincial identity and autonomy within the federation, viewing the election through the lens of individual liberty and limited government." }
         },
-        "neutral": "An analysis contends that the Carney government's recent legislative actions on major projects and labour policy represent a significant ideological and economic departure from the previous Trudeau administration's approach, signaling a new policy direction."
+        "neutral": "Advance polls are now open for the Quebec general election, a significant provincial event that will shape the province's governance and influence broader federal-provincial dynamics."
+      }
+    },
+    {
+      "id": "fed-arctic-diplomats",
+      "category": "Federalism",
+      "source": "Global News",
+      "title": "Experts ask if Canada has enough Arctic diplomats",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://globalnews.ca/news/12074926/canada-arctic-diplomats/",
+      "summary": "As Canada embarks on an ambitious expansion of its defence and economic presence in the Arctic, experts are questioning whether the country possesses adequate diplomatic resources and personnel to effectively cultivate crucial international relationships and advance its strategic interests in the rapidly changing region.",
+      "graph": ["Arctic Policy", "Diplomacy", "Public Service Capacity", "Geopolitics", "Foreign Policy", "Resource Allocation", "Defence Strategy"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive perspectives would advocate for a focus on environmental stewardship and Indigenous self-determination in the Arctic, viewing diplomacy as a critical tool for collaborative governance and conflict prevention rather than military posturing. They would emphasize the need for diplomatic efforts to address climate change and promote sustainable development." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would examine the practicalities of Canada's foreign policy implementation, including the allocation of resources for diplomatic missions and personnel training. It would assess whether the current diplomatic footprint can effectively manage complex international relations and represent Canada's strategic interests in the Arctic." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would likely call for efficient and impactful diplomacy to assert Canadian sovereignty and advance economic interests in the Arctic. They might question the cost-effectiveness of extensive diplomatic networks versus targeted strategic engagement, advocating for a strong but lean diplomatic presence that supports national security and resource development goals." }
+        },
+        "neutral": "Experts are questioning Canada's diplomatic capacity in the Arctic, as the nation expands its defence and economic activities, highlighting the need for sufficient diplomatic resources to manage international relations in the region."
       }
     }
   ],
-  "charter": [],
+  "charter": [
+    {
+      "id": "charter-cbc-journalist-reprimand",
+      "category": "Charter",
+      "source": "National Post",
+      "title": "Former colleagues, allies defend Jewish CBC journalist facing reprimand over video, comments about anti-Israel protest",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/former-cbc-colleagues-jewish-journalist-video-anti-israel-protest",
+      "summary": "A Jewish CBC journalist, Neil Herland, is reportedly facing reprimand for filming and commenting on an anti-Israel protest near a Yom Kippur service. Former colleagues and a Conservative MP are defending his actions, arguing for his freedom of expression and the right to document his 'lived experience,' which brings into question CBC's impartiality policies versus an individual's Charter rights.",
+      "graph": ["Freedom of Expression", "Media Ethics", "Workplace Rights", "Antisemitism", "Journalism Standards", "Charter Rights", "Public Broadcaster"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints might focus on the protection of marginalized voices and the right of individuals to express concerns about hate or discrimination, even within professional contexts. They may critique media policies that could be perceived as silencing journalists' 'lived experiences' regarding antisemitism, while also balancing calls for journalistic impartiality." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would center on the delicate balance between an individual employee's Charter rights (like freedom of expression) and the professional obligations of a journalist at a public broadcaster like the CBC to maintain impartiality. It would assess whether CBC's internal policies are clear, consistently applied, and legally sound in light of Charter challenges." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives often criticize perceived liberal or institutional biases within public broadcasters like the CBC. They would strongly advocate for individual free speech rights and question any policies that might be seen as censoring or reprimanding journalists for expressing opinions or documenting events, particularly when it touches on sensitive political issues or religious freedom." }
+        },
+        "neutral": "A CBC journalist is reportedly facing reprimand for actions related to an anti-Israel protest, sparking debate among allies and critics about freedom of expression, journalistic impartiality, and workplace policies."
+      }
+    }
+  ],
   "indigenous": [],
   "criminal": [
     {
-      "id": "criminal_1",
+      "id": "crim-corrections-safe-snorting",
       "category": "Criminal",
       "source": "National Post",
-      "title": "After Canada stopped using solitary confinement, it made an exception for these prisoners",
+      "title": "Corrections Canada to distribute items for \u2018safe snorting\u2019 in federal prisons",
       "citation": "September 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/canada/hidden-solitary-confinement-canadas-prisons",
-      "summary": "Despite official pronouncements to end solitary confinement, Canadian prisons continue to employ various forms of isolation for specific categories of inmates, raising questions about the true cessation of such practices and the conditions under which prisoners are held apart from the general population.",
-      "graph": ["Correctional Policy", "Prison Conditions", "Inmate Isolation", "Human Rights", "Justice System Reform"],
+      "url": "https://nationalpost.com/news/canada/corrections-canada-to-distribute-items-for-safe-snorting-in-federal-prisons",
+      "summary": "Correctional Service Canada is implementing a new harm reduction initiative in federal prisons by distributing 'safe snorting' kits, which include paper straws. This measure is intended to mitigate health risks for inmates who inhale powdered or vaporized substances, reflecting a public health approach within the correctional system.",
+      "graph": ["Correctional Services", "Harm Reduction", "Drug Policy", "Prison Health", "Public Health", "Inmate Welfare", "Criminal Justice Reform"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives argue that any form of prolonged isolation constitutes cruel and unusual punishment, violating human rights and leading to severe psychological harm. They criticize the use of euphemisms to mask ongoing solitary confinement, advocating for genuine reform and rehabilitation-focused correctional practices." },
-          "center": { "label": "Procedural Context", "synthesis": "The issue involves examining the implementation of correctional policies, definitions of isolation, and the oversight mechanisms in place. It requires scrutinizing the legal and operational distinctions between various forms of inmate segregation and their adherence to national and international standards." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives might emphasize the need for correctional authorities to maintain order, safety, and security within prisons. They may argue that certain inmates, due to their behaviour or risk profile, require controlled isolation for the protection of other inmates and staff, even if it falls under a different name than 'solitary confinement'." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would largely support this initiative as a humane and evidence-based public health measure, prioritizing the health and safety of incarcerated individuals. They would frame it as addressing addiction as a health issue, reducing disease transmission, and upholding the human rights of inmates within a correctional setting." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would focus on the operational and administrative aspects of implementing such a program, assessing its effectiveness in achieving harm reduction goals while managing prison security. It would evaluate the public health data supporting the intervention and the logistical challenges of distribution and inmate education." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might express concerns about this policy, viewing it as potentially permissive and signaling a lenient approach to drug use within prisons. Arguments could be made that it undermines the correctional system's punitive function, creates moral hazard, or diverts resources from stricter enforcement, while also raising questions about taxpayer funding for such initiatives." }
         },
-        "neutral": "A report indicates that Canadian prisons continue to use various forms of isolation for inmates, despite the official cessation of solitary confinement, raising concerns about correctional practices."
+        "neutral": "Correctional Service Canada is introducing 'safe snorting' kits in federal prisons as a harm reduction measure to reduce health risks associated with drug inhalation among inmates."
       }
     },
     {
-      "id": "criminal_2",
+      "id": "crim-synagogue-shooting-letters",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Within 10 days, two pedophile child killers were given temporary passes to leave prison",
+      "title": "Letters: \u2018We knew this was coming\u2019",
       "citation": "September 2026 Tracking Window",
-      "url": "https://nationalpost.com/opinion/in-10-days-two-pedophile-child-killers-given-temporary-passes-to-leave-prison",
-      "summary": "In a span of ten days, the parole board granted temporary unescorted absences from prison to two convicted child killers, both identified as pedophiles. This decision, highlighted in an opinion piece, has ignited public outrage and scrutiny over the parole system's risk assessment processes and its balance between rehabilitation and public safety.",
-      "graph": ["Parole Board", "Public Safety", "Child Protection", "Corrections System", "Judicial Review", "Rehabilitation"],
+      "url": "https://nationalpost.com/opinion/letters-we-knew-this-was-coming",
+      "summary": "A collection of reader letters published in response to recent events, with a significant focus on the 'shocking synagogue shooting' in Belleville, Ontario. The letters reflect widespread community concerns about rising hate-based violence, antisemitism, and the broader implications for public safety and social cohesion in Canada.",
+      "graph": ["Hate Crime", "Antisemitism", "Public Safety", "Community Security", "Terrorism", "Criminal Justice", "Social Cohesion"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "While recognizing the importance of rehabilitation and reintegration, progressives would emphasize that the parole system must be robustly scrutinized to ensure public trust and confidence, especially when dealing with high-risk offenders. They might advocate for more public education on parole processes and greater transparency." },
-          "center": { "label": "Procedural Context", "synthesis": "This case prompts an examination of the legal and administrative criteria applied by the parole board in granting temporary absences, specifically for high-risk offenders. It calls for an objective review of the decision-making process, risk assessment tools, and the ultimate accountability of the parole system." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would likely express strong condemnation of the parole board's decision, viewing it as a failure of the justice system to prioritize public safety and protect vulnerable populations. They would advocate for stricter parole guidelines for violent and sexual offenders, emphasizing punishment and deterrence over rehabilitation in such cases." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive commentary would call for addressing the systemic roots of hate and antisemitism, advocating for stronger anti-hate legislation, robust support for affected communities, and initiatives promoting social inclusion and anti-racism education to prevent such violence." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would focus on the law enforcement response to hate crimes, the investigation process, and policy measures aimed at preventing future incidents. It would also highlight the importance of interfaith dialogue and community-led initiatives to foster understanding and resilience against hate." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative viewpoints would emphasize the need for strong law enforcement and national security measures to combat terrorism and hate-motivated violence. Discussions might also revolve around the balance between freedom of speech and the prohibition of hate speech, and the importance of individual accountability for acts of violence." }
         },
-        "neutral": "The parole board's decision to grant temporary unescorted absences to two convicted pedophile child killers within a ten-day period has sparked public controversy and raised questions about parole system risk assessment and public safety."
+        "neutral": "Public letters reflect deep community concern following a synagogue shooting in Belleville, Ontario, prompting discussions on hate-based violence, antisemitism, and public safety."
       }
     },
     {
-      "id": "criminal_3",
-      "category": "Criminal",
-      "source": "National Post",
-      "title": "Belleville shooting a wake-up call for Canadians, survivor says in new statement",
-      "citation": "September 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/belleville-shooting-a-wake-up-call-for-canadians-survivor-says-in-new-statement",
-      "summary": "Following a shooting at the Sons of Jacob Synagogue in Belleville, a survivor has issued a statement urging Canadian leaders to take meaningful action against the rising tide of hatred targeting Jewish people. The incident is presented as a stark reminder of the need to address antisemitism and ensure public safety for all communities.",
-      "graph": ["Hate Crime", "Antisemitism", "Public Safety", "Community Protection", "Law Enforcement Response", "Societal Violence"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Progressives emphasize the need for comprehensive anti-hate legislation, education, and community-based initiatives to combat systemic antisemitism and other forms of discrimination. They call for leaders to address root causes of hate, foster inclusivity, and protect marginalized communities through social justice frameworks." },
-          "center": { "label": "Procedural Context", "synthesis": "The focus is on the legal classification of the incident as a hate crime, the response of law enforcement, and the implementation of existing laws to protect religious communities. It involves reviewing the effectiveness of current measures to prevent and prosecute hate-motivated violence and the role of leadership in condemning such acts." },
-          "right": { "label": "Conservative Context", "synthesis": "Conservatives would demand swift and decisive law enforcement action against hate crimes, emphasizing law and order and the protection of communities through robust security measures. They would call on leaders to clearly denounce antisemitism and ensure that those who commit such acts face severe consequences, while upholding freedom of religion." }
-        },
-        "neutral": "A survivor of the Belleville synagogue shooting calls upon Canadian leaders to address the escalating hatred against Jewish communities, highlighting the incident as a critical call to action for public safety."
-      }
-    },
-    {
-      "id": "criminal_4",
+      "id": "crim-municipal-docs-sealed",
       "category": "Criminal",
       "source": "Toronto Sun",
-      "title": "KINSELLA: Jew hate festers across Canada – even in small towns like Belleville",
+      "title": "Files on burned-down boat club sealed by city hall until 2027",
       "citation": "September 2026 Tracking Window",
-      "url": "https://torontosun.com/opinion/columnists/jew-hate-festers-canada-small-towns-belleville",
-      "summary": "An opinion piece argues that antisemitism is not confined to major urban centers but is actively 'festering' across Canada, including in smaller communities like Belleville. The author attributes the surge in 'Jew hate' to various societal actors, including politicians, police, union leaders, academics, and segments of the media and non-Jewish population who fail to confront it.",
-      "graph": ["Antisemitism", "Hate Crime", "Public Discourse", "Societal Responsibility", "Belleville Incident", "Hate Speech"],
+      "url": "https://torontosun.com/news/local-news/humber-yacht-club-fire-documents-delay",
+      "summary": "Toronto City Hall has decided to seal documents related to an apparent arson at the Toronto Humber Yacht Club until 2027, denying public access. This action raises questions regarding municipal transparency, the public's right to information, and the handling of evidence and investigations, particularly where potential criminal activity is involved.",
+      "graph": ["Arson Investigation", "Municipal Government", "Transparency", "Access to Information", "Criminal Justice", "Public Accountability", "Records Management"],
       "spectrum": {
         "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "This perspective would call for a deep examination of systemic biases and historical roots of antisemitism, advocating for comprehensive educational reforms, anti-racism initiatives, and stronger social solidarity to counter hate. It might also critique the role of online platforms and divisive rhetoric in fueling such sentiments." },
-          "center": { "label": "Procedural Context", "synthesis": "An objective analysis would consider the factual evidence of rising antisemitism, the various contributing factors identified, and the institutional responses (or lack thereof). It would focus on understanding the mechanisms by which hate spreads and the efficacy of current legal and societal measures to combat it." },
-          "right": { "label": "Conservative Context", "synthesis": "A conservative viewpoint would strongly condemn antisemitism as a moral failing and a threat to societal cohesion, demanding swift and unequivocal action from authorities and public figures. It would emphasize the importance of traditional values, law and order, and the protection of religious freedoms against all forms of hatred." }
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would strongly advocate for government transparency and the public's right to know, particularly concerning matters of public safety or potential misconduct. They might question the justification for such a long sealing period, fearing a lack of accountability or potential cover-ups." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would explore the legal precedents and administrative protocols for sealing documents during ongoing criminal investigations. It would weigh the need to protect investigative integrity and ensure due process against the principles of government openness and the public interest in timely information." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives might emphasize the efficiency of government operations and the need to protect sensitive investigative information. While valuing transparency, they might also prioritize the proper functioning of law enforcement and efficient resolution of cases, potentially viewing premature disclosure as hindering justice. Concerns about bureaucracy and fiscal accountability of the NCC might also arise." }
         },
-        "neutral": "An opinion piece asserts that antisemitism is widespread across Canada, not just in urban areas, and attributes its rise to a broad range of societal and institutional actors."
+        "neutral": "Toronto City Hall has sealed documents concerning an alleged arson at a yacht club until 2027, sparking debate over government transparency and public access to information during a criminal investigation."
+      }
+    },
+    {
+      "id": "crim-police-corruption-plea",
+      "category": "Criminal",
+      "source": "Toronto Sun",
+      "title": "PROJECT SOUTH: Will young cop\u2019s guilty plea set the stage for others?",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://torontosun.com/news/local-news/project-south-will-young-cops-guilty-plea-set-the-stage-for-others",
+      "summary": "A police officer involved in the major corruption investigation known as 'Project South' has entered a guilty plea. This development has initiated speculation within legal and law enforcement circles about whether this plea will encourage other officers implicated in the probe to follow suit, signaling broader implications for accountability and integrity within police services.",
+      "graph": ["Police Corruption", "Law Enforcement", "Criminal Justice System", "Accountability", "Guilty Plea", "Internal Affairs", "Public Trust"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive viewpoints would likely call for systemic police reform, greater civilian oversight, and a thorough examination of institutional issues that enable corruption. They would highlight the need to rebuild public trust by demonstrating robust accountability mechanisms for misconduct within law enforcement." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would focus on the integrity of the judicial process, the rule of law, and the internal mechanisms within police forces to investigate and address misconduct. It would assess the legal strategies involved in 'Project South' and the potential for these pleas to streamline the justice process or reveal further systemic issues." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives would emphasize individual accountability for criminal acts, the importance of upholding law and order, and ensuring that those who betray public trust face appropriate consequences. While supporting swift justice, they might also seek to protect the reputation of law enforcement as a whole by isolating and punishing corrupt individuals." }
+        },
+        "neutral": "A police officer's guilty plea in the 'Project South' corruption probe raises questions about potential further pleas and broader implications for accountability within law enforcement agencies."
       }
     }
   ],
-  "immigration": []
+  "immigration": [
+    {
+      "id": "imm-quebec-integration-debate",
+      "category": "Immigration",
+      "source": "National Post",
+      "title": "Kevin Paquette: The Parti Québécois forced a necessary immigration debate",
+      "citation": "September 2026 Tracking Window",
+      "url": "https://nationalpost.com/opinion/kevin-paquette-the-parti-quebecois-forced-a-necessary-immigration-debate",
+      "summary": "An opinion piece argues that the Parti Québécois has successfully initiated a crucial public debate concerning Quebec's real capacity to effectively integrate new immigrants. This discussion prompts broader questions about the sustainability and social impacts of both provincial and federal immigration policies.",
+      "graph": ["Immigration Policy", "Quebec", "Provincial Autonomy", "Social Integration", "Demographic Policy", "Political Debate", "Federal-Provincial Relations"],
+      "spectrum": {
+        "baseline": { "left": 33, "center": 34, "right": 33 },
+        "zones": {
+          "left": { "label": "Progressive Context", "synthesis": "Progressive views would advocate for comprehensive integration support for newcomers, multiculturalism, and addressing potential xenophobia or systemic barriers within public discourse. They would emphasize the benefits of diversity and the need for policies that facilitate successful social and economic inclusion of immigrants." },
+          "center": { "label": "Procedural Context", "synthesis": "Neutral analysis would focus on data-driven assessments of integration outcomes, the balancing of economic needs with social capacity, and the practical challenges of language and cultural adaptation in Quebec. It would examine the policy levers available to both provincial and federal governments for managing immigration and integration." },
+          "right": { "label": "Conservative Context", "synthesis": "Conservative perspectives often prioritize national or provincial identity, the importance of cultural assimilation, and potentially advocate for stricter control over immigration levels. They might argue that the debate is necessary to ensure successful integration, preserve societal cohesion, and respect the unique cultural context of Quebec, while also emphasizing provincial sovereignty in immigration matters." }
+        },
+        "neutral": "An opinion piece posits that the Parti Québécois has sparked a significant debate on Quebec's capacity for immigrant integration, raising questions about provincial and federal immigration policies."
+      }
+    }
+  ]
 }
