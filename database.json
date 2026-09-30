@@ -1,315 +1,666 @@
 {
   "federalism": [
     {
-      "id": "federalism-1",
-      "category": "Federalism",
-      "source": "rabble.ca",
-      "title": "Report Details Alberta Government Failures in High River Plant Pandemic Response",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://rabble.ca/politics/canadian-politics/political-pressure-negligence-incompetence-all-contributed-to-pandemic-tragedy-at-high-river-alberta-plant-new-report-says/",
-      "summary": "A new report from the Parkland Institute alleges that political pressure, negligence, and incompetence by Alberta's UCP ministers and officials contributed to a pandemic tragedy at the Cargill Inc. plant in High River. The analysis indicates that officials urged workers to remain at the facility despite a major COVID-19 outbreak in 2020, highlighting failures in provincial public health and worker safety oversight.",
-      "graph": ["Provincial Governance", "Public Health", "Worker Safety", "Pandemic Response", "Government Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights government failings, prioritizing corporate interests over worker safety, and the need for stronger social protections. Advocates for robust public sector oversight." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the findings of the report, the process of investigating government conduct, and potential implications for future public health management protocols." },
-          "right": { "label": "Conservative Context", "synthesis": "Could emphasize the challenges of government intervention during crises, or potential overreach, while also acknowledging the need for effective and accountable provincial governance." }
-        },
-        "neutral": "A report from the Parkland Institute alleges provincial governmental failures in Alberta during the 2020 High River Cargill plant pandemic outbreak."
-      }
-    },
-    {
-      "id": "federalism-2",
+      "id": "c1f173f443b74828b80b06b12a865f1e",
       "category": "Federalism",
       "source": "CBC News",
-      "title": "LNG Canada Phase 2 Expansion Approved Amid Federal Support and Environmental Debate",
+      "title": "Parti Québécois Electoral Rise Signals New Federal Test for Carney Administration",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/carney-lng-canada-announcement-9.7361817?cmp=rss",
-      "summary": "LNG Canada has announced the multibillion-dollar Phase 2 expansion of its Kitimat, B.C., facility, poised to double liquefied natural gas exports. Prime Minister Mark Carney is set to commend this as a 'historic investment' despite ongoing environmental concerns regarding increased greenhouse gas emissions and gas flaring. The project also faces scrutiny over its pipeline traversing Wet'suwet'en traditional territories, highlighting complex federal, provincial, economic, and Indigenous relations.",
-      "graph": ["Energy Policy", "Economic Development", "Federal-Provincial Relations", "Climate Change", "Resource Extraction", "Employment"],
+      "url": "https://www.cbc.ca/news/politics/pq-majority-carney-analysis-9.7363284?cmp=rss",
+      "summary": "The potential electoral success of the separatist Parti Québécois in Quebec's upcoming provincial election is predicted to create a significant political challenge for Prime Minister Mark Carney. This outcome could destabilize the existing federal-provincial consensus, leading to more assertive demands from Quebec regarding autonomy, even if a sovereignty referendum is not immediately declared, thereby shifting national political dynamics.",
+      "graph": [
+        "Federal-Provincial Relations",
+        "Quebec Sovereignty",
+        "Parti Québécois",
+        "Canadian Unity",
+        "Provincial Elections"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the expansion for contributing to climate change and potentially infringing on Indigenous land rights, advocating for renewable energy alternatives and stronger environmental protections." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the balance between economic growth, job creation, and environmental impact, noting governmental and First Nations collaboration rhetoric while navigating complex regulatory processes." },
-          "right": { "label": "Conservative Context", "synthesis": "Praises the investment for strengthening Canada's energy sector, creating jobs, and boosting exports, prioritizing economic sovereignty and responsible resource development." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "LNG Canada's Phase 2 expansion in Kitimat, B.C., has been approved, drawing federal support for economic investment but also criticism for environmental impacts and Indigenous land concerns."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May interpret the rise of the PQ as a democratic expression of Quebec's distinct identity, advocating for greater provincial autonomy and a more decentralized federal structure, potentially supporting accommodation of Quebec's demands while ensuring social equity."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the electoral outcome and its constitutional implications, focusing on the procedural mechanisms of federal-provincial dialogue and the potential legal and administrative challenges a sovereignist provincial government poses to federal policy-making."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Views a PQ victory with concern for national unity and economic stability, advocating for strong federal leadership to counter separatist tendencies and uphold federal authority, potentially criticizing federal concessions to provincial demands."
+          }
+        },
+        "neutral": "The anticipated electoral success of the Parti Québécois in Quebec's provincial election is poised to present Prime Minister Carney with a significant new political challenge concerning federal-provincial relations and national unity."
       }
     },
     {
-      "id": "federalism-3",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Global Nature Protection Targets Lagging, Canada's Domestic Efforts Questioned Post-COP15",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/science/canada-nature-protected-deal-progress-9.7358840?cmp=rss",
-      "summary": "Two years after Canada spearheaded a global agreement at COP15 to protect 30% of global land and oceans by 2030, a new assessment reveals targets are likely to be missed, particularly for oceans. The report highlights a significant shortfall in international funding for developing nations. Domestically, Canada's own progress is scrutinized, with former Environment Minister Steven Guilbeault resigning over perceived climate policy rollbacks by the Carney government.",
-      "graph": ["International Relations", "Environmental Policy", "Climate Action", "Federal Policy", "Biodiversity Conservation", "International Funding"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Expresses disappointment over insufficient progress and funding, criticizing Canada's domestic climate policy shifts under the Carney government as a retreat from environmental leadership." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the measured success and challenges of the international agreement, highlighting funding gaps and the complexities of global conservation efforts and national policy implementation." },
-          "right": { "label": "Conservative Context", "synthesis": "May question the feasibility or economic burden of ambitious conservation targets, or focus on national economic interests over international environmental commitments, especially concerning resource projects." }
-        },
-        "neutral": "A new report indicates global nature protection targets, championed by Canada at COP15, are off-track, with Canada's own climate policy facing domestic scrutiny."
-      }
-    },
-    {
-      "id": "federalism-4",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "U.S. Imposes Import Bans on Canadian Alcohol and Goods Amid Escalating Trade Dispute",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/business/us-canadian-booze-ban-whisky-wine-beer-9.7361385?cmp=rss",
-      "summary": "The United States has enacted import bans on specific Canadian products, including various alcoholic beverages, dairy byproducts, and motorcycles, marking a new escalation in the Canada-U.S. trade war. This move directly impacts Canadian producers, such as B.C.-based distillers, who are now shut out of the U.S. market, leading to significant business disruptions and requiring a federal response to protect Canadian industries.",
-      "graph": ["International Trade", "Canada-U.S. Relations", "Economic Policy", "Tariffs", "Federal Response", "Supply Chains"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes protectionist policies and their negative impact on Canadian small businesses and workers, calling for diplomatic solutions and support for affected industries." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the factual implementation of the bans and their immediate economic consequences for specific Canadian industries, and the governmental process of managing trade disputes." },
-          "right": { "label": "Conservative Context", "synthesis": "May support strong national trade positions and emphasize the need for Canada to diversify its markets, potentially criticizing the current government's handling of trade relations." }
-        },
-        "neutral": "The U.S. has imposed new import bans on Canadian products like alcohol and dairy, escalating the bilateral trade war and impacting Canadian producers."
-      }
-    },
-    {
-      "id": "federalism-5",
-      "category": "Federalism",
-      "source": "CBC News",
-      "title": "Federal-Ontario Child Care Deal Extended, $10-a-Day Goal Remains Unmet in Province",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-canada-affordable-childcare-9.7362203?cmp=rss",
-      "summary": "Ontario and the federal government have agreed to extend the national affordable child-care program for four years, providing approximately $12 billion in new federal funding. However, the agreement does not guarantee a reduction of average parent fees in Ontario from $19 to the national $10-a-day target, maintaining current rates until at least June 2027. This extension aims to provide stability but has drawn criticism for not fully realizing the program's signature affordability goal.",
-      "graph": ["Social Policy", "Federal-Provincial Funding", "Child Care", "Public Services", "Cost of Living", "Intergovernmental Agreement"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the continued high fees in Ontario and advocates for stronger federal intervention to ensure the $10-a-day goal is met nationwide, prioritizing universal access and affordability." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the pragmatic extension of the agreement, the financial stability it provides to operators and parents, and the ongoing challenges of achieving uniform affordability across provinces." },
-          "right": { "label": "Conservative Context", "synthesis": "May question the overall cost and effectiveness of federal-provincial child care programs, emphasizing market-based solutions or greater provincial autonomy in service delivery and funding." }
-        },
-        "neutral": "Ontario and the federal government have extended their child care agreement, but fees in Ontario will remain above the $10-a-day national average for several more years."
-      }
-    },
-    {
-      "id": "federalism-6",
+      "id": "e3b0c44298fc1c149afbf4c8996fb924",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Alberta Premier Smith and Ontario Premier Ford Discuss Upcoming Separation Referendum",
+      "title": "U.S. Import Bans Block Essential Supplies to Remote Canadian Island",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/canada/video-smith-ford-discuss-separation-referendum-in-calgary/",
-      "summary": "Alberta Premier Danielle Smith and Ontario Premier Doug Ford met to discuss Alberta's upcoming referendum, which includes a question on the province's place in Confederation and a potential binding vote on separation. Ford expressed his hope that Alberta remains within Canada, highlighting the significant inter-provincial implications of such a vote and underscoring the broader federal unity debate.",
-      "graph": ["Provincial Sovereignty", "Inter-Provincial Relations", "Constitutional Law", "Canadian Unity", "Referendum", "Western Alienation"],
+      "url": "https://www.theglobeandmail.com/politics/article-truck-carrying-supplies-to-isolated-nb-island-blocked-by-us-customs-as/",
+      "summary": "Amidst escalating Canada-U.S. trade tensions, U.S. customs officials blocked a truck carrying essential goods, including food and liquor, to Campobello Island, New Brunswick. This community's only land access is through Maine, making the import ban's local impact significant, raising concerns about the humanitarian consequences of international trade disputes on isolated Canadian populations.",
+      "graph": [
+        "Canada-US Trade",
+        "Border Issues",
+        "Trade War",
+        "Cross-Border Communities",
+        "Federal Diplomacy",
+        "Economic Sanctions"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Emphasizes the importance of national unity and inclusive dialogue to address provincial grievances, advocating for federal engagement and compromise to maintain the federation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the political discourse surrounding the referendum, the procedural aspects of such a vote, and the potential constitutional implications for the Canadian federation." },
-          "right": { "label": "Conservative Context", "synthesis": "May highlight provincial autonomy and the right of Albertans to self-determination, while also recognizing the economic and political ties within Confederation and the benefits of remaining unified." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Premiers Smith and Ford discussed Alberta's upcoming separation referendum, with Ford advocating for Alberta to remain in the Canadian Confederation."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Highlights the human impact of protectionist trade policies on vulnerable communities, criticizing the U.S. actions as detrimental to basic welfare and advocating for diplomatic solutions that prioritize humanitarian concerns."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the direct operational challenges and immediate consequences of the U.S. import bans, analyzing the logistical complexities and diplomatic efforts required to resolve the issue for an isolated Canadian community."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the need for strong national borders and reciprocal trade measures, while urging swift diplomatic action to mitigate severe impacts on Canadian citizens caught in international trade disputes, potentially criticizing federal government's trade negotiation efficacy."
+          }
+        },
+        "neutral": "A truck delivering essential supplies to Canada's Campobello Island, accessible only via U.S. territory, was blocked by American customs due to new import bans, highlighting direct local impacts of the ongoing Canada-U.S. trade dispute."
       }
     },
     {
-      "id": "federalism-7",
+      "id": "f51b5b5974024b429d2011b95b50596b",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "G20 Trade Ministers Meet to Counter U.S. Tariff Policies",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/g20-trade-ministers-meeting-summit-trump-tariffs-9.7363275?cmp=rss",
+      "summary": "G20 trade ministers are convening in Wisconsin with a notable focus on strategies to circumvent or manage the impact of U.S. President Donald Trump's global tariff agenda. This unusual summit sees many nations, including Canada, engaging in side discussions to forge alternative trade deals and diversify away from the unpredictable U.S. market, signifying a fragmented international trade landscape.",
+      "graph": [
+        "International Trade",
+        "G20 Summit",
+        "U.S. Tariffs",
+        "Trade Diversification",
+        "Global Economy",
+        "Diplomacy"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Critiques protectionist policies that disrupt global economic cooperation and harm developing nations, advocating for multilateral agreements and fair trade practices that support global stability."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the strategic interactions and diplomatic efforts at the G20, focusing on how nations are collectively and individually adapting their trade policies in response to the U.S. 'America-first' agenda."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports nations pursuing their own economic interests amidst global trade uncertainty, advocating for Canada to aggressively secure new markets and bilateral agreements to reduce reliance on potentially hostile trading partners."
+          }
+        },
+        "neutral": "G20 trade ministers are holding a meeting in Wisconsin, primarily addressing strategies to manage and diversify trade relations in response to the U.S. President's global tariff agenda."
+      }
+    },
+    {
+      "id": "06020c681cfc407d9f2c64b22c70a8d6",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "Canada's AI Minister Prioritizes Balance Between Innovation and Safety",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/30/canadas-ai-minister-outlines-his-vision-for-balancing-innovation-and-safety/",
+      "summary": "Evan Solomon, Canada's Minister of Artificial Intelligence and Digital Innovation, unveiled the government's balanced approach to AI policy, aiming to foster rapid innovation within the burgeoning AI sector while simultaneously establishing robust regulatory frameworks to address safety concerns and build public trust. This strategy seeks to position Canada competitively in the global AI landscape responsibly.",
+      "graph": [
+        "AI Policy",
+        "Technology Regulation",
+        "Innovation Strategy",
+        "Public Trust",
+        "Digital Economy",
+        "Federal Government"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates for strong ethical guidelines and strict regulations to prevent AI from exacerbating social inequalities, bias, or privacy infringements, prioritizing societal well-being over unbridled technological advancement."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the practical challenges of developing a comprehensive national AI strategy, focusing on the legislative and policy mechanisms required to integrate innovation with oversight effectively."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the need to reduce bureaucratic hurdles and foster a competitive environment for AI businesses, arguing that excessive regulation could stifle innovation and economic growth while acknowledging the need for essential safeguards."
+          }
+        },
+        "neutral": "Canada's AI Minister has articulated a national strategy focused on balancing the rapid advancement of artificial intelligence innovation with the establishment of necessary safety protocols and public trust mechanisms."
+      }
+    },
+    {
+      "id": "f516a850117b4c97ba7210e741697334",
       "category": "Federalism",
       "source": "The Globe and Mail",
-      "title": "Opposition Leader Poilievre Supports Federalist Campaign in Alberta Ahead of Referendum",
+      "title": "Ottawa Designates New West Coast Pipeline a 'National Interest Project' Alongside Ocean Protection Pledge",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.theglobeandmail.com/politics/article-poilievre-fundraiser-federalist-efforts-alberta-separation/",
-      "summary": "Conservative Opposition Leader Pierre Poilievre is slated to headline a fundraiser for 'Conservatives for Canada' in Edmonton, signaling federal political engagement in the Alberta separation debate. This intervention aims to bolster federalist sentiment in the province as it approaches its October 19 referendum, which includes a question on potential secession, directly influencing provincial-federal dynamics.",
-      "graph": ["Federal Politics", "Canadian Unity", "Provincial Referendum", "Conservative Party", "Alberta Politics", "Federalism Advocacy"],
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-carney-ocean-protection-pipeline/",
+      "summary": "The federal government is set to designate a new West Coast pipeline project as one of \"national interest\" to fast-track its approval, aligning with Prime Minister Carney's efforts to enhance federal-Alberta relations and diversify energy exports. Concurrently, Ottawa has pledged $1.2 billion for ocean protection, which Carney frames as a \"protect-while-we-build\" approach, aiming to balance industrial development with environmental stewardship.",
+      "graph": [
+        "National Infrastructure",
+        "Energy Policy",
+        "Environmental Protection",
+        "Federal-Provincial Relations",
+        "Economic Development",
+        "Sustainable Development"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Views Poilievre's involvement as a strategic political maneuver rather than a genuine effort to address underlying provincial grievances, potentially exacerbating regional tensions." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the federal opposition's strategy to influence the provincial referendum outcome and its implications for the national political landscape and party alignment." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports Poilievre's efforts to champion Canadian unity and push back against separatist movements, aligning with a strong federalist stance and national conservative principles." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Federal Opposition Leader Pierre Poilievre will headline a fundraiser in Alberta, actively supporting federalist efforts ahead of the province's potential separation referendum."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Critiques the designation of the pipeline as potentially undermining environmental protections and Indigenous rights, viewing the ocean protection as insufficient to offset the ecological impact of increased fossil fuel infrastructure."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the government's simultaneous pursuit of major energy projects and environmental initiatives, examining the policy rationale behind the 'protect-while-we-build' approach and its implementation challenges."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Supports the designation of the pipeline as crucial for national economic growth and energy security, viewing the ocean protection pledge as a responsible and balanced approach to facilitate vital resource development."
+          }
+        },
+        "neutral": "Ottawa is moving to expedite a new West Coast pipeline by designating it a 'national interest project', coupled with a $1.2 billion pledge for ocean protection, signifying a federal strategy to balance energy development with environmental commitments."
       }
     },
     {
-      "id": "federalism-8",
+      "id": "1d81b1d7d54b4238b6d8b9e6e8e8e8e8",
       "category": "Federalism",
-      "source": "Toronto Sun",
-      "title": "Federal Government Cites Impracticality in Decision Not to Recover 'Green Slush Fund' Payouts",
+      "source": "Global News",
+      "title": "Canadian Military Seeks Advanced Anti-Drone Defence Systems for National Facilities",
       "citation": "June 2026 Tracking Window",
-      "url": "https://torontosun.com/news/national/feds-wont-recover-green-slush-fund-scandal-payouts",
-      "summary": "The federal government has decided against pursuing the recovery of funds from a 'Green Slush Fund' scandal, stating that further efforts would likely be unsuccessful and not in the public interest. This decision was conveyed in response to a parliamentary question, raising concerns about federal financial accountability and the stewardship of public funds by departments like Innovation, Science and Economic Development Canada (ISED).",
-      "graph": ["Federal Accountability", "Public Funds", "Government Spending", "Financial Oversight", "Political Transparency", "Corruption"],
+      "url": "https://globalnews.ca/news/12077678/canadian-military-anti-drone-defences/",
+      "summary": "Canada's Department of National Defence is actively procuring advanced anti-drone defence systems to safeguard military personnel, equipment, and critical facilities across the country. This strategic investment addresses the evolving threat landscape posed by unmanned aerial vehicles and underscores a heightened focus on national security infrastructure protection.",
+      "graph": [
+        "National Security",
+        "Canadian Military",
+        "Defence Procurement",
+        "Drone Technology",
+        "Critical Infrastructure"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Criticizes the decision as a failure of accountability and a lack of commitment to recovering misspent public funds, calling for stronger oversight mechanisms and consequences for misallocation." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the government's rationale, focusing on the administrative and legal considerations behind the decision to not pursue recoveries, and parliamentary scrutiny." },
-          "right": { "label": "Conservative Context", "synthesis": "Expresses concerns about government inefficiency, potential waste of taxpayer money, and lack of transparency, advocating for greater fiscal responsibility and stricter enforcement." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The federal government will not seek to recover payouts from a 'Green Slush Fund' scandal, citing impracticality and lack of public interest in further pursuit."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Raises questions about the long-term strategic implications and cost-effectiveness of military procurement, advocating for preventative security measures and international cooperation over a purely defensive technological arms race."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the Department of National Defence's assessment of emerging threats and its procurement processes to acquire necessary defensive technologies, focusing on the operational requirements and implementation challenges."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly supports the enhancement of military capabilities and rapid investment in advanced defence technologies to ensure national security and protect strategic assets against modern threats."
+          }
+        },
+        "neutral": "The Department of National Defence is actively seeking anti-drone defence systems to enhance the security of Canadian military bases, personnel, and equipment against threats from unmanned aerial vehicles."
+      }
+    },
+    {
+      "id": "1f8e8749e9174d8b9f71c36b2f70b79e",
+      "category": "Federalism",
+      "source": "CBC News",
+      "title": "Conservative MP Scott Aitchison Announces Resignation from Parliament",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.cbc.ca/news/politics/conservative-mp-aitchison-resigning-seat-9.7364059?cmp=rss",
+      "summary": "Conservative MP Scott Aitchison, who represents the Parry Sound-Muskoka riding and previously contested the party's leadership, has formally announced his departure from Parliament at the conclusion of the fall sitting. His resignation contributes to a recent trend of exits from the Conservative caucus, potentially triggering a by-election and prompting discussion on the party's internal dynamics.",
+      "graph": [
+        "Federal Politics",
+        "Conservative Party",
+        "Parliamentary Resignation",
+        "By-election Implications",
+        "Political Leadership"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "May interpret the resignation as indicative of internal party struggles or a broader political climate, potentially viewing it as an opportunity for other parties to gain representation in a new electoral contest."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports factually on the political event, focusing on the MP's career trajectory, the immediate impact on parliamentary composition, and the process for filling the vacant seat through a by-election."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Expresses appreciation for Aitchison's public service and contributions to the party, while emphasizing the party's cohesion and preparedness for future electoral contests, including the upcoming by-election."
+          }
+        },
+        "neutral": "Conservative MP Scott Aitchison has officially announced his resignation from Parliament at the end of the fall sitting, adding to recent departures from the party's caucus and necessitating a future by-election."
+      }
+    },
+    {
+      "id": "e30e71c93a9d4a04b19c2e0b5f5d6f1c",
+      "category": "Federalism",
+      "source": "The Hub",
+      "title": "B.C. Election Focus Shifts to Provincial Deficit Amidst Federal Trade War Distraction",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://thehub.ca/2026/09/29/b-c-s-58-5-billion-deficit-record-not-donald-trump-is-what-the-oct-24-election-is-about/",
+      "summary": "An analysis contends that the primary issue for British Columbia's upcoming provincial election should be the staggering $58.5 billion projected deficit over six years, coupled with escalating debt and credit downgrades. The piece argues that Premier Eby's emphasis on the Canada-U.S. trade war serves as a diversion from the province's deepening structural fiscal crisis, highlighting internal financial governance as the critical electoral concern.",
+      "graph": [
+        "Provincial Finance",
+        "British Columbia",
+        "Election Issues",
+        "Government Debt",
+        "Fiscal Policy",
+        "Federal-Provincial Dynamics"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Critiques the austerity implications of focusing solely on deficits, advocating for investments in public services and social programs, and examining how fiscal policies impact vulnerable populations and wealth distribution."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the factual basis of the provincial fiscal projections and debt figures, and their potential implications for the province's financial health and public services."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly advocates for fiscal responsibility, transparency in government spending, and prudent economic management as the paramount issues, criticizing government overspending and the use of external factors to deflect from internal financial mismanagement."
+          }
+        },
+        "neutral": "An analysis suggests that British Columbia's provincial election should primarily address the province's projected $58.5 billion deficit and mounting debt, rather than external federal-international trade issues, given the severe fiscal challenges."
       }
     }
   ],
-  "charter": [
-    {
-      "id": "charter-1",
-      "category": "Charter",
-      "source": "Globalnews.ca",
-      "title": "Advocates Urge Federal Inquiry into Alberta and Saskatchewan Transgender Legislation",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12076294/alberta-saskatchewan-trans-laws-review-request/",
-      "summary": "LGBTQ+ advocates are calling upon the federal government to launch an inquiry into new provincial laws in Alberta and Saskatchewan concerning transgender individuals. Concerns are raised that these laws may infringe upon Charter rights related to equality and human dignity, with advocates reporting severe negative impacts, including instances of self-harm. The plea highlights a growing tension between provincial jurisdiction and federal human rights oversight, potentially leading to a constitutional challenge.",
-      "graph": ["Human Rights", "Transgender Rights", "Provincial Legislation", "Federal Oversight", "Charter of Rights and Freedoms", "Equality Rights", "Constitutional Law"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly supports the call for a federal inquiry, emphasizing the protection of vulnerable groups and the supremacy of Charter rights over provincial legislative powers, viewing the laws as discriminatory." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the legal and constitutional implications of provincial legislation on human rights, and the potential for federal intervention or judicial review to resolve jurisdictional conflicts." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize provincial autonomy in legislative matters, question federal overreach into provincial jurisdiction, or frame the debate around parental rights versus individual gender identity rights." }
-        },
-        "neutral": "LGBTQ+ advocates are requesting a federal inquiry into new Alberta and Saskatchewan laws affecting transgender individuals, citing potential infringements on Charter rights."
-      }
-    }
-  ],
+  "charter": [],
   "indigenous": [
     {
-      "id": "indigenous-1",
+      "id": "f8a07f6f1a8c454ab5d9d7c0f1c3a6b8",
+      "category": "Indigenous",
+      "source": "rabble.ca",
+      "title": "Efforts Mount to Preserve Residential School Survivor Records Amidst Impending Destruction",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://rabble.ca/podcast/what-is-reconciliation-without-truth-protecting-residential-school-survivor-records/",
+      "summary": "A critical discussion highlights the impending destruction of 38,000 residential school survivor records, emphasizing the urgency of efforts by advocates like Kimberly Murray and Connie Walker to preserve these vital documents. The debate centers on the principle that genuine reconciliation necessitates complete truth-telling, which relies on the availability and protection of these historical accounts.",
+      "graph": [
+        "Residential Schools",
+        "Truth and Reconciliation",
+        "Indigenous Rights",
+        "Historical Preservation",
+        "Colonial Legacy"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates vehemently for the preservation of all residential school records as a non-negotiable step towards truth, justice, and accountability for Indigenous peoples, viewing destruction as a further act of colonial violence."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the legal and ethical complexities of record preservation, balancing the privacy concerns of survivors with the broader imperative for historical transparency and the archival responsibilities of institutions."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May emphasize the administrative and logistical challenges of preserving such a vast volume of sensitive records, potentially prioritizing individual privacy preferences or raising questions about the scope and practicality of universal preservation."
+          }
+        },
+        "neutral": "A discussion highlights the urgent need to preserve 38,000 residential school survivor records facing destruction, underscoring their critical role in achieving truth and reconciliation."
+      }
+    },
+    {
+      "id": "e6e0d3c0b0a84e3a8f5c9e4b7c2d1e0f",
+      "category": "Indigenous",
+      "source": "rabble.ca",
+      "title": "Critique Argues National Day of Truth and Reconciliation Falls Short of Genuine Change",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://rabble.ca/indigenous/commemoration-is-not-reconciliation/",
+      "summary": "This commentary posits that the symbolic observation of the National Day of Truth and Reconciliation, while significant, does not adequately address the deeper, systemic issues of settler colonialism. It calls for moving beyond mere commemoration to enact substantive policy changes and foster a broader, more profound understanding of the historical and ongoing impacts on Indigenous peoples.",
+      "graph": [
+        "Truth and Reconciliation",
+        "Settler Colonialism",
+        "Indigenous Rights",
+        "Commemoration vs. Action",
+        "Systemic Change"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes that true reconciliation requires fundamental structural changes, land back, and resource redistribution, viewing symbolic gestures as insufficient without concrete steps to dismantle colonial systems."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Analyzes the effectiveness of existing reconciliation initiatives, identifying gaps between symbolic recognition and tangible improvements in Indigenous communities, and advocating for data-driven policy evaluation."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Acknowledges the importance of reconciliation but may argue that excessive focus on historical grievances risks undermining national unity or diverting resources from current economic development priorities, advocating for moving forward."
+          }
+        },
+        "neutral": "A commentary critiques the National Day of Truth and Reconciliation, arguing that its symbolic nature does not translate into a sufficient understanding or dismantling of settler colonialism for genuine reconciliation."
+      }
+    },
+    {
+      "id": "a0d1b2c3d4e5f6a7b8c9d0e1f2a3b4c5",
+      "category": "Indigenous",
+      "source": "rabble.ca",
+      "title": "Calls for Action Against Residential School Denialism Intensify After White Nationalist Incident",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://rabble.ca/indigenous/calls-grow-for-action-on-residential-school-denialism-after-white-nationalist-gathering-at-tkemlups-te-secwepemc-first-nation/",
+      "summary": "A white nationalist demonstration at the former Tk’emlups te Secwepemc residential school site, occurring just before the National Day of Truth and Reconciliation, has ignited urgent calls for stronger governmental and societal action against residential school denialism. The incident highlights the persistent challenge of confronting hate speech and historical revisionism directly impacting Indigenous communities and the reconciliation process.",
+      "graph": [
+        "Residential Schools",
+        "Denialism",
+        "White Nationalism",
+        "Hate Speech",
+        "Indigenous Rights",
+        "Truth and Reconciliation"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Demands legal and social accountability for residential school denialism and white nationalism, viewing these acts as violent and calling for robust anti-hate legislation and educational programs that center Indigenous truths."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the legal and policy tools available to address hate speech and historical misinformation, examining the balance between freedom of expression and the protection of vulnerable groups, and the role of law enforcement."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Condemns acts of hate and denial but may raise concerns about potential restrictions on free speech, advocating for counter-narratives and education rather than broad legislative bans, to address such incidents."
+          }
+        },
+        "neutral": "Following a white nationalist gathering at the former Tk’emlups te Secwepemc residential school, there are increased calls for decisive action against residential school denialism and hate speech."
+      }
+    },
+    {
+      "id": "b3f0e7a2c5d84f1a9b6c7d5e8f0a1b2c",
       "category": "Indigenous",
       "source": "CBC News",
-      "title": "LNG Canada Expansion Proceeds Amid Unresolved Wet'suwet'en Land Rights Concerns",
+      "title": "Prime Minister Carney Affirms Reconciliation as Unfinished Journey on National Day",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/carney-lng-canada-announcement-9.7361817?cmp=rss",
-      "summary": "The approved Phase 2 expansion of LNG Canada's Kitimat facility proceeds despite historical opposition from Wet'suwet'en hereditary chiefs regarding the Coastal GasLink pipeline's construction through their unceded territory. This highlights ongoing tensions between major resource development projects, governmental support, and Indigenous land rights, particularly where traditional governance challenges project approvals and the principle of free, prior, and informed consent.",
-      "graph": ["Indigenous Land Rights", "Resource Development", "Wet'suwet'en", "Unceded Territory", "Consultation", "Environmental Impact", "Self-Determination"],
+      "url": "https://www.cbc.ca/news/politics/national-day-truth-reconciliation-arbour-9.7363760?cmp=rss",
+      "summary": "On the sixth National Day for Truth and Reconciliation, Prime Minister Mark Carney acknowledged in Edmonton that the path to reconciliation is far from complete, emphasizing its continuous nature as a journey, not a destination. He stressed the importance of ongoing reflection, listening to Indigenous stories, and acting to address the deep and lasting harm caused by the residential school system.",
+      "graph": [
+        "Truth and Reconciliation",
+        "National Day for Truth and Reconciliation",
+        "Residential Schools",
+        "Indigenous Relations",
+        "Government Commitments"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Strongly condemns development on unceded territory without explicit consent, advocating for Indigenous self-determination, inherent rights, and environmental protection over corporate interests." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the legal and political complexities of resource development in relation to Indigenous title and rights, emphasizing the need for reconciliation and proper consultation processes." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the economic benefits of the project for Canada and the need for resource development, potentially viewing opposition as an impediment to national prosperity and job creation." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "The LNG Canada expansion continues, underscoring unresolved land rights issues with Wet'suwet'en hereditary chiefs regarding pipeline development on unceded territory."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Welcomes the Prime Minister's recognition of an unfinished journey but calls for greater urgency and bolder actions, including concrete policy implementation and resource allocation, to accelerate genuine justice and self-determination."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the Prime Minister's public statements and the government's official stance on reconciliation, assessing the alignment between rhetoric and existing policy frameworks and programs."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Acknowledges the historical significance of the day and supports efforts to move forward, while emphasizing the importance of shared responsibility and balanced approaches that promote national unity alongside addressing historical wrongs."
+          }
+        },
+        "neutral": "Prime Minister Mark Carney stated on the National Day for Truth and Reconciliation that the journey toward reconciliation remains far from complete, stressing the need for continued action and acknowledgement of the residential school legacy."
+      }
+    },
+    {
+      "id": "e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5",
+      "category": "Indigenous",
+      "source": "Slaw",
+      "title": "Professor Howard Advocates for Broadened Research in Indigenous Peoples Law and Human Rights",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://www.slaw.ca/2026/09/30/researching-beyond-the-familiar-an-interview-with-professor-seanna-howard/",
+      "summary": "Professor Seánna Howard, a leading figure in the Indigenous Peoples Law and Policy Program, outlines the necessity of diverse research strategies for international legal topics, especially those concerning Indigenous rights and human rights. She champions looking beyond conventional legal databases to incorporate sources from international organizations, treaty bodies, and Indigenous institutions, highlighting the interdisciplinary nature of this legal field.",
+      "graph": [
+        "Indigenous Law",
+        "International Human Rights Law",
+        "Legal Research Methodology",
+        "Indigenous Rights Advocacy",
+        "Legal Education"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Emphasizes the critical importance of decolonizing legal scholarship and incorporating Indigenous knowledge systems into human rights frameworks, promoting a more inclusive and equitable understanding of law."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Focuses on the development of rigorous and effective research methodologies for complex and emerging fields of law, particularly those involving international and Indigenous legal systems."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Recognizes the academic value of comprehensive legal research but may emphasize the practical challenges of integrating diverse legal sources into established common law or civil law frameworks, without necessarily endorsing specific policy outcomes."
+          }
+        },
+        "neutral": "Professor Seánna Howard discusses the importance of expanding research methodologies in international legal studies, particularly for Indigenous Peoples Law and human rights, advocating for engagement with diverse global and Indigenous sources."
       }
     }
   ],
   "criminal": [
     {
-      "id": "criminal-1",
+      "id": "1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d",
       "category": "Criminal",
       "source": "CBC News",
-      "title": "RCMP and Multiple Police Agencies Investigate Widespread Death Threats Against Muslim Schools",
+      "title": "National Spy Watchdog Reports CSIS May Have Misused Powers to Commit Offences",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/rcmp-threat-to-schools-9.7361589?cmp=rss",
-      "summary": "The RCMP, alongside several other police forces across Canada, is actively investigating a series of death threats sent to Islamic schools nationwide. The hateful communications included specific threats related to an Alberta secession referendum, mentioning 'deported or slaughtered' Muslims. Federal and municipal politicians have condemned these actions, underscoring the severity of the hate crime and its potential national security implications.",
-      "graph": ["Hate Crime", "National Security", "Law Enforcement", "Islamophobia", "Public Safety", "Threats", "Inter-agency Investigation"],
+      "url": "https://www.cbc.ca/news/politics/csis-nsira-report-9.7363320?cmp=rss",
+      "summary": "The National Security and Intelligence Review Agency (NSIRA) has released findings indicating that the Canadian Security Intelligence Service (CSIS) might have acted unlawfully by misusing its authority to commit offences during intelligence gathering in 2022 and 2023. The report highlights concerns over agents operating without proper designation or authorization, and inadequate documentation of justifications, raising significant questions about accountability and adherence to the CSIS Act.",
+      "graph": [
+        "CSIS Oversight",
+        "National Security",
+        "Intelligence Accountability",
+        "Law Enforcement Misconduct",
+        "Government Ethics",
+        "Rule of Law"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for stronger action against hate speech and Islamophobia, emphasizing protection for marginalized communities and systemic anti-racism efforts to counter extremist ideologies." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the police investigation, inter-agency cooperation, and the legal framework for addressing hate crimes and threats, ensuring due process." },
-          "right": { "label": "Conservative Context", "synthesis": "May emphasize free speech concerns while demanding strict law enforcement against all forms of threats and terrorism, potentially linking to concerns about internal security and border control." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "A multi-jurisdictional police investigation led by the RCMP is underway into death threats targeting Muslim schools across Canada, linked to extremist sentiments."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Calls for stringent oversight and accountability for national security agencies, prioritizing civil liberties, privacy rights, and transparent governance to prevent abuses of power and ensure democratic safeguards."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the findings of the oversight body, focusing on the legal and procedural non-compliance by CSIS, and the recommended improvements to internal policies and training to ensure adherence to statutory limits."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the critical need for national security capabilities but stresses that operations must always adhere to legal frameworks, advocating for immediate internal reforms to restore public confidence and operational integrity without compromising intelligence effectiveness."
+          }
+        },
+        "neutral": "Canada's intelligence watchdog, NSIRA, has reported that CSIS may have misused its authority to commit offences during intelligence operations, identifying deficiencies in legal compliance, authorization, and documentation."
       }
     },
     {
-      "id": "criminal-2",
-      "category": "Criminal",
-      "source": "CBC News",
-      "title": "FBI Issues $1M Reward for Alleged Gang Leader in B.C. Sikh Activist Assassination Case",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/goldy-brar-bishnoi-gang-most-wanted-9.7361302?cmp=rss",
-      "summary": "The FBI has announced a $1 million reward for information leading to the arrest of Satinderjeet Singh (Goldy Brar), a key lieutenant in the Lawrence Bishnoi gang, who is accused of orchestrating the 2023 assassination of Sikh activist Hardeep Singh Nijjar in Surrey, B.C. Brar has been added to the FBI's most-wanted list, intensifying a cross-border investigation that has previously strained diplomatic relations between Canada and India.",
-      "graph": ["International Crime", "Organized Crime", "Assassination", "Law Enforcement Cooperation", "Diplomatic Relations", "Extortion", "Fugitive Pursuit"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Highlights concerns about transnational crime and the need for international cooperation, while also monitoring implications for civil liberties in extensive cross-border investigations." },
-          "center": { "label": "Procedural Context", "synthesis": "Focuses on the investigative efforts of law enforcement agencies (FBI, RCMP), the legal charges, and the complex process of international criminal pursuit and extradition." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes the importance of apprehending dangerous criminals and maintaining national security and law and order, potentially criticizing perceived laxity in enforcement or border control." }
-        },
-        "neutral": "The FBI has offered a $1 million reward for Goldy Brar, an alleged gang leader implicated in the 2023 assassination of a Sikh activist in Surrey, B.C., escalating a cross-border investigation."
-      }
-    },
-    {
-      "id": "criminal-3",
-      "category": "Criminal",
-      "source": "Globalnews.ca",
-      "title": "National Security Watchdog Criticizes CSIS's Documentation of Authorized Illegal Activities",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://globalnews.ca/news/12077321/csis-nsira-watchdog-report-2026/",
-      "summary": "The National Security and Intelligence Review Agency (NSIRA) has issued a warning to the Canadian Security Intelligence Service (CSIS), criticizing its insufficient documentation of justifications for authorized illegal activities. This oversight from the federal intelligence watchdog highlights ongoing concerns about accountability and transparency within Canada's national security apparatus, ensuring that such activities are properly justified and recorded according to legal requirements.",
-      "graph": ["National Security", "Intelligence Oversight", "Government Accountability", "Rule of Law", "CSIS", "Transparency", "Legal Compliance"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Calls for increased civilian oversight and stricter controls on intelligence agencies to prevent abuses of power and protect civil liberties, advocating for robust accountability frameworks." },
-          "center": { "label": "Procedural Context", "synthesis": "Emphasizes the importance of proper process, documentation, and oversight to maintain the legitimacy and accountability of national security operations within legal frameworks." },
-          "right": { "label": "Conservative Context", "synthesis": "Supports the operational necessities of intelligence agencies to protect national security, while acknowledging the need for sufficient, but not overly restrictive, oversight to maintain public trust." }
-        },
-        "neutral": "Canada's national security watchdog, NSIRA, has criticized CSIS for inadequate documentation of its authorized illegal activities, raising concerns about accountability."
-      }
-    },
-    {
-      "id": "criminal-4",
+      "id": "7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e",
       "category": "Criminal",
       "source": "National Post",
-      "title": "Public Safety Warning Issued for High-Risk Sex Offender Resettling in Surrey, B.C.",
+      "title": "B.C. Man Receives Two-Year Sentence for Manslaughter After Hiding Victim's Body",
       "citation": "June 2026 Tracking Window",
-      "url": "https://nationalpost.com/news/dangerous-high-risk-sex-offender-to-live-in-surrey-b-c-police-say-in-a-warning",
-      "summary": "Surrey, B.C. police have issued a public safety warning regarding Leonard Michael Ramstead, a dangerous high-risk sex offender, who is relocating to the area. Ramstead is subject to a 10-year long-term supervision order and various bail conditions, prompting police to inform the community of his presence to mitigate potential risks and ensure public safety.",
-      "graph": ["Public Safety", "Sex Offenders", "Community Notification", "Criminal Justice", "Recidivism", "Police Operations"],
+      "url": "https://nationalpost.com/news/early-guilty-plea-helps-earn-two-year-sentence-for-b-c-man-who-buried-exs-mother-in-surreptitious-grave-after-killing-her",
+      "summary": "Carson Saul MacKay in British Columbia has received a two-year sentence for manslaughter, which was influenced by his early guilty plea. The case involved the killing of Jodine Millar, his ex-partner's mother, and his subsequent attempt to conceal her body in a B.C. forest, highlighting the judicial consideration of timely admissions of guilt in sentencing.",
+      "graph": [
+        "Manslaughter",
+        "Sentencing",
+        "Criminal Justice",
+        "Guilty Plea",
+        "British Columbia",
+        "Homicide"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Focuses on the need for effective rehabilitation programs and support systems for offenders to reduce recidivism, while acknowledging the importance of community safety." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the procedural aspects of offender management, police warnings, and the balance between public safety and individual reintegration under legal supervision." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes punitive measures, strict monitoring of high-risk offenders, and prioritizing community protection above all else, often advocating for harsher penalties." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Surrey, B.C. police have issued a public safety warning regarding a dangerous high-risk sex offender relocating to the community, subject to a long-term supervision order."
-      }
-    },
-    {
-      "id": "criminal-5",
-      "category": "Criminal",
-      "source": "Slaw",
-      "title": "Ontario Law Society Redefines Mental Illness Role in Professional Misconduct for Lawyers",
-      "citation": "June 2026 Tracking Window",
-      "url": "https://www.slaw.ca/2026/09/29/the-role-of-mental-illness-in-lawyer-regulation-in-ontario/",
-      "summary": "Recent decisions by the Ontario Law Society Tribunal's Hearing Panel have re-evaluated the role of mental illness in cases of lawyer professional misconduct. The panel introduced a 'unified approach,' clarifying that while mental illness can be a factor, it is not an invariable defence, particularly in severe cases or where misconduct is likely to continue. This nuanced interpretation distinguishes previous jurisprudence, asserting that regulatory bodies can find misconduct and revoke licenses even when illness is a but-for cause.",
-      "graph": ["Professional Regulation", "Mental Health Law", "Legal Ethics", "Discipline Tribunal", "Professional Misconduct", "Lawyer Accountability"],
-      "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
         "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "Advocates for compassionate approaches to mental illness within professional regulation, emphasizing support and rehabilitation for legal professionals while ensuring public safety." },
-          "center": { "label": "Procedural Context", "synthesis": "Examines the legal analysis of the tribunal's decision, focusing on how it reinterprets precedents and clarifies the framework for assessing mental illness in professional disciplinary actions." },
-          "right": { "label": "Conservative Context", "synthesis": "Emphasizes maintaining the highest standards of professional conduct and public trust in the legal profession, ensuring accountability for misconduct regardless of underlying factors." }
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Examines the role of restorative justice and the factors influencing sentencing, potentially raising questions about the adequacy of the sentence in addressing systemic issues or providing closure for victims' families."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the judicial process, focusing on the legal precedent for sentencing in manslaughter cases, particularly the impact of an early guilty plea on reducing incarceration time."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "May scrutinize the length of the sentence, advocating for tougher penalties for violent crimes, while acknowledging the legal benefits of guilty pleas in streamlining the justice system and reducing court costs."
+          }
         },
-        "neutral": "An Ontario Law Society Tribunal has redefined how mental illness impacts professional misconduct findings for lawyers, holding it is not an absolute defense, even if a direct cause."
+        "neutral": "A British Columbia man, Carson Saul MacKay, received a two-year sentence for manslaughter, partly due to an early guilty plea, after killing and attempting to hide the body of his ex-partner's mother."
       }
     }
   ],
   "immigration": [
     {
-      "id": "immigration-1",
+      "id": "f9e8d7c6b5a41b2c3d4e5f6a7b8c9d0e",
       "category": "Immigration",
-      "source": "CBC News",
-      "title": "Statistics Canada Revises 2025 Population Data, Confirming Growth Instead of Decline",
+      "source": "National Post",
+      "title": "Immigration and Refugee Board Rejects Sharia Law 'Religious Divorce' Claim",
       "citation": "June 2026 Tracking Window",
-      "url": "https://www.cbc.ca/news/politics/statistics-canada-population-growth-9.7361422?cmp=rss",
-      "summary": "Statistics Canada has revised its 2025 population estimates, correcting an earlier preliminary report that suggested the country experienced its first population decrease since Confederation. The updated data now indicates a slight population increase of 280,810 people. This revision is significant in the context of recent federal policy shifts under both former Prime Minister Trudeau and current Prime Minister Carney, which aim to reduce the intake of both permanent and temporary residents.",
-      "graph": ["Population Growth", "Immigration Policy", "Demographics", "Federal Policy", "Statistics Canada", "Temporary Residents"],
+      "url": "https://nationalpost.com/news/canada/sharia-law-religious-divorce-fails-to-fly-with-immigration-and-refugee-board",
+      "summary": "The Immigration and Refugee Board of Canada rejected a claim involving a \"religious divorce\" conducted under Sharia law. The ruling suggests the board's scrutiny of religious legal interpretations in immigration contexts, particularly when they may not align with Canadian legal standards or procedural expectations, underscoring complexities at the intersection of religious and civil law in immigration cases.",
+      "graph": [
+        "Immigration Law",
+        "Refugee Claims",
+        "Religious Law",
+        "Sharia Law",
+        "Canadian Legal System",
+        "Family Law"
+      ],
       "spectrum": {
-        "baseline": { "left": 33, "center": 34, "right": 33 },
-        "zones": {
-          "left": { "label": "Progressive Context", "synthesis": "May advocate for continued robust immigration to support economic growth and diversity, while examining the social integration of new residents and their contributions." },
-          "center": { "label": "Procedural Context", "synthesis": "Reports on the statistical methodology and the impact of federal policy adjustments on demographic trends, emphasizing data accuracy and policy efficacy." },
-          "right": { "label": "Conservative Context", "synthesis": "Often raises concerns about the pace and capacity of immigration, advocating for more controlled or lower immigration targets to manage infrastructure and social services pressures." }
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
         },
-        "neutral": "Statistics Canada has revised its 2025 population figures, indicating a slight increase rather than the previously estimated decline, relevant to federal immigration policy adjustments."
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Advocates for cultural sensitivity and understanding of diverse legal traditions in immigration proceedings, while upholding the supremacy of Canadian human rights and equality laws."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Examines the legal basis for the Immigration and Refugee Board's decision, focusing on the interpretation of Canadian immigration and family law in relation to foreign religious legal practices."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Emphasizes the need for consistent application of Canadian law and secular principles in all immigration matters, ensuring that religious legal interpretations do not supersede national legal standards, especially concerning gender equality."
+          }
+        },
+        "neutral": "The Immigration and Refugee Board of Canada has rejected a claim based on a 'religious divorce' under Sharia law, highlighting the complex intersection of religious and civil legal systems in Canadian immigration proceedings."
+      }
+    },
+    {
+      "id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "category": "Immigration",
+      "source": "National Post",
+      "title": "Federal Court Dismisses Refugee Claims Due to AI-Generated Legal Arguments",
+      "citation": "June 2026 Tracking Window",
+      "url": "https://nationalpost.com/news/refugee-claimants-strike-out-after-federal-court-says-their-legal-claim-is-ai-fakery",
+      "summary": "In a landmark decision, the Federal Court dismissed several refugee claims after discovering that the submitted legal arguments were fabricated using artificial intelligence. The judge issued a stern warning about the \"pernicious threat\" of AI's indiscriminate use in legal drafting, emphasizing that such practices compromise the integrity of the judicial process and the factual basis of immigration proceedings.",
+      "graph": [
+        "Refugee Law",
+        "AI in Legal Practice",
+        "Judicial Integrity",
+        "Immigration Fraud",
+        "Legal Ethics",
+        "Federal Court"
+      ],
+      "spectrum": {
+        "baseline": {
+          "left": 33,
+          "center": 34,
+          "right": 33
+        },
+        "zones": {
+          "left": {
+            "label": "Progressive Context",
+            "synthesis": "Raises concerns about access to justice for vulnerable refugee claimants who may lack legal resources, while advocating for ethical guidelines for AI use in law and ensuring fair process despite technological challenges."
+          },
+          "center": {
+            "label": "Procedural Context",
+            "synthesis": "Reports on the judicial system's adaptation to emerging technologies, analyzing the precedent set by the ruling regarding AI-generated legal content and its implications for legal standards and professional conduct."
+          },
+          "right": {
+            "label": "Conservative Context",
+            "synthesis": "Strongly supports the court's decision to reject fraudulent claims and uphold judicial integrity, advocating for strict measures against the misuse of technology to exploit the immigration system."
+          }
+        },
+        "neutral": "The Federal Court has dismissed multiple refugee claims after determining their legal arguments were fabricated by AI, prompting a judicial warning about AI's threat to the integrity of legal processes."
       }
     }
   ]
